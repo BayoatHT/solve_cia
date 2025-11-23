@@ -1,6 +1,7 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,10 +9,26 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_natural_gas_exports(pass_data: dict) -> dict:
-    """Parse natural gas exports from CIA Energy section."""
+    """Parse natural gas exports from CIA Energy section with separated value components."""
     result = {}
     if not pass_data or not isinstance(pass_data, dict):
         return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                parsed = parse_energy_value(text)
+                if parsed['value'] is not None:
+                    result['nat_gas_exports_value'] = parsed['value']
+                if parsed['unit']:
+                    result['nat_gas_exports_unit'] = parsed['unit']
+                if parsed['year']:
+                    result['nat_gas_exports_year'] = parsed['year']
+                if parsed['is_estimate']:
+                    result['nat_gas_exports_is_estimate'] = parsed['is_estimate']
+    except Exception as e:
+        logging.error(f"Error parsing natural_gas_exports: {e}")
+    return result
     try:
         if 'text' in pass_data:
             text = pass_data['text']

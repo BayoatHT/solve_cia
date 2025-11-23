@@ -1,6 +1,7 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,24 +9,32 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_carbon_dioxide_emissions(carbon_data: dict) -> dict:
-    """Parse carbon dioxide emissions from CIA Energy section."""
+    """Parse carbon dioxide emissions from CIA Energy section with separated value components."""
     result = {}
     if not carbon_data or not isinstance(carbon_data, dict):
         return result
     try:
         field_mappings = {
-            'total emissions': 'carbon_total_emissions',
-            'from coal and metallurgical coke': 'carbon_coal_metallurgical_coke',
-            'from petroleum and other liquids': 'carbon_petroleum_other_liquids',
-            'from consumed natural gas': 'carbon_consumed_natural_gas',
+            'total emissions': 'carbon_total',
+            'from coal and metallurgical coke': 'carbon_coal',
+            'from petroleum and other liquids': 'carbon_petroleum',
+            'from consumed natural gas': 'carbon_natural_gas',
         }
-        for cia_key, output_key in field_mappings.items():
+        for cia_key, output_prefix in field_mappings.items():
             if cia_key in carbon_data:
                 field_data = carbon_data[cia_key]
                 if isinstance(field_data, dict) and 'text' in field_data:
                     text = field_data['text']
                     if text and isinstance(text, str):
-                        result[output_key] = clean_text(text)
+                        parsed = parse_energy_value(text)
+                        if parsed['value'] is not None:
+                            result[f'{output_prefix}_value'] = parsed['value']
+                        if parsed['unit']:
+                            result[f'{output_prefix}_unit'] = parsed['unit']
+                        if parsed['year']:
+                            result[f'{output_prefix}_year'] = parsed['year']
+                        if parsed['is_estimate']:
+                            result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
         if 'note' in carbon_data:
             note_data = carbon_data['note']
             if isinstance(note_data, dict) and 'text' in note_data:

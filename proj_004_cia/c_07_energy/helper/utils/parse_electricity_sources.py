@@ -1,6 +1,7 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,10 +9,47 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_electricity_sources(electricity_sources_data: dict) -> dict:
-    """Parse electricity generation sources from CIA Energy section."""
+    """Parse electricity sources from CIA Energy section with separated value components."""
     result = {}
     if not electricity_sources_data or not isinstance(electricity_sources_data, dict):
         return result
+    try:
+        field_mappings = {
+            'fossil fuels': 'elec_fossil',
+            'nuclear': 'elec_nuclear',
+            'solar': 'elec_solar',
+            'wind': 'elec_wind',
+            'hydroelectricity': 'elec_hydro',
+            'geothermal': 'elec_geothermal',
+            'biomass and waste': 'elec_biomass',
+            'tide and wave': 'elec_tide_wave'
+        }
+        for cia_key, output_prefix in field_mappings.items():
+            if cia_key in electricity_sources_data:
+                field_data = electricity_sources_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        parsed = parse_energy_value(text)
+                        if parsed['value'] is not None:
+                            result[f'{output_prefix}_value'] = parsed['value']
+                        if parsed['unit']:
+                            result[f'{output_prefix}_unit'] = parsed['unit']
+                        if parsed['year']:
+                            result[f'{output_prefix}_year'] = parsed['year']
+                        if parsed['is_estimate']:
+                            result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
+        if 'note' in electricity_sources_data:
+            note_data = electricity_sources_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['electricity_sources_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['electricity_sources_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing electricity_sources: {e}")
+    return result
     try:
         field_mappings = {
             'fossil fuels': 'electricity_generation_fossil_fuels',

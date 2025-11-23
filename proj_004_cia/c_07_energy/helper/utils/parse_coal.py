@@ -1,6 +1,7 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,10 +9,44 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_coal(coal_data: dict) -> dict:
-    """Parse coal data from CIA Energy section."""
+    """Parse coal from CIA Energy section with separated value components."""
     result = {}
     if not coal_data or not isinstance(coal_data, dict):
         return result
+    try:
+        field_mappings = {
+            'production': 'coal_production',
+            'consumption': 'coal_consumption',
+            'exports': 'coal_exports',
+            'imports': 'coal_imports',
+            'proven reserves': 'coal_reserves'
+        }
+        for cia_key, output_prefix in field_mappings.items():
+            if cia_key in coal_data:
+                field_data = coal_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        parsed = parse_energy_value(text)
+                        if parsed['value'] is not None:
+                            result[f'{output_prefix}_value'] = parsed['value']
+                        if parsed['unit']:
+                            result[f'{output_prefix}_unit'] = parsed['unit']
+                        if parsed['year']:
+                            result[f'{output_prefix}_year'] = parsed['year']
+                        if parsed['is_estimate']:
+                            result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
+        if 'note' in coal_data:
+            note_data = coal_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['coal_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['coal_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing coal: {e}")
+    return result
     try:
         field_mappings = {
             'production': 'coal_production',
