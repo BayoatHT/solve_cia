@@ -28,7 +28,8 @@ def to_python_format(data: Any) -> str:
 def extract_feature(
     parser_func: Callable,
     extractor_func: Callable,
-    feature_name: str
+    feature_name: str,
+    verbose: bool = False
 ) -> Dict[str, List]:
     """
     Extract a feature array for all countries.
@@ -37,6 +38,7 @@ def extract_feature(
         parser_func: Function to parse raw data (e.g., return_economy_data)
         extractor_func: Function to extract the specific array from parsed data
         feature_name: Name of the feature for logging
+        verbose: If True, print progress and errors
 
     Returns:
         Dictionary with ISO3 codes as keys and arrays as values
@@ -54,7 +56,7 @@ def extract_feature(
             errors.append(f"{iso3Code}: {str(e)}")
             results[iso3Code] = []
 
-    if errors:
+    if verbose and errors:
         print(f"Errors extracting {feature_name}: {len(errors)}")
         for err in errors[:3]:
             print(f"  - {err}")
@@ -110,23 +112,38 @@ def run_extraction(
     parser_func: Callable,
     extractor_func: Callable,
     feature_name: str,
-    output_dir: str = None
+    output_dir: str = None,
+    save: bool = True,
+    verbose: bool = True
 ) -> Dict[str, List]:
     """
     Run full extraction pipeline for a feature.
 
-    Returns the extracted data dictionary.
+    Args:
+        parser_func: Parser function (e.g., return_economy_data)
+        extractor_func: Function to extract specific array from parsed data
+        feature_name: Name of the feature
+        output_dir: Output directory for saving (defaults to _outputs/)
+        save: If True, save to file
+        verbose: If True, print progress
+
+    Returns:
+        Dictionary with ISO3 codes as keys and arrays as values
     """
-    print(f"Extracting: {feature_name}")
-    print("-" * 50)
+    if verbose:
+        print(f"Extracting: {feature_name}")
+        print("-" * 50)
 
-    data = extract_feature(parser_func, extractor_func, feature_name)
+    data = extract_feature(parser_func, extractor_func, feature_name, verbose=verbose)
 
-    non_empty = sum(1 for v in data.values() if v)
-    print(f"Countries processed: {len(data)}")
-    print(f"Countries with data: {non_empty}")
+    if verbose:
+        non_empty = sum(1 for v in data.values() if v)
+        print(f"Countries processed: {len(data)}")
+        print(f"Countries with data: {non_empty}")
 
-    filepath = save_feature(data, feature_name, output_dir)
-    print(f"Saved to: {filepath}")
+    if save:
+        filepath = save_feature(data, feature_name, output_dir)
+        if verbose:
+            print(f"Saved to: {filepath}")
 
     return data
