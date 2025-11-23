@@ -13,6 +13,7 @@ import json
 import os
 # get_communications ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_08_communications.helper.get_communications import get_communications
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
@@ -36,7 +37,7 @@ def return_communications_data(
     if iso3Code == 'WLD':
         cia_pack['world_communications'] = get_communications(
             data=data, info='world_communications', iso3Code=iso3Code)
-        return cia_pack
+        return clean_output(cia_pack)
 
     # Conditional inclusion for individual countries
     if iso3Code != 'WLD':
@@ -69,7 +70,7 @@ def return_communications_data(
         pass
 
     # Return the compiled communications data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
