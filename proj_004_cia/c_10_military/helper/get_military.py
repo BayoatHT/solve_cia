@@ -49,6 +49,9 @@ from proj_004_cia.c_10_military.helper.utils.parse_military_expenditures import 
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+from proj_004_cia.c_10_military.helper.utils.parse_military_world import parse_military_world
+
+
 def get_military(data=None, info=None, iso3Code=None):
 
     # 0
@@ -57,6 +60,10 @@ def get_military(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     mil_data = data.get("Military and Security", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return comprehensive World military data
+    if info == 'world_military' and iso3Code == 'WLD':
+        return parse_military_world(mil_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////

@@ -33,7 +33,13 @@ def return_transportation_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
-    # Conditional inclusion based on iso3Code
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_transportation'] = get_transportation(
+            data=data, info='world_transportation', iso3Code=iso3Code)
+        return cia_pack
+
+    # Conditional inclusion for individual countries
     if iso3Code != 'WLD':
         # Note: 'airports'
         cia_pack['airports'] = get_transportation(

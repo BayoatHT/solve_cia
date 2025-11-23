@@ -84,6 +84,9 @@ from proj_004_cia.c_09_transportation.helper.utils.parse_waterways import parse_
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+from proj_004_cia.c_09_transportation.helper.utils.parse_transportation_world import parse_transportation_world
+
+
 def get_transportation(data=None, info=None, iso3Code=None):
 
     # 0
@@ -92,6 +95,10 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     transport_data = data.get("Transportation", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return comprehensive World transportation data
+    if info == 'world_transportation' and iso3Code == 'WLD':
+        return parse_transportation_world(transport_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////

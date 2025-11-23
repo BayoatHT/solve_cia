@@ -32,7 +32,13 @@ def return_communications_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
-    # Conditional inclusion based on iso3Code
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_communications'] = get_communications(
+            data=data, info='world_communications', iso3Code=iso3Code)
+        return cia_pack
+
+    # Conditional inclusion for individual countries
     if iso3Code != 'WLD':
         # Note: 'broadband_fixed'
         cia_pack['broadband_fixed'] = get_communications(

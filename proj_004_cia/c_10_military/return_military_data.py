@@ -31,6 +31,12 @@ def return_military_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_military'] = get_military(
+            data=data, info='world_military', iso3Code=iso3Code)
+        return cia_pack
+
     # Note: 'military_note'
     cia_pack['military_note'] = get_military(
         data=data, info='military_note', iso3Code=iso3Code)

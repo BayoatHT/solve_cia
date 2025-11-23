@@ -52,6 +52,9 @@ from proj_004_cia.c_08_communications.helper.utils.parse_phone_mobile_cellular i
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+from proj_004_cia.c_08_communications.helper.utils.parse_communications_world import parse_communications_world
+
+
 def get_communications(data=None, info=None, iso3Code=None):
 
     # 0
@@ -60,6 +63,10 @@ def get_communications(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     comms_data = data.get("Communications", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return comprehensive World communications data
+    if info == 'world_communications' and iso3Code == 'WLD':
+        return parse_communications_world(comms_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////

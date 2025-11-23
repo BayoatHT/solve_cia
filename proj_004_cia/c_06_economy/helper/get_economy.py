@@ -177,6 +177,9 @@ from proj_004_cia.c_06_economy.helper.utils.parse_youth_unemployment_rate import
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+from proj_004_cia.c_06_economy.helper.utils.parse_economy_world import parse_economy_world
+
+
 def get_economy(data=None, info=None, iso3Code=None):
 
     # 0
@@ -185,6 +188,10 @@ def get_economy(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     eco_data = data.get("Economy", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return comprehensive World economy data
+    if info == 'world_economy' and iso3Code == 'WLD':
+        return parse_economy_world(eco_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
