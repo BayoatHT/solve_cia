@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_broadband_media(broadband_media_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse broadcast media from CIA Communications section."""
     result = {}
-
+    if not broadband_media_data or not isinstance(broadband_media_data, dict):
+        return result
+    try:
+        if 'text' in broadband_media_data:
+            text = broadband_media_data['text']
+            if text and isinstance(text, str):
+                result['broadcast_media'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing broadband_media: {e}")
     return result
 
 

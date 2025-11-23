@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_communications_note(communications_note_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse communications note from CIA Communications section."""
     result = {}
-
+    if not communications_note_data or not isinstance(communications_note_data, dict):
+        return result
+    try:
+        if 'text' in communications_note_data:
+            text = communications_note_data['text']
+            if text and isinstance(text, str):
+                result['communications_note'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing communications_note: {e}")
     return result
 
 

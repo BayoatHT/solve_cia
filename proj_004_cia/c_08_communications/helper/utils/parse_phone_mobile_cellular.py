@@ -8,12 +8,32 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_phone_mobile_cellular(mobile_cellular_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse mobile cellular telephones from CIA Communications section."""
     result = {}
-
+    if not mobile_cellular_data or not isinstance(mobile_cellular_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'total subscriptions': 'mobile_phone_total_subs',
+            'subscriptions per 100 inhabitants': 'mobile_phone_subs_per_100',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in mobile_cellular_data:
+                field_data = mobile_cellular_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+        if 'note' in mobile_cellular_data:
+            note_data = mobile_cellular_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['mobile_phone_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['mobile_phone_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing phone_mobile_cellular: {e}")
     return result
 
 

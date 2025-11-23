@@ -8,12 +8,32 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_internet_users(internet_users_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse internet users from CIA Communications section."""
     result = {}
-
+    if not internet_users_data or not isinstance(internet_users_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'total': 'internet_users_total',
+            'percent of population': 'internet_users_percent',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in internet_users_data:
+                field_data = internet_users_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+        if 'note' in internet_users_data:
+            note_data = internet_users_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['internet_users_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['internet_users_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing internet_users: {e}")
     return result
 
 
