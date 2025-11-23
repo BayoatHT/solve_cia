@@ -28,21 +28,26 @@ def parse_exports_commodities(pass_data: dict, iso3Code: str = None) -> dict:
     text = pass_data.get("text", "")
     if text:
         # Check for year in parentheses at the end of the text
-        match = re.search(r"\((\d{4})\)$", text)
+        # Handle formats like "(2022)", "(2012 est.)", or no year at all
+        match = re.search(r"\((\d{4})(?:\s*est\.?)?\)\s*$", text)
         if match:
-            # Extract and set the year
-            result["exports_commodities"] = {
-                "date": int(match.group(1))
-            }
+            year = int(match.group(1))
             # Remove the year from the main text
             commodities_text = text[:match.start()].strip()
         else:
+            year = None
             commodities_text = text
 
         # Split the remaining text by commas to get commodities list
         commodities_list = [commodity.strip() for commodity in commodities_text.split(
             ",") if commodity.strip()]
-        result["exports_commodities"]["commodities"] = commodities_list
+
+        # Build the result dict (always create the dict first)
+        result["exports_commodities"] = {
+            "commodities": commodities_list
+        }
+        if year:
+            result["exports_commodities"]["date"] = year
 
     return result
 
