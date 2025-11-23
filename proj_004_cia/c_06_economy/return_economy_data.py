@@ -13,6 +13,7 @@ import json
 import os
 # get_economy ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_06_economy.helper.get_economy import get_economy
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
 # --------------------------------------------------------------------------------------------------------------------
@@ -34,7 +35,7 @@ def return_economy_data(
     if iso3Code == 'WLD':
         cia_pack['world_economy'] = get_economy(
             data=data, info='world_economy', iso3Code=iso3Code)
-        return cia_pack
+        return clean_output(cia_pack)
 
     # Note: 'agricultural_products'
     cia_pack['agricultural_products'] = get_economy(
@@ -122,7 +123,7 @@ def return_economy_data(
         data=data, info='youth_unemployment_rate', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

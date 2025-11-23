@@ -13,6 +13,7 @@ import json
 import os
 # get_issues ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_13_issues.helper.get_issues import get_issues
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
 # ------------------------------------------------------------------------------------------------------------------
@@ -35,7 +36,7 @@ def return_issues_data(
     if iso3Code == 'WLD':
         cia_pack['world_issues'] = get_issues(
             data=data, info='world_issues', iso3Code=iso3Code)
-        return cia_pack
+        return clean_output(cia_pack)
 
     # Conditional inclusion for individual countries
 
@@ -53,7 +54,7 @@ def return_issues_data(
         data=data, info='trafficking', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

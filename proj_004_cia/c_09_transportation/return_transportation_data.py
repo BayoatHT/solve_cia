@@ -13,6 +13,7 @@ import json
 import os
 # get_transportation ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_09_transportation.helper.get_transportation import get_transportation
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -37,7 +38,7 @@ def return_transportation_data(
     if iso3Code == 'WLD':
         cia_pack['world_transportation'] = get_transportation(
             data=data, info='world_transportation', iso3Code=iso3Code)
-        return cia_pack
+        return clean_output(cia_pack)
 
     # Conditional inclusion for individual countries
     if iso3Code != 'WLD':
@@ -88,7 +89,7 @@ def return_transportation_data(
         pass
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

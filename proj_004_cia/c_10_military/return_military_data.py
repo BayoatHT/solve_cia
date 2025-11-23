@@ -13,6 +13,7 @@ import json
 import os
 # get_military ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_10_military.helper.get_military import get_military
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
 # ------------------------------------------------------------------------------------------------------------------
@@ -35,7 +36,7 @@ def return_military_data(
     if iso3Code == 'WLD':
         cia_pack['world_military'] = get_military(
             data=data, info='world_military', iso3Code=iso3Code)
-        return cia_pack
+        return clean_output(cia_pack)
 
     # Note: 'military_note'
     cia_pack['military_note'] = get_military(
@@ -60,7 +61,7 @@ def return_military_data(
         data=data, info='military_age', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -13,6 +13,7 @@ import json
 import os
 # get_government ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_05_government.helper.get_government import get_government
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
 # ------------------------------------------------------------------------------------------------------------------
@@ -122,7 +123,7 @@ def return_government_data(
         pass
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

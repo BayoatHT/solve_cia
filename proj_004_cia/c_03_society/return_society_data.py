@@ -13,6 +13,7 @@ import json
 import os
 # get_society  ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_03_society.helper.get_society import get_society
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 ######################################################################################################################
 #   CORE FUNCTION
@@ -161,8 +162,8 @@ def return_society_data(
         # Note: ''
         pass
 
-    # Return the compiled geography data
-    return cia_pack
+    # Return the compiled geography data (cleaned of HTML entities)
+    return clean_output(cia_pack)
 
 
 ######################################################################################################################

@@ -13,6 +13,7 @@ import json
 import os
 # get_energy ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_07_energy.helper.get_energy import get_energy
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
@@ -135,7 +136,7 @@ def return_energy_data(
         pass
 
     # Return the compiled energy data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
