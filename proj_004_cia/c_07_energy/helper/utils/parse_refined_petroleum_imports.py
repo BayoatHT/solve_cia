@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_refined_petroleum_imports(pass_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse refined petroleum imports from CIA Energy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['refined_petroleum_imports'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing refined_petroleum_imports: {e}")
     return result
 
 

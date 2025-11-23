@@ -11,12 +11,21 @@ def parse_political_structure(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse political structure from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['political_structure'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['political_structure_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing political_structure: {e}")
     return result
 
 

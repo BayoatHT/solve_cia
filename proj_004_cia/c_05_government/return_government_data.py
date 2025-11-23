@@ -1,6 +1,6 @@
 '''
 #   PURPOSE OF THIS FILE
-    >>> RETURN A DICTIONARY OF GEOGRAPHY INFORMATION FROM THE CIA WORLD FACTBOOK
+    >>> RETURN A DICTIONARY OF GOVERNMENT INFORMATION FROM THE CIA WORLD FACTBOOK
 '''
 
 
@@ -51,9 +51,9 @@ def return_government_data(
         # Note: 'dependency_status'
         cia_pack['dependency_status'] = get_government(
             data=data, info='dependency_status', iso3Code=iso3Code)
-        # Note: 'dependency_areas'
-        cia_pack['dependency_areas'] = get_government(
-            data=data, info='dependency_areas', iso3Code=iso3Code)
+        # Note: 'dependent_areas'
+        cia_pack['dependent_areas'] = get_government(
+            data=data, info='dependent_areas', iso3Code=iso3Code)
         # Note: 'diplomatic_representation_from_us'
         cia_pack['diplomatic_representation_from_us'] = get_government(
             data=data, info='diplomatic_representation_from_us', iso3Code=iso3Code)
@@ -130,9 +130,13 @@ def return_government_data(
 # ---------------------------------------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
+    import platform
     country = False
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

@@ -1,6 +1,6 @@
 '''
 #   PURPOSE OF THIS FILE
-    >>> RETURN A DICTIONARY OF GEOGRAPHY INFORMATION FROM THE CIA WORLD FACTBOOK
+    >>> RETURN A DICTIONARY OF ENERGY INFORMATION FROM THE CIA WORLD FACTBOOK
 '''
 
 
@@ -76,9 +76,9 @@ def return_energy_data(
         # Note: 'electricity_imports'
         cia_pack['electricity_imports'] = get_energy(
             data=data, info='electricity_imports', iso3Code=iso3Code)
-        # Note: 'electricity_imports'
-        cia_pack['electricity_imports'] = get_energy(
-            data=data, info='electricity_imports', iso3Code=iso3Code)
+        # Note: 'electricity_from_other_renewable'
+        cia_pack['electricity_from_other_renewable'] = get_energy(
+            data=data, info='electricity_from_other_renewable', iso3Code=iso3Code)
         # Note: 'electricity_generating_capacity'
         cia_pack['electricity_generating_capacity'] = get_energy(
             data=data, info='electricity_generating_capacity', iso3Code=iso3Code)
@@ -115,9 +115,9 @@ def return_energy_data(
         # Note: 'nuclear_energy'
         cia_pack['nuclear_energy'] = get_energy(
             data=data, info='nuclear_energy', iso3Code=iso3Code)
-        # Note: 'parse_petroleum'
-        cia_pack['parse_petroleum'] = get_energy(
-            data=data, info='parse_petroleum', iso3Code=iso3Code)
+        # Note: 'petroleum'
+        cia_pack['petroleum'] = get_energy(
+            data=data, info='petroleum', iso3Code=iso3Code)
         # Note: 'refined_petroleum_consumption'
         cia_pack['refined_petroleum_consumption'] = get_energy(
             data=data, info='refined_petroleum_consumption', iso3Code=iso3Code)
@@ -134,7 +134,7 @@ def return_energy_data(
         # Note: ''
         pass
 
-    # Return the compiled geography data
+    # Return the compiled energy data
     return cia_pack
 
 
@@ -143,9 +143,13 @@ def return_energy_data(
 # ---------------------------------------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
+    import platform
     country = False
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

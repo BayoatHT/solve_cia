@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_electricity_from_nuclear(pass_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse electricity from nuclear from CIA Energy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['electricity_from_nuclear'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing electricity_from_nuclear: {e}")
     return result
 
 

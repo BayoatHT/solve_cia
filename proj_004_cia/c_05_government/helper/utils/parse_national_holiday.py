@@ -12,10 +12,38 @@ def parse_national_holiday(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse national holiday data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing national holiday data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed national holiday information
     """
-
     result = {}
+
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['national_holiday_description'] = clean_text(text)
+
+                # Try to extract date pattern (e.g., "4 July", "14 July")
+                date_match = re.search(r'(\d{1,2}\s+\w+)', text)
+                if date_match:
+                    result['national_holiday_date'] = date_match.group(1)
+
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['national_holiday_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing national holiday: {e}")
 
     return result
 

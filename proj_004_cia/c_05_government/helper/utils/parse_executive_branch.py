@@ -12,10 +12,46 @@ def parse_executive_branch(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse executive branch data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing executive branch data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed executive branch information
     """
-
     result = {}
+
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        field_mappings = {
+            'chief of state': 'chief_of_state',
+            'head of government': 'head_of_government',
+            'cabinet': 'cabinet',
+            'elections/appointments': 'elections_appointments',
+            'election results': 'election_results',
+        }
+
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in test_data:
+                field_data = test_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+                elif isinstance(field_data, str) and field_data.strip():
+                    result[output_key] = clean_text(field_data)
+
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['executive_branch_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing executive branch: {e}")
 
     return result
 

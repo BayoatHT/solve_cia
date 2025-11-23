@@ -11,12 +11,30 @@ def parse_national_anthem(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse national anthem from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'name': 'anthem_name',
+            'lyrics/music': 'anthem_lyrics_music',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in test_data:
+                field_data = test_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+                elif isinstance(field_data, str) and field_data.strip():
+                    result[output_key] = clean_text(field_data)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['national_anthem_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing national_anthem: {e}")
     return result
 
 

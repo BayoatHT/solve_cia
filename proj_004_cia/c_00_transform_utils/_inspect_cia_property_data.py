@@ -16,10 +16,38 @@ import json
 import logging
 from typing import List, Dict, Any, Optional
 
-# Import required modules (adjust paths as needed)
-from impact_titan.impact_3_data.c_sources.c_file_sources.json_imports.a_usa_cia._basic_helpers.a_files.function_generated.cia_code_names import cia_code_names
-from impact_titan.impact_3_data.c_sources.c_file_sources.json_imports.a_usa_cia._basic_helpers.a_files.cia_region_names import cia_region_names
+# Import required modules
 from proj_004_cia.__logger.logger import app_logger
+from proj_004_cia.a_01_cia_to_iso.utils.cia_region_names import cia_region_names
+
+# Build cia_code_names dynamically from available JSON files
+def _build_cia_code_names():
+    """Build CIA code to ISO mapping from actual JSON files."""
+    code_names = {}
+    raw_data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
+
+    for region_folder in os.listdir(raw_data_path):
+        region_path = os.path.join(raw_data_path, region_folder)
+        if os.path.isdir(region_path):
+            for json_file in os.listdir(region_path):
+                if json_file.endswith('.json'):
+                    cia_code = json_file[:-5]  # Remove .json
+                    try:
+                        with open(os.path.join(region_path, json_file), 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                        # Try to get ISO3 code from the data
+                        gov_data = data.get('Government', {})
+                        country_name = gov_data.get('Country name', {})
+                        # Use cia_code as fallback for iso3Code
+                        code_names[cia_code] = {
+                            'iso3Code': cia_code.upper(),
+                            'region_name': cia_region_names.get(region_folder, region_folder)
+                        }
+                    except Exception:
+                        pass
+    return code_names
+
+cia_code_names = _build_cia_code_names()
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -65,8 +93,8 @@ def inspect_cia_property_data(
         app_logger.info(
             f"🔍 Inspecting CIA property: {section_key}.{property_key}")
 
-    # Setup directories
-    all_jsons_folder = 'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    # Setup directories - use portable path relative to this file
+    all_jsons_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
 
     # Initialize result array
     inspection_results = []

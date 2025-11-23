@@ -11,12 +11,21 @@ def parse_dependency_status(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse dependency status from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['dependency_status'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['dependency_status_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing dependency_status: {e}")
     return result
 
 

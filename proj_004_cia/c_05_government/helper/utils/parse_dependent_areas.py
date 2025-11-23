@@ -11,12 +11,21 @@ def parse_dependent_areas(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse dependent areas from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['dependent_areas'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['dependent_areas_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing dependent_areas: {e}")
     return result
 
 

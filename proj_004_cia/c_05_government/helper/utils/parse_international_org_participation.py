@@ -11,12 +11,21 @@ def parse_international_org_participation(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse international org participation from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['international_org_participation'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['international_org_participation_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing international_org_participation: {e}")
     return result
 
 

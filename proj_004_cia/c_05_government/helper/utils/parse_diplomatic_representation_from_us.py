@@ -11,12 +11,36 @@ def parse_diplomatic_representation_from_us(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse diplomatic representation from us from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'chief of mission': 'chief_of_mission',
+            'embassy': 'embassy',
+            'mailing address': 'mailing_address',
+            'telephone': 'telephone',
+            'FAX': 'fax',
+            'email address and website': 'email_website',
+            'consulate(s) general': 'consulates_general',
+            'branch office(s)': 'branch_offices',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in test_data:
+                field_data = test_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+                elif isinstance(field_data, str) and field_data.strip():
+                    result[output_key] = clean_text(field_data)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['diplomatic_representation_from_us_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing diplomatic_representation_from_us: {e}")
     return result
 
 
