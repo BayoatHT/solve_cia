@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_crude_oil_exports(crude_oil_exports_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse crude oil exports from CIA Energy section."""
     result = {}
-
+    if not crude_oil_exports_data or not isinstance(crude_oil_exports_data, dict):
+        return result
+    try:
+        if 'text' in crude_oil_exports_data:
+            text = crude_oil_exports_data['text']
+            if text and isinstance(text, str):
+                result['crude_oil_exports'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing crude_oil_exports: {e}")
     return result
 
 
