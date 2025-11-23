@@ -8,12 +8,21 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_imports_partners(pass_data: dict, iso3Code: str = None) -> dict:
-    """
-
-    """
-
+    """Parse imports partners from CIA Economy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['imports_partners'] = clean_text(text)
+        if 'note' in pass_data:
+            note = pass_data['note']
+            if isinstance(note, str) and note.strip():
+                result['imports_partners_note'] = clean_text(note)
+    except Exception as e:
+        logging.error(f"Error parsing imports_partners: {e}")
     return result
 
 
