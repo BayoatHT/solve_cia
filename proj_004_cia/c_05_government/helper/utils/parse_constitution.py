@@ -12,10 +12,42 @@ def parse_constitution(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse constitution data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing constitution data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed constitution information
     """
-
     result = {}
+
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        if 'history' in test_data:
+            history_data = test_data['history']
+            if isinstance(history_data, dict) and 'text' in history_data:
+                result['constitution_history'] = clean_text(history_data['text'])
+            elif isinstance(history_data, str):
+                result['constitution_history'] = clean_text(history_data)
+
+        if 'amendments' in test_data:
+            amendments_data = test_data['amendments']
+            if isinstance(amendments_data, dict) and 'text' in amendments_data:
+                result['constitution_amendments'] = clean_text(amendments_data['text'])
+            elif isinstance(amendments_data, str):
+                result['constitution_amendments'] = clean_text(amendments_data)
+
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['constitution_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing constitution: {e}")
 
     return result
 

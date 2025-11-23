@@ -12,12 +12,72 @@ def parse_government_type(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse government type data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing government type data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed government type
     """
-
     result = {}
 
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        # Extract main text
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['government_type'] = clean_text(text)
+
+                # Extract government categories
+                categories = _categorize_government_type(text)
+                if categories:
+                    result['government_categories'] = categories
+
+        # Handle note
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['government_type_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing government type: {e}")
+
     return result
+
+
+def _categorize_government_type(text: str) -> list:
+    """Categorize government type based on keywords."""
+    if not text:
+        return []
+
+    text_lower = text.lower()
+    categories = []
+
+    type_patterns = {
+        'republic': ['republic', 'republican'],
+        'monarchy': ['monarchy', 'kingdom', 'sultanate', 'emirate'],
+        'constitutional': ['constitutional'],
+        'federal': ['federal', 'federation'],
+        'parliamentary': ['parliamentary', 'parliament'],
+        'presidential': ['presidential'],
+        'communist': ['communist', 'marxist', 'socialist state'],
+        'authoritarian': ['authoritarian', 'dictatorship'],
+        'theocratic': ['theocratic', 'islamic republic', 'religious'],
+        'democracy': ['democracy', 'democratic'],
+        'unitary': ['unitary'],
+        'territory': ['territory', 'dependency', 'overseas'],
+    }
+
+    for category, patterns in type_patterns.items():
+        if any(p in text_lower for p in patterns):
+            categories.append(category)
+
+    return categories
 
 
 # Example usage

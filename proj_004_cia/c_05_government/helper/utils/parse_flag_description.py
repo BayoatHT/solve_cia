@@ -12,12 +12,62 @@ def parse_flag_description(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse flag description from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing flag description data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed flag description
     """
-
     result = {}
 
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        # Extract main text
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['flag_description'] = clean_text(text)
+
+                # Extract colors mentioned
+                colors = _extract_flag_colors(text)
+                if colors:
+                    result['flag_colors'] = colors
+
+        # Handle note
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['flag_description_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing flag description: {e}")
+
     return result
+
+
+def _extract_flag_colors(text: str) -> list:
+    """Extract colors mentioned in flag description."""
+    if not text:
+        return []
+
+    text_lower = text.lower()
+    color_keywords = [
+        'red', 'blue', 'green', 'yellow', 'white', 'black', 'orange',
+        'gold', 'purple', 'brown', 'pink', 'cyan', 'maroon', 'navy',
+        'scarlet', 'crimson', 'azure', 'cerulean', 'saffron'
+    ]
+
+    found_colors = []
+    for color in color_keywords:
+        if color in text_lower:
+            found_colors.append(color)
+
+    return found_colors
 
 
 # Example usage

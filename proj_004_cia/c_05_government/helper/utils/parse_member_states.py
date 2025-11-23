@@ -11,12 +11,21 @@ def parse_member_states(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse member states from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['member_states'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['member_states_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing member_states: {e}")
     return result
 
 

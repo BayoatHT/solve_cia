@@ -13,10 +13,45 @@ def parse_citizenship(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse citizenship data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing citizenship data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed citizenship information
     """
-
     result = {}
+
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        field_mappings = {
+            'citizenship by birth': 'citizenship_by_birth',
+            'citizenship by descent only': 'citizenship_by_descent',
+            'dual citizenship recognized': 'dual_citizenship_recognized',
+            'residency requirement for naturalization': 'residency_requirement',
+        }
+
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in test_data:
+                field_data = test_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+                elif isinstance(field_data, str) and field_data.strip():
+                    result[output_key] = clean_text(field_data)
+
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['citizenship_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing citizenship: {e}")
 
     return result
 
