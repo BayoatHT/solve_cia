@@ -200,51 +200,16 @@ def get_environment(data: dict = None, info: str = None, iso3Code: str = None) -
     return None
 
 
+######################################################################################################################
+#   TEST FUNCTION
+######################################################################################################################
 if __name__ == '__main__':
-    from pathlib import Path
     from pprint import pprint
-
-    # Configuration
-    TEST_INFO = 'climate'  # Change to test different fields
-    TEST_COUNTRY = 'USA'   # Options: 'USA', 'FRA', 'WLD'
-
-    # Determine paths based on platform
-    if os.name == 'nt':  # Windows
-        json_folder = Path(r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data')
-    else:  # Linux/Mac
-        json_folder = Path(__file__).parent.parent.parent / '_raw_data'
-
-    # Country configuration
-    country_config = {
-        'USA': ('north-america', 'us'),
-        'FRA': ('europe', 'fr'),
-        'WLD': ('world', 'xx'),
-    }
-
-    region_folder, cia_code = country_config.get(TEST_COUNTRY, ('north-america', 'us'))
-    file_path = json_folder / region_folder / f'{cia_code}.json'
-
-    print(f"Loading: {file_path}")
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    print(f"\n{'='*60}")
-    print(f"TESTING: get_environment(info='{TEST_INFO}')")
-    print(f"COUNTRY: {TEST_COUNTRY}")
-    print(f"{'='*60}\n")
-
-    result = get_environment(data=data, info=TEST_INFO, iso3Code=TEST_COUNTRY)
-    pprint(result, width=100)
-
-    # Test all fields
-    print(f"\n{'='*60}")
-    print("TESTING ALL FIELDS")
-    print(f"{'='*60}")
-    for field in sorted(VALID_INFO_PARAMS):
-        result = get_environment(data=data, info=field, iso3Code=TEST_COUNTRY)
-        has_data = result is not None and any(
-            v for v in (result.values() if isinstance(result, dict) else [result])
-            if v is not None and v != [] and v != {} and v != ''
-        )
-        status = "✓" if has_data else "-"
-        print(f"  {status} {field}")
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+    # --------------------------------------------------------------------------------------------------
+    info = 'pass'  # Change this to test specific fields
+    iso3Code = 'USA'  # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
+    # --------------------------------------------------------------------------------------------------
+    data = load_country_data(iso3Code)
+    # --------------------------------------------------------------------------------------------------
+    pprint(get_environment(data=data, info=info, iso3Code=iso3Code))

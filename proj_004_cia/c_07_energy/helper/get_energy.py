@@ -529,37 +529,12 @@ def get_energy(data=None, info=None, iso3Code=None):
 #   TEST FUNCTION
 ######################################################################################################################
 if __name__ == '__main__':
-    import platform
-    # ---------------------------------------------------------------------------------------------------------------------------------
-    info = 'pass'
-    # ---------------------------------------------------------------------------------------------------------------------------------
-    country = "USA"
-    # ----------------------------------------------------------------------------------------------------------------------------------
-    if platform.system() == 'Windows':
-        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
-    else:
-        json_folder = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))), '_raw_data')
-    if country == "USA":
-        region_folder = f'north-america'
-        cia_code = 'us'
-    elif country == "FRA":
-        region_folder = f'europe'
-        cia_code = 'fr'
-    elif country == "WLD":
-        region_folder = f'world'
-        cia_code = 'xx'
-    file_path = os.path.join(json_folder, region_folder, f'{cia_code}.json')
-    # --------------------------------------------------------------------------------------------------
-    with open(file_path, 'r', encoding='utf-8') as country_file:
-        data = json.load(country_file)
-    # --------------------------------------------------------------------------------------------------
-    iso3Code = country
-    # --------------------------------------------------------------------------------------------------
     from pprint import pprint
-    pprint(
-        get_energy(
-            data=data,
-            info=info,
-            iso3Code=iso3Code
-        )
-    )
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+    # --------------------------------------------------------------------------------------------------
+    info = 'pass'  # Change this to test specific fields
+    iso3Code = 'USA'  # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
+    # --------------------------------------------------------------------------------------------------
+    data = load_country_data(iso3Code)
+    # --------------------------------------------------------------------------------------------------
+    pprint(get_energy(data=data, info=info, iso3Code=iso3Code))
