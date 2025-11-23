@@ -18,7 +18,7 @@ import sys
 import json
 import re
 from datetime import datetime
-from typing import Dict, Any
+from typing import Dict, Any, Union
 
 # Add parent directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
@@ -66,6 +66,16 @@ def extract_raw_section(category: str, section: str) -> tuple:
     return results, errors
 
 
+def to_python_format(data: Any) -> str:
+    """Convert data to Python-friendly string format (None instead of null, etc.)."""
+    json_str = json.dumps(data, indent=4, ensure_ascii=False, default=str)
+    # Convert JSON syntax to Python syntax
+    json_str = json_str.replace(': null', ': None')
+    json_str = json_str.replace(': true', ': True')
+    json_str = json_str.replace(': false', ': False')
+    return json_str
+
+
 def save_report(data: Dict[str, Any], category: str, section: str, output_dir: str) -> str:
     """Save extracted data to a Python file in _reports directory."""
     cat_safe = sanitize_filename(category)
@@ -85,7 +95,7 @@ This file contains raw CIA World Factbook data for the specified section
 across all countries. Each key is an ISO3 country code.
 """
 
-RAW_DATA = {json.dumps(data, indent=4, ensure_ascii=False)}
+RAW_DATA = {to_python_format(data)}
 '''
 
     with open(filepath, 'w', encoding='utf-8') as f:
