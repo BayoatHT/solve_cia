@@ -149,7 +149,8 @@ if __name__ == '__main__':
     from pprint import pprint
     from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
     # --------------------------------------------------------------------------------------------------
-    iso3Code = 'USA'  # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
+    # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
+    iso3Code = 'ESP'
     # --------------------------------------------------------------------------------------------------
     data = load_country_data(iso3Code)
     # --------------------------------------------------------------------------------------------------
