@@ -16,6 +16,14 @@ Output:
     Creates a file in _reports/ named: parsed_<category>_<section>.py
 """
 
+from proj_004_cia.z_reports.category_sections import (
+    PARSED_CATEGORIES,
+    CATEGORY_PARSERS,
+    get_parsed_sections,
+    get_parser,
+    list_all_parsed
+)
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data, ISO3_TO_CIA
 import os
 import sys
 import json
@@ -24,16 +32,8 @@ from datetime import datetime
 from typing import Dict, Any, Optional
 
 # Add parent directory to path for imports
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
-
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data, ISO3_TO_CIA
-from proj_004_cia.z_reports.category_sections import (
-    PARSED_CATEGORIES,
-    CATEGORY_PARSERS,
-    get_parsed_sections,
-    get_parser,
-    list_all_parsed
-)
+sys.path.insert(0, os.path.dirname(os.path.dirname(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
 
 
 def sanitize_filename(name: str) -> str:
@@ -126,13 +126,15 @@ def run_extraction(category: str, section: Optional[str] = None, output_dir: str
 
     # Validate category
     if category not in CATEGORY_PARSERS:
-        raise ValueError(f"Unknown category: {category}. Available: {list(CATEGORY_PARSERS.keys())}")
+        raise ValueError(
+            f"Unknown category: {category}. Available: {list(CATEGORY_PARSERS.keys())}")
 
     # Validate section if provided
     if section:
         available_sections = get_parsed_sections(category)
         if section not in available_sections:
-            print(f"Warning: Section '{section}' may not exist. Available: {available_sections}")
+            print(
+                f"Warning: Section '{section}' may not exist. Available: {available_sections}")
 
     section_desc = f" > {section}" if section else ""
     print(f"Extracting parsed data for: {category}{section_desc}")
@@ -157,7 +159,8 @@ def run_extraction(category: str, section: Optional[str] = None, output_dir: str
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python extract_parsed_category_section.py <category> [section]")
+        print(
+            "Usage: python extract_parsed_category_section.py <category> [section]")
         print("\nExamples:")
         print('  python extract_parsed_category_section.py "Environment"')
         print('  python extract_parsed_category_section.py "Environment" "major_rivers"')
@@ -180,8 +183,8 @@ def main():
 if __name__ == "__main__":
     # --------------------------------------------------------------------------------------------------
     # Configure test extraction here:
-    TEST_CATEGORY = "Environment"
-    TEST_SECTION = "major_rivers"  # Set to None to extract all sections
+    TEST_CATEGORY = "Geography"
+    TEST_SECTION = "elevation"  # Set to None to extract all sections
     # --------------------------------------------------------------------------------------------------
 
     # If command line args provided, use main(), otherwise use test config
