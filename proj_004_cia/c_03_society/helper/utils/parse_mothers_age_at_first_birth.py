@@ -1,25 +1,52 @@
 import re
 import logging
+from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_mothers_age_at_first_birth(mothers_data: dict) -> dict:
+def parse_mothers_age_at_first_birth(mothers_data: dict, iso3Code: str = None) -> dict:
     """
+    Parse mother's mean age at first birth from CIA World Factbook format.
 
+    Handles formats:
+    1. Standard: "31.1 years (2020 est.)"
+    2. NA values
     """
-    result = {}
+    result = {
+        "mothers_mean_age_first_birth": {
+            "value": None,
+            "unit": "years",
+            "timestamp": None,
+            "is_estimate": False
+        },
+        "mothers_mean_age_first_birth_note": ""
+    }
+
+    if not mothers_data or not isinstance(mothers_data, dict):
+        return result
+
+    text = mothers_data.get('text', '').strip()
+
+    if not text or text.upper() == 'NA':
+        return result
+
+    PATTERN = re.compile(r'([\d.]+)\s*years?\s*(?:\(([\d]{4})\s*(est\.?)?\))?')
+    match = PATTERN.search(text)
+    if match:
+        result["mothers_mean_age_first_birth"]["value"] = float(match.group(1))
+        if match.group(2):
+            result["mothers_mean_age_first_birth"]["timestamp"] = match.group(2)
+        if match.group(3):
+            result["mothers_mean_age_first_birth"]["is_estimate"] = True
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    mothers_data = {
-        "text": "27 years (2019 est.)"
-    }
-    parsed_data = parse_mothers_age_at_first_birth(mothers_data)
-    print(parsed_data)
+    test1 = {"text": "27 years (2019 est.)"}
+    print(parse_mothers_age_at_first_birth(test1))
