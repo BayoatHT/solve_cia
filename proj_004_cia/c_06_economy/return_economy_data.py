@@ -129,33 +129,15 @@ def return_economy_data(
 #   TEST FUNCTION
 # ---------------------------------------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
+######################################################################################################################
+#   TEST FUNCTION
+######################################################################################################################
 if __name__ == '__main__':
-    import platform
-    country = True
-    # ----------------------------------------------------------------------------------------------------------------------------------
-    if platform.system() == 'Windows':
-        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
-    else:
-        json_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
-    if country:
-        region_folder = f'north-america'
-        cia_code = 'us'
-    else:
-        region_folder = f'world'
-        cia_code = 'xx'
-    file_path = os.path.join(json_folder, region_folder, f'{cia_code}.json')
+    from pprint import pprint
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
     # --------------------------------------------------------------------------------------------------
-    with open(file_path, 'r', encoding='utf-8') as country_file:
-        data = json.load(country_file)
+    iso3Code = 'USA'  # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
     # --------------------------------------------------------------------------------------------------
-    if country:
-        iso3Code = 'USA'
-    else:
-        iso3Code = 'WLD'
-    # ------------------------------------------------------------------------------------------------------------------
-    print(
-        return_economy_data(
-            data=data,
-            iso3Code=iso3Code
-        )
-    )
+    data = load_country_data(iso3Code)
+    # --------------------------------------------------------------------------------------------------
+    pprint(return_economy_data(data=data, iso3Code=iso3Code))

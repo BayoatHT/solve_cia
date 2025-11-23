@@ -125,50 +125,15 @@ def return_environment_data(data: dict, iso3Code: str) -> Dict:
     return cia_pack
 
 
+######################################################################################################################
+#   TEST FUNCTION
+######################################################################################################################
 if __name__ == '__main__':
-    from pathlib import Path
     from pprint import pprint
-
-    # Configuration
-    USE_COUNTRY = True  # Set to False for World data
-
-    # Determine paths based on platform
-    if os.name == 'nt':  # Windows
-        json_folder = Path(r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data')
-    else:  # Linux/Mac
-        json_folder = Path(__file__).parent.parent / '_raw_data'
-
-    if USE_COUNTRY:
-        region_folder = 'north-america'
-        cia_code = 'us'
-        iso3Code = 'USA'
-    else:
-        region_folder = 'world'
-        cia_code = 'xx'
-        iso3Code = 'WLD'
-
-    file_path = json_folder / region_folder / f'{cia_code}.json'
-
-    print(f"Loading: {file_path}")
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    result = return_environment_data(data=data, iso3Code=iso3Code)
-
-    print(f"\n{'='*60}")
-    print(f"ENVIRONMENT DATA FOR {iso3Code}")
-    print(f"{'='*60}")
-    print(f"Total fields: {len(result)}")
-    print(f"\nFields with data:")
-    for key, value in result.items():
-        has_data = bool(value) and any(
-            v for v in (value.values() if isinstance(value, dict) else [value])
-            if v is not None and v != [] and v != ''
-        )
-        status = "✓" if has_data else "-"
-        print(f"  {status} {key}")
-
-    print(f"\n{'='*60}")
-    print("SAMPLE DATA")
-    print(f"{'='*60}")
-    pprint(result.get('climate', {}), width=100)
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+    # --------------------------------------------------------------------------------------------------
+    iso3Code = 'USA'  # Change to any ISO3 code: 'USA', 'FRA', 'WLD', 'DEU', etc.
+    # --------------------------------------------------------------------------------------------------
+    data = load_country_data(iso3Code)
+    # --------------------------------------------------------------------------------------------------
+    pprint(return_environment_data(data=data, iso3Code=iso3Code))
