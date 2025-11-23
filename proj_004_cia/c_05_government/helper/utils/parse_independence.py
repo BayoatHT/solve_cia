@@ -12,10 +12,38 @@ def parse_independence(
     iso3Code: str = None
 ) -> dict:
     """
+    Parse independence data from CIA Government section.
 
+    Args:
+        test_data: Dictionary containing independence data
+        iso3Code: ISO3 country code
+
+    Returns:
+        Dictionary with parsed independence information
     """
-
     result = {}
+
+    if not test_data or not isinstance(test_data, dict):
+        return result
+
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['independence_description'] = clean_text(text)
+
+                # Try to extract date
+                date_match = re.search(r'(\d{1,2}\s+\w+\s+\d{4}|\d{4})', text)
+                if date_match:
+                    result['independence_date'] = date_match.group(1)
+
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['independence_note'] = clean_text(note)
+
+    except Exception as e:
+        app_logger.error(f"Error parsing independence: {e}")
 
     return result
 

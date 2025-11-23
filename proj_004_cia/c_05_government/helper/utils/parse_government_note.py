@@ -11,12 +11,21 @@ def parse_government_note(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse government note from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        if 'text' in test_data:
+            text = test_data['text']
+            if text and isinstance(text, str):
+                result['government_note'] = clean_text(text)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['government_note_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing government_note: {e}")
     return result
 
 

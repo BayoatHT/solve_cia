@@ -1,131 +1,174 @@
-'''
-#   PURPOSE OF THIS FILE
-    >>> RETURN A DICTIONARY OF GEOGRAPHY INFORMATION FROM THE CIA WORLD FACTBOOK
-'''
+"""
+PURPOSE OF THIS FILE
+    >>> RETURN A DICTIONARY OF ENVIRONMENT INFORMATION FROM THE CIA WORLD FACTBOOK
 
+This module extracts and compiles all 19 environment-related fields from CIA World Factbook data.
 
-#######################################################################################################################
+Fields extracted:
+    - air_pollutants: PM, CO2, methane emissions
+    - climate: Climate description and extremes
+    - env_current_issues: Environmental issues list
+    - env_international_agreements: Treaties and agreements
+    - food_insecurity: Food security status
+    - geoparks: UNESCO geoparks
+    - land_use: Agricultural, forest, other percentages
+    - major_aquifers: Underground water sources
+    - major_lakes: Fresh and salt water lakes
+    - major_rivers: Rivers by length
+    - major_watersheds: Watershed areas
+    - revenue_from_coal: Coal revenue as % GDP
+    - revenue_from_forest: Forest revenue as % GDP
+    - total_renewable_water: Renewable water resources
+    - total_water_withdrawal: Water usage by sector
+    - urbanization: Urban population and growth rate
+    - waste_and_recycling: Waste management stats
+    - world_biomes: Biome descriptions (World only)
+    - marine_fisheries: Ocean fishery data (Oceans only)
+"""
 
-######################################################################################################################
-#   CORE IMPORTS
-# ---------------------------------------------------------------------------------------------------------------------
 import json
 import os
-# get_environment ------------------------------------------------------------------------------------------------------
+from typing import Dict, Optional
+
 from proj_004_cia.c_04_environment.helper.get_environment import get_environment
 
-# //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-#   CORE FUNCTION
-# ------------------------------------------------------------------------------------------------------------------
-# ------------------------------------------------------------------------------------------------------------------
 
+def return_environment_data(data: dict, iso3Code: str) -> Dict:
+    """
+    Extract and return all environment data for a country.
 
-def return_environment_data(
-    data: dict,
-    iso3Code: str
-):
+    Args:
+        data: Raw CIA World Factbook JSON data for a country
+        iso3Code: ISO3 country code (e.g., 'USA', 'FRA', 'WLD')
 
-    # 4. ENVIRONMENT
-    # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------------------------------
-    # --------------------------------------------------------------------------------------------------------------------------
-    # Initialize the dictionary to hold geography data
+    Returns:
+        Dictionary containing all 19 environment fields with parsed data
+    """
     cia_pack = {}
 
-    # Note: 'air_pollutants'
+    # 1. Air pollutants (PM, CO2, methane)
     cia_pack['air_pollutants'] = get_environment(
         data=data, info='air_pollutants', iso3Code=iso3Code)
-    # Note: 'climate'
+
+    # 2. Climate description and extremes
     cia_pack['climate'] = get_environment(
         data=data, info='climate', iso3Code=iso3Code)
-    # Note: 'env_current_issues'
+
+    # 3. Environment current issues
     cia_pack['env_current_issues'] = get_environment(
         data=data, info='env_current_issues', iso3Code=iso3Code)
-    # Note: 'env_international_agreements'
+
+    # 4. International environmental agreements
     cia_pack['env_international_agreements'] = get_environment(
         data=data, info='env_international_agreements', iso3Code=iso3Code)
-    # Note: 'food_insecurity'
+
+    # 5. Food insecurity status
     cia_pack['food_insecurity'] = get_environment(
         data=data, info='food_insecurity', iso3Code=iso3Code)
-    # Note: 'geoparks'
+
+    # 6. Geoparks (UNESCO global geoparks)
     cia_pack['geoparks'] = get_environment(
         data=data, info='geoparks', iso3Code=iso3Code)
-    # Note: 'land_use'
+
+    # 7. Land use percentages
     cia_pack['land_use'] = get_environment(
         data=data, info='land_use', iso3Code=iso3Code)
-    # Note: 'major_aquifers'
+
+    # 8. Major aquifers
     cia_pack['major_aquifers'] = get_environment(
         data=data, info='major_aquifers', iso3Code=iso3Code)
-    # Note: 'major_lakes'
+
+    # 9. Major lakes (fresh and salt water)
     cia_pack['major_lakes'] = get_environment(
         data=data, info='major_lakes', iso3Code=iso3Code)
-    # Note: 'major_rivers'
+
+    # 10. Major rivers by length
     cia_pack['major_rivers'] = get_environment(
         data=data, info='major_rivers', iso3Code=iso3Code)
-    # Note: 'major_watersheds'
+
+    # 11. Major watersheds
     cia_pack['major_watersheds'] = get_environment(
         data=data, info='major_watersheds', iso3Code=iso3Code)
-    # Note: 'revenue_from_coal'
+
+    # 12. Revenue from coal (% of GDP)
     cia_pack['revenue_from_coal'] = get_environment(
         data=data, info='revenue_from_coal', iso3Code=iso3Code)
-    # Note: 'revenue_from_forest'
+
+    # 13. Revenue from forest resources (% of GDP)
     cia_pack['revenue_from_forest'] = get_environment(
         data=data, info='revenue_from_forest', iso3Code=iso3Code)
-    # Note: 'total_renewable_water'
+
+    # 14. Total renewable water resources
     cia_pack['total_renewable_water'] = get_environment(
         data=data, info='total_renewable_water', iso3Code=iso3Code)
-    # Note: 'total_water_withdrawal'
+
+    # 15. Total water withdrawal by sector
     cia_pack['total_water_withdrawal'] = get_environment(
         data=data, info='total_water_withdrawal', iso3Code=iso3Code)
-    # Note: 'urbanization'
+
+    # 16. Urbanization statistics
     cia_pack['urbanization'] = get_environment(
         data=data, info='urbanization', iso3Code=iso3Code)
-    # Note: 'waste_and_recycling'
+
+    # 17. Waste and recycling statistics
     cia_pack['waste_and_recycling'] = get_environment(
         data=data, info='waste_and_recycling', iso3Code=iso3Code)
-    # Note: 'world_biomes'
+
+    # 18. World biomes (World entity only)
     cia_pack['world_biomes'] = get_environment(
         data=data, info='world_biomes', iso3Code=iso3Code)
-    # Note: 'marine_fisheries'
+
+    # 19. Marine fisheries (Ocean entities only)
     cia_pack['marine_fisheries'] = get_environment(
         data=data, info='marine_fisheries', iso3Code=iso3Code)
 
-    # Return the compiled environment data
-    return cia_pack
-    # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    # ------------------------------------------------------------------------------------------------------------------
-    # RETURN
-    # ------------------------------------------------------------------------------------------------------------------
     return cia_pack
 
 
-# //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-#   TEST FUNCTION
-# ---------------------------------------------------------------------------------------------------------------------
-# ---------------------------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
-    country = False
-    # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
-    if country:
-        region_folder = f'north-america'
+    from pathlib import Path
+    from pprint import pprint
+
+    # Configuration
+    USE_COUNTRY = True  # Set to False for World data
+
+    # Determine paths based on platform
+    if os.name == 'nt':  # Windows
+        json_folder = Path(r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data')
+    else:  # Linux/Mac
+        json_folder = Path(__file__).parent.parent / '_raw_data'
+
+    if USE_COUNTRY:
+        region_folder = 'north-america'
         cia_code = 'us'
-    else:
-        region_folder = f'world'
-        cia_code = 'xx'
-    file_path = os.path.join(json_folder, region_folder, f'{cia_code}.json')
-    # --------------------------------------------------------------------------------------------------
-    with open(file_path, 'r', encoding='utf-8') as country_file:
-        data = json.load(country_file)
-    # --------------------------------------------------------------------------------------------------
-    if country:
         iso3Code = 'USA'
     else:
+        region_folder = 'world'
+        cia_code = 'xx'
         iso3Code = 'WLD'
-    # ------------------------------------------------------------------------------------------------------------------
-    print(
-        return_environment_data(
-            data=data,
-            iso3Code=iso3Code
+
+    file_path = json_folder / region_folder / f'{cia_code}.json'
+
+    print(f"Loading: {file_path}")
+    with open(file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    result = return_environment_data(data=data, iso3Code=iso3Code)
+
+    print(f"\n{'='*60}")
+    print(f"ENVIRONMENT DATA FOR {iso3Code}")
+    print(f"{'='*60}")
+    print(f"Total fields: {len(result)}")
+    print(f"\nFields with data:")
+    for key, value in result.items():
+        has_data = bool(value) and any(
+            v for v in (value.values() if isinstance(value, dict) else [value])
+            if v is not None and v != [] and v != ''
         )
-    )
+        status = "✓" if has_data else "-"
+        print(f"  {status} {key}")
+
+    print(f"\n{'='*60}")
+    print("SAMPLE DATA")
+    print(f"{'='*60}")
+    pprint(result.get('climate', {}), width=100)

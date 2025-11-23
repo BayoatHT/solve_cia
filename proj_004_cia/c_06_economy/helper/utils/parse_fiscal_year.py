@@ -8,12 +8,21 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_fiscal_year(pass_data: dict, iso3Code: str = None) -> dict:
-    """
-
-    """
-
+    """Parse fiscal year from CIA Economy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['fiscal_year'] = clean_text(text)
+        if 'note' in pass_data:
+            note = pass_data['note']
+            if isinstance(note, str) and note.strip():
+                result['fiscal_year_note'] = clean_text(note)
+    except Exception as e:
+        logging.error(f"Error parsing fiscal_year: {e}")
     return result
 
 

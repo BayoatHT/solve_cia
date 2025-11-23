@@ -8,12 +8,35 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_coal(coal_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse coal data from CIA Energy section."""
     result = {}
-
+    if not coal_data or not isinstance(coal_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'production': 'coal_production',
+            'consumption': 'coal_consumption',
+            'exports': 'coal_exports',
+            'imports': 'coal_imports',
+            'proven reserves': 'coal_proven_reserves',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in coal_data:
+                field_data = coal_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+        if 'note' in coal_data:
+            note_data = coal_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['coal_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['coal_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing coal: {e}")
     return result
 
 

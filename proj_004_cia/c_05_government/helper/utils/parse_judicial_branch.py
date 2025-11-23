@@ -11,12 +11,32 @@ def parse_judicial_branch(
     test_data: dict,
     iso3Code: str = None
 ) -> dict:
-    """
-
-    """
-
+    """Parse judicial branch data from CIA Government section."""
     result = {}
-
+    if not test_data or not isinstance(test_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'highest court(s)': 'highest_courts',
+            'highest courts': 'highest_courts',
+            'judge selection and term of office': 'judge_selection',
+            'subordinate courts': 'subordinate_courts',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in test_data:
+                field_data = test_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+                elif isinstance(field_data, str) and field_data.strip():
+                    result[output_key] = clean_text(field_data)
+        if 'note' in test_data:
+            note = test_data['note']
+            if isinstance(note, str) and note.strip():
+                result['judicial_branch_note'] = clean_text(note)
+    except Exception as e:
+        app_logger.error(f"Error parsing judicial branch: {e}")
     return result
 
 

@@ -8,12 +8,34 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_carbon_dioxide_emissions(carbon_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse carbon dioxide emissions from CIA Energy section."""
     result = {}
-
+    if not carbon_data or not isinstance(carbon_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'total emissions': 'carbon_total_emissions',
+            'from coal and metallurgical coke': 'carbon_coal_metallurgical_coke',
+            'from petroleum and other liquids': 'carbon_petroleum_other_liquids',
+            'from consumed natural gas': 'carbon_consumed_natural_gas',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in carbon_data:
+                field_data = carbon_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+        if 'note' in carbon_data:
+            note_data = carbon_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['carbon_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['carbon_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing carbon_dioxide_emissions: {e}")
     return result
 
 

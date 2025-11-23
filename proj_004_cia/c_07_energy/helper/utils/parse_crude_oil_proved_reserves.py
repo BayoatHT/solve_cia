@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_crude_oil_proved_reserves(pass_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse crude oil proved reserves from CIA Energy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['crude_oil_proved_reserves'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing crude_oil_proved_reserves: {e}")
     return result
 
 

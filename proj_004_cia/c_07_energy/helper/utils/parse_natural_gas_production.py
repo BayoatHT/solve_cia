@@ -8,12 +8,17 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_natural_gas_production(pass_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse natural gas production from CIA Energy section."""
     result = {}
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['natural_gas_production'] = clean_text(text)
+    except Exception as e:
+        logging.error(f"Error parsing natural_gas_production: {e}")
     return result
 
 
