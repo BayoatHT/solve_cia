@@ -49,6 +49,9 @@ from proj_004_cia.c_10_military.helper.utils.parse_military_expenditures import 
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+from proj_004_cia.c_10_military.helper.utils.parse_military_world import parse_military_world
+
+
 def get_military(data=None, info=None, iso3Code=None):
 
     # 0
@@ -57,6 +60,10 @@ def get_military(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     mil_data = data.get("Military and Security", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return comprehensive World military data
+    if info == 'world_military' and iso3Code == 'WLD':
+        return parse_military_world(mil_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -178,12 +185,16 @@ def get_military(data=None, info=None, iso3Code=None):
 ######################################################################################################################
 if __name__ == '__main__':
 
+    import platform
     # ---------------------------------------------------------------------------------------------------------------------------------
-    info = 'pass'
+    info = 'military_expenditures'
     # ---------------------------------------------------------------------------------------------------------------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), '_raw_data')
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'

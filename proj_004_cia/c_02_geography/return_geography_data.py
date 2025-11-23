@@ -1,8 +1,7 @@
 '''
 #   PURPOSE OF THIS FILE
     >>> RETURN A DICTIONARY OF GEOGRAPHY INFORMATION FROM THE CIA WORLD FACTBOOK
-# C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\c_02_geography\return_geography_data.py
-    '''
+'''
 
 
 #######################################################################################################################
@@ -29,6 +28,9 @@ def return_geography_data(
 
     # Conditional inclusion based on iso3Code
     if iso3Code == 'WLD':
+        # WORLD-SPECIFIC: Use comprehensive World parser for consolidated rankings/statistics
+        cia_pack['world_geography'] = get_geography(
+            data=data, info='world_geography', iso3Code=iso3Code)
         # Include 'geographic_overview' for World data
         cia_pack['geographic_overview'] = get_geography(
             data=data, info='geographic_overview', iso3Code=iso3Code)
@@ -148,9 +150,13 @@ def return_geography_data(
 #   TEST FUNCTION
 ######################################################################################################################
 if __name__ == '__main__':
+    import platform
     country = False
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

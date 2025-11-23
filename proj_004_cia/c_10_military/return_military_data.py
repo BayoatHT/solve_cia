@@ -31,6 +31,12 @@ def return_military_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_military'] = get_military(
+            data=data, info='world_military', iso3Code=iso3Code)
+        return cia_pack
+
     # Note: 'military_note'
     cia_pack['military_note'] = get_military(
         data=data, info='military_note', iso3Code=iso3Code)
@@ -62,9 +68,13 @@ def return_military_data(
 # ---------------------------------------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
-    country = False
+    import platform
+    country = True
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), '_raw_data')
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

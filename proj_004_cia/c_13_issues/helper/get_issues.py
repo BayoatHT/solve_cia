@@ -12,6 +12,7 @@ from proj_004_cia.c_13_issues.helper.utils.parse_displaced_persons import parse_
 from proj_004_cia.c_13_issues.helper.utils.parse_illicit_drugs import parse_illicit_drugs
 from proj_004_cia.c_13_issues.helper.utils.parse_international import parse_international
 from proj_004_cia.c_13_issues.helper.utils.parse_trafficking import parse_trafficking
+from proj_004_cia.c_13_issues.helper.utils.parse_issues_world import parse_issues_world
 
 
 def get_issues(data=None, info=None, iso3Code=None):
@@ -22,6 +23,10 @@ def get_issues(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     issues_data = data.get("Transnational Issues", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return all issues in one comprehensive dict
+    if info == 'world_issues' and iso3Code == 'WLD':
+        return parse_issues_world(issues_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -84,23 +89,27 @@ def get_issues(data=None, info=None, iso3Code=None):
 
 
 ######################################################################################################################
-#   TEST FUNCTION - C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia
+#   TEST FUNCTION
 ######################################################################################################################
 if __name__ == '__main__':
 
+    import platform
     # ---------------------------------------------------------------------------------------------------------------------------------
-    info = 'pass'
+    info = 'displaced_persons'
     # ---------------------------------------------------------------------------------------------------------------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), '_raw_data')
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'
-    if country == "FRA":
+    elif country == "FRA":
         region_folder = f'europe'
         cia_code = 'fr'
-    if country == "WLD":
+    elif country == "WLD":
         region_folder = f'world'
         cia_code = 'xx'
     file_path = os.path.join(json_folder, region_folder, f'{cia_code}.json')

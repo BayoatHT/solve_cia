@@ -17,12 +17,18 @@ def parse_displaced_persons(displaced_data: dict, iso3Code: str = None) -> dict:
 
     Returns:
         dict: A dictionary containing parsed information for refugees, stateless persons, and IDPs.
+
+    Output keys with value extraction pattern:
+        - refugees_origin: list of refugee origin entries
+        - refugees_total_value: int (total refugees admitted if available)
+        - refugees_total_year: int (year of refugee data)
+        - stateless_persons_value: int (number of stateless persons)
+        - stateless_persons_year: int (year of stateless data)
+        - idp_value: int (number of internally displaced persons)
+        - idp_year: int (year of IDP data)
+        - idp_causes: list (causes of displacement)
     """
-    result = {
-        "refugees_origin": [],
-        "stateless_persons": {"value": "", "date": ""},
-        "idp": {"year": 0, "causes": [], "number": 0}
-    }
+    result = {}
 
     # Handle 'refugees (country of origin)'
     refugees_data = displaced_data.get(
@@ -30,21 +36,37 @@ def parse_displaced_persons(displaced_data: dict, iso3Code: str = None) -> dict:
     if refugees_data:
         result["refugees_origin"] = parse_text_to_list(refugees_data)
 
+        # Try to extract total refugee number
+        total_match = re.search(r'admitted\s+([\d,]+)\s+refugees', refugees_data)
+        if total_match:
+            result["refugees_total_value"] = int(total_match.group(1).replace(',', ''))
+
+        # Extract year
+        year_match = re.search(r'FY(\d{4})', refugees_data)
+        if year_match:
+            result["refugees_total_year"] = int(year_match.group(1))
+
     # Handle 'stateless persons'
     stateless_data = displaced_data.get(
         "stateless persons", {}).get("text", "")
     if stateless_data:
-        match = re.match(r"(\d+)(?: \((\d{4})\))?", stateless_data)
+        # Match patterns like "47 (2022)" or "1,234 (2022)"
+        match = re.match(r"([\d,]+)\s*\((\d{4})\)?", stateless_data)
         if match:
-            result["stateless_persons"]["value"] = match.group(1)
-            if match.group(2):
-                result["stateless_persons"]["date"] = match.group(2)
+            result["stateless_persons_value"] = int(match.group(1).replace(',', ''))
+            result["stateless_persons_year"] = int(match.group(2))
+        else:
+            # Try just number
+            num_match = re.match(r"([\d,]+)", stateless_data)
+            if num_match:
+                result["stateless_persons_value"] = int(num_match.group(1).replace(',', ''))
 
     # Handle 'IDPs'
     idp_data = displaced_data.get("IDPs", {}).get("text", "")
     if idp_data:
         # Extract data from the IDP text
-        main_pattern = re.compile(r'(\d+(?:,\d+)?(?:\.\d+)?)\s*(million)?')
+        # Pattern to match "6.38 million" or "30,000" or "approximately 2 million"
+        main_pattern = re.compile(r'(?:approximately\s+)?([\d,]+(?:\.\d+)?)\s*(million|thousand)?', re.IGNORECASE)
         year_pattern = re.compile(r'\((\d{4})\)')
         causes_pattern = re.compile(r'\(([^)]+)\)')
 
@@ -54,23 +76,30 @@ def parse_displaced_persons(displaced_data: dict, iso3Code: str = None) -> dict:
             # Remove commas from the number string, if any
             number_str = main_match.group(1).replace(',', '')
             number = float(number_str)
-            if main_match.group(2) == "million":
-                number *= 1_000_000
-            result["idp"]["number"] = number
+            magnitude = main_match.group(2)
+            if magnitude:
+                if magnitude.lower() == "million":
+                    number *= 1_000_000
+                elif magnitude.lower() == "thousand":
+                    number *= 1_000
+            result["idp_value"] = int(number)
 
         # Extract year (if available)
         year_match = year_pattern.search(idp_data)
         if year_match:
-            result["idp"]["year"] = int(year_match.group(1))
+            result["idp_year"] = int(year_match.group(1))
 
         # Extract causes (non-numeric content in parentheses)
+        causes = []
         causes_matches = causes_pattern.findall(idp_data)
         for cause in causes_matches:
             if not cause.isdigit() and not year_pattern.match(cause):
                 # Split causes by semicolon and clean them
-                causes = [cause_part.strip()
-                          for cause_part in cause.split(';') if cause_part.strip()]
-                result["idp"]["causes"].extend(causes)
+                cause_parts = [cause_part.strip()
+                              for cause_part in cause.split(';') if cause_part.strip()]
+                causes.extend(cause_parts)
+        if causes:
+            result["idp_causes"] = causes
 
     return result
 

@@ -41,6 +41,7 @@ from proj_004_cia.c_02_geography.helper.utils.parse_wonders_of_the_world import 
 from proj_004_cia.c_02_geography.helper.utils.parse_natural_hazards import parse_natural_hazards
 from proj_004_cia.c_02_geography.helper.utils.parse_population_distribution import parse_population_distribution
 from proj_004_cia.c_02_geography.helper.utils.parse_geography_note import parse_geography_note
+from proj_004_cia.c_02_geography.helper.utils.parse_geography_world import parse_geography_world
 # ----------------------------------------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------------------------------------
 
@@ -61,6 +62,13 @@ def get_geography(data={}, info={}, iso3Code={}):
     if not geography:
         logging.warning(f"No 'Geography' section found for {iso3Code}")
         return {}
+
+    # //////////////////////////////////////////////////////////////////////////////////////////////////
+    # WORLD-SPECIFIC: Return comprehensive World geography data
+    # --------------------------------------------------------------------------------------------------
+    if info == 'world_geography' and iso3Code == 'WLD':
+        return parse_geography_world(geography, iso3Code)
+
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     # NOTE: 1 >>> 'GEO AREA'
     # --------------------------------------------------------------------------------------------------

@@ -30,6 +30,12 @@ def return_economy_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_economy'] = get_economy(
+            data=data, info='world_economy', iso3Code=iso3Code)
+        return cia_pack
+
     # Note: 'agricultural_products'
     cia_pack['agricultural_products'] = get_economy(
         data=data, info='agricultural_products', iso3Code=iso3Code)
