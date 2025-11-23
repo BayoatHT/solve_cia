@@ -1,6 +1,7 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.c_06_economy.helper.utils.parse_econ_value import parse_econ_value
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,44 +9,42 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_debt_external(pass_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parses 'Debt - external' data including year-specific debt amounts and any additional notes.
-
-    Parameters:
-        pass_data (dict): The dictionary containing external debt data.
-
-    Returns:
-        dict: A dictionary with parsed debt data by year and notes if available.
-    """
+    """Parse debt external from CIA Economy section with separated value components."""
     result = {}
-
-    # Handle the 'note' key if it exists
-    if "note" in pass_data:
-        result["debt_external_note"] = clean_text(pass_data.get("note", ""))
-
-    # Helper function to parse debt entry
-    def parse_debt_entry(text: str) -> dict:
-        # Match amounts in trillions or billions with optional parentheses around year
-        match = re.match(r"\$([\d,]+)\s*\(?(\d{4})?\)?", text)
-        if match:
-            # Extract and clean the value
-            value_str = match.group(1).replace(",", "")
-            # Convert to trillions
-            value = float(value_str) / 1_000_000_000_000
-            year = int(match.group(2)) if match.group(2) else 0
-            return {
-                "value": value,
-                "unit": "trillion USD",
-                "year": year
-            }
-        return {"value": 0, "unit": "trillion USD", "year": 0}
-
-    # Parse each "Debt - external YEAR" entry
-    for key, value in pass_data.items():
-        if key.startswith("Debt - external") and "text" in value:
-            year = key.split()[-1]  # Extract year from the key
-            result[f"debt_external_{year}"] = parse_debt_entry(value["text"])
-
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+    try:
+        yearly_data = []
+        for k, v in pass_data.items():
+            if k == 'note':
+                if isinstance(v, str) and v.strip():
+                    result['external_debt_note'] = clean_text(v)
+                continue
+            if isinstance(v, dict) and 'text' in v:
+                year_match = re.search(r'(\d{4})', k)
+                if year_match:
+                    year = int(year_match.group(1))
+                    text = v.get('text', '')
+                    if text:
+                        parsed = parse_econ_value(text)
+                        entry = {'year': year}
+                        if parsed['value'] is not None:
+                            entry['value'] = parsed['value']
+                        if parsed['unit']:
+                            entry['unit'] = parsed['unit']
+                        if parsed['is_estimate']:
+                            entry['is_estimate'] = parsed['is_estimate']
+                        yearly_data.append(entry)
+        if yearly_data:
+            yearly_data.sort(key=lambda x: x['year'], reverse=True)
+            result['external_debt_data'] = yearly_data
+            if yearly_data[0].get('value') is not None:
+                result['external_debt_latest_value'] = yearly_data[0]['value']
+            result['external_debt_latest_year'] = yearly_data[0]['year']
+            if yearly_data[0].get('unit'):
+                result['external_debt_unit'] = yearly_data[0]['unit']
+    except Exception as e:
+        logging.error(f"Error parsing debt_external: {e}")
     return result
 
 

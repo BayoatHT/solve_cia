@@ -48,9 +48,18 @@ def return_economy_data(
     # Note: 'credit_ratings'
     cia_pack['credit_ratings'] = get_economy(
         data=data, info='credit_ratings', iso3Code=iso3Code)
+    # Note: 'current_account_balance'
+    cia_pack['current_account_balance'] = get_economy(
+        data=data, info='current_account_balance', iso3Code=iso3Code)
+    # Note: 'debt_external'
+    cia_pack['debt_external'] = get_economy(
+        data=data, info='debt_external', iso3Code=iso3Code)
     # Note: 'economic_overview'
     cia_pack['economic_overview'] = get_economy(
         data=data, info='economic_overview', iso3Code=iso3Code)
+    # Note: 'exports'
+    cia_pack['exports'] = get_economy(
+        data=data, info='exports', iso3Code=iso3Code)
     # Note: 'exports_commodities'
     cia_pack['exports_commodities'] = get_economy(
         data=data, info='exports_commodities', iso3Code=iso3Code)
@@ -84,15 +93,24 @@ def return_economy_data(
     # Note: 'industries'
     cia_pack['industries'] = get_economy(
         data=data, info='industries', iso3Code=iso3Code)
+    # Note: 'inflation_rate'
+    cia_pack['inflation_rate'] = get_economy(
+        data=data, info='inflation_rate', iso3Code=iso3Code)
     # Note: 'labor_force_by_occupation'
     cia_pack['labor_force_by_occupation'] = get_economy(
         data=data, info='labor_force_by_occupation', iso3Code=iso3Code)
+    # Note: 'public_debt'
+    cia_pack['public_debt'] = get_economy(
+        data=data, info='public_debt', iso3Code=iso3Code)
     # Note: 'remittances'
     cia_pack['remittances'] = get_economy(
         data=data, info='remittances', iso3Code=iso3Code)
     # Note: 'reserves_of_foreign_exchange_and_gold'
     cia_pack['reserves_of_foreign_exchange_and_gold'] = get_economy(
         data=data, info='reserves_of_foreign_exchange_and_gold', iso3Code=iso3Code)
+    # Note: 'unemployment_rate'
+    cia_pack['unemployment_rate'] = get_economy(
+        data=data, info='unemployment_rate', iso3Code=iso3Code)
     # Note: 'youth_unemployment_rate'
     cia_pack['youth_unemployment_rate'] = get_economy(
         data=data, info='youth_unemployment_rate', iso3Code=iso3Code)
