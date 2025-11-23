@@ -42,12 +42,16 @@ def get_terrorism(data=None, info=None, iso3Code=None):
 ######################################################################################################################
 if __name__ == '__main__':
 
+    import platform
     # ---------------------------------------------------------------------------------------------------------------------------------
-    info = 'pass'
+    info = 'terrorism'
     # ---------------------------------------------------------------------------------------------------------------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), '_raw_data')
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'

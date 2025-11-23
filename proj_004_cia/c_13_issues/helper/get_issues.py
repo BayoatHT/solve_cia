@@ -84,23 +84,27 @@ def get_issues(data=None, info=None, iso3Code=None):
 
 
 ######################################################################################################################
-#   TEST FUNCTION - C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia
+#   TEST FUNCTION
 ######################################################################################################################
 if __name__ == '__main__':
 
+    import platform
     # ---------------------------------------------------------------------------------------------------------------------------------
-    info = 'pass'
+    info = 'displaced_persons'
     # ---------------------------------------------------------------------------------------------------------------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    if platform.system() == 'Windows':
+        json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
+    else:
+        json_folder = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), '_raw_data')
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'
-    if country == "FRA":
+    elif country == "FRA":
         region_folder = f'europe'
         cia_code = 'fr'
-    if country == "WLD":
+    elif country == "WLD":
         region_folder = f'world'
         cia_code = 'xx'
     file_path = os.path.join(json_folder, region_folder, f'{cia_code}.json')
