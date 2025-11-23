@@ -12,6 +12,7 @@ from proj_004_cia.c_13_issues.helper.utils.parse_displaced_persons import parse_
 from proj_004_cia.c_13_issues.helper.utils.parse_illicit_drugs import parse_illicit_drugs
 from proj_004_cia.c_13_issues.helper.utils.parse_international import parse_international
 from proj_004_cia.c_13_issues.helper.utils.parse_trafficking import parse_trafficking
+from proj_004_cia.c_13_issues.helper.utils.parse_issues_world import parse_issues_world
 
 
 def get_issues(data=None, info=None, iso3Code=None):
@@ -22,6 +23,10 @@ def get_issues(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     issues_data = data.get("Transnational Issues", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
+
+    # WORLD-SPECIFIC: Return all issues in one comprehensive dict
+    if info == 'world_issues' and iso3Code == 'WLD':
+        return parse_issues_world(issues_data, iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////

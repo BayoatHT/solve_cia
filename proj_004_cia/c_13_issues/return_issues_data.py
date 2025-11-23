@@ -31,7 +31,13 @@ def return_issues_data(
     # Initialize the dictionary to hold geography data
     cia_pack = {}
 
-    # Conditional inclusion based on iso3Code
+    # WORLD-SPECIFIC: Use comprehensive World parser
+    if iso3Code == 'WLD':
+        cia_pack['world_issues'] = get_issues(
+            data=data, info='world_issues', iso3Code=iso3Code)
+        return cia_pack
+
+    # Conditional inclusion for individual countries
 
     # Note: 'international_issues'
     cia_pack['international_issues'] = get_issues(

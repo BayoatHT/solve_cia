@@ -10,6 +10,7 @@ from proj_004_cia.c_00_transform_utils.extract_and_parse import extract_and_pars
 # ---------------------------------------------------------------------------------------------------------------------
 # -----------------------------------------------------------------------------------------------------
 from proj_004_cia.c_11_space.helper.utils.parse_space import parse_space
+from proj_004_cia.c_11_space.helper.utils.parse_space_world import parse_space_world
 # //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -22,11 +23,10 @@ def get_space(data=None, info=None, iso3Code=None):
     space_data = data.get("Space", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'space':
-        """
-        return parse_space(
-            space_data
-        )        
-        """
+        # Use World-specific parser for WLD
+        if iso3Code == 'WLD':
+            return parse_space_world(space_data, iso3Code)
+
         return extract_and_parse(
             main_data=data,
             key_path="Space",
