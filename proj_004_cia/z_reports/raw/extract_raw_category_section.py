@@ -18,33 +18,23 @@ import sys
 import json
 import re
 from datetime import datetime
-from typing import Dict, Any, Optional
+from typing import Dict, Any
 
 # Add parent directory to path for imports
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
 
 from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data, ISO3_TO_CIA
+from proj_004_cia.z_reports.category_sections import RAW_CATEGORIES, get_raw_sections, list_all_raw
 
 
 def sanitize_filename(name: str) -> str:
     """Convert a string to a valid filename."""
-    # Replace spaces and special chars with underscores
     name = re.sub(r'[^\w\s-]', '', name)
     name = re.sub(r'[\s-]+', '_', name)
     return name.lower().strip('_')
 
 
-def get_available_categories() -> Dict[str, list]:
-    """Get all available categories and their sections from sample country."""
-    data = load_country_data('USA')
-    categories = {}
-    for cat_name, cat_data in data.items():
-        if isinstance(cat_data, dict):
-            categories[cat_name] = list(cat_data.keys())
-    return categories
-
-
-def extract_raw_section(category: str, section: str) -> Dict[str, Any]:
+def extract_raw_section(category: str, section: str) -> tuple:
     """
     Extract raw data for a specific category/section from all countries.
 
@@ -53,7 +43,7 @@ def extract_raw_section(category: str, section: str) -> Dict[str, Any]:
         section: Section name within the category (e.g., "Climate", "GDP")
 
     Returns:
-        Dictionary with ISO3 codes as keys and raw section data as values
+        Tuple of (results dict, errors list)
     """
     results = {}
     errors = []
@@ -77,28 +67,14 @@ def extract_raw_section(category: str, section: str) -> Dict[str, Any]:
 
 
 def save_report(data: Dict[str, Any], category: str, section: str, output_dir: str) -> str:
-    """
-    Save extracted data to a Python file in _reports directory.
-
-    Args:
-        data: Dictionary of extracted data
-        category: Category name
-        section: Section name
-        output_dir: Directory to save the report
-
-    Returns:
-        Path to the saved file
-    """
-    # Generate filename
+    """Save extracted data to a Python file in _reports directory."""
     cat_safe = sanitize_filename(category)
     sec_safe = sanitize_filename(section)
     filename = f"raw_{cat_safe}_{sec_safe}.py"
     filepath = os.path.join(output_dir, filename)
 
-    # Count non-null entries
     non_null = sum(1 for v in data.values() if v is not None)
 
-    # Generate Python file content
     content = f'''"""
 Raw Data Report: {category} > {section}
 
@@ -118,60 +94,37 @@ RAW_DATA = {json.dumps(data, indent=4, ensure_ascii=False)}
     return filepath
 
 
-def list_categories():
-    """Print all available categories and sections."""
-    categories = get_available_categories()
-    print("\nAvailable Categories and Sections:")
-    print("=" * 60)
-    for cat, sections in sorted(categories.items()):
-        print(f"\n{cat}:")
-        for sec in sections:
-            print(f"    - {sec}")
+def run_extraction(category: str, section: str, output_dir: str = None) -> Dict[str, Any]:
+    """
+    Run extraction for a category/section and save report.
 
+    Args:
+        category: Category name
+        section: Section name
+        output_dir: Output directory (defaults to _reports/)
 
-def main():
-    # Get script directory for output
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_dir = os.path.join(script_dir, "_reports")
+    Returns:
+        Dictionary of extracted data
+    """
+    if output_dir is None:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        output_dir = os.path.join(script_dir, "_reports")
     os.makedirs(output_dir, exist_ok=True)
 
-    # Parse arguments
-    if len(sys.argv) < 3:
-        print("Usage: python extract_raw_category_section.py <category> <section>")
-        print("\nExamples:")
-        print('  python extract_raw_category_section.py "Environment" "Climate"')
-        print('  python extract_raw_category_section.py "Economy" "Real GDP growth rate"')
-        print("\nUse --list to see all available categories and sections")
+    # Validate
+    if category not in RAW_CATEGORIES:
+        raise ValueError(f"Unknown category: {category}. Available: {list(RAW_CATEGORIES.keys())}")
 
-        if len(sys.argv) == 2 and sys.argv[1] == "--list":
-            list_categories()
-        sys.exit(1)
-
-    category = sys.argv[1]
-    section = sys.argv[2]
+    sections = get_raw_sections(category)
+    if section not in sections:
+        raise ValueError(f"Unknown section: {section}. Available: {sections}")
 
     print(f"Extracting raw data for: {category} > {section}")
     print("-" * 60)
 
-    # Validate category/section exist
-    categories = get_available_categories()
-    if category not in categories:
-        print(f"Error: Category '{category}' not found.")
-        print(f"Available categories: {', '.join(categories.keys())}")
-        sys.exit(1)
-
-    if section not in categories[category]:
-        print(f"Error: Section '{section}' not found in category '{category}'.")
-        print(f"Available sections: {', '.join(categories[category])}")
-        sys.exit(1)
-
-    # Extract data
     data, errors = extract_raw_section(category, section)
-
-    # Save report
     filepath = save_report(data, category, section, output_dir)
 
-    # Summary
     non_null = sum(1 for v in data.values() if v is not None)
     print(f"Countries processed: {len(data)}")
     print(f"Countries with data: {non_null}")
@@ -181,11 +134,44 @@ def main():
         print(f"\nErrors ({len(errors)}):")
         for err in errors[:5]:
             print(f"  - {err}")
-        if len(errors) > 5:
-            print(f"  ... and {len(errors) - 5} more")
 
     print(f"\nReport saved to: {filepath}")
+    return data
 
 
+def main():
+    if len(sys.argv) < 3:
+        print("Usage: python extract_raw_category_section.py <category> <section>")
+        print("\nExamples:")
+        print('  python extract_raw_category_section.py "Environment" "Climate"')
+        print('  python extract_raw_category_section.py "Economy" "Real GDP growth rate"')
+        print("\nUse --list to see all available categories and sections")
+
+        if len(sys.argv) == 2 and sys.argv[1] == "--list":
+            list_all_raw()
+        sys.exit(1)
+
+    category = sys.argv[1]
+    section = sys.argv[2]
+    run_extraction(category, section)
+
+
+######################################################################################################################
+#   TEST CONFIGURATION - Change these values to test different extractions
+######################################################################################################################
 if __name__ == "__main__":
-    main()
+    # --------------------------------------------------------------------------------------------------
+    # Configure test extraction here:
+    TEST_CATEGORY = "Environment"
+    TEST_SECTION = "Major rivers (by length in km)"
+    # --------------------------------------------------------------------------------------------------
+
+    # If command line args provided, use main(), otherwise use test config
+    if len(sys.argv) > 1:
+        main()
+    else:
+        print("Running with test configuration...")
+        print(f"Category: {TEST_CATEGORY}")
+        print(f"Section: {TEST_SECTION}")
+        print()
+        run_extraction(TEST_CATEGORY, TEST_SECTION)
