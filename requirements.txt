@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------------------
+#  LLM PACKAGE REQUIREMENTS
+# ---------------------------------------------------------------------------------------
+
+
+
+# ---------------------------------------------------------------------------------------
+# STANDARD AND LLM PACKAGE REQUIREMENTS
+# ---------------------------------------------------------------------------------------
+aiohttp              
+beautifulsoup4                
+numpy                
+pandas               
+pydotplus            
+requests         
+python-dotenv             
+setuptools           
+
+# ---------------------------------------------------------------------------------------
+# STANDARD PACKAGE REQUIREMENTS
+# ---------------------------------------------------------------------------------------
+tqdm
+fuzzywuzzy    
+fastapi                              
+httpcore             
+httptools            
+httpx                
+         
+packaging            
+passlib              
+Pillow               
+pip                  
+psycopg2             
+pyasn1               
+pycparser            
+pydantic             
+             
+python-dateutil      
+   
+python-slugify       
+              
+regex                
+                
+selenium             
+           
+wikipedia            

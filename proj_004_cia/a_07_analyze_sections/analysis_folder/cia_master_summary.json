@@ -1,0 +1,227 @@
+{
+  "overview": {
+    "total_files_analyzed": 252,
+    "total_sections": 13,
+    "total_functions_needed": 226,
+    "total_helper_functions": [
+      "parse_time_series",
+      "extract_text_and_note",
+      "parse_territorial_subdivisions",
+      "parse_coordinates"
+    ]
+  },
+  "section_summaries": {
+    "military_and_security": {
+      "display_name": "Military and Security",
+      "coverage_percentage": 100.0,
+      "total_properties": 7,
+      "helper_functions_needed": [
+        "parse_time_series",
+        "parse_territorial_subdivisions",
+        "extract_text_and_note"
+      ]
+    },
+    "transportation": {
+      "display_name": "Transportation",
+      "coverage_percentage": 100.0,
+      "total_properties": 14,
+      "helper_functions_needed": [
+        "extract_text_and_note"
+      ]
+    },
+    "terrorism": {
+      "display_name": "Terrorism",
+      "coverage_percentage": 36.11111111111111,
+      "total_properties": 1,
+      "helper_functions_needed": [
+        "extract_text_and_note"
+      ]
+    },
+    "geography": {
+      "display_name": "Geography",
+      "coverage_percentage": 100.0,
+      "total_properties": 25,
+      "helper_functions_needed": [
+        "parse_territorial_subdivisions",
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "government": {
+      "display_name": "Government",
+      "coverage_percentage": 100.0,
+      "total_properties": 28,
+      "helper_functions_needed": [
+        "parse_territorial_subdivisions",
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "energy": {
+      "display_name": "Energy",
+      "coverage_percentage": 93.65079365079364,
+      "total_properties": 32,
+      "helper_functions_needed": [
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "environment": {
+      "display_name": "Environment",
+      "coverage_percentage": 99.60317460317461,
+      "total_properties": 18,
+      "helper_functions_needed": [
+        "parse_territorial_subdivisions",
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "economy": {
+      "display_name": "Economy",
+      "coverage_percentage": 100.0,
+      "total_properties": 41,
+      "helper_functions_needed": [
+        "parse_time_series",
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "transnational_issues": {
+      "display_name": "Transnational Issues",
+      "coverage_percentage": 99.60317460317461,
+      "total_properties": 4,
+      "helper_functions_needed": [
+        "extract_text_and_note"
+      ]
+    },
+    "introduction": {
+      "display_name": "Introduction",
+      "coverage_percentage": 100.0,
+      "total_properties": 2,
+      "helper_functions_needed": [
+        "parse_territorial_subdivisions",
+        "extract_text_and_note"
+      ]
+    },
+    "people_and_society": {
+      "display_name": "People and Society",
+      "coverage_percentage": 100.0,
+      "total_properties": 43,
+      "helper_functions_needed": [
+        "parse_territorial_subdivisions",
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    },
+    "space": {
+      "display_name": "Space",
+      "coverage_percentage": 30.952380952380953,
+      "total_properties": 3,
+      "helper_functions_needed": [
+        "extract_text_and_note"
+      ]
+    },
+    "communications": {
+      "display_name": "Communications",
+      "coverage_percentage": 97.61904761904762,
+      "total_properties": 8,
+      "helper_functions_needed": [
+        "parse_coordinates",
+        "extract_text_and_note"
+      ]
+    }
+  },
+  "implementation_roadmap": [
+    {
+      "section_key": "people_and_society",
+      "display_name": "People and Society",
+      "priority_score": 4300.0,
+      "coverage_percentage": 100.0,
+      "complexity": 3
+    },
+    {
+      "section_key": "economy",
+      "display_name": "Economy",
+      "priority_score": 4100.0,
+      "coverage_percentage": 100.0,
+      "complexity": 3
+    },
+    {
+      "section_key": "energy",
+      "display_name": "Energy",
+      "priority_score": 2996.8253968253966,
+      "coverage_percentage": 93.65079365079364,
+      "complexity": 2
+    },
+    {
+      "section_key": "government",
+      "display_name": "Government",
+      "priority_score": 2800.0,
+      "coverage_percentage": 100.0,
+      "complexity": 3
+    },
+    {
+      "section_key": "geography",
+      "display_name": "Geography",
+      "priority_score": 2500.0,
+      "coverage_percentage": 100.0,
+      "complexity": 3
+    },
+    {
+      "section_key": "environment",
+      "display_name": "Environment",
+      "priority_score": 1792.857142857143,
+      "coverage_percentage": 99.60317460317461,
+      "complexity": 3
+    },
+    {
+      "section_key": "transportation",
+      "display_name": "Transportation",
+      "priority_score": 1400.0,
+      "coverage_percentage": 100.0,
+      "complexity": 1
+    },
+    {
+      "section_key": "communications",
+      "display_name": "Communications",
+      "priority_score": 780.952380952381,
+      "coverage_percentage": 97.61904761904762,
+      "complexity": 2
+    },
+    {
+      "section_key": "military_and_security",
+      "display_name": "Military and Security",
+      "priority_score": 700.0,
+      "coverage_percentage": 100.0,
+      "complexity": 3
+    },
+    {
+      "section_key": "transnational_issues",
+      "display_name": "Transnational Issues",
+      "priority_score": 398.41269841269843,
+      "coverage_percentage": 99.60317460317461,
+      "complexity": 1
+    },
+    {
+      "section_key": "introduction",
+      "display_name": "Introduction",
+      "priority_score": 200.0,
+      "coverage_percentage": 100.0,
+      "complexity": 2
+    },
+    {
+      "section_key": "space",
+      "display_name": "Space",
+      "priority_score": 92.85714285714286,
+      "coverage_percentage": 30.952380952380953,
+      "complexity": 1
+    },
+    {
+      "section_key": "terrorism",
+      "display_name": "Terrorism",
+      "priority_score": 36.11111111111111,
+      "coverage_percentage": 36.11111111111111,
+      "complexity": 1
+    }
+  ]
+}

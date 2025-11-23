@@ -1,0 +1,325 @@
+{
+  "section_info": {
+    "section_key": "communications",
+    "display_name": "Communications",
+    "total_files_analyzed": 252,
+    "countries_with_section": 246,
+    "coverage_percentage": 97.61904761904762,
+    "total_properties": 8
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_communications_data",
+    "helper_function": "get_communications",
+    "total_parser_functions_needed": 8,
+    "helper_functions_needed": [
+      "parse_coordinates",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "telephones_fixed_lines": {
+      "display_name": "Telephones - fixed lines",
+      "function_name": "parse_communications_telephones_fixed_lines",
+      "coverage_percentage": 90.47619047619048,
+      "countries_with_property": 228,
+      "complexity_score": 912,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "total subscriptions": {
+            "text": "5.576 million (2022 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "12 (2022 est.)"
+          }
+        },
+        {
+          "total subscriptions": {
+            "text": "94,000 (2022 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "(2022 est.) less than 1"
+          }
+        }
+      ],
+      "priority_score": -7.238095238095184
+    },
+    "telephones_mobile_cellular": {
+      "display_name": "Telephones - mobile cellular",
+      "function_name": "parse_communications_telephones_mobile_cellular",
+      "coverage_percentage": 90.07936507936508,
+      "countries_with_property": 227,
+      "complexity_score": 910,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "total subscriptions": {
+            "text": "49.019 million (2022 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "109 (2022 est.)"
+          }
+        },
+        {
+          "total subscriptions": {
+            "text": "23.978 million (2022 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "67 (2022 est.)"
+          }
+        }
+      ],
+      "priority_score": -9.206349206349273
+    },
+    "telecommunication_systems": {
+      "display_name": "Telecommunication systems",
+      "function_name": "parse_communications_telecommunication_systems",
+      "coverage_percentage": 95.63492063492063,
+      "countries_with_property": 241,
+      "complexity_score": 1437,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 3,
+        "complex_nesting": 1
+      },
+      "sample_values": [
+        {
+          "general assessment": {
+            "text": "Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)"
+          },
+          "domestic": {
+            "text": "a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)"
+          },
+          "international": {
+            "text": "country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)"
+          }
+        },
+        {
+          "general assessment": {
+            "text": "Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)"
+          },
+          "domestic": {
+            "text": "less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)"
+          },
+          "international": {
+            "text": "country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)"
+          }
+        }
+      ],
+      "priority_score": -480.65079365079373
+    },
+    "broadcast_media": {
+      "display_name": "Broadcast media",
+      "function_name": "parse_communications_broadcast_media",
+      "coverage_percentage": 94.84126984126983,
+      "countries_with_property": 239,
+      "complexity_score": 239,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 239
+      },
+      "sample_values": [
+        {
+          "text": "state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations"
+        },
+        {
+          "text": "state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 26 stations; approximately20 private radio stations broadcast locally"
+        }
+      ],
+      "priority_score": 709.4126984126983
+    },
+    "internet_country_code": {
+      "display_name": "Internet country code",
+      "function_name": "parse_communications_internet_country_code",
+      "coverage_percentage": 94.84126984126983,
+      "countries_with_property": 239,
+      "complexity_score": 241,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 239
+      },
+      "sample_values": [
+        {
+          "text": ".dz"
+        },
+        {
+          "text": ".ao"
+        }
+      ],
+      "priority_score": 707.4126984126983
+    },
+    "internet_users": {
+      "display_name": "Internet users",
+      "function_name": "parse_communications_internet_users",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 945,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "aggregated_data"
+      ],
+      "parsing_challenges": {
+        "coordinate_data": 235,
+        "text_note_extraction": 5
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "31.24 million (2021 est.)"
+          },
+          "percent of population": {
+            "text": "71% (2021 est.)"
+          }
+        },
+        {
+          "total": {
+            "text": "11.55 million (2021 est.)"
+          },
+          "percent of population": {
+            "text": "33% (2021 est.)"
+          }
+        }
+      ],
+      "priority_score": -12.46031746031747
+    },
+    "broadband_fixed_subscriptions": {
+      "display_name": "Broadband - fixed subscriptions",
+      "function_name": "parse_communications_broadband_fixed_subscriptions",
+      "coverage_percentage": 85.71428571428571,
+      "countries_with_property": 216,
+      "complexity_score": 864,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "aggregated_data",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "3,790,459 (2020 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "9 (2020 est.)"
+          }
+        },
+        {
+          "total": {
+            "text": "230,610 (2020 est.)"
+          },
+          "subscriptions per 100 inhabitants": {
+            "text": "0.7 (2020 est.)"
+          }
+        }
+      ],
+      "priority_score": -6.85714285714289
+    },
+    "communications_note": {
+      "display_name": "Communications - note",
+      "function_name": "parse_communications_communications_note",
+      "coverage_percentage": 5.555555555555555,
+      "countries_with_property": 14,
+      "complexity_score": 14,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 14
+      },
+      "sample_values": [
+        {
+          "text": "one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence"
+        },
+        {
+          "text": "the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts"
+        }
+      ],
+      "priority_score": 41.55555555555556
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "broadcast_media",
+      "function_name": "parse_communications_broadcast_media",
+      "priority_score": 709.4126984126983,
+      "coverage_percentage": 94.84126984126983,
+      "complexity_score": 239
+    },
+    {
+      "property_key": "internet_country_code",
+      "function_name": "parse_communications_internet_country_code",
+      "priority_score": 707.4126984126983,
+      "coverage_percentage": 94.84126984126983,
+      "complexity_score": 241
+    },
+    {
+      "property_key": "communications_note",
+      "function_name": "parse_communications_communications_note",
+      "priority_score": 41.55555555555556,
+      "coverage_percentage": 5.555555555555555,
+      "complexity_score": 14
+    },
+    {
+      "property_key": "broadband_fixed_subscriptions",
+      "function_name": "parse_communications_broadband_fixed_subscriptions",
+      "priority_score": -6.85714285714289,
+      "coverage_percentage": 85.71428571428571,
+      "complexity_score": 864
+    },
+    {
+      "property_key": "telephones_fixed_lines",
+      "function_name": "parse_communications_telephones_fixed_lines",
+      "priority_score": -7.238095238095184,
+      "coverage_percentage": 90.47619047619048,
+      "complexity_score": 912
+    },
+    {
+      "property_key": "telephones_mobile_cellular",
+      "function_name": "parse_communications_telephones_mobile_cellular",
+      "priority_score": -9.206349206349273,
+      "coverage_percentage": 90.07936507936508,
+      "complexity_score": 910
+    },
+    {
+      "property_key": "internet_users",
+      "function_name": "parse_communications_internet_users",
+      "priority_score": -12.46031746031747,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 945
+    },
+    {
+      "property_key": "telecommunication_systems",
+      "function_name": "parse_communications_telecommunication_systems",
+      "priority_score": -480.65079365079373,
+      "coverage_percentage": 95.63492063492063,
+      "complexity_score": 1437
+    }
+  ]
+}

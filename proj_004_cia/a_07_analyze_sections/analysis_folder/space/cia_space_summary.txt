@@ -1,0 +1,22 @@
+================================================================================
+CIA SPACE SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 31.0% (78/252 countries)
+  Properties: 3
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_space_data()
+  Helper Function: get_space()
+  Parser Functions: 3
+  Utility Functions: 1
+  Utilities Needed:
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_space_space_program_overview: Score 153 | Patterns: nested_dictionary
+  parse_space_space_agency_agencies: Score 81 | Patterns: nested_dictionary
+  parse_space_space_launch_site_s: Score 37 | Patterns: nested_dictionary

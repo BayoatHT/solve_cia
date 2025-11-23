@@ -1,0 +1,20 @@
+================================================================================
+CIA TERRORISM SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 36.1% (91/252 countries)
+  Properties: 1
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_terrorism_data()
+  Helper Function: get_terrorism()
+  Parser Functions: 1
+  Utility Functions: 1
+  Utilities Needed:
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_terrorism_terrorist_group_s: Score 170 | Patterns: nested_dictionary

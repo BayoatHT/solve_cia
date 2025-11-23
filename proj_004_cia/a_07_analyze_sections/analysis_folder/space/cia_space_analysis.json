@@ -1,0 +1,111 @@
+{
+  "section_info": {
+    "section_key": "space",
+    "display_name": "Space",
+    "total_files_analyzed": 252,
+    "countries_with_section": 78,
+    "coverage_percentage": 30.952380952380953,
+    "total_properties": 3
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_space_data",
+    "helper_function": "get_space",
+    "total_parser_functions_needed": 3,
+    "helper_functions_needed": [
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "space_agency_agencies": {
+      "display_name": "Space agency/agencies",
+      "function_name": "parse_space_space_agency_agencies",
+      "coverage_percentage": 30.952380952380953,
+      "countries_with_property": 78,
+      "complexity_score": 81,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 78
+      },
+      "sample_values": [
+        {
+          "text": "Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002) (2024)"
+        },
+        {
+          "text": "National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2024)"
+        }
+      ],
+      "priority_score": 228.52380952380952
+    },
+    "space_launch_site_s": {
+      "display_name": "Space launch site(s)",
+      "function_name": "parse_space_space_launch_site_s",
+      "coverage_percentage": 13.492063492063492,
+      "countries_with_property": 34,
+      "complexity_score": 37,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 34
+      },
+      "sample_values": [
+        {
+          "text": "none; note - in 1947, Algeria began hosting a French military rocket test site, which was the continent of Africa's first rocket launch site; it was called the Centre Interarm&eacute;es d&rsquo;Essais d&rsquo;Engins Sp&eacute;ciaux (CIEES or Interarmy Special Vehicles Test Center) and was in service until 1967"
+        },
+        {
+          "text": "Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future (2024)"
+        }
+      ],
+      "priority_score": 97.92063492063491
+    },
+    "space_program_overview": {
+      "display_name": "Space program overview",
+      "function_name": "parse_space_space_program_overview",
+      "coverage_percentage": 30.555555555555557,
+      "countries_with_property": 77,
+      "complexity_score": 153,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 77
+      },
+      "sample_values": [
+        {
+          "text": "has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)",
+          "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
+        },
+        {
+          "text": "has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)",
+          "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
+        }
+      ],
+      "priority_score": 152.55555555555554
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "space_agency_agencies",
+      "function_name": "parse_space_space_agency_agencies",
+      "priority_score": 228.52380952380952,
+      "coverage_percentage": 30.952380952380953,
+      "complexity_score": 81
+    },
+    {
+      "property_key": "space_program_overview",
+      "function_name": "parse_space_space_program_overview",
+      "priority_score": 152.55555555555554,
+      "coverage_percentage": 30.555555555555557,
+      "complexity_score": 153
+    },
+    {
+      "property_key": "space_launch_site_s",
+      "function_name": "parse_space_space_launch_site_s",
+      "priority_score": 97.92063492063491,
+      "coverage_percentage": 13.492063492063492,
+      "complexity_score": 37
+    }
+  ]
+}

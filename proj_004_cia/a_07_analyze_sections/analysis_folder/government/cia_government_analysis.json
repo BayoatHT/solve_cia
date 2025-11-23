@@ -1,0 +1,1131 @@
+{
+  "section_info": {
+    "section_key": "government",
+    "display_name": "Government",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 28
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_government_data",
+    "helper_function": "get_government",
+    "total_parser_functions_needed": 28,
+    "helper_functions_needed": [
+      "parse_territorial_subdivisions",
+      "parse_coordinates",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "country_name": {
+      "display_name": "Country name",
+      "function_name": "parse_government_country_name",
+      "coverage_percentage": 99.20634920634922,
+      "countries_with_property": 250,
+      "complexity_score": 2558,
+      "data_patterns": [
+        "nested_subdicts_7",
+        "nested_subdicts_6",
+        "nested_subdicts_4",
+        "nested_subdicts_3",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 212,
+        "coordinate_data": 250,
+        "text_note_extraction": 14
+      },
+      "sample_values": [
+        {
+          "conventional long form": {
+            "text": "People's Democratic Republic of Algeria"
+          },
+          "conventional short form": {
+            "text": "Algeria"
+          },
+          "local long form": {
+            "text": "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah"
+          },
+          "local short form": {
+            "text": "Al Jaza'ir"
+          },
+          "etymology": {
+            "text": "the country name derives from the capital city of Algiers"
+          }
+        },
+        {
+          "conventional long form": {
+            "text": "Republic of Angola"
+          },
+          "conventional short form": {
+            "text": "Angola"
+          },
+          "local long form": {
+            "text": "Republica de Angola"
+          },
+          "local short form": {
+            "text": "Angola"
+          },
+          "former": {
+            "text": "People's Republic of Angola"
+          },
+          "etymology": {
+            "text": "name derived by the Portuguese from the title \"ngola\" held by kings of the Ndongo (Ndongo was a kingdom in what is now Angola)"
+          }
+        }
+      ],
+      "priority_score": -1565.936507936508
+    },
+    "government_type": {
+      "display_name": "Government type",
+      "function_name": "parse_government_government_type",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 238,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "presidential republic"
+        },
+        {
+          "text": "presidential republic"
+        }
+      ],
+      "priority_score": 694.5396825396825
+    },
+    "capital": {
+      "display_name": "Capital",
+      "function_name": "parse_government_capital",
+      "coverage_percentage": 94.44444444444444,
+      "countries_with_property": 238,
+      "complexity_score": 2085,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 228,
+        "coordinate_data": 234,
+        "text_note_extraction": 11
+      },
+      "sample_values": [
+        {
+          "name": {
+            "text": "Algiers"
+          },
+          "geographic coordinates": {
+            "text": "36 45 N, 3 03 E"
+          },
+          "time difference": {
+            "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+          },
+          "etymology": {
+            "text": "name derives from the Arabic \"al-Jazair\" meaning \"the islands\" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525"
+          }
+        },
+        {
+          "name": {
+            "text": "Luanda"
+          },
+          "geographic coordinates": {
+            "text": "8 50 S, 13 13 E"
+          },
+          "time difference": {
+            "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+          },
+          "daylight saving time": {
+            "text": "does not observe daylight savings time"
+          },
+          "etymology": {
+            "text": "originally named \"Sao Paulo da Assuncao de Loanda\" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda"
+          },
+          "note": "&nbsp;"
+        }
+      ],
+      "priority_score": -1140.5555555555557
+    },
+    "administrative_divisions": {
+      "display_name": "Administrative divisions",
+      "function_name": "parse_government_administrative_divisions",
+      "coverage_percentage": 92.46031746031747,
+      "countries_with_property": 233,
+      "complexity_score": 268,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 233
+      },
+      "sample_values": [
+        {
+          "text": "58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt"
+        },
+        {
+          "text": "18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire"
+        }
+      ],
+      "priority_score": 656.6031746031747
+    },
+    "independence": {
+      "display_name": "Independence",
+      "function_name": "parse_government_independence",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 236,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "5 July 1962 (from France)"
+        },
+        {
+          "text": "11 November 1975 (from Portugal)"
+        }
+      ],
+      "priority_score": 696.5396825396825
+    },
+    "national_holiday": {
+      "display_name": "National holiday",
+      "function_name": "parse_government_national_holiday",
+      "coverage_percentage": 92.85714285714286,
+      "countries_with_property": 234,
+      "complexity_score": 235,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 234,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "Independence Day, 5 July (1962); Revolution Day, 1 November (1954)"
+        },
+        {
+          "text": "Independence Day, 11 November (1975)"
+        }
+      ],
+      "priority_score": 693.5714285714287
+    },
+    "legal_system": {
+      "display_name": "Legal system",
+      "function_name": "parse_government_legal_system",
+      "coverage_percentage": 97.61904761904762,
+      "countries_with_property": 246,
+      "complexity_score": 246,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 246
+      },
+      "sample_values": [
+        {
+          "text": "mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices"
+        },
+        {
+          "text": "civil legal system based on Portuguese civil law; no judicial review of legislation"
+        }
+      ],
+      "priority_score": 730.1904761904761
+    },
+    "constitution": {
+      "display_name": "Constitution",
+      "function_name": "parse_government_constitution",
+      "coverage_percentage": 94.04761904761905,
+      "countries_with_property": 237,
+      "complexity_score": 935,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 5
+      },
+      "sample_values": [
+        {
+          "history": {
+            "text": "several previous; latest approved by referendum 1 November 2020"
+          },
+          "amendments": {
+            "text": "proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens&rsquo; liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020"
+          }
+        },
+        {
+          "history": {
+            "text": "previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010"
+          },
+          "amendments": {
+            "text": "proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic"
+          }
+        }
+      ],
+      "priority_score": 5.476190476190482
+    },
+    "international_law_organization_participation": {
+      "display_name": "International law organization participation",
+      "function_name": "parse_government_international_law_organization_participation",
+      "coverage_percentage": 78.57142857142857,
+      "countries_with_property": 198,
+      "complexity_score": 198,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 198
+      },
+      "sample_values": [
+        {
+          "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+        },
+        {
+          "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+        }
+      ],
+      "priority_score": 587.7142857142857
+    },
+    "citizenship": {
+      "display_name": "Citizenship",
+      "function_name": "parse_government_citizenship",
+      "coverage_percentage": 92.85714285714286,
+      "countries_with_property": 234,
+      "complexity_score": 1609,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_4"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 196,
+        "text_note_extraction": 41
+      },
+      "sample_values": [
+        {
+          "citizenship by birth": {
+            "text": "no"
+          },
+          "citizenship by descent only": {
+            "text": "the mother must be a citizen of Algeria"
+          },
+          "dual citizenship recognized": {
+            "text": "no"
+          },
+          "residency requirement for naturalization": {
+            "text": "7 years"
+          }
+        },
+        {
+          "citizenship by birth": {
+            "text": "no"
+          },
+          "citizenship by descent only": {
+            "text": "at least one parent must be a citizen of Angola"
+          },
+          "dual citizenship recognized": {
+            "text": "no"
+          },
+          "residency requirement for naturalization": {
+            "text": "10 years"
+          }
+        }
+      ],
+      "priority_score": -680.4285714285713
+    },
+    "suffrage": {
+      "display_name": "Suffrage",
+      "function_name": "parse_government_suffrage",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 236,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "18 years of age; universal"
+        },
+        {
+          "text": "18 years of age; universal"
+        }
+      ],
+      "priority_score": 696.5396825396825
+    },
+    "executive_branch": {
+      "display_name": "Executive branch",
+      "function_name": "parse_government_executive_branch",
+      "coverage_percentage": 95.23809523809523,
+      "countries_with_property": 240,
+      "complexity_score": 2335,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 232,
+        "text_note_extraction": 94,
+        "territorial_subdivisions": 2
+      },
+      "sample_values": [
+        {
+          "chief of state": {
+            "text": "President Abdelmadjid TEBBOUNE (since 12 December 2019)"
+          },
+          "head of government": {
+            "text": "Prime Minister Nadir LARBAOUI (since 11 November 2023)"
+          },
+          "cabinet": {
+            "text": "Cabinet of Ministers appointed by the president"
+          },
+          "elections/appointments": {
+            "text": "president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held on 7 September 2024); prime minister nominated by the president after consultation with the majority party in Parliament"
+          },
+          "election results": {
+            "text": "<em><br>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%"
+          }
+        },
+        {
+          "chief of state": {
+            "text": "President Joao Manuel Goncalves LOURENCO (since 26 September 2017)"
+          },
+          "head of government": {
+            "text": "President Joao Manuel Goncalves LOURENCO&nbsp;"
+          },
+          "cabinet": {
+            "text": "Council of Ministers appointed by the president"
+          },
+          "elections/appointments": {
+            "text": "the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)"
+          },
+          "election results": {
+            "text": "Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election"
+          }
+        }
+      ],
+      "priority_score": -1382.6190476190477
+    },
+    "legislative_branch": {
+      "display_name": "Legislative branch",
+      "function_name": "parse_government_legislative_branch",
+      "coverage_percentage": 93.65079365079364,
+      "countries_with_property": 236,
+      "complexity_score": 1446,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 42
+      },
+      "sample_values": [
+        {
+          "description": {
+            "text": "bicameral Parliament consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently); two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare quota method; members serve 5-year terms)"
+          },
+          "elections": {
+            "text": "Council of the Nation - last held on 5 February 2022 (next expected in 2025)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)"
+          },
+          "election results": {
+            "text": "Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%"
+          }
+        },
+        {
+          "description": {
+            "text": "unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)"
+          },
+          "elections": {
+            "text": "last held on 24 August 2022 (next to be held in 2027)"
+          },
+          "election results": {
+            "text": "percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition- men 135, women 85, percentage women 38.6%"
+          }
+        }
+      ],
+      "priority_score": -509.4920634920636
+    },
+    "judicial_branch": {
+      "display_name": "Judicial branch",
+      "function_name": "parse_government_judicial_branch",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 1404,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 16
+      },
+      "sample_values": [
+        {
+          "highest court(s)": {
+            "text": "Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts"
+          },
+          "judge selection and term of office": {
+            "text": "Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years"
+          },
+          "subordinate courts": {
+            "text": "appellate or wilaya courts; first instance or daira tribunals"
+          }
+        },
+        {
+          "highest court(s)": {
+            "text": "Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)"
+          },
+          "judge selection and term of office": {
+            "text": "Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms"
+          },
+          "subordinate courts": {
+            "text": "provincial and municipal courts"
+          }
+        }
+      ],
+      "priority_score": -471.46031746031747
+    },
+    "political_parties": {
+      "display_name": "Political parties",
+      "function_name": "parse_government_political_parties",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 262,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "Algerian National Front or FNA<br>Algerian Popular Movement or MPA<br>Algeria's Hope Rally or TAJ<br>Dignity or El Karama<br>El-Infitah<br>El Mostakbal (Future Front)<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED<br>Equity and Proclamation Party or PEP<br>Islamic Renaissance Movement or Ennahda Movement<br>Justice and Development Front or FJD<br>Movement for National Reform or El Islah<br>Movement of Society for Peace or MSP<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani)<br>National Democratic Rally (Rassemblement National Democratique) or RND<br>National Front for Social Justice or FNJS<br>National Liberation Front or FLN<br>National Militancy Front or FMN<br>National Party for Solidarity and Development or PNSD<br>National Republican Alliance or ANR<br>New Dawn Party (El-Fajr El-Jadid)<br>New Generation (Jil Jadid)<br>Oath of 1954 or Ahd 54<br>Party of Justice and Liberty or PLJ<br>Rally for Culture and Democracy or RCD<br>Socialist Forces Front or FFS<br>Union for Change and Progress or UCP<br>Union of Democratic and Social Forces or UFDS<br>Vanguard of Liberties (Talaie El Hurriyet)<br>Workers Party or PT<br>Youth Party or PJ",
+          "note": "<strong>note:</strong> a law banning political parties based on religion was enacted in March 1997"
+        },
+        {
+          "text": "Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE <br>Humanist Party of Angola or PHI <br>National Front for the Liberation of Angola or FNLA; note - party has two factions<br>National Union for the Total Independence of Angola or UNITA (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA; note- ruling party in power since 1975<br>Social Renewal Party or PRS "
+        }
+      ],
+      "priority_score": 670.5396825396825
+    },
+    "international_organization_participation": {
+      "display_name": "International organization participation",
+      "function_name": "parse_government_international_organization_participation",
+      "coverage_percentage": 94.44444444444444,
+      "countries_with_property": 238,
+      "complexity_score": 247,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 238
+      },
+      "sample_values": [
+        {
+          "text": "ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)"
+        },
+        {
+          "text": "ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+        }
+      ],
+      "priority_score": 697.4444444444445
+    },
+    "diplomatic_representation_in_the_us": {
+      "display_name": "Diplomatic representation in the US",
+      "function_name": "parse_government_diplomatic_representation_in_the_us",
+      "coverage_percentage": 94.84126984126983,
+      "countries_with_property": 239,
+      "complexity_score": 2234,
+      "data_patterns": [
+        "nested_subdicts_7",
+        "nested_subdicts_6",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 190,
+        "coordinate_data": 123,
+        "text_note_extraction": 54
+      },
+      "sample_values": [
+        {
+          "chief of mission": {
+            "text": "Ambassador Sabri BOUKADOUM (since 27 February 2024)"
+          },
+          "chancery": {
+            "text": "2118 Kalorama Road NW, Washington, DC 20008"
+          },
+          "telephone": {
+            "text": "[1] (202) 265-2800"
+          },
+          "FAX": {
+            "text": "[1] (202) 986-5906"
+          },
+          "email address and website": {
+            "text": "<br>mail@algerianembassy.org<br><br>https://www.algerianembassy.org/"
+          },
+          "consulate(s) general": {
+            "text": "New York"
+          }
+        },
+        {
+          "chief of mission": {
+            "text": "Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 30 June 2023)"
+          },
+          "chancery": {
+            "text": "2108 16th Street NW, Washington, DC 20009"
+          },
+          "telephone": {
+            "text": "[1] (202) 785-1156"
+          },
+          "FAX": {
+            "text": "[1] (202) 822-9049"
+          },
+          "email address and website": {
+            "text": "<br>info@angola.org<br><br>https://angola.org/"
+          },
+          "consulate(s) general": {
+            "text": "Houston, New York"
+          }
+        }
+      ],
+      "priority_score": -1285.5873015873017
+    },
+    "diplomatic_representation_from_the_us": {
+      "display_name": "Diplomatic representation from the US",
+      "function_name": "parse_government_diplomatic_representation_from_the_us",
+      "coverage_percentage": 96.03174603174604,
+      "countries_with_property": 242,
+      "complexity_score": 2312,
+      "data_patterns": [
+        "nested_subdicts_7",
+        "nested_subdicts_6",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_subdicts_3",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_5",
+        "nested_subdicts_8"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 177,
+        "coordinate_data": 33,
+        "text_note_extraction": 14
+      },
+      "sample_values": [
+        {
+          "chief of mission": {
+            "text": "Ambassador Elizabeth Moore AUBIN (since 9 February 2022)"
+          },
+          "embassy": {
+            "text": "05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger"
+          },
+          "mailing address": {
+            "text": "6030 Algiers Place, Washington DC&nbsp; 20521-6030"
+          },
+          "telephone": {
+            "text": "[213] (0) 770-08-2000"
+          },
+          "FAX": {
+            "text": "[213] (0) 770-08-2299"
+          },
+          "email address and website": {
+            "text": "<br>ACSAlgiers@state.gov<br><br>https://dz.usembassy.gov/"
+          }
+        },
+        {
+          "chief of mission": {
+            "text": "Ambassador Tulinabo S. MUSHINGI (since 9 March 2022)"
+          },
+          "embassy": {
+            "text": "Rua Houari Boumedienne, #32, Luanda"
+          },
+          "mailing address": {
+            "text": "2550 Luanda Place, Washington, DC 20521-2550"
+          },
+          "telephone": {
+            "text": "[244] (222) 64-1000"
+          },
+          "FAX": {
+            "text": "[244] (222) 64-1000"
+          },
+          "email address and website": {
+            "text": "<br>Consularluanda@state.gov<br><br>https://ao.usembassy.gov/"
+          }
+        }
+      ],
+      "priority_score": -1351.6825396825398
+    },
+    "flag_description": {
+      "display_name": "Flag description",
+      "function_name": "parse_government_flag_description",
+      "coverage_percentage": 98.01587301587301,
+      "countries_with_property": 247,
+      "complexity_score": 338,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 247,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness"
+        },
+        {
+          "text": "two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants"
+        }
+      ],
+      "priority_score": 642.1587301587301
+    },
+    "national_symbol_s": {
+      "display_name": "National symbol(s)",
+      "function_name": "parse_government_national_symbol_s",
+      "coverage_percentage": 91.26984126984127,
+      "countries_with_property": 230,
+      "complexity_score": 230,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 230
+      },
+      "sample_values": [
+        {
+          "text": "five-pointed star between the extended horns of a crescent moon, fennec fox; national colors: green, white, red"
+        },
+        {
+          "text": "Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow"
+        }
+      ],
+      "priority_score": 682.6984126984127
+    },
+    "national_anthem": {
+      "display_name": "National anthem",
+      "function_name": "parse_government_national_anthem",
+      "coverage_percentage": 94.84126984126983,
+      "countries_with_property": 239,
+      "complexity_score": 1141,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 239
+      },
+      "sample_values": [
+        {
+          "name": {
+            "text": "\"Kassaman\" (We Pledge)"
+          },
+          "lyrics/music": {
+            "text": "Mufdi ZAKARIAH/Mohamed FAWZI"
+          },
+          "note": "<strong>note:</strong> adopted 1962; ZAKARIAH wrote \"Kassaman\" as a poem while imprisoned in Algiers by French colonial forces"
+        },
+        {
+          "name": {
+            "text": "\"Angola Avante\" (Forward Angola)"
+          },
+          "lyrics/music": {
+            "text": "Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO"
+          },
+          "note": "<strong>note:</strong> adopted 1975"
+        }
+      ],
+      "priority_score": -192.58730158730168
+    },
+    "national_heritage": {
+      "display_name": "National heritage",
+      "function_name": "parse_government_national_heritage",
+      "coverage_percentage": 69.84126984126983,
+      "countries_with_property": 176,
+      "complexity_score": 704,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "total World Heritage Sites": {
+            "text": "7 (6 cultural, 1 mixed)"
+          },
+          "selected World Heritage Site locales": {
+            "text": "Beni Hammad Fort (c); Djémila (c); Casbah of Algiers (c); M'zab Valley (c); Tassili n'Ajjer (m); Timgad (c); Tipasa (c)"
+          }
+        },
+        {
+          "total World Heritage Sites": {
+            "text": "1 (cultural)"
+          },
+          "selected World Heritage Site locales": {
+            "text": "Mbanza-Kongo"
+          }
+        }
+      ],
+      "priority_score": -5.587301587301681
+    },
+    "dependency_status": {
+      "display_name": "Dependency status",
+      "function_name": "parse_government_dependency_status",
+      "coverage_percentage": 19.444444444444446,
+      "countries_with_property": 49,
+      "complexity_score": 51,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 49
+      },
+      "sample_values": [
+        {
+          "text": "overseas territory of the UK"
+        },
+        {
+          "text": "unincorporated, unorganized Territory of the US; administered by the Office of Insular Affairs, US Department of the Interior"
+        }
+      ],
+      "priority_score": 143.44444444444446
+    },
+    "government_note": {
+      "display_name": "Government - note",
+      "function_name": "parse_government_government_note",
+      "coverage_percentage": 1.1904761904761905,
+      "countries_with_property": 3,
+      "complexity_score": 3,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 3
+      },
+      "sample_values": [
+        {
+          "text": "regional and local governing bodies continue to exist and control various areas of the country, including the self-declared Republic of Somaliland in northwestern Somalia"
+        },
+        {
+          "text": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
+        }
+      ],
+      "priority_score": 8.904761904761905
+    },
+    "dependent_areas": {
+      "display_name": "Dependent areas",
+      "function_name": "parse_government_dependent_areas",
+      "coverage_percentage": 2.7777777777777777,
+      "countries_with_property": 7,
+      "complexity_score": 9,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 7
+      },
+      "sample_values": [
+        {
+          "text": "Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island (6)"
+        },
+        {
+          "text": "Tokelau (1)"
+        }
+      ],
+      "priority_score": 18.77777777777778
+    },
+    "union_name": {
+      "display_name": "Union name",
+      "function_name": "parse_government_union_name",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 4,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "coordinate_data": 1
+      },
+      "sample_values": [
+        {
+          "conventional long form": {
+            "text": "European Union"
+          },
+          "abbreviation": {
+            "text": "EU"
+          }
+        }
+      ],
+      "priority_score": -0.03174603174603208
+    },
+    "political_structure": {
+      "display_name": "Political structure",
+      "function_name": "parse_government_political_structure",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "a hybrid and unique intergovernmental and supranational organization"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "member_states": {
+      "display_name": "Member states",
+      "function_name": "parse_government_member_states",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 2,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - 9 candidate countries: Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey, Ukraine</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p>",
+          "note": "<strong>note:</strong> there are non-European OCTs having special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union), that are associated with the EU to promote their economic and social development; member states apply to their trade with OCTs the same treatment as they accord each other pursuant to the treaties; OCT nationals are in principle EU citizens, but these countries are neither part of the EU, nor subject to the EU"
+        }
+      ],
+      "priority_score": 1.968253968253968
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "legal_system",
+      "function_name": "parse_government_legal_system",
+      "priority_score": 730.1904761904761,
+      "coverage_percentage": 97.61904761904762,
+      "complexity_score": 246
+    },
+    {
+      "property_key": "international_organization_participation",
+      "function_name": "parse_government_international_organization_participation",
+      "priority_score": 697.4444444444445,
+      "coverage_percentage": 94.44444444444444,
+      "complexity_score": 247
+    },
+    {
+      "property_key": "independence",
+      "function_name": "parse_government_independence",
+      "priority_score": 696.5396825396825,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 236
+    },
+    {
+      "property_key": "suffrage",
+      "function_name": "parse_government_suffrage",
+      "priority_score": 696.5396825396825,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 236
+    },
+    {
+      "property_key": "government_type",
+      "function_name": "parse_government_government_type",
+      "priority_score": 694.5396825396825,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 238
+    },
+    {
+      "property_key": "national_holiday",
+      "function_name": "parse_government_national_holiday",
+      "priority_score": 693.5714285714287,
+      "coverage_percentage": 92.85714285714286,
+      "complexity_score": 235
+    },
+    {
+      "property_key": "national_symbol_s",
+      "function_name": "parse_government_national_symbol_s",
+      "priority_score": 682.6984126984127,
+      "coverage_percentage": 91.26984126984127,
+      "complexity_score": 230
+    },
+    {
+      "property_key": "political_parties",
+      "function_name": "parse_government_political_parties",
+      "priority_score": 670.5396825396825,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 262
+    },
+    {
+      "property_key": "administrative_divisions",
+      "function_name": "parse_government_administrative_divisions",
+      "priority_score": 656.6031746031747,
+      "coverage_percentage": 92.46031746031747,
+      "complexity_score": 268
+    },
+    {
+      "property_key": "flag_description",
+      "function_name": "parse_government_flag_description",
+      "priority_score": 642.1587301587301,
+      "coverage_percentage": 98.01587301587301,
+      "complexity_score": 338
+    },
+    {
+      "property_key": "international_law_organization_participation",
+      "function_name": "parse_government_international_law_organization_participation",
+      "priority_score": 587.7142857142857,
+      "coverage_percentage": 78.57142857142857,
+      "complexity_score": 198
+    },
+    {
+      "property_key": "dependency_status",
+      "function_name": "parse_government_dependency_status",
+      "priority_score": 143.44444444444446,
+      "coverage_percentage": 19.444444444444446,
+      "complexity_score": 51
+    },
+    {
+      "property_key": "dependent_areas",
+      "function_name": "parse_government_dependent_areas",
+      "priority_score": 18.77777777777778,
+      "coverage_percentage": 2.7777777777777777,
+      "complexity_score": 9
+    },
+    {
+      "property_key": "government_note",
+      "function_name": "parse_government_government_note",
+      "priority_score": 8.904761904761905,
+      "coverage_percentage": 1.1904761904761905,
+      "complexity_score": 3
+    },
+    {
+      "property_key": "constitution",
+      "function_name": "parse_government_constitution",
+      "priority_score": 5.476190476190482,
+      "coverage_percentage": 94.04761904761905,
+      "complexity_score": 935
+    },
+    {
+      "property_key": "political_structure",
+      "function_name": "parse_government_political_structure",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "member_states",
+      "function_name": "parse_government_member_states",
+      "priority_score": 1.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 2
+    },
+    {
+      "property_key": "union_name",
+      "function_name": "parse_government_union_name",
+      "priority_score": -0.03174603174603208,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 4
+    },
+    {
+      "property_key": "national_heritage",
+      "function_name": "parse_government_national_heritage",
+      "priority_score": -5.587301587301681,
+      "coverage_percentage": 69.84126984126983,
+      "complexity_score": 704
+    },
+    {
+      "property_key": "national_anthem",
+      "function_name": "parse_government_national_anthem",
+      "priority_score": -192.58730158730168,
+      "coverage_percentage": 94.84126984126983,
+      "complexity_score": 1141
+    },
+    {
+      "property_key": "judicial_branch",
+      "function_name": "parse_government_judicial_branch",
+      "priority_score": -471.46031746031747,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 1404
+    },
+    {
+      "property_key": "legislative_branch",
+      "function_name": "parse_government_legislative_branch",
+      "priority_score": -509.4920634920636,
+      "coverage_percentage": 93.65079365079364,
+      "complexity_score": 1446
+    },
+    {
+      "property_key": "citizenship",
+      "function_name": "parse_government_citizenship",
+      "priority_score": -680.4285714285713,
+      "coverage_percentage": 92.85714285714286,
+      "complexity_score": 1609
+    },
+    {
+      "property_key": "capital",
+      "function_name": "parse_government_capital",
+      "priority_score": -1140.5555555555557,
+      "coverage_percentage": 94.44444444444444,
+      "complexity_score": 2085
+    },
+    {
+      "property_key": "diplomatic_representation_in_the_us",
+      "function_name": "parse_government_diplomatic_representation_in_the_us",
+      "priority_score": -1285.5873015873017,
+      "coverage_percentage": 94.84126984126983,
+      "complexity_score": 2234
+    },
+    {
+      "property_key": "diplomatic_representation_from_the_us",
+      "function_name": "parse_government_diplomatic_representation_from_the_us",
+      "priority_score": -1351.6825396825398,
+      "coverage_percentage": 96.03174603174604,
+      "complexity_score": 2312
+    },
+    {
+      "property_key": "executive_branch",
+      "function_name": "parse_government_executive_branch",
+      "priority_score": -1382.6190476190477,
+      "coverage_percentage": 95.23809523809523,
+      "complexity_score": 2335
+    },
+    {
+      "property_key": "country_name",
+      "function_name": "parse_government_country_name",
+      "priority_score": -1565.936507936508,
+      "coverage_percentage": 99.20634920634922,
+      "complexity_score": 2558
+    }
+  ]
+}

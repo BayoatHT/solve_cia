@@ -1,0 +1,36 @@
+================================================================================
+CIA GOVERNMENT SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 100.0% (252/252 countries)
+  Properties: 28
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_government_data()
+  Helper Function: get_government()
+  Parser Functions: 28
+  Utility Functions: 3
+  Utilities Needed:
+    - parse_territorial_subdivisions()
+    - parse_coordinates()
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_government_legal_system: 97.6% | Challenges: text_note_extraction(246)
+  parse_government_international_organization_participation: 94.4% | Challenges: text_note_extraction(238)
+  parse_government_independence: 93.3% | Challenges: text_note_extraction(235)
+  parse_government_suffrage: 93.3% | Challenges: text_note_extraction(235)
+  parse_government_government_type: 93.3% | Challenges: text_note_extraction(235)
+  parse_government_national_holiday: 92.9% | Challenges: text_note_extraction(234), territorial_subdivisions(1)
+  parse_government_national_symbol_s: 91.3% | Challenges: text_note_extraction(230)
+  parse_government_political_parties: 93.3% | Challenges: text_note_extraction(235), territorial_subdivisions(1)
+  parse_government_administrative_divisions: 92.5% | Challenges: text_note_extraction(233)
+  parse_government_flag_description: 98.0% | Challenges: text_note_extraction(247), territorial_subdivisions(1)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_government_country_name: Score 2558 | Patterns: nested_subdicts_7, nested_subdicts_6, nested_subdicts_4, nested_subdicts_3, nested_dictionary, nested_subdicts_2, nested_subdicts_5
+  parse_government_executive_branch: Score 2335 | Patterns: nested_subdicts_6, nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_5, nested_subdicts_3
+  parse_government_diplomatic_representation_from_the_us: Score 2312 | Patterns: nested_subdicts_7, nested_subdicts_6, nested_subdicts_1, nested_subdicts_4, nested_subdicts_3, nested_dictionary, nested_subdicts_2, nested_subdicts_5, nested_subdicts_8
+  parse_government_diplomatic_representation_in_the_us: Score 2234 | Patterns: nested_subdicts_7, nested_subdicts_6, nested_subdicts_4, nested_dictionary, nested_subdicts_2, nested_subdicts_5
+  parse_government_capital: Score 2085 | Patterns: nested_subdicts_6, nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_5, nested_subdicts_2, nested_subdicts_3

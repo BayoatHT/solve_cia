@@ -1,0 +1,32 @@
+================================================================================
+CIA MILITARY AND SECURITY SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 100.0% (252/252 countries)
+  Properties: 7
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_military_and_security_data()
+  Helper Function: get_military_and_security()
+  Parser Functions: 7
+  Utility Functions: 3
+  Utilities Needed:
+    - parse_time_series()
+    - parse_territorial_subdivisions()
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_military_and_security_military_note: 99.2% | Challenges: text_note_extraction(250), territorial_subdivisions(1)
+  parse_military_and_security_military_equipment_inventories_and_acquisitions: 72.6% | Challenges: text_note_extraction(183)
+  parse_military_and_security_military_and_security_service_personnel_strengths: 72.2% | Challenges: text_note_extraction(182)
+  parse_military_and_security_military_and_security_forces: 87.7% | Challenges: text_note_extraction(221), territorial_subdivisions(1)
+  parse_military_and_security_military_service_age_and_obligation: 70.6% | Challenges: text_note_extraction(178)
+  parse_military_and_security_military_expenditures: 68.7% | Challenges: time_series_data(168), complex_nesting(168), text_note_extraction(9)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_military_and_security_military_expenditures: Score 1689 | Patterns: nested_dictionary, nested_subdicts_5, time_series_5_years
+  parse_military_and_security_military_and_security_forces: Score 384 | Patterns: nested_dictionary
+  parse_military_and_security_military_service_age_and_obligation: Score 285 | Patterns: nested_dictionary
+  parse_military_and_security_military_note: Score 250 | Patterns: nested_dictionary
+  parse_military_and_security_military_and_security_service_personnel_strengths: Score 210 | Patterns: nested_dictionary

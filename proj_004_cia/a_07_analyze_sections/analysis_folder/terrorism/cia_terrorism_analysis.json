@@ -1,0 +1,53 @@
+{
+  "section_info": {
+    "section_key": "terrorism",
+    "display_name": "Terrorism",
+    "total_files_analyzed": 252,
+    "countries_with_section": 91,
+    "coverage_percentage": 36.11111111111111,
+    "total_properties": 1
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_terrorism_data",
+    "helper_function": "get_terrorism",
+    "total_parser_functions_needed": 1,
+    "helper_functions_needed": [
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "terrorist_group_s": {
+      "display_name": "Terrorist group(s)",
+      "function_name": "parse_terrorism_terrorist_group_s",
+      "coverage_percentage": 34.523809523809526,
+      "countries_with_property": 87,
+      "complexity_score": 170,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 87
+      },
+      "sample_values": [
+        {
+          "text": "al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISIS) – Algeria; al-Mulathamun Battalion (al-Mourabitoun)",
+          "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide"
+        },
+        {
+          "text": "al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (ISIS-GS); Boko Haram",
+          "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide"
+        }
+      ],
+      "priority_score": 175.23809523809524
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "terrorist_group_s",
+      "function_name": "parse_terrorism_terrorist_group_s",
+      "priority_score": 175.23809523809524,
+      "coverage_percentage": 34.523809523809526,
+      "complexity_score": 170
+    }
+  ]
+}

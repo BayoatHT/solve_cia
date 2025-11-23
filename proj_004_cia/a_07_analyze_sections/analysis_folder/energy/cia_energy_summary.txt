@@ -1,0 +1,33 @@
+================================================================================
+CIA ENERGY SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 93.7% (236/252 countries)
+  Properties: 32
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_energy_data()
+  Helper Function: get_energy()
+  Parser Functions: 32
+  Utility Functions: 2
+  Utilities Needed:
+    - parse_coordinates()
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_energy_energy_consumption_per_capita: 77.8% | Challenges: text_note_extraction(2)
+  parse_energy_electricity_access: 89.3% | Challenges: coordinate_data(225), text_note_extraction(4)
+  parse_energy_petroleum: 85.7% | Challenges: text_note_extraction(2)
+  parse_energy_natural_gas: 54.4% | Challenges: complex_nesting(80)
+  parse_energy_coal: 73.8% | Challenges: complex_nesting(85), text_note_extraction(2)
+  parse_energy_carbon_dioxide_emissions: 86.9% | Challenges: complex_nesting(112), text_note_extraction(5)
+  parse_energy_electricity_generation_sources: 84.1% | Challenges: complex_nesting(124), text_note_extraction(2)
+  parse_energy_electricity: 84.1% | Challenges: complex_nesting(130), text_note_extraction(2)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_energy_electricity: Score 1722 | Patterns: nested_subdicts_3, nested_dictionary, nested_subdicts_5, nested_subdicts_4
+  parse_energy_electricity_generation_sources: Score 1648 | Patterns: nested_subdicts_7, nested_subdicts_6, nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_5, nested_subdicts_2, nested_subdicts_3
+  parse_energy_carbon_dioxide_emissions: Score 1409 | Patterns: nested_dictionary, nested_subdicts_3, nested_subdicts_4, nested_subdicts_2
+  parse_energy_coal: Score 1224 | Patterns: nested_subdicts_1, nested_subdicts_4, nested_subdicts_3, nested_dictionary, nested_subdicts_2, nested_subdicts_5
+  parse_energy_natural_gas: Score 990 | Patterns: nested_subdicts_1, nested_subdicts_4, nested_subdicts_3, nested_dictionary, nested_subdicts_2, nested_subdicts_5

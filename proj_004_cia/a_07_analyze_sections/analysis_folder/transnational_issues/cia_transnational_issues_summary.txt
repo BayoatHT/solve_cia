@@ -1,0 +1,24 @@
+================================================================================
+CIA TRANSNATIONAL ISSUES SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 99.6% (251/252 countries)
+  Properties: 4
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_transnational_issues_data()
+  Helper Function: get_transnational_issues()
+  Parser Functions: 4
+  Utility Functions: 1
+  Utilities Needed:
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_transnational_issues_illicit_drugs: 62.3% | Challenges: text_note_extraction(157)
+  parse_transnational_issues_refugees_and_internally_displaced_persons: 59.9% | Challenges: text_note_extraction(19)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_transnational_issues_refugees_and_internally_displaced_persons: Score 561 | Patterns: nested_dictionary, nested_subdicts_3, nested_subdicts_1, nested_subdicts_2
+  parse_transnational_issues_illicit_drugs: Score 157 | Patterns: nested_dictionary
+  parse_transnational_issues_trafficking_in_persons: Score 110 | Patterns: nested_dictionary, nested_subdicts_1

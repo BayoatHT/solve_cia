@@ -1,0 +1,79 @@
+{
+  "section_info": {
+    "section_key": "introduction",
+    "display_name": "Introduction",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 2
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_introduction_data",
+    "helper_function": "get_introduction",
+    "total_parser_functions_needed": 2,
+    "helper_functions_needed": [
+      "parse_territorial_subdivisions",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "background": {
+      "display_name": "Background",
+      "function_name": "parse_introduction_background",
+      "coverage_percentage": 100.0,
+      "countries_with_property": 252,
+      "complexity_score": 252,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 252,
+        "territorial_subdivisions": 4
+      },
+      "sample_values": [
+        {
+          "text": "<p>Algeria has known many empires and dynasties, including the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Amazigh dynasties, Spaniards, and Ottoman Turks. Under the Turks, the Barbary pirates operated from North Africa and preyed on shipping, from about 1500 until the French captured Algiers in 1830. The French southward conquest of Algeria proceeded throughout the 19th century and was marked by many atrocities. A bloody eight-year struggle culminated in Algerian independence in 1962. <br><br>Algeria's long-dominant political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since played a large role in politics, though it is falling out of favor with the youth and current President Abdelmadjid TEBBOUNE. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first-round success of the Islamic Salvation Front (FIS) in the 1991 legislative election led the Algerian military to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. An army crackdown on the FIS escalated into an FIS insurgency and intense violence from 1992-98 that resulted in over 100,000 deaths, many of which were attributed to extremist groups massacring villagers. The government gained the upper hand by the late 1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in 2000. FIS membership is now illegal.</p> <p>In 1999, Abdelaziz BOUTEFLIKA won the presidency with the backing of the military, in an election that was boycotted by several candidates protesting alleged fraud.  He won subsequent elections in 2004, 2009, and 2014. Widespread protests against his decision to seek a fifth term broke out in early 2019. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country’s new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum on governmental reforms, which TEBBOUNE enacted in 2021. Subsequent reforms to the national electoral law introduced open-list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the 2021 legislative elections saw female representation plummet. The referendum, parliamentary elections, and local elections saw record-low voter turnout.</p>"
+        },
+        {
+          "text": "Bantu-speaking people settled in the area now called Angola in 6th century A.D.; by the 10th century various Bantu groups had established kingdoms, of which Kongo became the most powerful. From the late-14th to the mid-19th century, a Kingdom of Kongo stretched across central Africa from present-day northern Angola into the current Congo republics. It traded heavily with the Portuguese who, beginning in the 16th century, established coastal colonies and trading posts and introduced Christianity. Angola became a major hub of the transatlantic slave trade conducted by the Portuguese and other European powers -- often in collaboration with local kingdoms, including the Kongo. The Angola area is estimated to have lost as many as 4 million people as a result of the slave trade. The Kingdom of Kongo’s main rival was the Kingdom of Ndongo to its south, whose most famous leader was Nzingha Mbande, the 17th century diplomat to the Portuguese and later Queen, who successfully fought off Portuguese encroachment during her nearly 40-year reign. Smaller kingdoms, such as the Matamba and Ngoyo, often came under the control of the Kongo or Ndongo Kingdoms. During the Berlin Conference of 1884-85, Portugal and other European powers set Angola’s modern borders, but the Portuguese did not fully control large portions of the territory. Portugal gained control of the Kingdom of Kongo in 1888 when Kongo’s King Pedro V sought Portuguese military assistance in exchange for becoming a vassal. After a revolt in 1914, Portugal imposed direct rule over the colony and abolished the Kongo Kingdom.<br> <p>The Angolan National Revolution began in 1961, and in 1975, Angola won its independence when Portugal’s dictatorship fell, a collapse that occurred in part because of growing discontent over conflict in Angola and other colonies. Angola’s multiple independence movements soon clashed, with the Popular Movement for Liberation of Angola (MPLA), led by Agostinho NETO, taking power and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, emerging as its main competitor. After NETO’s death in 1979, Jose Eduardo DOS SANTOS, also of the MPLA, became president. Over time, the Angolan civil war escalated and became a major Cold War conflict, with the Soviet Union and Cuba supporting the MPLA and the US and South Africa supporting UNITA. Up to 1.5 million lives may have been lost -- and 4 million people displaced -- during the more than a quarter-century of fighting. SAVIMBI's death in 2002 ended UNITA's insurgency and cemented the MPLA's hold on power. DOS SANTOS did not seek reelection in 2017 and supported Joao LOURENCO’s successful bid to become president. LOURENCO was reelected in 2022. Angola scores low on human development indexes despite using its large oil reserves to rebuild since 2002. </p>"
+        }
+      ],
+      "priority_score": 748.0
+    },
+    "preliminary_statement": {
+      "display_name": "Preliminary statement",
+      "function_name": "parse_introduction_preliminary_statement",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "<p>The European Union's (EU) evolution is unprecedented in history, transforming from a regional economic agreement among six neighboring states in 1951 to today's hybrid intergovernmental and supranational organization of 27 countries across the European continent. For such a large number of nation-states to cede some of their sovereignty to an overarching entity is unique. Dynastic unions for territorial consolidation were long the norm in Europe, although country-level unions were sometimes arranged, such as the Polish-Lithuanian Commonwealth and the Austro-Hungarian Empire. </p> <p>Although the EU is not a federation in the strict sense, it is far more than a free-trade association such as ASEAN or Mercosur, and it has certain attributes associated with independent nations: its own flag, currency (for some members), and law-making abilities, as well as diplomatic representation and a common foreign and security policy in its dealings with external partners.</p> <p>For these reasons, The World Factbook includes basic information on the EU as a separate entity.</p>"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "background",
+      "function_name": "parse_introduction_background",
+      "priority_score": 748.0,
+      "coverage_percentage": 100.0,
+      "complexity_score": 252
+    },
+    {
+      "property_key": "preliminary_statement",
+      "function_name": "parse_introduction_preliminary_statement",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    }
+  ]
+}

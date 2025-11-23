@@ -1,0 +1,548 @@
+{
+  "section_info": {
+    "section_key": "transportation",
+    "display_name": "Transportation",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 14
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_transportation_data",
+    "helper_function": "get_transportation",
+    "total_parser_functions_needed": 14,
+    "helper_functions_needed": [
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "national_air_transport_system": {
+      "display_name": "National air transport system",
+      "function_name": "parse_transportation_national_air_transport_system",
+      "coverage_percentage": 76.5873015873016,
+      "countries_with_property": 193,
+      "complexity_score": 1354,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 138
+      },
+      "sample_values": [
+        {
+          "number of registered air carriers": {
+            "text": "3 (2020)"
+          },
+          "inventory of registered aircraft operated by air carriers": {
+            "text": "87"
+          },
+          "annual passenger traffic on registered air carriers": {
+            "text": "6,442,442 (2018)"
+          },
+          "annual freight traffic on registered air carriers": {
+            "text": "28.28 million (2018) mt-km"
+          }
+        },
+        {
+          "number of registered air carriers": {
+            "text": "10 (2020)"
+          },
+          "inventory of registered aircraft operated by air carriers": {
+            "text": "55"
+          },
+          "annual passenger traffic on registered air carriers": {
+            "text": "1,516,628 (2018)"
+          },
+          "annual freight traffic on registered air carriers": {
+            "text": "78.16 million (2018) mt-km"
+          }
+        }
+      ],
+      "priority_score": -588.1269841269841
+    },
+    "civil_aircraft_registration_country_code_prefix": {
+      "display_name": "Civil aircraft registration country code prefix",
+      "function_name": "parse_transportation_civil_aircraft_registration_country_code_prefix",
+      "coverage_percentage": 85.31746031746032,
+      "countries_with_property": 215,
+      "complexity_score": 215,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 215
+      },
+      "sample_values": [
+        {
+          "text": "7T"
+        },
+        {
+          "text": "D2"
+        }
+      ],
+      "priority_score": 638.1746031746031
+    },
+    "airports": {
+      "display_name": "Airports",
+      "function_name": "parse_transportation_airports",
+      "coverage_percentage": 92.85714285714286,
+      "countries_with_property": 234,
+      "complexity_score": 236,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 234
+      },
+      "sample_values": [
+        {
+          "text": "85 (2024)"
+        },
+        {
+          "text": "106 (2024)"
+        }
+      ],
+      "priority_score": 692.5714285714287
+    },
+    "heliports": {
+      "display_name": "Heliports",
+      "function_name": "parse_transportation_heliports",
+      "coverage_percentage": 63.49206349206349,
+      "countries_with_property": 160,
+      "complexity_score": 160,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 160
+      },
+      "sample_values": [
+        {
+          "text": "9 (2024)"
+        },
+        {
+          "text": "2 (2024)"
+        }
+      ],
+      "priority_score": 474.9206349206348
+    },
+    "pipelines": {
+      "display_name": "Pipelines",
+      "function_name": "parse_transportation_pipelines",
+      "coverage_percentage": 51.19047619047619,
+      "countries_with_property": 129,
+      "complexity_score": 129,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 129
+      },
+      "sample_values": [
+        {
+          "text": "2,600 km condensate, 16,415 km gas, 3,447 km liquid petroleum gas, 7,036 km oil, 144 km refined products (2013)"
+        },
+        {
+          "text": "352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)"
+        }
+      ],
+      "priority_score": 382.9047619047619
+    },
+    "railways": {
+      "display_name": "Railways",
+      "function_name": "parse_transportation_railways",
+      "coverage_percentage": 55.55555555555556,
+      "countries_with_property": 140,
+      "complexity_score": 585,
+      "data_patterns": [
+        "aggregated_data",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 31,
+        "complex_nesting": 5
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "4,020 km (2019)"
+          }
+        },
+        {
+          "total": {
+            "text": "2,761 km (2022)"
+          },
+          "narrow gauge": {
+            "text": "2,638 km (2022) 1.067-m gauge"
+          },
+          "note": "123 km 0.600-mm gauge"
+        }
+      ],
+      "priority_score": -29.444444444444457
+    },
+    "roadways": {
+      "display_name": "Roadways",
+      "function_name": "parse_transportation_roadways",
+      "coverage_percentage": 91.26984126984127,
+      "countries_with_property": 230,
+      "complexity_score": 1006,
+      "data_patterns": [
+        "aggregated_data",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 20,
+        "complex_nesting": 5
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "112,696 km (2020)"
+          }
+        },
+        {
+          "total": {
+            "text": "76,000 km"
+          },
+          "paved": {
+            "text": "13,680 km (2020)"
+          }
+        }
+      ],
+      "priority_score": -93.30158730158735
+    },
+    "merchant_marine": {
+      "display_name": "Merchant marine",
+      "function_name": "parse_transportation_merchant_marine",
+      "coverage_percentage": 74.20634920634922,
+      "countries_with_property": 187,
+      "complexity_score": 749,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "aggregated_data",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 3
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "119 (2022)"
+          },
+          "by type": {
+            "text": "bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89"
+          }
+        },
+        {
+          "total": {
+            "text": "64 (2023)"
+          },
+          "by type": {
+            "text": "general cargo 13, oil tanker 8, other 43"
+          }
+        }
+      ],
+      "priority_score": -6.936507936507837
+    },
+    "ports": {
+      "display_name": "Ports",
+      "function_name": "parse_transportation_ports",
+      "coverage_percentage": 73.80952380952381,
+      "countries_with_property": 186,
+      "complexity_score": 2648,
+      "data_patterns": [
+        "nested_subdicts_7",
+        "nested_dictionary",
+        "nested_subdicts_8"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 186
+      },
+      "sample_values": [
+        {
+          "total ports": {
+            "text": "17 (2024)"
+          },
+          "large": {
+            "text": "2"
+          },
+          "medium": {
+            "text": "1"
+          },
+          "small": {
+            "text": "6"
+          },
+          "very small": {
+            "text": "8"
+          },
+          "ports with oil terminals": {
+            "text": "3"
+          },
+          "key ports": {
+            "text": "Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran, Port Methanier, Skikda"
+          }
+        },
+        {
+          "total ports": {
+            "text": "21 (2024)"
+          },
+          "large": {
+            "text": "0"
+          },
+          "medium": {
+            "text": "0"
+          },
+          "small": {
+            "text": "8"
+          },
+          "very small": {
+            "text": "13"
+          },
+          "ports with oil terminals": {
+            "text": "17"
+          },
+          "key ports": {
+            "text": "Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, Namibe, Palanca Terminal, Takula Terminal"
+          }
+        }
+      ],
+      "priority_score": -1909.904761904762
+    },
+    "waterways": {
+      "display_name": "Waterways",
+      "function_name": "parse_transportation_waterways",
+      "coverage_percentage": 49.2063492063492,
+      "countries_with_property": 124,
+      "complexity_score": 125,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 124
+      },
+      "sample_values": [
+        {
+          "text": "1,300 km (2011)"
+        },
+        {
+          "text": "150 km (2011) (seasonal navigation on River Niger along northern border)"
+        }
+      ],
+      "priority_score": 367.06349206349205
+    },
+    "transportation_note": {
+      "display_name": "Transportation - note",
+      "function_name": "parse_transportation_transportation_note",
+      "coverage_percentage": 3.1746031746031744,
+      "countries_with_property": 8,
+      "complexity_score": 8,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 8
+      },
+      "sample_values": [
+        {
+          "text": "the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet"
+        },
+        {
+          "text": "there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available"
+        }
+      ],
+      "priority_score": 23.746031746031743
+    },
+    "airports_with_paved_runways": {
+      "display_name": "Airports - with paved runways",
+      "function_name": "parse_transportation_airports_with_paved_runways",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 4,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "aggregated_data"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "total": {
+            "text": "3 (2019)"
+          },
+          "2,438 to 3,047 m": {
+            "text": "3"
+          }
+        }
+      ],
+      "priority_score": -0.03174603174603208
+    },
+    "airports_with_unpaved_runways": {
+      "display_name": "Airports - with unpaved runways",
+      "function_name": "parse_transportation_airports_with_unpaved_runways",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 8,
+      "data_patterns": [
+        "nested_dictionary",
+        "aggregated_data",
+        "nested_subdicts_4"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 1
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "3 (2013)"
+          },
+          "1,524 to 2,437 m": {
+            "text": "1 (2013)"
+          },
+          "914 to 1,523 m": {
+            "text": "1 (2013)"
+          },
+          "under 914 m": {
+            "text": "1 (2013)"
+          }
+        }
+      ],
+      "priority_score": -4.031746031746032
+    },
+    "ports_and_terminals": {
+      "display_name": "Ports and terminals",
+      "function_name": "parse_transportation_ports_and_terminals",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 2,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "major seaport(s)": {
+            "text": "Ad Dakhla, Laayoune (El Aaiun)"
+          }
+        }
+      ],
+      "priority_score": 1.968253968253968
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "airports",
+      "function_name": "parse_transportation_airports",
+      "priority_score": 692.5714285714287,
+      "coverage_percentage": 92.85714285714286,
+      "complexity_score": 236
+    },
+    {
+      "property_key": "civil_aircraft_registration_country_code_prefix",
+      "function_name": "parse_transportation_civil_aircraft_registration_country_code_prefix",
+      "priority_score": 638.1746031746031,
+      "coverage_percentage": 85.31746031746032,
+      "complexity_score": 215
+    },
+    {
+      "property_key": "heliports",
+      "function_name": "parse_transportation_heliports",
+      "priority_score": 474.9206349206348,
+      "coverage_percentage": 63.49206349206349,
+      "complexity_score": 160
+    },
+    {
+      "property_key": "pipelines",
+      "function_name": "parse_transportation_pipelines",
+      "priority_score": 382.9047619047619,
+      "coverage_percentage": 51.19047619047619,
+      "complexity_score": 129
+    },
+    {
+      "property_key": "waterways",
+      "function_name": "parse_transportation_waterways",
+      "priority_score": 367.06349206349205,
+      "coverage_percentage": 49.2063492063492,
+      "complexity_score": 125
+    },
+    {
+      "property_key": "transportation_note",
+      "function_name": "parse_transportation_transportation_note",
+      "priority_score": 23.746031746031743,
+      "coverage_percentage": 3.1746031746031744,
+      "complexity_score": 8
+    },
+    {
+      "property_key": "ports_and_terminals",
+      "function_name": "parse_transportation_ports_and_terminals",
+      "priority_score": 1.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 2
+    },
+    {
+      "property_key": "airports_with_paved_runways",
+      "function_name": "parse_transportation_airports_with_paved_runways",
+      "priority_score": -0.03174603174603208,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 4
+    },
+    {
+      "property_key": "airports_with_unpaved_runways",
+      "function_name": "parse_transportation_airports_with_unpaved_runways",
+      "priority_score": -4.031746031746032,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 8
+    },
+    {
+      "property_key": "merchant_marine",
+      "function_name": "parse_transportation_merchant_marine",
+      "priority_score": -6.936507936507837,
+      "coverage_percentage": 74.20634920634922,
+      "complexity_score": 749
+    },
+    {
+      "property_key": "railways",
+      "function_name": "parse_transportation_railways",
+      "priority_score": -29.444444444444457,
+      "coverage_percentage": 55.55555555555556,
+      "complexity_score": 585
+    },
+    {
+      "property_key": "roadways",
+      "function_name": "parse_transportation_roadways",
+      "priority_score": -93.30158730158735,
+      "coverage_percentage": 91.26984126984127,
+      "complexity_score": 1006
+    },
+    {
+      "property_key": "national_air_transport_system",
+      "function_name": "parse_transportation_national_air_transport_system",
+      "priority_score": -588.1269841269841,
+      "coverage_percentage": 76.5873015873016,
+      "complexity_score": 1354
+    },
+    {
+      "property_key": "ports",
+      "function_name": "parse_transportation_ports",
+      "priority_score": -1909.904761904762,
+      "coverage_percentage": 73.80952380952381,
+      "complexity_score": 2648
+    }
+  ]
+}

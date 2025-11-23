@@ -1,0 +1,32 @@
+================================================================================
+CIA COMMUNICATIONS SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 97.6% (246/252 countries)
+  Properties: 8
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_communications_data()
+  Helper Function: get_communications()
+  Parser Functions: 8
+  Utility Functions: 2
+  Utilities Needed:
+    - parse_coordinates()
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_communications_broadcast_media: 94.8% | Challenges: text_note_extraction(239)
+  parse_communications_internet_country_code: 94.8% | Challenges: text_note_extraction(239)
+  parse_communications_broadband_fixed_subscriptions: 85.7% | Challenges: text_note_extraction(2)
+  parse_communications_telephones_fixed_lines: 90.5% | Challenges: text_note_extraction(2)
+  parse_communications_telephones_mobile_cellular: 90.1% | Challenges: text_note_extraction(2)
+  parse_communications_internet_users: 93.3% | Challenges: coordinate_data(235), text_note_extraction(5)
+  parse_communications_telecommunication_systems: 95.6% | Challenges: text_note_extraction(3), complex_nesting(1)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_communications_telecommunication_systems: Score 1437 | Patterns: nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_2, nested_subdicts_3
+  parse_communications_internet_users: Score 945 | Patterns: nested_dictionary, nested_subdicts_2, aggregated_data
+  parse_communications_telephones_fixed_lines: Score 912 | Patterns: nested_dictionary, nested_subdicts_2, nested_subdicts_1
+  parse_communications_telephones_mobile_cellular: Score 910 | Patterns: nested_dictionary, nested_subdicts_2
+  parse_communications_broadband_fixed_subscriptions: Score 864 | Patterns: nested_dictionary, nested_subdicts_2, aggregated_data, nested_subdicts_1

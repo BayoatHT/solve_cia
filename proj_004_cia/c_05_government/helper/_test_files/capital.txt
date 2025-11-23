@@ -1,0 +1,3639 @@
+CAPITAL >> CIA Property Test Data
+==================================================
+
+1. WLD
+------------------------------
+Original Data: NO_DATA_FOUND
+
+2. EEU
+------------------------------
+Original Data: NO_DATA_FOUND
+
+3. WLD
+------------------------------
+Original Data: NO_DATA_FOUND
+
+4. DZA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the mother must be a citizen of Algeria"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+5. AGO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Angola"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+6. BWA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Botswana"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+7. BEN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Benin"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+8. BDI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Burundi"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+9. TCD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Chad"
+  },
+  "dual citizenship recognized": {
+    "text": "Chadian law does not address dual citizenship"
+  },
+  "residency requirement for naturalization": {
+    "text": "15 years"
+  }
+}
+
+10. COG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Republic of the Congo"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+11. COD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Democratic Republic of the Congo"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+12. CMR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Cameroon"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+13. COM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Comoros"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+14. CAF
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "least one parent must be a citizen of the Central African Republic"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "35 years"
+  }
+}
+
+15. CPV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Cabo Verde"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+16. DJI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the mother must be a citizen of Djibouti"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+17. EGY
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "if the father was born in Egypt"
+  },
+  "dual citizenship recognized": {
+    "text": "only with prior permission from the government"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+18. GNQ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Equatorial Guinea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+19. ERI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Eritrea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "20 years"
+  }
+}
+
+20. ETH
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Ethiopia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 years"
+  }
+}
+
+21. GMB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+22. GAB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Gabon"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+23. GHA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent or grandparent must be a citizen of Ghana"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+24. GIN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Guinea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "na"
+  }
+}
+
+25. CIV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Cote d'Ivoire"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+26. KEN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Kenya"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 out of the previous 7 years"
+  }
+}
+
+27. LBR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Liberia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "2 years"
+  }
+}
+
+28. LSO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+29. LBY
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent or grandparent must be a citizen of Libya"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "varies from 3 to 5 years"
+  }
+}
+
+30. MDG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+31. MWI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Malawi"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+32. MLI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Mali"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+33. MAR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Morocco; if the father is unknown or stateless, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+34. MUS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 out of the previous 7 years including the last 12 months"
+  }
+}
+
+35. MRT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Mauritania"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+36. MOZ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Mozambique"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+37. NER
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Niger"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+38. NGA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Nigeria"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "15 years"
+  }
+}
+
+39. SSD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of South Sudan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+40. GNB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+41. RWA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Rwanda; if the father is stateless or unknown, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+42. SYC
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Seychelles"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+43. ZAF
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of South Africa"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but requires prior permission of the government"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 year"
+  }
+}
+
+44. SEN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Senegal"
+  },
+  "dual citizenship recognized": {
+    "text": "no, but Senegalese citizens do not automatically lose their citizenship if they acquire citizenship in another state"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+45. SHN
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+46. SLE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent or grandparent must be a citizen of Sierra Leone"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+47. SOM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Somalia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+48. SDN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Sudan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+49. TGO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Togo"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+50. STP
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Sao Tome and Principe"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+51. TUN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Tunisia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+52. TZA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+53. UGA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent or grandparent must be a native-born citizen of Uganda"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "an aggregate of 20 years and continuously for the last 2 years prior to applying for citizenship"
+  }
+}
+
+54. BFA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Burkina Faso"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+55. NAM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Namibia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+56. ESH
+------------------------------
+Original Data: NO_DATA_FOUND
+
+57. SWZ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Eswatini"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+58. ZMB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "only if at least one parent is a citizen of Zambia"
+  },
+  "citizenship by descent only": {
+    "text": "yes, if at least one parent was a citizen of Zambia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years for those with an ancestor who was a citizen of Zambia, otherwise 10 years residency is required"
+  }
+}
+
+59. ZWE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Zimbabwe; in the case of a child born out of wedlock, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+60. ASM
+------------------------------
+Original Data: {
+  "text": "see United States<br>Note: in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens"
+}
+
+61. AUS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen or permanent resident of Australia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 years"
+  }
+}
+
+62. ATC
+------------------------------
+Original Data: {
+  "text": "see Australia"
+}
+
+63. SLB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Solomon Islands"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+64. CCK
+------------------------------
+Original Data: {
+  "text": "see Australia"
+}
+
+65. MNP
+------------------------------
+Original Data: {
+  "text": "see United States"
+}
+
+66. CSI
+------------------------------
+Original Data: {
+  "text": "see Australia"
+}
+
+67. COK
+------------------------------
+Original Data: NO_DATA_FOUND
+
+68. FJI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Fiji"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "at least 5 years residency out of the 10 years preceding application"
+  }
+}
+
+69. FSM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of FSM"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+70. PYF
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+71. GUM
+------------------------------
+Original Data: {
+  "text": "see United States"
+}
+
+72. KIR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a native-born citizen of Kiribati"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+73. CXR
+------------------------------
+Original Data: {
+  "text": "see Australia"
+}
+
+74. NCL
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+75. NIU
+------------------------------
+Original Data: NO_DATA_FOUND
+
+76. NFK
+------------------------------
+Original Data: {
+  "text": "see Australia"
+}
+
+77. VUT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+78. NRU
+------------------------------
+Original Data: NO_DATA_FOUND
+
+79. NZL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of New Zealand"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+80. PCN
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+81. PLW
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Palau"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "note - no procedure for naturalization"
+  }
+}
+
+82. MHL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Marshall Islands"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+83. TKL
+------------------------------
+Original Data: {
+  "text": "see New Zealand"
+}
+
+84. TON
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+85. TUV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes; for a child born abroad, at least one parent must be a citizen of Tuvalu"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "na"
+  }
+}
+
+86. UMI
+------------------------------
+Original Data: NO_DATA_FOUND
+
+87. WLF
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+88. PGA
+------------------------------
+Original Data: {
+  "text": "see United States"
+}
+
+89. WSM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Samoa"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+90. ABW
+------------------------------
+Original Data: {
+  "text": "see the Netherlands"
+}
+
+91. ATG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+92. AIA
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+93. BRB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+94. BHS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of The Bahamas"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "6-9 years"
+  }
+}
+
+95. BLZ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+96. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+97. CYM
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+98. CRI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+99. CUB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+100. DMA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+101. DOM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Dominican Republic"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "2 years"
+  }
+}
+
+102. SLV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+103. GRD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years for persons from a non-Caribbean state and 4 years for a person from a Caribbean state"
+  }
+}
+
+104. GTM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years with no absences of six consecutive months or longer or absences totaling more than a year"
+  }
+}
+
+105. HTI
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a native-born citizen of Haiti"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+106. HND
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "1 to 3 years"
+  }
+}
+
+107. JAM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 out of the previous 5 years"
+  }
+}
+
+108. MSR
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+109. SXM
+------------------------------
+Original Data: {
+  "text": "see the Netherlands"
+}
+
+110. NIC
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no, except in cases where bilateral agreements exist"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 years"
+  }
+}
+
+111. PAN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+112. MAF
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+113. PRI
+------------------------------
+Original Data: {
+  "text": "see United States"
+}
+
+114. KNA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "14 years"
+  }
+}
+
+115. LCA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Saint Lucia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+116. BLM
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+117. TTO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+118. TCA
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+119. CUW
+------------------------------
+Original Data: {
+  "text": "see the Netherlands"
+}
+
+120. VCT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Saint Vincent and the Grenadines"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+121. VGB
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+122. VIR
+------------------------------
+Original Data: {
+  "text": "see United States"
+}
+
+123. KGZ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Kyrgyzstan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but only if a mutual treaty on dual citizenship is in force"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+124. KAZ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Kazakhstan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+125. RUS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Russia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3-5 years"
+  }
+}
+
+126. TJK
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Tajikistan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years or 3 years of continuous residence prior to application"
+  }
+}
+
+127. TKM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Turkmenistan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+128. UZB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Uzbekistan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+129. MMR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Burma"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "none"
+  },
+  "note": "<strong>note:</strong> an applicant for naturalization must be the child or spouse of a citizen"
+}
+
+130. BRN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Brunei"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "12 years"
+  }
+}
+
+131. KHM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Cambodia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+132. CHN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "least one parent must be a citizen of China"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "while naturalization is theoretically possible, in practical terms it is extremely difficult; residency is required but not specified"
+  }
+}
+
+133. HKG
+------------------------------
+Original Data: {
+  "text": "see China"
+}
+
+134. IDN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Indonesia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 continuous years"
+  }
+}
+
+135. JPN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Japan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+136. PRK
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of North Korea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+137. KOR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of South Korea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+138. LAO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Laos"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+139. MAC
+------------------------------
+Original Data: {
+  "text": "see China"
+}
+
+140. MNG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Mongolia; one parent if born within Mongolia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+141. MYS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Malaysia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 out 12 years preceding application"
+  }
+}
+
+142. XPI
+------------------------------
+Original Data: NO_DATA_FOUND
+
+143. XSP
+------------------------------
+Original Data: NO_DATA_FOUND
+
+144. PNG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Papua New Guinea"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+145. PHL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Philippines"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+146. SGP
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Singapore"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+147. THA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Thailand"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+148. TLS
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Timor-Leste"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+149. TWN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Taiwan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+150. VNM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Vietnam"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+151. ALB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Albania"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+152. AND
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "25 years"
+  }
+}
+
+153. AUT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Austria"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+154. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+155. BEL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Belgium"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+156. BIH
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Bosnia and Herzegovina"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, provided there is a bilateral agreement with the other state"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+157. BLR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Belarus"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+158. BGR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Bulgaria"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+159. CYP
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Cyprus"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+160. DNK
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Denmark"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+161. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+162. IRL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 of the previous 8 years"
+  }
+}
+
+163. EST
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Estonia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+164. CZE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Czechia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+165. FIN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Finland"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "6 years"
+  }
+}
+
+166. FRO
+------------------------------
+Original Data: {
+  "text": "see Denmark"
+}
+
+167. FRA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of France"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+168. GIB
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+169. GGY
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+170. DEU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but requires prior permission from government"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+171. GRC
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Greece"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+172. HRV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Croatia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+173. HUN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Hungary"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+174. ISL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Iceland"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 to 7 years"
+  }
+}
+
+175. IMN
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+176. ITA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Italy"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 years for EU nationals, 5 years for refugees and specified exceptions, 10 years for all others"
+  }
+}
+
+177. JEY
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+178. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+179. XKX
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Kosovo"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+180. LVA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Latvia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+181. LTU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Lithuania"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+182. SVK
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Slovakia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+183. LIE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+184. LUX
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "limited to situations where the parents are either unknown, stateless, or when the nationality law of the parents' state of origin does not permit acquisition of citizenship by descent when the birth occurs outside of national territory"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Luxembourg"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+185. MDA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Moldova"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+186. MNE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Montenegro"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+187. MKD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of North Macedonia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "8 years"
+  }
+}
+
+188. MCO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+189. MLT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Malta"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+190. NLD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the Netherlands"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+191. NOR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Norway"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+192. POL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "both parents must be citizens of Poland"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+193. PRT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Portugal"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years; 6 years if from a Portuguese-speaking country"
+  }
+}
+
+194. SRB
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Serbia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+195. ROU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Romania"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+196. SVN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Slovenia; both parents if the child is born outside of Slovenia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, for select cases"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years, the last 5 of which have been continuous"
+  }
+}
+
+197. SMR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of San Marino"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "30 years"
+  }
+}
+
+198. ESP
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Spain"
+  },
+  "dual citizenship recognized": {
+    "text": "only with select Latin American countries"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years for persons with no ties to Spain"
+  }
+}
+
+199. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+200. SWE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Sweden; in the case of a child born out of wedlock, the mother must be a citizen of Sweden and the father unknown"
+  },
+  "dual citizenship recognized": {
+    "text": "no, unless the other citizenship was acquired involuntarily"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+201. CHE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Switzerland"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "12 years including at least 3 of the last 5 years prior to application"
+  }
+}
+
+202. GBR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the United Kingdom"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+203. UKR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Ukraine"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+204. VAT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "no"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "not applicable"
+  },
+  "note": "<strong>note:</strong> in the Holy See, citizenship is acquired by law, ex iure, or by adminstrative decision; in the first instance, citizenship is a function of holding office within the Holy See as in the case of cardinals resident in Vatican City or diplomats of the Holy See; in the second instance, citizenship may be requested in a limited set of circumstances for those who reside within Vatican City under papal authorization, as a function of their office or service, or as the spouses and children of current citizens; citizenship is lost once an individual no longer permanently resides in Vatican City, normally reverting to the citizenship previously held"
+}
+
+205. ARE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of the United Arab Emirates; if the father is unknown, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "30 years"
+  }
+}
+
+206. AZE
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+207. ARM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Armenia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+208. BHR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Bahrain"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "25 years; 15 years for Arab nationals"
+  }
+}
+
+209. GEO
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Georgia"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+210. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+211. IRN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Iran"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+212. ISR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Israel"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but naturalized citizens are not allowed to maintain dual citizenship"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 out of the 5 years preceding the application for naturalization"
+  },
+  "note": "<strong>note:</strong> Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren"
+}
+
+213. IRQ
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Iraq"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+214. JOR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Jordan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "15 years"
+  }
+}
+
+215. KWT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Kuwait"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "not specified"
+  }
+}
+
+216. LBN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Lebanon"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+217. OMN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Oman"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+218. QAT
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Qatar"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "20 years; 15 years if an Arab national"
+  }
+}
+
+219. SAU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Saudi Arabia; a child born out of wedlock in Saudi Arabia to a Saudi mother and unknown father"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+220. SYR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+221. TUR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Turkey"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but requires prior permission from the government"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+222. 
+------------------------------
+Original Data: NO_DATA_FOUND
+
+223. YEM
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Yemen; if the father is unknown, the mother must be a citizen"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+224. BMU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of the UK"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+225. CAN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "minimum of 3 of last 5 years resident in Canada"
+  }
+}
+
+226. GRL
+------------------------------
+Original Data: {
+  "text": "see Denmark"
+}
+
+227. XCL
+------------------------------
+Original Data: NO_DATA_FOUND
+
+228. MEX
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "not specified"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+229. SPM
+------------------------------
+Original Data: {
+  "text": "see France"
+}
+
+230. USA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no, but the US government acknowledges such situtations exist; US citizens are not encouraged to seek dual citizenship since it limits protection by the US"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+231. ARG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "2 years"
+  }
+}
+
+232. BOL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+233. BRA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 years"
+  }
+}
+
+234. CHL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+235. COL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "least one parent must be a citizen or permanent resident of Colombia"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+236. ECU
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+237. FLK
+------------------------------
+Original Data: {
+  "text": "see United Kingdom"
+}
+
+238. GUY
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "na"
+  }
+}
+
+239. SUR
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Suriname"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+240. PRY
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a native-born citizen of Paraguay"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3 years"
+  }
+}
+
+241. PER
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "2 years"
+  }
+}
+
+242. SGS
+------------------------------
+Original Data: NO_DATA_FOUND
+
+243. URY
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "3-5 years"
+  }
+}
+
+244. VEN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years; reduced to five years in the case of applicants from Spain, Portugal, Italy, or a Latin American or Caribbean country"
+  }
+}
+
+245. AFG
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must have been born in - and continuously lived in - Afghanistan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+246. BGD
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Bangladesh"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but limited to select countries"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+247. BTN
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "the father must be a citizen of Bhutan"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "10 years"
+  }
+}
+
+248. LKA
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Sri Lanka"
+  },
+  "dual citizenship recognized": {
+    "text": "no, except in cases where the government rules it is to the benefit of Sri Lanka"
+  },
+  "residency requirement for naturalization": {
+    "text": "7 years"
+  }
+}
+
+249. IND
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of India"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "5 years"
+  }
+}
+
+250. IOT
+------------------------------
+Original Data: NO_DATA_FOUND
+
+251. MDV
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "no"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Maldives"
+  },
+  "dual citizenship recognized": {
+    "text": "yes"
+  },
+  "residency requirement for naturalization": {
+    "text": "unknown"
+  }
+}
+
+252. NPL
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "yes"
+  },
+  "dual citizenship recognized": {
+    "text": "no"
+  },
+  "residency requirement for naturalization": {
+    "text": "15 years"
+  }
+}
+
+253. PAK
+------------------------------
+Original Data: {
+  "citizenship by birth": {
+    "text": "yes"
+  },
+  "citizenship by descent only": {
+    "text": "at least one parent must be a citizen of Pakistan"
+  },
+  "dual citizenship recognized": {
+    "text": "yes, but limited to select countries"
+  },
+  "residency requirement for naturalization": {
+    "text": "4 out of the previous 7 years and including the 12 months preceding application"
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "section_info": {
+    "section_key": "environment",
+    "display_name": "Environment",
+    "total_files_analyzed": 252,
+    "countries_with_section": 251,
+    "coverage_percentage": 99.60317460317461,
+    "total_properties": 18
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_environment_data",
+    "helper_function": "get_environment",
+    "total_parser_functions_needed": 18,
+    "helper_functions_needed": [
+      "parse_territorial_subdivisions",
+      "parse_coordinates",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "environment_current_issues": {
+      "display_name": "Environment - current issues",
+      "function_name": "parse_environment_environment_current_issues",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 253,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251
+      },
+      "sample_values": [
+        {
+          "text": "air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; dumping of raw sewage, petroleum refining wastes, and other industrial effluents is leading to the pollution of rivers and coastal waters; Mediterranean Sea, in particular, becoming polluted from oil wastes, soil erosion, and fertilizer runoff; inadequate supplies of potable water"
+        },
+        {
+          "text": "overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water"
+        }
+      ],
+      "priority_score": 743.031746031746
+    },
+    "environment_international_agreements": {
+      "display_name": "Environment - international agreements",
+      "function_name": "parse_environment_environment_international_agreements",
+      "coverage_percentage": 78.17460317460318,
+      "countries_with_property": 197,
+      "complexity_score": 788,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "party to": {
+            "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+          },
+          "signed, but not ratified": {
+            "text": "Nuclear Test Ban"
+          }
+        },
+        {
+          "party to": {
+            "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution"
+          },
+          "signed, but not ratified": {
+            "text": "none of the selected agreements"
+          }
+        }
+      ],
+      "priority_score": -6.253968253968196
+    },
+    "climate": {
+      "display_name": "Climate",
+      "function_name": "parse_environment_climate",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 263,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 250,
+        "complex_nesting": 1,
+        "coordinate_data": 1
+      },
+      "sample_values": [
+        {
+          "text": "arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer"
+        },
+        {
+          "text": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)"
+        }
+      ],
+      "priority_score": 733.031746031746
+    },
+    "land_use": {
+      "display_name": "Land use",
+      "function_name": "parse_environment_land_use",
+      "coverage_percentage": 96.03174603174604,
+      "countries_with_property": 242,
+      "complexity_score": 2750,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 224,
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "agricultural land": {
+            "text": "17.4% (2018 est.)"
+          },
+          "agricultural land: arable land": {
+            "text": "arable land: 3.2% (2018 est.)"
+          },
+          "agricultural land: permanent crops": {
+            "text": "permanent crops: 0.4% (2018 est.)"
+          },
+          "agricultural land: permanent pasture": {
+            "text": "permanent pasture: 13.8% (2018 est.)"
+          },
+          "forest": {
+            "text": "0.8% (2018 est.)"
+          },
+          "other": {
+            "text": "81.8% (2018 est.)"
+          }
+        },
+        {
+          "agricultural land": {
+            "text": "45.7% (2018 est.)"
+          },
+          "agricultural land: arable land": {
+            "text": "arable land: 3.9% (2018 est.)"
+          },
+          "agricultural land: permanent crops": {
+            "text": "permanent crops: 0.3% (2018 est.)"
+          },
+          "agricultural land: permanent pasture": {
+            "text": "permanent pasture: 41.5% (2018 est.)"
+          },
+          "forest": {
+            "text": "54.3% (2018 est.)"
+          }
+        }
+      ],
+      "priority_score": -1789.6825396825398
+    },
+    "urbanization": {
+      "display_name": "Urbanization",
+      "function_name": "parse_environment_urbanization",
+      "coverage_percentage": 90.87301587301587,
+      "countries_with_property": 229,
+      "complexity_score": 928,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "coordinate_data": 229,
+        "text_note_extraction": 12
+      },
+      "sample_values": [
+        {
+          "urban population": {
+            "text": "75.3% of total population (2023)"
+          },
+          "rate of urbanization": {
+            "text": "1.99% annual rate of change (2020-25 est.)"
+          }
+        },
+        {
+          "urban population": {
+            "text": "68.7% of total population (2023)"
+          },
+          "rate of urbanization": {
+            "text": "4.04% annual rate of change (2020-25 est.)"
+          }
+        }
+      ],
+      "priority_score": -19.26984126984121
+    },
+    "revenue_from_forest_resources": {
+      "display_name": "Revenue from forest resources",
+      "function_name": "parse_environment_revenue_from_forest_resources",
+      "coverage_percentage": 81.34920634920636,
+      "countries_with_property": 205,
+      "complexity_score": 205,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 205
+      },
+      "sample_values": [
+        {
+          "text": "0.1% of GDP (2018 est.)"
+        },
+        {
+          "text": "0.36% of GDP (2018 est.)"
+        }
+      ],
+      "priority_score": 608.4920634920636
+    },
+    "revenue_from_coal": {
+      "display_name": "Revenue from coal",
+      "function_name": "parse_environment_revenue_from_coal",
+      "coverage_percentage": 74.20634920634922,
+      "countries_with_property": 187,
+      "complexity_score": 187,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 187
+      },
+      "sample_values": [
+        {
+          "text": "0% of GDP (2018 est.)"
+        },
+        {
+          "text": "0% of GDP (2018 est.)"
+        }
+      ],
+      "priority_score": 555.0634920634922
+    },
+    "air_pollutants": {
+      "display_name": "Air pollutants",
+      "function_name": "parse_environment_air_pollutants",
+      "coverage_percentage": 84.52380952380952,
+      "countries_with_property": 213,
+      "complexity_score": 1197,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "coordinate_data": 196,
+        "text_note_extraction": 3
+      },
+      "sample_values": [
+        {
+          "particulate matter emissions": {
+            "text": "22.68 micrograms per cubic meter (2019 est.)"
+          },
+          "carbon dioxide emissions": {
+            "text": "150.01 megatons (2016 est.)"
+          },
+          "methane emissions": {
+            "text": "49.94 megatons (2020 est.)"
+          }
+        },
+        {
+          "particulate matter emissions": {
+            "text": "27.16 micrograms per cubic meter (2019 est.)"
+          },
+          "carbon dioxide emissions": {
+            "text": "34.69 megatons (2016 est.)"
+          },
+          "methane emissions": {
+            "text": "23.28 megatons (2020 est.)"
+          }
+        }
+      ],
+      "priority_score": -351.7619047619048
+    },
+    "waste_and_recycling": {
+      "display_name": "Waste and recycling",
+      "function_name": "parse_environment_waste_and_recycling",
+      "coverage_percentage": 86.11111111111111,
+      "countries_with_property": 217,
+      "complexity_score": 943,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 5
+      },
+      "sample_values": [
+        {
+          "municipal solid waste generated annually": {
+            "text": "12,378,740 tons (2016 est.)"
+          },
+          "municipal solid waste recycled annually": {
+            "text": "990,299 tons (2013 est.)"
+          },
+          "percent of municipal solid waste recycled": {
+            "text": "8% (2013 est.)"
+          }
+        },
+        {
+          "municipal solid waste generated annually": {
+            "text": "4,213,644 tons (2012 est.)"
+          }
+        }
+      ],
+      "priority_score": -81.88888888888891
+    },
+    "major_watersheds_area_sq_km": {
+      "display_name": "Major watersheds (area sq km)",
+      "function_name": "parse_environment_major_watersheds_area_sq_km",
+      "coverage_percentage": 40.87301587301587,
+      "countries_with_property": 103,
+      "complexity_score": 103,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 103,
+        "territorial_subdivisions": 64
+      },
+      "sample_values": [
+        {
+          "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
+        },
+        {
+          "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)"
+        }
+      ],
+      "priority_score": 305.73015873015873
+    },
+    "major_aquifers": {
+      "display_name": "Major aquifers",
+      "function_name": "parse_environment_major_aquifers",
+      "coverage_percentage": 21.03174603174603,
+      "countries_with_property": 53,
+      "complexity_score": 53,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 53,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin"
+        },
+        {
+          "text": "Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin"
+        }
+      ],
+      "priority_score": 157.3174603174603
+    },
+    "total_water_withdrawal": {
+      "display_name": "Total water withdrawal",
+      "function_name": "parse_environment_total_water_withdrawal",
+      "coverage_percentage": 73.01587301587301,
+      "countries_with_property": 184,
+      "complexity_score": 1095,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 3
+      },
+      "sample_values": [
+        {
+          "municipal": {
+            "text": "3.6 billion cubic meters (2020 est.)"
+          },
+          "industrial": {
+            "text": "190 million cubic meters (2020 est.)"
+          },
+          "agricultural": {
+            "text": "6.67 billion cubic meters (2020 est.)"
+          }
+        },
+        {
+          "municipal": {
+            "text": "320 million cubic meters (2020 est.)"
+          },
+          "industrial": {
+            "text": "240 million cubic meters (2020 est.)"
+          },
+          "agricultural": {
+            "text": "150 million cubic meters (2020 est.)"
+          }
+        }
+      ],
+      "priority_score": -364.8412698412699
+    },
+    "total_renewable_water_resources": {
+      "display_name": "Total renewable water resources",
+      "function_name": "parse_environment_total_renewable_water_resources",
+      "coverage_percentage": 80.15873015873017,
+      "countries_with_property": 202,
+      "complexity_score": 205,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 202
+      },
+      "sample_values": [
+        {
+          "text": "11.67 billion cubic meters (2020 est.)"
+        },
+        {
+          "text": "148.4 billion cubic meters (2020 est.)"
+        }
+      ],
+      "priority_score": 596.5873015873017
+    },
+    "major_rivers_by_length_in_km": {
+      "display_name": "Major rivers (by length in km)",
+      "function_name": "parse_environment_major_rivers_by_length_in_km",
+      "coverage_percentage": 32.142857142857146,
+      "countries_with_property": 81,
+      "complexity_score": 81,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 81
+      },
+      "sample_values": [
+        {
+          "text": "Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+        },
+        {
+          "text": "<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p>"
+        }
+      ],
+      "priority_score": 240.42857142857144
+    },
+    "food_insecurity": {
+      "display_name": "Food insecurity",
+      "function_name": "parse_environment_food_insecurity",
+      "coverage_percentage": 17.857142857142858,
+      "countries_with_property": 45,
+      "complexity_score": 90,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "widespread lack of access": {
+            "text": "<em>due to the effects of weather - </em>according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)"
+          }
+        },
+        {
+          "widespread lack of access": {
+            "text": "<em>due to civil insecurity and high food prices - </em>according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)"
+          }
+        }
+      ],
+      "priority_score": 88.57142857142858
+    },
+    "major_lakes_area_sq_km": {
+      "display_name": "Major lakes (area sq km)",
+      "function_name": "parse_environment_major_lakes_area_sq_km",
+      "coverage_percentage": 27.77777777777778,
+      "countries_with_property": 70,
+      "complexity_score": 171,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "fresh water lake(s)": {
+            "text": "Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km"
+          }
+        },
+        {
+          "fresh water lake(s)": {
+            "text": "Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year"
+          }
+        }
+      ],
+      "priority_score": 106.77777777777777
+    },
+    "geoparks": {
+      "display_name": "Geoparks",
+      "function_name": "parse_environment_geoparks",
+      "coverage_percentage": 18.650793650793652,
+      "countries_with_property": 47,
+      "complexity_score": 188,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "total global geoparks and regional networks": {
+            "text": "1"
+          },
+          "global geoparks and regional networks": {
+            "text": "M'Goun (2023)"
+          }
+        },
+        {
+          "total global geoparks and regional networks": {
+            "text": "1"
+          },
+          "global geoparks and regional networks": {
+            "text": "Ngorongoro Lengai (2023)"
+          }
+        }
+      ],
+      "priority_score": -1.4920634920634939
+    },
+    "world_biomes": {
+      "display_name": "World biomes",
+      "function_name": "parse_environment_world_biomes",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 16,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_8"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 1
+      },
+      "sample_values": [
+        {
+          "Types of Biomes": {
+            "text": "<p>A biome is a biogeographical designation describing a biological community of plants and animals that has formed in response to a physical environment and a shared regional climate. Biomes can extend over more than one continent. Different classification systems define different numbers of biomes. <em>The World Factbook</em> recognizes the following seven biomes used by NASA: tundra, coniferous forest, temperate deciduous forest, rainforest, grassland, shrubland, and desert.</p>"
+          },
+          "Tundra biome": {
+            "text": "The tundra is the coldest of the biomes. It also receives low amounts of precipitation, making the tundra similar to a desert. Tundra comes from the Finnish word <em>tunturia</em>, meaning \"treeless plain.\" Tundra is found in the regions just below the ice caps of the Arctic, extending across North America to Europe and to Siberia in Asia. Temperatures usually range between -40°C (-40 °F) and 18°C (64°F). The temperatures are so cold that there is a layer of permanently frozen ground below the surface, called permafrost. This permafrost is a defining characteristic of the tundra biome. In the tundra summers, the top layer of soil thaws only a few inches down, providing a growing surface for the roots of vegetation. This biome sees 150 to 250 mm (6 to 10 in) of rain per year. Vegetation in the tundra has adapted to the cold and the short growing season and consists of lichens, mosses, grasses, sedges, and shrubs, but almost no trees."
+          },
+          "Coniferous Forest biome": {
+            "text": "The coniferous forest is sandwiched between the tundra to the north and the deciduous forest to the south. Coniferous forest regions have long, cold, snowy winters; warm, humid summers; well-defined seasons; and at least four to six frost-free months. The average temperature in winter ranges from -40&deg;C (-40&deg;F) to 20&deg;C (68&deg;F). The average summer temperatures are usually around 10&deg;C (50&deg;F). 300 to 900 mm (12 to 35 in) of rain per year can be expected in this biome. Vegetation consists of trees that produce cones and needles, which are called coniferous-evergreen trees. Some needles remain on the trees all year long. Some of the more common conifers are spruces, pines, and firs."
+          },
+          "Temperate Deciduous Forest biome": {
+            "text": "Temperate deciduous forests are located in the mid-latitude areas, which means that they are found between the polar regions and the tropics. The deciduous forest regions are exposed to warm and cold air masses, which cause this area to have four seasons. Hot summers and cold winters are typical. The average daily temperatures range between -30&deg;C (-22&deg;F) and 30&deg;C (86&deg;F), with a yearly average of 10&deg;C (50&deg;F). On average, this biome receives 750 to 1,500 mm (30 to 59 in) of rain per year. Vegetation includes broadleaf trees (oaks, maples, beeches), shrubs, perennial herbs, and mosses.&nbsp;"
+          },
+          "Rainforest biome": {
+            "text": "The rainforest biome remains warm all year and stay frost-free. The average daily temperatures range from 20&deg;C (68&deg;F) to 25&deg;C (77&deg;F). Rainforests receive the most yearly rainfall of all of the biomes, and a typical year sees 2,000 to 10,000 mm (79 to 394 in) of rain. Vegetation typically includes vines, palm trees, orchids, and ferns. There are two types of rainforests: tropical rainforests are found closer to the equator, and temperate rainforests are found farther north near coastal areas. The majority of common houseplants come from the rainforest."
+          },
+          "Grassland biome": {
+            "text": "Grasslands are open, continuous, and fairly flat areas of grass. Found on every continent except Antarctica, they are often located between temperate forests at high latitudes and deserts at subtropical latitudes.&nbsp; Depending on latitude, the annual temperature range can be -20&deg;C (-4&deg;F) to 30&deg;C (86&deg;F). Grasslands receive around 500 to 900 mm (20 to 35 in) of rain per year. Tropical grasslands have dry and wet seasons that remain warm all the time. Temperate grasslands have cold winters and warm summers with some rain. Vegetation is dominated by grasses but can include sedges and rushes, along with some legumes (clover) and herbs. A few trees may be found in this biome along the streams, but not many due to the lack of rainfall."
+          },
+          "Shrubland biome": {
+            "text": "Shrublands include chaparral, woodland, and savanna, and are composed of shrubs or short trees. Many shrubs thrive on steep, rocky slopes, but there is usually not enough rain to support tall trees. Shrublands are located in west coastal regions between 30&deg; and 40&deg; North and South latitude and are usually found on the borders of deserts and grasslands. The summers are hot and dry with temperatures up to 38&deg;C (100&deg;F). Winters are cool and moist, with temperatures around -1 &deg;C (30&deg;F). Annual rainfall in the shrublands varies greatly, but 200 to 1,000 mm (8 to 40 in) of rain per year can be expected. Vegetation includes aromatic herbs (sage, rosemary, thyme, oregano), shrubs, acacia, chamise, grasses. Plants have adapted to fire caused by frequent lightning strikes in the summer."
+          },
+          "Desert biome": {
+            "text": "The most important characteristic of a desert biome is that it receives very little rainfall, usually about 250 mm (10 in) of rain per year. During the day, desert temperatures rise to an average of 38&deg;C (100&deg;F). At night, desert temperatures fall to an average of -4&deg;C (about 25&deg;F). Vegetation is sparse, consisting of cacti, small bushes, and short grasses. Perennials survive for several years by becoming dormant and flourishing when water is available. Annuals are referred to as ephemerals because some can complete an entire life cycle in weeks. Since desert conditions are so severe, the plants that live there need to adapt to compensate. Some, such as cacti, store water in their stems and use it very slowly, while others, like bushes, conserve water by growing few leaves or by having large root systems to gather water."
+          }
+        }
+      ],
+      "priority_score": -12.031746031746032
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "environment_current_issues",
+      "function_name": "parse_environment_environment_current_issues",
+      "priority_score": 743.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 253
+    },
+    {
+      "property_key": "climate",
+      "function_name": "parse_environment_climate",
+      "priority_score": 733.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 263
+    },
+    {
+      "property_key": "revenue_from_forest_resources",
+      "function_name": "parse_environment_revenue_from_forest_resources",
+      "priority_score": 608.4920634920636,
+      "coverage_percentage": 81.34920634920636,
+      "complexity_score": 205
+    },
+    {
+      "property_key": "total_renewable_water_resources",
+      "function_name": "parse_environment_total_renewable_water_resources",
+      "priority_score": 596.5873015873017,
+      "coverage_percentage": 80.15873015873017,
+      "complexity_score": 205
+    },
+    {
+      "property_key": "revenue_from_coal",
+      "function_name": "parse_environment_revenue_from_coal",
+      "priority_score": 555.0634920634922,
+      "coverage_percentage": 74.20634920634922,
+      "complexity_score": 187
+    },
+    {
+      "property_key": "major_watersheds_area_sq_km",
+      "function_name": "parse_environment_major_watersheds_area_sq_km",
+      "priority_score": 305.73015873015873,
+      "coverage_percentage": 40.87301587301587,
+      "complexity_score": 103
+    },
+    {
+      "property_key": "major_rivers_by_length_in_km",
+      "function_name": "parse_environment_major_rivers_by_length_in_km",
+      "priority_score": 240.42857142857144,
+      "coverage_percentage": 32.142857142857146,
+      "complexity_score": 81
+    },
+    {
+      "property_key": "major_aquifers",
+      "function_name": "parse_environment_major_aquifers",
+      "priority_score": 157.3174603174603,
+      "coverage_percentage": 21.03174603174603,
+      "complexity_score": 53
+    },
+    {
+      "property_key": "major_lakes_area_sq_km",
+      "function_name": "parse_environment_major_lakes_area_sq_km",
+      "priority_score": 106.77777777777777,
+      "coverage_percentage": 27.77777777777778,
+      "complexity_score": 171
+    },
+    {
+      "property_key": "food_insecurity",
+      "function_name": "parse_environment_food_insecurity",
+      "priority_score": 88.57142857142858,
+      "coverage_percentage": 17.857142857142858,
+      "complexity_score": 90
+    },
+    {
+      "property_key": "geoparks",
+      "function_name": "parse_environment_geoparks",
+      "priority_score": -1.4920634920634939,
+      "coverage_percentage": 18.650793650793652,
+      "complexity_score": 188
+    },
+    {
+      "property_key": "environment_international_agreements",
+      "function_name": "parse_environment_environment_international_agreements",
+      "priority_score": -6.253968253968196,
+      "coverage_percentage": 78.17460317460318,
+      "complexity_score": 788
+    },
+    {
+      "property_key": "world_biomes",
+      "function_name": "parse_environment_world_biomes",
+      "priority_score": -12.031746031746032,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 16
+    },
+    {
+      "property_key": "urbanization",
+      "function_name": "parse_environment_urbanization",
+      "priority_score": -19.26984126984121,
+      "coverage_percentage": 90.87301587301587,
+      "complexity_score": 928
+    },
+    {
+      "property_key": "waste_and_recycling",
+      "function_name": "parse_environment_waste_and_recycling",
+      "priority_score": -81.88888888888891,
+      "coverage_percentage": 86.11111111111111,
+      "complexity_score": 943
+    },
+    {
+      "property_key": "air_pollutants",
+      "function_name": "parse_environment_air_pollutants",
+      "priority_score": -351.7619047619048,
+      "coverage_percentage": 84.52380952380952,
+      "complexity_score": 1197
+    },
+    {
+      "property_key": "total_water_withdrawal",
+      "function_name": "parse_environment_total_water_withdrawal",
+      "priority_score": -364.8412698412699,
+      "coverage_percentage": 73.01587301587301,
+      "complexity_score": 1095
+    },
+    {
+      "property_key": "land_use",
+      "function_name": "parse_environment_land_use",
+      "priority_score": -1789.6825396825398,
+      "coverage_percentage": 96.03174603174604,
+      "complexity_score": 2750
+    }
+  ]
+}

@@ -1,0 +1,1634 @@
+{
+  "section_info": {
+    "section_key": "economy",
+    "display_name": "Economy",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 41
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_economy_data",
+    "helper_function": "get_economy",
+    "total_parser_functions_needed": 41,
+    "helper_functions_needed": [
+      "parse_time_series",
+      "parse_coordinates",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "economic_overview": {
+      "display_name": "Economic overview",
+      "function_name": "parse_economy_economic_overview",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 236,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms"
+        },
+        {
+          "text": "middle-income, oil-dependent African economy; widespread poverty; rising inflation and currency depreciation; seeking diversification through agricultural production; significant corruption in public institutions; major infrastructure investments from China and US; exited OPEC in 2023"
+        }
+      ],
+      "priority_score": 696.5396825396825
+    },
+    "real_gdp_purchasing_power_parity": {
+      "display_name": "Real GDP (purchasing power parity)",
+      "function_name": "parse_economy_real_gdp_purchasing_power_parity",
+      "coverage_percentage": 89.68253968253968,
+      "countries_with_property": 226,
+      "complexity_score": 1545,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 221,
+        "time_series_data": 216
+      },
+      "sample_values": [
+        {
+          "Real GDP (purchasing power parity) 2023": {
+            "text": "$699.947 billion (2023 est.)"
+          },
+          "Real GDP (purchasing power parity) 2022": {
+            "text": "$672.379 billion (2022 est.)"
+          },
+          "Real GDP (purchasing power parity) 2021": {
+            "text": "$649.015 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> data in 2021 dollars"
+        },
+        {
+          "Real GDP (purchasing power parity) 2023": {
+            "text": "$265.868 billion (2023 est.)"
+          },
+          "Real GDP (purchasing power parity) 2022": {
+            "text": "$263.611 billion (2022 est.)"
+          },
+          "Real GDP (purchasing power parity) 2021": {
+            "text": "$255.821 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> data in 2021 dollars"
+        }
+      ],
+      "priority_score": -648.1746031746031
+    },
+    "real_gdp_growth_rate": {
+      "display_name": "Real GDP growth rate",
+      "function_name": "parse_economy_real_gdp_growth_rate",
+      "coverage_percentage": 88.09523809523809,
+      "countries_with_property": 222,
+      "complexity_score": 1542,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_2",
+        "time_series_3_years"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 216,
+        "time_series_data": 219
+      },
+      "sample_values": [
+        {
+          "Real GDP growth rate 2023": {
+            "text": "4.1% (2023 est.)"
+          },
+          "Real GDP growth rate 2022": {
+            "text": "3.6% (2022 est.)"
+          },
+          "Real GDP growth rate 2021": {
+            "text": "3.8% (2021 est.)"
+          },
+          "note": "<b>note:</b> annual GDP % growth based on constant local currency"
+        },
+        {
+          "Real GDP growth rate 2023": {
+            "text": "0.86% (2023 est.)"
+          },
+          "Real GDP growth rate 2022": {
+            "text": "3.05% (2022 est.)"
+          },
+          "Real GDP growth rate 2021": {
+            "text": "1.2% (2021 est.)"
+          },
+          "note": "<b>note:</b> annual GDP % growth based on constant local currency"
+        }
+      ],
+      "priority_score": -661.0476190476192
+    },
+    "real_gdp_per_capita": {
+      "display_name": "Real GDP per capita",
+      "function_name": "parse_economy_real_gdp_per_capita",
+      "coverage_percentage": 88.88888888888889,
+      "countries_with_property": 224,
+      "complexity_score": 1531,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 213,
+        "time_series_data": 215
+      },
+      "sample_values": [
+        {
+          "Real GDP per capita 2023": {
+            "text": "$15,300 (2023 est.)"
+          },
+          "Real GDP per capita 2022": {
+            "text": "$15,000 (2022 est.)"
+          },
+          "Real GDP per capita 2021": {
+            "text": "$14,700 (2021 est.)"
+          },
+          "note": "<b>note:</b> data in 2021 dollars"
+        },
+        {
+          "Real GDP per capita 2023": {
+            "text": "$7,200 (2023 est.)"
+          },
+          "Real GDP per capita 2022": {
+            "text": "$7,400 (2022 est.)"
+          },
+          "Real GDP per capita 2021": {
+            "text": "$7,400 (2021 est.)"
+          },
+          "note": "<b>note:</b> data in 2021 dollars"
+        }
+      ],
+      "priority_score": -642.1111111111111
+    },
+    "gdp_official_exchange_rate": {
+      "display_name": "GDP (official exchange rate)",
+      "function_name": "parse_economy_gdp_official_exchange_rate",
+      "coverage_percentage": 90.07936507936508,
+      "countries_with_property": 227,
+      "complexity_score": 445,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 227
+      },
+      "sample_values": [
+        {
+          "text": "$239.899 billion (2023 est.)",
+          "note": "<b>note:</b> data in current dollars at official exchange rate"
+        },
+        {
+          "text": "$84.723 billion (2023 est.)",
+          "note": "<b>note:</b> data in current dollars at official exchange rate"
+        }
+      ],
+      "priority_score": 455.7936507936507
+    },
+    "inflation_rate_consumer_prices": {
+      "display_name": "Inflation rate (consumer prices)",
+      "function_name": "parse_economy_inflation_rate_consumer_prices",
+      "coverage_percentage": 88.4920634920635,
+      "countries_with_property": 223,
+      "complexity_score": 1462,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 194,
+        "time_series_data": 194,
+        "coordinate_data": 222
+      },
+      "sample_values": [
+        {
+          "Inflation rate (consumer prices) 2023": {
+            "text": "9.32% (2023 est.)"
+          },
+          "Inflation rate (consumer prices) 2022": {
+            "text": "9.27% (2022 est.)"
+          },
+          "Inflation rate (consumer prices) 2021": {
+            "text": "7.23% (2021 est.)"
+          },
+          "note": "<b>note:</b> annual % change based on consumer prices"
+        },
+        {
+          "Inflation rate (consumer prices) 2023": {
+            "text": "13.64% (2023 est.)"
+          },
+          "Inflation rate (consumer prices) 2022": {
+            "text": "21.36% (2022 est.)"
+          },
+          "Inflation rate (consumer prices) 2021": {
+            "text": "25.75% (2021 est.)"
+          },
+          "note": "<b>note:</b> annual % change based on consumer prices"
+        }
+      ],
+      "priority_score": -577.0793650793651
+    },
+    "credit_ratings": {
+      "display_name": "Credit ratings",
+      "function_name": "parse_economy_credit_ratings",
+      "coverage_percentage": 61.50793650793651,
+      "countries_with_property": 155,
+      "complexity_score": 953,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_1",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 155
+      },
+      "sample_values": [
+        {
+          "text": "<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained."
+        },
+        {
+          "Fitch rating": {
+            "text": "CCC (2020)"
+          },
+          "Moody's rating": {
+            "text": "Caa1 (2020)"
+          },
+          "Standard & Poors rating": {
+            "text": "CCC+ (2020)"
+          },
+          "note": "<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained."
+        }
+      ],
+      "priority_score": -337.9206349206348
+    },
+    "gdp_composition_by_sector_of_origin": {
+      "display_name": "GDP - composition, by sector of origin",
+      "function_name": "parse_economy_gdp_composition_by_sector_of_origin",
+      "coverage_percentage": 91.66666666666666,
+      "countries_with_property": 231,
+      "complexity_score": 1390,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 4
+      },
+      "sample_values": [
+        {
+          "agriculture": {
+            "text": "13.3% (2017 est.)"
+          },
+          "industry": {
+            "text": "39.3% (2017 est.)"
+          },
+          "services": {
+            "text": "47.4% (2017 est.)"
+          }
+        },
+        {
+          "agriculture": {
+            "text": "10.2% (2011 est.)"
+          },
+          "industry": {
+            "text": "61.4% (2011 est.)"
+          },
+          "services": {
+            "text": "28.4% (2011 est.)"
+          }
+        }
+      ],
+      "priority_score": -473.3333333333335
+    },
+    "gdp_composition_by_end_use": {
+      "display_name": "GDP - composition, by end use",
+      "function_name": "parse_economy_gdp_composition_by_end_use",
+      "coverage_percentage": 85.31746031746032,
+      "countries_with_property": 215,
+      "complexity_score": 2559,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "nested_subdicts_4",
+        "nested_subdicts_3",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 213,
+        "text_note_extraction": 3
+      },
+      "sample_values": [
+        {
+          "household consumption": {
+            "text": "42.7% (2017 est.)"
+          },
+          "government consumption": {
+            "text": "20.2% (2017 est.)"
+          },
+          "investment in fixed capital": {
+            "text": "38.1% (2017 est.)"
+          },
+          "investment in inventories": {
+            "text": "11.2% (2017 est.)"
+          },
+          "exports of goods and services": {
+            "text": "23.6% (2017 est.)"
+          },
+          "imports of goods and services": {
+            "text": "-35.8% (2017 est.)"
+          }
+        },
+        {
+          "household consumption": {
+            "text": "80.6% (2017 est.)"
+          },
+          "government consumption": {
+            "text": "15.6% (2017 est.)"
+          },
+          "investment in fixed capital": {
+            "text": "10.3% (2017 est.)"
+          },
+          "investment in inventories": {
+            "text": "-1.2% (2017 est.)"
+          },
+          "exports of goods and services": {
+            "text": "25.4% (2017 est.)"
+          },
+          "imports of goods and services": {
+            "text": "-30.7% (2017 est.)"
+          }
+        }
+      ],
+      "priority_score": -1705.8253968253969
+    },
+    "agricultural_products": {
+      "display_name": "Agricultural products",
+      "function_name": "parse_economy_agricultural_products",
+      "coverage_percentage": 92.46031746031747,
+      "countries_with_property": 233,
+      "complexity_score": 433,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 233
+      },
+      "sample_values": [
+        {
+          "text": "potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates, oranges (2022)",
+          "note": "<b>note:</b> top ten agricultural products based on tonnage"
+        },
+        {
+          "text": "cassava, bananas, maize, sweet potatoes, sugarcane, pineapples, tomatoes, onions, potatoes, citrus fruits (2022)",
+          "note": "<b>note:</b> top ten agricultural products based on tonnage"
+        }
+      ],
+      "priority_score": 491.6031746031747
+    },
+    "industries": {
+      "display_name": "Industries",
+      "function_name": "parse_economy_industries",
+      "coverage_percentage": 94.04761904761905,
+      "countries_with_property": 237,
+      "complexity_score": 239,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 237
+      },
+      "sample_values": [
+        {
+          "text": "petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing"
+        },
+        {
+          "text": "petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair"
+        }
+      ],
+      "priority_score": 701.4761904761905
+    },
+    "industrial_production_growth_rate": {
+      "display_name": "Industrial production growth rate",
+      "function_name": "parse_economy_industrial_production_growth_rate",
+      "coverage_percentage": 88.4920634920635,
+      "countries_with_property": 223,
+      "complexity_score": 441,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 223
+      },
+      "sample_values": [
+        {
+          "text": "3.74% (2023 est.)",
+          "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
+        },
+        {
+          "text": "-7.18% (2023 est.)",
+          "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
+        }
+      ],
+      "priority_score": 443.92063492063494
+    },
+    "labor_force": {
+      "display_name": "Labor force",
+      "function_name": "parse_economy_labor_force",
+      "coverage_percentage": 83.33333333333334,
+      "countries_with_property": 210,
+      "complexity_score": 404,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 210
+      },
+      "sample_values": [
+        {
+          "text": "13.425 million (2023 est.)",
+          "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
+        },
+        {
+          "text": "15.223 million (2023 est.)",
+          "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
+        }
+      ],
+      "priority_score": 429.3333333333335
+    },
+    "unemployment_rate": {
+      "display_name": "Unemployment rate",
+      "function_name": "parse_economy_unemployment_rate",
+      "coverage_percentage": 84.12698412698413,
+      "countries_with_property": 212,
+      "complexity_score": 1400,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 194,
+        "time_series_data": 191
+      },
+      "sample_values": [
+        {
+          "Unemployment rate 2023": {
+            "text": "11.81% (2023 est.)"
+          },
+          "Unemployment rate 2022": {
+            "text": "12.44% (2022 est.)"
+          },
+          "Unemployment rate 2021": {
+            "text": "13.61% (2021 est.)"
+          },
+          "note": "<b>note:</b> % of labor force seeking employment"
+        },
+        {
+          "Unemployment rate 2023": {
+            "text": "14.62% (2023 est.)"
+          },
+          "Unemployment rate 2022": {
+            "text": "14.69% (2022 est.)"
+          },
+          "Unemployment rate 2021": {
+            "text": "15.8% (2021 est.)"
+          },
+          "note": "<b>note:</b> % of labor force seeking employment"
+        }
+      ],
+      "priority_score": -558.7301587301588
+    },
+    "youth_unemployment_rate_ages_15_24": {
+      "display_name": "Youth unemployment rate (ages 15-24)",
+      "function_name": "parse_economy_youth_unemployment_rate_ages_15_24",
+      "coverage_percentage": 80.55555555555556,
+      "countries_with_property": 203,
+      "complexity_score": 1405,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "aggregated_data",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 191
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "30.8% (2023 est.)"
+          },
+          "male": {
+            "text": "27.4% (2023 est.)"
+          },
+          "female": {
+            "text": "46% (2023 est.)"
+          },
+          "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
+        },
+        {
+          "total": {
+            "text": "28.2% (2023 est.)"
+          },
+          "male": {
+            "text": "30.7% (2023 est.)"
+          },
+          "female": {
+            "text": "25.8% (2023 est.)"
+          },
+          "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
+        }
+      ],
+      "priority_score": -599.4444444444445
+    },
+    "average_household_expenditures": {
+      "display_name": "Average household expenditures",
+      "function_name": "parse_economy_average_household_expenditures",
+      "coverage_percentage": 41.66666666666667,
+      "countries_with_property": 105,
+      "complexity_score": 420,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "on food": {
+            "text": "37.3% of household expenditures (2021 est.)"
+          },
+          "on alcohol and tobacco": {
+            "text": "1% of household expenditures (2021 est.)"
+          }
+        },
+        {
+          "on food": {
+            "text": "49.7% of household expenditures (2021 est.)"
+          },
+          "on alcohol and tobacco": {
+            "text": "1.5% of household expenditures (2021 est.)"
+          }
+        }
+      ],
+      "priority_score": -3.3333333333332575
+    },
+    "remittances": {
+      "display_name": "Remittances",
+      "function_name": "parse_economy_remittances",
+      "coverage_percentage": 80.55555555555556,
+      "countries_with_property": 203,
+      "complexity_score": 1409,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 197,
+        "time_series_data": 201
+      },
+      "sample_values": [
+        {
+          "Remittances 2023": {
+            "text": "0.74% of GDP (2023 est.)"
+          },
+          "Remittances 2022": {
+            "text": "0.74% of GDP (2022 est.)"
+          },
+          "Remittances 2021": {
+            "text": "0.96% of GDP (2021 est.)"
+          },
+          "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
+        },
+        {
+          "Remittances 2023": {
+            "text": "0.01% of GDP (2023 est.)"
+          },
+          "Remittances 2022": {
+            "text": "0.01% of GDP (2022 est.)"
+          },
+          "Remittances 2021": {
+            "text": "0.02% of GDP (2021 est.)"
+          },
+          "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
+        }
+      ],
+      "priority_score": -603.4444444444445
+    },
+    "budget": {
+      "display_name": "Budget",
+      "function_name": "parse_economy_budget",
+      "coverage_percentage": 92.85714285714286,
+      "countries_with_property": 234,
+      "complexity_score": 951,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 15
+      },
+      "sample_values": [
+        {
+          "revenues": {
+            "text": "$55.185 billion (2019 est.)"
+          },
+          "expenditures": {
+            "text": "$64.728 billion (2019 est.)"
+          }
+        },
+        {
+          "revenues": {
+            "text": "$17.899 billion (2019 est.)"
+          },
+          "expenditures": {
+            "text": "$17.244 billion (2019 est.)"
+          }
+        }
+      ],
+      "priority_score": -22.42857142857133
+    },
+    "public_debt": {
+      "display_name": "Public debt",
+      "function_name": "parse_economy_public_debt",
+      "coverage_percentage": 82.93650793650794,
+      "countries_with_property": 209,
+      "complexity_score": 523,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 105
+      },
+      "sample_values": [
+        {
+          "Public debt 2017": {
+            "text": "27.5% of GDP (2017 est.)"
+          },
+          "note": "<strong>note:</strong> data cover central government debt as well as debt issued by subnational entities and intra-governmental debt"
+        },
+        {
+          "Public debt 2017": {
+            "text": "65% of GDP (2017 est.)"
+          }
+        }
+      ],
+      "priority_score": 306.3650793650794
+    },
+    "taxes_and_other_revenues": {
+      "display_name": "Taxes and other revenues",
+      "function_name": "parse_economy_taxes_and_other_revenues",
+      "coverage_percentage": 83.73015873015873,
+      "countries_with_property": 211,
+      "complexity_score": 359,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 211
+      },
+      "sample_values": [
+        {
+          "text": "32.3% (of GDP) (2017 est.)"
+        },
+        {
+          "text": "10.09% (of GDP) (2019 est.)",
+          "note": "<b>note:</b> central government tax revenue as a % of GDP"
+        }
+      ],
+      "priority_score": 478.30158730158735
+    },
+    "current_account_balance": {
+      "display_name": "Current account balance",
+      "function_name": "parse_economy_current_account_balance",
+      "coverage_percentage": 82.53968253968253,
+      "countries_with_property": 208,
+      "complexity_score": 1406,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_2",
+        "time_series_3_years"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 192,
+        "time_series_data": 191
+      },
+      "sample_values": [
+        {
+          "Current account balance 2023": {
+            "text": "$5.424 billion (2023 est.)"
+          },
+          "Current account balance 2022": {
+            "text": "$19.448 billion (2022 est.)"
+          },
+          "Current account balance 2021": {
+            "text": "-$4.51 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
+        },
+        {
+          "Current account balance 2023": {
+            "text": "$4.21 billion (2023 est.)"
+          },
+          "Current account balance 2022": {
+            "text": "$11.763 billion (2022 est.)"
+          },
+          "Current account balance 2021": {
+            "text": "$8.399 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
+        }
+      ],
+      "priority_score": -580.6031746031747
+    },
+    "exports": {
+      "display_name": "Exports",
+      "function_name": "parse_economy_exports",
+      "coverage_percentage": 89.28571428571429,
+      "countries_with_property": 225,
+      "complexity_score": 1522,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 216,
+        "time_series_data": 212
+      },
+      "sample_values": [
+        {
+          "Exports 2023": {
+            "text": "$58.816 billion (2023 est.)"
+          },
+          "Exports 2022": {
+            "text": "$69.242 billion (2022 est.)"
+          },
+          "Exports 2021": {
+            "text": "$41.851 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
+        },
+        {
+          "Exports 2023": {
+            "text": "$36.961 billion (2023 est.)"
+          },
+          "Exports 2022": {
+            "text": "$50.12 billion (2022 est.)"
+          },
+          "Exports 2021": {
+            "text": "$33.675 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
+        }
+      ],
+      "priority_score": -629.1428571428571
+    },
+    "exports_partners": {
+      "display_name": "Exports - partners",
+      "function_name": "parse_economy_exports_partners",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 460,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "Italy 29%, Spain 12%, France 12%, US 5%, South Korea 5% (2022)",
+          "note": "<b>note:</b> top five export partners based on percentage share of exports"
+        },
+        {
+          "text": "China 40%, India 9%, Netherlands 7%, France 7%, UAE 7% (2022)",
+          "note": "<b>note:</b> top five export partners based on percentage share of exports"
+        }
+      ],
+      "priority_score": 472.53968253968253
+    },
+    "exports_commodities": {
+      "display_name": "Exports - commodities",
+      "function_name": "parse_economy_exports_commodities",
+      "coverage_percentage": 94.44444444444444,
+      "countries_with_property": 238,
+      "complexity_score": 459,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 238
+      },
+      "sample_values": [
+        {
+          "text": "natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2022)",
+          "note": "<b>note:</b> top five export commodities based on value in dollars"
+        },
+        {
+          "text": "crude petroleum, natural gas, diamonds, ships, refined petroleum (2022)",
+          "note": "<b>note:</b> top five export commodities based on value in dollars"
+        }
+      ],
+      "priority_score": 485.44444444444446
+    },
+    "imports": {
+      "display_name": "Imports",
+      "function_name": "parse_economy_imports",
+      "coverage_percentage": 88.4920634920635,
+      "countries_with_property": 223,
+      "complexity_score": 1513,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 213,
+        "time_series_data": 211
+      },
+      "sample_values": [
+        {
+          "Imports 2023": {
+            "text": "$51.516 billion (2023 est.)"
+          },
+          "Imports 2022": {
+            "text": "$46.63 billion (2022 est.)"
+          },
+          "Imports 2021": {
+            "text": "$44.297 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
+        },
+        {
+          "Imports 2023": {
+            "text": "$23.676 billion (2023 est.)"
+          },
+          "Imports 2022": {
+            "text": "$28.564 billion (2022 est.)"
+          },
+          "Imports 2021": {
+            "text": "$18.845 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
+        }
+      ],
+      "priority_score": -628.0793650793651
+    },
+    "imports_partners": {
+      "display_name": "Imports - partners",
+      "function_name": "parse_economy_imports_partners",
+      "coverage_percentage": 93.25396825396825,
+      "countries_with_property": 235,
+      "complexity_score": 460,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 235
+      },
+      "sample_values": [
+        {
+          "text": "China 18%, France 14%, Italy 7%, Turkey 6%, Brazil 6% (2022)",
+          "note": "<b>note:</b> top five import partners based on percentage share of imports"
+        },
+        {
+          "text": "China 24%, Portugal 10%, Netherlands 8%, UAE 5%, India 4% (2022)",
+          "note": "<b>note:</b> top five import partners based on percentage share of imports"
+        }
+      ],
+      "priority_score": 472.53968253968253
+    },
+    "imports_commodities": {
+      "display_name": "Imports - commodities",
+      "function_name": "parse_economy_imports_commodities",
+      "coverage_percentage": 94.44444444444444,
+      "countries_with_property": 238,
+      "complexity_score": 459,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 238
+      },
+      "sample_values": [
+        {
+          "text": "wheat, milk, plastics, corn, iron ore (2022)",
+          "note": "<b>note:</b> top five import commodities based on value in dollars"
+        },
+        {
+          "text": "refined petroleum, wheat, cars, poultry, palm oil (2022)",
+          "note": "<b>note:</b> top five import commodities based on value in dollars"
+        }
+      ],
+      "priority_score": 485.44444444444446
+    },
+    "reserves_of_foreign_exchange_and_gold": {
+      "display_name": "Reserves of foreign exchange and gold",
+      "function_name": "parse_economy_reserves_of_foreign_exchange_and_gold",
+      "coverage_percentage": 77.77777777777779,
+      "countries_with_property": 196,
+      "complexity_score": 1313,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 179,
+        "time_series_data": 178
+      },
+      "sample_values": [
+        {
+          "Reserves of foreign exchange and gold 2023": {
+            "text": "$81.217 billion (2023 est.)"
+          },
+          "Reserves of foreign exchange and gold 2022": {
+            "text": "$71.852 billion (2022 est.)"
+          },
+          "Reserves of foreign exchange and gold 2021": {
+            "text": "$56.211 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+        },
+        {
+          "Reserves of foreign exchange and gold 2023": {
+            "text": "$13.942 billion (2023 est.)"
+          },
+          "Reserves of foreign exchange and gold 2022": {
+            "text": "$13.655 billion (2022 est.)"
+          },
+          "Reserves of foreign exchange and gold 2021": {
+            "text": "$14.468 billion (2021 est.)"
+          },
+          "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+        }
+      ],
+      "priority_score": -535.2222222222222
+    },
+    "debt_external": {
+      "display_name": "Debt - external",
+      "function_name": "parse_economy_debt_external",
+      "coverage_percentage": 90.07936507936508,
+      "countries_with_property": 227,
+      "complexity_score": 839,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "time_series_3_years",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 25,
+        "time_series_data": 2
+      },
+      "sample_values": [
+        {
+          "Debt - external 2019": {
+            "text": "$5.574 billion (2019 est.)"
+          },
+          "Debt - external 2018": {
+            "text": "$5.666 billion (2018 est.)"
+          }
+        },
+        {
+          "Debt - external 31 December 2017": {
+            "text": "$42.08 billion (31 December 2017 est.)"
+          },
+          "Debt - external 31 December 2016": {
+            "text": "$27.14 billion (31 December 2016 est.)"
+          }
+        }
+      ],
+      "priority_score": 61.79365079365073
+    },
+    "exchange_rates": {
+      "display_name": "Exchange rates",
+      "function_name": "parse_economy_exchange_rates",
+      "coverage_percentage": 95.63492063492063,
+      "countries_with_property": 241,
+      "complexity_score": 2682,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "time_series_4_years",
+        "time_series_5_years",
+        "time_series_3_years",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "time_series_data": 222,
+        "complex_nesting": 222,
+        "text_note_extraction": 30
+      },
+      "sample_values": [
+        {
+          "Currency": {
+            "text": "Algerian dinars (DZD) per US dollar -"
+          },
+          "Exchange rates 2023": {
+            "text": "135.843 (2023 est.)"
+          },
+          "Exchange rates 2022": {
+            "text": "141.995 (2022 est.)"
+          },
+          "Exchange rates 2021": {
+            "text": "135.064 (2021 est.)"
+          },
+          "Exchange rates 2020": {
+            "text": "126.777 (2020 est.)"
+          },
+          "Exchange rates 2019": {
+            "text": "119.354 (2019 est.)"
+          }
+        },
+        {
+          "Currency": {
+            "text": "kwanza (AOA) per US dollar -"
+          },
+          "Exchange rates 2023": {
+            "text": "685.02 (2023 est.)"
+          },
+          "Exchange rates 2022": {
+            "text": "460.568 (2022 est.)"
+          },
+          "Exchange rates 2021": {
+            "text": "631.442 (2021 est.)"
+          },
+          "Exchange rates 2020": {
+            "text": "578.259 (2020 est.)"
+          },
+          "Exchange rates 2019": {
+            "text": "364.826 (2019 est.)"
+          }
+        }
+      ],
+      "priority_score": -1725.6507936507937
+    },
+    "population_below_poverty_line": {
+      "display_name": "Population below poverty line",
+      "function_name": "parse_economy_population_below_poverty_line",
+      "coverage_percentage": 59.12698412698413,
+      "countries_with_property": 149,
+      "complexity_score": 283,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 149
+      },
+      "sample_values": [
+        {
+          "text": "32.3% (2018 est.)",
+          "note": "<b>note:</b> % of population with income below national poverty line"
+        },
+        {
+          "text": "16.1% (2015 est.)",
+          "note": "<b>note:</b> % of population with income below national poverty line"
+        }
+      ],
+      "priority_score": 308.2698412698412
+    },
+    "gini_index_coefficient_distribution_of_family_income": {
+      "display_name": "Gini Index coefficient - distribution of family income",
+      "function_name": "parse_economy_gini_index_coefficient_distribution_of_family_income",
+      "coverage_percentage": 61.111111111111114,
+      "countries_with_property": 154,
+      "complexity_score": 448,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 140
+      },
+      "sample_values": [
+        {
+          "Gini Index coefficient - distribution of family income 2018": {
+            "text": "51.3 (2018 est.)"
+          },
+          "note": "<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality"
+        },
+        {
+          "Gini Index coefficient - distribution of family income 2015": {
+            "text": "53.3 (2015 est.)"
+          },
+          "note": "<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality"
+        }
+      ],
+      "priority_score": 163.1111111111111
+    },
+    "household_income_or_consumption_by_percentage_share": {
+      "display_name": "Household income or consumption by percentage share",
+      "function_name": "parse_economy_household_income_or_consumption_by_percentage_share",
+      "coverage_percentage": 59.523809523809526,
+      "countries_with_property": 150,
+      "complexity_score": 739,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 139,
+        "coordinate_data": 150
+      },
+      "sample_values": [
+        {
+          "lowest 10%": {
+            "text": "1.3% (2018 est.)"
+          },
+          "highest 10%": {
+            "text": "39.6% (2018 est.)"
+          },
+          "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
+        },
+        {
+          "lowest 10%": {
+            "text": "1.5% (2015 est.)"
+          },
+          "highest 10%": {
+            "text": "41.5% (2015 est.)"
+          },
+          "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
+        }
+      ],
+      "priority_score": -143.7619047619047
+    },
+    "gdp_real_growth_rate": {
+      "display_name": "GDP real growth rate",
+      "function_name": "parse_economy_gdp_real_growth_rate",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "note": "NA"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "gdp_purchasing_power_parity_real": {
+      "display_name": "GDP (purchasing power parity) - real",
+      "function_name": "parse_economy_gdp_purchasing_power_parity_real",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "$906.5 million (2007 est.)"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "gdp_per_capita_ppp": {
+      "display_name": "GDP - per capita (PPP)",
+      "function_name": "parse_economy_gdp_per_capita_ppp",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "$2,500 (2007 est.)"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "ease_of_doing_business_index_scores": {
+      "display_name": "Ease of Doing Business Index scores",
+      "function_name": "parse_economy_ease_of_doing_business_index_scores",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 0,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {}
+      ],
+      "priority_score": 3.968253968253968
+    },
+    "agriculture_products": {
+      "display_name": "Agriculture - products",
+      "function_name": "parse_economy_agriculture_products",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "fruits and vegetables (grown in the few oases); camels, sheep, goats (kept by nomads); fish"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "labor_force_by_occupation": {
+      "display_name": "Labor force - by occupation",
+      "function_name": "parse_economy_labor_force_by_occupation",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 6,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "agriculture": {
+            "text": "50%"
+          },
+          "industry": {
+            "text": "50%"
+          },
+          "industry and services": {
+            "text": "50% (2005 est.)"
+          }
+        }
+      ],
+      "priority_score": -2.031746031746032
+    },
+    "budget_surplus_or_deficit": {
+      "display_name": "Budget surplus (+) or deficit (-)",
+      "function_name": "parse_economy_budget_surplus_or_deficit",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "NA"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "fiscal_year": {
+      "display_name": "Fiscal year",
+      "function_name": "parse_economy_fiscal_year",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "calendar year"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "industries",
+      "function_name": "parse_economy_industries",
+      "priority_score": 701.4761904761905,
+      "coverage_percentage": 94.04761904761905,
+      "complexity_score": 239
+    },
+    {
+      "property_key": "economic_overview",
+      "function_name": "parse_economy_economic_overview",
+      "priority_score": 696.5396825396825,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 236
+    },
+    {
+      "property_key": "agricultural_products",
+      "function_name": "parse_economy_agricultural_products",
+      "priority_score": 491.6031746031747,
+      "coverage_percentage": 92.46031746031747,
+      "complexity_score": 433
+    },
+    {
+      "property_key": "exports_commodities",
+      "function_name": "parse_economy_exports_commodities",
+      "priority_score": 485.44444444444446,
+      "coverage_percentage": 94.44444444444444,
+      "complexity_score": 459
+    },
+    {
+      "property_key": "imports_commodities",
+      "function_name": "parse_economy_imports_commodities",
+      "priority_score": 485.44444444444446,
+      "coverage_percentage": 94.44444444444444,
+      "complexity_score": 459
+    },
+    {
+      "property_key": "taxes_and_other_revenues",
+      "function_name": "parse_economy_taxes_and_other_revenues",
+      "priority_score": 478.30158730158735,
+      "coverage_percentage": 83.73015873015873,
+      "complexity_score": 359
+    },
+    {
+      "property_key": "exports_partners",
+      "function_name": "parse_economy_exports_partners",
+      "priority_score": 472.53968253968253,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 460
+    },
+    {
+      "property_key": "imports_partners",
+      "function_name": "parse_economy_imports_partners",
+      "priority_score": 472.53968253968253,
+      "coverage_percentage": 93.25396825396825,
+      "complexity_score": 460
+    },
+    {
+      "property_key": "gdp_official_exchange_rate",
+      "function_name": "parse_economy_gdp_official_exchange_rate",
+      "priority_score": 455.7936507936507,
+      "coverage_percentage": 90.07936507936508,
+      "complexity_score": 445
+    },
+    {
+      "property_key": "industrial_production_growth_rate",
+      "function_name": "parse_economy_industrial_production_growth_rate",
+      "priority_score": 443.92063492063494,
+      "coverage_percentage": 88.4920634920635,
+      "complexity_score": 441
+    },
+    {
+      "property_key": "labor_force",
+      "function_name": "parse_economy_labor_force",
+      "priority_score": 429.3333333333335,
+      "coverage_percentage": 83.33333333333334,
+      "complexity_score": 404
+    },
+    {
+      "property_key": "population_below_poverty_line",
+      "function_name": "parse_economy_population_below_poverty_line",
+      "priority_score": 308.2698412698412,
+      "coverage_percentage": 59.12698412698413,
+      "complexity_score": 283
+    },
+    {
+      "property_key": "public_debt",
+      "function_name": "parse_economy_public_debt",
+      "priority_score": 306.3650793650794,
+      "coverage_percentage": 82.93650793650794,
+      "complexity_score": 523
+    },
+    {
+      "property_key": "gini_index_coefficient_distribution_of_family_income",
+      "function_name": "parse_economy_gini_index_coefficient_distribution_of_family_income",
+      "priority_score": 163.1111111111111,
+      "coverage_percentage": 61.111111111111114,
+      "complexity_score": 448
+    },
+    {
+      "property_key": "debt_external",
+      "function_name": "parse_economy_debt_external",
+      "priority_score": 61.79365079365073,
+      "coverage_percentage": 90.07936507936508,
+      "complexity_score": 839
+    },
+    {
+      "property_key": "ease_of_doing_business_index_scores",
+      "function_name": "parse_economy_ease_of_doing_business_index_scores",
+      "priority_score": 3.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 0
+    },
+    {
+      "property_key": "gdp_real_growth_rate",
+      "function_name": "parse_economy_gdp_real_growth_rate",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "gdp_purchasing_power_parity_real",
+      "function_name": "parse_economy_gdp_purchasing_power_parity_real",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "gdp_per_capita_ppp",
+      "function_name": "parse_economy_gdp_per_capita_ppp",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "agriculture_products",
+      "function_name": "parse_economy_agriculture_products",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "budget_surplus_or_deficit",
+      "function_name": "parse_economy_budget_surplus_or_deficit",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "fiscal_year",
+      "function_name": "parse_economy_fiscal_year",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "labor_force_by_occupation",
+      "function_name": "parse_economy_labor_force_by_occupation",
+      "priority_score": -2.031746031746032,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 6
+    },
+    {
+      "property_key": "average_household_expenditures",
+      "function_name": "parse_economy_average_household_expenditures",
+      "priority_score": -3.3333333333332575,
+      "coverage_percentage": 41.66666666666667,
+      "complexity_score": 420
+    },
+    {
+      "property_key": "budget",
+      "function_name": "parse_economy_budget",
+      "priority_score": -22.42857142857133,
+      "coverage_percentage": 92.85714285714286,
+      "complexity_score": 951
+    },
+    {
+      "property_key": "household_income_or_consumption_by_percentage_share",
+      "function_name": "parse_economy_household_income_or_consumption_by_percentage_share",
+      "priority_score": -143.7619047619047,
+      "coverage_percentage": 59.523809523809526,
+      "complexity_score": 739
+    },
+    {
+      "property_key": "credit_ratings",
+      "function_name": "parse_economy_credit_ratings",
+      "priority_score": -337.9206349206348,
+      "coverage_percentage": 61.50793650793651,
+      "complexity_score": 953
+    },
+    {
+      "property_key": "gdp_composition_by_sector_of_origin",
+      "function_name": "parse_economy_gdp_composition_by_sector_of_origin",
+      "priority_score": -473.3333333333335,
+      "coverage_percentage": 91.66666666666666,
+      "complexity_score": 1390
+    },
+    {
+      "property_key": "reserves_of_foreign_exchange_and_gold",
+      "function_name": "parse_economy_reserves_of_foreign_exchange_and_gold",
+      "priority_score": -535.2222222222222,
+      "coverage_percentage": 77.77777777777779,
+      "complexity_score": 1313
+    },
+    {
+      "property_key": "unemployment_rate",
+      "function_name": "parse_economy_unemployment_rate",
+      "priority_score": -558.7301587301588,
+      "coverage_percentage": 84.12698412698413,
+      "complexity_score": 1400
+    },
+    {
+      "property_key": "inflation_rate_consumer_prices",
+      "function_name": "parse_economy_inflation_rate_consumer_prices",
+      "priority_score": -577.0793650793651,
+      "coverage_percentage": 88.4920634920635,
+      "complexity_score": 1462
+    },
+    {
+      "property_key": "current_account_balance",
+      "function_name": "parse_economy_current_account_balance",
+      "priority_score": -580.6031746031747,
+      "coverage_percentage": 82.53968253968253,
+      "complexity_score": 1406
+    },
+    {
+      "property_key": "youth_unemployment_rate_ages_15_24",
+      "function_name": "parse_economy_youth_unemployment_rate_ages_15_24",
+      "priority_score": -599.4444444444445,
+      "coverage_percentage": 80.55555555555556,
+      "complexity_score": 1405
+    },
+    {
+      "property_key": "remittances",
+      "function_name": "parse_economy_remittances",
+      "priority_score": -603.4444444444445,
+      "coverage_percentage": 80.55555555555556,
+      "complexity_score": 1409
+    },
+    {
+      "property_key": "imports",
+      "function_name": "parse_economy_imports",
+      "priority_score": -628.0793650793651,
+      "coverage_percentage": 88.4920634920635,
+      "complexity_score": 1513
+    },
+    {
+      "property_key": "exports",
+      "function_name": "parse_economy_exports",
+      "priority_score": -629.1428571428571,
+      "coverage_percentage": 89.28571428571429,
+      "complexity_score": 1522
+    },
+    {
+      "property_key": "real_gdp_per_capita",
+      "function_name": "parse_economy_real_gdp_per_capita",
+      "priority_score": -642.1111111111111,
+      "coverage_percentage": 88.88888888888889,
+      "complexity_score": 1531
+    },
+    {
+      "property_key": "real_gdp_purchasing_power_parity",
+      "function_name": "parse_economy_real_gdp_purchasing_power_parity",
+      "priority_score": -648.1746031746031,
+      "coverage_percentage": 89.68253968253968,
+      "complexity_score": 1545
+    },
+    {
+      "property_key": "real_gdp_growth_rate",
+      "function_name": "parse_economy_real_gdp_growth_rate",
+      "priority_score": -661.0476190476192,
+      "coverage_percentage": 88.09523809523809,
+      "complexity_score": 1542
+    },
+    {
+      "property_key": "gdp_composition_by_end_use",
+      "function_name": "parse_economy_gdp_composition_by_end_use",
+      "priority_score": -1705.8253968253969,
+      "coverage_percentage": 85.31746031746032,
+      "complexity_score": 2559
+    },
+    {
+      "property_key": "exchange_rates",
+      "function_name": "parse_economy_exchange_rates",
+      "priority_score": -1725.6507936507937,
+      "coverage_percentage": 95.63492063492063,
+      "complexity_score": 2682
+    }
+  ]
+}

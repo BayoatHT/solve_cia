@@ -1,0 +1,264 @@
+{
+  "section_info": {
+    "section_key": "military_and_security",
+    "display_name": "Military and Security",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 7
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_military_and_security_data",
+    "helper_function": "get_military_and_security",
+    "total_parser_functions_needed": 7,
+    "helper_functions_needed": [
+      "parse_time_series",
+      "parse_territorial_subdivisions",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "military_and_security_forces": {
+      "display_name": "Military and security forces",
+      "function_name": "parse_military_and_security_military_and_security_forces",
+      "coverage_percentage": 87.6984126984127,
+      "countries_with_property": 221,
+      "complexity_score": 384,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 221,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2023)",
+          "note": "<strong>note: </strong>the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units; General Directorate of National Security share responsibility for maintaining law and order"
+        },
+        {
+          "text": "Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2024)"
+        }
+      ],
+      "priority_score": 492.984126984127
+    },
+    "military_expenditures": {
+      "display_name": "Military expenditures",
+      "function_name": "parse_military_and_security_military_expenditures",
+      "coverage_percentage": 68.65079365079364,
+      "countries_with_property": 173,
+      "complexity_score": 1689,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_5",
+        "time_series_5_years"
+      ],
+      "parsing_challenges": {
+        "time_series_data": 168,
+        "complex_nesting": 168,
+        "text_note_extraction": 9
+      },
+      "sample_values": [
+        {
+          "Military Expenditures 2023": {
+            "text": "9% of GDP (2023 est.)"
+          },
+          "Military Expenditures 2022": {
+            "text": "4.8% of GDP (2022 est.)"
+          },
+          "Military Expenditures 2021": {
+            "text": "5.6% of GDP (2021 est.)"
+          },
+          "Military Expenditures 2020": {
+            "text": "6.7% of GDP (2020 est.)"
+          },
+          "Military Expenditures 2019": {
+            "text": "6% of GDP (2019 est.)"
+          }
+        },
+        {
+          "Military Expenditures 2023": {
+            "text": "1.3% of GDP (2023 est.)"
+          },
+          "Military Expenditures 2022": {
+            "text": "1.3% of GDP (2022 est.)"
+          },
+          "Military Expenditures 2021": {
+            "text": "1.4% of GDP (2021 est.)"
+          },
+          "Military Expenditures 2020": {
+            "text": "1.7% of GDP (2020 est.)"
+          },
+          "Military Expenditures 2019": {
+            "text": "1.8% of GDP (2019 est.)"
+          }
+        }
+      ],
+      "priority_score": -1002.4920634920636
+    },
+    "military_and_security_service_personnel_strengths": {
+      "display_name": "Military and security service personnel strengths",
+      "function_name": "parse_military_and_security_military_and_security_service_personnel_strengths",
+      "coverage_percentage": 72.22222222222221,
+      "countries_with_property": 182,
+      "complexity_score": 210,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 182
+      },
+      "sample_values": [
+        {
+          "text": "approximately 250,000 active armed forces personnel (100,000 Army, 15,000 Air Force/Air Defense, 10,000 Navy, 1,000 Republican Guard, 125,000 Gendarmerie); approximately 200,000 General Directorate of National Security (2023)"
+        },
+        {
+          "text": "approximately 100,000 active troops (mostly Army; 5-6,000 Air Force and Navy); estimated 10,000 Rapid Reaction Police (2023)"
+        }
+      ],
+      "priority_score": 512.2222222222222
+    },
+    "military_equipment_inventories_and_acquisitions": {
+      "display_name": "Military equipment inventories and acquisitions",
+      "function_name": "parse_military_and_security_military_equipment_inventories_and_acquisitions",
+      "coverage_percentage": 72.61904761904762,
+      "countries_with_property": 183,
+      "complexity_score": 194,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 183
+      },
+      "sample_values": [
+        {
+          "text": "the ANP is one of the better-equipped militaries in North Africa; over the past decade, it has made large investments in more modern equipment, including armored vehicles, air defense systems, fighter aircraft, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers (2023)"
+        },
+        {
+          "text": "most Angolan military weapons and equipment are of Russian or of Soviet-era origin; in recent years, Russia has been the principal supplier of military hardware to Angola (2023)"
+        }
+      ],
+      "priority_score": 532.1904761904761
+    },
+    "military_service_age_and_obligation": {
+      "display_name": "Military service age and obligation",
+      "function_name": "parse_military_and_security_military_service_age_and_obligation",
+      "coverage_percentage": 70.63492063492063,
+      "countries_with_property": 178,
+      "complexity_score": 285,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 178
+      },
+      "sample_values": [
+        {
+          "text": "18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory national service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2024)",
+          "note": "<strong>note: </strong>conscripts comprise an estimated 70% of the military"
+        },
+        {
+          "text": "20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)"
+        }
+      ],
+      "priority_score": 421.34920634920627
+    },
+    "military_note": {
+      "display_name": "Military - note",
+      "function_name": "parse_military_and_security_military_note",
+      "coverage_percentage": 99.20634920634922,
+      "countries_with_property": 250,
+      "complexity_score": 250,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 250,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "the ANP is responsible for external defense but also has some internal security responsibilities; key areas of concern include border and maritime security, terrorism, regional instability, and tensions with Morocco; Algeria supports the pro-independence Polisario Front in Western Sahara and accuses Morocco of supporting the Algerian separatist Movement for the Autonomy of Kabylie (MAK); border security and counterterrorism have received additional focus since the Arab Spring events of 2011 and the rise of terrorist threats emanating from Libya and the Sahel; the Army and Ministry of Defense (MND) paramilitary forces of the Gendarmerie and the border guards have beefed up their presence along the frontiers with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; the ANP and MND paramilitary forces have also increased counterterrorism cooperation with some neighboring countries, particularly Tunisia, including joint operations<br><br>the ANP has also played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019, when it withdrew support and called for him to be removed from office (2023)"
+        },
+        {
+          "text": "the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against separatist groups; the Army and Air Force are some of the largest and better equipped forces in the region (2024)"
+        }
+      ],
+      "priority_score": 742.0634920634922
+    },
+    "military_deployments": {
+      "display_name": "Military deployments",
+      "function_name": "parse_military_and_security_military_deployments",
+      "coverage_percentage": 33.730158730158735,
+      "countries_with_property": 85,
+      "complexity_score": 103,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 85
+      },
+      "sample_values": [
+        {
+          "text": "in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Congo (DRC) for 12 months to oversee cantonment of a rebel group known as M23 (2023)"
+        },
+        {
+          "text": "760 Central African Republic (MINUSCA); up to 3,000 in Somalia (ATMIS; note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024) (2024)",
+          "note": "<strong>note: </strong>Burundi deployed military troops to the Democratic Republic of the Congo (DRC) in 2022 as part of an East African regional force; as of 2024, as many as 1,000 troops reportedly remained in the DRC"
+        }
+      ],
+      "priority_score": 234.30158730158735
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "military_note",
+      "function_name": "parse_military_and_security_military_note",
+      "priority_score": 742.0634920634922,
+      "coverage_percentage": 99.20634920634922,
+      "complexity_score": 250
+    },
+    {
+      "property_key": "military_equipment_inventories_and_acquisitions",
+      "function_name": "parse_military_and_security_military_equipment_inventories_and_acquisitions",
+      "priority_score": 532.1904761904761,
+      "coverage_percentage": 72.61904761904762,
+      "complexity_score": 194
+    },
+    {
+      "property_key": "military_and_security_service_personnel_strengths",
+      "function_name": "parse_military_and_security_military_and_security_service_personnel_strengths",
+      "priority_score": 512.2222222222222,
+      "coverage_percentage": 72.22222222222221,
+      "complexity_score": 210
+    },
+    {
+      "property_key": "military_and_security_forces",
+      "function_name": "parse_military_and_security_military_and_security_forces",
+      "priority_score": 492.984126984127,
+      "coverage_percentage": 87.6984126984127,
+      "complexity_score": 384
+    },
+    {
+      "property_key": "military_service_age_and_obligation",
+      "function_name": "parse_military_and_security_military_service_age_and_obligation",
+      "priority_score": 421.34920634920627,
+      "coverage_percentage": 70.63492063492063,
+      "complexity_score": 285
+    },
+    {
+      "property_key": "military_deployments",
+      "function_name": "parse_military_and_security_military_deployments",
+      "priority_score": 234.30158730158735,
+      "coverage_percentage": 33.730158730158735,
+      "complexity_score": 103
+    },
+    {
+      "property_key": "military_expenditures",
+      "function_name": "parse_military_and_security_military_expenditures",
+      "priority_score": -1002.4920634920636,
+      "coverage_percentage": 68.65079365079364,
+      "complexity_score": 1689
+    }
+  ]
+}

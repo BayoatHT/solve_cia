@@ -1,0 +1,869 @@
+{
+  "section_info": {
+    "section_key": "geography",
+    "display_name": "Geography",
+    "total_files_analyzed": 252,
+    "countries_with_section": 252,
+    "coverage_percentage": 100.0,
+    "total_properties": 25
+  },
+  "parsing_requirements": {
+    "main_extractor_function": "return_geography_data",
+    "helper_function": "get_geography",
+    "total_parser_functions_needed": 25,
+    "helper_functions_needed": [
+      "parse_territorial_subdivisions",
+      "parse_coordinates",
+      "extract_text_and_note"
+    ]
+  },
+  "properties": {
+    "location": {
+      "display_name": "Location",
+      "function_name": "parse_geography_location",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 251,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251
+      },
+      "sample_values": [
+        {
+          "text": "Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia"
+        },
+        {
+          "text": "Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democratic Republic of the Congo"
+        }
+      ],
+      "priority_score": 745.031746031746
+    },
+    "geographic_coordinates": {
+      "display_name": "Geographic coordinates",
+      "function_name": "parse_geography_geographic_coordinates",
+      "coverage_percentage": 99.20634920634922,
+      "countries_with_property": 250,
+      "complexity_score": 251,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 250
+      },
+      "sample_values": [
+        {
+          "text": "28 00 N, 3 00 E"
+        },
+        {
+          "text": "12 30 S, 18 30 E"
+        }
+      ],
+      "priority_score": 741.0634920634922
+    },
+    "map_references": {
+      "display_name": "Map references",
+      "function_name": "parse_geography_map_references",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 251,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251
+      },
+      "sample_values": [
+        {
+          "text": "Africa"
+        },
+        {
+          "text": "Africa"
+        }
+      ],
+      "priority_score": 745.031746031746
+    },
+    "area": {
+      "display_name": "Area",
+      "function_name": "parse_geography_area",
+      "coverage_percentage": 100.0,
+      "countries_with_property": 252,
+      "complexity_score": 1547,
+      "data_patterns": [
+        "aggregated_data",
+        "nested_subdicts_1",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 53
+      },
+      "sample_values": [
+        {
+          "total ": {
+            "text": "2,381,740 sq km"
+          },
+          "land": {
+            "text": "2,381,740 sq km"
+          },
+          "water": {
+            "text": "0 sq km"
+          }
+        },
+        {
+          "total ": {
+            "text": "1,246,700 sq km"
+          },
+          "land": {
+            "text": "1,246,700 sq km"
+          },
+          "water": {
+            "text": "0 sq km"
+          }
+        }
+      ],
+      "priority_score": -547.0
+    },
+    "area_comparative": {
+      "display_name": "Area - comparative",
+      "function_name": "parse_geography_area_comparative",
+      "coverage_percentage": 100.0,
+      "countries_with_property": 252,
+      "complexity_score": 252,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 252
+      },
+      "sample_values": [
+        {
+          "text": "slightly less than 3.5 times the size of Texas"
+        },
+        {
+          "text": "about eight times the size of Georgia; slightly less than twice the size of Texas"
+        }
+      ],
+      "priority_score": 748.0
+    },
+    "land_boundaries": {
+      "display_name": "Land boundaries",
+      "function_name": "parse_geography_land_boundaries",
+      "coverage_percentage": 100.0,
+      "countries_with_property": 252,
+      "complexity_score": 852,
+      "data_patterns": [
+        "aggregated_data",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 10,
+        "complex_nesting": 1,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "total": {
+            "text": "6,734 km"
+          },
+          "border countries": {
+            "text": "Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km"
+          }
+        },
+        {
+          "total": {
+            "text": "5,369 km"
+          },
+          "border countries": {
+            "text": "Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km"
+          }
+        }
+      ],
+      "priority_score": 148.0
+    },
+    "coastline": {
+      "display_name": "Coastline",
+      "function_name": "parse_geography_coastline",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 254,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251
+      },
+      "sample_values": [
+        {
+          "text": "998 km"
+        },
+        {
+          "text": "1,600 km"
+        }
+      ],
+      "priority_score": 742.031746031746
+    },
+    "maritime_claims": {
+      "display_name": "Maritime claims",
+      "function_name": "parse_geography_maritime_claims",
+      "coverage_percentage": 98.01587301587301,
+      "countries_with_property": 247,
+      "complexity_score": 1179,
+      "data_patterns": [
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_3"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 69,
+        "complex_nesting": 57
+      },
+      "sample_values": [
+        {
+          "territorial sea": {
+            "text": "12 nm"
+          },
+          "contiguous zone": {
+            "text": "24 nm"
+          },
+          "exclusive fishing zone": {
+            "text": "32-52 nm"
+          }
+        },
+        {
+          "territorial sea": {
+            "text": "12 nm"
+          },
+          "contiguous zone": {
+            "text": "24 nm"
+          },
+          "exclusive economic zone": {
+            "text": "200 nm"
+          }
+        }
+      ],
+      "priority_score": -198.84126984126988
+    },
+    "climate": {
+      "display_name": "Climate",
+      "function_name": "parse_geography_climate",
+      "coverage_percentage": 100.0,
+      "countries_with_property": 252,
+      "complexity_score": 264,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251,
+        "complex_nesting": 1,
+        "coordinate_data": 1
+      },
+      "sample_values": [
+        {
+          "text": "arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer"
+        },
+        {
+          "text": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)"
+        }
+      ],
+      "priority_score": 736.0
+    },
+    "terrain": {
+      "display_name": "Terrain",
+      "function_name": "parse_geography_terrain",
+      "coverage_percentage": 98.80952380952381,
+      "countries_with_property": 249,
+      "complexity_score": 252,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 248
+      },
+      "sample_values": [
+        {
+          "text": "mostly high plateau and desert; Atlas Mountains in the far north and Hoggar Mountains in the south; narrow, discontinuous coastal plain"
+        },
+        {
+          "text": "narrow coastal plain rises abruptly to vast interior plateau"
+        }
+      ],
+      "priority_score": 736.0952380952381
+    },
+    "elevation": {
+      "display_name": "Elevation",
+      "function_name": "parse_geography_elevation",
+      "coverage_percentage": 99.20634920634922,
+      "countries_with_property": 250,
+      "complexity_score": 1343,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_3",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {
+        "coordinate_data": 250,
+        "text_note_extraction": 7
+      },
+      "sample_values": [
+        {
+          "highest point": {
+            "text": "Tahat 2,908 m"
+          },
+          "lowest point": {
+            "text": "Chott Melrhir -40 m"
+          },
+          "mean elevation": {
+            "text": "800 m"
+          }
+        },
+        {
+          "highest point": {
+            "text": "Moco 2,620 m"
+          },
+          "lowest point": {
+            "text": "Atlantic Ocean 0 m"
+          },
+          "mean elevation": {
+            "text": "1,112 m"
+          }
+        }
+      ],
+      "priority_score": -350.93650793650784
+    },
+    "natural_resources": {
+      "display_name": "Natural resources",
+      "function_name": "parse_geography_natural_resources",
+      "coverage_percentage": 98.80952380952381,
+      "countries_with_property": 249,
+      "complexity_score": 259,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 249,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc"
+        },
+        {
+          "text": "petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium"
+        }
+      ],
+      "priority_score": 729.0952380952381
+    },
+    "land_use": {
+      "display_name": "Land use",
+      "function_name": "parse_geography_land_use",
+      "coverage_percentage": 96.42857142857143,
+      "countries_with_property": 243,
+      "complexity_score": 2758,
+      "data_patterns": [
+        "nested_subdicts_6",
+        "nested_subdicts_1",
+        "nested_subdicts_4",
+        "nested_subdicts_3",
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_5"
+      ],
+      "parsing_challenges": {
+        "complex_nesting": 225,
+        "text_note_extraction": 2
+      },
+      "sample_values": [
+        {
+          "agricultural land": {
+            "text": "17.4% (2018 est.)"
+          },
+          "agricultural land: arable land": {
+            "text": "arable land: 3.2% (2018 est.)"
+          },
+          "agricultural land: permanent crops": {
+            "text": "permanent crops: 0.4% (2018 est.)"
+          },
+          "agricultural land: permanent pasture": {
+            "text": "permanent pasture: 13.8% (2018 est.)"
+          },
+          "forest": {
+            "text": "0.8% (2018 est.)"
+          },
+          "other": {
+            "text": "81.8% (2018 est.)"
+          }
+        },
+        {
+          "agricultural land": {
+            "text": "45.7% (2018 est.)"
+          },
+          "agricultural land: arable land": {
+            "text": "arable land: 3.9% (2018 est.)"
+          },
+          "agricultural land: permanent crops": {
+            "text": "permanent crops: 0.3% (2018 est.)"
+          },
+          "agricultural land: permanent pasture": {
+            "text": "permanent pasture: 41.5% (2018 est.)"
+          },
+          "forest": {
+            "text": "54.3% (2018 est.)"
+          }
+        }
+      ],
+      "priority_score": -1793.7142857142858
+    },
+    "irrigated_land": {
+      "display_name": "Irrigated land",
+      "function_name": "parse_geography_irrigated_land",
+      "coverage_percentage": 94.04761904761905,
+      "countries_with_property": 237,
+      "complexity_score": 238,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 237
+      },
+      "sample_values": [
+        {
+          "text": "12,605 sq km (2016)"
+        },
+        {
+          "text": "860 sq km (2014)"
+        }
+      ],
+      "priority_score": 702.4761904761905
+    },
+    "major_watersheds_area_sq_km": {
+      "display_name": "Major watersheds (area sq km)",
+      "function_name": "parse_geography_major_watersheds_area_sq_km",
+      "coverage_percentage": 40.87301587301587,
+      "countries_with_property": 103,
+      "complexity_score": 103,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 103,
+        "territorial_subdivisions": 64
+      },
+      "sample_values": [
+        {
+          "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
+        },
+        {
+          "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)"
+        }
+      ],
+      "priority_score": 305.73015873015873
+    },
+    "major_aquifers": {
+      "display_name": "Major aquifers",
+      "function_name": "parse_geography_major_aquifers",
+      "coverage_percentage": 21.03174603174603,
+      "countries_with_property": 53,
+      "complexity_score": 53,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 53,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin"
+        },
+        {
+          "text": "Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin"
+        }
+      ],
+      "priority_score": 157.3174603174603
+    },
+    "population_distribution": {
+      "display_name": "Population distribution",
+      "function_name": "parse_geography_population_distribution",
+      "coverage_percentage": 92.06349206349206,
+      "countries_with_property": 232,
+      "complexity_score": 233,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 232
+      },
+      "sample_values": [
+        {
+          "text": "the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map"
+        },
+        {
+          "text": "most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map"
+        }
+      ],
+      "priority_score": 687.6349206349206
+    },
+    "natural_hazards": {
+      "display_name": "Natural hazards",
+      "function_name": "parse_geography_natural_hazards",
+      "coverage_percentage": 97.61904761904762,
+      "countries_with_property": 246,
+      "complexity_score": 247,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 246
+      },
+      "sample_values": [
+        {
+          "text": "mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts"
+        },
+        {
+          "text": "locally heavy rainfall causes periodic flooding on the plateau"
+        }
+      ],
+      "priority_score": 729.1904761904761
+    },
+    "geography_note": {
+      "display_name": "Geography - note",
+      "function_name": "parse_geography_geography_note",
+      "coverage_percentage": 99.60317460317461,
+      "countries_with_property": 251,
+      "complexity_score": 251,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 251
+      },
+      "sample_values": [
+        {
+          "text": "largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art -- rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) -- that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated"
+        },
+        {
+          "text": "the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo"
+        }
+      ],
+      "priority_score": 745.031746031746
+    },
+    "major_rivers_by_length_in_km": {
+      "display_name": "Major rivers (by length in km)",
+      "function_name": "parse_geography_major_rivers_by_length_in_km",
+      "coverage_percentage": 32.142857142857146,
+      "countries_with_property": 81,
+      "complexity_score": 81,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 81
+      },
+      "sample_values": [
+        {
+          "text": "Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+        },
+        {
+          "text": "<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p>"
+        }
+      ],
+      "priority_score": 240.42857142857144
+    },
+    "major_lakes_area_sq_km": {
+      "display_name": "Major lakes (area sq km)",
+      "function_name": "parse_geography_major_lakes_area_sq_km",
+      "coverage_percentage": 27.77777777777778,
+      "countries_with_property": 70,
+      "complexity_score": 171,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2",
+        "nested_subdicts_1"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "fresh water lake(s)": {
+            "text": "Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km"
+          }
+        },
+        {
+          "fresh water lake(s)": {
+            "text": "Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year"
+          }
+        }
+      ],
+      "priority_score": 106.77777777777777
+    },
+    "environment_current_issues": {
+      "display_name": "Environment - current issues",
+      "function_name": "parse_geography_environment_current_issues",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "desertification; overgrazing; sparse water and lack of arable land"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "geographic_overview": {
+      "display_name": "Geographic overview",
+      "function_name": "parse_geography_geographic_overview",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1,
+        "territorial_subdivisions": 1
+      },
+      "sample_values": [
+        {
+          "text": "<p>The surface of the Earth is approximately 70.9% water and 29.1% land. The former portion constitutes the World Ocean, the single largest feature of the planet and one that connects all places on the globe. The World Ocean is divided by the intervening continental landmasses into five major ocean basins, which are (in decreasing order of size) the Pacific, Atlantic, Indian, Southern, and Arctic. <em>The World Factbook</em> describes each of these five as oceans. Given the significant differences in direction and temperature of major ocean currents, as well as the effects of the major air masses above them, the Pacific and Atlantic Oceans are generally divided at the equator into the North and South Pacific Oceans and the North and South Atlantic Oceans, thus creating seven major water bodies -- the so-called \"Seven Seas.\"</p> <p>About 97.5% of the Earth's water is saltwater. Of the 2.5% that is fresh, about two-thirds is frozen, mostly locked up in the Antarctic ice sheets and mountain glaciers worldwide. If all the surface ice on earth fully melted, the sea level would rise about 70 m (230 ft).<br><br>In a 100-year period, a water molecule spends 98 years in the ocean, 20 months as ice, about two weeks in lakes and rivers, and less than a week in the atmosphere. Groundwater can take 50 years to just traverse 1 km (0.6 mi).</p> <p>Earth's land portion is divided into several large, discrete landmasses called continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest) Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent, resulting in six continents. Alternately, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used).</p> <p>North America is commonly understood to include Greenland and the Caribbean islands and to extend south to the Isthmus of Panama. The Ural Mountains and the Ural River are usually considered the easternmost part of Europe, the Caspian Sea is the limit to the southeast, and the Caucasus Mountains, the Black Sea, and the Mediterranean to the south. Portions of five countries -- Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey -- fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries.</p> <p>Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The Pacific islands are often lumped with Australia into a \"land mass\" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa.</p> <p>Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some more heavily based on cultural spheres than physical geographic considerations.</p> <p>Based on the seven-continent model, and grouping islands with adjacent continents, Africa has the most countries with 54. Europe contains 49 countries and Asia 48, but these two continents share five countries: Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey. North America consists of 23 sovereign states, Oceania has 16, and South America 12. In total, the United States recognizes 197 countries.</p> <p><strong>countries by continent:</strong> <em>Africa </em>(54): Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe</p> <p><em>Europe </em>(49): Albania, Andorra, Austria, Azerbaijan*, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Georgia*, Germany, Greece, Holy See (Vatican City), Hungary, Iceland, Ireland, Italy, Kazakhstan*, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia*, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey*, Ukraine, United Kingdom (* indicates part of the country is also in Asia)</p> <p><em>Asia </em>(48): Afghanistan, Armenia, Azerbaijan*, Bahrain, Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Cyprus, Georgia*, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan*, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Philippines, Qatar, Russia*, Saudi Arabia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Turkey*, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen (* indicates part of the country is also in Europe)</p> <p><em>North America</em> (23): Antigua and Barbuda, The Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States</p> <p><em>Oceania </em>(16): Australia, Cook Islands, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, New Zealand, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu</p> <p><em>South America </em>(12): Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela<br><br>Three of the states described above – France, Netherlands, and the United Kingdom – consist of smaller political entities that are referred to as countries. France considers French Polynesia an overseas country; the Kingdom of the Netherlands refers to all four of its constituent parts (Netherlands [proper], and the islands of Aruba, Curacao, and Sint Maarten) as countries; and the United Kingdom is composed of the countries of England, Wales, Scotland, and Northern Ireland. While not recognized as sovereign states, <em>The World Factbook</em> does include descriptive entries for the French and Dutch island \"countries.\"<br><br><strong>the World from space:</strong> Earth is the only planet in the solar system to have water in its three states of matter: liquid (oceans, lakes, and rivers), solid (ice), and gas (water vapor in clouds). From a distance, Earth would be the brightest of the eight planets in the solar system; this luminous effect would be because of the sunlight reflected by the planet's water.<br><br>Earth is also the only planet in the solar system known to be active with earthquakes and volcanoes due to plate tectonics; these events form the landscape, replenish carbon dioxide into the atmosphere, and erase impact craters caused by meteors.<br><br>Earth has a slight equatorial bulge -- a difference between its equatorial and polar diameters -- because of the centrifugal force from the planet rotating on its axis. The equatorial diameter is 12,756 km, but the polar diameter is 12,714 km; this results in the Earth's circumference at the equator being 40,075 km, while the polar circumference is 40,008 km.<strong><br><br>the physical World:</strong> the Earth is composed of three layers: the outer lithosphere (with its crust and uppermost solid mantle), the mantle (the thickest layer, with distinct upper and lower layers), and the core (with an outer liquid core and inner solid core). Researchers have discovered that a transition zone (at a depth of 410-660 km, or 255-410 mi) between the upper and lower mantle may well be hydrous (water-bearing). But this hydrous rock would neither feel wet nor drip water. At that depth, high temperatures and pressures structurally transform a mineral called olivine into another mineral, ringwoodite, which can incorporate water, but not in a liquid, solid, or gas form. The high temperatures and pressures cause: 1) water molecules to split, creating hydroxide ions (hydrogen and oxygen atoms bound together), and 2) create structural changes in ringwoodite so that it is able to contain hydroxide ions. Ringwoodite can hold 1 to 3% of its weight in hydroxide ions. Considering that the 250 km-transition zone is about 7% of the Earth's mass (the crust is only about 1%), it could include at least as much (if not several times more) water than all the Earth's oceans.<br><br></p>"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "area_rankings": {
+      "display_name": "Area - rankings",
+      "function_name": "parse_geography_area_rankings",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 1,
+      "data_patterns": [
+        "nested_dictionary"
+      ],
+      "parsing_challenges": {
+        "text_note_extraction": 1
+      },
+      "sample_values": [
+        {
+          "text": "<p><strong>top fifteen World Factbook entities ranked by size:</strong> Pacific Ocean 155,557,000 sq km; Atlantic Ocean 76,762,000 sq km; Indian Ocean 68,556,000 sq km; Southern Ocean 20,327,000 sq km; Russia 17,098,242 sq km; Antarctica 14,200,000 sq km; Arctic Ocean 14,056,000 sq km; Canada 9,984,670 sq km; United States 9,826,675 sq km; China 9,596,960 sq km; Brazil 8,515,770 sq km; Australia 7,741,220 sq km; European Union 4,324,782 sq km; India 3,287,263 sq km; Argentina 2,780,400 sq km</p> <p><strong>top ten largest water bodies:</strong> Pacific Ocean 155,557,000 sq km; Atlantic Ocean 76,762,000 sq km; Indian Ocean 68,556,000 sq km; Southern Ocean 20,327,000 sq km; Arctic Ocean 14,056,000 sq km; Coral Sea 4,184,100 sq km; South China Sea 3,595,900 sq km; Caribbean Sea 2,834,000 sq km; Bering Sea 2,520,000 sq km; Mediterranean Sea 2,469,000 sq km</p> <p><strong>top ten largest landmasses:</strong> Asia 44,568,500 sq km; Africa 30,065,000 sq km; North America 24,473,000 sq km; South America 17,819,000 sq km; Antarctica 14,200,000 sq km; Europe 9,948,000 sq km; Australia 7,741,220 sq km; Greenland 2,166,086 sq km; New Guinea 785,753 sq km; Borneo 751,929 sq km</p> <p><strong>top ten largest islands:</strong> Greenland 2,166,086 sq km; New Guinea (Indonesia, Papua New Guinea) 785,753 sq km; Borneo (Brunei, Indonesia, Malaysia) 751,929 sq km; Madagascar 587,713 sq km; Baffin Island (Canada) 507,451 sq km; Sumatra (Indonesia) 472,784 sq km; Honshu (Japan) 227,963 sq km; Victoria Island (Canada) 217,291 sq km; Great Britain (United Kingdom) 209,331 sq km; Ellesmere Island (Canada) 196,236 sq km</p> <p><strong>top ten longest mountain ranges (land-based):</strong> Andes (Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina) 7,000 km; Rocky Mountains (Canada, US) 4,830 km; Great Dividing Range (Australia) 3,700 km; Transantarctic Mountains (Antarctica) 3,500 km; Kunlun Mountains (China) 3,000 km; Ural Mountains (Russia, Kazakhstan) 2,640 km; Atlas Mountains (Morocco, Algeria, Tunisia) 2,500 km; Appalachian Mountains (Canada, US) 2,400 km; Himalayas (Pakistan, Afghanistan, India, China, Nepal, Bhutan) 2,300 km; Altai Mountains (Kazakhstan, Russia, Mongolia) 2,000 km; <strong>note</strong> - lengths are approximate; if oceans are included, the Mid-Ocean Ridge is by far the longest mountain range at 40,389 km</p> <p><strong>top ten largest forested countries (sq km and percent of land):</strong> Russia 8,149,310 (49.8%); Brazil 4,935,380 (58.9%); Canada 3,470,690 (38.2%); United States 3,103,700 (33.9%); China 2,098,640 (22.3%); Democratic Republic of the Congo 1,522,670 (67.2%); Australia 1,250,590 (16.3%); Indonesia 903,250 (49.9%); Peru 738,054 (57.7%); India 708,600 (23.8%) (2016 est.)</p> <p><strong>top ten most densely forested countries (percent of land):</strong> Suriname (98.3%), Federated States of Micronesia (91.9%), Gabon (90%), Seychelles (88.4%), Palau (87.6%), Guyana (83.9%), Laos (82.1%), Solomon Islands (77.9%), Papua New Guinea (74.1%), Finland (73.1%) (2016 est.)</p> <p><strong>top ten largest (non-polar) deserts:</strong> Sahara (Algeria, Chad, Egypt, Libya, Mali, Mauritania, Niger, Western Sahara, Sudan, Tunisia) 9,200,000 sq km; Arabian (Saudi Arabia, Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, Yemen) 2,330,000 sq km; Gobi (China, Mongolia) 1,295,000 sq km; Kalahari (Botswana, Namibia, South Africa) 900,000 sq km; Patagonian (Argentina) 673,000 sq km; Syrian (Syria, Iraq, Jordan, Saudi Arabia) 500,000 sq km; Chihuahuan (Mexico) 362,000 sq km; Kara-Kum (Turkmenistan) 350,000 sq km; Great Victoria (Australia) 348,750 sq km; Great Basin (United States) 343,169 sq km; <strong>note</strong> - if the two polar deserts are included, they would rank first and second: Antarctic Desert 14,200,000 sq km and Arctic Desert 13,900,000 sq km</p> <p><strong>ten smallest independent countries:</strong> Holy See (Vatican City) 0.44 sq km; Monaco 2 sq km; Nauru 21 sq km; Tuvalu 26 sq km; San Marino 61 sq km; Liechtenstein 160 sq km; Marshall Islands 181 sq km; Cook Islands 236 sq km; Niue 260 sq km; Saint Kitts and Nevis 261 sq km</p>"
+        }
+      ],
+      "priority_score": 2.968253968253968
+    },
+    "wonders_of_the_world": {
+      "display_name": "Wonders of the World",
+      "function_name": "parse_geography_wonders_of_the_world",
+      "coverage_percentage": 0.3968253968253968,
+      "countries_with_property": 1,
+      "complexity_score": 4,
+      "data_patterns": [
+        "nested_dictionary",
+        "nested_subdicts_2"
+      ],
+      "parsing_challenges": {},
+      "sample_values": [
+        {
+          "The Seven Wonders of the Ancient World": {
+            "text": "<p>The conquests of Alexander the Great (r. 336-323 B.C.) in the fourth century B.C. fostered the spread of Greek culture to the lands bordering the eastern Mediterranean and through much of the Middle East, ushering in what is today referred to as the Hellenistic Period (323-31 B.C.). Hellenistic sightseers compiled guidebooks focused on outstanding monuments in those parts of the world, including Persia, Egypt, and Babylon. Generally, seven sites were emphasized since that number was considered magical, perfect, and complete. Not all Wonders lists from ancient times agreed, but six sites consistently appeared (the massive Walls of Babylon sometimes substituted for the Lighthouse of Alexandria). The seven described below represent the “classic” Seven Wonders most often cited.</p> <p>1. <strong>The Great Pyramid of Egypt</strong><br>The oldest of the Seven Wonders, the Great Pyramid, is the only one that remains largely intact. Commissioned by the Pharaoh Khufu (r. ca. 2589-2566 B.C.), it is the largest of the three pyramids at Giza. It served as the ruler’s tomb and was built over a period of about 20 years, concluding around 2560 B.C. The pyramid is estimated to have been 146.5 m tall when completed and was the tallest man-made structure in the world for over 3,800 years (until the 14th century A.D.). Most of the original limestone casing stones that formed the outer smooth surface of the pyramid are gone. Today, the pyramid’s height is about 139 m.</p> <p>2. <strong>The Hanging Gardens of Babylon</strong><br>This is the only one of the ancient Seven Wonders for which a definitive location has never been established. No surviving Babylonian texts mention the Gardens, nor have any archeological remains been discovered in today’s Iraq. According to tradition, the Gardens were a remarkable feat of engineering with an ascending series of mud-brick-tiered gardens containing a variety of trees, shrubs, and vines that, when viewed from below, resembled a leafy green mountain. The Gardens are frequently attributed to the Neo-Babylonian King Nebuchadnezzar II (r. 605-562 B.C.), who may have had them built for his Median wife Queen Amytis because she missed the green hills and valleys of her homeland.</p> <p>3. <strong>The Temple of Artemis (Artemision) at Ephesus</strong><br>This Greek temple at Ephesus (3 km southwest of Selcuk in present-day western Turkey) was dedicated to the goddess Artemis and was completely rebuilt twice: once after a 7th century B.C. flood and then after a 356 B.C. act of arson. In its final form, it was judged to be one of the Seven Wonders and survived for 600 years. The magnificent building was composed entirely of marble, with massive dimensions reported to be 130 m by 69 m, and included 127 columns, each some 18 m tall. The Temple was damaged in a Gothic raid in A.D. 268, and Christians finally closed it in the early-to-mid 5th century. The structure was dismantled in succeeding centuries, and today almost nothing of the temple remains.</p> <p>4. <strong>The Mausoleum of Halicarnassus</strong><br>Constructed in about 350 B.C., the Mausoleum of Halicarnassus was located on the site of the present-day city of Bodrum in southwestern Turkey. It was the tomb of Mausolus, a Persian ruler, and his wife -- the term \"mausoleum\" is derived from his name. The structure stood about 45 m high and took some 20 years to complete. A series of earthquakes between the 12th and 15th centuries A.D. devastated the structure, which was the last of the original Seven Wonders to be destroyed.</p> <p>5. <strong>The Colossus of Rhodes</strong><br>This statue of the Greek sun god Helios, constructed to celebrate Rhodes’ successful repulse of a siege, was made of iron tie bars to which brass or bronze plates were attached to form a skin. Contemporary descriptions list its height at about 70 cubits or some 33 m – approximately the same height as the Statue of Liberty from heel to top of head (34 m) – thus making it the tallest statue in the ancient world. Completed in about 280 B.C. at the entrance to the Rhodes harbor, the monument stood for only about 54 years until it toppled in an earthquake in 226 B.C. The impressive remains lay on the ground for over 800 years before finally being sold for scrap.</p> <p>6. <strong>The Lighthouse (Pharos) of Alexandria</strong><br>Completed around 275 B.C., the lighthouse stood on Pharos Island at the entrance to the Egyptian port city of Alexandria for some 1,600 years. Three earthquakes severely damaged it between A.D. 956 and 1323, when it was deactivated. The shape of the structure appeared on a number of ancient coins: a solid square base, which made up about half of the height, supported an octagonal middle section and a cylindrical top. The height of the structure is thought to have been at least 100 m and perhaps as high as 140 m. (The tallest lighthouse in the world today is the Jeddah Light in Saudi Arabia, which stands at 133 m.) At its apex stood a mirror that reflected sunlight during the day; a fire burned at night. </p> <p>7. <strong>The Statue of Zeus at Olympia in Greece</strong><br>The giant seated statue of the king of the Greek gods in the sanctuary of Olympia was completed by the Greek sculptor Phidias in approximately 435 B.C. Roughly 13 m tall, it was constructed of ivory plates and gold panels on a wooden framework, and the god’s throne was ornamented with ebony, ivory, gold, and precious stones. With the rise of Christianity, the sanctuary at Olympia fell into disuse; the details of the statue’s final destruction are unknown.</p> <p>note: The Lighthouse of Alexandria may have been the last of the Wonders to be completed (ca. 275 B.C.), and the Colossus of Rhodes was the first to be destroyed in about 226 B.C., so the Seven Wonders existed at the same time for only about 50 years in the middle of the third century B.C.</p>"
+          },
+          "The New Seven Wonders of the World": {
+            "text": "<p>A private initiative to come up with a new list for seven of the world’s wonders sprang up early in the new Millennium. Worldwide balloting – via internet or telephone – took place, covering a list of 200 existing monuments. Over 100 million votes were reportedly cast over a period of several years and the final list was announced on 7-7-2007. Even though the polling was unscientific, the seven “winners” were a worthy compilation of extraordinary Wonders to be found around the world. All seven of the New Wonders are inscribed as UNESCO World Heritage Sites and are frequently cited in the literature. </p> <p>1. <strong>Chichen Itza, Yucatan, Mexico</strong><br>This archeological site includes the impressive remains of a large pre-Columbian Mayan city that flourished from ca. A.D. 600-1100. Among the outstanding structures at the site are the massive Temple of the Warriors complex, an Observatory (El Caracol), the Great Ball Court, and the Sacred Cenote (sinkhole) where offerings were made. The most famous building, however, is the step-pyramid known as the Temple of Kukulcan that dominates the center of the site and serves as the symbol of Chichen Itza. The pyramidal structure is 24 m high; the crowning temple adds another 6 m. Although located in the dense jungles of Yucatan, it remains one of the most visited tourist sites in Mexico.</p> <p>2. <strong>The Colosseum, Rome, Italy</strong><br>The Roman Emperor Vespasian began construction on the Colosseum in A.D. 72, and his son Titus completed it in A.D. 80. Further modifications were made by Domitian (A.D. 81-96). The three emperors make up the Flavian Dynasty, thus providing the structure's alternate name, the Flavian Amphitheater. The massive structure is estimated to have seated, on average, about 65 thousand spectators and was most famously used for gladiatorial contests and public spectacles. Earthquakes and thieves destroyed much of the original structure, but it nonetheless remains an iconic symbol of Rome. The Colosseum is one of the most popular tourist attractions in the World.</p> <p>3. <strong>Christ the Redeemer Statue, Rio de Janeiro, Brazil</strong><br>Built between 1922 and 1931, the 30-meter-tall sculpture is reputed to be the largest Art Deco statue in the World. Its pedestal provides another 8 m in height and the arms stretch out to 28 m. Constructed of reinforced concrete and soapstone, the statue has become the cultural icon not only of Rio, but also of Brazil.</p> <p>4. <strong>Great Wall, China</strong><br>The name refers to a remarkable series of fortification systems that stretched across China's northern historical borders and served as protection against various nomadic peoples. An archeological survey revealed that the Wall and all its associated branches measures 21,196 km. The earliest of these walls date to the 7th century B.C.; certain stretches began to be linked in the 3rd century B.C., and successive dynasties added to or maintained various sections of the walls. The best-known and best-preserved portions of the wall are those built during the Ming Dynasty (1368-1644). Winding through amazingly varied terrain, the Great Wall is acknowledged as one of the most impressive architectural feats in history.</p> <p>5. <strong>Machu Picchu, Cuzco Region, Peru</strong><br>Perhaps the most spectacular archeological site in the Americas, the Inca citadel of Machu Picchu, situated on a 2,430 m Andean mountain ridge, is now thought to have been erected as an estate for the Inca Emperor Pachacuti (r. 1438-1471) and may have also served as a religious sanctuary. Built between about 1450 and 1460, it was abandoned approximately a century later, at the time of the Spanish conquest. Construction was carried out in the classic Inca style of polished, fitted, dry-stone walls. Some 750 people lived at this royal estate, most of them support staff to the nobility. The site is roughly divided into an agricultural sector (with myriad terraces for raising crops) and an urban sector. The latter is composed of an upper town (with temples) and a lower town (with warehouses). Some of the religious monuments include: the Intiwatana (a carved, ritual stone that served as a type of sundial and that is referred to as “The Hitching Post of the Sun”); the Torreon or Temple of the Sun, a small tower that likely served as a type of observatory; and the Intimachay, a sacred cave with a masonry entrance.</p> <p>6. <strong>Petra, Ma’an, Jordan</strong><br>Petra is believed to have been established in the 4th century B.C. as the capital of the Nabataean Kingdom, an entity that grew fabulously wealthy as the nexus of trade routes in the southern Levant. The kingdom retained its independence until the Roman Empire annexed it in A.D. 106. The city is famous for its stunning rock-cut architecture and its water conduit system, which allowed the Nabataeans to control and store the water supply in this desert region and create an artificial oasis. At its peak in the 1st century A.D., the city may have had a population of 20,000.</p> <p>7. <strong>Taj Mahal, Agra, Uttar Pradesh, India</strong><br>This gorgeous ivory-white mausoleum – described as “one of the universally admired masterpieces of the world’s heritage” – was commissioned in 1632 by Shah Jahan (r. 1628-1658) as the final resting place for his favorite wife, Mumtaz Mahal. The building also houses the tomb of Shah Jahan himself. The Taj Mahal is the centerpiece of an entire 17-hectare complex that also includes a guest house, a mosque, and formal gardens. The entire project was not completed until about 1653. The Taj Mahal remains one of the most visited tourist sites in the world.</p> <p>note: The Great Pyramid of Egypt, the only surviving Wonder of the ancient Seven, received an honorary status among the New Seven Wonders. Its inclusion enabled a Wonder to be listed for five of the six habitable continents (all but Australia).</p>"
+          }
+        }
+      ],
+      "priority_score": -0.03174603174603208
+    }
+  },
+  "implementation_priority": [
+    {
+      "property_key": "area_comparative",
+      "function_name": "parse_geography_area_comparative",
+      "priority_score": 748.0,
+      "coverage_percentage": 100.0,
+      "complexity_score": 252
+    },
+    {
+      "property_key": "location",
+      "function_name": "parse_geography_location",
+      "priority_score": 745.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 251
+    },
+    {
+      "property_key": "map_references",
+      "function_name": "parse_geography_map_references",
+      "priority_score": 745.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 251
+    },
+    {
+      "property_key": "geography_note",
+      "function_name": "parse_geography_geography_note",
+      "priority_score": 745.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 251
+    },
+    {
+      "property_key": "coastline",
+      "function_name": "parse_geography_coastline",
+      "priority_score": 742.031746031746,
+      "coverage_percentage": 99.60317460317461,
+      "complexity_score": 254
+    },
+    {
+      "property_key": "geographic_coordinates",
+      "function_name": "parse_geography_geographic_coordinates",
+      "priority_score": 741.0634920634922,
+      "coverage_percentage": 99.20634920634922,
+      "complexity_score": 251
+    },
+    {
+      "property_key": "terrain",
+      "function_name": "parse_geography_terrain",
+      "priority_score": 736.0952380952381,
+      "coverage_percentage": 98.80952380952381,
+      "complexity_score": 252
+    },
+    {
+      "property_key": "climate",
+      "function_name": "parse_geography_climate",
+      "priority_score": 736.0,
+      "coverage_percentage": 100.0,
+      "complexity_score": 264
+    },
+    {
+      "property_key": "natural_hazards",
+      "function_name": "parse_geography_natural_hazards",
+      "priority_score": 729.1904761904761,
+      "coverage_percentage": 97.61904761904762,
+      "complexity_score": 247
+    },
+    {
+      "property_key": "natural_resources",
+      "function_name": "parse_geography_natural_resources",
+      "priority_score": 729.0952380952381,
+      "coverage_percentage": 98.80952380952381,
+      "complexity_score": 259
+    },
+    {
+      "property_key": "irrigated_land",
+      "function_name": "parse_geography_irrigated_land",
+      "priority_score": 702.4761904761905,
+      "coverage_percentage": 94.04761904761905,
+      "complexity_score": 238
+    },
+    {
+      "property_key": "population_distribution",
+      "function_name": "parse_geography_population_distribution",
+      "priority_score": 687.6349206349206,
+      "coverage_percentage": 92.06349206349206,
+      "complexity_score": 233
+    },
+    {
+      "property_key": "major_watersheds_area_sq_km",
+      "function_name": "parse_geography_major_watersheds_area_sq_km",
+      "priority_score": 305.73015873015873,
+      "coverage_percentage": 40.87301587301587,
+      "complexity_score": 103
+    },
+    {
+      "property_key": "major_rivers_by_length_in_km",
+      "function_name": "parse_geography_major_rivers_by_length_in_km",
+      "priority_score": 240.42857142857144,
+      "coverage_percentage": 32.142857142857146,
+      "complexity_score": 81
+    },
+    {
+      "property_key": "major_aquifers",
+      "function_name": "parse_geography_major_aquifers",
+      "priority_score": 157.3174603174603,
+      "coverage_percentage": 21.03174603174603,
+      "complexity_score": 53
+    },
+    {
+      "property_key": "land_boundaries",
+      "function_name": "parse_geography_land_boundaries",
+      "priority_score": 148.0,
+      "coverage_percentage": 100.0,
+      "complexity_score": 852
+    },
+    {
+      "property_key": "major_lakes_area_sq_km",
+      "function_name": "parse_geography_major_lakes_area_sq_km",
+      "priority_score": 106.77777777777777,
+      "coverage_percentage": 27.77777777777778,
+      "complexity_score": 171
+    },
+    {
+      "property_key": "environment_current_issues",
+      "function_name": "parse_geography_environment_current_issues",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "geographic_overview",
+      "function_name": "parse_geography_geographic_overview",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "area_rankings",
+      "function_name": "parse_geography_area_rankings",
+      "priority_score": 2.968253968253968,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 1
+    },
+    {
+      "property_key": "wonders_of_the_world",
+      "function_name": "parse_geography_wonders_of_the_world",
+      "priority_score": -0.03174603174603208,
+      "coverage_percentage": 0.3968253968253968,
+      "complexity_score": 4
+    },
+    {
+      "property_key": "maritime_claims",
+      "function_name": "parse_geography_maritime_claims",
+      "priority_score": -198.84126984126988,
+      "coverage_percentage": 98.01587301587301,
+      "complexity_score": 1179
+    },
+    {
+      "property_key": "elevation",
+      "function_name": "parse_geography_elevation",
+      "priority_score": -350.93650793650784,
+      "coverage_percentage": 99.20634920634922,
+      "complexity_score": 1343
+    },
+    {
+      "property_key": "area",
+      "function_name": "parse_geography_area",
+      "priority_score": -547.0,
+      "coverage_percentage": 100.0,
+      "complexity_score": 1547
+    },
+    {
+      "property_key": "land_use",
+      "function_name": "parse_geography_land_use",
+      "priority_score": -1793.7142857142858,
+      "coverage_percentage": 96.42857142857143,
+      "complexity_score": 2758
+    }
+  ]
+}

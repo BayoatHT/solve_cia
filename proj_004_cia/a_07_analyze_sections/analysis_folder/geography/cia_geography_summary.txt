@@ -1,0 +1,36 @@
+================================================================================
+CIA GEOGRAPHY SECTION ANALYSIS
+================================================================================
+
+SECTION OVERVIEW:
+  Coverage: 100.0% (252/252 countries)
+  Properties: 25
+
+IMPLEMENTATION REQUIREMENTS:
+  Main Extractor: return_geography_data()
+  Helper Function: get_geography()
+  Parser Functions: 25
+  Utility Functions: 3
+  Utilities Needed:
+    - parse_territorial_subdivisions()
+    - parse_coordinates()
+    - extract_text_and_note()
+
+HIGH PRIORITY PROPERTIES (>50% coverage):
+  parse_geography_area_comparative: 100.0% | Challenges: text_note_extraction(252)
+  parse_geography_location: 99.6% | Challenges: text_note_extraction(251)
+  parse_geography_map_references: 99.6% | Challenges: text_note_extraction(251)
+  parse_geography_geography_note: 99.6% | Challenges: text_note_extraction(251)
+  parse_geography_coastline: 99.6% | Challenges: text_note_extraction(251)
+  parse_geography_geographic_coordinates: 99.2% | Challenges: text_note_extraction(250)
+  parse_geography_terrain: 98.8% | Challenges: text_note_extraction(248)
+  parse_geography_climate: 100.0% | Challenges: text_note_extraction(251), complex_nesting(1), coordinate_data(1)
+  parse_geography_natural_hazards: 97.6% | Challenges: text_note_extraction(246)
+  parse_geography_natural_resources: 98.8% | Challenges: text_note_extraction(249), territorial_subdivisions(1)
+
+COMPLEX PROPERTIES (high parsing difficulty):
+  parse_geography_land_use: Score 2758 | Patterns: nested_subdicts_6, nested_subdicts_1, nested_subdicts_4, nested_subdicts_3, nested_dictionary, nested_subdicts_2, nested_subdicts_5
+  parse_geography_area: Score 1547 | Patterns: aggregated_data, nested_subdicts_1, nested_dictionary, nested_subdicts_2, nested_subdicts_3
+  parse_geography_elevation: Score 1343 | Patterns: nested_dictionary, nested_subdicts_3, nested_subdicts_2
+  parse_geography_maritime_claims: Score 1179 | Patterns: nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_2, nested_subdicts_3
+  parse_geography_land_boundaries: Score 852 | Patterns: aggregated_data, nested_subdicts_1, nested_subdicts_4, nested_dictionary, nested_subdicts_2
