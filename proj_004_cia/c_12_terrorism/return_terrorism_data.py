@@ -13,6 +13,7 @@ import json
 import os
 # get_terrorism ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_12_terrorism.helper.get_terrorism import get_terrorism
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
@@ -37,7 +38,7 @@ def return_terrorism_data(
         data=data, info='terrorism', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

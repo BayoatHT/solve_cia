@@ -31,6 +31,7 @@ import os
 from typing import Dict, Optional
 
 from proj_004_cia.c_04_environment.helper.get_environment import get_environment
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 
 def return_environment_data(data: dict, iso3Code: str) -> Dict:
@@ -122,7 +123,7 @@ def return_environment_data(data: dict, iso3Code: str) -> Dict:
     cia_pack['marine_fisheries'] = get_environment(
         data=data, info='marine_fisheries', iso3Code=iso3Code)
 
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 ######################################################################################################################

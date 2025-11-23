@@ -13,6 +13,7 @@ import json
 import os
 # get_geography ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_02_geography.helper.get_geography import get_geography
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 ######################################################################################################################
 #   CORE FUNCTION
@@ -143,7 +144,7 @@ def return_geography_data(
         data=data, info='geography_note', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 ######################################################################################################################

@@ -13,6 +13,7 @@ import json
 import os
 # get_space ------------------------------------------------------------------------------------------------------
 from proj_004_cia.c_11_space.helper.get_space import get_space
+from proj_004_cia.c_00_transform_utils.clean_output import clean_output
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #   CORE FUNCTION
@@ -37,7 +38,7 @@ def return_space_data(
         data=data, info='space', iso3Code=iso3Code)
 
     # Return the compiled geography data
-    return cia_pack
+    return clean_output(cia_pack)
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

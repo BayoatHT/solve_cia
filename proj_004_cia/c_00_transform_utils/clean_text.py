@@ -3,6 +3,7 @@
 # proj_004_cia\c_00_transform_utils\clean_text.py
 # ---------------------------------------------------------------------------------------------------------------------
 import re
+import html
 from proj_004_cia.__logger.logger import app_logger
 
 ######################################################################################################################
@@ -38,10 +39,18 @@ def clean_text(text: str, preserve_formatting: bool = False, remove_notes: bool 
         # Step 1: Handle HTML entities first
         html_entities = {
             '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"',
-            '&apos;': "'", '&nbsp;': ' ', '&mdash;': '—', '&ndash;': '–'
+            '&apos;': "'", '&nbsp;': ' ', '&mdash;': '—', '&ndash;': '–',
+            '&rsquo;': "'", '&lsquo;': "'", '&rdquo;': '"', '&ldquo;': '"',
+            '&hellip;': '...', '&bull;': '•', '&middot;': '·',
+            '&deg;': '°', '&plusmn;': '±', '&times;': '×', '&divide;': '÷',
+            '&frac12;': '½', '&frac14;': '¼', '&frac34;': '¾',
+            '&euro;': '€', '&pound;': '£', '&yen;': '¥', '&cent;': '¢',
         }
         for entity, replacement in html_entities.items():
             text = text.replace(entity, replacement)
+
+        # Also use html.unescape for any remaining entities (numeric codes, etc.)
+        text = html.unescape(text)
 
         # Step 2: Remove or preserve HTML tags based on context
         if preserve_formatting:
