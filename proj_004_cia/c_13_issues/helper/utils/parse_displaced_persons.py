@@ -48,18 +48,26 @@ def parse_displaced_persons(displaced_data: dict, iso3Code: str = None) -> dict:
             result["refugees_total_year"] = int(year_match.group(1) or year_match.group(2))
 
         # Extract refugees by origin: "7,810 (Democratic Republic of the Congo)"
-        # Pattern matches: number (country name)
-        origin_pattern = re.compile(r'([\d,]+)\s*\(([^)]+)\)')
+        # Pattern matches: number (country name) - requires at least one digit
+        origin_pattern = re.compile(r'(\d[\d,]*)\s*\(([^)]+)\)')
         origins = []
         for match in origin_pattern.finditer(refugees_text):
-            count = int(match.group(1).replace(',', ''))
+            count_str = match.group(1).replace(',', '')
             country = match.group(2).strip()
-            # Skip if it's just a year
-            if not country.isdigit() and len(country) > 4:
+            # Skip if count is empty or country is just a year/date reference
+            if not count_str or country.isdigit() or len(country) <= 4:
+                continue
+            # Skip date references like "mid-year 2022"
+            if 'year' in country.lower() or 'as of' in country.lower():
+                continue
+            try:
+                count = int(count_str)
                 origins.append({
                     "country": country,
                     "count": count
                 })
+            except ValueError:
+                continue
 
         if origins:
             result["refugees_by_origin"] = origins
