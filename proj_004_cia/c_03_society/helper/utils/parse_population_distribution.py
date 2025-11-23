@@ -1,25 +1,42 @@
 import re
 import logging
+from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_population_distribution(pop_distro_data: dict) -> dict:
+def parse_population_distribution(pop_distro_data: dict, iso3Code: str = None) -> dict:
     """
+    Parse population distribution text from CIA World Factbook format.
 
+    This is a descriptive text field - we preserve it as-is.
     """
-    result = {}
+    result = {
+        "population_distribution": {
+            "description": None
+        },
+        "population_distribution_note": ""
+    }
+
+    if not pop_distro_data or not isinstance(pop_distro_data, dict):
+        return result
+
+    text = pop_distro_data.get('text', '').strip()
+
+    if text and text.upper() != 'NA':
+        # Clean HTML tags if present
+        text = re.sub(r'<[^>]+>', '', text).strip()
+        result["population_distribution"]["description"] = text
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    pop_distro_data = {
-        "text": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu"
+    test1 = {
+        "text": "large urban clusters are spread throughout the eastern half of the US"
     }
-    parsed_data = parse_population_distribution(pop_distro_data)
-    print(parsed_data)
+    print(parse_population_distribution(test1))
