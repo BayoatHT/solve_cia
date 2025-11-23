@@ -86,8 +86,11 @@ def return_environment_data(
     # Note: 'world_biomes'
     cia_pack['world_biomes'] = get_environment(
         data=data, info='world_biomes', iso3Code=iso3Code)
+    # Note: 'marine_fisheries'
+    cia_pack['marine_fisheries'] = get_environment(
+        data=data, info='marine_fisheries', iso3Code=iso3Code)
 
-    # Return the compiled geography data
+    # Return the compiled environment data
     return cia_pack
     # //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     # ------------------------------------------------------------------------------------------------------------------
@@ -103,7 +106,7 @@ def return_environment_data(
 if __name__ == '__main__':
     country = False
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

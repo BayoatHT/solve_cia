@@ -77,6 +77,10 @@ from proj_004_cia.c_04_environment.helper.utils.parse_waste_and_recycling import
 # NOTE: "World biomes"
 from proj_004_cia.c_04_environment.helper.utils.parse_world_biomes import parse_world_biomes
 # --------------------------------------------------------------------------------------------------
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# NOTE: "Marine fisheries"
+from proj_004_cia.c_04_environment.helper.utils.parse_marine_fisheries import parse_marine_fisheries
+# --------------------------------------------------------------------------------------------------
 
 
 # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -296,6 +300,17 @@ def get_environment(data=None, info=None, iso3Code=None):
             world_biomes_data
         )
 
+    # 19
+    # //////////////////////////////////////////////////////////////////////////////////////////////////
+    # NOTE: 19 >>> 'Marine fisheries'
+    # --------------------------------------------------------------------------------------------------
+    marine_fisheries_data = env_data.get("Marine fisheries", {})
+    # --------------------------------------------------------------------------------------------------
+    if info == 'marine_fisheries':
+        return parse_marine_fisheries(
+            marine_fisheries_data
+        )
+
 
 ######################################################################################################################
 #   TEST FUNCTION
@@ -306,7 +321,7 @@ if __name__ == '__main__':
     # ---------------------------------------------------------------------------------------------------------------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'
