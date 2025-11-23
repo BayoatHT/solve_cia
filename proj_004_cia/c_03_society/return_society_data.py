@@ -169,6 +169,7 @@ def return_society_data(
 #   TEST FUNCTION
 ######################################################################################################################
 if __name__ == '__main__':
+    from pprint import pprint
     country = True
     # ----------------------------------------------------------------------------------------------------------------------------------
     json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
@@ -188,7 +189,7 @@ if __name__ == '__main__':
     else:
         iso3Code = 'WLD'
     # ------------------------------------------------------------------------------------------------------------------
-    print(
+    pprint(
         return_society_data(
             data=data,
             iso3Code=iso3Code
