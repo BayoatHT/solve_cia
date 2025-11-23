@@ -171,7 +171,7 @@ def return_society_data(
 if __name__ == '__main__':
     country = True
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
     if country:
         region_folder = f'north-america'
         cia_code = 'us'

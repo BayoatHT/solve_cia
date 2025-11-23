@@ -278,7 +278,7 @@ def get_society(data=None, info=None, iso3Code=None):
     # ['health_expenditure_note', 'health_expenditure']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'health_expenditure':
-        return parse_contraceptive_rate(
+        return parse_health_expenditure(
             health_expenditure_data
         )
     # 8
@@ -503,7 +503,6 @@ def get_society(data=None, info=None, iso3Code=None):
             infant_data
         )
 
-        s
     # 21
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     # NOTE: 21 >>> 'Languages'
@@ -914,7 +913,7 @@ if __name__ == '__main__':
     # ---------------------------
     country = "USA"
     # ----------------------------------------------------------------------------------------------------------------------------------
-    json_folder = f'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia/_raw_data'
+    json_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
     if country == "USA":
         region_folder = f'north-america'
         cia_code = 'us'
