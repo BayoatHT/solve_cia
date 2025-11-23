@@ -8,12 +8,34 @@ logging.basicConfig(level='WARNING',
 
 
 def parse_tele_systems(tele_systems_data: dict) -> dict:
-    """
-
-    """
-
+    """Parse telecommunication systems from CIA Communications section."""
     result = {}
-
+    if not tele_systems_data or not isinstance(tele_systems_data, dict):
+        return result
+    try:
+        field_mappings = {
+            'general assessment': 'telecom_general_assessment',
+            'domestic': 'telecom_domestic',
+            'international': 'telecom_international',
+            'overseas departments': 'telecom_overseas_departments',
+        }
+        for cia_key, output_key in field_mappings.items():
+            if cia_key in tele_systems_data:
+                field_data = tele_systems_data[cia_key]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    if text and isinstance(text, str):
+                        result[output_key] = clean_text(text)
+        if 'note' in tele_systems_data:
+            note_data = tele_systems_data['note']
+            if isinstance(note_data, dict) and 'text' in note_data:
+                note = note_data['text']
+                if note and isinstance(note, str) and note.strip():
+                    result['telecom_note'] = clean_text(note)
+            elif isinstance(note_data, str) and note_data.strip():
+                result['telecom_note'] = clean_text(note_data)
+    except Exception as e:
+        logging.error(f"Error parsing tele_systems: {e}")
     return result
 
 

@@ -282,16 +282,8 @@ def get_economy(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     current_account_balance_data = eco_data.get("Current account balance", {})
     # --------------------------------------------------------------------------------------------------
-    """
     if info == 'current_account_balance':
-        return extract_and_parse(
-            main_data=eco_data,
-            key_path="Current account balance",
-            parser_function=parse_current_account_balance,
-            iso3Code=iso3Code,
-            parser_name="parse_current_account_balance"
-        ) 
-    """
+        return parse_current_account_balance(current_account_balance_data, iso3Code)
 
     # 8
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -299,17 +291,8 @@ def get_economy(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     debt_external_data = eco_data.get("Debt - external", {})
     # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    """"
     if info == 'debt_external':
-        return extract_and_parse(
-            main_data=eco_data,
-            key_path="Debt - external",
-            parser_function=parse_debt_external,
-            iso3Code=iso3Code,
-            parser_name="parse_debt_external"
-        )     
-    """
+        return parse_debt_external(debt_external_data, iso3Code)
 
     # 9
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -365,16 +348,8 @@ def get_economy(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     exports_data = eco_data.get("Exports", {})
     # --------------------------------------------------------------------------------------------------
-    # NA
-    # --------------------------------------------------------------------------------------------------
-    # pass
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    """
-    if info == 'pass':
-        return parse_exports(
-            exports_data
-        )    
-    """
+    if info == 'exports':
+        return parse_exports(exports_data, iso3Code)
 
     # 13
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -628,17 +603,13 @@ def get_economy(data=None, info=None, iso3Code=None):
 
     # 29
     # //////////////////////////////////////////////////////////////////////////////////////////////////
-
+    # NOTE: 29 >>> 'Inflation rate (consumer prices)'
     # --------------------------------------------------------------------------------------------------
     inflation_rate_consumer_prices_data = eco_data.get(
         "Inflation rate (consumer prices)", {})
     # --------------------------------------------------------------------------------------------------
-    """
     if info == 'inflation_rate':
-        return parse_inflation_rate(
-            inflation_rate_consumer_prices_data
-        )    
-    """
+        return parse_inflation_rate(inflation_rate_consumer_prices_data, iso3Code)
 
     # 30
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -685,20 +656,12 @@ def get_economy(data=None, info=None, iso3Code=None):
 
     # 33
     # //////////////////////////////////////////////////////////////////////////////////////////////////
-
+    # NOTE: 33 >>> 'Public debt'
     # --------------------------------------------------------------------------------------------------
     public_debt_data = eco_data.get("Public debt", {})
     # --------------------------------------------------------------------------------------------------
-    # GET FROM WORLD BANK
-    # --------------------------------------------------------------------------------------------------
-    # pass
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    """
-    if info == 'pass':
-        return parse_public_debt(
-            public_debt_data
-        )    
-    """
+    if info == 'public_debt':
+        return parse_public_debt(public_debt_data, iso3Code)
 
     # 34
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -801,12 +764,8 @@ def get_economy(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     unemployment_rate_data = eco_data.get("Unemployment rate", {})
     # --------------------------------------------------------------------------------------------------
-    """
-    if info == 'pass':
-        return parse_unemployment_rate(
-            pass_data
-        )   
-    """
+    if info == 'unemployment_rate':
+        return parse_unemployment_rate(unemployment_rate_data, iso3Code)
 
     # 41
     # //////////////////////////////////////////////////////////////////////////////////////////////////
