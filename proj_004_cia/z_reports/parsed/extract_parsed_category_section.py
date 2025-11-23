@@ -78,6 +78,16 @@ def extract_parsed_section(category: str, section: Optional[str] = None) -> tupl
     return results, errors
 
 
+def to_python_format(data: Any) -> str:
+    """Convert data to Python-friendly string format (None instead of null, etc.)."""
+    json_str = json.dumps(data, indent=4, ensure_ascii=False, default=str)
+    # Convert JSON syntax to Python syntax
+    json_str = json_str.replace(': null', ': None')
+    json_str = json_str.replace(': true', ': True')
+    json_str = json_str.replace(': false', ': False')
+    return json_str
+
+
 def save_report(data: Dict[str, Any], category: str, section: Optional[str], output_dir: str) -> str:
     """Save extracted data to a Python file in _reports directory."""
     cat_safe = sanitize_filename(category)
@@ -98,7 +108,7 @@ This file contains parsed/processed CIA World Factbook data for the specified
 category and section across all countries. Each key is an ISO3 country code.
 """
 
-PARSED_DATA = {json.dumps(data, indent=4, ensure_ascii=False, default=str)}
+PARSED_DATA = {to_python_format(data)}
 '''
 
     with open(filepath, 'w', encoding='utf-8') as f:
