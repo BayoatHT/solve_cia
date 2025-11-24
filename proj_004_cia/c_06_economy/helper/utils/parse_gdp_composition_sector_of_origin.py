@@ -32,13 +32,35 @@ def parse_gdp_composition_sector_of_origin(pass_data: dict, iso3Code: str = None
         data = pass_data.get(key, {})
         text = data.get("text", "")
         if text:
+            # Skip NA values - these indicate no data available
+            if text.upper().strip() == 'NA' or text.upper().startswith('NA '):
+                result[mapped_key] = {
+                    "value": None,
+                    "unit": "%",
+                    "year": None,
+                    "note": "NA"
+                }
+                continue
+
             # Extract value and year
+            # Handle both standard year format and fiscal year format (FY12/13)
             match = re.match(r"(-?[\d.]+)%\s+\((\d{4})", text)
+            fy_match = re.match(r"(-?[\d.]+)%\s+\(FY(\d{2})/(\d{2})", text)
             if match:
                 result[mapped_key] = {
                     "value": float(match.group(1)),
                     "unit": "%",
                     "year": int(match.group(2))
+                }
+            elif fy_match:
+                # Convert FY12/13 to 2012 (use the first year of the fiscal year)
+                fy_year = int(fy_match.group(2))
+                full_year = 2000 + fy_year if fy_year < 50 else 1900 + fy_year
+                result[mapped_key] = {
+                    "value": float(fy_match.group(1)),
+                    "unit": "%",
+                    "year": full_year,
+                    "fiscal_year": f"FY{fy_match.group(2)}/{fy_match.group(3)}"
                 }
             else:
                 logging.warning(f"Unexpected format in '{key}' data: {text}")

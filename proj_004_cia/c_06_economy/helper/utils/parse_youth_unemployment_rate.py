@@ -31,13 +31,15 @@ def parse_youth_unemployment_rate(pass_data: dict, iso3Code: str = None) -> dict
     for key, result_key in categories.items():
         if key in pass_data:
             text = pass_data[key].get("text", "")
-            match = re.match(r"([\d.]+)%\s*\((\d{4})", text)
+            # Handle formats like "45.4% (2023 est.)" or just "17.5%"
+            match = re.match(r"([\d.]+)%(?:\s*\((\d{4}))?", text)
             if match:
                 result[result_key] = {
                     "value": float(match.group(1)),
-                    "year": int(match.group(2))
+                    "year": int(match.group(2)) if match.group(2) else None
                 }
-            else:
+            elif text and text.upper() != 'NA':
+                # Only warn if there's actual text that couldn't be parsed (not NA)
                 logging.warning(f"Unexpected format in '{key}' data: {text}")
 
     # Handle 'note' if present

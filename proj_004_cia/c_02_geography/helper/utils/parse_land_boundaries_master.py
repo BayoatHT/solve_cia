@@ -27,6 +27,18 @@ def parse_land_boundaries_master(land_boundaries_data, iso3Code: str = None):
         'territories': {}
     }
 
+    # Handle simple case where data is just {"text": "0"}
+    if "text" in land_boundaries_data and isinstance(land_boundaries_data.get("text"), str):
+        text = land_boundaries_data.get("text", "")
+        match = re.match(r'([\d,\.]+)\s*(\w+)?', text)
+        if match:
+            unit = match.group(2) if match.group(2) else 'km'
+            result['total'] = {
+                'value': extract_numeric_value(match.group(1), unit=unit, iso3Code=iso3Code),
+                'unit': unit
+            }
+        return result
+
     # Process 'total'
     total_data = land_boundaries_data.get('total', {})
     total_text = total_data.get('text', '')

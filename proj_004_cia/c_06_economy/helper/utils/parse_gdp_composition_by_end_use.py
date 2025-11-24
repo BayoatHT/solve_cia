@@ -34,6 +34,19 @@ def parse_gdp_composition_by_end_use(pass_data: dict, iso3Code: str = None) -> d
         data = pass_data.get(key, {})
         text = data.get("text", "")
         if text:
+            # Skip NA values - these indicate no data available
+            # Handles "NA", "NA (2007 est.)", and "(2016 est.) NA"
+            if 'NA' in text.upper():
+                # Try to extract year if present
+                year_match = re.search(r'\((\d{4})', text)
+                result[mapped_key] = {
+                    "value": None,
+                    "unit": "%",
+                    "year": int(year_match.group(1)) if year_match else None,
+                    "note": "NA"
+                }
+                continue
+
             # Extract value and year
             value_match = re.match(r"(-?[\d.]+)%\s+\((\d{4})", text)
             if value_match:

@@ -27,6 +27,15 @@ def parse_land_use(land_use_data: dict, iso3Code: str = None) -> dict:
     result = {}
 
     for key, value in land_use_data.items():
+        # Handle 'note' key which is a string, not a dict
+        if key == "note":
+            result["land_use_note"] = clean_text(value) if isinstance(value, str) else ""
+            continue
+
+        # Skip if value is not a dictionary
+        if not isinstance(value, dict):
+            continue
+
         # Extract the text content
         text = value.get('text', '')
         text = text.replace('agricultural land: ', '').replace('arable land: ', '').replace(
