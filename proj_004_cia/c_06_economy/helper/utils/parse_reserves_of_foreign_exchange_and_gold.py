@@ -35,16 +35,18 @@ def parse_reserves_of_foreign_exchange_and_gold(pass_data: Dict[str, Any], iso3C
 
             # Process 'text' field for value and unit
             text = value.get("text", "")
-            match = re.match(r"\$(\d[\d,.]*)\s*(\w+)\s*\((\d{4})", text)
+            # Handle formats like "$740.9 billion (2023 est.)" or "$740.9 billion (31 December 2014 est.)"
+            match = re.match(r"\$(\d[\d,.]*)\s*(\w+)\s*\((?:\d{1,2}\s+\w+\s+)?(\d{4})", text)
             if match:
                 value_num = float(match.group(1).replace(",", ""))
                 unit = match.group(2)
                 result[f"reserves_{year}"] = {
                     "value": value_num,
                     "unit": unit,
-                    "year": int(year)
+                    "year": int(match.group(3))
                 }
-            else:
+            elif text:
+                # Only warn if there's actual text that couldn't be parsed
                 logging.warning(f"Unexpected format in 'text' data: {text}")
 
     return result

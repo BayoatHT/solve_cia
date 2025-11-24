@@ -26,6 +26,15 @@ def parse_maritime_claims(maritime_claims_data: dict, iso3Code: str = None) -> d
     # Continue parsing if no "status" text is found
     result = {}
     for key, value in maritime_claims_data.items():
+        # Handle 'note' key which is a string, not a dict
+        if key == "note":
+            result["maritime_note"] = value if isinstance(value, str) else ""
+            continue
+
+        # Skip if value is not a dictionary
+        if not isinstance(value, dict):
+            continue
+
         text = value.get("text", "")
         if not text:
             result[key] = {"value": 0, "unit": "", "note": ""}
