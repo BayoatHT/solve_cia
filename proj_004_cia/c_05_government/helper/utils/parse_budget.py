@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_budget(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_budget(pass_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses budget data for expenditures and revenues, capturing value, unit, and date.
 
@@ -18,6 +18,9 @@ def parse_budget(pass_data: dict, iso3Code: str = None) -> dict:
         dict: A dictionary with keys `budget_expenditures` and `budget_revenues` containing
               dictionaries with `value`, `unit`, and `date`.
     """
+    if return_original:
+        return pass_data
+
     result = {}
 
     # Define mapping for keys

@@ -7,7 +7,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_energy_consumption_per_capita(iso3Code: str) -> dict:
+def parse_energy_consumption_per_capita(iso3Code: str, return_original: bool = False)-> dict:
     """Parse energy consumption per capita from CIA Energy section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_energy_consumption_per_capita(iso3Code: str) -> dict:
 
     energy_section = raw_data.get('Energy', {})
     capita_section = energy_section.get('Energy consumption per capita', {})
+
+    if return_original:
+        return capita_section
+
 
     if not capita_section or not isinstance(capita_section, dict):
         return result

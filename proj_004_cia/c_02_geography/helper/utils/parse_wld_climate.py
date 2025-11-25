@@ -14,7 +14,7 @@ from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 # print(parsed_climate)
 
 
-def parse_wld_climate(climate_data: dict, iso3Code: str = None) -> dict:
+def parse_wld_climate(climate_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Climate' data for world ('WLD') specifically.
 
@@ -26,6 +26,9 @@ def parse_wld_climate(climate_data: dict, iso3Code: str = None) -> dict:
         dict: A dictionary containing climate details, including general climate information, 
               as well as ten driest, wettest, coldest, and hottest places.
     """
+    if return_original:
+        return climate_data
+
     result = {}
 
     # Extract the general climate information

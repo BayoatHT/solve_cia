@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_argicultural_products_2(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_argicultural_products_2(pass_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses agricultural products data into a list.
 
@@ -17,6 +17,9 @@ def parse_argicultural_products_2(pass_data: dict, iso3Code: str = None) -> dict
     Returns:
         dict: A dictionary with a key `agriculture_products` containing a list of parsed agricultural products.
     """
+    if return_original:
+        return pass_data
+
     result = {
         "agriculture_products": []
     }

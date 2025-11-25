@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_major_aquifers(iso3Code: str) -> dict:
+def parse_major_aquifers(iso3Code: str, return_original: bool = False)-> dict:
     """Parse major aquifers from CIA Environment section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_major_aquifers(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     aquifer_data = environment_section.get('Major aquifers', {})
+
+    if return_original:
+        return aquifer_data
+
 
     if not aquifer_data:
         return result

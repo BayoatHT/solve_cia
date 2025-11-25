@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_sanitation_access(sanitation_data: dict, iso3Code: str = None) -> dict:
+def parse_sanitation_access(sanitation_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse sanitation facility access data from CIA World Factbook format.
 
     Handles nested structure with improved/unimproved and urban/rural/total.
     """
+    if return_original:
+        return sanitation_data
+
     result = {
         "sanitation_access": {
             "improved_urban": None,

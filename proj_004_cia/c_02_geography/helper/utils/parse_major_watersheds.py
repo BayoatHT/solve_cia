@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_major_watersheds(major_watersheds_data: dict, iso3Code: str=None) -> dict:
+def parse_major_watersheds(major_watersheds_data: dict, iso3Code: str=None, return_original: bool = False)-> dict:
     """
     Parses the 'Major watersheds' data for specific countries.
 
@@ -20,6 +20,9 @@ def parse_major_watersheds(major_watersheds_data: dict, iso3Code: str=None) -> d
     Returns:
         dict: A dictionary containing parsed major watersheds details, organized by ocean/sea drainage and related rivers.
     """
+    if return_original:
+        return major_watersheds_data
+
     result = {
         "watersheds": []
     }

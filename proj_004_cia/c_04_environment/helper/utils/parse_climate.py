@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_climate(iso3Code: str) -> dict:
+def parse_climate(iso3Code: str, return_original: bool = False)-> dict:
     """Parse climate from CIA Environment section for a given country."""
     result = {
         "climate": {
@@ -32,6 +32,10 @@ def parse_climate(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     climate_data = environment_section.get('Climate', {})
+
+    if return_original:
+        return climate_data
+
 
     if not climate_data or not isinstance(climate_data, dict):
         return result

@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_reproduction_rate(reproduction_data: dict, iso3Code: str = None) -> dict:
+def parse_reproduction_rate(reproduction_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse net reproduction rate from CIA World Factbook format.
 
@@ -24,6 +24,9 @@ def parse_reproduction_rate(reproduction_data: dict, iso3Code: str = None) -> di
     Returns:
         Dictionary with structured reproduction rate data
     """
+    if return_original:
+        return reproduction_data
+
     result = {
         "reproduction_rate": {
             "value": None,

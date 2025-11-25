@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_taxes_and_other_revenues(iso3Code: str) -> Dict[str, Any]:
+def parse_taxes_and_other_revenues(iso3Code: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse taxes and other revenues data from CIA World Factbook for a given country.
 
@@ -54,6 +54,10 @@ def parse_taxes_and_other_revenues(iso3Code: str) -> Dict[str, Any]:
     # Navigate to Economy -> Taxes and other revenues
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Taxes and other revenues', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

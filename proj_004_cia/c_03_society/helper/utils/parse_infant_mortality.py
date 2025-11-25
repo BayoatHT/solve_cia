@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_infant_mortality(infant_data: dict, iso3Code: str = None) -> dict:
+def parse_infant_mortality(infant_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse infant mortality rate data from CIA World Factbook format.
 
@@ -35,6 +35,9 @@ def parse_infant_mortality(infant_data: dict, iso3Code: str = None) -> dict:
             "infant_mortality_note": ""
         }
     """
+    if return_original:
+        return infant_data
+
     result = {
         "infant_mortality": {
             "total": {"value": None, "timestamp": None, "is_estimate": False},
@@ -53,8 +56,11 @@ def parse_infant_mortality(infant_data: dict, iso3Code: str = None) -> dict:
         r'([\d.]+)\s*deaths?/1,000\s*live\s*births?\s*(?:\((\d{4})\s*(est\.?)?\))?'
     )
 
-    def parse_field(field_data: dict) -> dict:
+    def parse_field(field_data: dict, return_original: bool = False)-> dict:
         """Parse a single field (total, male, or female)."""
+        if return_original:
+            return field_data
+
         parsed = {"value": None, "timestamp": None, "is_estimate": False}
 
         if not isinstance(field_data, dict):

@@ -8,7 +8,7 @@ from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 # ------------------------------------------------------------------------------------------------------------------
 
 
-def parse_wld_terrain(terrain_data: dict, iso3Code: str = None) -> dict:
+def parse_wld_terrain(terrain_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Terrain' data for world ('WLD') specifically.
 
@@ -18,6 +18,9 @@ def parse_wld_terrain(terrain_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing general terrain details, as well as detailed cave information.
     """
+    if return_original:
+        return terrain_data
+
     result = {}
 
     # Extract general terrain information

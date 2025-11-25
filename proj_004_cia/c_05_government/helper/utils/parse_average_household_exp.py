@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_average_household_exp(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_average_household_exp(pass_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses average household expenditures data for food and alcohol/tobacco.
 
@@ -18,6 +18,9 @@ def parse_average_household_exp(pass_data: dict, iso3Code: str = None) -> dict:
         dict: A dictionary with keys `avg_house_expend_food` and `avg_house_expend_alcohol_tobacco` containing
               dictionaries with `value`, `unit`, and `date`.
     """
+    if return_original:
+        return pass_data
+
     result = {}
 
     # Define mapping for keys

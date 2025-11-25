@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_industries(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the industries data into an array of strings split by semicolons.
 
@@ -20,6 +20,9 @@ def parse_industries(
     Returns:
         dict: A dictionary containing a list of industries and any note.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Process text field with parse_text_to_list if available

@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_exports_partners(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the exports partners data including export partners, their share percentages, and any additional notes.
 
@@ -20,6 +20,9 @@ def parse_exports_partners(
     Returns:
         dict: A dictionary with parsed export partners data.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Handle the 'note' key if it exists

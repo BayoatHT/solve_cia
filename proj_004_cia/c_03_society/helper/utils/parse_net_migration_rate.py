@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_net_migration_rate(migration_data: dict, iso3Code: str = None) -> dict:
+def parse_net_migration_rate(migration_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse net migration rate data from CIA World Factbook format.
 
@@ -34,6 +34,9 @@ def parse_net_migration_rate(migration_data: dict, iso3Code: str = None) -> dict
             "net_migration_rate_note": ""
         }
     """
+    if return_original:
+        return migration_data
+
     result = {
         "net_migration_rate": {
             "value": None,

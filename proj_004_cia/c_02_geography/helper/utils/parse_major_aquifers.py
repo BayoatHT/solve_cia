@@ -6,7 +6,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_major_aquifers(aquifers_data: dict, iso3Code: str = None) -> dict:
+def parse_major_aquifers(aquifers_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Major aquifers' data for a country.
 
@@ -16,6 +16,9 @@ def parse_major_aquifers(aquifers_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing a list of major aquifers.
     """
+    if return_original:
+        return aquifers_data
+
     result = []
 
     # Extract the text from aquifers_data
@@ -30,7 +33,7 @@ def parse_major_aquifers(aquifers_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-def parse_wld_major_aquifers(aquifers_data: dict, iso3Code: str = None) -> dict:
+def parse_wld_major_aquifers(aquifers_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Major aquifers' data for the world ('WLD') specifically.
 
@@ -40,6 +43,9 @@ def parse_wld_major_aquifers(aquifers_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing parsed details of major aquifers.
     """
+    if return_original:
+        return aquifers_data
+
     result = {
         "description": "",
         "major_aquifers_info": {

@@ -7,10 +7,13 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_location(location_data: dict, iso3Code: str = None) -> dict:
+def parse_location(location_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
 
     """
+    if return_original:
+        return location_data
+
     if not location_data:
         logging.warning(f"No 'Location' data found for {iso3Code}")
         return None

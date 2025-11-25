@@ -7,7 +7,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 # --------------------------------------------------------------------------------------------------------
 
 
-def parse_current_account_balance(test_data: dict, iso3Code: str = None) -> dict:
+def parse_current_account_balance(test_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Current account balance' data into a structured dictionary format.
 
@@ -17,6 +17,9 @@ def parse_current_account_balance(test_data: dict, iso3Code: str = None) -> dict
     Returns:
         dict: A dictionary with parsed account balance information, including values by year and a note.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Handle the 'note' key if it exists
@@ -25,8 +28,11 @@ def parse_current_account_balance(test_data: dict, iso3Code: str = None) -> dict
             test_data.get("note", ""))
 
     # Helper function to parse balance entry
-    def parse_balance_entry(text: str) -> dict:
+    def parse_balance_entry(text: str, return_original: bool = False)-> dict:
         # Match amounts in billions with optional parentheses around year
+        if return_original:
+            return text
+
         match = re.match(
             r"([-]?\$?[\d,]+\.\d+)\s*billion\s*\(?(\d{4})\)?", text)
         if match:

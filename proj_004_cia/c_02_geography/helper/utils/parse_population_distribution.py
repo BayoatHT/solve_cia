@@ -5,7 +5,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_population_distribution(population_distribution_data: dict, iso3Code: str = None) -> dict:
+def parse_population_distribution(population_distribution_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Population distribution' data for a country.
 
@@ -15,6 +15,9 @@ def parse_population_distribution(population_distribution_data: dict, iso3Code: 
     Returns:
         dict: A dictionary containing parsed details of population distribution.
     """
+    if return_original:
+        return population_distribution_data
+
     result = {
         "distribution_areas": [],
         "population_distribution_note": ""

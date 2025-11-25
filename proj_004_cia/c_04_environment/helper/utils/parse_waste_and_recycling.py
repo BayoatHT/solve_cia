@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_waste_and_recycling(iso3Code: str) -> dict:
+def parse_waste_and_recycling(iso3Code: str, return_original: bool = False)-> dict:
     """Parse waste and recycling from CIA Environment section for a given country."""
     result = {
         "waste_recycling": {
@@ -30,6 +30,10 @@ def parse_waste_and_recycling(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     waste_data = environment_section.get('Waste and recycling', {})
+
+    if return_original:
+        return waste_data
+
 
     if not waste_data or not isinstance(waste_data, dict):
         return result

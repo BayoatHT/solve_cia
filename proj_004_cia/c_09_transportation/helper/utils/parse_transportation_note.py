@@ -6,7 +6,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_transportation_note(iso3Code: str) -> dict:
+def parse_transportation_note(iso3Code: str, return_original: bool = False)-> dict:
     """Parse Transportation - note from CIA Transportation section for a given country."""
     result = {}
     try:
@@ -17,6 +17,10 @@ def parse_transportation_note(iso3Code: str) -> dict:
 
     transport_section = raw_data.get('Transportation', {})
     note_data = transport_section.get('Transportation - note', {})
+
+    if return_original:
+        return note_data
+
 
     if not note_data:
         return result

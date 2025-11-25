@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_child_marriage(child_marriage_data: dict, iso3Code: str = None) -> dict:
+def parse_child_marriage(child_marriage_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse child marriage data from CIA World Factbook format.
 
@@ -20,6 +20,9 @@ def parse_child_marriage(child_marriage_data: dict, iso3Code: str = None) -> dic
         "men married by age 18": {"text": "0.4% (2016 est.)"}
     }
     """
+    if return_original:
+        return child_marriage_data
+
     result = {
         "child_marriage": {
             "women_by_15": None,

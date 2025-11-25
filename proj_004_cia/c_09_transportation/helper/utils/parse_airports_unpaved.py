@@ -7,7 +7,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_airports_unpaved(iso3Code: str) -> dict:
+def parse_airports_unpaved(iso3Code: str, return_original: bool = False)-> dict:
     """Parse airports with unpaved runways from CIA Transportation section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_airports_unpaved(iso3Code: str) -> dict:
 
     transport_section = raw_data.get('Transportation', {})
     airports_unpaved_data = transport_section.get('Airports - with unpaved runways', {})
+
+    if return_original:
+        return airports_unpaved_data
+
 
     if not airports_unpaved_data:
         return result

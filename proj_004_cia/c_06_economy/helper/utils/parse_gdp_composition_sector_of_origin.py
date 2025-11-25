@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 
 KEY_MAPPING = {"agriculture": "gdp_agriculture", "industry": "gdp_industry", "services": "gdp_services"}
 
-def parse_gdp_composition_sector_of_origin(iso3Code: str) -> dict:
+def parse_gdp_composition_sector_of_origin(iso3Code: str, return_original: bool = False)-> dict:
     """Parse GDP composition by sector of origin data from CIA World Factbook."""
     result = {}
     try:
@@ -19,6 +19,10 @@ def parse_gdp_composition_sector_of_origin(iso3Code: str) -> dict:
     
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('GDP - composition, by sector of origin', {})
+
+    if return_original:
+        return pass_data
+
     if not pass_data or not isinstance(pass_data, dict):
         return result
     

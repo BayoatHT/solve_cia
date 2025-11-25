@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_nationality(nationality_data: dict, iso3Code: str = None) -> dict:
+def parse_nationality(nationality_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse nationality data from CIA World Factbook format.
 
@@ -19,6 +19,9 @@ def parse_nationality(nationality_data: dict, iso3Code: str = None) -> dict:
         "adjective": {"text": "Gibraltar"}
     }
     """
+    if return_original:
+        return nationality_data
+
     result = {
         "nationality": {
             "noun": None,

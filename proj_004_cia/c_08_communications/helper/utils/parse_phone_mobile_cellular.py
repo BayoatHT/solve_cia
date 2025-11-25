@@ -7,7 +7,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_phone_mobile_cellular(iso3Code: str) -> dict:
+def parse_phone_mobile_cellular(iso3Code: str, return_original: bool = False)-> dict:
     """Parse Telephones - mobile cellular from CIA Communications section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_phone_mobile_cellular(iso3Code: str) -> dict:
 
     comms_section = raw_data.get('Communications', {})
     pass_data = comms_section.get('Telephones - mobile cellular', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

@@ -9,7 +9,7 @@ from proj_004_cia.c_00_transform_utils.extract_numeric_value import extract_nume
 # ------------------------------------------------------------------------------------------------------------------
 
 
-def parse_land_boundaries_master(land_boundaries_data, iso3Code: str = None):
+def parse_land_boundaries_master(land_boundaries_data, iso3Code: str = None, return_original: bool = False):
     """
     Parses the entire 'Land boundaries' section.
 
@@ -20,6 +20,9 @@ def parse_land_boundaries_master(land_boundaries_data, iso3Code: str = None):
     Returns:
         dict: A dictionary containing total land boundaries, border countries, notes, and any other territories.
     """
+    if return_original:
+        return land_boundaries_data
+
     result = {
         'total': {'value': 0, 'unit': ''},
         'border_countries': [],

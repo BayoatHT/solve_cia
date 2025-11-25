@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_credit_ratings(iso3Code: str) -> dict:
+def parse_credit_ratings(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse credit ratings data from CIA World Factbook for a given country.
 
@@ -58,6 +58,10 @@ def parse_credit_ratings(iso3Code: str) -> dict:
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Credit ratings', {})
 
+    if return_original:
+        return pass_data
+
+
     if not pass_data or not isinstance(pass_data, dict):
         return result
 
@@ -66,7 +70,10 @@ def parse_credit_ratings(iso3Code: str) -> dict:
         result["credit_ratings_note"] = clean_text(pass_data.get("note", ""))
 
         # Helper function to parse rating and year from text
-        def parse_rating(text: str) -> dict:
+        def parse_rating(text: str, return_original: bool = False)-> dict:
+            if return_original:
+                return text
+
             match = re.match(r"([A-Za-z+]+)\s*\((\d{4})\)", text)
             if match:
                 return {

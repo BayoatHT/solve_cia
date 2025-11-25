@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_geography_note(geography_note_data: dict, iso3Code: str = None) -> dict:
+def parse_geography_note(geography_note_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Geography - note' data for a country.
 
@@ -17,6 +17,9 @@ def parse_geography_note(geography_note_data: dict, iso3Code: str = None) -> dic
     Returns:
         dict: A dictionary containing parsed details of geography notes.
     """
+    if return_original:
+        return geography_note_data
+
     result = {}
 
     text = geography_note_data.get("text", "")

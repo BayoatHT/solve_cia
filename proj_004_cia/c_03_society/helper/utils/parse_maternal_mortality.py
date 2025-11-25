@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_maternal_mortality(maternity_data: dict, iso3Code: str = None) -> dict:
+def parse_maternal_mortality(maternity_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse maternal mortality ratio from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_maternal_mortality(maternity_data: dict, iso3Code: str = None) -> dict
             "maternal_mortality_ratio_note": ""
         }
     """
+    if return_original:
+        return maternity_data
+
     result = {
         "maternal_mortality_ratio": {
             "value": None,

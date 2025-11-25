@@ -15,7 +15,7 @@ KEY_MAPPING = {
     "investment in inventories": "gdp_investment_inventories"
 }
 
-def parse_gdp_composition_by_end_use(iso3Code: str) -> dict:
+def parse_gdp_composition_by_end_use(iso3Code: str, return_original: bool = False)-> dict:
     """Parse GDP composition by end use data from CIA World Factbook for a given country."""
     result = {}
     try:
@@ -26,6 +26,10 @@ def parse_gdp_composition_by_end_use(iso3Code: str) -> dict:
     
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('GDP - composition, by end use', {})
+
+    if return_original:
+        return pass_data
+
     if not pass_data or not isinstance(pass_data, dict):
         return result
     

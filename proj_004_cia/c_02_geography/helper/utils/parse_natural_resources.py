@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_natural_resources(iso3Code: str) -> dict:
+def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse natural resources data from CIA World Factbook for a given country.
 
@@ -59,6 +59,10 @@ def parse_natural_resources(iso3Code: str) -> dict:
     # Navigate to Geography -> Natural resources
     geography_section = raw_data.get('Geography', {})
     natural_resources_data = geography_section.get('Natural resources', {})
+
+    if return_original:
+        return natural_resources_data
+
 
     if not natural_resources_data or not isinstance(natural_resources_data, dict):
         return result

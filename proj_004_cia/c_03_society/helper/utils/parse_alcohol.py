@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_alcohol(alcohol_data: dict, iso3Code: str = None) -> dict:
+def parse_alcohol(alcohol_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse alcohol consumption per capita from CIA World Factbook format.
 
@@ -22,6 +22,9 @@ def parse_alcohol(alcohol_data: dict, iso3Code: str = None) -> dict:
         "other alcohols": {"text": "0 liters of pure alcohol (2019 est.)"}
     }
     """
+    if return_original:
+        return alcohol_data
+
     result = {
         "alcohol_consumption": {
             "total": None,

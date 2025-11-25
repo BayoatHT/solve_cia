@@ -10,10 +10,13 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_real_gdp_growth_rate(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
 
     """
+    if return_original:
+        return test_data
+
 
     result = {}
 

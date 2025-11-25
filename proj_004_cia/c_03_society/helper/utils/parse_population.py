@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_population(population_data: dict, iso3Code: str = None) -> dict:
+def parse_population(population_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse population data from CIA World Factbook format.
 
@@ -27,6 +27,9 @@ def parse_population(population_data: dict, iso3Code: str = None) -> dict:
     Returns:
         Dictionary with structured population data
     """
+    if return_original:
+        return population_data
+
     result = {
         "population": {
             "total": None,

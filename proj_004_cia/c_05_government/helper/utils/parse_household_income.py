@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_household_income(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses household income data by extracting the income share for the highest and lowest 10% 
     and any associated notes.
@@ -21,6 +21,9 @@ def parse_household_income(
     Returns:
         dict: A dictionary with extracted income share information and note.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Loop through each key-value pair in test_data

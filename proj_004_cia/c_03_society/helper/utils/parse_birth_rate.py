@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_birth_rate(birth_rate_data: dict, iso3Code: str = None) -> dict:
+def parse_birth_rate(birth_rate_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse birth rate data from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_birth_rate(birth_rate_data: dict, iso3Code: str = None) -> dict:
             "birth_rate_note": ""
         }
     """
+    if return_original:
+        return birth_rate_data
+
     result = {
         "birth_rate": {
             "value": None,

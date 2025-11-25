@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_urbanization(iso3Code: str) -> dict:
+def parse_urbanization(iso3Code: str, return_original: bool = False)-> dict:
     """Parse urbanization from CIA Environment section for a given country."""
     result = {
         "env_urbanization": {
@@ -28,6 +28,10 @@ def parse_urbanization(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     urban_data = environment_section.get('Urbanization', {})
+
+    if return_original:
+        return urban_data
+
 
     if not urban_data or not isinstance(urban_data, dict):
         return result

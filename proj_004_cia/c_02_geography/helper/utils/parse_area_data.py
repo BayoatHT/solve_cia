@@ -2,7 +2,7 @@ import re
 import logging
 
 
-def parse_area_data(area_data: dict, iso3Code: str=None) -> dict:
+def parse_area_data(area_data: dict, iso3Code: str=None, return_original: bool = False)-> dict:
     """
     Parses the 'Area' data into a dictionary containing numerical value, unit, and notes.
 
@@ -14,6 +14,9 @@ def parse_area_data(area_data: dict, iso3Code: str=None) -> dict:
         dict: A dictionary containing area information with fields for value, unit, and notes.
                Ensures that `None` values are avoided by returning `0` or an empty string as appropriate.
     """
+    if return_original:
+        return area_data
+
     try:
         text = area_data.get('text', '')
         if not text:

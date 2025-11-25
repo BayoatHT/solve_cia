@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_urbanization(urb_data: dict, iso3Code: str = None) -> dict:
+def parse_urbanization(urb_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse urbanization data from CIA World Factbook format.
 
@@ -26,6 +26,9 @@ def parse_urbanization(urb_data: dict, iso3Code: str = None) -> dict:
     Returns:
         Dictionary with structured urbanization data
     """
+    if return_original:
+        return urb_data
+
     result = {
         "urbanization": {
             "urban_population_percent": None,

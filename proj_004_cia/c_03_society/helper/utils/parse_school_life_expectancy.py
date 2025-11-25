@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_school_life_expectancy(school_data: dict, iso3Code: str = None) -> dict:
+def parse_school_life_expectancy(school_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse school life expectancy data from CIA World Factbook format.
 
@@ -27,6 +27,9 @@ def parse_school_life_expectancy(school_data: dict, iso3Code: str = None) -> dic
     Returns:
         Dictionary with structured school life expectancy data
     """
+    if return_original:
+        return school_data
+
     result = {
         "school_life_expectancy": {
             "total": None,

@@ -7,7 +7,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 # --------------------------------------------------------------------------------------------------------
 
 
-def parse_debt_external(test_data: dict, iso3Code: str = None) -> dict:
+def parse_debt_external(test_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses 'Debt - external' data including year-specific debt amounts and any additional notes.
 
@@ -17,6 +17,9 @@ def parse_debt_external(test_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary with parsed debt data by year and notes if available.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Handle the 'note' key if it exists
@@ -24,8 +27,11 @@ def parse_debt_external(test_data: dict, iso3Code: str = None) -> dict:
         result["debt_external_note"] = clean_text(test_data.get("note", ""))
 
     # Helper function to parse debt entry
-    def parse_debt_entry(text: str) -> dict:
+    def parse_debt_entry(text: str, return_original: bool = False)-> dict:
         # Match amounts in trillions or billions with optional parentheses around year
+        if return_original:
+            return text
+
         match = re.match(r"\$([\d,]+)\s*\(?(\d{4})?\)?", text)
         if match:
             # Extract and clean the value

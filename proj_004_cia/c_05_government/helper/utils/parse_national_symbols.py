@@ -1,32 +1,43 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_national_symbols(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """Parse national symbols from CIA Government section."""
+def parse_national_symbols(iso3Code: str, return_original: bool = False)-> dict:
+    """Parse national symbols from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('National symbol(s)', {})
+
+    if return_original:
+        return test_data
+
+
     if not test_data or not isinstance(test_data, dict):
         return result
+
     try:
-        # Handle simple text field
         if 'text' in test_data:
             text = test_data['text']
             if text and isinstance(text, str):
                 result['national_symbols'] = clean_text(text)
-                # Try to extract colors from text
                 colors = _extract_colors(text)
                 if colors:
                     result['national_colors'] = colors
 
-        # Handle nested fields (some entries have these)
         field_mappings = {
             'national symbol(s)': 'national_symbols',
             'national colors': 'national_colors',
@@ -46,7 +57,8 @@ def parse_national_symbols(
             if isinstance(note, str) and note.strip():
                 result['national_symbols_note'] = clean_text(note)
     except Exception as e:
-        app_logger.error(f"Error parsing national_symbols: {e}")
+        logger.error(f"Error parsing national symbols for {iso3Code}: {e}")
+
     return result
 
 
@@ -54,8 +66,6 @@ def _extract_colors(text: str) -> list:
     """Extract national colors from text."""
     if not text:
         return []
-
-    # Look for pattern like "national colors: red, white, blue"
     color_match = re.search(r'national colors?:?\s*([^;]+)', text.lower())
     if color_match:
         colors_text = color_match.group(1)
@@ -64,61 +74,20 @@ def _extract_colors(text: str) -> list:
     return []
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # text - 'national_symbols',
-    # --------------------------------------------------------------------------------------------------
-    # ['national_symbols']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "text": "bald eagle; national colors: red, white, blue"
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'National symbol(s)'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_national_symbols_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test National symbol(s) Orginal Data")
-    for index, country_data in enumerate(test_national_symbols_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing national_symbols Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_national_symbols_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_national_symbols(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_national_symbols")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'JPN', 'IND']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_national_symbols(iso3)
+            if result:
+                print(f"  Symbols: {result.get('national_symbols', 'N/A')[:50]}...")
+                print(f"  Colors: {result.get('national_colors', [])}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -11,7 +11,7 @@ from proj_004_cia.c_00_transform_utils.extract_numeric_value import extract_nume
 # ------------------------------------------------------------------------------------------------------------------
 
 
-def parse_terrain(terrain_data: dict, iso3Code: str = None) -> list:
+def parse_terrain(terrain_data: dict, iso3Code: str = None, return_original: bool = False)-> list:
     """
     Parses the 'Terrain' data.
 
@@ -22,6 +22,9 @@ def parse_terrain(terrain_data: dict, iso3Code: str = None) -> list:
     Returns:
         list: A list of dictionaries containing terrain details for each region or the country as a whole.
     """
+    if return_original:
+        return terrain_data
+
     result = []
 
     terrain_text = terrain_data.get('text', '')

@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_dependency_ratios(dependency_data: dict, iso3Code: str = None) -> dict:
+def parse_dependency_ratios(dependency_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse dependency ratios data from CIA World Factbook format.
 
@@ -28,6 +28,9 @@ def parse_dependency_ratios(dependency_data: dict, iso3Code: str = None) -> dict
     Returns:
         Dictionary with structured dependency ratios data
     """
+    if return_original:
+        return dependency_data
+
     result = {
         "dependency_ratios": {
             "total": None,

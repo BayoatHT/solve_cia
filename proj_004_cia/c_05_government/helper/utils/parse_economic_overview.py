@@ -10,10 +10,13 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_economic_overview(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
 
     """
+    if return_original:
+        return test_data
+
     result = ""
 
     # Clean the text value and store it in the result dictionary

@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_food_insecurity(iso3Code: str) -> dict:
+def parse_food_insecurity(iso3Code: str, return_original: bool = False)-> dict:
     """Parse food insecurity from CIA Environment section for a given country."""
     result = {
         "food_insecurity": {
@@ -27,6 +27,10 @@ def parse_food_insecurity(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     food_data = environment_section.get('Food insecurity', {})
+
+    if return_original:
+        return food_data
+
 
     if not food_data or not isinstance(food_data, dict):
         return result

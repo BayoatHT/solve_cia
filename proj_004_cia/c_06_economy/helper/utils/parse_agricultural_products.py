@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_agricultural_products(iso3Code: str) -> dict:
+def parse_agricultural_products(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse agricultural products data from CIA World Factbook for a given country.
 
@@ -50,6 +50,10 @@ def parse_agricultural_products(iso3Code: str) -> dict:
     # Navigate to Economy -> Agricultural products
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Agricultural products', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

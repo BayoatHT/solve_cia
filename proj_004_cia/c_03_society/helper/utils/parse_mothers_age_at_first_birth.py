@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_mothers_age_at_first_birth(mothers_data: dict, iso3Code: str = None) -> dict:
+def parse_mothers_age_at_first_birth(mothers_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse mother's mean age at first birth from CIA World Factbook format.
 
@@ -17,6 +17,9 @@ def parse_mothers_age_at_first_birth(mothers_data: dict, iso3Code: str = None) -
     1. Standard: "31.1 years (2020 est.)"
     2. NA values
     """
+    if return_original:
+        return mothers_data
+
     result = {
         "mothers_mean_age_first_birth": {
             "value": None,

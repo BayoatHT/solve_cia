@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_education_expenditure(education_data: dict, iso3Code: str = None) -> dict:
+def parse_education_expenditure(education_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse education expenditure data from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_education_expenditure(education_data: dict, iso3Code: str = None) -> d
             "education_expenditure_note": ""
         }
     """
+    if return_original:
+        return education_data
+
     result = {
         "education_expenditure": {
             "value": None,

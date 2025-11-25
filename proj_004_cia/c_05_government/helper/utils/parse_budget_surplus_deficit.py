@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_budget_surplus_deficit(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_budget_surplus_deficit(pass_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the budget surplus/deficit data and applies clean_text.
 
@@ -17,6 +17,9 @@ def parse_budget_surplus_deficit(pass_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary with a single cleaned key-value pair for budget_surplus_deficit.
     """
+    if return_original:
+        return pass_data
+
     result = {}
 
     # Clean the text value and store it in the result dictionary

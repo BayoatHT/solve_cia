@@ -10,8 +10,11 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_international_org_participation(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """Parse international org participation from CIA Government section."""
+    if return_original:
+        return test_data
+
     result = {}
     if not test_data or not isinstance(test_data, dict):
         return result

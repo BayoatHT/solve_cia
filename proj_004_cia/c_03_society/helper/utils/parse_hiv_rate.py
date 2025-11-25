@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_hiv_rate(hiv_data: dict, iso3Code: str = None) -> dict:
+def parse_hiv_rate(hiv_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse HIV/AIDS adult prevalence rate from CIA World Factbook format.
 
     Handles format: "1.2% (2021 est.)" or "<0.1% (2021 est.)"
     """
+    if return_original:
+        return hiv_data
+
     result = {
         "hiv_prevalence_rate": {
             "value": None,

@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_imports(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the imports data into a structured format.
 
@@ -20,6 +20,9 @@ def parse_imports(
     Returns:
         dict: A dictionary containing the imports data by year and any associated note.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Process each key-value pair in test_data

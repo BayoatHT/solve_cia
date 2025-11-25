@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_revenue_from_forest(iso3Code: str) -> dict:
+def parse_revenue_from_forest(iso3Code: str, return_original: bool = False)-> dict:
     """Parse revenue from forest resources from CIA Environment section for a given country."""
     result = {}
     try:
@@ -19,6 +19,10 @@ def parse_revenue_from_forest(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     forest_data = environment_section.get('Revenue from forest resources', {})
+
+    if return_original:
+        return forest_data
+
 
     if not forest_data:
         return result

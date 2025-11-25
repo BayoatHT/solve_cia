@@ -9,13 +9,16 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_major_urban_areas(major_urban_data: dict, iso3Code: str = None) -> dict:
+def parse_major_urban_areas(major_urban_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse major urban areas population from CIA World Factbook format.
 
     Handles format:
     "18.937 million New York-Newark, 12.534 million Los Angeles, 5.490 million WASHINGTON, D.C. (capital) (2023)"
     """
+    if return_original:
+        return major_urban_data
+
     result = {
         "major_urban_areas": [],
         "major_urban_areas_timestamp": None,

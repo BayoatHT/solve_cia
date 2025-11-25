@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_hiv_deaths(hiv_data: dict, iso3Code: str = None) -> dict:
+def parse_hiv_deaths(hiv_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse HIV/AIDS deaths from CIA World Factbook format.
 
     Handles format: "1,200 (2021 est.)" or "<100 (2021 est.)"
     """
+    if return_original:
+        return hiv_data
+
     result = {
         "hiv_deaths": {
             "value": None,

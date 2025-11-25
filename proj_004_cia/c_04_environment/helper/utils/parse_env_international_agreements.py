@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_env_international_agreements(iso3Code: str) -> dict:
+def parse_env_international_agreements(iso3Code: str, return_original: bool = False)-> dict:
     """Parse environment international agreements from CIA Environment section for a given country."""
     result = {
         "international_agreements": {
@@ -25,6 +25,10 @@ def parse_env_international_agreements(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     agreements_data = environment_section.get('Environment - international agreements', {})
+
+    if return_original:
+        return agreements_data
+
 
     if not agreements_data or not isinstance(agreements_data, dict):
         return result

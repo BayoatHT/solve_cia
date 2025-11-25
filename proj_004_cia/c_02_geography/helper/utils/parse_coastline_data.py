@@ -8,7 +8,7 @@ from proj_004_cia.c_00_transform_utils.extract_numeric_value import extract_nume
 # ------------------------------------------------------------------------------------------------------------------
 
 
-def parse_coastline_data(coastline_data, iso3Code: str = None):
+def parse_coastline_data(coastline_data, iso3Code: str = None, return_original: bool = False):
     """
     Parses the 'Coastline' data.
 
@@ -19,6 +19,9 @@ def parse_coastline_data(coastline_data, iso3Code: str = None):
     Returns:
         dict: A dictionary containing coastline length and note if available.
     """
+    if return_original:
+        return coastline_data
+
     result = {
         'value': 0,
         'unit': '',

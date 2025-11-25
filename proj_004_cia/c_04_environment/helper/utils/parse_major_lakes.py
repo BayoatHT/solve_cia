@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_major_lakes(iso3Code: str) -> dict:
+def parse_major_lakes(iso3Code: str, return_original: bool = False)-> dict:
     """Parse major lakes from CIA Environment section for a given country."""
     result = {
         "major_lakes": {
@@ -27,11 +27,18 @@ def parse_major_lakes(iso3Code: str) -> dict:
     environment_section = raw_data.get('Environment', {})
     lakes_data = environment_section.get('Major lakes (area sq km)', {})
 
+    if return_original:
+        return lakes_data
+
+
     if not lakes_data or not isinstance(lakes_data, dict):
         return result
 
-    def parse_lake_list(text):
+    def parse_lake_list(text, return_original: bool = False):
         """Parse lakes from various text formats."""
+        if return_original:
+            return text
+
         lakes = []
         if not text:
             return lakes, ""

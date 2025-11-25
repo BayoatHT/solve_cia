@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_people_note(people_data: dict, iso3Code: str = None) -> dict:
+def parse_people_note(people_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse people/society note from CIA World Factbook format.
 
     This is a descriptive text field - we preserve it as-is.
     """
+    if return_original:
+        return people_data
+
     result = {
         "people_note": {
             "text": None
