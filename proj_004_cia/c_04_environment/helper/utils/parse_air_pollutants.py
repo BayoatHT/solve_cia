@@ -2,22 +2,14 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_air_pollutants(pollutants_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse air pollutants data from CIA World Factbook format.
-
-    Args:
-        pollutants_data: Dictionary with air pollutants information
-        iso3Code: Optional ISO3 country code for logging
-
-    Returns:
-        Dictionary with structured air pollutants data
-    """
+def parse_air_pollutants(iso3Code: str) -> dict:
+    """Parse air pollutants from CIA Environment section for a given country."""
     result = {
         "air_pollutants": {
             "particulate_matter": None,
@@ -31,6 +23,15 @@ def parse_air_pollutants(pollutants_data: dict, iso3Code: str = None) -> dict:
         },
         "air_pollutants_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    pollutants_data = environment_section.get('Air pollutants', {})
 
     if not pollutants_data or not isinstance(pollutants_data, dict):
         return result
@@ -97,9 +98,21 @@ def parse_air_pollutants(pollutants_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "particulate matter emissions": {"text": "7.18 micrograms per cubic meter (2019 est.)"},
-        "carbon dioxide emissions": {"text": "5,006.3 megatons (2016 est.)"},
-        "methane emissions": {"text": "685.74 megatons (2020 est.)"}
-    }
-    print(parse_air_pollutants(test_data))
+    print("="*60)
+    print("Testing parse_air_pollutants")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_air_pollutants(iso3)
+            if result and result['air_pollutants']['particulate_matter']:
+                ap = result['air_pollutants']
+                print(f"  PM: {ap['particulate_matter']} {ap['particulate_matter_unit']}")
+                print(f"  CO2: {ap['carbon_dioxide_emissions']} {ap['carbon_dioxide_unit']}")
+                print(f"  Methane: {ap['methane_emissions']} {ap['methane_unit']}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

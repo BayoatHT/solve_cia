@@ -1,19 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_major_lakes(lakes_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse major lakes data from CIA World Factbook.
-
-    Handles formats like:
-    - "Michigan – 57,750 sq km; Superior* – 53,348 sq km"
-    - "Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km"
-    - "Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km"
-    """
+def parse_major_lakes(iso3Code: str) -> dict:
+    """Parse major lakes from CIA Environment section for a given country."""
     result = {
         "major_lakes": {
             "fresh_water": [],
@@ -23,6 +18,15 @@ def parse_major_lakes(lakes_data: dict, iso3Code: str = None) -> dict:
         "major_lakes_note": ""
     }
 
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    lakes_data = environment_section.get('Major lakes (area sq km)', {})
+
     if not lakes_data or not isinstance(lakes_data, dict):
         return result
 
@@ -30,7 +34,7 @@ def parse_major_lakes(lakes_data: dict, iso3Code: str = None) -> dict:
         """Parse lakes from various text formats."""
         lakes = []
         if not text:
-            return lakes
+            return lakes, ""
 
         # Extract note if present
         note = ""
@@ -146,22 +150,23 @@ def parse_major_lakes(lakes_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    # Test various formats
-    test_cases = [
-        {
-            "fresh water lake(s)": {"text": "Michigan – 57,750 sq km; Superior* – 53,348 sq km"},
-            "salt water lake(s)": {"text": "Great Salt – 4,360 sq km"}
-        },
-        {
-            "fresh water lake(s)": {"text": "Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year"}
-        },
-        {
-            "salt water lake(s)": {"text": "Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km"}
-        }
-    ]
-    from pprint import pprint
-    for test in test_cases:
-        print("Input:", test)
-        result = parse_major_lakes(test)
-        pprint(result)
-        print()
+    print("="*60)
+    print("Testing parse_major_lakes")
+    print("="*60)
+    for iso3 in ['USA', 'CAN', 'RUS', 'CHN', 'AUS', 'BRA']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_major_lakes(iso3)
+            if result and (result['major_lakes']['fresh_water'] or result['major_lakes']['salt_water']):
+                ml = result['major_lakes']
+                print(f"  Fresh water: {len(ml['fresh_water'])} lakes")
+                for lake in ml['fresh_water'][:2]:
+                    area = lake.get('area_sq_km', f"{lake.get('area_sq_km_min')}-{lake.get('area_sq_km_max')}")
+                    print(f"    - {lake['name']}: {area} sq km")
+                print(f"  Salt water: {len(ml['salt_water'])} lakes")
+            else:
+                print("  No lakes data")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -1,19 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_major_rivers(rivers_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse major rivers data from CIA World Factbook.
-
-    Handles formats like:
-    - "Missouri - 3,768 km; Mississippi - 3,544 km"
-    - "Yukon river mouth (shared with Canada [s]) - 3,190 km"
-    - "Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km"
-    """
+def parse_major_rivers(iso3Code: str) -> dict:
+    """Parse major rivers from CIA Environment section for a given country."""
     result = {
         "major_rivers": {
             "rivers": [],
@@ -21,6 +16,15 @@ def parse_major_rivers(rivers_data: dict, iso3Code: str = None) -> dict:
         },
         "major_rivers_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    rivers_data = environment_section.get('Major rivers (by length in km)', {})
 
     if not rivers_data or not isinstance(rivers_data, dict):
         return result
@@ -108,14 +112,21 @@ def parse_major_rivers(rivers_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    # Test various formats
-    test_cases = [
-        {"text": "Missouri - 3,768 km; Mississippi - 3,544 km"},
-        {"text": "<p>Missouri - 3,768 km; Yukon river mouth (shared with Canada [s]) - 3,190 km</p>"},
-        {"text": "Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km"},
-    ]
-    for test in test_cases:
-        print(f"Input: {test['text'][:60]}...")
-        result = parse_major_rivers(test)
-        print(f"Rivers: {result['major_rivers']['rivers']}")
-        print()
+    print("="*60)
+    print("Testing parse_major_rivers")
+    print("="*60)
+    for iso3 in ['USA', 'BRA', 'RUS', 'CHN', 'IND', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_major_rivers(iso3)
+            if result and result['major_rivers']['rivers']:
+                mr = result['major_rivers']
+                print(f"  Found {len(mr['rivers'])} rivers:")
+                for river in mr['rivers'][:3]:
+                    print(f"    - {river['name']}: {river['length_km']} km")
+            else:
+                print("  No rivers data")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

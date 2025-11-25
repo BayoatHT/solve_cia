@@ -1,12 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_waste_and_recycling(waste_data: dict, iso3Code: str = None) -> dict:
-    """Parse waste and recycling data."""
+def parse_waste_and_recycling(iso3Code: str) -> dict:
+    """Parse waste and recycling from CIA Environment section for a given country."""
     result = {
         "waste_recycling": {
             "waste_generated": None,
@@ -19,6 +21,15 @@ def parse_waste_and_recycling(waste_data: dict, iso3Code: str = None) -> dict:
         },
         "waste_recycling_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    waste_data = environment_section.get('Waste and recycling', {})
 
     if not waste_data or not isinstance(waste_data, dict):
         return result
@@ -80,8 +91,23 @@ def parse_waste_and_recycling(waste_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "municipal solid waste generated annually": {"text": "258 million tons (2015 est.)"},
-        "percent of municipal solid waste recycled": {"text": "34.6% (2014 est.)"}
-    }
-    print(parse_waste_and_recycling(test_data))
+    print("="*60)
+    print("Testing parse_waste_and_recycling")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'DEU', 'JPN', 'GBR', 'FRA']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_waste_and_recycling(iso3)
+            if result and result['waste_recycling']['waste_generated']:
+                wr = result['waste_recycling']
+                gen = wr['waste_generated'] / 1e6 if wr['waste_generated'] else 0
+                pct = wr['recycling_percent']
+                print(f"  Generated: {gen:,.1f} million tons")
+                print(f"  Recycled: {pct}%" if pct else "  Recycled: N/A")
+                print(f"  Year: {wr['timestamp']}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

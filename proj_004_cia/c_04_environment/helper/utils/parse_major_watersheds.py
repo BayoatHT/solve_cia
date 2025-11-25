@@ -1,12 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_major_watersheds(watershed_data: dict, iso3Code: str = None) -> dict:
-    """Parse major watersheds data."""
+def parse_major_watersheds(iso3Code: str) -> dict:
+    """Parse major watersheds from CIA Environment section for a given country."""
     result = {
         "major_watersheds": {
             "watersheds": [],
@@ -14,6 +16,15 @@ def parse_major_watersheds(watershed_data: dict, iso3Code: str = None) -> dict:
         },
         "major_watersheds_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    watershed_data = environment_section.get('Major watersheds (area sq km)', {})
 
     if not watershed_data or not isinstance(watershed_data, dict):
         return result
@@ -39,5 +50,21 @@ def parse_major_watersheds(watershed_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {"text": "Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km)"}
-    print(parse_major_watersheds(test_data))
+    print("="*60)
+    print("Testing parse_major_watersheds")
+    print("="*60)
+    for iso3 in ['USA', 'BRA', 'RUS', 'CHN', 'IND', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_major_watersheds(iso3)
+            if result and result['major_watersheds']['watersheds']:
+                mw = result['major_watersheds']
+                print(f"  Found {len(mw['watersheds'])} watersheds:")
+                for ws in mw['watersheds'][:3]:
+                    print(f"    - {ws['name']}: {ws['area_sq_km']:,} sq km")
+            else:
+                print("  No watersheds data")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
