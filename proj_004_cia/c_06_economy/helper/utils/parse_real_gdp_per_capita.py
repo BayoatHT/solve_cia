@@ -2,17 +2,25 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_06_economy.helper.utils.parse_econ_value import parse_econ_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_real_gdp_per_capita(pass_data: dict, iso3Code: str = None) -> dict:
-    """Parse real gdp per capita from CIA Economy section with separated value components."""
+def parse_real_gdp_per_capita(iso3Code: str) -> dict:
+    """Parse Real GDP per capita from CIA World Factbook."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+    
+    economy_section = raw_data.get('Economy', {})
+    pass_data = economy_section.get('Real GDP per capita', {})
     if not pass_data or not isinstance(pass_data, dict):
         return result
+    
     try:
         yearly_data = []
         for k, v in pass_data.items():
@@ -44,51 +52,11 @@ def parse_real_gdp_per_capita(pass_data: dict, iso3Code: str = None) -> dict:
             if yearly_data[0].get('unit'):
                 result['gdp_per_capita_unit'] = yearly_data[0]['unit']
     except Exception as e:
-        logging.error(f"Error parsing real_gdp_per_capita: {e}")
-    return result
-    try:
-        yearly_data = []
-        for k, v in pass_data.items():
-            if isinstance(v, dict) and 'text' in v:
-                year_match = re.search(r'(\d{4})', k)
-                if year_match:
-                    year = int(year_match.group(1))
-                    text = v.get('text', '')
-                    if text:
-                        yearly_data.append({'year': year, 'value': clean_text(text)})
-        if yearly_data:
-            yearly_data.sort(key=lambda x: x['year'], reverse=True)
-            result['real_gdp_per_capita_data'] = yearly_data
-            result['real_gdp_per_capita_latest'] = yearly_data[0]['value']
-            result['real_gdp_per_capita_latest_year'] = yearly_data[0]['year']
-        if 'text' in pass_data:
-            result['real_gdp_per_capita'] = clean_text(pass_data['text'])
-        if 'note' in pass_data:
-            note = pass_data['note']
-            if isinstance(note, str) and note.strip():
-                result['real_gdp_per_capita_note'] = clean_text(note)
-    except Exception as e:
-        logging.error(f"Error parsing real_gdp_per_capita: {e}")
+        logger.error(f"Error parsing real_gdp_per_capita for {iso3Code}: {e}")
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    # NOTE: 36 >>> 'Real GDP per capita'
-    # --------------------------------------------------------------------------------------------------
-
-    # --------------------------------------------------------------------------------------------------
-    pass_data = {
-        "Real GDP per capita 2023": {
-            "text": "$17,500 (2023 est.)"
-        },
-        "Real GDP per capita 2022": {
-            "text": "$17,300 (2022 est.)"
-        },
-        "Real GDP per capita 2021": {
-            "text": "$16,700 (2021 est.)"
-        },
-        "note": "<b>note:</b> data in 2021 dollars"
-    }
-    parsed_data = parse_real_gdp_per_capita(pass_data)
-    print(parsed_data)
+    print("Testing parse_real_gdp_per_capita")
+    for iso3 in ['USA', 'CHN', 'DEU']:
+        result = parse_real_gdp_per_capita(iso3)
+        print(f"{iso3}: {result.get('gdp_per_capita_latest_value', 'No data')}")
