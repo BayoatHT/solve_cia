@@ -1,17 +1,57 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_exchange_rates(pass_data: dict, iso3Code: str = None) -> dict:
-    """Parse exchange rates from CIA Economy section."""
+def parse_exchange_rates(iso3Code: str) -> dict:
+    """
+    Parse exchange rates data from CIA World Factbook for a given country.
+
+    This parser extracts exchange rates information including:
+    - Exchange rate text (historical multi-year data)
+    - Related notes
+
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
+
+    Returns:
+        Dictionary with structured exchange rates data:
+        {
+            "exchange_rates": str,
+            "exchange_rates_note": str
+        }
+
+    Examples:
+        >>> data = parse_exchange_rates('GBR')
+        >>> 'exchange_rates' in data
+        True
+
+        >>> data = parse_exchange_rates('JPN')
+        >>> data.get('exchange_rates') is not None
+        True
+    """
     result = {}
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to Economy -> Exchange rates
+    economy_section = raw_data.get('Economy', {})
+    pass_data = economy_section.get('Exchange rates', {})
+
     if not pass_data or not isinstance(pass_data, dict):
         return result
+
     try:
         if 'text' in pass_data:
             text = pass_data['text']
@@ -22,18 +62,37 @@ def parse_exchange_rates(pass_data: dict, iso3Code: str = None) -> dict:
             if isinstance(note, str) and note.strip():
                 result['exchange_rates_note'] = clean_text(note)
     except Exception as e:
-        logging.error(f"Error parsing exchange_rates: {e}")
+        logger.error(f"Error parsing exchange_rates for {iso3Code}: {e}")
+
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # NOTE: 11 >>> 'Exchange rates'
-    # --------------------------------------------------------------------------------------------------
+    """Test parse_exchange_rates with real country data."""
+    print("="*60)
+    print("Testing parse_exchange_rates across countries")
+    print("="*60)
 
-    # --------------------------------------------------------------------------------------------------
-    pass_data = {
-        "text": "<strong>British pounds per US dollar: </strong>0.805 (2023 est.), 0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est.)<br><strong>Canadian dollars per US dollar: </strong>1.35 (2023 est.), 1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.)<br><strong>Chinese yuan per US dollar: </strong>7.084 (2023 est.), 6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.)<br><strong>euros per US dollar: </strong>0.925 (2023 est.), 0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.)<br><strong>Japanese yen per US dollar: </strong>140.49 (2023 est.), 131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia"
-    }
-    parsed_data = parse_exchange_rates(pass_data)
-    print(parsed_data)
+    test_countries = ['USA', 'GBR', 'JPN', 'CHN', 'DEU', 'WLD']
+
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_exchange_rates(iso3)
+
+            if result.get('exchange_rates'):
+                rates = result['exchange_rates']
+                # Show first 100 characters
+                print(f"  Exchange Rates: {rates[:100]}...")
+            else:
+                print("  No exchange rates data found")
+
+            if result.get('exchange_rates_note'):
+                note = result['exchange_rates_note'][:80]
+                print(f"  Note: {note}...")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")
