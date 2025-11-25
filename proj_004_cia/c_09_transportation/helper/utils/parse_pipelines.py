@@ -1,71 +1,74 @@
-"""
-Parse pipelines data from CIA World Factbook Transportation section.
-"""
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_pipeline_text
+from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_pipelines(pipelines_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse pipelines data into structured format.
-
-    Args:
-        pipelines_data: Dict with 'text' containing pipeline info
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - pipelines_data: list of pipeline segments with value, unit, type
-            - pipelines_total_km: float (total km of all pipelines)
-            - pipelines_year: int (data year)
-
-    Example:
-        Input: {"text": "1,984,321 km natural gas, 240,711 km petroleum products (2013)"}
-        Output: {
-            'pipelines_data': [
-                {'value': 1984321.0, 'unit': 'km', 'type': 'natural gas'},
-                {'value': 240711.0, 'unit': 'km', 'type': 'petroleum products'}
-            ],
-            'pipelines_total_km': 2225032.0,
-            'pipelines_year': 2013
-        }
-    """
+def parse_pipelines(iso3Code: str) -> dict:
+    """Parse Pipelines from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    if not pipelines_data:
+    transport_section = raw_data.get('Transportation', {})
+    pass_data = transport_section.get('Pipelines', {})
+
+    if not pass_data:
         return result
 
     try:
-        if 'text' in pipelines_data:
-            text = pipelines_data['text']
-            pipelines = parse_pipeline_text(text)
+        field_mappings = {}
+        for cia_field, output_prefix in field_mappings.items():
+            if cia_field in pass_data:
+                field_data = pass_data[cia_field]
+                if isinstance(field_data, dict) and 'text' in field_data:
+                    text = field_data['text']
+                    parsed = parse_transport_value(text)
 
-            if pipelines:
-                result['pipelines_data'] = pipelines
+                    if parsed['value'] is not None:
+                        result[f'{output_prefix}_value'] = parsed['value']
+                    if parsed['unit']:
+                        result[f'{output_prefix}_unit'] = parsed['unit']
+                    if parsed['year']:
+                        result[f'{output_prefix}_year'] = parsed['year']
 
-                # Calculate total km
-                total_km = sum(p.get('value', 0) for p in pipelines if p.get('unit') == 'km')
-                if total_km > 0:
-                    result['pipelines_total_km'] = total_km
-
-                # Extract year from first pipeline entry
-                if pipelines[0].get('year'):
-                    result['pipelines_year'] = pipelines[0]['year']
+        # Parse note
+        if 'note' in pass_data:
+            note = pass_data['note']
+            if note and isinstance(note, str) and note.strip():
+                result['pipelines_note'] = clean_text(note)
 
     except Exception as e:
-        logging.error(f"Error parsing pipelines for {iso3Code}: {e}")
+        logger.error(f"Error parsing parse_pipelines for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "text": "1,984,321 km natural gas, 240,711 km petroleum products (2013)"
-    }
-    parsed = parse_pipelines(test_data, "USA")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_pipelines")
+    print("="*60)
+    for iso3 in ['USA', 'RUS', 'CAN', 'CHN', 'SAU', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_pipelines(iso3)
+            if result:
+                for key, val in result.items():
+                    if key.endswith('_value'):
+                        unit_key = key.replace('_value', '_unit')
+                        unit = result.get(unit_key, '')
+                        print(f"  {key}: {val:,.0f} {unit}")
+                    elif not key.endswith(('_unit', '_year', '_is_estimate')):
+                        val_str = str(val)
+                        print(f"  {key}: {val_str[:80] if len(val_str) > 80 else val_str}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

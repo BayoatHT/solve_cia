@@ -1,53 +1,59 @@
-"""
-Parse ports and terminals data from CIA World Factbook (legacy field).
-"""
+import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_ports_and_terminals(ports_and_terminals_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse ports and terminals data (legacy field, only 1 country).
-
-    Args:
-        ports_and_terminals_data: Dict with subfields like 'major seaport(s)'
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - major_seaports: list of seaport names
-
-    Example:
-        Input: {"major seaport(s)": {"text": "Ad Dakhla, Laayoune (El Aaiun)"}}
-        Output: {'major_seaports': ['Ad Dakhla', 'Laayoune (El Aaiun)']}
-    """
+def parse_ports_and_terminals(iso3Code: str) -> dict:
+    """Parse ports and terminals from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    if not ports_and_terminals_data:
+    transport_section = raw_data.get('Transportation', {})
+    ports_data = transport_section.get('Ports and terminals', {})
+
+    if not ports_data or not isinstance(ports_data, dict):
         return result
 
     try:
-        if 'major seaport(s)' in ports_and_terminals_data:
-            seaports_data = ports_and_terminals_data['major seaport(s)']
-            if isinstance(seaports_data, dict) and 'text' in seaports_data:
-                text = seaports_data['text']
-                # Split by comma and clean
-                seaports = [clean_text(p.strip()) for p in text.split(',') if p.strip()]
-                if seaports:
-                    result['major_seaports'] = seaports
+        # Parse each sub-field (e.g., major seaport(s), oil terminal(s), container port(s), etc.)
+        for key, val in ports_data.items():
+            if isinstance(val, dict) and 'text' in val:
+                text = val['text']
+                if text and isinstance(text, str):
+                    # Create key like "ports_major_seaport"
+                    clean_key = key.lower().replace(' ', '_').replace('(', '').replace(')', '')
+                    result[f'ports_{clean_key}'] = clean_text(text)
+            elif isinstance(val, str):
+                clean_key = key.lower().replace(' ', '_').replace('(', '').replace(')', '')
+                result[f'ports_{clean_key}'] = clean_text(val)
 
     except Exception as e:
-        logging.error(f"Error parsing ports_and_terminals for {iso3Code}: {e}")
+        logger.error(f"Error parsing ports_and_terminals for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "major seaport(s)": {"text": "Ad Dakhla, Laayoune (El Aaiun)"}
-    }
-    parsed = parse_ports_and_terminals(test_data)
-    print(parsed)
+    print("="*60)
+    print("Testing parse_ports_and_terminals")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'SGP', 'NLD', 'UAE', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_ports_and_terminals(iso3)
+            if result:
+                for key, val in result.items():
+                    val_str = str(val)
+                    print(f"  {key}: {val_str[:60] if len(val_str) > 60 else val_str}...")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -1,45 +1,28 @@
-"""
-Parse ports data from CIA World Factbook Transportation section.
-"""
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_ports(ports_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse ports data into structured format.
-
-    Args:
-        ports_data: Dict with subfields: total ports, large, medium, small, very small,
-                   ports with oil terminals, key ports
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - ports_total_value: int (total ports)
-            - ports_total_year: int
-            - ports_large_value: int
-            - ports_medium_value: int
-            - ports_small_value: int
-            - ports_very_small_value: int
-            - ports_oil_terminals_value: int
-            - ports_key_list: list of port names
-
-    Example:
-        Input: {"total ports": {"text": "666 (2024)"}, "large": {"text": "21"}}
-        Output: {'ports_total_value': 666, 'ports_total_year': 2024, 'ports_large_value': 21}
-    """
+def parse_ports(iso3Code: str) -> dict:
+    """Parse ports from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    transport_section = raw_data.get('Transportation', {})
+    ports_data = transport_section.get('Ports', {})
 
     if not ports_data:
         return result
 
     try:
-        # Field mapping: CIA field name -> output prefix
         field_mappings = {
             'total ports': 'ports_total',
             'large': 'ports_large',
@@ -65,27 +48,32 @@ def parse_ports(ports_data: dict, iso3Code: str = None) -> dict:
             key_ports_data = ports_data['key ports']
             if isinstance(key_ports_data, dict) and 'text' in key_ports_data:
                 text = key_ports_data['text']
-                # Split by comma and clean
                 ports_list = [clean_text(p.strip()) for p in text.split(',') if p.strip()]
                 if ports_list:
                     result['ports_key_list'] = ports_list
 
     except Exception as e:
-        logging.error(f"Error parsing ports for {iso3Code}: {e}")
+        logger.error(f"Error parsing ports for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "total ports": {"text": "666 (2024)"},
-        "large": {"text": "21"},
-        "medium": {"text": "38"},
-        "small": {"text": "132"},
-        "very small": {"text": "475"},
-        "ports with oil terminals": {"text": "204"},
-        "key ports": {"text": "Baltimore, Boston, Brooklyn, Los Angeles, New York City"}
-    }
-    parsed = parse_ports(test_data, "USA")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_ports")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'JPN', 'SGP', 'NLD', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_ports(iso3)
+            if result:
+                for key, val in result.items():
+                    if isinstance(val, list):
+                        print(f"  {key}: {len(val)} ports")
+                    else:
+                        print(f"  {key}: {val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

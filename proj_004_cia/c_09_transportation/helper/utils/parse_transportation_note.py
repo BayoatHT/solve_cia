@@ -1,47 +1,54 @@
-"""
-Parse transportation note from CIA World Factbook.
-"""
+import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_transportation_note(transportation_note_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse transportation note.
-
-    Args:
-        transportation_note_data: Dict with 'text' containing the note
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - transportation_note: str (the note text)
-
-    Example:
-        Input: {"text": "the new airport on Saint Helena opened for limited operations..."}
-        Output: {'transportation_note': 'the new airport on Saint Helena opened for limited operations...'}
-    """
+def parse_transportation_note(iso3Code: str) -> dict:
+    """Parse Transportation - note from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    if not transportation_note_data:
+    transport_section = raw_data.get('Transportation', {})
+    note_data = transport_section.get('Transportation - note', {})
+
+    if not note_data:
         return result
 
     try:
-        if 'text' in transportation_note_data:
-            text = transportation_note_data['text']
-            if text and isinstance(text, str) and text.strip():
+        if isinstance(note_data, dict) and 'text' in note_data:
+            text = note_data['text']
+            if text and isinstance(text, str):
                 result['transportation_note'] = clean_text(text)
+        elif isinstance(note_data, str):
+            result['transportation_note'] = clean_text(note_data)
 
     except Exception as e:
-        logging.error(f"Error parsing transportation_note for {iso3Code}: {e}")
+        logger.error(f"Error parsing transportation_note for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {"text": "the new airport on Saint Helena opened for limited operations in July 2016"}
-    parsed = parse_transportation_note(test_data, "SHN")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_transportation_note")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'BRA', 'IND', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_transportation_note(iso3)
+            if result:
+                for key, val in result.items():
+                    val_str = str(val)
+                    print(f"  {key}: {val_str[:80] if len(val_str) > 80 else val_str}...")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

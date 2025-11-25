@@ -1,37 +1,23 @@
-"""
-Parse airports with unpaved runways from CIA World Factbook (legacy field).
-"""
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_airports_unpaved(airports_unpaved_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse airports with unpaved runways data (legacy field, only 1 country).
-
-    Args:
-        airports_unpaved_data: Dict with subfields for total and runway lengths
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - unpaved_runways_total_value: int
-            - unpaved_runways_total_year: int
-            - unpaved_runways_by_length: list of {length_range, count}
-
-    Example:
-        Input: {"total": {"text": "3 (2013)"}, "914 to 1,523 m": {"text": "1"}}
-        Output: {
-            'unpaved_runways_total_value': 3,
-            'unpaved_runways_total_year': 2013,
-            'unpaved_runways_by_length': [{'range': '914 to 1,523 m', 'count': 1}]
-        }
-    """
+def parse_airports_unpaved(iso3Code: str) -> dict:
+    """Parse airports with unpaved runways from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    transport_section = raw_data.get('Transportation', {})
+    airports_unpaved_data = transport_section.get('Airports - with unpaved runways', {})
 
     if not airports_unpaved_data:
         return result
@@ -64,18 +50,24 @@ def parse_airports_unpaved(airports_unpaved_data: dict, iso3Code: str = None) ->
             result['unpaved_runways_by_length'] = by_length
 
     except Exception as e:
-        logging.error(f"Error parsing airports_unpaved for {iso3Code}: {e}")
+        logger.error(f"Error parsing airports_unpaved for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "total": {"text": "3 (2013)"},
-        "1,524 to 2,437 m": {"text": "1 (2013)"},
-        "914 to 1,523 m": {"text": "1 (2013)"},
-        "under 914 m": {"text": "1 (2013)"}
-    }
-    parsed = parse_airports_unpaved(test_data)
-    print(parsed)
+    print("="*60)
+    print("Testing parse_airports_unpaved")
+    print("="*60)
+    for iso3 in ['USA', 'BRA', 'CAN', 'AUS', 'RUS', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_airports_unpaved(iso3)
+            if result:
+                for key, val in result.items():
+                    print(f"  {key}: {val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
