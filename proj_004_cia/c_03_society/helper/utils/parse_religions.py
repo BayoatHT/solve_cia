@@ -53,6 +53,10 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
     text = religion_data.get('text', '').strip()
     note = religion_data.get('note', '')
 
+    # Clean HTML entities early
+    text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+    text = re.sub(r'<p>', '', text).replace('</p>', '')
+
     if not text or text.upper() == 'NA':
         return result
 
@@ -88,12 +92,15 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
     # Strategy: Split by comma, but handle nested parentheses
 
     def split_religions(text: str) -> List[str]:
-        """Split religion text by commas, respecting parentheses."""
+        """Split religion text by commas, respecting parentheses and preserving commas in numbers."""
         parts = []
         current = ""
         paren_depth = 0
 
-        for char in text:
+        i = 0
+        while i < len(text):
+            char = text[i]
+
             if char == '(':
                 paren_depth += 1
                 current += char
@@ -101,11 +108,24 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
                 paren_depth -= 1
                 current += char
             elif char == ',' and paren_depth == 0:
-                if current.strip():
-                    parts.append(current.strip())
-                current = ""
+                # Check if comma is part of number (e.g., "5,000")
+                is_number_comma = False
+                if i > 0 and i < len(text) - 1:
+                    if text[i-1].isdigit() and text[i+1].isdigit():
+                        is_number_comma = True
+
+                if is_number_comma:
+                    # Keep the comma as part of the number
+                    current += char
+                else:
+                    # It's a delimiter - split here
+                    if current.strip():
+                        parts.append(current.strip())
+                    current = ""
             else:
                 current += char
+
+            i += 1
 
         if current.strip():
             parts.append(current.strip())
@@ -125,8 +145,9 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
         }
 
         # Pattern for nested: "Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%)"
+        # Also handles "<1%" (less than) with optional spaces around "<"
         nested_match = re.match(
-            r'^([^%]+?)\s*([\d.]+)%\s*\(([^)]+)\)\s*$',
+            r'^([^%]+?)\s*<?\s*([\d.]+)%\s*\(([^)]+)\)\s*$',
             entry
         )
 
@@ -139,7 +160,7 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
             subcats = []
             for subcat in subcats_text.split(','):
                 subcat = subcat.strip()
-                sub_match = re.match(r'^([^%]+?)\s*([\d.]+)%', subcat)
+                sub_match = re.match(r'^([^%]+?)\s*<?\s*([\d.]+)%', subcat)
                 if sub_match:
                     subcats.append({
                         "name": sub_match.group(1).strip(),
@@ -158,8 +179,9 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
             return result_entry
 
         # Pattern for simple: "Roman Catholic 47%" or "Muslim 4%"
+        # Also handles "<1%" (less than) with spaces, and trailing comma
         simple_match = re.match(
-            r'^([^%]+?)\s*([\d.]+)%',
+            r'^([^%]+?)\s*,?\s*<?\s*([\d.]+)%',
             entry
         )
 

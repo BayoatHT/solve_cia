@@ -50,6 +50,10 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
     text = ethnic_data.get('text', '').strip()
     note = ethnic_data.get('note', '')
 
+    # Clean HTML entities early
+    text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+    text = re.sub(r'<p>', '', text).replace('</p>', '')
+
     if not text or text.upper() == 'NA':
         return result
 
@@ -80,13 +84,16 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
         })
         return result
 
-    # Split by comma, respecting parentheses
+    # Split by comma, respecting parentheses and preserving commas in numbers
     def split_groups(text: str) -> List[str]:
         parts = []
         current = ""
         paren_depth = 0
 
-        for char in text:
+        i = 0
+        while i < len(text):
+            char = text[i]
+
             if char == '(':
                 paren_depth += 1
                 current += char
@@ -94,11 +101,24 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
                 paren_depth -= 1
                 current += char
             elif char == ',' and paren_depth == 0:
-                if current.strip():
-                    parts.append(current.strip())
-                current = ""
+                # Check if comma is part of number (e.g., "5,000")
+                is_number_comma = False
+                if i > 0 and i < len(text) - 1:
+                    if text[i-1].isdigit() and text[i+1].isdigit():
+                        is_number_comma = True
+
+                if is_number_comma:
+                    # Keep the comma as part of the number
+                    current += char
+                else:
+                    # It's a delimiter - split here
+                    if current.strip():
+                        parts.append(current.strip())
+                    current = ""
             else:
                 current += char
+
+            i += 1
 
         if current.strip():
             parts.append(current.strip())
@@ -110,6 +130,11 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
         if not entry:
             return None
 
+        # Handle orphaned percentages like "9.8%" or ", 9.8%" (from bad splits)
+        # These should be ignored as they're fragments
+        if re.match(r'^,?\s*<?[\d.]+%?\s*$', entry):
+            return None
+
         result_entry = {
             "group": None,
             "percentage": None,
@@ -117,8 +142,9 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
         }
 
         # Pattern for nested: "ethnic minorities 8.9% (includes Zhang, Hui, Manchu)"
+        # Also handles trailing comma and "<1%" with spaces
         nested_match = re.match(
-            r'^([^%]+?)\s*([\d.]+)%\s*\((?:includes?\s*)?([^)]+)\)\s*$',
+            r'^([^%]+?)\s*,?\s*<?\s*([\d.]+)%\s*\((?:includes?\s*)?([^)]+)\)\s*$',
             entry,
             re.IGNORECASE
         )
@@ -134,8 +160,9 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
             return result_entry
 
         # Pattern for simple: "White 61.6%" or "Black or African American 12.4%"
+        # Also handles "Adamawa, 9.8%" (trailing comma) and "< 1%" (less than with spaces)
         simple_match = re.match(
-            r'^([^%]+?)\s*([\d.]+)%',
+            r'^([^%]+?)\s*,?\s*<?\s*([\d.]+)%',
             entry
         )
 
