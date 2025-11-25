@@ -1,21 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_marine_fisheries(fisheries_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse marine fisheries data (primarily for ocean entities).
-
-    Args:
-        fisheries_data: Dictionary with marine fisheries information
-        iso3Code: Optional ISO3 country code for logging
-
-    Returns:
-        Dictionary with structured marine fisheries data
-    """
+def parse_marine_fisheries(iso3Code: str) -> dict:
+    """Parse marine fisheries from CIA Environment section for a given country."""
     result = {
         "marine_fisheries": {
             "description": None,
@@ -27,6 +20,15 @@ def parse_marine_fisheries(fisheries_data: dict, iso3Code: str = None) -> dict:
         },
         "marine_fisheries_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    fisheries_data = environment_section.get('Marine fisheries', {})
 
     if not fisheries_data or not isinstance(fisheries_data, dict):
         return result
@@ -66,7 +68,25 @@ def parse_marine_fisheries(fisheries_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "text": "the Southern Ocean fishery has a total catch of 388,901 mt in 2021; Norway (241,408 mt), China (47,605 mt). Regional fisheries bodies: Commission for the Conservation of Antarctic Marine Living Resources"
-    }
-    print(parse_marine_fisheries(test_data))
+    print("="*60)
+    print("Testing parse_marine_fisheries")
+    print("="*60)
+    # Marine fisheries primarily in Oceans data - test ocean codes
+    for iso3 in ['XXX', 'ATL', 'PAC', 'IND', 'USA', 'CHN']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_marine_fisheries(iso3)
+            if result and result['marine_fisheries']['description']:
+                mf = result['marine_fisheries']
+                if mf['total_catch_mt']:
+                    print(f"  Total catch: {mf['total_catch_mt']:,} mt ({mf['year']})")
+                if mf['major_producers']:
+                    print(f"  Major producers: {len(mf['major_producers'])}")
+                else:
+                    print(f"  Description: {mf['description'][:60]}...")
+            else:
+                print("  No marine fisheries data")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

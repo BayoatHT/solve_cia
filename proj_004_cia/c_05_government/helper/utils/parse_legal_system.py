@@ -1,57 +1,28 @@
-#!/usr/bin/env python3
-"""
-CIA Government Section Parser: Legal System
-==========================================
-
-Implementation for the existing parse_legal_system function.
-Updates the stub function with production-ready parsing logic.
-
-Based on Analysis:
-- Coverage: 97.6% (246 countries)  
-- Complexity Score: 246 (moderate)
-- Priority Score: 730.19 (highest priority)
-- Parsing Challenges: text_note_extraction(246)
-"""
-
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_legal_system(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """
-    Parse legal system data from CIA Government section.
-
-    Based on analysis, this function handles:
-    - text_note_extraction (246 instances)
-    - HTML tag cleaning
-    - Note extraction
-    - Simple nested dictionary structure
-
-    Args:
-        test_data: Dictionary containing legal system data with 'text' and optional 'note' keys
-
-    Returns:
-        Dictionary with parsed legal system information
-
-    Examples:
-        >>> data = {"text": "civil legal system based on French civil law"}
-        >>> result = parse_legal_system(data)
-        >>> # Returns structured legal system data
-    """
-
+def parse_legal_system(iso3Code: str) -> dict:
+    """Parse legal system data from CIA Government section for a given country."""
     result = {}
 
-    # Input validation
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Legal system', {})
+
     if not test_data or not isinstance(test_data, dict):
-        app_logger.warning(f"Invalid legal system data: {test_data}")
         return result
 
     try:
@@ -59,8 +30,7 @@ def parse_legal_system(
         if 'text' in test_data:
             legal_text = test_data['text']
             if isinstance(legal_text, str) and legal_text.strip():
-                # Clean the text
-                cleaned_text = _clean_legal_system_text(legal_text)
+                cleaned_text = clean_text(legal_text)
                 if cleaned_text:
                     result['legal_system_description'] = cleaned_text
 
@@ -73,74 +43,18 @@ def parse_legal_system(
         if 'note' in test_data:
             note_data = test_data['note']
             if isinstance(note_data, str) and note_data.strip():
-                cleaned_note = _clean_legal_system_text(note_data)
+                cleaned_note = clean_text(note_data)
                 if cleaned_note:
                     result['legal_system_note'] = cleaned_note
 
-        # Add metadata
-        if result:
-            result['data_source'] = 'CIA_World_Factbook'
-            result['extraction_confidence'] = 'high' if 'legal_system_description' in result else 'low'
-
     except Exception as e:
-        app_logger.error(f"Error parsing legal system: {e}")
-        # Return empty dict on error to maintain consistency
+        logger.error(f"Error parsing legal system for {iso3Code}: {e}")
 
     return result
 
 
-def _clean_legal_system_text(text: str) -> str:
-    """
-    Clean legal system text by removing HTML tags and normalizing content.
-
-    Args:
-        text: Raw text from CIA JSON
-
-    Returns:
-        Cleaned text string
-    """
-    if not text or not isinstance(text, str):
-        return ""
-
-    # Remove HTML tags (common in CIA data)
-    cleaned = re.sub(r'<[^>]+>', '', text)
-
-    # Replace HTML entities
-    html_entities = {
-        '&amp;': '&',
-        '&lt;': '<',
-        '&gt;': '>',
-        '&quot;': '"',
-        '&rsquo;': "'",
-        '&lsquo;': "'",
-        '&ldquo;': '"',
-        '&rdquo;': '"',
-        '&ndash;': '-',
-        '&mdash;': '—',
-        '&nbsp;': ' ',
-        '&ecirc;': 'ê',
-        '&acirc;': 'â'
-    }
-
-    for entity, replacement in html_entities.items():
-        cleaned = cleaned.replace(entity, replacement)
-
-    # Normalize whitespace
-    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
-
-    return cleaned
-
-
 def _extract_legal_system_types(text: str) -> list:
-    """
-    Extract and categorize legal system types from description.
-
-    Args:
-        text: Cleaned legal system description
-
-    Returns:
-        List of identified legal system types
-    """
+    """Extract and categorize legal system types from description."""
     if not text:
         return []
 
@@ -166,52 +80,21 @@ def _extract_legal_system_types(text: str) -> list:
     return system_types
 
 
-# Example usage and testing
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Legal system'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_legal_system_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Legal system Orginal Data")
-    for index, country_data in enumerate(test_legal_system_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing legal_system Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_legal_system_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_legal_system(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_legal_system")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'SAU', 'IRN']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_legal_system(iso3)
+            if result:
+                desc = result.get('legal_system_description', 'N/A')
+                print(f"  Types: {result.get('legal_system_types', [])}")
+                print(f"  Desc: {desc[:60]}..." if len(desc) > 60 else f"  Desc: {desc}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

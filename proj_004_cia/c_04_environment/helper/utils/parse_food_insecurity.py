@@ -1,12 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_food_insecurity(food_data: dict, iso3Code: str = None) -> dict:
-    """Parse food insecurity data."""
+def parse_food_insecurity(iso3Code: str) -> dict:
+    """Parse food insecurity from CIA Environment section for a given country."""
     result = {
         "food_insecurity": {
             "exceptional_shortfall": None,
@@ -16,6 +18,15 @@ def parse_food_insecurity(food_data: dict, iso3Code: str = None) -> dict:
         },
         "food_insecurity_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    food_data = environment_section.get('Food insecurity', {})
 
     if not food_data or not isinstance(food_data, dict):
         return result
@@ -48,7 +59,25 @@ def parse_food_insecurity(food_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "severe localized food insecurity": {"text": "Due to conflict in region X, millions are affected"}
-    }
-    print(parse_food_insecurity(test_data))
+    print("="*60)
+    print("Testing parse_food_insecurity")
+    print("="*60)
+    # Food insecurity is rare - test African countries where it's more common
+    for iso3 in ['ETH', 'SOM', 'SDN', 'YEM', 'AFG', 'USA']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_food_insecurity(iso3)
+            if result and result['food_insecurity']['has_food_insecurity']:
+                fi = result['food_insecurity']
+                if fi['exceptional_shortfall']:
+                    print(f"  Exceptional: {fi['exceptional_shortfall'][:60]}...")
+                if fi['severe_localized']:
+                    print(f"  Severe: {fi['severe_localized'][:60]}...")
+                if fi['widespread_lack_access']:
+                    print(f"  Widespread: {fi['widespread_lack_access'][:60]}...")
+            else:
+                print("  No food insecurity data")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

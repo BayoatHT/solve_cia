@@ -1,12 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_urbanization(urban_data: dict, iso3Code: str = None) -> dict:
-    """Parse urbanization data from Environment section."""
+def parse_urbanization(iso3Code: str) -> dict:
+    """Parse urbanization from CIA Environment section for a given country."""
     result = {
         "env_urbanization": {
             "urban_population_percent": None,
@@ -17,6 +19,15 @@ def parse_urbanization(urban_data: dict, iso3Code: str = None) -> dict:
         },
         "env_urbanization_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    urban_data = environment_section.get('Urbanization', {})
 
     if not urban_data or not isinstance(urban_data, dict):
         return result
@@ -54,8 +65,20 @@ def parse_urbanization(urban_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "urban population": {"text": "83.3% of total population (2023)"},
-        "rate of urbanization": {"text": "0.96% annual rate of change (2020-25 est.)"}
-    }
-    print(parse_urbanization(test_data))
+    print("="*60)
+    print("Testing parse_urbanization")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_urbanization(iso3)
+            if result and result['env_urbanization']['urban_population_percent']:
+                eu = result['env_urbanization']
+                print(f"  Urban pop: {eu['urban_population_percent']}% ({eu['urban_population_year']})")
+                print(f"  Rate: {eu['rate_of_urbanization']}% ({eu['rate_period']})")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

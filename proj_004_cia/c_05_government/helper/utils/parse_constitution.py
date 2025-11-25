@@ -1,27 +1,26 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_constitution(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """
-    Parse constitution data from CIA Government section.
-
-    Args:
-        test_data: Dictionary containing constitution data
-        iso3Code: ISO3 country code
-
-    Returns:
-        Dictionary with parsed constitution information
-    """
+def parse_constitution(iso3Code: str) -> dict:
+    """Parse constitution data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Constitution', {})
 
     if not test_data or not isinstance(test_data, dict):
         return result
@@ -47,75 +46,27 @@ def parse_constitution(
                 result['constitution_note'] = clean_text(note)
 
     except Exception as e:
-        app_logger.error(f"Error parsing constitution: {e}")
+        logger.error(f"Error parsing constitution for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "amendments" - 'constitution_amendments'
-    # "history" - 'constitution_history'
-    # "note" - 'constitution_note'
-    # --------------------------------------------------------------------------------------------------
-    # ['constitution_amendments', 'constitution_history', 'constitution_note']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "history": {
-            "text": "previous 1781 (Articles of Confederation and Perpetual Union); latest drafted July - September 1787, submitted to the Congress of the Confederation 20 September 1787, submitted for states' ratification 28 September 1787, ratification completed by nine of the 13 states 21 June 1788, effective 4 March 1789"
-        },
-        "amendments": {
-            "text": "proposed as a \"joint resolution\" by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process; amended many times, last in 1992"
-        },
-        "note": ""
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Constitution'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_constitution_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test ConstitutionOrginal Data")
-    for index, country_data in enumerate(test_constitution_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-
-    print("Testing constitution Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_constitution_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_constitution(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_constitution")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'JPN', 'IND']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_constitution(iso3)
+            if result:
+                hist = result.get('constitution_history', 'N/A')
+                print(f"  History: {hist[:70]}..." if len(hist) > 70 else f"  History: {hist}")
+                if 'constitution_amendments' in result:
+                    print(f"  Has amendments info: Yes")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -1,20 +1,30 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_judicial_branch(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """Parse judicial branch data from CIA Government section."""
+def parse_judicial_branch(iso3Code: str) -> dict:
+    """Parse judicial branch data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Judicial branch', {})
+
     if not test_data or not isinstance(test_data, dict):
         return result
+
     try:
         field_mappings = {
             'highest court(s)': 'highest_courts',
@@ -36,77 +46,25 @@ def parse_judicial_branch(
             if isinstance(note, str) and note.strip():
                 result['judicial_branch_note'] = clean_text(note)
     except Exception as e:
-        app_logger.error(f"Error parsing judicial branch: {e}")
+        logger.error(f"Error parsing judicial branch for {iso3Code}: {e}")
+
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "highest court(s)" - 'judicial_branch_highest_court'
-    # "judge selection and term of office" - 'judicial_branch_judge_selection'
-    # "note" - 'judicial_branch_note'
-    # "subordinate courts" - 'judicial_branch_subordinate_courts'
-    # --------------------------------------------------------------------------------------------------
-    # ['judicial_branch_highest_court', 'judicial_branch_judge_selection', 'judicial_branch_note','judicial_branch_subordinate_courts']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "highest court(s)": {
-            "text": "US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)"
-        },
-        "judge selection and term of office": {
-            "text": "president nominates and, with the advice and consent of the Senate, appoints Supreme Court justices; justices serve for life"
-        },
-        "subordinate courts": {
-            "text": "Courts of Appeal (includes the US Court of Appeal for the Federal District and 12 regional appeals courts); 94 federal district courts in 50 states and territories"
-        },
-        "note": "<strong>note:</strong> the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact"
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Judicial branch'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_judicial_branch_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Judicial branch Orginal Data")
-    for index, country_data in enumerate(test_judicial_branch_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing judicial_branch Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_judicial_branch_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_judicial_branch(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_judicial_branch")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'RUS']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_judicial_branch(iso3)
+            if result:
+                courts = result.get('highest_courts', 'N/A')
+                print(f"  Courts: {courts[:60]}..." if len(courts) > 60 else f"  Courts: {courts}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

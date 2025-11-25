@@ -1,12 +1,14 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_env_international_agreements(agreements_data: dict, iso3Code: str = None) -> dict:
-    """Parse environment international agreements data."""
+def parse_env_international_agreements(iso3Code: str) -> dict:
+    """Parse environment international agreements from CIA Environment section for a given country."""
     result = {
         "international_agreements": {
             "party_to": [],
@@ -14,6 +16,15 @@ def parse_env_international_agreements(agreements_data: dict, iso3Code: str = No
         },
         "international_agreements_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    agreements_data = environment_section.get('Environment - international agreements', {})
 
     if not agreements_data or not isinstance(agreements_data, dict):
         return result
@@ -39,8 +50,21 @@ def parse_env_international_agreements(agreements_data: dict, iso3Code: str = No
 
 
 if __name__ == "__main__":
-    test_data = {
-        "party to": {"text": "Climate Change, Biodiversity, Desertification"},
-        "signed, but not ratified": {"text": "Hazardous Wastes"}
-    }
-    print(parse_env_international_agreements(test_data))
+    print("="*60)
+    print("Testing parse_env_international_agreements")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_env_international_agreements(iso3)
+            if result and result['international_agreements']['party_to']:
+                party = result['international_agreements']['party_to']
+                signed = result['international_agreements']['signed_not_ratified']
+                print(f"  Party to: {len(party)} agreements")
+                print(f"  Signed not ratified: {len(signed)} agreements")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

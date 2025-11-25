@@ -2,22 +2,14 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_land_use(land_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse land use data from CIA World Factbook format.
-
-    Args:
-        land_data: Dictionary with land use information
-        iso3Code: Optional ISO3 country code for logging
-
-    Returns:
-        Dictionary with structured land use data
-    """
+def parse_land_use(iso3Code: str) -> dict:
+    """Parse land use from CIA Environment section for a given country."""
     result = {
         "land_use": {
             "agricultural_land": None,
@@ -31,6 +23,15 @@ def parse_land_use(land_data: dict, iso3Code: str = None) -> dict:
         },
         "land_use_note": ""
     }
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    land_data = environment_section.get('Land use', {})
 
     if not land_data or not isinstance(land_data, dict):
         return result
@@ -116,9 +117,22 @@ def parse_land_use(land_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    test_data = {
-        "agricultural land": {"text": "44.5% (2018 est.)"},
-        "agricultural land: arable land": {"text": "arable land: 16.8% (2018 est.)"},
-        "forest": {"text": "33.3% (2018 est.)"}
-    }
-    print(parse_land_use(test_data))
+    print("="*60)
+    print("Testing parse_land_use")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_land_use(iso3)
+            if result and result['land_use']['agricultural_land']:
+                lu = result['land_use']
+                print(f"  Agricultural: {lu['agricultural_land']}%")
+                print(f"  Arable: {lu['arable_land']}%")
+                print(f"  Forest: {lu['forest']}%")
+                print(f"  Year: {lu['timestamp']}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

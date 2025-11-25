@@ -1,20 +1,30 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_political_parties(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """Parse political parties from CIA Government section."""
+def parse_political_parties(iso3Code: str) -> dict:
+    """Parse political parties data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Political parties', {})
+
     if not test_data or not isinstance(test_data, dict):
         return result
+
     try:
         if 'text' in test_data:
             text = test_data['text']
@@ -25,66 +35,25 @@ def parse_political_parties(
             if isinstance(note, str) and note.strip():
                 result['political_parties_note'] = clean_text(note)
     except Exception as e:
-        app_logger.error(f"Error parsing political_parties: {e}")
+        logger.error(f"Error parsing political parties for {iso3Code}: {e}")
+
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "note" - 'political_parties_note',
-    # "text" - 'political_parties',
-    # --------------------------------------------------------------------------------------------------
-    # ['political_parties_note', 'political_parties']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "text": "Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party"
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Political parties'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_political_parties_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Political parties Orginal Data")
-    for index, country_data in enumerate(test_political_parties_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing political_parties Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_political_parties_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_political_parties(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_political_parties")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'JPN', 'IND']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_political_parties(iso3)
+            if result:
+                parties = result.get('political_parties', 'N/A')
+                print(f"  Parties: {parties[:70]}..." if len(parties) > 70 else f"  Parties: {parties}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
