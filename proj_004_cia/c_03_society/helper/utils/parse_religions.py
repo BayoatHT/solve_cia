@@ -2,6 +2,7 @@ import re
 import logging
 from typing import Dict, List, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -9,35 +10,37 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
+def parse_religions(iso3Code: str) -> dict:
     """
-    Parse religions data from CIA World Factbook format.
+    Parse religions data from CIA World Factbook for a given country.
 
-    Handles ALL format variations found across 238 countries:
-    1. Simple percentages: "Roman Catholic 47%, Muslim 4%, Protestant 2%"
-    2. Nested percentages: "Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%)"
-    3. No percentages: "Muslim (official; citizens are 85-90% Sunni)"
-    4. With year/estimate: "(2021 est.)" at end
-    5. With HTML notes
+    This parser extracts and structures religion information including:
+    - Religion names and percentages
+    - Subcategories and nested classifications
+    - Temporal information (year, estimate status)
+    - Descriptive notes
 
     Args:
-        religion_data: Dictionary with 'text' and optional 'note' keys
-        iso3Code: Optional ISO3 country code for logging
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'BRA', 'WLD')
 
     Returns:
         Dictionary with structured religions data:
         {
-            "religions": [
-                {"religion": "Roman Catholic", "percentage": 47.0, "subcategories": None},
-                {"religion": "Protestant", "percentage": 26.7, "subcategories": [
-                    {"name": "Evangelical", "percentage": 25.5},
-                    {"name": "other Protestant", "percentage": 1.2}
-                ]}
-            ],
-            "religions_timestamp": "2021",
-            "religions_is_estimate": True,
-            "religions_note": ""
+            "religions": [{"religion": str, "percentage": float, "subcategories": list}],
+            "religions_timestamp": str,
+            "religions_is_estimate": bool,
+            "religions_note": str,
+            "religions_raw": str
         }
+
+    Examples:
+        >>> data = parse_religions('USA')
+        >>> data['religions'][0]
+        {'religion': 'Protestant', 'percentage': 46.5, 'subcategories': None}
+
+        >>> data = parse_religions('BRA')
+        >>> len(data['religions'][1].get('subcategories', []))
+        2
     """
     result = {
         "religions": [],
@@ -46,6 +49,17 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
         "religions_note": "",
         "religions_raw": None  # Keep raw text for cases we can't fully parse
     }
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to People and Society -> Religions
+    society_section = raw_data.get('People and Society', {})
+    religion_data = society_section.get('Religions', {})
 
     if not religion_data or not isinstance(religion_data, dict):
         return result
@@ -210,43 +224,40 @@ def parse_religions(religion_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-# Example usage and testing
 if __name__ == "__main__":
-    # Test Case 1: Simple format (USA)
-    test1 = {
-        "text": "Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Muslim 0.9%, Buddhist 0.7%, other 1.8%, unaffiliated 22.8% (2014 est.)"
-    }
-    print("Test 1 - Simple format (USA):")
-    result = parse_religions(test1)
-    print(f"Found {len(result['religions'])} religions")
-    for r in result['religions'][:3]:
-        print(f"  {r['religion']}: {r['percentage']}%")
-    print()
+    """Test parse_religions with real country data."""
+    print("="*60)
+    print("Testing parse_religions across countries")
+    print("="*60)
 
-    # Test Case 2: Nested format (Brazil)
-    test2 = {
-        "text": "Roman Catholic 52.8%, Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%), other 3%, none 13.6% (2023 est.)"
-    }
-    print("Test 2 - Nested format (Brazil):")
-    result = parse_religions(test2)
-    for r in result['religions']:
-        print(f"  {r['religion']}: {r['percentage']}%")
-        if r.get('subcategories'):
-            for s in r['subcategories']:
-                print(f"    -> {s['name']}: {s['percentage']}%")
-    print()
+    test_countries = ['USA', 'BRA', 'CHN', 'LBY', 'SAU', 'WLD']
 
-    # Test Case 3: No percentages (Saudi Arabia style)
-    test3 = {
-        "text": "Muslim (official; citizens are 85-90% Sunni and 10-12% Shia)",
-        "note": "<strong>note:</strong> large expatriate community of various faiths"
-    }
-    print("Test 3 - No percentages:")
-    result = parse_religions(test3)
-    print(f"  Raw: {result['religions_raw'][:50]}...")
-    print(f"  Note: {result['religions_note'][:50]}...")
-    print()
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_religions(iso3)
+            religions = result['religions']
+            print(f"  Found {len(religions)} religion(s)")
 
-    # Test Case 4: Empty
-    print("Test 4 - Empty:")
-    print(parse_religions({}))
+            # Show first 3 religions
+            for rel in religions[:3]:
+                pct = f"{rel['percentage']}%" if rel.get('percentage') else 'N/A'
+                subcats = f" (includes {len(rel.get('subcategories', []))} subcategories)" if rel.get('subcategories') else ""
+                print(f"    - {rel['religion']}: {pct}{subcats}")
+
+            if len(religions) > 3:
+                print(f"    ... and {len(religions) - 3} more")
+
+            if result.get('religions_timestamp'):
+                est = " est." if result.get('religions_is_estimate') else ""
+                print(f"  Timestamp: {result['religions_timestamp']}{est}")
+
+            if result.get('religions_note'):
+                note = result['religions_note'][:60]
+                print(f"  Note: {note}...")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")

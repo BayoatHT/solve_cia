@@ -2,6 +2,7 @@ import re
 import logging
 from typing import Dict, List, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -9,32 +10,37 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
+def parse_ethnic_groups(iso3Code: str) -> dict:
     """
-    Parse ethnic groups data from CIA World Factbook format.
+    Parse ethnic groups data from CIA World Factbook for a given country.
 
-    Handles ALL format variations found across countries:
-    1. Simple percentages: "White 61.6%, Black 12.4%, Asian 6%"
-    2. Nested groups: "Han Chinese 91.1%, minorities 8.9% (includes Zhang, Hui...)"
-    3. No percentages: "Celtic and Latin with Teutonic, Slavic..."
-    4. With year/estimate: "(2020 est.)" at end
-    5. With HTML notes
+    This parser extracts and structures ethnic group information including:
+    - Group names and percentages
+    - Subgroups and nested classifications
+    - Temporal information (year, estimate status)
+    - Descriptive notes
 
     Args:
-        ethnic_data: Dictionary with 'text' and optional 'note' keys
-        iso3Code: Optional ISO3 country code for logging
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
 
     Returns:
         Dictionary with structured ethnic groups data:
         {
-            "ethnic_groups": [
-                {"group": "White", "percentage": 61.6, "subgroups": None},
-                {"group": "ethnic minorities", "percentage": 8.9, "subgroups": ["Zhang", "Hui"]}
-            ],
-            "ethnic_groups_timestamp": "2020",
-            "ethnic_groups_is_estimate": True,
-            "ethnic_groups_note": ""
+            "ethnic_groups": [{"group": str, "percentage": float, "subgroups": list}],
+            "ethnic_groups_timestamp": str,
+            "ethnic_groups_is_estimate": bool,
+            "ethnic_groups_note": str,
+            "ethnic_groups_raw": str
         }
+
+    Examples:
+        >>> data = parse_ethnic_groups('USA')
+        >>> data['ethnic_groups'][0]
+        {'group': 'White', 'percentage': 61.6, 'subgroups': None}
+
+        >>> data = parse_ethnic_groups('CHN')
+        >>> data['ethnic_groups'][0]['group']
+        'Han Chinese'
     """
     result = {
         "ethnic_groups": [],
@@ -43,6 +49,17 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
         "ethnic_groups_note": "",
         "ethnic_groups_raw": None
     }
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to People and Society -> Ethnic groups
+    society_section = raw_data.get('People and Society', {})
+    ethnic_data = society_section.get('Ethnic groups', {})
 
     if not ethnic_data or not isinstance(ethnic_data, dict):
         return result
@@ -65,6 +82,7 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
     if year_match:
         result["ethnic_groups_timestamp"] = year_match.group(1)
         result["ethnic_groups_is_estimate"] = bool(year_match.group(2))
+        # Remove year from text for easier parsing
         text = text[:year_match.start()].strip()
 
     # Clean HTML from note
@@ -75,7 +93,7 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
 
     # Check if text has percentages
     if '%' not in text:
-        # No percentages - store as descriptive
+        # No percentages - store as single descriptive entry
         result["ethnic_groups"].append({
             "group": text,
             "percentage": None,
@@ -190,41 +208,40 @@ def parse_ethnic_groups(ethnic_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-# Example usage and testing
 if __name__ == "__main__":
-    # Test Case 1: USA format
-    test1 = {
-        "text": "White 61.6%, Black or African American 12.4%, Asian 6%, other 8.4%, two or more races 10.2% (2020 est.)",
-        "note": "<strong>note:</strong> Hispanic not included separately"
-    }
-    print("Test 1 - USA format:")
-    result = parse_ethnic_groups(test1)
-    print(f"Found {len(result['ethnic_groups'])} groups")
-    for g in result['ethnic_groups'][:3]:
-        print(f"  {g['group']}: {g['percentage']}%")
-    print()
+    """Test parse_ethnic_groups with real country data."""
+    print("="*60)
+    print("Testing parse_ethnic_groups across countries")
+    print("="*60)
 
-    # Test Case 2: China format (nested)
-    test2 = {
-        "text": "Han Chinese 91.1%, ethnic minorities 8.9% (includes Zhang, Hui, Manchu, Uighur) (2021 est.)"
-    }
-    print("Test 2 - China format (nested):")
-    result = parse_ethnic_groups(test2)
-    for g in result['ethnic_groups']:
-        print(f"  {g['group']}: {g['percentage']}%")
-        if g.get('subgroups'):
-            print(f"    Subgroups: {g['subgroups'][:4]}...")
-    print()
+    test_countries = ['USA', 'CHN', 'CMR', 'IND', 'BRA', 'WLD']
 
-    # Test Case 3: France (no percentages)
-    test3 = {
-        "text": "Celtic and Latin with Teutonic, Slavic, North African minorities"
-    }
-    print("Test 3 - France (no percentages):")
-    result = parse_ethnic_groups(test3)
-    print(f"  Descriptive: {result['ethnic_groups'][0]['group'][:50]}...")
-    print()
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_ethnic_groups(iso3)
+            groups = result['ethnic_groups']
+            print(f"  Found {len(groups)} ethnic group(s)")
 
-    # Test Case 4: Empty
-    print("Test 4 - Empty:")
-    print(parse_ethnic_groups({}))
+            # Show first 3 groups
+            for grp in groups[:3]:
+                pct = f"{grp['percentage']}%" if grp.get('percentage') else 'N/A'
+                subgroups = f" (includes {len(grp.get('subgroups', []))} subgroups)" if grp.get('subgroups') else ""
+                print(f"    - {grp['group']}: {pct}{subgroups}")
+
+            if len(groups) > 3:
+                print(f"    ... and {len(groups) - 3} more")
+
+            if result.get('ethnic_groups_timestamp'):
+                est = " est." if result.get('ethnic_groups_is_estimate') else ""
+                print(f"  Timestamp: {result['ethnic_groups_timestamp']}{est}")
+
+            if result.get('ethnic_groups_note'):
+                note = result['ethnic_groups_note'][:60]
+                print(f"  Note: {note}...")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -2,6 +2,7 @@ import re
 import logging
 from typing import Dict, List, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -9,25 +10,40 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
+def parse_languages(iso3Code: str) -> dict:
     """
-    Parse languages data from CIA World Factbook format.
+    Parse languages data from CIA World Factbook for a given country.
 
-    Handles ALL format variations:
-    1. Direct 'text' key: {"text": "English 78.2%, Spanish 13.4%"}
-    2. Nested 'Languages' key: {"Languages": {"text": "..."}}
-    3. With percentages: "Hindi 43.6%, Bengali 8%"
-    4. With (official) marker: "French (official) 100%"
-    5. With dialects: "declining regional dialects (Provencal, Breton...)"
-    6. Major language samples
-    7. HTML notes
+    This parser extracts and structures language information including:
+    - Language names and percentages
+    - Official language markers
+    - Regional dialects
+    - Speaker counts
+    - Major language samples
+    - Temporal information (year, estimate status)
 
     Args:
-        languages_data: Dictionary with 'text' or 'Languages' key
-        iso3Code: Optional ISO3 country code for logging
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'FRA', 'WLD')
 
     Returns:
-        Dictionary with structured languages data
+        Dictionary with structured languages data:
+        {
+            "languages": [{"language": str, "percentage": float, "is_official": bool, ...}],
+            "languages_timestamp": str,
+            "languages_is_estimate": bool,
+            "languages_note": str,
+            "languages_raw": str,
+            "major_language_samples": [{"language": str, "sample": str}]
+        }
+
+    Examples:
+        >>> data = parse_languages('USA')
+        >>> data['languages'][0]
+        {'language': 'English', 'percentage': 78.2, 'is_official': False}
+
+        >>> data = parse_languages('FRA')
+        >>> data['languages'][0]['is_official']
+        True
     """
     result = {
         "languages": [],
@@ -38,27 +54,35 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
         "major_language_samples": []
     }
 
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to People and Society -> Languages
+    society_section = raw_data.get('People and Society', {})
+    languages_data = society_section.get('Languages', {})
+
     if not languages_data or not isinstance(languages_data, dict):
         return result
 
-    # Handle different structures
-    # Structure 1: Direct text key
-    # Structure 2: Nested Languages key
-    if 'Languages' in languages_data:
-        lang_obj = languages_data['Languages']
-        text = lang_obj.get('text', '') if isinstance(lang_obj, dict) else ''
-    elif 'text' in languages_data:
-        text = languages_data.get('text', '')
+    # Handle nested structure: Languages -> Languages -> text vs Languages -> text
+    if 'Languages' in languages_data and isinstance(languages_data['Languages'], dict):
+        lang_content = languages_data['Languages']
     else:
-        return result
+        lang_content = languages_data
 
-    text = text.strip()
+    # Extract text field
+    text = lang_content.get('text', '').strip()
 
-    # Clean HTML entities early
+    # Clean HTML entities early and remove HTML tags
     text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+    text = text.replace('<p>', '').replace('</p>', '').replace('<strong>', '').replace('</strong>', '')
 
-    # Handle note (can be at top level or nested)
-    note = languages_data.get('note', '')
+    # Handle note (can be in parent languages_data or lang_content)
+    note = languages_data.get('note', '') or lang_content.get('note', '')
     if note:
         note = re.sub(r'<[^>]+>', '', note).strip()
         note = re.sub(r'^note\s*\d*:\s*', '', note, flags=re.IGNORECASE)
@@ -131,7 +155,6 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
                 current += char
             elif (char == ',' or char == ';') and paren_depth == 0:
                 # Check if this comma is part of a number (e.g., "5,000")
-                # Look behind and ahead for digits
                 is_number_comma = False
                 if i > 0 and i < len(text) - 1:
                     prev_char = text[i-1]
@@ -173,9 +196,6 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
         is_official = '(official)' in entry.lower() or 'official' in entry.lower()
         result_entry["is_official"] = is_official
 
-        # Pattern: "French (official) 100%" or "Hindi 43.6%"
-        # Handle complex patterns like "declining regional dialects (Provencal, Breton)"
-
         # Try pattern with percentage
         pct_match = re.search(r'([\d.]+)%', entry)
         if pct_match:
@@ -188,8 +208,7 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
             result_entry["language"] = name_part
             return result_entry
 
-        # Check for speaker count pattern (e.g., "<5,000 speakers" or "5,000 speakers")
-        # This should be treated as descriptive info, not split
+        # Check for speaker count pattern
         speakers_match = re.search(r'(<?\d[\d,]*)\s+(speakers|native speakers)', entry, re.IGNORECASE)
         if speakers_match:
             # Extract language name (everything before the speaker count)
@@ -201,10 +220,7 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
             return result_entry
 
         # No percentage - check for dialects pattern
-        dialect_match = re.match(
-            r'^([^(]+)\s*\(([^)]+)\)\s*$',
-            entry
-        )
+        dialect_match = re.match(r'^([^(]+)\s*\(([^)]+)\)\s*$', entry)
         if dialect_match:
             result_entry["language"] = dialect_match.group(1).strip()
             paren_content = dialect_match.group(2).strip().lower()
@@ -241,49 +257,40 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-# Example usage and testing
 if __name__ == "__main__":
-    # Test Case 1: USA format (direct text)
-    test1 = {
-        "text": "English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)",
-        "note": "<strong>note:</strong> data represent language spoken at home"
-    }
-    print("Test 1 - USA format:")
-    result = parse_languages(test1)
-    print(f"Found {len(result['languages'])} languages")
-    for l in result['languages'][:3]:
-        print(f"  {l['language']}: {l['percentage']}%")
-    print(f"Note: {result['languages_note'][:40]}...")
-    print()
+    """Test parse_languages with real country data."""
+    print("="*60)
+    print("Testing parse_languages across countries")
+    print("="*60)
 
-    # Test Case 2: France format (nested with dialects)
-    test2 = {
-        "Languages": {
-            "text": "French (official) 100%, declining regional dialects (Provencal, Breton, Alsatian)"
-        },
-        "major-language sample(s)": {
-            "text": "<br>The World Factbook (French)<br><br>English translation"
-        }
-    }
-    print("Test 2 - France format (nested):")
-    result = parse_languages(test2)
-    for l in result['languages']:
-        print(f"  {l['language']}: {l['percentage']}%, official={l['is_official']}")
-        if l.get('dialects'):
-            print(f"    Dialects: {l['dialects'][:3]}")
-    print()
+    test_countries = ['USA', 'FRA', 'IND', 'CHN', 'ESP', 'WLD']
 
-    # Test Case 3: India format (many languages)
-    test3 = {
-        "Languages": {
-            "text": "Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7% (2011 est.)"
-        }
-    }
-    print("Test 3 - India format:")
-    result = parse_languages(test3)
-    print(f"Found {len(result['languages'])} languages, timestamp={result['languages_timestamp']}")
-    print()
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_languages(iso3)
+            langs = result['languages']
+            print(f"  Found {len(langs)} language(s)")
 
-    # Test Case 4: Empty
-    print("Test 4 - Empty:")
-    print(parse_languages({}))
+            # Show first 3 languages
+            for lang in langs[:3]:
+                pct = f"{lang['percentage']}%" if lang.get('percentage') else 'N/A'
+                official = " (official)" if lang.get('is_official') else ""
+                print(f"    - {lang['language']}: {pct}{official}")
+
+            if len(langs) > 3:
+                print(f"    ... and {len(langs) - 3} more")
+
+            if result.get('languages_timestamp'):
+                est = " est." if result.get('languages_is_estimate') else ""
+                print(f"  Timestamp: {result['languages_timestamp']}{est}")
+
+            if result.get('languages_note'):
+                note = result['languages_note'][:60]
+                print(f"  Note: {note}...")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")
