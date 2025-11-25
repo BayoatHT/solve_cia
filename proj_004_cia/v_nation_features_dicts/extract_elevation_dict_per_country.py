@@ -4,14 +4,13 @@ Extract elevation dictionary for each country.
 Returns highest point, lowest point, and mean elevation data.
 """
 
+from proj_004_cia.v_nation_features_dicts.base_extractor import extract_dict_feature
+from proj_004_cia.c_02_geography.return_geography_data import return_geography_data
 import os
 import sys
 from typing import Dict
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from proj_004_cia.c_02_geography.return_geography_data import return_geography_data
-from proj_004_cia.v_nation_features_dicts.base_extractor import extract_dict_feature
 
 
 def _extract_from_parsed(parsed_data: dict) -> dict:
@@ -41,5 +40,5 @@ def get_elevation(verbose: bool = False) -> Dict[str, Dict]:
 if __name__ == "__main__":
     from pprint import pprint
     data = get_elevation(verbose=True)
-    print("\nSample output (USA):")
-    pprint(data.get('USA', {}))
+    print("\nSample output (NGA):")
+    pprint(data.get('NGA', {}))
