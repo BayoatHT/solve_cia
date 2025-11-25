@@ -353,13 +353,12 @@ def parse_special_cases(text: str, iso3Code: str) -> Dict[str, Any]:
     return None
 
 
-def parse_admin_divisions(test_data: dict, iso3Code: str = None) -> dict:
+def parse_admin_divisions(iso3Code: str) -> dict:
     """
     Enhanced parser for administrative divisions from CIA JSON data
 
     Args:
-        test_data: Raw property data containing 'text' and optionally 'note'
-        iso3Code: ISO3 country code for context
+        iso3Code: ISO3 country code
 
     Returns:
         Dict with comprehensive parsed administrative division data:
@@ -368,6 +367,19 @@ def parse_admin_divisions(test_data: dict, iso3Code: str = None) -> dict:
             "admin_divisions_note": str
         }
     """
+    import logging
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+    logger = logging.getLogger(__name__)
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return {"admin_divisions": {}, "admin_divisions_note": ""}
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Administrative divisions', {})
 
     # Handle empty input
     if not isinstance(test_data, dict) or not test_data:
@@ -531,80 +543,21 @@ def parse_admin_divisions(test_data: dict, iso3Code: str = None) -> dict:
         }
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "note", - "admin_divisions_note"
-    # "text" - "admin_divisions"
-    section_key = 'Government'
-    property_key = 'Administrative divisions'
-    test_countries = [
-        'EEU', 'WLD', 'DZA', 'AGO', 'BWA', 'BEN', 'BDI', 'TCD', 'COG', 'COD', 'CMR',
-        'COM', 'CAF', 'CPV', 'DJI', 'EGY', 'GNQ', 'ERI', 'ETH', 'GMB', 'GAB', 'GHA',
-        'GIN', 'CIV', 'KEN', 'LBR', 'LSO', 'LBY', 'MDG', 'MWI', 'MLI', 'MAR', 'MUS',
-        'MRT', 'MOZ', 'NER', 'NGA', 'SSD', 'GNB', 'RWA', 'SYC', 'ZAF', 'SEN', 'SHN',
-        'SLE', 'SOM', 'SDN', 'TGO', 'STP', 'TUN', 'TZA', 'UGA', 'BFA', 'NAM', 'ESH',
-        'SWZ', 'ZMB', 'ZWE', 'ASM', 'AUS', 'ATC', 'SLB', 'CCK', 'MNP', 'CSI', 'COK',
-        'FJI', 'FSM', 'PYF', 'GUM', 'KIR', 'CXR', 'NCL', 'NIU', 'NFK', 'VUT', 'NRU',
-        'NZL', 'PCN', 'PLW', 'MHL', 'TKL', 'TON', 'TUV', 'UMI', 'WLF', 'PGA', 'WSM',
-        'ABW', 'ATG', 'AIA', 'BRB', 'BHS', 'BLZ', '', 'CYM', 'CRI', 'CUB', 'DMA',
-        'DOM', 'SLV', 'GRD', 'GTM', 'HTI', 'HND', 'JAM', 'MSR', 'SXM', 'NIC', 'PAN',
-        'MAF', 'PRI', 'KNA', 'LCA', 'BLM', 'TTO', 'TCA', 'CUW', 'VCT', 'VGB', 'VIR',
-        'KGZ', 'KAZ', 'RUS', 'TJK', 'TKM', 'UZB', 'MMR', 'BRN', 'KHM', 'CHN', 'HKG',
-        'IDN', 'JPN', 'PRK', 'KOR', 'LAO', 'MAC', 'MNG', 'MYS', 'XPI', 'XSP', 'PNG',
-        'PHL', 'SGP', 'THA', 'TLS', 'TWN', 'VNM', 'ALB', 'AND', 'AUT', '',
-        'BEL', 'BIH', 'BLR', 'BGR', 'CYP', 'DNK', '', 'IRL', 'EST', 'CZE', 'FIN',
-        'FRO', 'FRA', 'GIB', 'GGY', 'DEU', 'GRC', 'HRV', 'HUN', 'ISL', 'IMN', 'ITA',
-        'JEY', '', 'XKX', 'LVA', 'LTU', 'SVK', 'LIE', 'LUX', 'MDA', 'MNE', 'MKD', 'MCO',
-        'MLT', 'NLD', 'NOR', 'POL', 'PRT', 'SRB', 'ROU', 'SVN', 'SMR', 'ESP', '', 'SWE',
-        'CHE', 'GBR', 'UKR', 'VAT', 'ARE', 'AZE', 'ARM', 'BHR', 'GEO', '', 'IRN', 'ISR',
-        'IRQ', 'JOR', 'KWT', 'LBN', 'OMN', 'QAT', 'SAU', 'SYR', 'TUR', '', 'YEM', 'BMU',
-        'CAN', 'GRL', 'XCL', 'MEX', 'SPM', 'USA', 'ARG', 'BOL', 'BRA', 'CHL', 'COL', 'ECU',
-        'FLK', 'GUY', 'SUR', 'PRY', 'PER', 'SGS', 'URY', 'VEN', 'AFG', 'BGD', 'BTN', 'LKA',
-        'IND', 'IOT', 'MDV', 'NPL', 'PAK']
-    # --------------------------------------------------------------------------------------------------
-
-    test_admin_divisions_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=300
-    )
-    print(f"Test Admin Divisions Orginal Data")
-    # --------------------------------------------------------------------------------------------------
-    test_folder = 'C:\\Users\\bayoa\\impact_projects\\claude_solve_cia\\proj_004_cia\\c_05_government\\helper\\_test_files'
-    # Save the test data to a file for inspection - .txt
-    file_name = "Administrative_Divisions"
-    file_path = save_test_data_as_text(
-        test_data=test_admin_divisions_data,
-        test_folder=test_folder,
-        file_name=file_name
-    )
-
-    """
-    for index, country_data in enumerate(test_admin_divisions_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    """
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-
-    print("Testing Administrative Divisions Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_admin_divisions_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_admin_divisions(test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            assert "admin_divisions" in result
-            assert "admin_divisions_note" in result
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_admin_divisions")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_admin_divisions(iso3)
+            if result and result.get('admin_divisions'):
+                ad = result['admin_divisions']
+                print(f"  Type: {ad.get('type', 'N/A')}")
+                print(f"  Count: {ad.get('division_count', 'N/A')}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

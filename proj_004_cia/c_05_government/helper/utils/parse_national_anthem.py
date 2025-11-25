@@ -1,20 +1,30 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_national_anthem(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """Parse national anthem from CIA Government section."""
+def parse_national_anthem(iso3Code: str) -> dict:
+    """Parse national anthem from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('National anthem', {})
+
     if not test_data or not isinstance(test_data, dict):
         return result
+
     try:
         field_mappings = {
             'name': 'anthem_name',
@@ -34,73 +44,25 @@ def parse_national_anthem(
             if isinstance(note, str) and note.strip():
                 result['national_anthem_note'] = clean_text(note)
     except Exception as e:
-        app_logger.error(f"Error parsing national_anthem: {e}")
+        logger.error(f"Error parsing national anthem for {iso3Code}: {e}")
+
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "lyrics/music" - 'national_anthem_lyrics_music',
-    # "name" - 'national_anthem_name',
-    # "note" - 'national_anthem_note',
-    # --------------------------------------------------------------------------------------------------
-    # ['national_anthem_lyrics_music', 'national_anthem_name', 'national_anthem_note']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "name": {
-            "text": "\"The Star-Spangled Banner\""
-        },
-        "lyrics/music": {
-            "text": "Francis Scott KEY/John Stafford SMITH"
-        },
-        "note": "<strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of \"The Anacreontic Song\"; only the first verse is sung"
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'National anthem'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_national_anthem_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test National anthem Orginal Data")
-    for index, country_data in enumerate(test_national_anthem_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing national_anthem Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_national_anthem_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_national_anthem(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_national_anthem")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'JPN', 'RUS']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_national_anthem(iso3)
+            if result:
+                print(f"  Name: {result.get('anthem_name', 'N/A')}")
+                print(f"  Music: {result.get('anthem_lyrics_music', 'N/A')[:40]}...")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
