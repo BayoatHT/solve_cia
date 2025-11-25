@@ -48,10 +48,12 @@ def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None) -> dic
     if not life_data or not isinstance(life_data, dict):
         return result
 
-    # Pattern: "82.6 years (2024 est.)" or "79.8 years"
-    PATTERN = re.compile(
-        r'([\d.]+)\s*years?\s*(?:\((\d{4})\s*(est\.?)?\))?'
-    )
+    # Patterns for different formats:
+    # 1. "82.6 years (2024 est.)" or "79.8 years"
+    # 2. "(2017 est.) 77.9 years" - year before value
+    # 3. Just numbers: "75.6" or "79.6"
+    PATTERN1 = re.compile(r'([\d.]+)\s*years?\s*(?:\((\d{4})\s*(est\.?)?\))?')
+    PATTERN2 = re.compile(r'\((\d{4})\s*est\.\)\s*([\d.]+)\s*years?')
 
     def parse_field(field_data: dict) -> dict:
         """Parse a single field (total population, male, or female)."""
@@ -66,19 +68,28 @@ def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None) -> dic
         if not text or text.upper() == 'NA':
             return parsed
 
-        match = PATTERN.search(text)
+        # Try pattern 1: value first
+        match = PATTERN1.search(text)
         if match:
             parsed["value"] = float(match.group(1))
             if match.group(2):
                 parsed["timestamp"] = match.group(2)
             if match.group(3):
                 parsed["is_estimate"] = True
-        else:
-            # Fallback: try to extract just a number
-            num_match = re.search(r'([\d.]+)', text)
-            if num_match:
-                parsed["value"] = float(num_match.group(1))
-                logger.warning(f"Partial parse for life expectancy: {text[:50]}...")
+            return parsed
+
+        # Try pattern 2: year first
+        match = PATTERN2.search(text)
+        if match:
+            parsed["timestamp"] = match.group(1)
+            parsed["value"] = float(match.group(2))
+            parsed["is_estimate"] = True
+            return parsed
+
+        # Fallback: try to extract just a number (no warning - this is a valid format)
+        num_match = re.search(r'([\d.]+)', text)
+        if num_match:
+            parsed["value"] = float(num_match.group(1))
 
         return parsed
 
