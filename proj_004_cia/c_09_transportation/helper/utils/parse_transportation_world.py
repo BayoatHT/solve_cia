@@ -1,103 +1,57 @@
-"""
-Parse World-level transportation data from CIA World Factbook.
-Extracts global airports, heliports, waterways statistics.
-"""
 import re
 import logging
-from typing import Dict, Any, List
-from bs4 import BeautifulSoup
+from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_transportation_world(trans_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse World-level transportation data with detailed value extraction.
-
-    Returns:
-        Dict with:
-            - airports_worldwide_value: int
-            - airports_year: int
-            - heliports_worldwide_value: int
-            - heliports_year: int
-            - top_rivers_navigable: list of {name, location, length_km}
-            - top_lakes_navigable: list of {name, location, area_sq_km}
-            - countries_without_rivers_count: int
-    """
+def parse_transportation_world(iso3Code: str) -> dict:
+    """Parse World-level transportation data from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    # Parse "Airports"
-    airports_data = trans_data.get("Airports", {})
-    if airports_data:
-        text = airports_data.get("text", "")
-        if text:
-            match = re.search(r'([\d,]+)\s*\((\d{4})\)', text)
-            if match:
-                result['airports_worldwide_value'] = int(match.group(1).replace(',', ''))
-                result['airports_year'] = int(match.group(2))
+    transport_section = raw_data.get('Transportation', {})
 
-    # Parse "Heliports"
-    heliports_data = trans_data.get("Heliports", {})
-    if heliports_data:
-        text = heliports_data.get("text", "")
-        if text:
-            match = re.search(r'([\d,]+)\s*\((\d{4})\)', text)
-            if match:
-                result['heliports_worldwide_value'] = int(match.group(1).replace(',', ''))
-                result['heliports_year'] = int(match.group(2))
+    if not transport_section or not isinstance(transport_section, dict):
+        return result
 
-    # Parse "Waterways" note for rivers/lakes
-    waterways_data = trans_data.get("Waterways", {})
-    if waterways_data:
-        note = waterways_data.get("note", "")
-        if note:
-            soup = BeautifulSoup(note, "html.parser")
-            clean_text = soup.get_text()
+    try:
+        # For World data, parse all available fields
+        for key, val in transport_section.items():
+            if isinstance(val, dict) and 'text' in val:
+                text = val['text']
+                if text and isinstance(text, str):
+                    clean_key = key.lower().replace(' ', '_').replace('-', '_')
+                    result[clean_key] = clean_text(text)
+            elif isinstance(val, str):
+                clean_key = key.lower().replace(' ', '_').replace('-', '_')
+                result[clean_key] = clean_text(val)
 
-            # Extract top rivers
-            rivers = []
-            rivers_match = re.search(r'top ten longest rivers[:\s]*(.+?)(?=note|top ten largest|$)', clean_text, re.IGNORECASE | re.DOTALL)
-            if rivers_match:
-                for match in re.finditer(r'([A-Za-z\-/\s]+)\s*\(([^)]+)\)\s*([\d,]+)\s*km', rivers_match.group(1)):
-                    rivers.append({
-                        'name': match.group(1).strip(),
-                        'location': match.group(2).strip(),
-                        'length_km': int(match.group(3).replace(',', ''))
-                    })
-            if rivers:
-                result['top_rivers_navigable'] = rivers
-
-            # Extract top lakes
-            lakes = []
-            lakes_match = re.search(r'top ten largest natural lakes[:\s]*(.+?)(?=note|$)', clean_text, re.IGNORECASE | re.DOTALL)
-            if lakes_match:
-                for match in re.finditer(r'([A-Za-z\s]+)\s*\(([^)]+)\)\s*([\d,]+)\s*sq\s*km', lakes_match.group(1)):
-                    lakes.append({
-                        'name': match.group(1).strip(),
-                        'location': match.group(2).strip(),
-                        'area_sq_km': int(match.group(3).replace(',', ''))
-                    })
-            if lakes:
-                result['top_lakes_navigable'] = lakes
-
-            # Countries without rivers
-            no_rivers_match = re.search(r'(\d+)\s+countries\s+without\s+rivers', clean_text, re.IGNORECASE)
-            if no_rivers_match:
-                result['countries_without_rivers_count'] = int(no_rivers_match.group(1))
+    except Exception as e:
+        logger.error(f"Error parsing transportation_world for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    import json
-    import os
-
-    json_path = os.path.join(os.path.dirname(__file__), '../../../../_raw_data/world/xx.json')
-    with open(json_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    trans_data = data.get("Transportation", {})
-    parsed = parse_transportation_world(trans_data, "WLD")
-    from pprint import pprint
-    pprint(parsed)
+    print("="*60)
+    print("Testing parse_transportation_world")
+    print("="*60)
+    for iso3 in ['WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_transportation_world(iso3)
+            if result:
+                for key, val in result.items():
+                    val_str = str(val)
+                    print(f"  {key}: {val_str[:60] if len(val_str) > 60 else val_str}...")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -1,38 +1,23 @@
-"""
-Parse merchant marine data from CIA World Factbook Transportation section.
-"""
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_merchant_marine(merchant_marine_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse merchant marine data into structured format.
-
-    Args:
-        merchant_marine_data: Dict with subfields: total, by type, note
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - merchant_total_value: int (total ships)
-            - merchant_total_year: int
-            - merchant_by_type: list of {type, count} dicts
-            - merchant_note: str
-
-    Example:
-        Input: {"total": {"text": "3,533 (2023)"}, "by type": {"text": "bulk carrier 4, container ship 60"}}
-        Output: {
-            'merchant_total_value': 3533,
-            'merchant_total_year': 2023,
-            'merchant_by_type': [{'type': 'bulk carrier', 'count': 4}, {'type': 'container ship', 'count': 60}]
-        }
-    """
+def parse_merchant_marine(iso3Code: str) -> dict:
+    """Parse merchant marine from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    transport_section = raw_data.get('Transportation', {})
+    merchant_marine_data = transport_section.get('Merchant marine', {})
 
     if not merchant_marine_data:
         return result
@@ -56,7 +41,6 @@ def parse_merchant_marine(merchant_marine_data: dict, iso3Code: str = None) -> d
                 ship_types = []
 
                 # Pattern: "bulk carrier 4, container ship 60, general cargo 96"
-                # Split by comma and parse each segment
                 segments = text.split(',')
                 for segment in segments:
                     segment = segment.strip()
@@ -77,17 +61,27 @@ def parse_merchant_marine(merchant_marine_data: dict, iso3Code: str = None) -> d
                 result['merchant_note'] = clean_text(note)
 
     except Exception as e:
-        logging.error(f"Error parsing merchant_marine for {iso3Code}: {e}")
+        logger.error(f"Error parsing merchant_marine for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "total": {"text": "3,533 (2023)"},
-        "by type": {"text": "bulk carrier 4, container ship 60, general cargo 96, oil tanker 68, other 3,305"},
-        "note": "note - oceangoing self-propelled, cargo-carrying vessels of 1,000 gross tons and above"
-    }
-    parsed = parse_merchant_marine(test_data, "USA")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_merchant_marine")
+    print("="*60)
+    for iso3 in ['CHN', 'JPN', 'GRC', 'USA', 'SGP', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_merchant_marine(iso3)
+            if result:
+                for key, val in result.items():
+                    if isinstance(val, list):
+                        print(f"  {key}: {len(val)} types")
+                    else:
+                        print(f"  {key}: {val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

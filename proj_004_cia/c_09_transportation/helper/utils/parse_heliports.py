@@ -1,41 +1,31 @@
-"""
-Parse heliports data from CIA World Factbook Transportation section.
-"""
+import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_heliports(heliports_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse heliports data into structured format.
-
-    Args:
-        heliports_data: Dict with 'text' and optional 'note' keys
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - heliports_total_value: int (number of heliports)
-            - heliports_total_year: int (data year)
-            - heliports_total_is_estimate: bool
-            - heliports_note: str (optional note)
-
-    Example:
-        Input: {"text": "7,914 (2024)"}
-        Output: {'heliports_total_value': 7914, 'heliports_total_year': 2024}
-    """
+def parse_heliports(iso3Code: str) -> dict:
+    """Parse Heliports from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    if not heliports_data:
+    transport_section = raw_data.get('Transportation', {})
+    pass_data = transport_section.get('Heliports', {})
+
+    if not pass_data:
         return result
 
     try:
         # Parse the main text field
-        if 'text' in heliports_data:
-            text = heliports_data['text']
+        if isinstance(pass_data, dict) and 'text' in pass_data:
+            text = pass_data['text']
             parsed = parse_transport_value(text)
 
             if parsed['value'] is not None:
@@ -46,19 +36,33 @@ def parse_heliports(heliports_data: dict, iso3Code: str = None) -> dict:
                 result['heliports_total_is_estimate'] = parsed['is_estimate']
 
         # Parse note if present
-        if 'note' in heliports_data:
-            note = heliports_data['note']
+        if isinstance(pass_data, dict) and 'note' in pass_data:
+            note = pass_data['note']
             if note and isinstance(note, str) and note.strip():
-                result['heliports_note'] = clean_text(note)
+                result['heliports_total_note'] = clean_text(note)
 
     except Exception as e:
-        logging.error(f"Error parsing heliports for {iso3Code}: {e}")
+        logger.error(f"Error parsing parse_heliports for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {"text": "7,914 (2024)"}
-    parsed = parse_heliports(test_data, "USA")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_heliports")
+    print("="*60)
+    for iso3 in ['USA', 'BRA', 'CHN', 'RUS', 'IND', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_heliports(iso3)
+            if result:
+                for key, val in result.items():
+                    if isinstance(val, (int, float)):
+                        print(f"  {key}: {val:,.0f}")
+                    else:
+                        print(f"  {key}: {val[:80] if isinstance(val, str) and len(val) > 80 else val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

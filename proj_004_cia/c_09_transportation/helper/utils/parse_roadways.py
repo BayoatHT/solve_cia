@@ -1,57 +1,32 @@
-"""
-Parse roadways data from CIA World Factbook Transportation section.
-"""
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_09_transportation.helper.utils.parse_transport_value import parse_transport_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_roadways(roadways_data: dict, iso3Code: str = None) -> dict:
-    """
-    Parse roadways data into structured format.
-
-    Args:
-        roadways_data: Dict with subfields: total, paved, unpaved, urban, non-urban, etc.
-        iso3Code: Country ISO3 code
-
-    Returns:
-        Dict with:
-            - roadways_total_value: float (total km)
-            - roadways_total_year: int
-            - roadways_paved_value: float (paved km)
-            - roadways_unpaved_value: float (unpaved km)
-            - roadways_urban_value: float (urban km)
-            - roadways_expressways_km: float (if mentioned)
-            - roadways_note: str
-
-    Example:
-        Input: {"total": {"text": "6,586,610 km"}, "paved": {"text": "4,304,715 km (includes 76,334 km of expressways)"}}
-        Output: {'roadways_total_value': 6586610.0, 'roadways_paved_value': 4304715.0, 'roadways_expressways_km': 76334.0}
-    """
+def parse_roadways(iso3Code: str) -> dict:
+    """Parse Roadways from CIA Transportation section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    if not roadways_data:
+    transport_section = raw_data.get('Transportation', {})
+    pass_data = transport_section.get('Roadways', {})
+
+    if not pass_data:
         return result
 
     try:
-        # Field mapping: CIA field name -> output prefix
-        field_mappings = {
-            'total': 'roadways_total',
-            'paved': 'roadways_paved',
-            'unpaved': 'roadways_unpaved',
-            'urban': 'roadways_urban',
-            'non-urban': 'roadways_non_urban',
-            'non urban': 'roadways_non_urban',
-            'private and forest roads': 'roadways_private_forest',
-            'Turkish Cypriot control': 'roadways_turkish_cypriot',
-        }
-
+        field_mappings = {'total': 'roadways_total', 'paved': 'roadways_paved', 'unpaved': 'roadways_unpaved'}
         for cia_field, output_prefix in field_mappings.items():
-            if cia_field in roadways_data:
-                field_data = roadways_data[cia_field]
+            if cia_field in pass_data:
+                field_data = pass_data[cia_field]
                 if isinstance(field_data, dict) and 'text' in field_data:
                     text = field_data['text']
                     parsed = parse_transport_value(text)
@@ -63,31 +38,37 @@ def parse_roadways(roadways_data: dict, iso3Code: str = None) -> dict:
                     if parsed['year']:
                         result[f'{output_prefix}_year'] = parsed['year']
 
-                    # Extract expressways km if present (e.g., "includes 76,334 km of expressways")
-                    if cia_field == 'paved':
-                        expressway_match = re.search(r'([\d,]+)\s*km\s*(?:of\s*)?expressways?', text)
-                        if expressway_match:
-                            expressway_km = float(expressway_match.group(1).replace(',', ''))
-                            result['roadways_expressways_km'] = expressway_km
-
         # Parse note
-        if 'note' in roadways_data:
-            note = roadways_data['note']
+        if 'note' in pass_data:
+            note = pass_data['note']
             if note and isinstance(note, str) and note.strip():
                 result['roadways_note'] = clean_text(note)
 
     except Exception as e:
-        logging.error(f"Error parsing roadways for {iso3Code}: {e}")
+        logger.error(f"Error parsing parse_roadways for {iso3Code}: {e}")
 
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    test_data = {
-        "total": {"text": "6,586,610 km"},
-        "paved": {"text": "4,304,715 km (includes 76,334 km of expressways)"},
-        "unpaved": {"text": "2,281,895 km (2012)"}
-    }
-    parsed = parse_roadways(test_data, "USA")
-    print(parsed)
+    print("="*60)
+    print("Testing parse_roadways")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_roadways(iso3)
+            if result:
+                for key, val in result.items():
+                    if key.endswith('_value'):
+                        unit_key = key.replace('_value', '_unit')
+                        unit = result.get(unit_key, '')
+                        print(f"  {key}: {val:,.0f} {unit}")
+                    elif not key.endswith(('_unit', '_year', '_is_estimate')):
+                        val_str = str(val)
+                        print(f"  {key}: {val_str[:80] if len(val_str) > 80 else val_str}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
