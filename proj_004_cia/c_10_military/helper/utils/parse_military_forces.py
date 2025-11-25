@@ -1,23 +1,18 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
-
-
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_military_forces(military_forces_data: dict, iso3Code: str = None) -> dict:
+def parse_military_forces(iso3Code: str) -> dict:
     """
-    Parses 'Military Forces' data, extracting details on branches, abbreviations, and associated notes.
+    Parse military forces data from CIA Military and Security section for a given country.
 
-    Parameters:
-        military_forces_data (dict): The 'Military Forces' section from the data.
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN')
 
     Returns:
         dict: A structured dictionary containing branches, abbreviations, metadata, and notes.
@@ -28,44 +23,73 @@ def parse_military_forces(military_forces_data: dict, iso3Code: str = None) -> d
         "military_note": []
     }
 
-    # Extract and parse the main text information
-    text = military_forces_data.get("text", "")
-    if text:
-        # Extract the year if present at the end
-        year_match = re.search(r"\((\d{4})\)$", text)
-        if year_match:
-            result["year"] = year_match.group(1)
-            # Remove the year part from the text
-            text = text[:year_match.start()].strip()
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-        # Split by <br><br> or semicolons for branch information
-        branches = re.split(r"(?:<br><br>|;)", text)
+    military_section = raw_data.get('Military and Security', {})
+    military_forces_data = military_section.get('Military and security forces', {})
 
-        # Process each branch chunk
-        for branch in branches:
-            branch_info = {
-                "branch": clean_text(branch).strip()
-            }
-            result["branches"].append(branch_info)
+    if not military_forces_data or not isinstance(military_forces_data, dict):
+        return result
 
-    # Parse and clean up notes, dividing by <br><br> and removing <strong> tags
-    note_text = military_forces_data.get("note", "")
-    if note_text:
-        notes = re.split(r"<br><br>", note_text)
-        for note in notes:
-            # Clean the HTML tags and strong tags, remove any numbering in strong tags
-            clean_note = re.sub(
-                r'<strong>note\s*\d*:\s*</strong>', '', note, flags=re.IGNORECASE)
-            result["military_note"].append(clean_text(clean_note))
+    try:
+        # Extract and parse the main text information
+        text = military_forces_data.get("text", "")
+        if text:
+            # Extract the year if present at the end
+            year_match = re.search(r"\((\d{4})\)$", text)
+            if year_match:
+                result["year"] = year_match.group(1)
+                # Remove the year part from the text
+                text = text[:year_match.start()].strip()
+
+            # Split by <br><br> or semicolons for branch information
+            branches = re.split(r"(?:<br><br>|;)", text)
+
+            # Process each branch chunk
+            for branch in branches:
+                branch_info = {
+                    "branch": clean_text(branch).strip()
+                }
+                result["branches"].append(branch_info)
+
+        # Parse and clean up notes, dividing by <br><br> and removing <strong> tags
+        note_text = military_forces_data.get("note", "")
+        if note_text:
+            notes = re.split(r"<br><br>", note_text)
+            for note in notes:
+                # Clean the HTML tags and strong tags, remove any numbering in strong tags
+                clean_note = re.sub(
+                    r'<strong>note\s*\d*:\s*</strong>', '', note, flags=re.IGNORECASE)
+                result["military_note"].append(clean_text(clean_note))
+
+    except Exception as e:
+        logger.error(f"Error parsing military forces for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    military_forces_data = {
-        "text": "United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2024)",
-        "note": "<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments<br><br><strong>note 4:</strong> the US has state defense forces (SDFs), which are military units that operate under the sole authority of state governments; SDFs are authorized by state and federal law and are under the command of the governor of each state; as of 2023, more than 20 states and the Commonwealth of Puerto Rico had SDFs, which typically have emergency management and homeland security missions; most are organized as ground units, but air and naval units also exist"
-    }
-    parsed_data = parse_military_forces(military_forces_data)
-    print(parsed_data)
+    print("=" * 60)
+    print("Testing parse_military_forces")
+    print("=" * 60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'DEU', 'GBR', 'FRA']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_military_forces(iso3)
+            if result.get('branches'):
+                print(f"  Branches: {len(result['branches'])}")
+                for b in result['branches'][:2]:
+                    branch = b.get('branch', '')[:60]
+                    print(f"    - {branch}...")
+            if result.get('year'):
+                print(f"  Year: {result['year']}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "=" * 60)
+    print("✓ Tests complete")

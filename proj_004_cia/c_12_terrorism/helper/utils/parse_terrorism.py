@@ -2,18 +2,18 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_00_transform_utils.parse_text_to_list import parse_text_to_list
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_terrorism(terror_data: dict, iso3Code: str = None) -> dict:
+def parse_terrorism(iso3Code: str) -> dict:
     """
-    Parses data related to terrorism, including terrorist groups and associated notes.
+    Parse terrorism data from CIA Terrorism section for a given country.
 
-    Parameters:
-        terror_data (dict): The dictionary containing terrorism data.
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'AFG')
 
     Returns:
         dict: A dictionary containing parsed information for terrorist groups and notes.
@@ -23,30 +23,54 @@ def parse_terrorism(terror_data: dict, iso3Code: str = None) -> dict:
         "terror_groups_note": ""
     }
 
-    # Handle 'text'
-    terror_text = terror_data.get("text", "")
-    if terror_text:
-        result["terror_groups"] = parse_text_to_list(terror_text)
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    # Handle 'note'
-    terror_note = terror_data.get("note", "")
-    if terror_note:
-        # Remove '<strong>note:</strong>' if present
-        clean_note = re.sub(r'<strong>note:</strong>\s*',
-                            '', terror_note, flags=re.IGNORECASE)
-        result["terror_groups_note"] = clean_text(clean_note)
+    terrorism_section = raw_data.get('Terrorism', {})
+    terror_data = terrorism_section.get('Terrorist group(s)', {})
+
+    if not terror_data or not isinstance(terror_data, dict):
+        return result
+
+    try:
+        # Handle 'text'
+        terror_text = terror_data.get("text", "")
+        if terror_text:
+            result["terror_groups"] = parse_text_to_list(terror_text)
+
+        # Handle 'note'
+        terror_note = terror_data.get("note", "")
+        if terror_note:
+            # Remove '<strong>note:</strong>' if present
+            clean_note = re.sub(r'<strong>note:</strong>\s*',
+                                '', terror_note, flags=re.IGNORECASE)
+            result["terror_groups_note"] = clean_text(clean_note)
+
+    except Exception as e:
+        logger.error(f"Error parsing terrorism for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # ['terror_groups', 'terror_groups_note']
-    # --------------------------------------------------------------------------------------------------
-    terror_data = {
-        "text": "Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida",
-        "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide"
-    }
-    parsed_data = parse_terrorism(terror_data)
-    print(parsed_data)
+    print("=" * 60)
+    print("Testing parse_terrorism")
+    print("=" * 60)
+    for iso3 in ['USA', 'AFG', 'IRQ', 'SYR', 'PAK', 'NGA']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_terrorism(iso3)
+            if result.get('terror_groups'):
+                groups = result['terror_groups']
+                print(f"  Groups: {len(groups)}")
+                for g in groups[:3]:
+                    print(f"    - {str(g)[:50]}...")
+            else:
+                print("  No terrorism data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "=" * 60)
+    print("✓ Tests complete")

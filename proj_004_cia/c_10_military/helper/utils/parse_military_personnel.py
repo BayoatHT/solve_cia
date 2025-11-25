@@ -4,23 +4,23 @@ Parse military personnel data from CIA World Factbook.
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_military_personnel(military_personnel_data: dict, iso3Code: str = None) -> dict:
+def parse_military_personnel(iso3Code: str) -> dict:
     """
-    Parses the 'military personnel' data extracting numeric values for each branch.
+    Parse military personnel data from CIA Military and Security section.
 
-    Parameters:
-        military_personnel_data (dict): Dictionary containing the 'text' field with personnel data.
-        iso3Code (str): Country ISO3 code
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN')
 
     Returns:
         dict: Structured dictionary with personnel counts by branch.
 
     Example:
-        Input: "approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy...)"
         Output: {
             'personnel_total_value': 1310000,
             'personnel_year': 2024,
@@ -33,12 +33,24 @@ def parse_military_personnel(military_personnel_data: dict, iso3Code: str = None
     """
     result = {}
 
-    # Extract and clean text
-    text = military_personnel_data.get("text", "")
-    if not text:
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    military_section = raw_data.get('Military and Security', {})
+    military_personnel_data = military_section.get('Military and security service personnel strengths', {})
+
+    if not military_personnel_data or not isinstance(military_personnel_data, dict):
         return result
 
     try:
+        # Extract and clean text
+        text = military_personnel_data.get("text", "")
+        if not text:
+            return result
+
         # Store original text
         result['personnel_text'] = clean_text(text)
 
@@ -110,15 +122,29 @@ def parse_military_personnel(military_personnel_data: dict, iso3Code: str = None
                 result['personnel_note'] = clean_text(note)
 
     except Exception as e:
-        logging.error(f"Error parsing military_personnel for {iso3Code}: {e}")
+        logger.error(f"Error parsing military_personnel for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    military_personnel_data = {
-        "text": "approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy; 317,000 Air Force; 9,000 Space Force; 167,000 Marine Corps; 40,000 Coast Guard); 330,000 Army National Guard; 105,000 Air National Guard (2024)"
-    }
-    parsed_data = parse_military_personnel(military_personnel_data)
-    print(parsed_data)
+    print("=" * 60)
+    print("Testing parse_military_personnel")
+    print("=" * 60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'IND', 'FRA', 'GBR']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_military_personnel(iso3)
+            if result.get('personnel_total_value'):
+                total = result['personnel_total_value']
+                year = result.get('personnel_year', '')
+                print(f"  Total: {total:,} ({year})")
+                if result.get('personnel_branches'):
+                    for b in result['personnel_branches'][:3]:
+                        print(f"    {b['branch']}: {b['value']:,}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "=" * 60)
+    print("✓ Tests complete")

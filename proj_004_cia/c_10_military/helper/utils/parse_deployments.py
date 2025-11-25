@@ -2,18 +2,18 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_00_transform_utils.parse_text_to_list import parse_text_to_list
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_deployments(deployments_data: dict, iso3Code: str = None) -> dict:
+def parse_deployments(iso3Code: str) -> dict:
     """
-    Parses data related to military deployments, including details and associated notes.
+    Parse military deployments data from CIA Military and Security section.
 
-    Parameters:
-        deployments_data (dict): The dictionary containing deployment data.
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN')
 
     Returns:
         dict: A dictionary containing parsed information for military deployments and notes.
@@ -23,27 +23,53 @@ def parse_deployments(deployments_data: dict, iso3Code: str = None) -> dict:
         "mil_deploy_note": ""
     }
 
-    # Handle 'text'
-    deploy_text = deployments_data.get("text", "")
-    if deploy_text:
-        result["mil_deploy"] = parse_text_to_list(deploy_text)
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    # Handle 'note'
-    deploy_note = deployments_data.get("note", "")
-    if deploy_note:
-        clean_note = re.sub(r'<strong>note:</strong>\s*',
-                            '', deploy_note, flags=re.IGNORECASE)
-        result["mil_deploy_note"] = clean_text(clean_note)
+    military_section = raw_data.get('Military and Security', {})
+    deployments_data = military_section.get('Military deployments', {})
+
+    if not deployments_data or not isinstance(deployments_data, dict):
+        return result
+
+    try:
+        # Handle 'text'
+        deploy_text = deployments_data.get("text", "")
+        if deploy_text:
+            result["mil_deploy"] = parse_text_to_list(deploy_text)
+
+        # Handle 'note'
+        deploy_note = deployments_data.get("note", "")
+        if deploy_note:
+            clean_note = re.sub(r'<strong>note:</strong>\s*',
+                                '', deploy_note, flags=re.IGNORECASE)
+            result["mil_deploy_note"] = clean_text(clean_note)
+
+    except Exception as e:
+        logger.error(f"Error parsing deployments for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # ['mil_deploy', 'mil_deploy_note']
-    deployments_data = {
-        "text": "the US has more than 200,000 air, ground, and naval personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis; key areas of deployment include approximately 5,000 in Africa, approximately 100,000 in Europe, approximately 10-15,000 in Southwest Asia, and more than 80,000 in East Asia (2024)",
-        "note": ""
-    }
-    parsed_data = parse_deployments(deployments_data)
-    print(parsed_data)
+    print("=" * 60)
+    print("Testing parse_deployments")
+    print("=" * 60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'FRA', 'GBR', 'DEU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_deployments(iso3)
+            if result.get('mil_deploy'):
+                deploy = result['mil_deploy']
+                print(f"  Deployment entries: {len(deploy)}")
+                if deploy:
+                    print(f"    First: {str(deploy[0])[:60]}...")
+            else:
+                print("  No deployment data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "=" * 60)
+    print("✓ Tests complete")

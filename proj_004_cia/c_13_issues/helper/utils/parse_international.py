@@ -2,18 +2,18 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_00_transform_utils.parse_text_to_list import parse_text_to_list
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_international(international_data: dict, iso3Code: str = None) -> dict:
+def parse_international(iso3Code: str) -> dict:
     """
-    Parses data related to international disputes, including the main text and any associated note.
+    Parse international disputes data from CIA Transnational Issues section.
 
-    Parameters:
-        international_data (dict): The dictionary containing international disputes data.
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN')
 
     Returns:
         dict: A dictionary containing parsed information for international disputes and notes.
@@ -23,27 +23,51 @@ def parse_international(international_data: dict, iso3Code: str = None) -> dict:
         "international_note": ""
     }
 
-    # Handle main 'text'
-    international_text = international_data.get("text", "")
-    if international_text:
-        result["international"] = parse_text_to_list(international_text)
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
 
-    # Handle 'note'
-    international_note = international_data.get("note", "")
-    if international_note:
-        result["international_note"] = clean_text(international_note)
+    issues_section = raw_data.get('Transnational Issues', {})
+    international_data = issues_section.get('Disputes - international', {})
+
+    if not international_data or not isinstance(international_data, dict):
+        return result
+
+    try:
+        # Handle main 'text'
+        international_text = international_data.get("text", "")
+        if international_text:
+            result["international"] = parse_text_to_list(international_text)
+
+        # Handle 'note'
+        international_note = international_data.get("note", "")
+        if international_note:
+            result["international_note"] = clean_text(international_note)
+
+    except Exception as e:
+        logger.error(f"Error parsing international for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # NOTE: 1 >>> 'Disputes - international'
-    # >>> ['disputes_international', 'disputes_international_note']
-    # --------------------------------------------------------------------------------------------------
-    international_data = {
-        "text": "++ many neighboring states reject Moroccan administration of Western Sahara; several states have extended diplomatic relations to the \"Sahrawi Arab Democratic Republic\" represented by the Polisario Front in exile in Algeria, while others support Morocco's proposal to grant the territory autonomy as part of Morocco, although no state recognizes Moroccan sovereignty over Western Sahara; an estimated 100,000 Sahrawi refugees continue to be sheltered in camps in Tindouf, Algeria, which has hosted Sahrawi refugees since the 1980s",
-        "note": ""
-    }
-    parsed_data = parse_international(international_data)
-    print(parsed_data)
+    print("=" * 60)
+    print("Testing parse_international")
+    print("=" * 60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'IND', 'JPN', 'ISR']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_international(iso3)
+            if result.get('international'):
+                disputes = result['international']
+                print(f"  Disputes: {len(disputes)}")
+                if disputes:
+                    print(f"    First: {str(disputes[0])[:50]}...")
+            else:
+                print("  No international disputes data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "=" * 60)
+    print("✓ Tests complete")
