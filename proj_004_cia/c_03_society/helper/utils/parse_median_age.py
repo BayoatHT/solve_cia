@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_median_age(median_data: dict, iso3Code: str = None) -> dict:
+def parse_median_age(median_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse median age data from CIA World Factbook format.
 
@@ -34,6 +34,9 @@ def parse_median_age(median_data: dict, iso3Code: str = None) -> dict:
             "median_age_note": ""
         }
     """
+    if return_original:
+        return median_data
+
     result = {
         "median_age": {
             "total": {"value": None, "timestamp": None, "is_estimate": False},
@@ -52,8 +55,11 @@ def parse_median_age(median_data: dict, iso3Code: str = None) -> dict:
         r'([\d.]+)\s*years?\s*(?:\((\d{4})\s*(est\.?)?\))?'
     )
 
-    def parse_field(field_data: dict) -> dict:
+    def parse_field(field_data: dict, return_original: bool = False)-> dict:
         """Parse a single field (total, male, or female)."""
+        if return_original:
+            return field_data
+
         parsed = {"value": None, "timestamp": None, "is_estimate": False}
 
         if not isinstance(field_data, dict):

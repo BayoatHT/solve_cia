@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_labor_force_by_occupation(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses labor force data by occupation, extracting percentage and year if available.
 
@@ -20,6 +20,9 @@ def parse_labor_force_by_occupation(
     Returns:
         dict: A dictionary with parsed data for labor force by occupation and year.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     for key, value in test_data.items():

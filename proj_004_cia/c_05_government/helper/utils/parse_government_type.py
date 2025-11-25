@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_government_type(iso3Code: str) -> dict:
+def parse_government_type(iso3Code: str, return_original: bool = False)-> dict:
     """Parse government type data from CIA Government section for a given country."""
     result = {}
 
@@ -21,6 +21,10 @@ def parse_government_type(iso3Code: str) -> dict:
 
     government_section = raw_data.get('Government', {})
     test_data = government_section.get('Government type', {})
+
+    if return_original:
+        return test_data
+
 
     if not test_data or not isinstance(test_data, dict):
         return result

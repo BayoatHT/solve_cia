@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_gini(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses Gini Index data, including values, years, and notes if available.
 
@@ -20,6 +20,9 @@ def parse_gini(
     Returns:
         dict: A dictionary with parsed Gini Index data.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Parse each Gini Index entry

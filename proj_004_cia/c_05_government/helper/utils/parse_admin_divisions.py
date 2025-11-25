@@ -184,8 +184,11 @@ def extract_divisions_from_text(text: str, iso3Code: str = None) -> List[str]:
     return cleaned_divisions
 
 
-def parse_html_categorized_divisions(text: str) -> Dict[str, Any]:
+def parse_html_categorized_divisions(text: str, return_original: bool = False)-> Dict[str, Any]:
     """Parse HTML-formatted categorized administrative divisions"""
+    if return_original:
+        return text
+
     categories = {}
 
     # Remove outer <p> tags first
@@ -266,8 +269,11 @@ def extract_territorial_info(text: str) -> Dict[str, Any]:
     return info
 
 
-def parse_special_cases(text: str, iso3Code: str) -> Dict[str, Any]:
+def parse_special_cases(text: str, iso3Code: str, return_original: bool = False)-> Dict[str, Any]:
     """Handle special cases for specific countries"""
+    if return_original:
+        return text
+
 
     # Special handling for territories with "none" but actual divisions
     none_with_divisions_codes = ['ASM', 'MNP', 'PRI', 'VIR']
@@ -353,7 +359,7 @@ def parse_special_cases(text: str, iso3Code: str) -> Dict[str, Any]:
     return None
 
 
-def parse_admin_divisions(iso3Code: str) -> dict:
+def parse_admin_divisions(iso3Code: str, return_original: bool = False)-> dict:
     """
     Enhanced parser for administrative divisions from CIA JSON data
 
@@ -380,6 +386,10 @@ def parse_admin_divisions(iso3Code: str) -> dict:
 
     government_section = raw_data.get('Government', {})
     test_data = government_section.get('Administrative divisions', {})
+
+    if return_original:
+        return test_data
+
 
     # Handle empty input
     if not isinstance(test_data, dict) or not test_data:

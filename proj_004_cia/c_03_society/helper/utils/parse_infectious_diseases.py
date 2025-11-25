@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_infectious_diseases(disease_data: dict, iso3Code: str = None) -> dict:
+def parse_infectious_diseases(disease_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse major infectious diseases from CIA World Factbook format.
 
@@ -21,6 +21,9 @@ def parse_infectious_diseases(disease_data: dict, iso3Code: str = None) -> dict:
         ...
     }
     """
+    if return_original:
+        return disease_data
+
     result = {
         "infectious_diseases": {
             "degree_of_risk": None,

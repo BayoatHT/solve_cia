@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_space(iso3Code: str) -> dict:
+def parse_space(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse space program data from CIA Space section for a given country.
 

@@ -7,7 +7,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_coal(iso3Code: str) -> dict:
+def parse_coal(iso3Code: str, return_original: bool = False)-> dict:
     """Parse coal data from CIA Energy section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_coal(iso3Code: str) -> dict:
 
     energy_section = raw_data.get('Energy', {})
     coal_data = energy_section.get('Coal', {})
+
+    if return_original:
+        return coal_data
+
 
     if not coal_data or not isinstance(coal_data, dict):
         return result

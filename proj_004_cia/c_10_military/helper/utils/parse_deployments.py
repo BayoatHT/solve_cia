@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_deployments(iso3Code: str) -> dict:
+def parse_deployments(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse military deployments data from CIA Military and Security section.
 
@@ -31,6 +31,10 @@ def parse_deployments(iso3Code: str) -> dict:
 
     military_section = raw_data.get('Military and Security', {})
     deployments_data = military_section.get('Military deployments', {})
+
+    if return_original:
+        return deployments_data
+
 
     if not deployments_data or not isinstance(deployments_data, dict):
         return result

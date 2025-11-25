@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_citizenship(iso3Code: str) -> dict:
+def parse_citizenship(iso3Code: str, return_original: bool = False)-> dict:
     """Parse citizenship data from CIA Government section for a given country."""
     result = {}
 
@@ -21,6 +21,10 @@ def parse_citizenship(iso3Code: str) -> dict:
 
     government_section = raw_data.get('Government', {})
     test_data = government_section.get('Citizenship', {})
+
+    if return_original:
+        return test_data
+
 
     if not test_data or not isinstance(test_data, dict):
         return result

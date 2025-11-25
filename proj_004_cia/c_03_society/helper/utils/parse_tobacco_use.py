@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_tobacco_use(tobacco_data: dict, iso3Code: str = None) -> dict:
+def parse_tobacco_use(tobacco_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse tobacco use data from CIA World Factbook format.
 
@@ -20,6 +20,9 @@ def parse_tobacco_use(tobacco_data: dict, iso3Code: str = None) -> dict:
         "female": {"text": "22.9% (2020 est.)"}
     }
     """
+    if return_original:
+        return tobacco_data
+
     result = {
         "tobacco_use": {
             "total": None,

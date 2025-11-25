@@ -11,7 +11,7 @@ from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 def parse_geographic_coordinates(
     coordinates_data: dict,
     iso3Code: str = None
-):
+, return_original: bool = False):
     """
     Parses the 'Geographic coordinates' data.
 
@@ -22,6 +22,9 @@ def parse_geographic_coordinates(
     Returns:
         dict or None: A dictionary mapping regions to their coordinates, or None if parsing fails.
     """
+    if return_original:
+        return coordinates_data
+
     try:
         text = coordinates_data.get('text', '')
         if not text:

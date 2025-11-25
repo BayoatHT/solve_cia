@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_natural_hazards(iso3Code: str) -> dict:
+def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse natural hazards data from CIA World Factbook for a given country.
 
@@ -55,6 +55,10 @@ def parse_natural_hazards(iso3Code: str) -> dict:
     # Navigate to Geography -> Natural hazards
     geography_section = raw_data.get('Geography', {})
     natural_hazards_data = geography_section.get('Natural hazards', {})
+
+    if return_original:
+        return natural_hazards_data
+
 
     if not natural_hazards_data or not isinstance(natural_hazards_data, dict):
         return result

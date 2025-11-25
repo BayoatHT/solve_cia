@@ -6,7 +6,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_wonders_of_the_world(wonders_data: dict, iso3Code: str = None) -> dict:
+def parse_wonders_of_the_world(wonders_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Wonders of the World' data.
 
@@ -16,6 +16,9 @@ def parse_wonders_of_the_world(wonders_data: dict, iso3Code: str = None) -> dict
     Returns:
         dict: A dictionary containing parsed details of the wonders, categorized by type.
     """
+    if return_original:
+        return wonders_data
+
     result = {}
 
     for category, data in wonders_data.items():

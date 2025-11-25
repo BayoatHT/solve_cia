@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_public_debt(iso3Code: str) -> dict:
+def parse_public_debt(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse public debt data from CIA World Factbook for a given country.
 
@@ -54,6 +54,10 @@ def parse_public_debt(iso3Code: str) -> dict:
     # Navigate to Economy -> Public debt
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Public debt', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

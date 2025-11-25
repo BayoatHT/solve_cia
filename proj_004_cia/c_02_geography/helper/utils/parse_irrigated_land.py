@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.WARNING,
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_irrigated_land(irrigated_land_data: dict, iso3Code: str = None) -> dict:
+def parse_irrigated_land(irrigated_land_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Irrigated land' data.
 
@@ -24,6 +24,9 @@ def parse_irrigated_land(irrigated_land_data: dict, iso3Code: str = None) -> dic
     Returns:
         dict: A dictionary containing parsed irrigated land details, including area, unit, and estimated year.
     """
+    if return_original:
+        return irrigated_land_data
+
     result = {}
 
     # Extract the text content

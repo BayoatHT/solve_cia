@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_languages(iso3Code: str) -> dict:
+def parse_languages(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse languages data from CIA World Factbook for a given country.
 
@@ -64,6 +64,10 @@ def parse_languages(iso3Code: str) -> dict:
     # Navigate to People and Society -> Languages
     society_section = raw_data.get('People and Society', {})
     languages_data = society_section.get('Languages', {})
+
+    if return_original:
+        return languages_data
+
 
     if not languages_data or not isinstance(languages_data, dict):
         return result
@@ -180,7 +184,10 @@ def parse_languages(iso3Code: str) -> dict:
 
         return parts
 
-    def parse_language_entry(entry: str) -> Optional[dict]:
+    def parse_language_entry(entry: str, return_original: bool = False)-> Optional[dict]:
+        if return_original:
+            return entry
+
         entry = entry.strip()
         if not entry:
             return None

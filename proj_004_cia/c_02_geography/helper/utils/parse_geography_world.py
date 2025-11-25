@@ -10,10 +10,13 @@ from bs4 import BeautifulSoup
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_ranking_list(text: str, pattern: str) -> List[Dict[str, Any]]:
+def parse_ranking_list(text: str, pattern: str, return_original: bool = False)-> List[Dict[str, Any]]:
     """
     Parse a ranking list like 'Name (location) 1,234 sq km' into structured data.
     """
+    if return_original:
+        return text
+
     results = []
     # Pattern to match: Name (location) number unit
     item_pattern = re.compile(
@@ -39,7 +42,7 @@ def parse_ranking_list(text: str, pattern: str) -> List[Dict[str, Any]]:
     return results
 
 
-def parse_geography_world(geo_data: dict, iso3Code: str = None) -> dict:
+def parse_geography_world(geo_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse World-level geography data with detailed value extraction.
 
@@ -54,6 +57,9 @@ def parse_geography_world(geo_data: dict, iso3Code: str = None) -> dict:
             - irrigated_land_total_sq_km: int
             - countries_without_rivers: list
     """
+    if return_original:
+        return geo_data
+
     result = {}
 
     # Parse "Area - rankings"

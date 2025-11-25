@@ -20,7 +20,7 @@ KEY_MAPPING = {
 def parse_gdp_composition_by_end_use(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses GDP composition by end use data including values, dates, and notes.
 
@@ -30,6 +30,9 @@ def parse_gdp_composition_by_end_use(
     Returns:
         dict: A dictionary with parsed GDP composition data by end use.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Handle each GDP composition category

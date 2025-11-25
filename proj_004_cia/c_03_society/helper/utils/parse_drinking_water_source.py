@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_drinking_water_source(water_data: dict, iso3Code: str = None) -> dict:
+def parse_drinking_water_source(water_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse drinking water source data from CIA World Factbook format.
 
     Handles nested structure with improved/unimproved and urban/rural/total.
     """
+    if return_original:
+        return water_data
+
     result = {
         "drinking_water_source": {
             "improved_urban": None,

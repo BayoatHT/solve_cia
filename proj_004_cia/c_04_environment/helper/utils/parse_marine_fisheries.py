@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_marine_fisheries(iso3Code: str) -> dict:
+def parse_marine_fisheries(iso3Code: str, return_original: bool = False)-> dict:
     """Parse marine fisheries from CIA Environment section for a given country."""
     result = {
         "marine_fisheries": {
@@ -29,6 +29,10 @@ def parse_marine_fisheries(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     fisheries_data = environment_section.get('Marine fisheries', {})
+
+    if return_original:
+        return fisheries_data
+
 
     if not fisheries_data or not isinstance(fisheries_data, dict):
         return result

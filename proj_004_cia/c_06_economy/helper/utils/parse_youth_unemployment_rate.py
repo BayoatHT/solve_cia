@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_youth_unemployment_rate(iso3Code: str) -> dict:
+def parse_youth_unemployment_rate(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse youth unemployment rate data from CIA World Factbook for a given country.
 
@@ -51,6 +51,10 @@ def parse_youth_unemployment_rate(iso3Code: str) -> dict:
     # Navigate to Economy -> Youth unemployment rate (ages 15-24)
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Youth unemployment rate (ages 15-24)', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

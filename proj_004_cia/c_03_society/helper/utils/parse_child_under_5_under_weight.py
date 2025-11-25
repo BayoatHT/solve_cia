@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_child_under_5_under_weight(child_data: dict, iso3Code: str = None) -> dict:
+def parse_child_under_5_under_weight(child_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse children under 5 underweight data from CIA World Factbook format.
 
@@ -19,6 +19,9 @@ def parse_child_under_5_under_weight(child_data: dict, iso3Code: str = None) -> 
     3. With estimate: "10.2% (2020 est.)"
     4. NA values
     """
+    if return_original:
+        return child_data
+
     result = {
         "children_under_5_underweight": {
             "value": None,

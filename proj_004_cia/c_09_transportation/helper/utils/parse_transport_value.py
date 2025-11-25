@@ -9,7 +9,7 @@ from typing import Dict, Any, List, Optional
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_transport_value(text: str) -> Dict[str, Any]:
+def parse_transport_value(text: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse transportation value text into structured components.
 
@@ -33,6 +33,9 @@ def parse_transport_value(text: str) -> Dict[str, Any]:
         >>> parse_transport_value("41,009 km (2012)")
         {'value': 41009.0, 'unit': 'km', 'year': 2012, 'is_estimate': False}
     """
+    if return_original:
+        return text
+
     result = {
         'value': None,
         'raw_value': None,
@@ -108,7 +111,7 @@ def parse_transport_value(text: str) -> Dict[str, Any]:
     return result
 
 
-def parse_pipeline_text(text: str) -> List[Dict[str, Any]]:
+def parse_pipeline_text(text: str, return_original: bool = False)-> List[Dict[str, Any]]:
     """
     Parse pipeline text with multiple segments.
 
@@ -125,6 +128,9 @@ def parse_pipeline_text(text: str) -> List[Dict[str, Any]]:
             {'value': 27.0, 'unit': 'km', 'type': 'refined products'}
         ]
     """
+    if return_original:
+        return text
+
     pipelines = []
 
     if not text or not isinstance(text, str):
@@ -172,7 +178,7 @@ def parse_pipeline_text(text: str) -> List[Dict[str, Any]]:
     return pipelines
 
 
-def parse_subfield_value(data: dict, subfield: str) -> Dict[str, Any]:
+def parse_subfield_value(data: dict, subfield: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse a subfield from transportation data.
 
@@ -183,6 +189,9 @@ def parse_subfield_value(data: dict, subfield: str) -> Dict[str, Any]:
     Returns:
         Parsed value dict
     """
+    if return_original:
+        return data
+
     if not data or subfield not in data:
         return {}
 

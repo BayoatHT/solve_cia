@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_religions(iso3Code: str) -> dict:
+def parse_religions(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse religions data from CIA World Factbook for a given country.
 
@@ -60,6 +60,10 @@ def parse_religions(iso3Code: str) -> dict:
     # Navigate to People and Society -> Religions
     society_section = raw_data.get('People and Society', {})
     religion_data = society_section.get('Religions', {})
+
+    if return_original:
+        return religion_data
+
 
     if not religion_data or not isinstance(religion_data, dict):
         return result
@@ -146,8 +150,11 @@ def parse_religions(iso3Code: str) -> dict:
 
         return parts
 
-    def parse_religion_entry(entry: str) -> Optional[dict]:
+    def parse_religion_entry(entry: str, return_original: bool = False)-> Optional[dict]:
         """Parse a single religion entry."""
+        if return_original:
+            return entry
+
         entry = entry.strip()
         if not entry:
             return None

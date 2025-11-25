@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_industrial_production(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the industrial production growth rate data into a structured format.
 
@@ -20,6 +20,9 @@ def parse_industrial_production(
     Returns:
         dict: A dictionary containing the growth rate, year, and any associated note.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Process the "text" field

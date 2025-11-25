@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.WARNING,
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_land_use(land_use_data: dict, iso3Code: str = None) -> dict:
+def parse_land_use(land_use_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Land use' data.
 
@@ -24,6 +24,9 @@ def parse_land_use(land_use_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing parsed land use details, including percentage, unit, and estimated year.
     """
+    if return_original:
+        return land_use_data
+
     result = {}
 
     for key, value in land_use_data.items():

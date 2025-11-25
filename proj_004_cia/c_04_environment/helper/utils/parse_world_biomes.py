@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_world_biomes(iso3Code: str) -> dict:
+def parse_world_biomes(iso3Code: str, return_original: bool = False)-> dict:
     """Parse world biomes from CIA Environment section (primarily for World entity)."""
     result = {
         "world_biomes": {
@@ -31,6 +31,10 @@ def parse_world_biomes(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     biomes_data = environment_section.get('World biomes', {})
+
+    if return_original:
+        return biomes_data
+
 
     if not biomes_data or not isinstance(biomes_data, dict):
         return result

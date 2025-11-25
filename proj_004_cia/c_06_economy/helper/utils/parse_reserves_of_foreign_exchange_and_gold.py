@@ -11,7 +11,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_reserves_of_foreign_exchange_and_gold(iso3Code: str) -> Dict[str, Any]:
+def parse_reserves_of_foreign_exchange_and_gold(iso3Code: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse reserves of foreign exchange and gold data from CIA World Factbook for a given country.
 
@@ -55,6 +55,10 @@ def parse_reserves_of_foreign_exchange_and_gold(iso3Code: str) -> Dict[str, Any]
     # Navigate to Economy -> Reserves of foreign exchange and gold
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Reserves of foreign exchange and gold', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

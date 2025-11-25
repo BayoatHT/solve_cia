@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_fertility_rate(fertility_data: dict, iso3Code: str = None) -> dict:
+def parse_fertility_rate(fertility_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse total fertility rate data from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_fertility_rate(fertility_data: dict, iso3Code: str = None) -> dict:
             "fertility_rate_note": ""
         }
     """
+    if return_original:
+        return fertility_data
+
     result = {
         "fertility_rate": {
             "value": None,

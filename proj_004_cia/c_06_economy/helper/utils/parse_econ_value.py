@@ -9,7 +9,7 @@ from typing import Dict, Any, Optional
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_econ_value(text: str) -> Dict[str, Any]:
+def parse_econ_value(text: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse economy value text into structured components.
 
@@ -38,6 +38,9 @@ def parse_econ_value(text: str) -> Dict[str, Any]:
             'text': '4.941 billion metric tonnes of CO2 (2022 est.)'
         }
     """
+    if return_original:
+        return text
+
     result = {
         'value': None,
         'raw_value': None,

@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_international(iso3Code: str) -> dict:
+def parse_international(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse international disputes data from CIA Transnational Issues section.
 
@@ -31,6 +31,10 @@ def parse_international(iso3Code: str) -> dict:
 
     issues_section = raw_data.get('Transnational Issues', {})
     international_data = issues_section.get('Disputes - international', {})
+
+    if return_original:
+        return international_data
+
 
     if not international_data or not isinstance(international_data, dict):
         return result

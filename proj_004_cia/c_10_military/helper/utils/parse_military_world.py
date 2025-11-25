@@ -11,7 +11,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_military_world(iso3Code: str = 'WLD') -> dict:
+def parse_military_world(iso3Code: str = 'WLD', return_original: bool = False)-> dict:
     """
     Parse World-level military data with detailed value extraction.
 

@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None) -> dict:
+def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse life expectancy at birth data from CIA World Factbook format.
 
@@ -36,6 +36,9 @@ def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None) -> dic
             "life_expectancy_note": ""
         }
     """
+    if return_original:
+        return life_data
+
     result = {
         "life_expectancy": {
             "total": {"value": None, "timestamp": None, "is_estimate": False},
@@ -55,8 +58,11 @@ def parse_life_expectancy_at_birth(life_data: dict, iso3Code: str = None) -> dic
     PATTERN1 = re.compile(r'([\d.]+)\s*years?\s*(?:\((\d{4})\s*(est\.?)?\))?')
     PATTERN2 = re.compile(r'\((\d{4})\s*est\.\)\s*([\d.]+)\s*years?')
 
-    def parse_field(field_data: dict) -> dict:
+    def parse_field(field_data: dict, return_original: bool = False)-> dict:
         """Parse a single field (total population, male, or female)."""
+        if return_original:
+            return field_data
+
         parsed = {"value": None, "timestamp": None, "is_estimate": False}
 
         if not isinstance(field_data, dict):

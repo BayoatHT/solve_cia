@@ -18,7 +18,7 @@ KEY_MAPPING = {
 def parse_gdp_composition_sector_of_origin(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses GDP composition by sector of origin data including values, dates, and notes.
 
@@ -28,6 +28,9 @@ def parse_gdp_composition_sector_of_origin(
     Returns:
         dict: A dictionary with parsed GDP composition data by sector.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Handle each GDP composition sector

@@ -14,7 +14,7 @@ logging.basicConfig(level='WARNING',
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_major_rivers(major_rivers_data: dict, iso3Code: str = None) -> dict:
+def parse_major_rivers(major_rivers_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Major rivers' data for world ('WLD') specifically.
 
@@ -24,6 +24,9 @@ def parse_major_rivers(major_rivers_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing parsed major rivers details, categorized by river details and specific notes.
     """
+    if return_original:
+        return major_rivers_data
+
     result = {
         "major_rivers": [],
         "notes": []
@@ -86,7 +89,7 @@ def parse_major_rivers(major_rivers_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-def parse_wld_major_rivers(major_rivers_data: dict) -> dict:
+def parse_wld_major_rivers(major_rivers_data: dict, return_original: bool = False)-> dict:
     """
     Parses the 'Major rivers' data for world ('WLD') specifically.
 
@@ -96,6 +99,9 @@ def parse_wld_major_rivers(major_rivers_data: dict) -> dict:
     Returns:
         dict: A dictionary containing parsed major rivers details, categorized by river details and specific notes.
     """
+    if return_original:
+        return major_rivers_data
+
     result = {
         "top_ten_longest_rivers": [],
         "notes": []

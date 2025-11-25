@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_population_growth(pop_growth_data: dict, iso3Code: str = None) -> dict:
+def parse_population_growth(pop_growth_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse population growth rate data from CIA World Factbook format.
 
@@ -34,6 +34,9 @@ def parse_population_growth(pop_growth_data: dict, iso3Code: str = None) -> dict
             "population_growth_rate_note": ""
         }
     """
+    if return_original:
+        return pop_growth_data
+
     result = {
         "population_growth_rate": {
             "value": None,

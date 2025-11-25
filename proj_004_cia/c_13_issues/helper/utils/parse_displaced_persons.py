@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_displaced_persons(iso3Code: str) -> dict:
+def parse_displaced_persons(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse displaced persons data from CIA Transnational Issues section.
 
@@ -38,6 +38,10 @@ def parse_displaced_persons(iso3Code: str) -> dict:
 
     issues_section = raw_data.get('Transnational Issues', {})
     displaced_data = issues_section.get('Refugees and internally displaced persons', {})
+
+    if return_original:
+        return displaced_data
+
 
     if not displaced_data or not isinstance(displaced_data, dict):
         return result

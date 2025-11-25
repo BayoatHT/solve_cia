@@ -11,7 +11,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_space_world(iso3Code: str = 'WLD') -> dict:
+def parse_space_world(iso3Code: str = 'WLD', return_original: bool = False)-> dict:
     """
     Parse World-level space data with detailed value extraction.
 

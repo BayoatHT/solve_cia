@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_industrial_production(iso3Code: str) -> Dict[str, Any]:
+def parse_industrial_production(iso3Code: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse industrial production growth rate data from CIA World Factbook for a given country.
 
@@ -50,6 +50,10 @@ def parse_industrial_production(iso3Code: str) -> Dict[str, Any]:
     # Navigate to Economy -> Industrial production growth rate
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Industrial production growth rate', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

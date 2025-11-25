@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_youth_unemployment_rate(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses youth unemployment data for total, male, and female categories, extracting
     the unemployment percentage and year, and processing notes if available.
@@ -21,6 +21,9 @@ def parse_youth_unemployment_rate(
     Returns:
         dict: A dictionary with parsed youth unemployment data.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Define keys to process

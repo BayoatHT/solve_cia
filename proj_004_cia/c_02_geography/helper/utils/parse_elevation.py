@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.WARNING,
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_elevation(elevation_data: dict, iso3Code: str = None) -> dict:
+def parse_elevation(elevation_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Elevation' data for a given country.
 
@@ -24,6 +24,9 @@ def parse_elevation(elevation_data: dict, iso3Code: str = None) -> dict:
         dict: A dictionary containing elevation details including highest point, lowest point, 
               mean elevation, and any additional notes.
     """
+    if return_original:
+        return elevation_data
+
     result = {}
 
     # Parse highest point
@@ -96,7 +99,7 @@ def parse_elevation(elevation_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-def parse_wld_elevation(elevation_data: dict, iso3Code: str) -> dict:
+def parse_wld_elevation(elevation_data: dict, iso3Code: str, return_original: bool = False)-> dict:
     """
     Parses the 'Elevation' data for world ('WLD') specifically.
 
@@ -108,6 +111,9 @@ def parse_wld_elevation(elevation_data: dict, iso3Code: str) -> dict:
         dict: A dictionary containing elevation details, including highest point, lowest point,
               mean elevation, and detailed world-specific notes.
     """
+    if return_original:
+        return elevation_data
+
     result = {}
 
     # Parse highest point

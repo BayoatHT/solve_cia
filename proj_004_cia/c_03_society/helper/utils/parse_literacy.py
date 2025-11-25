@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_literacy(literacy_data: dict, iso3Code: str = None) -> dict:
+def parse_literacy(literacy_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse literacy rate data from CIA World Factbook format.
 
@@ -28,6 +28,9 @@ def parse_literacy(literacy_data: dict, iso3Code: str = None) -> dict:
     Returns:
         Dictionary with structured literacy data
     """
+    if return_original:
+        return literacy_data
+
     result = {
         "literacy": {
             "definition": None,

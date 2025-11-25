@@ -8,7 +8,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_terrorism(iso3Code: str) -> dict:
+def parse_terrorism(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse terrorism data from CIA Terrorism section for a given country.
 
@@ -31,6 +31,10 @@ def parse_terrorism(iso3Code: str) -> dict:
 
     terrorism_section = raw_data.get('Terrorism', {})
     terror_data = terrorism_section.get('Terrorist group(s)', {})
+
+    if return_original:
+        return terror_data
+
 
     if not terror_data or not isinstance(terror_data, dict):
         return result

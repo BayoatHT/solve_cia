@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_taxes_and_other_revenues(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the taxes and other revenues data, extracting the percentage, year, and any associated notes.
 
@@ -20,6 +20,9 @@ def parse_taxes_and_other_revenues(
     Returns:
         dict: A dictionary with parsed data for taxes and other revenues.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Process 'text' field for percentage and year

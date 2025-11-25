@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_unemployment_rate(iso3Code: str) -> dict:
+def parse_unemployment_rate(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse unemployment rate data from CIA World Factbook for a given country.
 
@@ -54,6 +54,10 @@ def parse_unemployment_rate(iso3Code: str) -> dict:
     # Navigate to Economy -> Unemployment rate
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Unemployment rate', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

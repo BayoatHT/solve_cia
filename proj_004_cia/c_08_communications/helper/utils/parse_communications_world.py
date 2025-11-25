@@ -11,7 +11,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_communications_world(iso3Code: str) -> dict:
+def parse_communications_world(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse World-level communications data for a given country.
 

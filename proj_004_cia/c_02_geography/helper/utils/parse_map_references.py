@@ -8,7 +8,7 @@ from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 # ------------------------------------------------------------------------------------------------------------------
 
 
-def parse_map_references(map_ref_data: dict, isoCode: str = None):
+def parse_map_references(map_ref_data: dict, isoCode: str = None, return_original: bool = False):
     """
     Parses the 'Map references' data.
 
@@ -19,6 +19,9 @@ def parse_map_references(map_ref_data: dict, isoCode: str = None):
     Returns:
         dict or None: A dictionary mapping regions to their map references, or None if parsing fails.
     """
+    if return_original:
+        return map_ref_data
+
     try:
         text = map_ref_data.get('text', '')
         if not text:

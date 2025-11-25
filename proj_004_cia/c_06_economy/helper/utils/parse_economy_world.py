@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_economy_world(econ_data: dict, iso3Code: str = None) -> dict:
+def parse_economy_world(econ_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse World-level economy data with detailed value extraction.
 
@@ -23,6 +23,9 @@ def parse_economy_world(econ_data: dict, iso3Code: str = None) -> dict:
             - top_agricultural_products: list
             - industrial_production_growth_rate: float
     """
+    if return_original:
+        return econ_data
+
     result = {}
 
     # Parse "GDP (official exchange rate)"

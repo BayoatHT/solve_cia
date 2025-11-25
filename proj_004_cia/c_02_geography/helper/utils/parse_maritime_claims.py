@@ -6,7 +6,7 @@ logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def parse_maritime_claims(maritime_claims_data: dict, iso3Code: str = None) -> dict:
+def parse_maritime_claims(maritime_claims_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Maritime claims' data for a country.
 
@@ -17,6 +17,9 @@ def parse_maritime_claims(maritime_claims_data: dict, iso3Code: str = None) -> d
     Returns:
         dict: A dictionary containing parsed details of maritime claims.
     """
+    if return_original:
+        return maritime_claims_data
+
     # Check for cases like "none (landlocked)"
     if "text" in maritime_claims_data:
         status_text = maritime_claims_data["text"].strip().lower()
@@ -64,7 +67,7 @@ def parse_maritime_claims(maritime_claims_data: dict, iso3Code: str = None) -> d
     return result
 
 
-def parse_wld_maritime_claims(maritime_claims_data: dict) -> dict:
+def parse_wld_maritime_claims(maritime_claims_data: dict, return_original: bool = False)-> dict:
     """
     Parses the 'Maritime claims' data for a country.
 
@@ -74,6 +77,9 @@ def parse_wld_maritime_claims(maritime_claims_data: dict) -> dict:
     Returns:
         dict: A dictionary containing parsed details of maritime claims.
     """
+    if return_original:
+        return maritime_claims_data
+
     result = {
         "general_claims": [],
         "additional_zones": [],

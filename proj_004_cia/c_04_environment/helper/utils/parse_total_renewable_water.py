@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_total_renewable_water(iso3Code: str) -> dict:
+def parse_total_renewable_water(iso3Code: str, return_original: bool = False)-> dict:
     """Parse total renewable water resources from CIA Environment section for a given country."""
     result = {
         "renewable_water": {
@@ -27,6 +27,10 @@ def parse_total_renewable_water(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     water_data = environment_section.get('Total renewable water resources', {})
+
+    if return_original:
+        return water_data
+
 
     if not water_data or not isinstance(water_data, dict):
         return result

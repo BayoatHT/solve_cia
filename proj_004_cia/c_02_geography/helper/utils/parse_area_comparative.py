@@ -8,7 +8,7 @@ import logging
 
 
 
-def parse_area_comparative(area_comparative_data: dict, iso3Code: str=None) -> str:
+def parse_area_comparative(area_comparative_data: dict, iso3Code: str=None, return_original: bool = False)-> str:
     
     """
     Parses the 'Area - comparative' data into a cleaned string.
@@ -20,6 +20,9 @@ def parse_area_comparative(area_comparative_data: dict, iso3Code: str=None) -> s
     Returns:
         str: A cleaned string representing the comparative area information.
     """
+    if return_original:
+        return area_comparative_data
+
     try:
         text = area_comparative_data.get('text', '')
         if not text:

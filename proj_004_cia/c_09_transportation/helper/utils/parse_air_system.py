@@ -7,7 +7,7 @@ from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def parse_air_system(iso3Code: str) -> dict:
+def parse_air_system(iso3Code: str, return_original: bool = False)-> dict:
     """Parse national air transport system from CIA Transportation section for a given country."""
     result = {}
     try:
@@ -18,6 +18,10 @@ def parse_air_system(iso3Code: str) -> dict:
 
     transport_section = raw_data.get('Transportation', {})
     air_system_data = transport_section.get('National air transport system', {})
+
+    if return_original:
+        return air_system_data
+
 
     if not air_system_data:
         return result

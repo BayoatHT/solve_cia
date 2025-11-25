@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_health_expenditure(health_data: dict, iso3Code: str = None) -> dict:
+def parse_health_expenditure(health_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse health expenditure data from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_health_expenditure(health_data: dict, iso3Code: str = None) -> dict:
             "health_expenditure_note": ""
         }
     """
+    if return_original:
+        return health_data
+
     result = {
         "health_expenditure": {
             "value": None,

@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.WARNING,
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_major_lakes(major_lakes_data: dict, iso3Code: str = None) -> dict:
+def parse_major_lakes(major_lakes_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses the 'Major lakes' data.
 
@@ -24,6 +24,9 @@ def parse_major_lakes(major_lakes_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A dictionary containing parsed major lakes details, categorized by fresh and salt water lakes.
     """
+    if return_original:
+        return major_lakes_data
+
     result = {}
 
     for lake_type, lake_data in major_lakes_data.items():
@@ -95,7 +98,7 @@ def parse_major_lakes(major_lakes_data: dict, iso3Code: str = None) -> dict:
     return result
 
 
-def parse_wld_major_lakes(major_lakes_data: dict) -> dict:
+def parse_wld_major_lakes(major_lakes_data: dict, return_original: bool = False)-> dict:
     """
     Parses the 'Major lakes' data for world ('WLD') specifically.
 
@@ -105,6 +108,9 @@ def parse_wld_major_lakes(major_lakes_data: dict) -> dict:
     Returns:
         dict: A dictionary containing parsed major lakes details, categorized by natural lakes and specific notes.
     """
+    if return_original:
+        return major_lakes_data
+
     result = {
         "top_ten_largest_natural_lakes": [],
         "notes": {}

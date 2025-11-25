@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_military_note(iso3Code: str) -> dict:
+def parse_military_note(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse military note data from CIA Military and Security section.
 
@@ -27,6 +27,10 @@ def parse_military_note(iso3Code: str) -> dict:
 
     military_section = raw_data.get('Military and Security', {})
     military_note_data = military_section.get('Military - note', {})
+
+    if return_original:
+        return military_note_data
+
 
     if not military_note_data or not isinstance(military_note_data, dict):
         return result

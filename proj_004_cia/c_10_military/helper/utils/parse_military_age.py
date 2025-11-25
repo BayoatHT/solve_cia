@@ -27,7 +27,7 @@ def split_notes(note_text: str) -> list:
     return cleaned_notes
 
 
-def parse_military_age(iso3Code: str) -> dict:
+def parse_military_age(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse military age and service obligation data from CIA Military and Security section.
 
@@ -50,6 +50,10 @@ def parse_military_age(iso3Code: str) -> dict:
 
     military_section = raw_data.get('Military and Security', {})
     military_age_data = military_section.get('Military service age and obligation', {})
+
+    if return_original:
+        return military_age_data
+
 
     if not military_age_data or not isinstance(military_age_data, dict):
         return result

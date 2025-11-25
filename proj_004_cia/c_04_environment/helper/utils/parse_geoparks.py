@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_geoparks(iso3Code: str) -> dict:
+def parse_geoparks(iso3Code: str, return_original: bool = False)-> dict:
     """Parse geoparks from CIA Environment section for a given country."""
     result = {
         "geoparks": {
@@ -26,6 +26,10 @@ def parse_geoparks(iso3Code: str) -> dict:
 
     environment_section = raw_data.get('Environment', {})
     geoparks_data = environment_section.get('Geoparks', {})
+
+    if return_original:
+        return geoparks_data
+
 
     if not geoparks_data or not isinstance(geoparks_data, dict):
         return result

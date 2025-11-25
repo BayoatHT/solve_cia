@@ -7,7 +7,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 # --------------------------------------------------------------------------------------------------------
 
 
-def parse_credit_ratings(test_data: dict, iso3Code: str = None) -> dict:
+def parse_credit_ratings(test_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parses credit ratings data into a structured nested dictionary format.
 
@@ -17,6 +17,9 @@ def parse_credit_ratings(test_data: dict, iso3Code: str = None) -> dict:
     Returns:
         dict: A nested dictionary with parsed credit ratings information.
     """
+    if return_original:
+        return test_data
+
     result = {
         "credit_ratings_note": "",
         "credit_fitch_rating": {},
@@ -28,7 +31,10 @@ def parse_credit_ratings(test_data: dict, iso3Code: str = None) -> dict:
     result["credit_ratings_note"] = clean_text(test_data.get("note", ""))
 
     # Helper function to parse rating and year from text
-    def parse_rating(text: str) -> dict:
+    def parse_rating(text: str, return_original: bool = False)-> dict:
+        if return_original:
+            return text
+
         match = re.match(r"([A-Za-z+]+)\s*\((\d{4})\)", text)
         if match:
             return {

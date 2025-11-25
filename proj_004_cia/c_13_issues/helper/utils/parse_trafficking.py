@@ -27,7 +27,7 @@ country_to_iso3 = {
 }
 
 
-def parse_trafficking(iso3Code: str) -> dict:
+def parse_trafficking(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse trafficking in persons data from CIA Transnational Issues section.
 
@@ -49,6 +49,10 @@ def parse_trafficking(iso3Code: str) -> dict:
 
     issues_section = raw_data.get('Transnational Issues', {})
     traffick_data = issues_section.get('Trafficking in persons', {})
+
+    if return_original:
+        return traffick_data
+
 
     if not traffick_data or not isinstance(traffick_data, dict):
         return result

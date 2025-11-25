@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_unemployment_rate(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses the unemployment rate data, extracting values and years for each entry and handling notes.
 
@@ -20,6 +20,9 @@ def parse_unemployment_rate(
     Returns:
         dict: A dictionary with parsed unemployment rate data by year and any associated notes.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     # Process each key in test_data

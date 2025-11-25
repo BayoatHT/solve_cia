@@ -7,7 +7,7 @@ logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(mes
 logger = logging.getLogger(__name__)
 
 
-def parse_illicit_drugs(iso3Code: str) -> dict:
+def parse_illicit_drugs(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse illicit drugs data from CIA Transnational Issues section for a given country.
 
@@ -34,6 +34,10 @@ def parse_illicit_drugs(iso3Code: str) -> dict:
 
     issues_section = raw_data.get('Transnational Issues', {})
     drugs_data = issues_section.get('Illicit drugs', {})
+
+    if return_original:
+        return drugs_data
+
 
     if not drugs_data or not isinstance(drugs_data, dict):
         return result

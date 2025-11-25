@@ -31,7 +31,7 @@ COUNTRY_TO_ISO3 = {
 }
 
 
-def parse_issues_world(iso3Code: str = 'WLD') -> dict:
+def parse_issues_world(iso3Code: str = 'WLD', return_original: bool = False)-> dict:
     """
     Parse World-level transnational issues data with detailed value extraction.
 

@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_physician_density(doctor_data: dict, iso3Code: str = None) -> dict:
+def parse_physician_density(doctor_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse physician density from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_physician_density(doctor_data: dict, iso3Code: str = None) -> dict:
             "physician_density_note": ""
         }
     """
+    if return_original:
+        return doctor_data
+
     result = {
         "physician_density": {
             "value": None,

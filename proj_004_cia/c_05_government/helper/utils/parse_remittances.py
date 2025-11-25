@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_remittances(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses remittance data, extracting the percentage of GDP and year from each entry.
 
@@ -20,6 +20,9 @@ def parse_remittances(
     Returns:
         dict: A dictionary with parsed data for remittances by year and additional notes.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     for key, value in test_data.items():

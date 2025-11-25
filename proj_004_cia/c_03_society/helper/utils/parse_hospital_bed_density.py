@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_hospital_bed_density(hospital_data: dict, iso3Code: str = None) -> dict:
+def parse_hospital_bed_density(hospital_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse hospital bed density from CIA World Factbook format.
 
@@ -33,6 +33,9 @@ def parse_hospital_bed_density(hospital_data: dict, iso3Code: str = None) -> dic
             "hospital_bed_density_note": ""
         }
     """
+    if return_original:
+        return hospital_data
+
     result = {
         "hospital_bed_density": {
             "value": None,

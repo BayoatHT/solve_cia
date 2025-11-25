@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_reserves_of_foreign_exchange_and_gold(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses reserves of foreign exchange and gold data, extracting the value, unit, and year.
 
@@ -20,6 +20,9 @@ def parse_reserves_of_foreign_exchange_and_gold(
     Returns:
         dict: A dictionary with parsed data for reserves of foreign exchange and gold.
     """
+    if return_original:
+        return test_data
+
     result = {}
 
     for key, value in test_data.items():

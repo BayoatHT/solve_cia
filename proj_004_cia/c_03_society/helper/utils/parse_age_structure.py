@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_age_structure(age_structure_data: dict, iso3Code: str = None) -> dict:
+def parse_age_structure(age_structure_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse age structure data from CIA World Factbook format.
 
@@ -36,6 +36,9 @@ def parse_age_structure(age_structure_data: dict, iso3Code: str = None) -> dict:
             "age_structure_note": ""
         }
     """
+    if return_original:
+        return age_structure_data
+
     result = {
         "age_structure": [],
         "age_structure_note": ""
@@ -85,8 +88,11 @@ def parse_age_structure(age_structure_data: dict, iso3Code: str = None) -> dict:
         r'^([\d.]+)%$'
     )
 
-    def parse_count(count_str: str) -> Optional[int]:
+    def parse_count(count_str: str, return_original: bool = False)-> Optional[int]:
         """Convert comma-separated number string to integer."""
+        if return_original:
+            return count_str
+
         if not count_str:
             return None
         try:
@@ -94,8 +100,11 @@ def parse_age_structure(age_structure_data: dict, iso3Code: str = None) -> dict:
         except (ValueError, AttributeError):
             return None
 
-    def parse_bracket(bracket_key: str, bracket_data: dict) -> Optional[dict]:
+    def parse_bracket(bracket_key: str, bracket_data: dict, return_original: bool = False)-> Optional[dict]:
         """Parse a single age bracket."""
+        if return_original:
+            return bracket_key
+
         if not isinstance(bracket_data, dict):
             return None
 

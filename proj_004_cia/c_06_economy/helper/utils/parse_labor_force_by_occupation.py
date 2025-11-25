@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_labor_force_by_occupation(iso3Code: str) -> Dict[str, Any]:
+def parse_labor_force_by_occupation(iso3Code: str, return_original: bool = False)-> Dict[str, Any]:
     """
     Parse labor force by occupation data from CIA World Factbook for a given country.
 
@@ -51,6 +51,10 @@ def parse_labor_force_by_occupation(iso3Code: str) -> Dict[str, Any]:
     # Navigate to Economy -> Labor force - by occupation
     economy_section = raw_data.get('Economy', {})
     pass_data = economy_section.get('Labor force - by occupation', {})
+
+    if return_original:
+        return pass_data
+
 
     if not pass_data or not isinstance(pass_data, dict):
         return result

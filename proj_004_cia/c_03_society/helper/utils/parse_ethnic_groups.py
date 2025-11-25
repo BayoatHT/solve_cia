@@ -10,7 +10,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_ethnic_groups(iso3Code: str) -> dict:
+def parse_ethnic_groups(iso3Code: str, return_original: bool = False)-> dict:
     """
     Parse ethnic groups data from CIA World Factbook for a given country.
 
@@ -60,6 +60,10 @@ def parse_ethnic_groups(iso3Code: str) -> dict:
     # Navigate to People and Society -> Ethnic groups
     society_section = raw_data.get('People and Society', {})
     ethnic_data = society_section.get('Ethnic groups', {})
+
+    if return_original:
+        return ethnic_data
+
 
     if not ethnic_data or not isinstance(ethnic_data, dict):
         return result
@@ -143,7 +147,10 @@ def parse_ethnic_groups(iso3Code: str) -> dict:
 
         return parts
 
-    def parse_group_entry(entry: str) -> Optional[dict]:
+    def parse_group_entry(entry: str, return_original: bool = False)-> Optional[dict]:
+        if return_original:
+            return entry
+
         entry = entry.strip()
         if not entry:
             return None

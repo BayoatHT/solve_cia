@@ -10,7 +10,7 @@ from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect
 def parse_agricultural_products(
     test_data: dict,
     iso3Code: str = None
-) -> dict:
+, return_original: bool = False)-> dict:
     """
     Parses agricultural products information, extracting date, products, and note (if available).
 
@@ -20,6 +20,9 @@ def parse_agricultural_products(
     Returns:
         dict: Parsed agricultural products with keys `date`, `agricultural_products`, and `agricultural_products_note`.
     """
+    if return_original:
+        return test_data
+
     result = {
         "agricultural_products": [],
         "date": "",

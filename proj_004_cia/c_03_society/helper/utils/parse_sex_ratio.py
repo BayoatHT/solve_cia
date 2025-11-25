@@ -9,7 +9,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_sex_ratio(sex_data: dict, iso3Code: str = None) -> dict:
+def parse_sex_ratio(sex_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse sex ratio data from CIA World Factbook format.
 
@@ -29,6 +29,9 @@ def parse_sex_ratio(sex_data: dict, iso3Code: str = None) -> dict:
     Returns:
         Dictionary with structured sex ratio data
     """
+    if return_original:
+        return sex_data
+
     result = {
         "sex_ratio": {
             "at_birth": None,

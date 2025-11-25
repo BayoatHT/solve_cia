@@ -9,12 +9,15 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_demographic_profile(demo_data: dict, iso3Code: str = None) -> dict:
+def parse_demographic_profile(demo_data: dict, iso3Code: str = None, return_original: bool = False)-> dict:
     """
     Parse demographic profile text from CIA World Factbook format.
 
     This is a descriptive text field - we preserve it as-is.
     """
+    if return_original:
+        return demo_data
+
     result = {
         "demographic_profile": {
             "description": None
