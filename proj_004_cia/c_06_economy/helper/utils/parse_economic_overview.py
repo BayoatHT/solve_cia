@@ -1,36 +1,87 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_economic_overview(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_economic_overview(iso3Code: str) -> dict:
     """
+    Parse economic overview data from CIA World Factbook for a given country.
 
+    This parser extracts economic overview text information.
+
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
+
+    Returns:
+        Dictionary with economic overview text:
+        {
+            "economic_overview": str
+        }
+
+    Examples:
+        >>> data = parse_economic_overview('USA')
+        >>> 'economic_overview' in data
+        True
+
+        >>> data = parse_economic_overview('CHN')
+        >>> len(data.get('economic_overview', '')) > 0
+        True
     """
-    result = ""
+    result = {}
 
-    # Clean the text value and store it in the result dictionary
-    result = clean_text(pass_data.get("text", ""))
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to Economy -> Economic overview
+    economy_section = raw_data.get('Economy', {})
+    pass_data = economy_section.get('Economic overview', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
+    try:
+        # Clean the text value and store it in the result dictionary
+        text = pass_data.get("text", "")
+        if text:
+            result['economic_overview'] = clean_text(text)
+    except Exception as e:
+        logger.error(f"Error parsing economic_overview for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # NOTE: 10 >>> 'Economic overview'
-    # --------------------------------------------------------------------------------------------------
-    # "note" - 'economic_overview_note'
-    # "text" - 'economic_overview'
-    # --------------------------------------------------------------------------------------------------
-    # ['economic_overview', 'economic_overview_note']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    pass_data = {
-        "text": "Western Sahara has a small market-based economy whose main industries are fishing, phosphate mining, tourism, and pastoral nomadism. The territory's arid desert climate makes sedentary agriculture difficult, and much of its food is imported. The Moroccan Government administers Western Sahara's economy and is a key source of employment, infrastructure development, and social spending in the territory. ++ Western Sahara's unresolved legal status makes the exploitation of its natural resources a contentious issue between Morocco and the Polisario. Morocco and the EU in December 2013 finalized a four-year agreement allowing European vessels to fish off the coast of Morocco, including disputed waters off the coast of Western Sahara. As of April 2018, Moroccan and EU authorities were negotiating an amendment to renew the agreement. ++ Oil has never been found in Western Sahara in commercially significant quantities, but Morocco and the Polisario have quarreled over rights to authorize and benefit from oil exploration in the territory. Western Sahara's main long-term economic challenge is the development of a more diverse set of industries capable of providing greater employment and income to the territory. However, following King MOHAMMED VI's November 2015 visit to Western Sahara, the Government of Morocco announced a series of investments aimed at spurring economic activity in the region, while the General Confederation of Moroccan Enterprises announced a $609 million investment initiative in the region in March 2015."
-    }
-    parsed_data = parse_economic_overview(pass_data)
-    print(parsed_data)
+    """Test parse_economic_overview with real country data."""
+    print("="*60)
+    print("Testing parse_economic_overview across countries")
+    print("="*60)
+
+    test_countries = ['USA', 'CHN', 'IND', 'BRA', 'DEU', 'WLD']
+
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_economic_overview(iso3)
+
+            if result.get('economic_overview'):
+                overview = result['economic_overview']
+                # Show first 150 characters
+                print(f"  Economic Overview: {overview[:150]}...")
+            else:
+                print("  No economic overview data found")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")
