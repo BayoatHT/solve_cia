@@ -1,24 +1,64 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_budget(pass_data: dict, iso3Code: str = None) -> dict:
+def parse_budget(iso3Code: str) -> dict:
     """
-    Parses budget data for expenditures and revenues, capturing value, unit, and date.
+    Parse budget data from CIA World Factbook for a given country.
 
-    Parameters:
-        pass_data (dict): The dictionary containing budget data.
+    This parser extracts government budget information including:
+    - Revenues (value, year)
+    - Expenditures (value, year)
+    - Handles multiple numeric formats (trillion, billion, million)
+    - Fiscal year notation support
+
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
 
     Returns:
-        dict: A dictionary with keys `budget_expenditures` and `budget_revenues` containing
-              dictionaries with `value`, `unit`, and `date`.
+        Dictionary with structured budget data:
+        {
+            "budget_revenues": {"value": float, "unit": "$", "date": str},
+            "budget_expenditures": {"value": float, "unit": "$", "date": str}
+        }
+
+    Examples:
+        >>> data = parse_budget('USA')
+        >>> data['budget_revenues']['value'] > 0
+        True
+
+        >>> data = parse_budget('IND')
+        >>> 'date' in data['budget_revenues']
+        True
     """
     result = {}
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return {
+            "budget_revenues": {"value": None, "unit": "$", "date": ""},
+            "budget_expenditures": {"value": None, "unit": "$", "date": ""}
+        }
+
+    # Navigate to Economy -> Budget
+    economy_section = raw_data.get('Economy', {})
+    pass_data = economy_section.get('Budget', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return {
+            "budget_revenues": {"value": None, "unit": "$", "date": ""},
+            "budget_expenditures": {"value": None, "unit": "$", "date": ""}
+        }
 
     # Define mapping for keys
     budget_keys = {
@@ -80,33 +120,58 @@ def parse_budget(pass_data: dict, iso3Code: str = None) -> dict:
             result[result_key]["date"] = year
             continue
 
-        # If we couldn't parse, set to None and log warning
+        # Pattern 5: Just the raw value without year
+        match = re.match(r"\$([\d,.]+)\s+(trillion|billion|million)", item)
+        if match:
+            value_str = match.group(1).replace(",", "")
+            unit = match.group(2)
+            multipliers = {"trillion": 1e12, "billion": 1e9, "million": 1e6}
+            result[result_key]["value"] = float(value_str) * multipliers.get(unit, 1)
+            continue
+
+        # If no pattern matches, log warning
         if item:
-            result[result_key]["value"] = None
-            result[result_key]["note"] = f"Unparsed: {item}"
-            logging.debug(f"Could not parse budget {key}: {item}")
+            logger.warning(f"Could not parse budget item for {iso3Code}: {item[:50]}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # NOTE: 4 >>> 'Budget'
-    # --------------------------------------------------------------------------------------------------
-    # "expenditures" - 'budget_expenditures'
-    # "note" - 'budget_note'
-    # "revenues" - 'budget_revenues'
-    # --------------------------------------------------------------------------------------------------
-    # ['budget_expenditures', 'budget_note', 'budget_revenues']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    pass_data = {
-        "revenues": {
-            "text": "$6.429 trillion (2019 est.)"
-        },
-        "expenditures": {
-            "text": "$7.647 trillion (2019 est.)"
-        }
-    }
-    parsed_data = parse_budget(pass_data)
-    print(parsed_data)
+    """Test parse_budget with real country data."""
+    print("="*60)
+    print("Testing parse_budget across countries")
+    print("="*60)
+
+    test_countries = ['USA', 'CHN', 'IND', 'BRA', 'DEU', 'WLD']
+
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_budget(iso3)
+
+            for key in ['budget_revenues', 'budget_expenditures']:
+                data = result.get(key, {})
+                value = data.get('value')
+                date = data.get('date', '')
+
+                if value is not None:
+                    # Format large numbers
+                    if value >= 1e12:
+                        display = f"${value/1e12:.2f}T"
+                    elif value >= 1e9:
+                        display = f"${value/1e9:.2f}B"
+                    elif value >= 1e6:
+                        display = f"${value/1e6:.2f}M"
+                    else:
+                        display = f"${value:,.0f}"
+
+                    year_str = f" ({date})" if date else ""
+                    print(f"  {key}: {display}{year_str}")
+                else:
+                    print(f"  {key}: N/A")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")

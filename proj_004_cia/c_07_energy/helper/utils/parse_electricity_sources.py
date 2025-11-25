@@ -2,125 +2,61 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_electricity_sources(electricity_sources_data: dict) -> dict:
-    """Parse electricity sources from CIA Energy section with separated value components."""
+def parse_electricity_sources(iso3Code: str) -> dict:
+    """Parse Electricity generation sources from CIA Energy section for a given country."""
     result = {}
-    if not electricity_sources_data or not isinstance(electricity_sources_data, dict):
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
         return result
+
+    energy_section = raw_data.get('Energy', {})
+    pass_data = energy_section.get('Electricity generation sources', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
     try:
-        field_mappings = {
-            'fossil fuels': 'elec_fossil',
-            'nuclear': 'elec_nuclear',
-            'solar': 'elec_solar',
-            'wind': 'elec_wind',
-            'hydroelectricity': 'elec_hydro',
-            'geothermal': 'elec_geothermal',
-            'biomass and waste': 'elec_biomass',
-            'tide and wave': 'elec_tide_wave'
-        }
-        for cia_key, output_prefix in field_mappings.items():
-            if cia_key in electricity_sources_data:
-                field_data = electricity_sources_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        parsed = parse_energy_value(text)
-                        if parsed['value'] is not None:
-                            result[f'{output_prefix}_value'] = parsed['value']
-                        if parsed['unit']:
-                            result[f'{output_prefix}_unit'] = parsed['unit']
-                        if parsed['year']:
-                            result[f'{output_prefix}_year'] = parsed['year']
-                        if parsed['is_estimate']:
-                            result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
-        if 'note' in electricity_sources_data:
-            note_data = electricity_sources_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['electricity_sources_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['electricity_sources_note'] = clean_text(note_data)
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                parsed = parse_energy_value(text)
+                if parsed['value'] is not None:
+                    result['elec_gen_sources_value'] = parsed['value']
+                if parsed['unit']:
+                    result['elec_gen_sources_unit'] = parsed['unit']
+                if parsed['year']:
+                    result['elec_gen_sources_year'] = parsed['year']
+                if parsed['is_estimate']:
+                    result['elec_gen_sources_is_estimate'] = parsed['is_estimate']
     except Exception as e:
-        logging.error(f"Error parsing electricity_sources: {e}")
-    return result
-    try:
-        field_mappings = {
-            'fossil fuels': 'electricity_generation_fossil_fuels',
-            'nuclear': 'electricity_generation_nuclear',
-            'solar': 'electricity_generation_solar',
-            'wind': 'electricity_generation_wind',
-            'hydroelectricity': 'electricity_generation_hydroelectricity',
-            'geothermal': 'electricity_generation_geothermal',
-            'biomass and waste': 'electricity_generation_biomass_waste',
-            'tide and wave': 'electricity_generation_tide_wave',
-        }
-        for cia_key, output_key in field_mappings.items():
-            if cia_key in electricity_sources_data:
-                field_data = electricity_sources_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        result[output_key] = clean_text(text)
-        if 'note' in electricity_sources_data:
-            note_data = electricity_sources_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['electricity_generation_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['electricity_generation_note'] = clean_text(note_data)
-    except Exception as e:
-        logging.error(f"Error parsing electricity_sources: {e}")
+        logger.error(f"Error parsing parse_electricity_sources for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "biomass and waste" - 'electricity_generation_biomass_waste'
-    # "fossil fuels" - 'electricity_generation_fossil_fuels'
-    # "geothermal" - 'electricity_generation_geothermal'
-    # "hydroelectricity" - 'electricity_generation_hydroelectricity'
-    # "note" - 'electricity_generation_note'
-    # "nuclear" - 'electricity_generation_nuclear'
-    # "solar" - 'electricity_generation_solar'
-    # "tide and wave" - 'electricity_generation_tide_wave'
-    # "wind" - 'electricity_generation_wind'
-    # --------------------------------------------------------------------------------------------------
-    # ['electricity_generation_biomass_waste', 'electricity_generation_fossil_fuels',
-    # 'electricity_generation_geothermal', 'electricity_generation_hydroelectricity',
-    # 'electricity_generation_note', 'electricity_generation_nuclear', 'electricity_generation_solar',
-    # 'electricity_generation_tide_wave', 'electricity_generation_wind']
-    # --------------------------------------------------------------------------------------------------
-    electricity_sources_data = {
-        "fossil fuels": {
-            "text": "59.5% of total installed capacity (2022 est.)"
-        },
-        "nuclear": {
-            "text": "18% of total installed capacity (2022 est.)"
-        },
-        "solar": {
-            "text": "4.8% of total installed capacity (2022 est.)"
-        },
-        "wind": {
-            "text": "10.1% of total installed capacity (2022 est.)"
-        },
-        "hydroelectricity": {
-            "text": "5.8% of total installed capacity (2022 est.)"
-        },
-        "geothermal": {
-            "text": "0.4% of total installed capacity (2022 est.)"
-        },
-        "biomass and waste": {
-            "text": "1.5% of total installed capacity (2022 est.)"
-        }
-    }
-    parsed_data = parse_electricity_sources(electricity_sources_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_electricity_sources")
+    print("="*60)
+    for iso3 in ['CHN', 'USA', 'IND', 'RUS', 'JPN', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_electricity_sources(iso3)
+            if result:
+                value = result.get('elec_gen_sources_value')
+                unit = result.get('elec_gen_sources_unit', '')
+                year = result.get('elec_gen_sources_year', 'N/A')
+                if value:
+                    print(f"  Value: {value:,.0f} {unit} ({year})")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

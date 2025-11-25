@@ -2,15 +2,23 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_carbon_dioxide_emissions(carbon_data: dict) -> dict:
-    """Parse carbon dioxide emissions from CIA Energy section with separated value components."""
+def parse_carbon_dioxide_emissions(iso3Code: str) -> dict:
+    """Parse carbon dioxide emissions from CIA Energy section for a given country."""
     result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    energy_section = raw_data.get('Energy', {})
+    carbon_data = energy_section.get('Carbon dioxide emissions', {})
+
     if not carbon_data or not isinstance(carbon_data, dict):
         return result
     try:
@@ -44,38 +52,34 @@ def parse_carbon_dioxide_emissions(carbon_data: dict) -> dict:
             elif isinstance(note_data, str) and note_data.strip():
                 result['carbon_note'] = clean_text(note_data)
     except Exception as e:
-        logging.error(f"Error parsing carbon_dioxide_emissions: {e}")
+        logger.error(f"Error parsing carbon_dioxide_emissions for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "from coal and metallurgical coke" - 'carbon_coal_metallurgical_coke'
-    # "from consumed natural gas" - 'carbon_consumed_natural_gas'
-    # "from petroleum and other liquids" - 'carbon_petroleum_other_liquids'
-    # "note" - 'carbon_note'
-    # "total emissions" - 'carbon_total_emissions'
-    # --------------------------------------------------------------------------------------------------
-    # ['carbon_coal_metallurgical_coke', 'carbon_consumed_natural_gas',
-    # 'carbon_petroleum_other_liquids', 'carbon_note', 'carbon_total_emissions']
-    # --------------------------------------------------------------------------------------------------
-    carbon_data = {
-        "total emissions": {
-            "text": "4.941 billion metric tonnes of CO2 (2022 est.)"
-        },
-        "from coal and metallurgical coke": {
-            "text": "938.649 million metric tonnes of CO2 (2022 est.)"
-        },
-        "from petroleum and other liquids": {
-            "text": "2.26 billion metric tonnes of CO2 (2022 est.)"
-        },
-        "from consumed natural gas": {
-            "text": "1.742 billion metric tonnes of CO2 (2022 est.)"
-        },
-        "note": {
-            "text": ""
-        }
-    }
-    parsed_data = parse_carbon_dioxide_emissions(carbon_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_carbon_dioxide_emissions")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'IND', 'DEU', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_carbon_dioxide_emissions(iso3)
+            if result:
+                total = result.get('carbon_total_value')
+                coal = result.get('carbon_coal_value')
+                petroleum = result.get('carbon_petroleum_value')
+                gas = result.get('carbon_natural_gas_value')
+                if total:
+                    print(f"  Total: {total:,.0f} {result.get('carbon_total_unit', '')}")
+                if coal:
+                    print(f"  Coal: {coal:,.0f} {result.get('carbon_coal_unit', '')}")
+                if petroleum:
+                    print(f"  Petroleum: {petroleum:,.0f} {result.get('carbon_petroleum_unit', '')}")
+                if gas:
+                    print(f"  Natural gas: {gas:,.0f} {result.get('carbon_natural_gas_unit', '')}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

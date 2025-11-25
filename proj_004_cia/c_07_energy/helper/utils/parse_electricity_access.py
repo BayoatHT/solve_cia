@@ -2,98 +2,61 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_07_energy.helper.utils.parse_energy_value import parse_energy_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_electricity_access(electricity_data: dict) -> dict:
-    """Parse electricity access from CIA Energy section with separated value components."""
+def parse_electricity_access(iso3Code: str) -> dict:
+    """Parse Electricity access from CIA Energy section for a given country."""
     result = {}
-    if not electricity_data or not isinstance(electricity_data, dict):
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
         return result
+
+    energy_section = raw_data.get('Energy', {})
+    pass_data = energy_section.get('Electricity access', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
     try:
-        field_mappings = {
-            'electrification - total population': 'elec_access_total',
-            'electrification - urban areas': 'elec_access_urban',
-            'electrification - rural areas': 'elec_access_rural'
-        }
-        for cia_key, output_prefix in field_mappings.items():
-            if cia_key in electricity_data:
-                field_data = electricity_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        parsed = parse_energy_value(text)
-                        if parsed['value'] is not None:
-                            result[f'{output_prefix}_value'] = parsed['value']
-                        if parsed['unit']:
-                            result[f'{output_prefix}_unit'] = parsed['unit']
-                        if parsed['year']:
-                            result[f'{output_prefix}_year'] = parsed['year']
-                        if parsed['is_estimate']:
-                            result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
-        if 'note' in electricity_data:
-            note_data = electricity_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['electricity_access_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['electricity_access_note'] = clean_text(note_data)
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                parsed = parse_energy_value(text)
+                if parsed['value'] is not None:
+                    result['elec_access_value'] = parsed['value']
+                if parsed['unit']:
+                    result['elec_access_unit'] = parsed['unit']
+                if parsed['year']:
+                    result['elec_access_year'] = parsed['year']
+                if parsed['is_estimate']:
+                    result['elec_access_is_estimate'] = parsed['is_estimate']
     except Exception as e:
-        logging.error(f"Error parsing electricity_access: {e}")
-    return result
-    try:
-        field_mappings = {
-            'electrification - total population': 'electricity_access_total_population',
-            'electrification - urban areas': 'electricity_access_urban_areas',
-            'electrification - rural areas': 'electricity_access_rural_areas',
-        }
-        for cia_key, output_key in field_mappings.items():
-            if cia_key in electricity_data:
-                field_data = electricity_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        result[output_key] = clean_text(text)
-        if 'note' in electricity_data:
-            note_data = electricity_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['electricity_access_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['electricity_access_note'] = clean_text(note_data)
-    except Exception as e:
-        logging.error(f"Error parsing electricity_access: {e}")
+        logger.error(f"Error parsing parse_electricity_access for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "electrification - rural areas" - 'electricity_access_rural_areas'
-    # "electrification - total population" - 'electricity_access_total_population'
-    # "electrification - urban areas" - 'electricity_access_urban_areas'
-    # "note" - 'electricity_access_note'
-    # --------------------------------------------------------------------------------------------------
-    # ['electricity_access_rural_areas', 'electricity_access_total_population',
-    # 'electricity_access_urban_areas', 'electricity_access_note']
-    electricity_data = {
-        "electrification - total population": {
-            "text": "100% (2022 est.)"
-        },
-        "electrification - urban areas": {
-            "text": "100%"
-        },
-        "electrification - rural areas": {
-            "text": "99.3%"
-        },
-        "note": {
-            "text": ""
-        }
-    }
-    parsed_data = parse_electricity_access(electricity_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_electricity_access")
+    print("="*60)
+    for iso3 in ['IND', 'NGA', 'PAK', 'ETH', 'COD', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_electricity_access(iso3)
+            if result:
+                value = result.get('elec_access_value')
+                unit = result.get('elec_access_unit', '')
+                year = result.get('elec_access_year', 'N/A')
+                if value:
+                    print(f"  Value: {value:,.0f} {unit} ({year})")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
