@@ -1,26 +1,63 @@
 import re
 import logging
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_natural_hazards(natural_hazards_data: dict, iso3Code: str=None) -> dict:
+def parse_natural_hazards(iso3Code: str) -> dict:
     """
-    Parses the 'Natural hazards' data for a country, considering regional distinctions and volcanism.
+    Parse natural hazards data from CIA World Factbook for a given country.
 
-    Parameters:
-        natural_hazards_data (dict): The 'Natural hazards' section from the data.
+    This parser extracts and structures natural hazard information including:
+    - General hazards (applicable to entire country)
+    - Region-specific hazards (e.g., metropolitan vs overseas territories)
+    - Volcanism details
+
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'JPN', 'WLD')
 
     Returns:
-        dict: A dictionary containing parsed details of natural hazards, categorized by region and type.
+        Dictionary with structured natural hazards data:
+        {
+            "general_hazards": ["tsunamis", "earthquakes", ...],
+            "regions": {
+                "region_name": ["hazard1", "hazard2", ...]
+            },
+            "volcanism": ["volcano details", ...]
+        }
+
+    Examples:
+        >>> data = parse_natural_hazards('USA')
+        >>> 'tsunamis' in data['general_hazards']
+        True
+
+        >>> data = parse_natural_hazards('JPN')
+        >>> len(data.get('volcanism', [])) > 0
+        True
     """
     result = {
         "general_hazards": [],
         "regions": {},
         "volcanism": []
     }
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to Geography -> Natural hazards
+    geography_section = raw_data.get('Geography', {})
+    natural_hazards_data = geography_section.get('Natural hazards', {})
+
+    if not natural_hazards_data or not isinstance(natural_hazards_data, dict):
+        return result
 
     text = natural_hazards_data.get("text", "")
     if not text:
@@ -60,10 +97,42 @@ def parse_natural_hazards(natural_hazards_data: dict, iso3Code: str=None) -> dic
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    natural_hazards_data = {
-        "text": "<p>tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development</p> <p><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under \"Geography - note\"</p>"
-    }
-    parsed_data = parse_natural_hazards(natural_hazards_data)
-    print(parsed_data)
+    """Test parse_natural_hazards with real country data."""
+    print("="*60)
+    print("Testing parse_natural_hazards across countries")
+    print("="*60)
+
+    test_countries = ['USA', 'JPN', 'PHL', 'ISL', 'CHL', 'WLD']
+
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_natural_hazards(iso3)
+
+            if result['general_hazards']:
+                hazards = result['general_hazards'][:3]
+                print(f"  General hazards: {', '.join(hazards)}", end="")
+                if len(result['general_hazards']) > 3:
+                    print(f" ... and {len(result['general_hazards']) - 3} more")
+                else:
+                    print()
+
+            if result['regions']:
+                print(f"  Regional hazards: {list(result['regions'].keys())}")
+
+            if result['volcanism']:
+                print(f"  Volcanism: {len(result['volcanism'])} entries")
+                # Show first entry summary
+                first = result['volcanism'][0][:80] if result['volcanism'] else ""
+                if first:
+                    print(f"    {first}...")
+
+            if not any([result['general_hazards'], result['regions'], result['volcanism']]):
+                print("  No hazards found")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")
