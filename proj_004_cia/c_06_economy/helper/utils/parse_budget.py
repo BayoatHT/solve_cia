@@ -32,14 +32,59 @@ def parse_budget(pass_data: dict, iso3Code: str = None) -> dict:
         # Define default values for result
         result[result_key] = {"value": 0, "unit": "$", "date": ""}
 
-        # Match the pattern for value, unit, and date
-        match = re.match(r"\$([\d,.]+) trillion \((\d{4}) est\.\)", item)
+        # Skip NA values
+        if item.upper().strip() == 'NA':
+            result[result_key]["value"] = None
+            result[result_key]["note"] = "NA"
+            continue
 
+        # Try multiple patterns
+        # Pattern 1: $X.XXX trillion/billion/million (YYYY est.)
+        match = re.match(r"\$([\d,.]+)\s+(trillion|billion|million)\s+\((\d{4})\s+est\.\)", item)
         if match:
-            # Remove commas from value and convert to float, multiplying by a trillion (10^12)
-            result[result_key]["value"] = float(
-                match.group(1).replace(",", "")) * 1e12
-            result[result_key]["date"] = match.group(2)
+            value_str = match.group(1).replace(",", "")
+            unit = match.group(2)
+            year = match.group(3)
+            multipliers = {"trillion": 1e12, "billion": 1e9, "million": 1e6}
+            result[result_key]["value"] = float(value_str) * multipliers.get(unit, 1)
+            result[result_key]["date"] = year
+            continue
+
+        # Pattern 2: $X.XXX trillion/billion/million (YYYY) - without "est."
+        match = re.match(r"\$([\d,.]+)\s+(trillion|billion|million)\s+\((\d{4})\)", item)
+        if match:
+            value_str = match.group(1).replace(",", "")
+            unit = match.group(2)
+            year = match.group(3)
+            multipliers = {"trillion": 1e12, "billion": 1e9, "million": 1e6}
+            result[result_key]["value"] = float(value_str) * multipliers.get(unit, 1)
+            result[result_key]["date"] = year
+            continue
+
+        # Pattern 3: $X.XXX million (FYXX/XX est.) - fiscal year format
+        match = re.match(r"\$([\d,.]+)\s+(trillion|billion|million)\s+\(FY\d{2}/\d{2}(?:\s+est\.)?\)", item)
+        if match:
+            value_str = match.group(1).replace(",", "")
+            unit = match.group(2)
+            multipliers = {"trillion": 1e12, "billion": 1e9, "million": 1e6}
+            result[result_key]["value"] = float(value_str) * multipliers.get(unit, 1)
+            result[result_key]["date"] = ""  # Don't extract FY format
+            continue
+
+        # Pattern 4: $X,XXX,XXX (YYYY est.) - raw numbers with commas
+        match = re.match(r"\$([\d,]+)\s+\((\d{4})\s+est\.\)", item)
+        if match:
+            value_str = match.group(1).replace(",", "")
+            year = match.group(2)
+            result[result_key]["value"] = float(value_str)
+            result[result_key]["date"] = year
+            continue
+
+        # If we couldn't parse, set to None and log warning
+        if item:
+            result[result_key]["value"] = None
+            result[result_key]["note"] = f"Unparsed: {item}"
+            logging.debug(f"Could not parse budget {key}: {item}")
 
     return result
 
