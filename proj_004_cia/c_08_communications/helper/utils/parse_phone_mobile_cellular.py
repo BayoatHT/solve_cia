@@ -2,25 +2,31 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_08_communications.helper.utils.parse_comms_value import parse_comms_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_phone_mobile_cellular(mobile_cellular_data: dict) -> dict:
-    """Parse phone mobile cellular from CIA Communications section with separated value components."""
+def parse_phone_mobile_cellular(iso3Code: str) -> dict:
+    """Parse Telephones - mobile cellular from CIA Communications section for a given country."""
     result = {}
-    if not mobile_cellular_data or not isinstance(mobile_cellular_data, dict):
-        return result
     try:
-        field_mappings = {
-            'total subscriptions': 'mobile_phone_total',
-            'subscriptions per 100 inhabitants': 'mobile_phone_per_100'
-        }
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    comms_section = raw_data.get('Communications', {})
+    pass_data = comms_section.get('Telephones - mobile cellular', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
+    try:
+        field_mappings = {'total subscriptions': 'phone_mobile_total', 'subscriptions per 100 inhabitants': 'phone_mobile_per_100'}
         for cia_key, output_prefix in field_mappings.items():
-            if cia_key in mobile_cellular_data:
-                field_data = mobile_cellular_data[cia_key]
+            if cia_key in pass_data:
+                field_data = pass_data[cia_key]
                 if isinstance(field_data, dict) and 'text' in field_data:
                     text = field_data['text']
                     if text and isinstance(text, str):
@@ -33,51 +39,38 @@ def parse_phone_mobile_cellular(mobile_cellular_data: dict) -> dict:
                             result[f'{output_prefix}_year'] = parsed['year']
                         if parsed['is_estimate']:
                             result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
-        if 'note' in mobile_cellular_data:
-            note_data = mobile_cellular_data['note']
+        if 'note' in pass_data:
+            note_data = pass_data['note']
             if isinstance(note_data, dict) and 'text' in note_data:
                 note = note_data['text']
                 if note and isinstance(note, str) and note.strip():
-                    result['mobile_phone_note'] = clean_text(note)
+                    result['phone_mobile_note'] = clean_text(note)
             elif isinstance(note_data, str) and note_data.strip():
-                result['mobile_phone_note'] = clean_text(note_data)
+                result['phone_mobile_note'] = clean_text(note_data)
     except Exception as e:
-        logging.error(f"Error parsing phone_mobile_cellular: {e}")
-    return result
-    try:
-        field_mappings = {
-            'total subscriptions': 'mobile_phone_total_subs',
-            'subscriptions per 100 inhabitants': 'mobile_phone_subs_per_100',
-        }
-        for cia_key, output_key in field_mappings.items():
-            if cia_key in mobile_cellular_data:
-                field_data = mobile_cellular_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        result[output_key] = clean_text(text)
-        if 'note' in mobile_cellular_data:
-            note_data = mobile_cellular_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['mobile_phone_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['mobile_phone_note'] = clean_text(note_data)
-    except Exception as e:
-        logging.error(f"Error parsing phone_mobile_cellular: {e}")
+        logger.error(f"Error parsing parse_phone_mobile_cellular for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    mobile_cellular_data = {
-        "total subscriptions": {
-            "text": "372.682 million (2022 est.)"
-        },
-        "subscriptions per 100 inhabitants": {
-            "text": "110 (2022 est.)"
-        }
-    }
-    parsed_data = parse_phone_mobile_cellular(mobile_cellular_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_phone_mobile_cellular")
+    print("="*60)
+    for iso3 in ['CHN', 'IND', 'USA', 'IDN', 'BRA', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_phone_mobile_cellular(iso3)
+            if result:
+                for key, val in result.items():
+                    if key.endswith('_value'):
+                        unit_key = key.replace('_value', '_unit')
+                        unit = result.get(unit_key, '')
+                        print(f"  {key}: {val:,.0f} {unit}")
+                    elif not key.endswith(('_unit', '_year', '_is_estimate')):
+                        print(f"  {key}: {val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

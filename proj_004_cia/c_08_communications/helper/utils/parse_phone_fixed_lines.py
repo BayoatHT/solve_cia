@@ -2,25 +2,31 @@ import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_08_communications.helper.utils.parse_comms_value import parse_comms_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_phone_fixed_lines(phone_fixed_lines_data: dict) -> dict:
-    """Parse phone fixed lines from CIA Communications section with separated value components."""
+def parse_phone_fixed_lines(iso3Code: str) -> dict:
+    """Parse Telephones - fixed lines from CIA Communications section for a given country."""
     result = {}
-    if not phone_fixed_lines_data or not isinstance(phone_fixed_lines_data, dict):
-        return result
     try:
-        field_mappings = {
-            'total subscriptions': 'fixed_phone_total',
-            'subscriptions per 100 inhabitants': 'fixed_phone_per_100'
-        }
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    comms_section = raw_data.get('Communications', {})
+    pass_data = comms_section.get('Telephones - fixed lines', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
+    try:
+        field_mappings = {'total subscriptions': 'phone_fixed_total', 'subscriptions per 100 inhabitants': 'phone_fixed_per_100'}
         for cia_key, output_prefix in field_mappings.items():
-            if cia_key in phone_fixed_lines_data:
-                field_data = phone_fixed_lines_data[cia_key]
+            if cia_key in pass_data:
+                field_data = pass_data[cia_key]
                 if isinstance(field_data, dict) and 'text' in field_data:
                     text = field_data['text']
                     if text and isinstance(text, str):
@@ -33,52 +39,38 @@ def parse_phone_fixed_lines(phone_fixed_lines_data: dict) -> dict:
                             result[f'{output_prefix}_year'] = parsed['year']
                         if parsed['is_estimate']:
                             result[f'{output_prefix}_is_estimate'] = parsed['is_estimate']
-        if 'note' in phone_fixed_lines_data:
-            note_data = phone_fixed_lines_data['note']
+        if 'note' in pass_data:
+            note_data = pass_data['note']
             if isinstance(note_data, dict) and 'text' in note_data:
                 note = note_data['text']
                 if note and isinstance(note, str) and note.strip():
-                    result['fixed_phone_note'] = clean_text(note)
+                    result['phone_fixed_note'] = clean_text(note)
             elif isinstance(note_data, str) and note_data.strip():
-                result['fixed_phone_note'] = clean_text(note_data)
+                result['phone_fixed_note'] = clean_text(note_data)
     except Exception as e:
-        logging.error(f"Error parsing phone_fixed_lines: {e}")
-    return result
-    try:
-        field_mappings = {
-            'total subscriptions': 'fixed_phone_total_subs',
-            'subscriptions per 100 inhabitants': 'fixed_phone_subs_per_100',
-        }
-        for cia_key, output_key in field_mappings.items():
-            if cia_key in phone_fixed_lines_data:
-                field_data = phone_fixed_lines_data[cia_key]
-                if isinstance(field_data, dict) and 'text' in field_data:
-                    text = field_data['text']
-                    if text and isinstance(text, str):
-                        result[output_key] = clean_text(text)
-        if 'note' in phone_fixed_lines_data:
-            note_data = phone_fixed_lines_data['note']
-            if isinstance(note_data, dict) and 'text' in note_data:
-                note = note_data['text']
-                if note and isinstance(note, str) and note.strip():
-                    result['fixed_phone_note'] = clean_text(note)
-            elif isinstance(note_data, str) and note_data.strip():
-                result['fixed_phone_note'] = clean_text(note_data)
-    except Exception as e:
-        logging.error(f"Error parsing phone_fixed_lines: {e}")
+        logger.error(f"Error parsing parse_phone_fixed_lines for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    phone_fixed_lines_data = {
-        "total subscriptions": {
-            "text": "91.623 million (2022 est.)"
-        },
-        "subscriptions per 100 inhabitants": {
-            "text": "27 (2022 est.)"
-        },
-        "note": ""
-    }
-    parsed_data = parse_phone_fixed_lines(phone_fixed_lines_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_phone_fixed_lines")
+    print("="*60)
+    for iso3 in ['CHN', 'USA', 'JPN', 'DEU', 'RUS', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_phone_fixed_lines(iso3)
+            if result:
+                for key, val in result.items():
+                    if key.endswith('_value'):
+                        unit_key = key.replace('_value', '_unit')
+                        unit = result.get(unit_key, '')
+                        print(f"  {key}: {val:,.0f} {unit}")
+                    elif not key.endswith(('_unit', '_year', '_is_estimate')):
+                        print(f"  {key}: {val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

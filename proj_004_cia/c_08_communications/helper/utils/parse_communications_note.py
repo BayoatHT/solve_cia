@@ -1,31 +1,50 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-# Configure logging
-logging.basicConfig(level='WARNING',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-
-def parse_communications_note(communications_note_data: dict) -> dict:
-    """Parse communications note from CIA Communications section."""
+def parse_communications_note(iso3Code: str) -> dict:
+    """Parse Communications - note from CIA Communications section for a given country."""
     result = {}
-    if not communications_note_data or not isinstance(communications_note_data, dict):
-        return result
     try:
-        if 'text' in communications_note_data:
-            text = communications_note_data['text']
-            if text and isinstance(text, str):
-                result['communications_note'] = clean_text(text)
+        raw_data = load_country_data(iso3Code)
     except Exception as e:
-        logging.error(f"Error parsing communications_note: {e}")
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    comms_section = raw_data.get('Communications', {})
+    pass_data = comms_section.get('Communications - note', {})
+
+    if not pass_data or not isinstance(pass_data, dict):
+        return result
+
+    try:
+        if 'text' in pass_data:
+            text = pass_data['text']
+            if text and isinstance(text, str):
+                result['comms_note'] = clean_text(text)
+    except Exception as e:
+        logger.error(f"Error parsing parse_communications_note for {iso3Code}: {e}")
+
     return result
 
-
-# Example usage
 if __name__ == "__main__":
-    communications_note_data = {
-        "text": "<strong>note 1:</strong> The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br><br><strong>note 2:</strong> Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)"
-    }
-    parsed_data = parse_communications_note(communications_note_data)
-    print(parsed_data)
+    print("="*60)
+    print("Testing parse_communications_note")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'RUS', 'IND', 'BRA', 'WLD']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_communications_note(iso3)
+            if result:
+                for key, val in result.items():
+                    print(f"  {key}: {val[:80] if isinstance(val, str) and len(val) > 80 else val}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
