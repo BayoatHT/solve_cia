@@ -1,12 +1,27 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_revenue_from_coal(coal_data: dict, iso3Code: str = None) -> dict:
-    """Parse revenue from coal data."""
+def parse_revenue_from_coal(iso3Code: str) -> dict:
+    """Parse revenue from coal from CIA Environment section for a given country."""
+    result = {}
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    environment_section = raw_data.get('Environment', {})
+    coal_data = environment_section.get('Revenue from coal', {})
+
+    if not coal_data:
+        return result
+
     result = {
         "revenue_coal": {
             "value": None,
@@ -16,9 +31,6 @@ def parse_revenue_from_coal(coal_data: dict, iso3Code: str = None) -> dict:
         },
         "revenue_coal_note": ""
     }
-
-    if not coal_data or not isinstance(coal_data, dict):
-        return result
 
     text = coal_data.get('text', '')
     if text and text.upper() != 'NA':
@@ -35,4 +47,18 @@ def parse_revenue_from_coal(coal_data: dict, iso3Code: str = None) -> dict:
 
 
 if __name__ == "__main__":
-    print(parse_revenue_from_coal({"text": "0.2% of GDP (2018 est.)"}))
+    print("="*60)
+    print("Testing parse_revenue_from_coal")
+    print("="*60)
+    for iso3 in ['USA', 'CHN', 'IND', 'RUS', 'AUS']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_revenue_from_coal(iso3)
+            if result:
+                print(f"  {result}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
