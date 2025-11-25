@@ -1,0 +1,44 @@
+"""
+Extract youth_unemployment_rate dictionary for each country.
+
+Returns youth_unemployment_rate data from Economy category.
+"""
+
+import os
+import sys
+from typing import Dict
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from proj_004_cia.c_06_economy.return_economy_data import return_economy_data
+from proj_004_cia.v_nation_features_dicts.base_extractor import extract_dict_feature
+
+
+def _extract_from_parsed(parsed_data: dict) -> dict:
+    """Extract youth_unemployment_rate from parsed economy data."""
+    return parsed_data.get('youth_unemployment_rate', {})
+
+
+def get_youth_unemployment_rate(verbose: bool = False) -> Dict[str, Dict]:
+    """
+    Extract youth_unemployment_rate data for all countries.
+
+    Args:
+        verbose: If True, print progress
+
+    Returns:
+        Dictionary with ISO3 codes as keys and youth_unemployment_rate dicts as values
+    """
+    return extract_dict_feature(
+        parser_func=return_economy_data,
+        extractor_func=_extract_from_parsed,
+        feature_name="youth_unemployment_rate",
+        verbose=verbose
+    )
+
+
+if __name__ == "__main__":
+    from pprint import pprint
+    data = get_youth_unemployment_rate(verbose=True)
+    print("\nSample output (USA):")
+    pprint(data.get('USA', {}))
