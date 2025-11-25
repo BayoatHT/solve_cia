@@ -1,17 +1,60 @@
 import re
 import logging
-from typing import Dict, Any
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.c_06_economy.helper.utils.parse_econ_value import parse_econ_value
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
                     format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_unemployment_rate(pass_data: Dict[str, Any], iso3Code: str = None) -> Dict[str, Any]:
-    """Parse unemployment rate from CIA Economy section with separated value components."""
+def parse_unemployment_rate(iso3Code: str) -> dict:
+    """
+    Parse unemployment rate data from CIA World Factbook for a given country.
+
+    This parser extracts unemployment rate data including:
+    - Multi-year historical data
+    - Latest value and year
+    - Percentage rates with estimate status
+    - Related notes
+
+    Args:
+        iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
+
+    Returns:
+        Dictionary with structured unemployment data:
+        {
+            "unemployment_data": [{"year": int, "value": float, "unit": str, "is_estimate": bool}],
+            "unemployment_latest_value": float,
+            "unemployment_latest_year": int,
+            "unemployment_unit": str,
+            "unemployment_note": str
+        }
+
+    Examples:
+        >>> data = parse_unemployment_rate('USA')
+        >>> 'unemployment_latest_year' in data
+        True
+
+        >>> data = parse_unemployment_rate('CHN')
+        >>> isinstance(data.get('unemployment_data', []), list)
+        True
+    """
     result = {}
+
+    # Load raw country data
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    # Navigate to Economy -> Unemployment rate
+    economy_section = raw_data.get('Economy', {})
+    pass_data = economy_section.get('Unemployment rate', {})
+
     if not pass_data or not isinstance(pass_data, dict):
         return result
     try:
@@ -45,41 +88,49 @@ def parse_unemployment_rate(pass_data: Dict[str, Any], iso3Code: str = None) -> 
             if yearly_data[0].get('unit'):
                 result['unemployment_unit'] = yearly_data[0]['unit']
     except Exception as e:
-        logging.error(f"Error parsing unemployment_rate: {e}")
+        logger.error(f"Error parsing unemployment_rate for {iso3Code}: {e}")
+
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "Unemployment rate 2014" - 'unemploy_rate_2014'
-    # "Unemployment rate 2015" - 'unemploy_rate_2015'
-    # "Unemployment rate 2016" - 'unemploy_rate_2016'
-    # "Unemployment rate 2017" - 'unemploy_rate_2017'
-    # "Unemployment rate 2018" - 'unemploy_rate_2018'
-    # "Unemployment rate 2019" - 'unemploy_rate_2019'
-    # "Unemployment rate 2020" - 'unemploy_rate_2020'
-    # "Unemployment rate 2021" - 'unemploy_rate_2021'
-    # "Unemployment rate 2022" - 'unemploy_rate_2022'
-    # "Unemployment rate 2023" - 'unemploy_rate_2023'
-    # "note" - 'unemploy_rate_note'
-    # --------------------------------------------------------------------------------------------------
-    # ['unemploy_rate_2014', 'unemploy_rate_2015', 'unemploy_rate_2016', 'unemploy_rate_2017',
-    # 'unemploy_rate_2018', 'unemploy_rate_2019', 'unemploy_rate_2020', 'unemploy_rate_2021',
-    # 'unemploy_rate_2022', 'unemploy_rate_2023', 'unemploy_rate_note']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    pass_data = {
-        "Unemployment rate 2023": {
-            "text": "23.38% (2023 est.)"
-        },
-        "Unemployment rate 2022": {
-            "text": "23.62% (2022 est.)"
-        },
-        "Unemployment rate 2021": {
-            "text": "23.11% (2021 est.)"
-        },
-        "note": "<b>note:</b> % of labor force seeking employment"
-    }
-    parsed_data = parse_unemployment_rate(pass_data)
-    print(parsed_data)
+    """Test parse_unemployment_rate with real country data."""
+    print("="*60)
+    print("Testing parse_unemployment_rate across countries")
+    print("="*60)
+
+    test_countries = ['USA', 'CHN', 'IND', 'BRA', 'ESP', 'WLD']
+
+    for iso3 in test_countries:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_unemployment_rate(iso3)
+
+            if result.get('unemployment_latest_value') is not None:
+                latest = result['unemployment_latest_value']
+                year = result.get('unemployment_latest_year', '')
+                unit = result.get('unemployment_unit', '%')
+                print(f"  Latest: {latest}{unit} ({year})")
+
+                if result.get('unemployment_data'):
+                    data_count = len(result['unemployment_data'])
+                    if data_count > 1:
+                        print(f"  Historical data: {data_count} years")
+                        # Show last 3 years
+                        for entry in result['unemployment_data'][:3]:
+                            val = entry.get('value', 'N/A')
+                            yr = entry.get('year', '')
+                            est = " (est.)" if entry.get('is_estimate') else ""
+                            print(f"    {yr}: {val}%{est}")
+            else:
+                print("  No unemployment data found")
+
+            if result.get('unemployment_note'):
+                note = result['unemployment_note'][:60]
+                print(f"  Note: {note}...")
+
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+
+    print("\n" + "="*60)
+    print("✓ Tests complete")
