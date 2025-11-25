@@ -54,6 +54,9 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
 
     text = text.strip()
 
+    # Clean HTML entities early
+    text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+
     # Handle note (can be at top level or nested)
     note = languages_data.get('note', '')
     if note:
@@ -110,13 +113,16 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
         })
         return result
 
-    # Split by comma/semicolon, respecting parentheses
+    # Split by comma/semicolon, respecting parentheses and number patterns
     def split_languages(text: str) -> List[str]:
         parts = []
         current = ""
         paren_depth = 0
+        i = 0
 
-        for char in text:
+        while i < len(text):
+            char = text[i]
+
             if char == '(':
                 paren_depth += 1
                 current += char
@@ -124,11 +130,27 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
                 paren_depth -= 1
                 current += char
             elif (char == ',' or char == ';') and paren_depth == 0:
-                if current.strip():
-                    parts.append(current.strip())
-                current = ""
+                # Check if this comma is part of a number (e.g., "5,000")
+                # Look behind and ahead for digits
+                is_number_comma = False
+                if i > 0 and i < len(text) - 1:
+                    prev_char = text[i-1]
+                    next_char = text[i+1]
+                    if prev_char.isdigit() and next_char.isdigit():
+                        is_number_comma = True
+
+                if is_number_comma:
+                    # Keep the comma as part of current segment
+                    current += char
+                else:
+                    # It's a delimiter
+                    if current.strip():
+                        parts.append(current.strip())
+                    current = ""
             else:
                 current += char
+
+            i += 1
 
         if current.strip():
             parts.append(current.strip())
@@ -164,6 +186,18 @@ def parse_languages(languages_data: dict, iso3Code: str = None) -> dict:
             name_part = re.sub(r'\s*\(official\)\s*', ' ', name_part, flags=re.IGNORECASE).strip()
             name_part = re.sub(r'\s*only\s*$', '', name_part, flags=re.IGNORECASE).strip()
             result_entry["language"] = name_part
+            return result_entry
+
+        # Check for speaker count pattern (e.g., "<5,000 speakers" or "5,000 speakers")
+        # This should be treated as descriptive info, not split
+        speakers_match = re.search(r'(<?\d[\d,]*)\s+(speakers|native speakers)', entry, re.IGNORECASE)
+        if speakers_match:
+            # Extract language name (everything before the speaker count)
+            name_part = entry[:speakers_match.start()].strip()
+            # Clean up trailing punctuation and official markers
+            name_part = re.sub(r'\s*\(official[^)]*\)\s*$', '', name_part, flags=re.IGNORECASE).strip()
+            result_entry["language"] = name_part if name_part else entry
+            result_entry["descriptive"] = True
             return result_entry
 
         # No percentage - check for dialects pattern
