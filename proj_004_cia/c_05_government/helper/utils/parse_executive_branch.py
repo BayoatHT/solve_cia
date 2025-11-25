@@ -1,27 +1,26 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_executive_branch(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """
-    Parse executive branch data from CIA Government section.
-
-    Args:
-        test_data: Dictionary containing executive branch data
-        iso3Code: ISO3 country code
-
-    Returns:
-        Dictionary with parsed executive branch information
-    """
+def parse_executive_branch(iso3Code: str) -> dict:
+    """Parse executive branch data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Executive branch', {})
 
     if not test_data or not isinstance(test_data, dict):
         return result
@@ -51,90 +50,27 @@ def parse_executive_branch(
                 result['executive_branch_note'] = clean_text(note)
 
     except Exception as e:
-        app_logger.error(f"Error parsing executive branch: {e}")
+        logger.error(f"Error parsing executive branch for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "cabinet" - 'executive_branch_cabinet'
-    # "chief of state" - 'executive_branch_chief_of_state'
-    # "election results" - 'executive_branch_election_results'
-    # "elections/appointments" - 'executive_branch_elections'
-    # "head of government" - 'executive_branch_head_of_government'
-    # "note" - 'executive_branch_note'
-    # "state counsellor" - 'executive_branch_state_counsellor'
-    # --------------------------------------------------------------------------------------------------
-    # ['executive_branch_cabinet', 'executive_branch_chief_of_state', 'executive_branch_election_results',
-    # 'executive_branch_elections', 'executive_branch_head_of_government', 'executive_branch_note',
-    # 'executive_branch_state_counsellor']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "chief of state": {
-            "text": "President Joseph R. BIDEN, Jr. (since 20 January 2021)"
-        },
-        "head of government": {
-            "text": "President Joseph R. BIDEN, Jr. (since 20 January 2021)"
-        },
-        "cabinet": {
-            "text": "Cabinet appointed by the president, approved by the Senate"
-        },
-        "elections/appointments": {
-            "text": "president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)"
-        },
-        "election results": {
-            "text": "<em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%"
-        },
-        "note": "<strong>note:</strong> the president is both chief of state and head of government"
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Executive branch'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_executive_branch_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Executive branchs Orginal Data")
-    for index, country_data in enumerate(test_executive_branch_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-
-    print("Testing executive_branch Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_executive_branch_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_executive_branch(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_executive_branch")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'RUS']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_executive_branch(iso3)
+            if result:
+                chief = result.get('chief_of_state', 'N/A')
+                head = result.get('head_of_government', 'N/A')
+                print(f"  Chief: {chief[:50]}..." if len(chief) > 50 else f"  Chief: {chief}")
+                print(f"  Head: {head[:50]}..." if len(head) > 50 else f"  Head: {head}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

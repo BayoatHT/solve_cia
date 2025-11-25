@@ -1,27 +1,26 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_suffrage(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """
-    Parse suffrage data from CIA Government section.
-
-    Args:
-        test_data: Dictionary containing suffrage data
-        iso3Code: ISO3 country code
-
-    Returns:
-        Dictionary with parsed suffrage information
-    """
+def parse_suffrage(iso3Code: str) -> dict:
+    """Parse suffrage data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Suffrage', {})
 
     if not test_data or not isinstance(test_data, dict):
         return result
@@ -49,68 +48,26 @@ def parse_suffrage(
                 result['suffrage_note'] = clean_text(note)
 
     except Exception as e:
-        app_logger.error(f"Error parsing suffrage: {e}")
+        logger.error(f"Error parsing suffrage for {iso3Code}: {e}")
 
     return result
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "note" - 'suffrage_note',
-    # "text" - 'suffrage',
-    # --------------------------------------------------------------------------------------------------
-    # ['suffrage_note', 'suffrage']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "text": "18 years of age; universal",
-        "note": ""
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Suffrage'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_suffrage_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Suffarage Orginal Data")
-    for index, country_data in enumerate(test_suffrage_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    print("Testing suffrage Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_suffrage_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_suffrage(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_suffrage")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'AUS', 'BRA', 'SAU']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_suffrage(iso3)
+            if result:
+                print(f"  Voting age: {result.get('voting_age', 'N/A')}")
+                print(f"  Universal: {result.get('universal_suffrage', False)}")
+                print(f"  Compulsory: {result.get('compulsory_voting', False)}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")

@@ -1,29 +1,26 @@
 import re
 import json
+import logging
 from typing import Dict, List, Any, Optional
-from proj_004_cia.__logger.logger import app_logger
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.c_00_transform_utils._inspect_cia_property_data import inspect_cia_property_data
-# --------------------------------------------------------------------------------------------------------
+from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
+logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-def parse_capital(
-    test_data: dict,
-    iso3Code: str = None
-) -> dict:
-    """
-    Parse capital city data from CIA Government section.
-
-    Extracts name, coordinates, time zone, daylight saving time, etymology.
-
-    Args:
-        test_data: Dictionary containing capital data
-        iso3Code: ISO3 country code
-
-    Returns:
-        Dictionary with parsed capital fields
-    """
+def parse_capital(iso3Code: str) -> dict:
+    """Parse capital city data from CIA Government section for a given country."""
     result = {}
+
+    try:
+        raw_data = load_country_data(iso3Code)
+    except Exception as e:
+        logger.error(f"Failed to load data for {iso3Code}: {e}")
+        return result
+
+    government_section = raw_data.get('Government', {})
+    test_data = government_section.get('Capital', {})
 
     if not test_data or not isinstance(test_data, dict):
         return result
@@ -76,7 +73,7 @@ def parse_capital(
                 result['capital_utc_offset_hours'] = utc_offset
 
     except Exception as e:
-        app_logger.error(f"Error parsing capital: {e}")
+        logger.error(f"Error parsing capital for {iso3Code}: {e}")
 
     return result
 
@@ -121,86 +118,21 @@ def _parse_utc_offset(time_text: str) -> float:
     return None
 
 
-# Example usage
 if __name__ == "__main__":
-    # --------------------------------------------------------------------------------------------------
-    # "daylight saving time" - 'capital_daylight_saving_time'
-    # "etymology" - 'capital_etymology'
-    # "geographic coordinates" - 'capital_geo_coord'
-    # "name" - 'capital_name'
-    # "note" - 'capital_note'
-    # "time difference" - 'capital_time_diff'
-    # "time zone note" - 'capital_time_zone_note'
-    # --------------------------------------------------------------------------------------------------
-    # ['capital_daylight_saving_time', 'capital_etymology', 'capital_geo_coord',
-    # 'capital_name', 'capital_note', 'capital_time_diff', 'capital_time_zone_note']
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-    # --------------------------------------------------------------------------------------------------
-    test_data = {
-        "name": {
-            "text": "Washington, DC"
-        },
-        "geographic coordinates": {
-            "text": "38 53 N, 77 02 W"
-        },
-        "time difference": {
-            "text": "UTC-5 (during Standard Time)"
-        },
-        "daylight saving time": {
-            "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
-        },
-        "time zone note": {
-            "text": "the 50 United States cover six time zones"
-        },
-        "etymology": {
-            "text": "named after George WASHINGTON (1732-1799), the first president of the United States"
-        }
-    }
-    # --------------------------------------------------------------------------------------------------
-    section_key = 'Government'
-    property_key = 'Capital'
-    # --------------------------------------------------------------------------------------------------
-    # List of countries to test
-    test_countries = ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'IND'
-                      'RUS', 'BRA', 'JPN', 'AUS', 'CAN', 'MEX'
-                      'ZAF', 'KOR', 'ITA', 'ESP', 'NLD', 'SWE',
-                      'NOR', 'FIN', 'DNK', 'POL', 'TUR', 'ARG',
-                      'CHL', 'PER', 'COL', 'VEN', 'EGY', 'SAR',
-                      'UAE', 'ISR', 'IRN', 'PAK', 'BGD', 'PHL',
-                      'IDN', 'MYS', 'THA', 'VNM', 'SGP', 'NZL',
-                      'KHM', 'MMR', 'LKA', 'NPL', 'BTN', 'MDV',
-                      'KAZ', 'UZB', 'TKM', 'KGZ', 'TJK', 'AZE',
-                      'GEO', 'ARM', 'MDA', 'UKR', 'BLR', 'LVA',]
-    # --------------------------------------------------------------------------------------------------
-    test_capital_data = inspect_cia_property_data(
-        section_key=section_key,
-        property_key=property_key,
-        countries=test_countries,
-        limit_countries=30
-    )
-    print(f"Test Admin Divisions Orginal Data")
-    for index, country_data in enumerate(test_capital_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            print(f"Original Data: {data}")
-    # --------------------------------------------------------------------------------------------------
-    # //////////////////////////////////////////////////////////////////////////////////////////////////
-
-    print("Testing Capital Parser")
-    print("=" * 50)
-
-    for index, country_data in enumerate(test_capital_data, 1):
-        for iso3_code, data in country_data.items():
-            print(f"\n{index}. {iso3_code}")
-            print("-" * 30)
-            result = parse_capital(
-                test_data=data, iso3Code=iso3_code)
-
-            # Pretty print the result
-
-            print(json.dumps(result, indent=2, ensure_ascii=False))
-
-            # Validate structure
-            assert isinstance(result, dict)
-            print("✅ Structure validation passed")
+    print("="*60)
+    print("Testing parse_capital")
+    print("="*60)
+    for iso3 in ['USA', 'FRA', 'DEU', 'GBR', 'CHN', 'JPN']:
+        print(f"\n{iso3}:")
+        try:
+            result = parse_capital(iso3)
+            if result:
+                print(f"  Name: {result.get('capital_name', 'N/A')}")
+                print(f"  Coords: {result.get('capital_latitude', 'N/A')}, {result.get('capital_longitude', 'N/A')}")
+                print(f"  UTC: {result.get('capital_utc_offset_hours', 'N/A')}")
+            else:
+                print("  No data found")
+        except Exception as e:
+            print(f"  ERROR: {str(e)[:60]}")
+    print("\n" + "="*60)
+    print("✓ Tests complete")
