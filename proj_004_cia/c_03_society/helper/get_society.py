@@ -404,9 +404,7 @@ def get_society(data=None, info=None, iso3Code=None):
     # ['ethinic_groups','ethnic_groups_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'ethnic_groups':
-        return parse_ethnic_groups(
-            ethnic_data
-        )
+        return parse_ethnic_groups(iso3Code)
 
     # 15
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -516,9 +514,7 @@ def get_society(data=None, info=None, iso3Code=None):
     # ['languages', 'major_languages', 'languages_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'languages':
-        return parse_languages(
-            languages_data
-        )
+        return parse_languages(iso3Code)
 
     # 22
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -770,9 +766,7 @@ def get_society(data=None, info=None, iso3Code=None):
     # ['religions_note', 'religions']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'religions':
-        return parse_religions(
-            religions_data
-        )
+        return parse_religions(iso3Code)
 
     # 37
     # //////////////////////////////////////////////////////////////////////////////////////////////////

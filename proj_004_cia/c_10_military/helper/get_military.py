@@ -6,8 +6,6 @@ import re
 import json
 import logging
 # ---------------------------------------------------------------------------------------------------------------------
-from proj_004_cia.c_00_transform_utils.extract_and_parse import extract_and_parse
-# ---------------------------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
 # NOTE: "Military - note"
 # >>> ['mil_note']
@@ -63,7 +61,7 @@ def get_military(data=None, info=None, iso3Code=None):
 
     # WORLD-SPECIFIC: Return comprehensive World military data
     if info == 'world_military' and iso3Code == 'WLD':
-        return parse_military_world(mil_data, iso3Code)
+        return parse_military_world(iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -74,13 +72,7 @@ def get_military(data=None, info=None, iso3Code=None):
     # ['mil_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'military_note':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military - note",
-            parser_function=parse_military_note,
-            iso3Code=iso3Code,
-            parser_name="parse_military_note"
-        )
+        return parse_military_note(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -92,13 +84,8 @@ def get_military(data=None, info=None, iso3Code=None):
     # ['mil_forces', 'mil_forces_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'military_forces':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military and security forces",
-            parser_function=parse_military_forces,
-            iso3Code=iso3Code,
-            parser_name="parse_military_forces"
-        )
+        return parse_military_forces(iso3Code)
+
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     # NOTE: 3 >>> 'Military and security service personnel strengths'
@@ -109,13 +96,7 @@ def get_military(data=None, info=None, iso3Code=None):
     # ['mil_person', 'mil_person_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'military_personnel':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military and security service personnel strengths",
-            parser_function=parse_military_personnel,
-            iso3Code=iso3Code,
-            parser_name="parse_military_personnel"
-        )
+        return parse_military_personnel(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -124,13 +105,7 @@ def get_military(data=None, info=None, iso3Code=None):
     military_deployments_data = mil_data.get("Military deployments", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'deployments':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military deployments",
-            parser_function=parse_deployments,
-            iso3Code=iso3Code,
-            parser_name="parse_deployments"
-        )
+        return parse_deployments(iso3Code)
 
     # 5
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -140,13 +115,7 @@ def get_military(data=None, info=None, iso3Code=None):
         "Military equipment inventories and acquisitions", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'military_inventories':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military equipment inventories and acquisitions",
-            parser_function=parse_military_inventories,
-            iso3Code=iso3Code,
-            parser_name="parse_military_inventories"
-        )
+        return parse_military_inventories(iso3Code)
 
     # 6
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -155,13 +124,7 @@ def get_military(data=None, info=None, iso3Code=None):
     military_expenditures_data = mil_data.get("Military expenditures", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'military_expenditures':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military expenditures",
-            parser_function=parse_military_expenditures,
-            iso3Code=iso3Code,
-            parser_name="parse_military_expenditures"
-        )
+        return parse_military_expenditures(iso3Code)
 
     # 7
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -171,13 +134,7 @@ def get_military(data=None, info=None, iso3Code=None):
         "Military service age and obligation", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'military_age':
-        return extract_and_parse(
-            main_data=mil_data,
-            key_path="Military service age and obligation",
-            parser_function=parse_military_age,
-            iso3Code=iso3Code,
-            parser_name="parse_military_age"
-        )
+        return parse_military_age(iso3Code)
 
 
 ######################################################################################################################

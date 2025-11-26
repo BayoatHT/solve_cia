@@ -28,13 +28,7 @@ def get_terrorism(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'terrorism':
-        return extract_and_parse(
-            main_data=terror_data,
-            key_path="Terrorist group(s)",
-            parser_function=parse_terrorism,
-            iso3Code=iso3Code,
-            parser_name="parse_terrorism"
-        )
+        return parse_terrorism(iso3Code)
 
 
 ######################################################################################################################

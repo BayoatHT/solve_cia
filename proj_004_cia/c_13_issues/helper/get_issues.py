@@ -26,7 +26,7 @@ def get_issues(data=None, info=None, iso3Code=None):
 
     # WORLD-SPECIFIC: Return all issues in one comprehensive dict
     if info == 'world_issues' and iso3Code == 'WLD':
-        return parse_issues_world(issues_data, iso3Code)
+        return parse_issues_world(iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -34,13 +34,7 @@ def get_issues(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'international_issues':
-        return extract_and_parse(
-            main_data=issues_data,
-            key_path="Disputes - international",
-            parser_function=parse_international,
-            iso3Code=iso3Code,
-            parser_name="parse_international"
-        )
+        return parse_international(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -49,13 +43,7 @@ def get_issues(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'illicit_drugs':
-        return extract_and_parse(
-            main_data=issues_data,
-            key_path="Illicit drugs",
-            parser_function=parse_illicit_drugs,
-            iso3Code=iso3Code,
-            parser_name="parse_illicit_drugs"
-        )
+        return parse_illicit_drugs(iso3Code)
 
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -64,13 +52,7 @@ def get_issues(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'displaced_persons':
-        return extract_and_parse(
-            main_data=issues_data,
-            key_path="Refugees and internally displaced persons",
-            parser_function=parse_displaced_persons,
-            iso3Code=iso3Code,
-            parser_name="parse_displaced_persons"
-        )
+        return parse_displaced_persons(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -79,13 +61,7 @@ def get_issues(data=None, info=None, iso3Code=None):
     # ['trafficked']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'trafficking':
-        return extract_and_parse(
-            main_data=issues_data,
-            key_path="Trafficking in persons",
-            parser_function=parse_trafficking,
-            iso3Code=iso3Code,
-            parser_name="parse_trafficking"
-        )
+        return parse_trafficking(iso3Code)
 
 
 ######################################################################################################################
