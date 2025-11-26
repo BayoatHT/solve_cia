@@ -1,6 +1,5 @@
 import re
 import logging
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -8,7 +7,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
+def parse_natural_hazards(natural_hazards_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
     """
     Parse natural hazards data from CIA World Factbook for a given country.
 
@@ -18,7 +17,9 @@ def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
     - Volcanism details
 
     Args:
+        natural_hazards_data: The 'Natural hazards' section from the Geography data
         iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'JPN', 'WLD')
+        return_original: If True, return the raw data without parsing
 
     Returns:
         Dictionary with structured natural hazards data:
@@ -31,12 +32,8 @@ def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
         }
 
     Examples:
-        >>> data = parse_natural_hazards('USA')
+        >>> data = parse_natural_hazards({'text': 'tsunamis; earthquakes'}, 'USA')
         >>> 'tsunamis' in data['general_hazards']
-        True
-
-        >>> data = parse_natural_hazards('JPN')
-        >>> len(data.get('volcanism', [])) > 0
         True
     """
     result = {
@@ -45,20 +42,8 @@ def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
         "volcanism": []
     }
 
-    # Load raw country data
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    # Navigate to Geography -> Natural hazards
-    geography_section = raw_data.get('Geography', {})
-    natural_hazards_data = geography_section.get('Natural hazards', {})
-
     if return_original:
         return natural_hazards_data
-
 
     if not natural_hazards_data or not isinstance(natural_hazards_data, dict):
         return result
@@ -103,6 +88,8 @@ def parse_natural_hazards(iso3Code: str, return_original: bool = False)-> dict:
 
 if __name__ == "__main__":
     """Test parse_natural_hazards with real country data."""
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_natural_hazards across countries")
     print("="*60)
@@ -112,7 +99,9 @@ if __name__ == "__main__":
     for iso3 in test_countries:
         print(f"\n{iso3}:")
         try:
-            result = parse_natural_hazards(iso3)
+            raw_data = load_country_data(iso3)
+            natural_hazards_data = raw_data.get('Geography', {}).get('Natural hazards', {})
+            result = parse_natural_hazards(natural_hazards_data, iso3)
 
             if result['general_hazards']:
                 hazards = result['general_hazards'][:3]

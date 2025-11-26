@@ -3,7 +3,6 @@
 # ---------------------------------------------------------------------------------------------------------------------
 import re
 import logging
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -12,7 +11,7 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------------------------------------------------
 
 
-def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict:
+def parse_natural_resources(natural_resources_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
     """
     Parse natural resources data from CIA World Factbook for a given country.
 
@@ -22,7 +21,9 @@ def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict
     - Resource notes and additional context
 
     Args:
+        natural_resources_data: The 'Natural resources' section from the Geography data
         iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'FRA', 'WLD')
+        return_original: If True, return the raw data without parsing
 
     Returns:
         Dictionary with structured natural resources data:
@@ -36,12 +37,8 @@ def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict
         }
 
     Examples:
-        >>> data = parse_natural_resources('USA')
+        >>> data = parse_natural_resources({'text': 'coal, iron ore'}, 'USA')
         >>> 'coal' in data['natural_resources'].get('main', [])
-        True
-
-        >>> data = parse_natural_resources('FRA')
-        >>> 'metropolitan_france' in data['natural_resources']
         True
     """
     result = {
@@ -49,20 +46,8 @@ def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict
         "natural_resources_note": ""
     }
 
-    # Load raw country data
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    # Navigate to Geography -> Natural resources
-    geography_section = raw_data.get('Geography', {})
-    natural_resources_data = geography_section.get('Natural resources', {})
-
     if return_original:
         return natural_resources_data
-
 
     if not natural_resources_data or not isinstance(natural_resources_data, dict):
         return result
@@ -115,6 +100,8 @@ def parse_natural_resources(iso3Code: str, return_original: bool = False)-> dict
 
 if __name__ == "__main__":
     """Test parse_natural_resources with real country data."""
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_natural_resources across countries")
     print("="*60)
@@ -124,7 +111,9 @@ if __name__ == "__main__":
     for iso3 in test_countries:
         print(f"\n{iso3}:")
         try:
-            result = parse_natural_resources(iso3)
+            raw_data = load_country_data(iso3)
+            natural_resources_data = raw_data.get('Geography', {}).get('Natural resources', {})
+            result = parse_natural_resources(natural_resources_data, iso3)
             resources = result['natural_resources']
 
             if resources:
