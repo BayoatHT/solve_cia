@@ -1,30 +1,28 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_major_aquifers(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse major aquifers from CIA Environment section for a given country."""
-    result = {}
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
+def parse_major_aquifers(aquifer_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse major aquifers from CIA Environment section for a given country.
 
-    environment_section = raw_data.get('Environment', {})
-    aquifer_data = environment_section.get('Major aquifers', {})
+    Args:
+        aquifer_data: The 'Major aquifers' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
 
+    Returns:
+        Dictionary with structured aquifer data
+    """
     if return_original:
         return aquifer_data
 
-
     if not aquifer_data:
-        return result
+        return {}
 
     result = {
         "major_aquifers": {
@@ -50,13 +48,17 @@ def parse_major_aquifers(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_major_aquifers")
     print("="*60)
     for iso3 in ['USA', 'BRA', 'CHN', 'IND', 'SAU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_major_aquifers(iso3)
+            raw_data = load_country_data(iso3)
+            aquifer_data = raw_data.get('Environment', {}).get('Major aquifers', {})
+            result = parse_major_aquifers(aquifer_data, iso3)
             if result:
                 aquifers = result.get('major_aquifers', {}).get('aquifers', [])
                 print(f"  Found {len(aquifers)} aquifers")

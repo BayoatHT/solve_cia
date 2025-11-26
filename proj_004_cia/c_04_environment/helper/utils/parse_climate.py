@@ -2,14 +2,23 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_climate(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse climate from CIA Environment section for a given country."""
+def parse_climate(climate_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse climate from CIA Environment section for a given country.
+
+    Args:
+        climate_data: The 'Climate' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured climate data
+    """
     result = {
         "climate": {
             "description": None,
@@ -24,18 +33,8 @@ def parse_climate(iso3Code: str, return_original: bool = False)-> dict:
         "climate_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    climate_data = environment_section.get('Climate', {})
-
     if return_original:
         return climate_data
-
 
     if not climate_data or not isinstance(climate_data, dict):
         return result
@@ -69,13 +68,17 @@ def parse_climate(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_climate")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'WLD']:
         print(f"\n{iso3}:")
         try:
-            result = parse_climate(iso3)
+            raw_data = load_country_data(iso3)
+            climate_data = raw_data.get('Environment', {}).get('Climate', {})
+            result = parse_climate(climate_data, iso3)
             if result and result['climate']['description']:
                 desc = result['climate']['description']
                 print(f"  {desc[:80]}...")

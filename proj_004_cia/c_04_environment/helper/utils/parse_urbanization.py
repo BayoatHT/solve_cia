@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_urbanization(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse urbanization from CIA Environment section for a given country."""
+def parse_urbanization(urban_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse urbanization from CIA Environment section for a given country.
+
+    Args:
+        urban_data: The 'Urbanization' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured urbanization data
+    """
     result = {
         "env_urbanization": {
             "urban_population_percent": None,
@@ -20,18 +29,8 @@ def parse_urbanization(iso3Code: str, return_original: bool = False)-> dict:
         "env_urbanization_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    urban_data = environment_section.get('Urbanization', {})
-
     if return_original:
         return urban_data
-
 
     if not urban_data or not isinstance(urban_data, dict):
         return result
@@ -69,13 +68,17 @@ def parse_urbanization(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_urbanization")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_urbanization(iso3)
+            raw_data = load_country_data(iso3)
+            urban_data = raw_data.get('Environment', {}).get('Urbanization', {})
+            result = parse_urbanization(urban_data, iso3)
             if result and result['env_urbanization']['urban_population_percent']:
                 eu = result['env_urbanization']
                 print(f"  Urban pop: {eu['urban_population_percent']}% ({eu['urban_population_year']})")

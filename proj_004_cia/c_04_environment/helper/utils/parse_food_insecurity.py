@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_food_insecurity(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse food insecurity from CIA Environment section for a given country."""
+def parse_food_insecurity(food_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse food insecurity from CIA Environment section for a given country.
+
+    Args:
+        food_data: The 'Food insecurity' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured food insecurity data
+    """
     result = {
         "food_insecurity": {
             "exceptional_shortfall": None,
@@ -19,18 +28,8 @@ def parse_food_insecurity(iso3Code: str, return_original: bool = False)-> dict:
         "food_insecurity_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    food_data = environment_section.get('Food insecurity', {})
-
     if return_original:
         return food_data
-
 
     if not food_data or not isinstance(food_data, dict):
         return result
@@ -63,6 +62,8 @@ def parse_food_insecurity(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_food_insecurity")
     print("="*60)
@@ -70,7 +71,9 @@ if __name__ == "__main__":
     for iso3 in ['ETH', 'SOM', 'SDN', 'YEM', 'AFG', 'USA']:
         print(f"\n{iso3}:")
         try:
-            result = parse_food_insecurity(iso3)
+            raw_data = load_country_data(iso3)
+            food_data = raw_data.get('Environment', {}).get('Food insecurity', {})
+            result = parse_food_insecurity(food_data, iso3)
             if result and result['food_insecurity']['has_food_insecurity']:
                 fi = result['food_insecurity']
                 if fi['exceptional_shortfall']:

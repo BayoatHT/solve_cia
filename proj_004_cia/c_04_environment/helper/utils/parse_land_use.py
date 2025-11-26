@@ -2,14 +2,23 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_land_use(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse land use from CIA Environment section for a given country."""
+def parse_land_use(land_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse land use from CIA Environment section for a given country.
+
+    Args:
+        land_data: The 'Land use' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured land use data
+    """
     result = {
         "land_use": {
             "agricultural_land": None,
@@ -24,18 +33,8 @@ def parse_land_use(iso3Code: str, return_original: bool = False)-> dict:
         "land_use_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    land_data = environment_section.get('Land use', {})
-
     if return_original:
         return land_data
-
 
     if not land_data or not isinstance(land_data, dict):
         return result
@@ -121,13 +120,17 @@ def parse_land_use(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_land_use")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_land_use(iso3)
+            raw_data = load_country_data(iso3)
+            land_data = raw_data.get('Environment', {}).get('Land use', {})
+            result = parse_land_use(land_data, iso3)
             if result and result['land_use']['agricultural_land']:
                 lu = result['land_use']
                 print(f"  Agricultural: {lu['agricultural_land']}%")

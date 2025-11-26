@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_env_international_agreements(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse environment international agreements from CIA Environment section for a given country."""
+def parse_env_international_agreements(agreements_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse environment international agreements from CIA Environment section.
+
+    Args:
+        agreements_data: The 'Environment - international agreements' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured international agreements data
+    """
     result = {
         "international_agreements": {
             "party_to": [],
@@ -17,18 +26,8 @@ def parse_env_international_agreements(iso3Code: str, return_original: bool = Fa
         "international_agreements_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    agreements_data = environment_section.get('Environment - international agreements', {})
-
     if return_original:
         return agreements_data
-
 
     if not agreements_data or not isinstance(agreements_data, dict):
         return result
@@ -54,13 +53,17 @@ def parse_env_international_agreements(iso3Code: str, return_original: bool = Fa
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_env_international_agreements")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_env_international_agreements(iso3)
+            raw_data = load_country_data(iso3)
+            agreements_data = raw_data.get('Environment', {}).get('Environment - international agreements', {})
+            result = parse_env_international_agreements(agreements_data, iso3)
             if result and result['international_agreements']['party_to']:
                 party = result['international_agreements']['party_to']
                 signed = result['international_agreements']['signed_not_ratified']
