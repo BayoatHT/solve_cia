@@ -98,7 +98,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
 
     # WORLD-SPECIFIC: Return comprehensive World transportation data
     if info == 'world_transportation' and iso3Code == 'WLD':
-        return parse_transportation_world(transport_data, iso3Code)
+        return parse_transportation_world(iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -109,9 +109,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # ['airports', 'airports_note']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'airports':
-        return parse_airports(
-            airports_data, iso3Code
-        )
+        return parse_airports(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -123,9 +121,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # ['paved_runways_total', 'paved_runways_1_2']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'airports_paved':
-        return parse_airports_paved(
-            airports_paved_data, iso3Code
-        )
+        return parse_airports_paved(iso3Code)
 
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -135,9 +131,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
         "Airports - with unpaved runways", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'airports_unpaved':
-        return parse_airports_unpaved(
-            airports_unpaved_data, iso3Code
-        )
+        return parse_airports_unpaved(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -148,9 +142,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'civil_reg_code':
-        return parse_civil_reg_code(
-            civil_aircraft_code_prefix_data, iso3Code
-        )
+        return parse_civil_reg_code(iso3Code)
 
     # 5
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -160,9 +152,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'heliports':
-        return parse_heliports(
-            heliports_data, iso3Code
-        )
+        return parse_heliports(iso3Code)
 
     # 6
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -172,9 +162,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'merchant_marine':
-        return parse_merchant_marine(
-            merchant_marine_data, iso3Code
-        )
+        return parse_merchant_marine(iso3Code)
 
     #####################################################################################################
     #####################################################################################################
@@ -187,9 +175,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
         "National air transport system", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'air_system':
-        return parse_air_system(
-            national_air_transport_system_data, iso3Code
-        )
+        return parse_air_system(iso3Code)
 
     # 8
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -198,9 +184,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     pipelines_data = transport_data.get("Pipelines", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'pipelines':
-        return parse_pipelines(
-            pipelines_data, iso3Code
-        )
+        return parse_pipelines(iso3Code)
 
     # 9
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -210,9 +194,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'ports':
-        return parse_ports(
-            ports_data, iso3Code
-        )
+        return parse_ports(iso3Code)
 
     # 10
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -221,9 +203,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     ports_terminals_data = transport_data.get("Ports and terminals", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'ports_and_terminals':
-        return parse_ports_and_terminals(
-            ports_terminals_data, iso3Code
-        )
+        return parse_ports_and_terminals(iso3Code)
 
     # 11
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -233,9 +213,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'railways':
-        return parse_railways(
-            railways_data, iso3Code
-        )
+        return parse_railways(iso3Code)
 
     # 12
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -245,9 +223,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'roadways':
-        return parse_roadways(
-            roadways_data, iso3Code
-        )
+        return parse_roadways(iso3Code)
 
     # 13
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -257,9 +233,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # ['transportation_note']
     if info == 'transportation_note':
-        return parse_transportation_note(
-            transportation_note_data, iso3Code
-        )
+        return parse_transportation_note(iso3Code)
 
     # 14
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -268,9 +242,7 @@ def get_transportation(data=None, info=None, iso3Code=None):
     waterways_data = transport_data.get("Waterways", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'waterways':
-        return parse_waterways(
-            waterways_data, iso3Code
-        )
+        return parse_waterways(iso3Code)
 
 
 ######################################################################################################################
