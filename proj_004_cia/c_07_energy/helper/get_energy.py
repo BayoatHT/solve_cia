@@ -157,9 +157,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'carbon_dioxide_emissions':
-        return parse_carbon_dioxide_emissions(
-            carbon_dioxide_emissions_data
-        )
+        return parse_carbon_dioxide_emissions(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -169,9 +167,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Carbon dioxide emissions from consumption of energy", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'carbon_dioxide_from_consumption':
-        return parse_carbon_dioxide_from_consumption(
-            co2_emissions_energy_consumption_data
-        )
+        return parse_carbon_dioxide_from_consumption(iso3Code)
 
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -180,9 +176,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     coal_data = energy_data.get("Coal", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'coal':
-        return parse_coal(
-            coal_data
-        )
+        return parse_coal(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -191,9 +185,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     crude_oil_exports_data = energy_data.get("Crude oil - exports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'crude_oil_exports':
-        return parse_crude_oil_exports(
-            crude_oil_exports_data
-        )
+        return parse_crude_oil_exports(iso3Code)
 
     # 5
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -202,9 +194,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     crude_oil_imports_data = energy_data.get("Crude oil - imports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'crude_oil_imports':
-        return parse_crude_oil_imports(
-            crude_oil_imports_data
-        )
+        return parse_crude_oil_imports(iso3Code)
 
     # 6
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -213,9 +203,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     crude_oil_production_data = energy_data.get("Crude oil - production", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'crude_oil_production':
-        return parse_crude_oil_production(
-            crude_oil_production_data
-        )
+        return parse_crude_oil_production(iso3Code)
 
     # 7
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -225,9 +213,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Crude oil - proved reserves", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'crude_oil_proved_reserves':
-        return parse_crude_oil_proved_reserves(
-            crude_oil_proved_reserves_data
-        )
+        return parse_crude_oil_proved_reserves(iso3Code)
 
     # 8
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -236,9 +222,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     electricity_data = energy_data.get("Electricity", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity':
-        return parse_electricity(
-            electricity_data
-        )
+        return parse_electricity(iso3Code)
 
     # 9
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -248,9 +232,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - consumption", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_consumption':
-        return parse_electricity_consumption(
-            electricity_consumption_data
-        )
+        return parse_electricity_consumption(iso3Code)
 
     # 10
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -259,9 +241,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     electricity_exports_data = energy_data.get("Electricity - exports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_exports':
-        return parse_electricity_exports(
-            electricity_exports_data
-        )
+        return parse_electricity_exports(iso3Code)
 
     # 11
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -271,9 +251,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - from fossil fuels", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_from_fossil':
-        return parse_electricity_from_fossil(
-            electricity_fossil_fuels_data
-        )
+        return parse_electricity_from_fossil(iso3Code)
 
     # 12
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -283,9 +261,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - from hydroelectric plants", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_from_hydro':
-        return parse_electricity_from_hydro(
-            electricity_hydroelectric_data
-        )
+        return parse_electricity_from_hydro(iso3Code)
 
     # 13
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -295,9 +271,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - from nuclear fuels", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_from_nuclear':
-        return parse_electricity_from_nuclear(
-            electricity_nuclear_fuels_data
-        )
+        return parse_electricity_from_nuclear(iso3Code)
     # 14
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     # NOTE: 14 >>> 'Electricity - from other renewable sources'
@@ -306,9 +280,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - from other renewable sources", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_from_other_renewable':
-        return parse_electricity_from_other_renewable(
-            electricity_renewable_sources_data
-        )
+        return parse_electricity_from_other_renewable(iso3Code)
 
     # 15
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -317,9 +289,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     electricity_imports_data = energy_data.get("Electricity - imports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_imports':
-        return parse_electricity_imports(
-            electricity_imports_data
-        )
+        return parse_electricity_imports(iso3Code)
 
     # 16
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -330,9 +300,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_generating_capacity':
-        return parse_electricity_generating_capacity(
-            electricity_generating_capacity_data
-        )
+        return parse_electricity_generating_capacity(iso3Code)
 
     # 17
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -342,9 +310,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity - production", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_production':
-        return parse_electricity_production(
-            electricity_production_data
-        )
+        return parse_electricity_production(iso3Code)
 
     # 18
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -354,9 +320,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_access':
-        return parse_electricity_access(
-            electricity_access_data
-        )
+        return parse_electricity_access(iso3Code)
 
     # 19
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -366,9 +330,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Electricity generation sources", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'electricity_sources':
-        return parse_electricity_sources(
-            electricity_generation_sources_data
-        )
+        return parse_electricity_sources(iso3Code)
 
     # 20
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -378,9 +340,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Energy consumption per capita", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'energy_consumption_per_capita':
-        return parse_energy_consumption_per_capita(
-            energy_consumption_per_capita_data
-        )
+        return parse_energy_consumption_per_capita(iso3Code)
 
     # 21
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -390,9 +350,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas':
-        return parse_natural_gas(
-            natural_gas_data
-        )
+        return parse_natural_gas(iso3Code)
 
     # 22
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -402,9 +360,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Natural gas - consumption", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas_consumption':
-        return parse_natural_gas_consumption(
-            natural_gas_consumption_data
-        )
+        return parse_natural_gas_consumption(iso3Code)
 
     # 23
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -413,9 +369,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     natural_gas_exports_data = energy_data.get("Natural gas - exports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas_exports':
-        return parse_natural_gas_exports(
-            natural_gas_exports_data
-        )
+        return parse_natural_gas_exports(iso3Code)
 
     # 24
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -425,9 +379,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas_imports':
-        return parse_natural_gas_imports(
-            natural_gas_imports_data
-        )
+        return parse_natural_gas_imports(iso3Code)
 
     # 25
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -437,9 +389,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Natural gas - production", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas_production':
-        return parse_natural_gas_production(
-            natural_gas_production_data
-        )
+        return parse_natural_gas_production(iso3Code)
 
     # 26
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -450,9 +400,7 @@ def get_energy(data=None, info=None, iso3Code=None):
 
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'natural_gas_proved_reserves':
-        return parse_natural_gas_proved_reserves(
-            natural_gas_proved_reserves_data
-        )
+        return parse_natural_gas_proved_reserves(iso3Code)
 
     # 27
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -461,9 +409,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     nuclear_energy_data = energy_data.get("Nuclear energy", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'nuclear_energy':
-        return parse_nuclear_energy(
-            nuclear_energy_data
-        )
+        return parse_nuclear_energy(iso3Code)
 
     # 28
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -472,9 +418,7 @@ def get_energy(data=None, info=None, iso3Code=None):
     petroleum_data = energy_data.get("Petroleum", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'petroleum':
-        return parse_petroleum(
-            petroleum_data
-        )
+        return parse_petroleum(iso3Code)
 
     # 29
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -484,9 +428,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Refined petroleum products - consumption", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'refined_petroleum_consumption':
-        return parse_refined_petroleum_consumption(
-            refined_petroleum_consumption_data
-        )
+        return parse_refined_petroleum_consumption(iso3Code)
 
     # 30
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -496,9 +438,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Refined petroleum products - exports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'refined_petroleum_exports':
-        return parse_refined_petroleum_exports(
-            refined_petroleum_exports_data
-        )
+        return parse_refined_petroleum_exports(iso3Code)
 
     # 31
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -508,9 +448,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Refined petroleum products - imports", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'refined_petroleum_imports':
-        return parse_refined_petroleum_imports(
-            refined_petroleum_imports_data
-        )
+        return parse_refined_petroleum_imports(iso3Code)
 
     # 32
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -520,9 +458,7 @@ def get_energy(data=None, info=None, iso3Code=None):
         "Refined petroleum products - production", {})
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'refined_petroleum_production':
-        return parse_refined_petroleum_production(
-            refined_petroleum_production_data
-        )
+        return parse_refined_petroleum_production(iso3Code)
 
 
 ######################################################################################################################

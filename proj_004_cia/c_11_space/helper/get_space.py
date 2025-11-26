@@ -25,15 +25,9 @@ def get_space(data=None, info=None, iso3Code=None):
     if info == 'space':
         # Use World-specific parser for WLD
         if iso3Code == 'WLD':
-            return parse_space_world(space_data, iso3Code)
+            return parse_space_world(iso3Code)
 
-        return extract_and_parse(
-            main_data=data,
-            key_path="Space",
-            parser_function=parse_space,
-            iso3Code=iso3Code,
-            parser_name="space"
-        )
+        return parse_space(iso3Code)
 
 
 ######################################################################################################################
