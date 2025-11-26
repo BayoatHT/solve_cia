@@ -4,11 +4,12 @@ from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
 from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
-logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_air_pollutants(iso3Code: str, return_original: bool = False)-> dict:
+def parse_air_pollutants(iso3Code: str, return_original: bool = False) -> dict:
     """Parse air pollutants from CIA Environment section for a given country."""
     result = {
         "air_pollutants": {
@@ -35,7 +36,6 @@ def parse_air_pollutants(iso3Code: str, return_original: bool = False)-> dict:
 
     if return_original:
         return pollutants_data
-
 
     if not pollutants_data or not isinstance(pollutants_data, dict):
         return result
@@ -111,9 +111,12 @@ if __name__ == "__main__":
             result = parse_air_pollutants(iso3)
             if result and result['air_pollutants']['particulate_matter']:
                 ap = result['air_pollutants']
-                print(f"  PM: {ap['particulate_matter']} {ap['particulate_matter_unit']}")
-                print(f"  CO2: {ap['carbon_dioxide_emissions']} {ap['carbon_dioxide_unit']}")
-                print(f"  Methane: {ap['methane_emissions']} {ap['methane_unit']}")
+                print(
+                    f"  PM: {ap['particulate_matter']} {ap['particulate_matter_unit']}")
+                print(
+                    f"  CO2: {ap['carbon_dioxide_emissions']} {ap['carbon_dioxide_unit']}")
+                print(
+                    f"  Methane: {ap['methane_emissions']} {ap['methane_unit']}")
             else:
                 print("  No data found")
         except Exception as e:
