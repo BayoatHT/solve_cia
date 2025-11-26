@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_waste_and_recycling(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse waste and recycling from CIA Environment section for a given country."""
+def parse_waste_and_recycling(waste_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse waste and recycling from CIA Environment section for a given country.
+
+    Args:
+        waste_data: The 'Waste and recycling' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured waste and recycling data
+    """
     result = {
         "waste_recycling": {
             "waste_generated": None,
@@ -22,18 +31,8 @@ def parse_waste_and_recycling(iso3Code: str, return_original: bool = False)-> di
         "waste_recycling_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    waste_data = environment_section.get('Waste and recycling', {})
-
     if return_original:
         return waste_data
-
 
     if not waste_data or not isinstance(waste_data, dict):
         return result
@@ -95,13 +94,17 @@ def parse_waste_and_recycling(iso3Code: str, return_original: bool = False)-> di
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_waste_and_recycling")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'DEU', 'JPN', 'GBR', 'FRA']:
         print(f"\n{iso3}:")
         try:
-            result = parse_waste_and_recycling(iso3)
+            raw_data = load_country_data(iso3)
+            waste_data = raw_data.get('Environment', {}).get('Waste and recycling', {})
+            result = parse_waste_and_recycling(waste_data, iso3)
             if result and result['waste_recycling']['waste_generated']:
                 wr = result['waste_recycling']
                 gen = wr['waste_generated'] / 1e6 if wr['waste_generated'] else 0

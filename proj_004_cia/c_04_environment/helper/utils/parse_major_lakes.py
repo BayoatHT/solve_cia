@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_major_lakes(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse major lakes from CIA Environment section for a given country."""
+def parse_major_lakes(lakes_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse major lakes from CIA Environment section for a given country.
+
+    Args:
+        lakes_data: The 'Major lakes (area sq km)' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured lakes data
+    """
     result = {
         "major_lakes": {
             "fresh_water": [],
@@ -18,18 +27,8 @@ def parse_major_lakes(iso3Code: str, return_original: bool = False)-> dict:
         "major_lakes_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    lakes_data = environment_section.get('Major lakes (area sq km)', {})
-
     if return_original:
         return lakes_data
-
 
     if not lakes_data or not isinstance(lakes_data, dict):
         return result
@@ -157,13 +156,17 @@ def parse_major_lakes(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_major_lakes")
     print("="*60)
     for iso3 in ['USA', 'CAN', 'RUS', 'CHN', 'AUS', 'BRA']:
         print(f"\n{iso3}:")
         try:
-            result = parse_major_lakes(iso3)
+            raw_data = load_country_data(iso3)
+            lakes_data = raw_data.get('Environment', {}).get('Major lakes (area sq km)', {})
+            result = parse_major_lakes(lakes_data, iso3)
             if result and (result['major_lakes']['fresh_water'] or result['major_lakes']['salt_water']):
                 ml = result['major_lakes']
                 print(f"  Fresh water: {len(ml['fresh_water'])} lakes")

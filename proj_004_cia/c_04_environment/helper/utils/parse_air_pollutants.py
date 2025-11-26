@@ -2,14 +2,23 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_air_pollutants(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse air pollutants from CIA Environment section for a given country."""
+def parse_air_pollutants(pollutants_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse air pollutants from CIA Environment section for a given country.
+
+    Args:
+        pollutants_data: The 'Air pollutants' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured air pollutants data
+    """
     result = {
         "air_pollutants": {
             "particulate_matter": None,
@@ -24,18 +33,8 @@ def parse_air_pollutants(iso3Code: str, return_original: bool = False)-> dict:
         "air_pollutants_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    pollutants_data = environment_section.get('Air pollutants', {})
-
     if return_original:
         return pollutants_data
-
 
     if not pollutants_data or not isinstance(pollutants_data, dict):
         return result
@@ -102,13 +101,17 @@ def parse_air_pollutants(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_air_pollutants")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_air_pollutants(iso3)
+            raw_data = load_country_data(iso3)
+            pollutants_data = raw_data.get('Environment', {}).get('Air pollutants', {})
+            result = parse_air_pollutants(pollutants_data, iso3)
             if result and result['air_pollutants']['particulate_matter']:
                 ap = result['air_pollutants']
                 print(f"  PM: {ap['particulate_matter']} {ap['particulate_matter_unit']}")
