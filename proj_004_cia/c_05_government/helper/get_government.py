@@ -139,9 +139,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'admin_divisions':
-        return parse_admin_divisions(
-            admin_divisions_data
-        )
+        return parse_admin_divisions(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -151,9 +149,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'capital':
-        return parse_capital(
-            capital_data
-        )
+        return parse_capital(iso3Code)
 
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -163,9 +159,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'citizenship':
-        return parse_citizenship(
-            citizenship_data
-        )
+        return parse_citizenship(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -174,9 +168,7 @@ def get_government(data=None, info=None, iso3Code=None):
     constitution_data = gov_data.get("Constitution", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'constitution':
-        return parse_constitution(
-            constitution_data
-        )
+        return parse_constitution(iso3Code)
 
     # 5
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -185,9 +177,7 @@ def get_government(data=None, info=None, iso3Code=None):
     country_name_data = gov_data.get("Country name", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'country_name':
-        return parse_country_name(
-            country_name_data
-        )
+        return parse_country_name(iso3Code)
 
     # 6
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -221,9 +211,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'diplomatic_representation_from_us':
-        return parse_diplomatic_representation_from_us(
-            diplomatic_rep_from_us_data
-        )
+        return parse_diplomatic_representation_from_us(iso3Code)
 
     # 9
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -234,9 +222,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'diplomatic_representation_in_us':
-        return parse_diplomatic_representation_in_us(
-            diplomatic_rep_in_us_data
-        )
+        return parse_diplomatic_representation_in_us(iso3Code)
 
     # 10
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -246,9 +232,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'executive_branch':
-        return parse_executive_branch(
-            executive_branch_data
-        )
+        return parse_executive_branch(iso3Code)
 
     # 11
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -258,9 +242,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'flag_description':
-        return parse_flag_description(
-            flag_description_data
-        )
+        return parse_flag_description(iso3Code)
 
     # 12
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -282,9 +264,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'government_type':
-        return parse_government_type(
-            government_type_data
-        )
+        return parse_government_type(iso3Code)
 
     # 14
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -294,9 +274,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'independence':
-        return parse_independence(
-            independence_data
-        )
+        return parse_independence(iso3Code)
 
     # 15
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -332,9 +310,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'judicial_branch':
-        return parse_judicial_branch(
-            judicial_branch_data
-        )
+        return parse_judicial_branch(iso3Code)
 
     # 18
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -344,9 +320,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'legal_system':
-        return parse_legal_system(
-            legal_system_data
-        )
+        return parse_legal_system(iso3Code)
 
     # 19
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -356,9 +330,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'legislative_branch':
-        return parse_legislative_branch(
-            legislative_branch_data
-        )
+        return parse_legislative_branch(iso3Code)
 
     # 20
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -380,9 +352,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'national_anthem':
-        return parse_national_anthem(
-            national_anthem_data
-        )
+        return parse_national_anthem(iso3Code)
 
     # 22
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -392,9 +362,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'national_heritage':
-        return parse_national_heritage(
-            national_heritage_data
-        )
+        return parse_national_heritage(iso3Code)
 
     # 23
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -403,9 +371,7 @@ def get_government(data=None, info=None, iso3Code=None):
     national_holiday_data = gov_data.get("National holiday", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'national_holiday':
-        return parse_national_holiday(
-            national_holiday_data
-        )
+        return parse_national_holiday(iso3Code)
 
     # 24
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -415,9 +381,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'national_symbols':
-        return parse_national_symbols(
-            national_symbols_data
-        )
+        return parse_national_symbols(iso3Code)
 
     # 25
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -427,9 +391,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'political_parties':
-        return parse_political_parties(
-            political_parties_data
-        )
+        return parse_political_parties(iso3Code)
 
     # 26
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -450,9 +412,7 @@ def get_government(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
 
     if info == 'suffrage':
-        return parse_suffrage(
-            suffrage_data
-        )
+        return parse_suffrage(iso3Code)
 
     # 28
     # //////////////////////////////////////////////////////////////////////////////////////////////////
