@@ -2,9 +2,41 @@
 # CORE IMPORTS
 # C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\c_00_transform_utils\extract_and_parse.py
 # ---------------------------------------------------------------------------------------------------------------------
+import inspect
 from proj_004_cia.__logger.logger import app_logger
 from typing import Dict, Any, List, Optional, Union, Tuple
 from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import iso3Code_to_cia_code
+
+
+def _is_new_style_parser(parser_function) -> bool:
+    """
+    Detect if a parser function uses NEW style (data first) or OLD style (iso3Code first).
+
+    NEW style: parse_X(data: dict, iso3Code: str = None, ...)
+    OLD style: parse_X(iso3Code: str, return_original: bool = False, ...)
+
+    Returns True if NEW style, False if OLD style.
+    """
+    try:
+        sig = inspect.signature(parser_function)
+        params = list(sig.parameters.values())
+
+        if not params:
+            return True  # Default to NEW style
+
+        first_param = params[0]
+        # Check if first parameter annotation is dict or if name suggests data
+        if first_param.annotation == dict:
+            return True
+        if first_param.annotation == str or first_param.name == 'iso3Code':
+            return False
+        # Check by parameter name pattern
+        if first_param.name.endswith('_data') or first_param.name == 'data':
+            return True
+
+        return True  # Default to NEW style
+    except Exception:
+        return True  # Default to NEW style on error
 
 ######################################################################################################################
 # ENHANCED EXTRACT AND PARSE UTILITY
@@ -68,7 +100,15 @@ def extract_and_parse(main_data: Dict[str, Any],
 
         # Parse the data
         try:
-            parsed_result = parser_function(data, iso3Code)
+            # Detect parser style and call accordingly
+            if _is_new_style_parser(parser_function):
+                # NEW style: parse_X(data, iso3Code)
+                parsed_result = parser_function(data, iso3Code)
+            else:
+                # OLD style: parse_X(iso3Code) - parser loads data internally
+                # Note: OLD style parsers ignore the extracted data and reload it
+                # This is a compatibility shim; parsers should be converted to NEW style
+                parsed_result = parser_function(iso3Code)
 
             # Validate parsed result
             if parsed_result is None and not allow_empty:

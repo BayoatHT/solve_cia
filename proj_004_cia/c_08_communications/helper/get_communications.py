@@ -66,7 +66,7 @@ def get_communications(data=None, info=None, iso3Code=None):
 
     # WORLD-SPECIFIC: Return comprehensive World communications data
     if info == 'world_communications' and iso3Code == 'WLD':
-        return parse_communications_world(comms_data, iso3Code)
+        return parse_communications_world(iso3Code)
 
     # 1
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -76,9 +76,7 @@ def get_communications(data=None, info=None, iso3Code=None):
         "Broadband - fixed subscriptions", {})
     # --------------------------------------------------------------------------------------------------
     if info == 'broadband_fixed':
-        return parse_broadband_fixed(
-            broadband_fixed_subscriptions_data
-        )
+        return parse_broadband_fixed(iso3Code)
 
     # 2
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -88,9 +86,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'broadband_media':
-        return parse_broadband_media(
-            broadcast_media_data
-        )
+        return parse_broadband_media(iso3Code)
 
     # 3
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -100,9 +96,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'communications_note':
-        return parse_communications_note(
-            communications_note_data
-        )
+        return parse_communications_note(iso3Code)
 
     # 4
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -112,9 +106,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'internet_code':
-        return parse_internet_code(
-            internet_country_code_data
-        )
+        return parse_internet_code(iso3Code)
 
     # 5
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -129,9 +121,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # ['internet_users_note', 'internet_users_percent', 'internet_users_total']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'internet_users':
-        return parse_internet_users(
-            internet_users_data
-        )
+        return parse_internet_users(iso3Code)
 
     # 6
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -149,9 +139,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # ['telecom_domestic', 'telecom_general_assessment', 'telecom_international', 'telecom_note', 'telecom_overseas_departments']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'tele_systems':
-        return parse_tele_systems(
-            telecommunication_systems_data
-        )
+        return parse_tele_systems(iso3Code)
 
     # 7
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -167,9 +155,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # ['fixed_phone_note', 'fixed_phone_subs_per_100', 'fixed_phone_total_subs']
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'phone_fixed_lines':
-        return parse_phone_fixed_lines(
-            telephones_fixed_lines_data
-        )
+        return parse_phone_fixed_lines(iso3Code)
 
     # 8
     # //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -180,9 +166,7 @@ def get_communications(data=None, info=None, iso3Code=None):
     # --------------------------------------------------------------------------------------------------
     # //////////////////////////////////////////////////////////////////////////////////////////////////
     if info == 'phone_mobile_cellular':
-        return parse_phone_mobile_cellular(
-            telephones_mobile_cellular_data
-        )
+        return parse_phone_mobile_cellular(iso3Code)
 
 
 ######################################################################################################################

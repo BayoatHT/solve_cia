@@ -1,7 +1,6 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 # Configure logging
 logging.basicConfig(level='WARNING',
@@ -9,7 +8,7 @@ logging.basicConfig(level='WARNING',
 logger = logging.getLogger(__name__)
 
 
-def parse_budget(iso3Code: str, return_original: bool = False)-> dict:
+def parse_budget(budget_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
     """
     Parse budget data from CIA World Factbook for a given country.
 
@@ -20,7 +19,9 @@ def parse_budget(iso3Code: str, return_original: bool = False)-> dict:
     - Fiscal year notation support
 
     Args:
+        budget_data: The 'Budget' section from the Economy data
         iso3Code: ISO 3166-1 alpha-3 country code (e.g., 'USA', 'CHN', 'WLD')
+        return_original: If True, return the raw data without parsing
 
     Returns:
         Dictionary with structured budget data:
@@ -30,35 +31,16 @@ def parse_budget(iso3Code: str, return_original: bool = False)-> dict:
         }
 
     Examples:
-        >>> data = parse_budget('USA')
+        >>> data = parse_budget({'revenues': {'text': '$6.429 trillion (2019 est.)'}}, 'USA')
         >>> data['budget_revenues']['value'] > 0
-        True
-
-        >>> data = parse_budget('IND')
-        >>> 'date' in data['budget_revenues']
         True
     """
     result = {}
 
-    # Load raw country data
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return {
-            "budget_revenues": {"value": None, "unit": "$", "date": ""},
-            "budget_expenditures": {"value": None, "unit": "$", "date": ""}
-        }
-
-    # Navigate to Economy -> Budget
-    economy_section = raw_data.get('Economy', {})
-    pass_data = economy_section.get('Budget', {})
-
     if return_original:
-        return pass_data
+        return budget_data
 
-
-    if not pass_data or not isinstance(pass_data, dict):
+    if not budget_data or not isinstance(budget_data, dict):
         return {
             "budget_revenues": {"value": None, "unit": "$", "date": ""},
             "budget_expenditures": {"value": None, "unit": "$", "date": ""}
@@ -71,7 +53,7 @@ def parse_budget(iso3Code: str, return_original: bool = False)-> dict:
     }
 
     for key, result_key in budget_keys.items():
-        item = pass_data.get(key, {}).get("text", "")
+        item = budget_data.get(key, {}).get("text", "")
 
         # Define default values for result
         result[result_key] = {"value": 0, "unit": "$", "date": ""}
@@ -142,6 +124,8 @@ def parse_budget(iso3Code: str, return_original: bool = False)-> dict:
 
 if __name__ == "__main__":
     """Test parse_budget with real country data."""
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_budget across countries")
     print("="*60)
@@ -151,7 +135,9 @@ if __name__ == "__main__":
     for iso3 in test_countries:
         print(f"\n{iso3}:")
         try:
-            result = parse_budget(iso3)
+            raw_data = load_country_data(iso3)
+            budget_data = raw_data.get('Economy', {}).get('Budget', {})
+            result = parse_budget(budget_data, iso3)
 
             for key in ['budget_revenues', 'budget_expenditures']:
                 data = result.get(key, {})
