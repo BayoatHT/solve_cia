@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_geoparks(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse geoparks from CIA Environment section for a given country."""
+def parse_geoparks(geoparks_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse geoparks from CIA Environment section for a given country.
+
+    Args:
+        geoparks_data: The 'Geoparks' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured geoparks data
+    """
     result = {
         "geoparks": {
             "total": None,
@@ -18,18 +27,8 @@ def parse_geoparks(iso3Code: str, return_original: bool = False)-> dict:
         "geoparks_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    geoparks_data = environment_section.get('Geoparks', {})
-
     if return_original:
         return geoparks_data
-
 
     if not geoparks_data or not isinstance(geoparks_data, dict):
         return result
@@ -58,6 +57,8 @@ def parse_geoparks(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_geoparks")
     print("="*60)
@@ -65,7 +66,9 @@ if __name__ == "__main__":
     for iso3 in ['CHN', 'DEU', 'FRA', 'ESP', 'ITA', 'USA']:
         print(f"\n{iso3}:")
         try:
-            result = parse_geoparks(iso3)
+            raw_data = load_country_data(iso3)
+            geoparks_data = raw_data.get('Environment', {}).get('Geoparks', {})
+            result = parse_geoparks(geoparks_data, iso3)
             if result and result['geoparks']['total']:
                 gp = result['geoparks']
                 print(f"  Total: {gp['total']} geoparks")

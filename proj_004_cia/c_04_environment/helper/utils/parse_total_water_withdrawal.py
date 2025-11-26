@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_total_water_withdrawal(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse total water withdrawal from CIA Environment section for a given country."""
+def parse_total_water_withdrawal(withdrawal_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse total water withdrawal from CIA Environment section for a given country.
+
+    Args:
+        withdrawal_data: The 'Total water withdrawal' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured water withdrawal data
+    """
     result = {
         "water_withdrawal": {
             "municipal": None,
@@ -21,18 +30,8 @@ def parse_total_water_withdrawal(iso3Code: str, return_original: bool = False)->
         "water_withdrawal_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    withdrawal_data = environment_section.get('Total water withdrawal', {})
-
     if return_original:
         return withdrawal_data
-
 
     if not withdrawal_data or not isinstance(withdrawal_data, dict):
         return result
@@ -96,13 +95,17 @@ def parse_total_water_withdrawal(iso3Code: str, return_original: bool = False)->
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_total_water_withdrawal")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_total_water_withdrawal(iso3)
+            raw_data = load_country_data(iso3)
+            withdrawal_data = raw_data.get('Environment', {}).get('Total water withdrawal', {})
+            result = parse_total_water_withdrawal(withdrawal_data, iso3)
             if result and result['water_withdrawal']['municipal']:
                 ww = result['water_withdrawal']
                 muni = ww['municipal'] / 1e9 if ww['municipal'] else 0

@@ -2,14 +2,23 @@ import re
 import logging
 from typing import Dict, Optional
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_env_current_issues(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse environment current issues from CIA Environment section for a given country."""
+def parse_env_current_issues(issues_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse environment current issues from CIA Environment section for a given country.
+
+    Args:
+        issues_data: The 'Environment - current issues' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured environmental issues data
+    """
     result = {
         "env_current_issues": {
             "description": None,
@@ -18,18 +27,8 @@ def parse_env_current_issues(iso3Code: str, return_original: bool = False)-> dic
         "env_current_issues_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    issues_data = environment_section.get('Environment - current issues', {})
-
     if return_original:
         return issues_data
-
 
     if not issues_data or not isinstance(issues_data, dict):
         return result
@@ -52,13 +51,17 @@ def parse_env_current_issues(iso3Code: str, return_original: bool = False)-> dic
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_env_current_issues")
     print("="*60)
     for iso3 in ['USA', 'CHN', 'IND', 'BRA', 'RUS', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_env_current_issues(iso3)
+            raw_data = load_country_data(iso3)
+            issues_data = raw_data.get('Environment', {}).get('Environment - current issues', {})
+            result = parse_env_current_issues(issues_data, iso3)
             if result and result['env_current_issues']['issues_list']:
                 issues = result['env_current_issues']['issues_list']
                 print(f"  Found {len(issues)} issues:")

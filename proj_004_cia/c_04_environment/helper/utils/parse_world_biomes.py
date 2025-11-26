@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_world_biomes(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse world biomes from CIA Environment section (primarily for World entity)."""
+def parse_world_biomes(biomes_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse world biomes from CIA Environment section (primarily for World entity).
+
+    Args:
+        biomes_data: The 'World biomes' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured world biomes data
+    """
     result = {
         "world_biomes": {
             "types_description": None,
@@ -23,18 +32,8 @@ def parse_world_biomes(iso3Code: str, return_original: bool = False)-> dict:
         "world_biomes_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    biomes_data = environment_section.get('World biomes', {})
-
     if return_original:
         return biomes_data
-
 
     if not biomes_data or not isinstance(biomes_data, dict):
         return result
@@ -61,6 +60,8 @@ def parse_world_biomes(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_world_biomes")
     print("="*60)
@@ -68,7 +69,9 @@ if __name__ == "__main__":
     for iso3 in ['WLD', 'USA', 'CHN']:
         print(f"\n{iso3}:")
         try:
-            result = parse_world_biomes(iso3)
+            raw_data = load_country_data(iso3)
+            biomes_data = raw_data.get('Environment', {}).get('World biomes', {})
+            result = parse_world_biomes(biomes_data, iso3)
             wb = result['world_biomes']
             has_data = any(v for v in wb.values() if v)
             if has_data:

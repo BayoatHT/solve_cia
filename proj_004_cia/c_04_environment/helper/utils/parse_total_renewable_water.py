@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_total_renewable_water(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse total renewable water resources from CIA Environment section for a given country."""
+def parse_total_renewable_water(water_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse total renewable water resources from CIA Environment section for a given country.
+
+    Args:
+        water_data: The 'Total renewable water resources' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured renewable water data
+    """
     result = {
         "renewable_water": {
             "value": None,
@@ -19,18 +28,8 @@ def parse_total_renewable_water(iso3Code: str, return_original: bool = False)-> 
         "renewable_water_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    water_data = environment_section.get('Total renewable water resources', {})
-
     if return_original:
         return water_data
-
 
     if not water_data or not isinstance(water_data, dict):
         return result
@@ -63,13 +62,17 @@ def parse_total_renewable_water(iso3Code: str, return_original: bool = False)-> 
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_total_renewable_water")
     print("="*60)
     for iso3 in ['USA', 'BRA', 'RUS', 'CHN', 'IND', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_total_renewable_water(iso3)
+            raw_data = load_country_data(iso3)
+            water_data = raw_data.get('Environment', {}).get('Total renewable water resources', {})
+            result = parse_total_renewable_water(water_data, iso3)
             if result and result['renewable_water']['value']:
                 rw = result['renewable_water']
                 # Format in billions for readability

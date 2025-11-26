@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_major_watersheds(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse major watersheds from CIA Environment section for a given country."""
+def parse_major_watersheds(watershed_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse major watersheds from CIA Environment section for a given country.
+
+    Args:
+        watershed_data: The 'Major watersheds (area sq km)' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured watershed data
+    """
     result = {
         "major_watersheds": {
             "watersheds": [],
@@ -17,18 +26,8 @@ def parse_major_watersheds(iso3Code: str, return_original: bool = False)-> dict:
         "major_watersheds_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    watershed_data = environment_section.get('Major watersheds (area sq km)', {})
-
     if return_original:
         return watershed_data
-
 
     if not watershed_data or not isinstance(watershed_data, dict):
         return result
@@ -54,13 +53,17 @@ def parse_major_watersheds(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_major_watersheds")
     print("="*60)
     for iso3 in ['USA', 'BRA', 'RUS', 'CHN', 'IND', 'DEU']:
         print(f"\n{iso3}:")
         try:
-            result = parse_major_watersheds(iso3)
+            raw_data = load_country_data(iso3)
+            watershed_data = raw_data.get('Environment', {}).get('Major watersheds (area sq km)', {})
+            result = parse_major_watersheds(watershed_data, iso3)
             if result and result['major_watersheds']['watersheds']:
                 mw = result['major_watersheds']
                 print(f"  Found {len(mw['watersheds'])} watersheds:")

@@ -1,14 +1,23 @@
 import re
 import logging
 from proj_004_cia.c_00_transform_utils.clean_text import clean_text
-from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
 
 logging.basicConfig(level='WARNING', format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
-def parse_marine_fisheries(iso3Code: str, return_original: bool = False)-> dict:
-    """Parse marine fisheries from CIA Environment section for a given country."""
+def parse_marine_fisheries(fisheries_data: dict, iso3Code: str = None, return_original: bool = False) -> dict:
+    """
+    Parse marine fisheries from CIA Environment section for a given country.
+
+    Args:
+        fisheries_data: The 'Marine fisheries' section data
+        iso3Code: ISO3 country code for logging purposes
+        return_original: If True, return raw data without parsing
+
+    Returns:
+        Dictionary with structured marine fisheries data
+    """
     result = {
         "marine_fisheries": {
             "description": None,
@@ -21,18 +30,8 @@ def parse_marine_fisheries(iso3Code: str, return_original: bool = False)-> dict:
         "marine_fisheries_note": ""
     }
 
-    try:
-        raw_data = load_country_data(iso3Code)
-    except Exception as e:
-        logger.error(f"Failed to load data for {iso3Code}: {e}")
-        return result
-
-    environment_section = raw_data.get('Environment', {})
-    fisheries_data = environment_section.get('Marine fisheries', {})
-
     if return_original:
         return fisheries_data
-
 
     if not fisheries_data or not isinstance(fisheries_data, dict):
         return result
@@ -72,6 +71,8 @@ def parse_marine_fisheries(iso3Code: str, return_original: bool = False)-> dict:
 
 
 if __name__ == "__main__":
+    from proj_004_cia.a_04_iso_to_cia_code.iso3Code_to_cia_code import load_country_data
+
     print("="*60)
     print("Testing parse_marine_fisheries")
     print("="*60)
@@ -79,7 +80,9 @@ if __name__ == "__main__":
     for iso3 in ['XXX', 'ATL', 'PAC', 'IND', 'USA', 'CHN']:
         print(f"\n{iso3}:")
         try:
-            result = parse_marine_fisheries(iso3)
+            raw_data = load_country_data(iso3)
+            fisheries_data = raw_data.get('Environment', {}).get('Marine fisheries', {})
+            result = parse_marine_fisheries(fisheries_data, iso3)
             if result and result['marine_fisheries']['description']:
                 mf = result['marine_fisheries']
                 if mf['total_catch_mt']:
