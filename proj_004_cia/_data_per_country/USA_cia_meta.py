@@ -365,9 +365,9 @@ USA_cia_meta = {
                     "male_count": 31618532,
                     "female_count": 30254223,
                     "total_count": 61872755,
-                    "timestamp": null,
-                    "is_estimate": false,
-                    "data_available": true
+                    "timestamp": None,
+                    "is_estimate": False,
+                    "data_available": True
                 },
                 {
                     "age_range": "15-64",
@@ -377,21 +377,21 @@ USA_cia_meta = {
                     "male_count": 108553822,
                     "female_count": 108182491,
                     "total_count": 216736313,
-                    "timestamp": null,
-                    "is_estimate": false,
-                    "data_available": true
+                    "timestamp": None,
+                    "is_estimate": False,
+                    "data_available": True
                 },
                 {
                     "age_range": "65+",
                     "age_min": 65,
-                    "age_max": null,
+                    "age_max": None,
                     "percentage": 18.5,
                     "male_count": 28426426,
                     "female_count": 34927914,
                     "total_count": 63354340,
                     "timestamp": "2024",
-                    "is_estimate": true,
-                    "data_available": true
+                    "is_estimate": True,
+                    "data_available": True
                 }
             ],
             "age_structure_note": ""
@@ -405,7 +405,7 @@ USA_cia_meta = {
                 "other": 0.0,
                 "unit": "liters of pure alcohol",
                 "timestamp": "2019",
-                "is_estimate": true
+                "is_estimate": True
             },
             "alcohol_consumption_note": ""
         },
@@ -414,18 +414,18 @@ USA_cia_meta = {
                 "value": 12.2,
                 "unit": "births/1,000 population",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "birth_rate_note": ""
         },
         "child_marriage": {
             "child_marriage": {
-                "women_by_15": null,
-                "women_by_18": null,
-                "men_by_18": null,
+                "women_by_15": None,
+                "women_by_18": None,
+                "men_by_18": None,
                 "unit": "%",
-                "timestamp": null,
-                "is_estimate": false
+                "timestamp": None,
+                "is_estimate": False
             },
             "child_marriage_note": ""
         },
@@ -434,7 +434,7 @@ USA_cia_meta = {
                 "value": 0.4,
                 "unit": "%",
                 "timestamp": "2017/18",
-                "is_estimate": false
+                "is_estimate": False
             },
             "children_under_5_underweight_note": ""
         },
@@ -443,7 +443,7 @@ USA_cia_meta = {
                 "value": 73.9,
                 "unit": "%",
                 "timestamp": "2017/19",
-                "is_estimate": false
+                "is_estimate": False
             },
             "contraceptive_rate_note": ""
         },
@@ -452,7 +452,7 @@ USA_cia_meta = {
                 "value": 18.8,
                 "unit": "% of GDP",
                 "timestamp": "2020",
-                "is_estimate": false
+                "is_estimate": False
             },
             "health_expenditure_note": ""
         },
@@ -461,7 +461,7 @@ USA_cia_meta = {
                 "value": 51.9,
                 "unit": "%",
                 "timestamp": "2023",
-                "is_estimate": true
+                "is_estimate": True
             },
             "women_married_15_49_note": ""
         },
@@ -470,13 +470,13 @@ USA_cia_meta = {
                 "value": 8.5,
                 "unit": "deaths/1,000 population",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "death_rate_note": ""
         },
         "demographic_profile": {
             "demographic_profile": {
-                "description": null
+                "description": None
             },
             "demographic_profile_note": ""
         },
@@ -487,7 +487,7 @@ USA_cia_meta = {
                 "elderly": 25.6,
                 "potential_support_ratio": 3.9,
                 "timestamp": "2021",
-                "is_estimate": true
+                "is_estimate": True
             },
             "dependency_ratios_note": ""
         },
@@ -501,7 +501,7 @@ USA_cia_meta = {
                 "unimproved_total": 0.1,
                 "unit": "% of population",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "drinking_water_source_note": ""
         },
@@ -510,7 +510,7 @@ USA_cia_meta = {
                 "value": 6.1,
                 "unit": "% of GDP",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "education_expenditure_note": ""
         },
@@ -519,41 +519,41 @@ USA_cia_meta = {
                 {
                     "group": "White",
                     "percentage": 61.6,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "Black or African American",
                     "percentage": 12.4,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "Asian",
                     "percentage": 6.0,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "Indigenous and Alaska native",
                     "percentage": 1.1,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "Native Hawaiian and Other Pacific Islander",
                     "percentage": 0.2,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "other",
                     "percentage": 8.4,
-                    "subgroups": null
+                    "subgroups": None
                 },
                 {
                     "group": "two or more races",
                     "percentage": 10.2,
-                    "subgroups": null
+                    "subgroups": None
                 }
             ],
             "ethnic_groups_timestamp": "2020",
-            "ethnic_groups_is_estimate": true,
+            "ethnic_groups_is_estimate": True,
             "ethnic_groups_note": "a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 18.7% of the total US population is Hispanic as of 2020",
             "ethnic_groups_raw": "White 61.6%, Black or African American 12.4%, Asian 6%, Indigenous and Alaska native 1.1%, Native Hawaiian and Other Pacific Islander 0.2%, other 8.4%, two or more races 10.2% (2020 est.)"
         },
@@ -561,35 +561,35 @@ USA_cia_meta = {
             "reproduction_rate": {
                 "value": 0.9,
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "reproduction_rate_note": ""
         },
         "hiv_rate": {
             "hiv_prevalence_rate": {
-                "value": null,
+                "value": None,
                 "unit": "%",
-                "timestamp": null,
-                "is_estimate": false,
-                "is_less_than": false
+                "timestamp": None,
+                "is_estimate": False,
+                "is_less_than": False
             },
             "hiv_prevalence_rate_note": ""
         },
         "hiv_deaths": {
             "hiv_deaths": {
-                "value": null,
-                "timestamp": null,
-                "is_estimate": false,
-                "is_less_than": false
+                "value": None,
+                "timestamp": None,
+                "is_estimate": False,
+                "is_less_than": False
             },
             "hiv_deaths_note": ""
         },
         "hiv_living_with": {
             "hiv_living_with": {
-                "value": null,
-                "timestamp": null,
-                "is_estimate": false,
-                "is_less_than": false
+                "value": None,
+                "timestamp": None,
+                "is_estimate": False,
+                "is_less_than": False
             },
             "hiv_living_with_note": ""
         },
@@ -598,7 +598,7 @@ USA_cia_meta = {
                 "value": 2.9,
                 "unit": "beds/1,000 population",
                 "timestamp": "2017",
-                "is_estimate": false
+                "is_estimate": False
             },
             "hospital_bed_density_note": ""
         },
@@ -607,17 +607,17 @@ USA_cia_meta = {
                 "total": {
                     "value": 5.1,
                     "timestamp": "2024",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 "male": {
                     "value": 5.4,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 },
                 "female": {
                     "value": 4.7,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 },
                 "unit": "deaths/1,000 live births"
             },
@@ -628,30 +628,30 @@ USA_cia_meta = {
                 {
                     "language": "English",
                     "percentage": 78.2,
-                    "is_official": false,
-                    "dialects": null
+                    "is_official": False,
+                    "dialects": None
                 },
                 {
                     "language": "Spanish",
                     "percentage": 13.4,
-                    "is_official": false,
-                    "dialects": null
+                    "is_official": False,
+                    "dialects": None
                 },
                 {
                     "language": "Chinese",
                     "percentage": 1.1,
-                    "is_official": false,
-                    "dialects": null
+                    "is_official": False,
+                    "dialects": None
                 },
                 {
                     "language": "other",
                     "percentage": 7.3,
-                    "is_official": false,
-                    "dialects": null
+                    "is_official": False,
+                    "dialects": None
                 }
             ],
             "languages_timestamp": "2017",
-            "languages_is_estimate": true,
+            "languages_is_estimate": True,
             "languages_note": "data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska",
             "languages_raw": "English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)",
             "major_language_samples": []
@@ -661,41 +661,41 @@ USA_cia_meta = {
                 "total": {
                     "value": 80.9,
                     "timestamp": "2024",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 "male": {
                     "value": 78.7,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 },
                 "female": {
                     "value": 83.1,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 }
             },
             "life_expectancy_note": ""
         },
         "literacy": {
             "literacy": {
-                "definition": null,
-                "total": null,
-                "male": null,
-                "female": null,
-                "timestamp": null,
-                "is_estimate": false
+                "definition": None,
+                "total": None,
+                "male": None,
+                "female": None,
+                "timestamp": None,
+                "is_estimate": False
             },
             "literacy_note": ""
         },
         "infectious_diseases": {
             "infectious_diseases": {
-                "degree_of_risk": null,
-                "food_or_waterborne": null,
-                "vectorborne": null,
-                "water_contact": null,
-                "respiratory": null,
-                "animal_contact": null,
-                "timestamp": null
+                "degree_of_risk": None,
+                "food_or_waterborne": None,
+                "vectorborne": None,
+                "water_contact": None,
+                "respiratory": None,
+                "animal_contact": None,
+                "timestamp": None
             },
             "infectious_diseases_note": ""
         },
@@ -704,32 +704,32 @@ USA_cia_meta = {
                 {
                     "city": "New York-Newark",
                     "population": 18937000,
-                    "is_capital": false
+                    "is_capital": False
                 },
                 {
                     "city": "Los Angeles-Long Beach-Santa Ana",
                     "population": 12534000,
-                    "is_capital": false
+                    "is_capital": False
                 },
                 {
                     "city": "Chicago",
                     "population": 8937000,
-                    "is_capital": false
+                    "is_capital": False
                 },
                 {
                     "city": "Houston",
                     "population": 6707000,
-                    "is_capital": false
+                    "is_capital": False
                 },
                 {
                     "city": "Dallas-Fort Worth",
                     "population": 6574000,
-                    "is_capital": false
+                    "is_capital": False
                 },
                 {
                     "city": "WASHINGTON",
                     "population": 5490000,
-                    "is_capital": false
+                    "is_capital": False
                 }
             ],
             "major_urban_areas_timestamp": "2023",
@@ -740,7 +740,7 @@ USA_cia_meta = {
                 "value": 21,
                 "unit": "deaths/100,000 live births",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "maternal_mortality_ratio_note": ""
         },
@@ -749,17 +749,17 @@ USA_cia_meta = {
                 "total": {
                     "value": 38.9,
                     "timestamp": "2022",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 "male": {
                     "value": 37.8,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 },
                 "female": {
                     "value": 40.0,
-                    "timestamp": null,
-                    "is_estimate": false
+                    "timestamp": None,
+                    "is_estimate": False
                 }
             },
             "median_age_note": ""
@@ -769,7 +769,7 @@ USA_cia_meta = {
                 "value": 27.0,
                 "unit": "years",
                 "timestamp": "2019",
-                "is_estimate": true
+                "is_estimate": True
             },
             "mothers_mean_age_first_birth_note": ""
         },
@@ -785,7 +785,7 @@ USA_cia_meta = {
                 "value": 3.0,
                 "unit": "migrant(s)/1,000 population",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "net_migration_rate_note": ""
         },
@@ -794,7 +794,7 @@ USA_cia_meta = {
                 "value": 36.2,
                 "unit": "%",
                 "timestamp": "2016",
-                "is_estimate": false
+                "is_estimate": False
             },
             "obesity_rate_note": ""
         },
@@ -803,7 +803,7 @@ USA_cia_meta = {
                 "value": 2.61,
                 "unit": "physicians/1,000 population",
                 "timestamp": "2018",
-                "is_estimate": false
+                "is_estimate": False
             },
             "physician_density_note": ""
         },
@@ -813,7 +813,7 @@ USA_cia_meta = {
                 "male": 168598780,
                 "female": 173364628,
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "population_note": ""
         },
@@ -828,7 +828,7 @@ USA_cia_meta = {
                 "value": 0.67,
                 "unit": "%",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "population_growth_rate_note": ""
         },
@@ -837,66 +837,66 @@ USA_cia_meta = {
                 {
                     "religion": "Protestant",
                     "percentage": 46.5,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Roman Catholic",
                     "percentage": 20.8,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Jewish",
                     "percentage": 1.9,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Church of Jesus Christ",
                     "percentage": 1.6,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "other Christian",
                     "percentage": 0.9,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Muslim",
                     "percentage": 0.9,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Jehovah's Witness",
                     "percentage": 0.8,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Buddhist",
                     "percentage": 0.7,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "Hindu",
                     "percentage": 0.7,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "other",
                     "percentage": 1.8,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "unaffiliated",
                     "percentage": 22.8,
-                    "subcategories": null
+                    "subcategories": None
                 },
                 {
                     "religion": "don't know/refused",
                     "percentage": 0.6,
-                    "subcategories": null
+                    "subcategories": None
                 }
             ],
             "religions_timestamp": "2014",
-            "religions_is_estimate": true,
+            "religions_is_estimate": True,
             "religions_note": "",
             "religions_raw": "Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Church of Jesus Christ 1.6%, other Christian 0.9%, Muslim 0.9%, Jehovah's Witness 0.8%, Buddhist 0.7%, Hindu 0.7%, other 1.8%, unaffiliated 22.8%, don't know/refused 0.6% (2014 est.)"
         },
@@ -910,7 +910,7 @@ USA_cia_meta = {
                 "unimproved_total": 0.3,
                 "unit": "% of population",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "sanitation_access_note": ""
         },
@@ -921,7 +921,7 @@ USA_cia_meta = {
                 "female": 17,
                 "unit": "years",
                 "timestamp": "2020",
-                "is_estimate": false
+                "is_estimate": False
             },
             "school_life_expectancy_note": ""
         },
@@ -934,7 +934,7 @@ USA_cia_meta = {
                 "total_population": 0.97,
                 "unit": "male(s)/female",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "sex_ratio_note": ""
         },
@@ -945,7 +945,7 @@ USA_cia_meta = {
                 "female": 17.5,
                 "unit": "%",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "tobacco_use_note": ""
         },
@@ -954,13 +954,13 @@ USA_cia_meta = {
                 "value": 1.84,
                 "unit": "children born/woman",
                 "timestamp": "2024",
-                "is_estimate": true
+                "is_estimate": True
             },
             "fertility_rate_note": ""
         },
         "people_note": {
             "people_note": {
-                "text": null
+                "text": None
             }
         },
         "urbanization": {
@@ -969,7 +969,7 @@ USA_cia_meta = {
                 "urban_population_year": "2023",
                 "rate_of_urbanization": 0.96,
                 "rate_period": "2020-25",
-                "is_estimate": true
+                "is_estimate": True
             },
             "urbanization_note": ""
         }
@@ -984,7 +984,7 @@ USA_cia_meta = {
                 "methane_emissions": 685.74,
                 "methane_unit": "megatons",
                 "timestamp": "2019",
-                "is_estimate": true
+                "is_estimate": True
             },
             "air_pollutants_note": ""
         },
@@ -994,10 +994,10 @@ USA_cia_meta = {
                 "note": "note: many consider Denali, the highest peak in the US, to be the world's coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world's coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded."
             },
             "climate_extremes": {
-                "coldest_places": null,
-                "hottest_places": null,
-                "driest_places": null,
-                "wettest_places": null
+                "coldest_places": None,
+                "hottest_places": None,
+                "driest_places": None,
+                "wettest_places": None
             },
             "climate_note": ""
         },
@@ -1057,18 +1057,18 @@ USA_cia_meta = {
         },
         "food_insecurity": {
             "food_insecurity": {
-                "exceptional_shortfall": null,
-                "severe_localized": null,
-                "widespread_lack_access": null,
-                "has_food_insecurity": false
+                "exceptional_shortfall": None,
+                "severe_localized": None,
+                "widespread_lack_access": None,
+                "has_food_insecurity": False
             },
             "food_insecurity_note": ""
         },
         "geoparks": {
             "geoparks": {
-                "total": null,
+                "total": None,
                 "parks": [],
-                "raw_text": null
+                "raw_text": None
             },
             "geoparks_note": ""
         },
@@ -1081,7 +1081,7 @@ USA_cia_meta = {
                 "forest": 33.3,
                 "other": 22.2,
                 "timestamp": "2018",
-                "is_estimate": true
+                "is_estimate": True
             },
             "land_use_note": ""
         },
@@ -1189,7 +1189,7 @@ USA_cia_meta = {
                         "shared_with": [
                             "Canada"
                         ],
-                        "is_mouth": true
+                        "is_mouth": True
                     },
                     {
                         "name": "Saint Lawrence",
@@ -1201,8 +1201,8 @@ USA_cia_meta = {
                     {
                         "name": "Rio Grande river source",
                         "length_km": 3057,
-                        "is_source": true,
-                        "is_mouth": true
+                        "is_source": True,
+                        "is_mouth": True
                     },
                     {
                         "name": "Colorado river source",
@@ -1210,7 +1210,7 @@ USA_cia_meta = {
                         "shared_with": [
                             "Mexico"
                         ],
-                        "is_source": true
+                        "is_source": True
                     },
                     {
                         "name": "Arkansas",
@@ -1222,7 +1222,7 @@ USA_cia_meta = {
                         "shared_with": [
                             "Canada"
                         ],
-                        "is_mouth": true
+                        "is_mouth": True
                     },
                     {
                         "name": "Red",
@@ -1278,7 +1278,7 @@ USA_cia_meta = {
                 "value": 0.2,
                 "unit": "% of GDP",
                 "timestamp": "2018",
-                "is_estimate": true
+                "is_estimate": True
             },
             "revenue_coal_note": ""
         },
@@ -1287,7 +1287,7 @@ USA_cia_meta = {
                 "value": 0.04,
                 "unit": "% of GDP",
                 "timestamp": "2018",
-                "is_estimate": true
+                "is_estimate": True
             },
             "revenue_forest_note": ""
         },
@@ -1296,7 +1296,7 @@ USA_cia_meta = {
                 "value": 3070000000000.0,
                 "unit": "cubic meters",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "renewable_water_note": ""
         },
@@ -1307,7 +1307,7 @@ USA_cia_meta = {
                 "agricultural": 176200000000.0,
                 "unit": "cubic meters",
                 "timestamp": "2020",
-                "is_estimate": true
+                "is_estimate": True
             },
             "water_withdrawal_note": ""
         },
@@ -1317,7 +1317,7 @@ USA_cia_meta = {
                 "urban_population_year": "2023",
                 "rate_of_urbanization": 0.96,
                 "rate_period": "2020-25",
-                "is_estimate": true
+                "is_estimate": True
             },
             "env_urbanization_note": ""
         },
@@ -1329,29 +1329,29 @@ USA_cia_meta = {
                 "waste_recycled_unit": "tons",
                 "recycling_percent": 34.6,
                 "timestamp": "2015",
-                "is_estimate": true
+                "is_estimate": True
             },
             "waste_recycling_note": ""
         },
         "world_biomes": {
             "world_biomes": {
-                "types_description": null,
-                "tundra": null,
-                "coniferous_forest": null,
-                "temperate_deciduous_forest": null,
-                "rainforest": null,
-                "grassland": null,
-                "shrubland": null,
-                "desert": null
+                "types_description": None,
+                "tundra": None,
+                "coniferous_forest": None,
+                "temperate_deciduous_forest": None,
+                "rainforest": None,
+                "grassland": None,
+                "shrubland": None,
+                "desert": None
             },
             "world_biomes_note": ""
         },
         "marine_fisheries": {
             "marine_fisheries": {
-                "description": null,
-                "total_catch_mt": null,
-                "year": null,
-                "regional_bodies": null,
+                "description": None,
+                "total_catch_mt": None,
+                "year": None,
+                "regional_bodies": None,
                 "major_producers": [],
                 "principal_catches": []
             },
@@ -1551,7 +1551,7 @@ USA_cia_meta = {
         "suffrage": {
             "suffrage_description": "18 years of age; universal",
             "voting_age": 18,
-            "universal_suffrage": true
+            "universal_suffrage": True
         },
         "union_name": {}
     },
@@ -1605,17 +1605,17 @@ USA_cia_meta = {
                 {
                     "year": 2023,
                     "value": -818822000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": -971594000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": -831453000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "current_account_latest_value": -818822000000.0,
@@ -1627,12 +1627,12 @@ USA_cia_meta = {
                 {
                     "year": 2019,
                     "value": 20275951000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2018,
                     "value": 19452478000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "external_debt_latest_value": 20275951000000.0,
@@ -1647,17 +1647,17 @@ USA_cia_meta = {
                 {
                     "year": 2023,
                     "value": 3052000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": 3018000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": 2567000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "exports_latest_value": 3052000000000.0,
@@ -1759,7 +1759,7 @@ USA_cia_meta = {
                 {
                     "year": 2021,
                     "value": 39.8,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "gini_latest_value": 39.8,
@@ -1784,17 +1784,17 @@ USA_cia_meta = {
                 {
                     "year": 2023,
                     "value": 3832000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": 3970000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": 3409000000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "imports_latest_value": 3832000000000.0,
@@ -1874,19 +1874,19 @@ USA_cia_meta = {
                     "year": 2023,
                     "value": 4.12,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": 8.0,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": 4.7,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "inflation_latest_value": 4.12,
@@ -1901,7 +1901,7 @@ USA_cia_meta = {
                     "year": 2022,
                     "value": 110.39,
                     "unit": "% of GDP",
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "public_debt_latest_value": 110.39,
@@ -1933,17 +1933,17 @@ USA_cia_meta = {
                 {
                     "year": 2023,
                     "value": 773426000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": 706644000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": 716152000000.0,
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "reserves_latest_value": 773426000000.0,
@@ -1956,19 +1956,19 @@ USA_cia_meta = {
                     "year": 2023,
                     "value": 3.63,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2022,
                     "value": 3.65,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 },
                 {
                     "year": 2021,
                     "value": 5.35,
                     "unit": "%",
-                    "is_estimate": true
+                    "is_estimate": True
                 }
             ],
             "unemployment_latest_value": 3.63,
@@ -1996,42 +1996,42 @@ USA_cia_meta = {
             "carbon_total_value": 4941000000.0,
             "carbon_total_unit": "metric tonnes of CO2",
             "carbon_total_year": 2022,
-            "carbon_total_is_estimate": true,
+            "carbon_total_is_estimate": True,
             "carbon_coal_value": 938649000.0,
             "carbon_coal_unit": "metric tonnes of CO2",
             "carbon_coal_year": 2022,
-            "carbon_coal_is_estimate": true,
+            "carbon_coal_is_estimate": True,
             "carbon_petroleum_value": 2260000000.0,
             "carbon_petroleum_unit": "metric tonnes of CO2",
             "carbon_petroleum_year": 2022,
-            "carbon_petroleum_is_estimate": true,
+            "carbon_petroleum_is_estimate": True,
             "carbon_natural_gas_value": 1742000000.0,
             "carbon_natural_gas_unit": "metric tonnes of CO2",
             "carbon_natural_gas_year": 2022,
-            "carbon_natural_gas_is_estimate": true
+            "carbon_natural_gas_is_estimate": True
         },
         "carbon_dioxide_from_consumption": {},
         "coal": {
             "coal_production_value": 548849000.0,
             "coal_production_unit": "metric tons",
             "coal_production_year": 2022,
-            "coal_production_is_estimate": true,
+            "coal_production_is_estimate": True,
             "coal_consumption_value": 476044000.0,
             "coal_consumption_unit": "metric tons",
             "coal_consumption_year": 2022,
-            "coal_consumption_is_estimate": true,
+            "coal_consumption_is_estimate": True,
             "coal_exports_value": 80081000.0,
             "coal_exports_unit": "metric tons",
             "coal_exports_year": 2022,
-            "coal_exports_is_estimate": true,
+            "coal_exports_is_estimate": True,
             "coal_imports_value": 5788000.0,
             "coal_imports_unit": "metric tons",
             "coal_imports_year": 2022,
-            "coal_imports_is_estimate": true,
+            "coal_imports_is_estimate": True,
             "coal_reserves_value": 248941000000.0,
             "coal_reserves_unit": "metric tons",
             "coal_reserves_year": 2022,
-            "coal_reserves_is_estimate": true
+            "coal_reserves_is_estimate": True
         },
         "crude_oil_exports": {},
         "crude_oil_imports": {},
@@ -2041,35 +2041,35 @@ USA_cia_meta = {
             "elec_capacity_value": 1201000000.0,
             "elec_capacity_unit": "kW",
             "elec_capacity_year": 2022,
-            "elec_capacity_is_estimate": true,
+            "elec_capacity_is_estimate": True,
             "elec_consumption_value": 4128000000000.0,
             "elec_consumption_unit": "kWh",
             "elec_consumption_year": 2022,
-            "elec_consumption_is_estimate": true,
+            "elec_consumption_is_estimate": True,
             "elec_exports_value": 15758000000.0,
             "elec_exports_unit": "kWh",
             "elec_exports_year": 2022,
-            "elec_exports_is_estimate": true,
+            "elec_exports_is_estimate": True,
             "elec_imports_value": 56970000000.0,
             "elec_imports_unit": "kWh",
             "elec_imports_year": 2022,
-            "elec_imports_is_estimate": true,
+            "elec_imports_is_estimate": True,
             "elec_losses_value": 204989000000.0,
             "elec_losses_unit": "kWh",
             "elec_losses_year": 2022,
-            "elec_losses_is_estimate": true
+            "elec_losses_is_estimate": True
         },
         "electricity_consumption": {
             "elec_consumption_value": 4128000000000.0,
             "elec_consumption_unit": "kWh",
             "elec_consumption_year": 2022,
-            "elec_consumption_is_estimate": true
+            "elec_consumption_is_estimate": True
         },
         "electricity_exports": {
             "elec_exports_value": 15758000000.0,
             "elec_exports_unit": "kWh",
             "elec_exports_year": 2022,
-            "elec_exports_is_estimate": true
+            "elec_exports_is_estimate": True
         },
         "electricity_from_fossil": {},
         "electricity_from_hydro": {},
@@ -2078,14 +2078,14 @@ USA_cia_meta = {
             "elec_imports_value": 56970000000.0,
             "elec_imports_unit": "kWh",
             "elec_imports_year": 2022,
-            "elec_imports_is_estimate": true
+            "elec_imports_is_estimate": True
         },
         "electricity_from_other_renewable": {},
         "electricity_generating_capacity": {
             "elec_capacity_value": 1201000000.0,
             "elec_capacity_unit": "kW",
             "elec_capacity_year": 2022,
-            "elec_capacity_is_estimate": true
+            "elec_capacity_is_estimate": True
         },
         "electricity_production": {},
         "electricity_access": {},
@@ -2094,29 +2094,29 @@ USA_cia_meta = {
             "energy_per_capita_value": 284575000.0,
             "energy_per_capita_unit": "Btu/person",
             "energy_per_capita_year": 2022,
-            "energy_per_capita_is_estimate": true
+            "energy_per_capita_is_estimate": True
         },
         "natural_gas": {
             "nat_gas_production_value": 1028999999999.9999,
             "nat_gas_production_unit": "cubic meters",
             "nat_gas_production_year": 2022,
-            "nat_gas_production_is_estimate": true,
+            "nat_gas_production_is_estimate": True,
             "nat_gas_consumption_value": 914301000000.0,
             "nat_gas_consumption_unit": "cubic meters",
             "nat_gas_consumption_year": 2022,
-            "nat_gas_consumption_is_estimate": true,
+            "nat_gas_consumption_is_estimate": True,
             "nat_gas_exports_value": 195497000000.0,
             "nat_gas_exports_unit": "cubic meters",
             "nat_gas_exports_year": 2022,
-            "nat_gas_exports_is_estimate": true,
+            "nat_gas_exports_is_estimate": True,
             "nat_gas_imports_value": 85635000000.0,
             "nat_gas_imports_unit": "cubic meters",
             "nat_gas_imports_year": 2022,
-            "nat_gas_imports_is_estimate": true,
+            "nat_gas_imports_is_estimate": True,
             "nat_gas_reserves_value": 13402000000000.0,
             "nat_gas_reserves_unit": "cubic meters",
             "nat_gas_reserves_year": 2021,
-            "nat_gas_reserves_is_estimate": true
+            "nat_gas_reserves_is_estimate": True
         },
         "natural_gas_consumption": {},
         "natural_gas_exports": {},
@@ -2128,15 +2128,15 @@ USA_cia_meta = {
             "petrol_production_value": 20879000.0,
             "petrol_production_unit": "bbl/day",
             "petrol_production_year": 2023,
-            "petrol_production_is_estimate": true,
+            "petrol_production_is_estimate": True,
             "petrol_consumption_value": 20246000.0,
             "petrol_consumption_unit": "bbl/day",
             "petrol_consumption_year": 2023,
-            "petrol_consumption_is_estimate": true,
+            "petrol_consumption_is_estimate": True,
             "petrol_reserves_value": 38212000000.0,
             "petrol_reserves_unit": "barrels",
             "petrol_reserves_year": 2021,
-            "petrol_reserves_is_estimate": true
+            "petrol_reserves_is_estimate": True
         },
         "refined_petroleum_consumption": {},
         "refined_petroleum_exports": {},
@@ -2147,10 +2147,10 @@ USA_cia_meta = {
         "broadband_fixed": {
             "broadband_total_value": 121176000.0,
             "broadband_total_year": 2020,
-            "broadband_total_is_estimate": true,
+            "broadband_total_is_estimate": True,
             "broadband_per_100_value": 37.0,
             "broadband_per_100_year": 2020,
-            "broadband_per_100_is_estimate": true
+            "broadband_per_100_is_estimate": True
         },
         "broadband_media": {},
         "communications_note": {
@@ -2162,28 +2162,28 @@ USA_cia_meta = {
         "internet_users": {
             "internet_users_total_value": 312800000.0,
             "internet_users_total_year": 2021,
-            "internet_users_total_is_estimate": true,
+            "internet_users_total_is_estimate": True,
             "internet_users_pct_value": 92.0,
             "internet_users_pct_unit": "%",
             "internet_users_pct_year": 2021,
-            "internet_users_pct_is_estimate": true
+            "internet_users_pct_is_estimate": True
         },
         "tele_systems": {},
         "phone_fixed_lines": {
             "phone_fixed_total_value": 91623000.0,
             "phone_fixed_total_year": 2022,
-            "phone_fixed_total_is_estimate": true,
+            "phone_fixed_total_is_estimate": True,
             "phone_fixed_per_100_value": 27.0,
             "phone_fixed_per_100_year": 2022,
-            "phone_fixed_per_100_is_estimate": true
+            "phone_fixed_per_100_is_estimate": True
         },
         "phone_mobile_cellular": {
             "phone_mobile_total_value": 372682000.0,
             "phone_mobile_total_year": 2022,
-            "phone_mobile_total_is_estimate": true,
+            "phone_mobile_total_is_estimate": True,
             "phone_mobile_per_100_value": 110.0,
             "phone_mobile_per_100_year": 2022,
-            "phone_mobile_per_100_is_estimate": true
+            "phone_mobile_per_100_is_estimate": True
         }
     },
     "transportation": {
@@ -2502,10 +2502,10 @@ USA_cia_meta = {
         },
         "illicit_drugs": {
             "illicit_drugs_description": "world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center",
-            "is_producer": true,
-            "is_consumer": true,
-            "is_transit": false,
-            "is_money_laundering": true,
+            "is_producer": True,
+            "is_consumer": True,
+            "is_transit": False,
+            "is_money_laundering": True,
             "drugs_mentioned": [
                 "cocaine",
                 "heroin",
