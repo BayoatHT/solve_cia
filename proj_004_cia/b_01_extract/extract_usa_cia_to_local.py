@@ -53,28 +53,29 @@ def load_json_file(file_path: str) -> Dict[str, Any]:
 
 
 def write_country_meta_file(file_path: str, variable_name: str, data: Dict[str, Any]):
-    """Write the country metadata to a Python file defining a variable."""
+    """Write the country metadata to a Python file defining a variable with proper Python syntax."""
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
             # Write the variable assignment
             file.write(f'{variable_name} = ')
 
-            # Serialize data to a JSON-formatted string with human-readable characters
-            json_string = json.dumps(data, indent=4, ensure_ascii=False)
+            # Serialize data to clean JSON format
+            python_string = json.dumps(data, indent=4, ensure_ascii=False)
 
-            # Replace any special apostrophes with regular ones
-            # Right single quotation mark → regular apostrophe
-            json_string = json_string.replace('\u2019', "'")
-            # Left single quotation mark → regular apostrophe
-            json_string = json_string.replace('\u2018', "'")
-            # Left double quotation mark → regular quote
-            json_string = json_string.replace('\u201c', '"')
-            # Right double quotation mark → regular quote
-            json_string = json_string.replace('\u201d', '"')
+            # Replace special quotation marks with standard ones
+            python_string = python_string.replace('\u2019', "'")   # Right single quote
+            python_string = python_string.replace('\u2018', "'")   # Left single quote
+            python_string = python_string.replace('\u201c', '"')   # Left double quote
+            python_string = python_string.replace('\u201d', '"')   # Right double quote
 
-            # Write the modified JSON string to the file
-            file.write(json_string)
-            file.write('\n')  # Ensure there's a newline at the end
+            # Convert JSON literals to Python literals
+            python_string = python_string.replace(': true', ': True')
+            python_string = python_string.replace(': false', ': False')
+            python_string = python_string.replace(': null', ': None')
+
+            # Write the Python string to the file
+            file.write(python_string)
+            file.write('\n')
     except Exception as e:
         if app_logger:
             app_logger.error(f"Error writing file {file_path}: {e}")
