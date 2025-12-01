@@ -12,7 +12,6 @@ Enhanced with region and country filtering capabilities.
 import os
 import json
 import logging
-from pprint import pformat
 from tqdm import tqdm
 from typing import Dict, Any, List, Optional
 from proj_004_cia.__logger.logger import app_logger
@@ -60,23 +59,23 @@ def write_country_meta_file(file_path: str, variable_name: str, data: Dict[str, 
             # Write the variable assignment
             file.write(f'{variable_name} = ')
 
-            # Use pformat to serialize data directly to Python syntax
-            # This automatically handles True/False/None correctly
-            python_string = pformat(data, indent=4, width=120, sort_dicts=False)
+            # Serialize data to clean JSON format
+            python_string = json.dumps(data, indent=4, ensure_ascii=False)
 
-            # Replace any special apostrophes with regular ones
-            # Right single quotation mark → regular apostrophe
-            python_string = python_string.replace('\u2019', "'")
-            # Left single quotation mark → regular apostrophe
-            python_string = python_string.replace('\u2018', "'")
-            # Left double quotation mark → regular quote
-            python_string = python_string.replace('\u201c', '"')
-            # Right double quotation mark → regular quote
-            python_string = python_string.replace('\u201d', '"')
+            # Replace special quotation marks with standard ones
+            python_string = python_string.replace('\u2019', "'")   # Right single quote
+            python_string = python_string.replace('\u2018', "'")   # Left single quote
+            python_string = python_string.replace('\u201c', '"')   # Left double quote
+            python_string = python_string.replace('\u201d', '"')   # Right double quote
+
+            # Convert JSON literals to Python literals
+            python_string = python_string.replace(': true', ': True')
+            python_string = python_string.replace(': false', ': False')
+            python_string = python_string.replace(': null', ': None')
 
             # Write the Python string to the file
             file.write(python_string)
-            file.write('\n')  # Ensure there's a newline at the end
+            file.write('\n')
     except Exception as e:
         if app_logger:
             app_logger.error(f"Error writing file {file_path}: {e}")
