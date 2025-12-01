@@ -10,9 +10,9 @@ Enhanced with region and country filtering capabilities.
 # ---------------------------------------------------------------------------------------------------------------------
 
 import os
-import re
 import json
 import logging
+from pprint import pformat
 from tqdm import tqdm
 from typing import Dict, Any, List, Optional
 from proj_004_cia.__logger.logger import app_logger
@@ -60,28 +60,22 @@ def write_country_meta_file(file_path: str, variable_name: str, data: Dict[str, 
             # Write the variable assignment
             file.write(f'{variable_name} = ')
 
-            # Serialize data to a JSON-formatted string with human-readable characters
-            json_string = json.dumps(data, indent=4, ensure_ascii=False)
+            # Use pformat to serialize data directly to Python syntax
+            # This automatically handles True/False/None correctly
+            python_string = pformat(data, indent=4, width=120, sort_dicts=False)
 
             # Replace any special apostrophes with regular ones
             # Right single quotation mark → regular apostrophe
-            json_string = json_string.replace('\u2019', "'")
+            python_string = python_string.replace('\u2019', "'")
             # Left single quotation mark → regular apostrophe
-            json_string = json_string.replace('\u2018', "'")
+            python_string = python_string.replace('\u2018', "'")
             # Left double quotation mark → regular quote
-            json_string = json_string.replace('\u201c', '"')
+            python_string = python_string.replace('\u201c', '"')
             # Right double quotation mark → regular quote
-            json_string = json_string.replace('\u201d', '"')
+            python_string = python_string.replace('\u201d', '"')
 
-            # Convert JSON syntax to Python syntax
-            # true → True, false → False, null → None
-            # Use word boundaries to avoid replacing inside strings
-            json_string = re.sub(r'\bfalse\b', 'False', json_string)
-            json_string = re.sub(r'\btrue\b', 'True', json_string)
-            json_string = re.sub(r'\bnull\b', 'None', json_string)
-
-            # Write the modified Python string to the file
-            file.write(json_string)
+            # Write the Python string to the file
+            file.write(python_string)
             file.write('\n')  # Ensure there's a newline at the end
     except Exception as e:
         if app_logger:
