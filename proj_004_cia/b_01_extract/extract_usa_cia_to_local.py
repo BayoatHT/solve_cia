@@ -10,6 +10,7 @@ Enhanced with region and country filtering capabilities.
 # ---------------------------------------------------------------------------------------------------------------------
 
 import os
+import re
 import json
 import logging
 from tqdm import tqdm
@@ -53,7 +54,7 @@ def load_json_file(file_path: str) -> Dict[str, Any]:
 
 
 def write_country_meta_file(file_path: str, variable_name: str, data: Dict[str, Any]):
-    """Write the country metadata to a Python file defining a variable."""
+    """Write the country metadata to a Python file defining a variable with proper Python syntax."""
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
             # Write the variable assignment
@@ -72,7 +73,14 @@ def write_country_meta_file(file_path: str, variable_name: str, data: Dict[str, 
             # Right double quotation mark → regular quote
             json_string = json_string.replace('\u201d', '"')
 
-            # Write the modified JSON string to the file
+            # Convert JSON syntax to Python syntax
+            # true → True, false → False, null → None
+            # Use word boundaries to avoid replacing inside strings
+            json_string = re.sub(r'\bfalse\b', 'False', json_string)
+            json_string = re.sub(r'\btrue\b', 'True', json_string)
+            json_string = re.sub(r'\bnull\b', 'None', json_string)
+
+            # Write the modified Python string to the file
             file.write(json_string)
             file.write('\n')  # Ensure there's a newline at the end
     except Exception as e:
