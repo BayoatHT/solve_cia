@@ -295,9 +295,13 @@ def extract_usa_cia_to_local(countries: Optional[List[str]] = None,
             app_logger.info(
                 f"Processing {len(target_iso3_codes)} countries: {', '.join(target_iso3_codes[:10])}{'...' if len(target_iso3_codes) > 10 else ''}")
 
-        # Setup directories
-        raw_data_folder = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_raw_data'
-        local_usa_cia_save_dir = r'C:\Users\bayoa\impact_projects\claude_solve_cia\proj_004_cia\_data_per_country'
+        # Setup directories - use cross-platform paths
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        raw_data_folder = os.path.join(base_dir, '_raw_data')
+        local_usa_cia_save_dir = os.path.join(base_dir, '_data_per_country')
+
+        # Ensure output directory exists
+        create_directory(local_usa_cia_save_dir)
 
         # Initialize tracking variables
         original_cia_meta = {}
@@ -405,28 +409,27 @@ def extract_usa_cia_to_local(countries: Optional[List[str]] = None,
                         # High coverage, moderate complexity
                         ("geography", return_geography_data),
                         # High coverage, important for analysis
-
                         ("government", return_government_data),
                         # High coverage, demographic data
-                        # ("society", return_society_data),
+                        ("society", return_society_data),
                         # High coverage, critical for analysis
-                        # ("economy", return_economy_data),
+                        ("economy", return_economy_data),
                         # Growing importance
-                        # ("environment", return_environment_data),
+                        ("environment", return_environment_data),
                         # Strategic importance
-                        # ("energy", return_energy_data),
+                        ("energy", return_energy_data),
                         # Infrastructure data
-                        # ("communications", return_communications_data),
+                        ("communications", return_communications_data),
                         # Infrastructure data
-                        # ("transportation", return_transportation_data),
+                        ("transportation", return_transportation_data),
                         # Security analysis
-                        # ("military", return_military_data),
+                        ("military", return_military_data),
                         # Future capabilities
-                        # ("space", return_space_data),
+                        ("space", return_space_data),
                         # Security analysis
-                        # ("terrorism", return_terrorism_data),
+                        ("terrorism", return_terrorism_data),
                         # International relations
-                        # ("issues", return_issues_data)
+                        ("issues", return_issues_data)
                     ]
 
                     # Filter out skipped sections
