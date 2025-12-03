@@ -1,0 +1,159 @@
+{
+  "site_key": "forest_research_institute_malaysia_forest_park_selangor",
+  "uuid": "eb2f60b8-8b57-532a-8883-fd64e9a34cf0",
+  "unesco_id": "1734",
+  "names": {
+    "en": "Forest Research Institute Malaysia Forest Park Selangor",
+    "fr": "Parc forestier de l’Institut de recherche forestière de Malaisie au Selangor",
+    "es": "Parque forestal del Instituto de Investigación Forestal de Malasia en Selangor",
+    "ru": "Лесной парк Селангор Лесного научно-исследовательского института Малайзии",
+    "ar": "حديقة معهد البحوث الحرجية الماليزي – سيلانغور",
+    "zh": "马来西亚森林研究院雪兰莪森林公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "MYS": {
+        "name": "Malaysia",
+        "iso2": "MY",
+        "iso3": "MYS"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices.",
+      "fr": "Situé à seize kilomètres au nord-ouest de Kuala Lumpur, ce bien est une forêt tropicale créée par l’homme, plantée à partir des années 1920 sur des terres dégradées par l'exploitation minière de l’étain. Il comprend des bâtiments scientifiques, résidentiels et de service, ainsi que des plans d’eau et un réseau de sentiers. Ce site est le fruit d’une expérimentation initiale de reboisement, qui a permis de transformer un terrain stérile en forêt tropicale de plaine. Il constitue un exemple précoce de restauration écologique et de réhabilitation durable des terres.",
+      "es": "Ubicado a 16 km al noroeste de Kuala Lumpur, este lugar es una selva tropical creada por el hombre en tierras degradadas por las minas de estaño desde la década de 1920. Incluye edificios científicos, residenciales y de servicios, cuerpos de agua y senderos. El sitio es el resultado de un esfuerzo pionero de reforestación que ha transformado con éxito tierras áridas en un bosque tropical maduro de tierras bajas que revelan prácticas tempranas de restauración ecológica y rehabilitación sostenible de tierras.",
+      "ru": "Этот объект, расположенный в 16 км к северо-западу от Куала-Лумпура, представляет собой искусственно созданный тропический лес, разбитый на деградированных землях, где с 1920-х годов велась добыча олова. На его территории находятся научные, жилые и служебные здания, а также водоемы и пешеходные тропы. Этот лесопарк является примером новаторского подхода к лесовосстановлению, который позволил успешно превратить бесплодные земли в зрелый низкорослый тропический лес, что демонстрирует эффективность практик раннего экологического восстановления и устойчивой рекультивации земель.",
+      "ar": "يَبعُد هذا المنتزه مسافة 16 كيلومتراً شمال غرب كوالالمبور، وهو عبارة عن غابة مطيرة استوائية من صنع الإنسان، أُنشئت على أرض متدهورة كانت تُستخدم للتنقيب عن القصدير منذ عشرينيات القرن الماضي. ويضم المنتزه مبان علمية وسكنية ومبان للخدمات، بالإضافة إلى مسطحات مائية ومسارات طبيعية. ويمثل هذا المنتزه جهوداً رائدة في مجال إعادة التشجير، إذ شهد تحويل أرض قاحلة إلى غابة استوائية ناضجة ومنخفضة، ما يجعله نموذجاً لأولى الممارسات الرامية إلى استعادة النُظم الإيكولوجية وإعادة تأهيل الأراضي على نحو مستدام.",
+      "zh": "该遗产是一处坐落在吉隆坡西北16公里处的人工热带雨林。造林工作始于20世纪20年代，原址是锡矿开采后的退化土地。园区内包含科研、居住、服务设施，以及水体和步道。这一开创性再造林工程成功将贫瘠的荒地转化为成熟的低地热带森林，是早期生态修复和可持续土地复垦实践典范。"
+    },
+    "full": "Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        4
+      ],
+      "natural": [],
+      "all": [
+        4
+      ],
+      "display": "(iv)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 589,
+      "square_km": 5.89,
+      "square_miles": 2.384,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3e09523c81c7603bf97ea0e2d971d112",
+      "filename": "site_1734_0001.jpg",
+      "dimensions": {
+        "width": 2598,
+        "height": 1731
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/219861/site_1734_0001.jpg",
+        "https://whc.unesco.org/document/219862/site_1734_0002.jpg",
+        "https://whc.unesco.org/document/219864/site_1734_0004.jpg",
+        "https://whc.unesco.org/document/219865/site_1734_0005.jpg",
+        "https://whc.unesco.org/document/219866/site_1734_0006.jpg",
+        "https://whc.unesco.org/document/219867/site_1734_0007.jpg",
+        "https://whc.unesco.org/document/219868/site_1734_0008.jpg",
+        "https://whc.unesco.org/document/219869/site_1734_0009.jpg",
+        "https://whc.unesco.org/document/219871/site_1734_0011.jpg",
+        "https://whc.unesco.org/document/219872/site_1734_0012.jpg"
+      ],
+      "count": 10
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Forest Research Institute Malaysia Forest Park Selangor",
+        "ref": "1734",
+        "latitude": 3.22925,
+        "longitude": 101.6272777778
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1734",
+    "unesco_documents": "https://whc.unesco.org/en/list/1734/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1734/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1734/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Forest",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Forest Research Institute Malaysia Forest Park Selangor Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices. Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices. Malaysia Asia and the Pacific Cultural"
+}

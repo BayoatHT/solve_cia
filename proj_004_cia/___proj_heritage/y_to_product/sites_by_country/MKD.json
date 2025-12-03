@@ -1,0 +1,1062 @@
+{
+  "country": {
+    "code": "MKD",
+    "name": "North Macedonia"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 1
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "natural_and_cultural_heritage_of_the_ohrid_region",
+      "uuid": "446d230f-06f6-5294-acf5-c6f64ee26f19",
+      "unesco_id": "99",
+      "names": {
+        "en": "Natural and Cultural Heritage of the Ohrid region",
+        "fr": "Patrimoine naturel et culturel de la région d’Ohrid",
+        "es": "Patrimonio natural y cultural de la región de Ohrid",
+        "ru": "Природное и культурное наследие Охридского региона",
+        "ar": "التراث الطبيعي والثقافي في منطقة أوخريد",
+        "zh": "奥赫里德地区自然与文化遗产"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MKD": {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "iso3": "MKD"
+          },
+          "ALB": {
+            "name": "Albania",
+            "iso2": "AL",
+            "iso3": "ALB"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century.",
+          "fr": "Phénomène naturel exceptionnel, le lac d’Ohrid sert de refuge à de nombreuses espèces endémiques de faune et de flore d’eau douce datant du Tertiaire. Édifiée au bord du lac, la ville d’Ohrid est l’un des plus anciens établissements humains d’Europe. Elle a été essentiellement construite entre le VIIe and le XIXe siècle et abrite le plus ancien monastère slave (consacré à saint Pantaléon) ainsi que 800 icônes de style byzantin réalisées entre le XIe et la fin du XIVe siècle. Dans les eaux peu profondes près des rives du lac, trois sites témoignent de la présence d’habitations sur pilotis préhistoriques, et sur la petite péninsule de Lin se trouvent les vestiges d’une chapelle chrétienne fondée au milieu du VIe siècle.",
+          "es": "En 1979 se inscribió en la Lista del Patrimonio Mundial el sitio formado por la ribera del lago Ohrid situada en Macedonia del Norte, así como la ciudad de este mismo nombre y la región circundante. Con la actual extensión, el sitio abarca ahora la ribera del lago situada en Albania, comprendida la pequeña península noroccidental de Lin y la franja ribereña que se extiende desde ella hasta la frontera macedónica. Esta península alberga los vestigios de una capilla cristiana fundada a mediados del siglo VI. Cerca de la orilla albanesa hay tres zonas, situadas en aguas de escasa profundidad, en las que quedan restos de viviendas lacustres prehistóricas sobre pilotes. Excepcional en el plano geológico, el lago Ohrid alberga numerosas especies endémicas de vegetales y animales acuáticos que datan de la Era Terciaria.",
+          "ru": "Город Охрид и часть Охридского озера в Северной Македонии входят в Список объектов Всемирного наследия ЮНЕСКО с 1979 года. Расширение границ объекта позволило включить северо-западную часть Охридского озера, расположенную на территории Албании, а также небольшой полуостров Лин и береговую линию, соединяющую полуостров с македонской границей. На полуострове Лин находятся остатки раннехристианской церкви, основанной в середине VI века. На мелководье у берегов озера расположены остатки трех доисторических свайных жилищ. Озеро представляет собой уникальное природное явление и служит убежищем для многих эндемичных видов пресноводной флоры и фауны, относящихся к Третичному периоду.",
+          "ar": "تُعتبر مدينة أوريد التي تمّ بناؤها على ضفاف بحيرة أوريد، من أقدم المنشآت التي قام بها الإنسان في أوروبا. لقد تمّ إنشاؤها بشكلٍ أساسي بين القرن السابع والقرن التاسع عشر وهي تتضمّن أقدم الأديرة السلافيّة (المُخصَّص للقديس بنتاليون)، بالاضافة إلى 800 أيقونة بيزنطيّة الاسلوب تم إعدادها بين القرن الحادي عشر ونهاية القرن الرابع عشر وهي تُعتبر مجموعة الأيقونات الأهم في العالم بعد مجموعة متحف تريتياكوف في موسكو.",
+          "zh": "北马其顿奥赫里德湖区及其腹地（包括奥赫里德市）于1979年被列入《世界遗产名录》。拓界后的遗址将覆盖位于阿尔巴尼亚境内的奥赫里德湖区、位于该湖西北部的Lin半岛以及连接该半岛与马其顿边界的沿岸地带。该半岛上存有6世纪中期建成的基督教教堂的遗迹；在靠近湖畔的浅水区有3处史前湖岸木桩建筑遗迹。奥赫里德湖不仅有着独特的自然景观，这里还生活着众多可追溯至第三纪的淡水动植物。"
+        },
+        "full": "A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century.",
+        "justification": "Brief synthesis The Lake Ohrid region, a mixed World Heritage property covering c. 94,729 ha, was first inscribed for its nature conservation values in 1979 and for its cultural heritage values a year later. These inscriptions related to the part of the lake located in North Macedonia. The property was extended to include the rest of Lake Ohrid, located in Albania, in 2019. Lake Ohrid is a superlative natural phenomenon, providing refuge for numerous endemic and relict freshwater species of flora and fauna dating from the tertiary period. As a deep and ancient lake of tectonic origin, Lake Ohrid has existed continuously for approximately two to three million years. Its oligotrophic waters conserve over 200 species of plants and animals unique to the lake, including algae, turbellarian flatworms, snails, crustaceans and 17 endemic species of fish including two species of trout, as well as a rich birdlife. Situated on the shores of Lake Ohrid, the town of Ohrid is one of the oldest human settlements in Europe. Built mostly between the 7th and 19th centuries, Ohrid is home to the oldest Slav monastery (dedicated to St. Pantelejmon) and more than 800 Byzantine-style icons of worldwide fame dating from the 11th century to the end of the 14th century. Ohrid’s architecture represents the best preserved and most complete ensemble of ancient urban architecture of this part of Europe. Slav culture spread from Ohrid to other parts of Europe. Seven basilicas have thus far been discovered in archaeological excavations in the old part of Ohrid. These basilicas were built during the 4th, 5th and beginning of the 6th centuries and contain architectural and decorative characteristics that indisputably point to a strong ascent and glory of Lychnidos, the former name of the town. The structure of the city nucleus is also enriched by a large number of archaeological sites, with an emphasis on early Christian basilicas, which are also known for their mosaic floors. Special emphasis regarding Ohrid’s old urban architecture must be given to the town’s masonry heritage. In particular, Ohrid’s traditional local influence can be seen among its well-preserved late-Ottoman urban residential architecture dating from the 18th and 19th centuries. The limited space for construction activities has led to the formation of a very narrow network of streets. On the Lin Peninsula, in the west of the Lake, the Early Christian Lin church, founded in the mid-6th century, is related to the basilicas of Ohrid town in terms of its architectural form and decorative floor mosaics, and possibly also through liturgical links. Although the town of Struga is located along the northern shores of Lake Ohrid, town life is concentrated along the banks of the Crn Drim River, which flows out of the lake. The existence of Struga is connected with several fishermen settlements on wooden piles situated along the lake shore. A great number of archaeological sites testify to origins from the Neolithic period, the Bronze Age, the Macedonian Hellenistic period, the Roman and the early Middle Age period. Similar pre-historic pile dwelling sites have also been identified in the western margins of the Lake. The convergence of well-conserved natural values with the quality and diversity of its cultural, material and spiritual heritage makes this region truly unique. Criterion (i): The town of Ohrid is one of the oldest human settlements in Europe. As one of the best preserved complete ensembles encompassing archaeological remains from the Bronze Age up to the Middle Ages, Ohrid boasts exemplary religious architecture dating from the 7th to 19th centuries as well as an urban structure showcasing vernacular architecture from the 18th and 19th centuries. All of them possess real historic, architectural, cultural and artistic values. The concentration of the archaeological remains and urban structures within the old urban centre of Ohrid, in the Lin Peninsula, and along the coast of Lake Ohrid as well as the surrounding areas creates an exceptional harmonious ensemble, which is one of the key features that make this region truly unique. Criterion (iii): The property is a testimony of Byzantine arts, displayed by more than 2,500 square metres of frescoes and more than 800 icons of worldwide fame. The churches of St. Sophia (11th century), Holy Mother of God Perivleptos and St. John Kaneo notably display a high level of artistic achievements in their frescoes and theological representations, executed by local as well as foreign artists. Ancient architects erected immense basilicas, which were to serve as models for other basilicas for centuries. The development of ecclesiastical life along the shores of the lake, along with its own religious architecture, frescoes and icons, testifies to the significance of this region as a religious and cultural centre over the centuries. The similarities between the mosaics of Lin church in the west of the Lake with those of the early basilicas of Ohrid to the east, reflect a single cultural tradition. Criterion (iv): The Lake Ohrid region boasts the most ancient Slavonic monastery and the first Slavonic University in the Balkans – the Ohrid literary school that spread writing, education and culture throughout the old Slavonic world. The old town centre of Ohrid is a uniquely preserved, authentic ancient urban entity, adjusted to its coastal lake position and terrain, which is characterised by exceptional sacred and profane architecture. The architectural remains comprising a forum, public buildings, housing and sacred buildings with their infrastructure date back to the ancient town of Lychnidos (the former name of the town). The presence of early Christian architecture from 4th to 6th centuries is attested by the lofty basilicas of Ohrid and the small church of Lin. The Byzantine architecture of Ohrid with a great number of preserved sacred buildings of different types from 9th to 14th centuries, is of paramount importance and contributes to the unity of its urban architecture. Criterion (vii): The distinctive nature conservation values of Lake Ohrid, with a history dating from pre-glacial times, represent a superlative natural phenomenon. As a result of its geographic isolation and uninterrupted biological activity, Lake Ohrid provides a unique refuge for numerous endemic and relict freshwater species of flora and fauna. Its oligotrophic waters contain over 200 endemic species with high levels of endemism for benthic species in particular, including algae, diatoms, turbellarian flatworms, snails, crustaceans and 17 endemic species of fish. The natural birdlife of the Lake also contributes significantly to its conservation value. Integrity The property encompasses all of the features that convey the property’s Outstanding Universal Value in relation to natural and cultural criteria. Main threats to the integrity of the property include uncoordinated urban development, increasing population, inadequate treatment of wastewater and solid waste, and tourism pressure, as well as a number of other issues. In addition, pollution from increased traffic influences the quality of the water, which leads to the depletion of natural resources. The highly endemic biodiversity and natural beauty of the Lake are particularly vulnerable to changes in water quality, and there is alarming evidence of a growth in nutrients threatening the oligotrophic ecology of the Lake. This oligotrophic state is the basis for its nature conservation value, and action to tackle this threat must be a priority. The integrity of the town of Ohrid suffered to some extent, as several houses built at the end of 19th century were demolished in order to exhibit the excavated remains of the Roman Theatre. The overall coherence of the property, and particularly the relationship between urban buildings and the landscape setting of the Lake, is vulnerable to the lack of adequate protection and control of new development. Authenticity The town of Ohrid is reasonably well preserved, although uncontrolled incremental interventions have impacted the overall form of the monumental urban ensemble as well as the lakeshore and wider landscape. These are also vulnerable to major infrastructure projects and other developments. Concerning the religious buildings around Ohrid, important conservation and restoration works have been carried out since the 1990s. Conservation works on the monuments in the region have been thoroughly researched and documented, but some have impacted the property’s authenticity. The icons and frescoes are in good condition and kept in the churches. The originally residential function of some buildings has changed over time, as have some of the interior outfitting of residential buildings, which were altered to improve living conditions. While reconstructions often used materials identical to those used at the time of construction, new materials have also been used on occasion, which presents a threat for the authenticity of the property. The Lin church and its context is vulnerable to lack of protection and, inadequately controlled conservation and development. At the western side of the Lake, the support the buffer zone offers to the Lin peninsula and the landscape setting of the Lake is likely to be ineffective as a result of a lack of adequate protection and development control. Protection and management requirements The Natural and Cultural Heritage of the Ohrid region has several layers of legal protection afforded by both States Parties. In the North Macedonian part of the property, the protection of cultural heritage is regulated by the Law on Cultural Heritage Protection (Official Gazette of RM No. 20/04, 115/07), by-laws and a law declaring the old city core of Ohrid as a cultural heritage of particular importance (Official Gazette of RM No. 47/11). There is currently no specific national protection for cultural sites located in Albania. The protection of natural heritage is regulated by the Law on Nature Protection (Official Gazette of RM No. 67/2004, 14/2006 and 84/2007), including within and outside of protected areas. There is also the Law on Managing the World Cultural and Natural Heritage of the Ohrid Region (Official Gazette of RM No. 75/10). In Albania, the Pogradec Terrestrial/Aquatic Protected Landscape (PPL) was legally established in 1999 to protect both terrestrial and aquatic eco-systems, and covers the entire area of the property and its buffer zone. The States Parties have also signed several agreements for management and protection of the Lake, for instance the 2003 Law on Protection of Transboundary Lakes. Legal instruments need to be kept updated and implemented to protect the property. The property is managed and protected through a range of relevant management documents, and an effective overall management plan is a clear long-term requirement. The “Physical Plan of the Republic of Macedonia” sic of 2004 provides the most comprehensive long-term and integrated document for land management, providing a vision for the purpose, protection, organization and landscape of the country and how to manage it. In Albania, the management plan for the PPL is of a high-quality, and a Protective Landscape Management Plan was developed in 2014, with the objectives to strengthen management, increase habitat protection and conservation, develop touristic and recreational use, and encourage the development of sustainable agriculture and socio-economic activities. This includes a five-year Action Plan (2014-2019) that aims to start remedial measures through strengthening management and cooperation and improving the legal framework. The Plan proposes to exclude the urban areas and the areas where intensive agricultural practices take place around the towns of Pogradec and Buçimas from the zoning of the protected landscape. To this Management Plan has been added a World Heritage Supplement (2017-2027) that sets out systems to strengthen the management of the extended property and its buffer zone. This supplement covers both cultural and natural heritage in terms of threats and necessary actions. These plans need to be effectively implemented and updated regularly. Deficiencies have been noted in the general implementation of urban and protected area planning regulations and plans in both States Parties, which need to be addressed in full. In North Macedonia, the property is managed by two ministries (the Ministry of Culture and the Ministry of Environment), via three municipalities (Ohrid, Struga and Debrca), although the municipalities legally do not have the authority to protect cultural and natural heritage. The Institute for Protection of Monuments of Culture and Museums in Ohrid has the authority to protect cultural heritage, and the Natural History Museum in Struga is responsible for protecting movable heritage. The Galichica National Park is authorized to manage natural heritage within the park as a whole, and part of the cultural heritage located within the territory of the Park. The Institute for Hydrobiology in Ohrid is responsible for the continuous monitoring of the Lake Ohrid ecosystem, the research and care for Lake Ohrid’s flora and fauna, as well as the management of the fish hatchery, also to enrich the Lake’s fish stocks. In Albania, a management committee is proposed that is a modified version of the Committee for the Protected Areas. This will consist of representatives of the key government agencies covering both culture and nature, with the National Agency for Protected Areas having a central responsibility in relation to nature conservation matters, and a representative of a citizen’s initiative. Integrated management of natural and cultural heritage through a joint coordinating body and joint management planning are urgently needed to ensure that both the natural and cultural values of the property are conserved in a fully integrated manner. Given the vulnerabilities of the property related to the development and impacts of tourism, the management requirements for the property need strengthening and new cooperation mechanisms and management practices must be put into place. This may include re-evaluating the existing protected areas, and ensuring adequate financial and human resources for management as well as effective management planning and proper law enforcement. Whilst transboundary management mechanisms are set up on paper, these need to be actively and fully operational, on an ongoing basis, in order to ensure the transboundary cooperation required to secure the long-term future for Lake Ohrid. Adequate budgets also need to be provided, beyond the aspirations set out in the management documents for the property. Effective integration and implementation of planning processes at various levels, cross-sectorial cooperation, community participation and transboundary conservation are all preconditions for the successful long-term management of Lake Ohrid. A range of serious protection and management issues require strong and effective action by the States Parties, acting jointly for the whole of the property as well as within each of their territories. These include the urgent need to protect the water quality of the Lake and therefore maintain its oligotrophic ecological function; to tackle tourism and associated legal and illegal development and the impacts of development on habitats and species throughout the property, including on the lake shores. Resource extraction also needs to be effectively regulated, and enforced, including in relation to fisheries and timber harvesting; and action is required to protect against the introduction of alien invasive species. There is also evidence of climate change impacting the property, such as through the warming of the lake, which requires international attention as such issues cannot be tackled at the local level."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3,
+            4
+          ],
+          "natural": [
+            7
+          ],
+          "all": [
+            1,
+            3,
+            4,
+            7
+          ],
+          "display": "(i)(iii)(iv)(vii)",
+          "count": 4,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 94728.6,
+          "square_km": 947.29,
+          "square_miles": 383.354,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979,
+            1980,
+            2019
+          ],
+          "extensions": [
+            1980,
+            2019
+          ],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1980,
+              "event": "Extended"
+            },
+            {
+              "year": 2019,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 2
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/505783db4b52176eec4b522d318bac10",
+          "filename": "site_0099_0001.jpg",
+          "dimensions": {
+            "width": 2272,
+            "height": 1704
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108890/site_0099_0001.jpg",
+            "https://whc.unesco.org/document/108896/site_0099_0004.jpg",
+            "https://whc.unesco.org/document/108905/site_0099_0008.jpg",
+            "https://whc.unesco.org/document/108907/site_0099_0009.jpg",
+            "https://whc.unesco.org/document/108909/site_0099_0010.jpg",
+            "https://whc.unesco.org/document/108911/site_0099_0011.jpg",
+            "https://whc.unesco.org/document/108913/site_0099_0012.jpg",
+            "https://whc.unesco.org/document/118951/site_0099_0013.jpg",
+            "https://whc.unesco.org/document/118952/site_0099_0014.jpg",
+            "https://whc.unesco.org/document/118953/site_0099_0015.jpg",
+            "https://whc.unesco.org/document/118954/site_0099_0016.jpg",
+            "https://whc.unesco.org/document/118955/site_0099_0017.jpg",
+            "https://whc.unesco.org/document/155231/site_0099_0030.jpg",
+            "https://whc.unesco.org/document/155232/site_0099_0031.jpg",
+            "https://whc.unesco.org/document/155233/site_0099_0032.jpg",
+            "https://whc.unesco.org/document/155234/site_0099_0033.jpg",
+            "https://whc.unesco.org/document/155235/site_0099_0034.jpg",
+            "https://whc.unesco.org/document/155236/site_0099_0035.jpg",
+            "https://whc.unesco.org/document/155237/site_0099_0036.jpg",
+            "https://whc.unesco.org/document/155238/site_0099_0037.jpg",
+            "https://whc.unesco.org/document/155239/site_0099_0038.jpg",
+            "https://whc.unesco.org/document/155240/site_0099_0039.jpg",
+            "https://whc.unesco.org/document/166760/site_0099_0040.jpg",
+            "https://whc.unesco.org/document/166763/site_0099_0043.jpg",
+            "https://whc.unesco.org/document/118957/site_0099_0019.jpg",
+            "https://whc.unesco.org/document/148304/site_0099_0020.jpg",
+            "https://whc.unesco.org/document/148305/site_0099_0021.jpg",
+            "https://whc.unesco.org/document/148306/site_0099_0022.jpg",
+            "https://whc.unesco.org/document/148307/site_0099_0023.jpg",
+            "https://whc.unesco.org/document/148308/site_0099_0024.jpg",
+            "https://whc.unesco.org/document/148309/site_0099_0025.jpg",
+            "https://whc.unesco.org/document/148310/site_0099_0026.jpg",
+            "https://whc.unesco.org/document/148311/site_0099_0027.jpg",
+            "https://whc.unesco.org/document/148312/site_0099_0028.jpg",
+            "https://whc.unesco.org/document/148313/site_0099_0029.jpg",
+            "https://whc.unesco.org/document/166761/site_0099_0041.jpg",
+            "https://whc.unesco.org/document/166762/site_0099_0042.jpg"
+          ],
+          "count": 37
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Natural and Cultural Heritage of the Ohrid Region",
+            "ref": "99quater-001",
+            "latitude": 41.028,
+            "longitude": 20.722
+          },
+          {
+            "name": "Natural and Cultural Heritage of the Ohrid Region",
+            "ref": "99quater-002",
+            "latitude": 40.9672933093,
+            "longitude": 20.6761045412
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/99",
+        "unesco_documents": "https://whc.unesco.org/en/list/99/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/99/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/99/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Natural and Cultural Heritage of the Ohrid region A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century. A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century. North Macedonia Albania Europe and North America Mixed"
+    },
+    {
+      "site_key": "ancient_and_primeval_beech_forests_of_the_carpathians_and_other_regions_of_europe",
+      "uuid": "a3e04083-f693-5147-bc20-4f6dbcbff76e",
+      "unesco_id": "1133",
+      "names": {
+        "en": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "fr": "Forêts primaires et anciennes de hêtres des Carpates et d’autres régions d’Europe",
+        "es": "Bosques antiguos y primarios de hayas de los Cárpatos y otras regiones de Europa",
+        "ru": "Древние и первобытные буковые леса Карпат и других регионов Европы",
+        "ar": "غابات الزان القديمة وغابات الزان البدائية لمنطقة الكربات وغيرها من مناطق أوروبا",
+        "zh": "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MKD": {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "iso3": "MKD"
+          },
+          "ESP": {
+            "name": "Spain",
+            "iso2": "ES",
+            "iso3": "ESP"
+          },
+          "ITA": {
+            "name": "Italy",
+            "iso2": "IT",
+            "iso3": "ITA"
+          },
+          "FRA": {
+            "name": "France",
+            "iso2": "FR",
+            "iso3": "FRA"
+          },
+          "POL": {
+            "name": "Poland",
+            "iso2": "PL",
+            "iso3": "POL"
+          },
+          "ALB": {
+            "name": "Albania",
+            "iso2": "AL",
+            "iso3": "ALB"
+          },
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "BEL": {
+            "name": "Belgium",
+            "iso2": "BE",
+            "iso3": "BEL"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "ROU": {
+            "name": "Romania",
+            "iso2": "RO",
+            "iso3": "ROU"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          },
+          "SVK": {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "iso3": "SVK"
+          },
+          "CHE": {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "iso3": "CHE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          },
+          "DEU": {
+            "name": "Germany",
+            "iso2": "DE",
+            "iso3": "DEU"
+          },
+          "CZE": {
+            "name": "Czechia",
+            "iso2": "CZ",
+            "iso3": "CZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 18
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+          "fr": "Ce bien transnational, composé de 93 éléments constitutifs, s’étend sur 18 pays. Depuis la fin de la dernière période glaciaire, le hêtre d’Europe s’est répandu à partir de quelques refuges isolés dans les Alpes, les Carpates, les Dinarides, la Méditerranée et les Pyrénées, en l’espace de quelques milliers d’années, un processus qui se poursuit encore aujourd’hui. Le succès de la progression du hêtre s’explique par son adaptabilité et sa tolérance à différentes conditions climatiques, géographiques et physiques.",
+          "es": "",
+          "ru": "Расширение территории транснационального серийного объекта всемирного наследия «Древние и первобытные буковые леса Карпат и других регионов Европы» еще на десять европейских стран повышает исключительную универсальную ценность и целостность объекта, который теперь состоит из 93 составных частей в 18 странах. Расширенная территория объекта представляет собой выдающийся пример относительно нетронутых сложных лесов умеренного пояса и демонстрирует широкий спектр комплексных экологических моделей и процессов чистых и смешанных европейских буковых насаждений в различных экологических условиях.",
+          "ar": "يُعتبر توسيع الموقع المتسلسل العابر للحدود الوطنية لموقع غابات الزان البدائية في منطقة الكاربات ومناطق أخرى في أوروبا عبر عشرة بلدان أوروبية إضافية، بمثابة جرعة تعزيز للقيمة العالمية الاستثنائية للموقع وسلامته. ويضم الموقع الموسّع حالياً 93 عنصراً موزَّعاً في 18 بلداً، ويقدّم مثالاً استثنائياً للغابات المداريّة المعقدة التي تنعم بالهدوء نوعاً ما. ويستعرض الموقع طيفاً واسعاً من النماذج البيئية الشاملة، فضلاً عن العمليات البيئيّة الإيكولوجيّة للأنواع النقيّة والمختلطة للزان الأوروبي في سلسلة متنوعة من الظروف البيئية.",
+          "zh": "此次扩展将有10个欧洲国家新加入“喀尔巴阡山脉及欧洲其它地区的原始山毛榉林”这一跨境世界遗产项目，提升了该遗产地的突出普遍价值和完整性，至此该遗产地包含分布在18个国家的93个部分。扩展后的遗产地是相对未受干扰的温带森林群的杰出范例，展示了在各种环境条件下欧洲山毛榉纯林和混交林的广泛综合生态模式和过程。"
+        },
+        "full": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+        "justification": "Brief synthesis The “Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe” are a transnational serial property comprising 93 component parts across 18 countries. They represent an outstanding example of relatively undisturbed, complex temperate forests and exhibit a wide spectrum of comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental conditions. During each glacial phase (ice ages) of the last 1 million years, European beech (Fagus sylvatica) survived the unfavourable climatic conditions in refuge areas in the southern parts of the European continent. These refuge areas have been documented by scientists through palaeoecological analysis and using the latest techniques in genetic coding. After the last Ice Age, around 11,000 years ago, beech started expanding its range from these southern refuge areas to eventually cover large parts of the European continent. During this expansion process, which is still ongoing, beech formed different types of plant communities while occupying largely different environments. The interplay between a diversity of environments, climatic gradients and different species gene pools has and continues to shape this high diversity of beech forest communities. These forests contain an invaluable population of old trees and a genetic reservoir of beech and many other species, which are associated with and dependent on these old-growth forest habitats. Criterion (ix): The property is indispensable for the understanding of the history and evolution of the genus Fagus which, given its wide distribution in the Northern Hemisphere and its ecological importance, is globally significant. These largely undisturbed, complex temperate forests exhibit comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental gradients, including climatic and geological conditions, spanning almost all European Beech Forest Regions. Forests are included from all altitudinal zones from coastal areas to the treeline and, include the best remaining examples from the range limits of the European beech forest. Beech is one of the most important features in the Temperate Broadleaf Forest Biome and represents an outstanding example of the re-colonization and development of terrestrial ecosystems and communities since the last Ice Age. The continuing northern and westward expansion of beech from its original glacial refuge areas in the eastern and southern parts of Europe can be tracked along natural corridors and stepping stones spanning the continent. The dominance of beech across extensive areas of Europe is a living testimony of the tree’s genetic adaptability, a process which is still ongoing. Integrity The selected component parts represent the diversity of ancient and primeval beech forests found across Europe in terms of different climatic and geological conditions and altitudinal zones. The property includes component parts, which convey its Outstanding Universal Value (OUV), and represent the variability of European beech forest ecosystems. Together these component parts contribute to the integrity of the property as a whole. Additionally, each component part needs to demonstrate integrity at the local level by representing the full suite of natural forest development processes in its particular geographical and ecological setting within the series. Most of the component parts are of sufficient size to maintain such natural processes necessary for their long-term ecological viability. The most significant threats to the property are logging and habitat fragmentation. Logging activities in the vicinity of component parts can cause microclimatic changes and nutrient mobilising effects, with negative impacts on the integrity of the property. Land use change in the surrounding landscapes can lead to increased habitat fragmentation, which would be of particular concern for smaller component parts. Infrastructure development is a potential threat only in the surroundings of a few component parts. Climate change already poses a risk to some component parts and further impacts can be anticipated, including changes in species composition and habitat shifting. However, it should be noted that one of the attributes of the Outstanding Universal Value of the property is its demonstration of the ability of beech to adapt to different ecological and climatic regimes throughout its range. Therefore, potential future changes need to be monitored and documented in order to better understand these processes. The above-mentioned threats may affect the integrity of the component parts to a different extent and in different ways, for example through the reduction of structural diversity, fragmentation, loss of connectivity, biomass loss and changed microclimate, which reduce ecosystem functionality and adaptive capacity as a whole. To cope with these threats, buffer zones are established and are managed accordingly by the responsible management bodies. Protection and management requirements A strict non-intervention management is essential for the conservation of the OUV of this serial property across all its component parts. The majority of the 93 component parts are protected by law as strict forest reserves, wilderness areas, core areas of biosphere reserves or national parks (IUCN category I or II). Some of the component parts are protected and managed by Forest Management Plans (with regulations ensuring no logging in old-growth forests). As it is of uppermost importance to guarantee strong protection status in the long term, the protection status will be improved where needed. To ensure the viability of the four component parts smaller than the established minimum size of 50 ha, an enlargement of the component parts with further non-intervention management will be considered by the States Parties. Additionally, an effective management of buffer zones to protect the property from external threats and to safeguard its integrity is of uppermost importance. The integrity of each component part is the responsibility of the State Party and is ensured by the relevant local management units. For the coherent protection and management of the property, as well as to coordinate activities between the management units and the 18 States Parties, a functional organisational structure should be established. To ensure this aspect, an Integrated Management System was developed during the nomination process and will be maintained to allow effective and coordinated management and protection of the property as a whole. The Joint Management Committee, comprising representatives of all States Parties, formulated a Joint Declaration of Intent. This Declaration regulates and structures the cooperation between all the States Parties whose territory is included in the property and ensures the commitment to protect and strengthen the Outstanding Universal Value of the property. The position of a coordinator will be established and maintained to support the Joint Management Committee and the States Parties in their work. The Integrated Management System and the management plans of the component parts will ensure a non-intervention management approach for the component parts while the buffer zones will be managed to avoid negative impacts on the Outstanding Universal Value of the property with a specific focus on ensuring integrity remains intact. To harmonise the management approach across the 93 component parts, the States Parties will develop common objectives and coordinated activities which will cover property and buffer zone management, monitoring and research, education and awareness raising, visitor management and tourism as well as financial and human capacity building. It is proposed to establish a coherent monitoring system based on selected ecological (proxy) indicators of integrity within all component parts to compare long-term development. It is imperative that each State Party provides clear and committed long-term funding arrangements, to support consistent national site management as well as coordinated management. Special attention is required to ensure the configuration of the property such that each component part retains ongoing viability to evolve with unimpeded ecological and biological processes and without the need for substantial interventions. This includes the integration of surrounding forest ecosystems to provide sufficient protection and connectivity, especially for small component parts. All component parts have buffer zones of various configurations including surrounding protected areas (national parks, nature parks, biosphere reserves and others). These buffer zones will be regularly monitored to ensure protection under changing environmental conditions such as climate change. The boundaries of buffer zones should, where possible, be aligned with existing protected area boundaries and should be expanded to connect component parts where they are in close proximity. Finally, where appropriate, special ongoing emphasis is needed to ensure effective ecological connectivity between beech forests and the surrounding complementary habitats to allow natural development and adaptation of the forest to the environmental change."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 99947.81,
+          "square_km": 999.48,
+          "square_miles": 404.475,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007,
+            2011,
+            2017,
+            2021
+          ],
+          "extensions": [
+            2011,
+            2017,
+            2021
+          ],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2011,
+              "event": "Extended"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            },
+            {
+              "year": 2021,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 3
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f1bfac47f3366890b0b7b4b548a3f6e4",
+          "filename": "site_1133_0082-500-0-20241104173714.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209487/site_1133_0082.jpg",
+            "https://whc.unesco.org/document/209488/site_1133_0083.jpg",
+            "https://whc.unesco.org/document/209489/site_1133_0084.jpg",
+            "https://whc.unesco.org/document/209490/site_1133_0085.jpg",
+            "https://whc.unesco.org/document/209491/site_1133_0086.jpg",
+            "https://whc.unesco.org/document/209492/site_1133_0087.jpg",
+            "https://whc.unesco.org/document/209493/site_1133_0088.jpg",
+            "https://whc.unesco.org/document/209494/site_1133_0089.jpg",
+            "https://whc.unesco.org/document/181193/site_1133_0076.jpg",
+            "https://whc.unesco.org/document/187746/site_1133_0080.jpg",
+            "https://whc.unesco.org/document/187745/site_1133_0079.jpg",
+            "https://whc.unesco.org/document/181191/site_1133_0074.jpg",
+            "https://whc.unesco.org/document/115216/site_1133_0001.jpg",
+            "https://whc.unesco.org/document/122807/site_1133_0017.jpg",
+            "https://whc.unesco.org/document/122809/site_1133_0019.jpg",
+            "https://whc.unesco.org/document/122810/site_1133_0020.jpg",
+            "https://whc.unesco.org/document/147514/site_1133_0027.jpg",
+            "https://whc.unesco.org/document/147515/site_1133_0028.jpg",
+            "https://whc.unesco.org/document/147516/site_1133_0029.jpg",
+            "https://whc.unesco.org/document/147517/site_1133_0030.jpg",
+            "https://whc.unesco.org/document/147518/site_1133_0031.jpg",
+            "https://whc.unesco.org/document/147519/site_1133_0032.jpg",
+            "https://whc.unesco.org/document/147520/site_1133_0033.jpg",
+            "https://whc.unesco.org/document/147521/site_1133_0034.jpg",
+            "https://whc.unesco.org/document/147522/site_1133_0035.jpg",
+            "https://whc.unesco.org/document/147523/site_1133_0036.jpg",
+            "https://whc.unesco.org/document/147524/site_1133_0037.jpg",
+            "https://whc.unesco.org/document/147525/site_1133_0038.jpg",
+            "https://whc.unesco.org/document/147526/site_1133_0039.jpg",
+            "https://whc.unesco.org/document/147527/site_1133_0040.jpg",
+            "https://whc.unesco.org/document/147528/site_1133_0041.jpg",
+            "https://whc.unesco.org/document/147529/site_1133_0042.jpg",
+            "https://whc.unesco.org/document/147530/site_1133_0043.jpg",
+            "https://whc.unesco.org/document/147531/site_1133_0044.jpg",
+            "https://whc.unesco.org/document/147532/site_1133_0045.jpg",
+            "https://whc.unesco.org/document/147533/site_1133_0046.jpg",
+            "https://whc.unesco.org/document/147534/site_1133_0047.jpg",
+            "https://whc.unesco.org/document/147536/site_1133_0048.jpg",
+            "https://whc.unesco.org/document/147537/site_1133_0049.jpg",
+            "https://whc.unesco.org/document/147538/site_1133_0050.jpg",
+            "https://whc.unesco.org/document/147539/site_1133_0051.jpg",
+            "https://whc.unesco.org/document/147540/site_1133_0052.jpg",
+            "https://whc.unesco.org/document/147541/site_1133_0053.jpg",
+            "https://whc.unesco.org/document/147542/site_1133_0054.jpg",
+            "https://whc.unesco.org/document/147543/site_1133_0055.jpg",
+            "https://whc.unesco.org/document/147544/site_1133_0056.jpg",
+            "https://whc.unesco.org/document/147545/site_1133_0057.jpg",
+            "https://whc.unesco.org/document/147546/site_1133_0058.jpg",
+            "https://whc.unesco.org/document/147547/site_1133_0059.jpg",
+            "https://whc.unesco.org/document/147548/site_1133_0060.jpg",
+            "https://whc.unesco.org/document/147549/site_1133_0061.jpg",
+            "https://whc.unesco.org/document/147550/site_1133_0062.jpg",
+            "https://whc.unesco.org/document/147551/site_1133_0063.jpg",
+            "https://whc.unesco.org/document/147552/site_1133_0064.jpg",
+            "https://whc.unesco.org/document/147553/site_1133_0065.jpg",
+            "https://whc.unesco.org/document/147554/site_1133_0066.jpg",
+            "https://whc.unesco.org/document/147555/site_1133_0067.jpg",
+            "https://whc.unesco.org/document/147556/site_1133_0068.jpg",
+            "https://whc.unesco.org/document/147557/site_1133_0069.jpg",
+            "https://whc.unesco.org/document/187751/site_1133_0081.jpg"
+          ],
+          "count": 60
+        }
+      },
+      "components": {
+        "count": 93,
+        "locations": [
+          {
+            "name": "Rrajca",
+            "ref": "1133quinquies-013",
+            "latitude": 41.2,
+            "longitude": 20.5
+          },
+          {
+            "name": "Krokar",
+            "ref": "1133quinquies-055",
+            "latitude": 45.542,
+            "longitude": 14.769
+          },
+          {
+            "name": "Massane",
+            "ref": "1133quinquies-078",
+            "latitude": 42.48,
+            "longitude": 3.032
+          },
+          {
+            "name": "Jasmund",
+            "ref": "1133quinquies-007",
+            "latitude": 54.555,
+            "longitude": 13.669
+          },
+          {
+            "name": "Serrahn",
+            "ref": "1133quinquies-008",
+            "latitude": 53.341,
+            "longitude": 13.205
+          },
+          {
+            "name": "Grumsin",
+            "ref": "1133quinquies-009",
+            "latitude": 52.9833333333,
+            "longitude": 13.8833333333
+          },
+          {
+            "name": "Hainich",
+            "ref": "1133quinquies-010",
+            "latitude": 51.0666666667,
+            "longitude": 10.4333333333
+          },
+          {
+            "name": "Gorgany",
+            "ref": "1133quinquies-063",
+            "latitude": 48.475,
+            "longitude": 24.296
+          },
+          {
+            "name": "Chapitre",
+            "ref": "1133quinquies-076",
+            "latitude": 44.633,
+            "longitude": 6.001
+          },
+          {
+            "name": "Vihorlat",
+            "ref": "1133quinquies-093",
+            "latitude": 48.916,
+            "longitude": 22.185
+          },
+          {
+            "name": "Svydovets",
+            "ref": "1133quinquies-005",
+            "latitude": 48.193,
+            "longitude": 24.188
+          },
+          {
+            "name": "Roztochya",
+            "ref": "1133quinquies-064",
+            "latitude": 49.958,
+            "longitude": 23.647
+          },
+          {
+            "name": "Chornohora",
+            "ref": "1133quinquies-001",
+            "latitude": 48.1333333333,
+            "longitude": 24.3833333333
+          },
+          {
+            "name": "Maramarosh",
+            "ref": "1133quinquies-003",
+            "latitude": 47.94,
+            "longitude": 24.309
+          },
+          {
+            "name": "Kellerwald",
+            "ref": "1133quinquies-011",
+            "latitude": 51.1333333333,
+            "longitude": 8.9666666667
+          },
+          {
+            "name": "Dlaboka Reka",
+            "ref": "1133quinquies-084",
+            "latitude": 41.764,
+            "longitude": 20.591
+          },
+          {
+            "name": "Prašuma Janj",
+            "ref": "1133quinquies-072",
+            "latitude": 44.146,
+            "longitude": 17.282
+          },
+          {
+            "name": "Grand Ventron",
+            "ref": "1133quinquies-077",
+            "latitude": 47.9666666667,
+            "longitude": 6.9333333333
+          },
+          {
+            "name": "Lumi i gashit",
+            "ref": "1133quinquies-012",
+            "latitude": 42.465,
+            "longitude": 20.073
+          },
+          {
+            "name": "Monte Cimino",
+            "ref": "1133quinquies-040",
+            "latitude": 42.409,
+            "longitude": 12.204
+          },
+          {
+            "name": "Monte Raschio",
+            "ref": "1133quinquies-041",
+            "latitude": 42.174,
+            "longitude": 12.16
+          },
+          {
+            "name": "Sasso Fratino",
+            "ref": "1133quinquies-042",
+            "latitude": 43.846,
+            "longitude": 11.807
+          },
+          {
+            "name": "Valle Infernale",
+            "ref": "1133quinquies-083",
+            "latitude": 38.132,
+            "longitude": 15.961
+          },
+          {
+            "name": "Izvoarele Nerei",
+            "ref": "1133quinquies-053",
+            "latitude": 45.1166666667,
+            "longitude": 22.05
+          },
+          {
+            "name": "Strimbu Băiuț",
+            "ref": "1133quinquies-054",
+            "latitude": 47.635,
+            "longitude": 24.061
+          },
+          {
+            "name": "Jizera Mountains",
+            "ref": "1133quinquies-075",
+            "latitude": 50.86,
+            "longitude": 15.16
+          },
+          {
+            "name": "Udava (Poloniny)",
+            "ref": "1133quinquies-092",
+            "latitude": 49.174,
+            "longitude": 22.226
+          },
+          {
+            "name": "Rožok (Poloniny)",
+            "ref": "1133quinquies-090",
+            "latitude": 48.978,
+            "longitude": 22.465
+          },
+          {
+            "name": "Snežnik-Ždrocle",
+            "ref": "1133quinquies-056",
+            "latitude": 45.5833333333,
+            "longitude": 14.45
+          },
+          {
+            "name": "Satanіvska Dacha",
+            "ref": "1133quinquies-065",
+            "latitude": 49.175,
+            "longitude": 26.244
+          },
+          {
+            "name": "Cozia – Lotrisor",
+            "ref": "1133quinquies-047",
+            "latitude": 45.3,
+            "longitude": 24.278
+          },
+          {
+            "name": "Synevyr – Strymba",
+            "ref": "1133quinquies-068",
+            "latitude": 48.446,
+            "longitude": 23.785
+          },
+          {
+            "name": "Kuziy – Trybushany",
+            "ref": "1133quinquies-002",
+            "latitude": 47.948,
+            "longitude": 24.135
+          },
+          {
+            "name": "Stuzhytsia – Uzhok",
+            "ref": "1133quinquies-004",
+            "latitude": 49.082,
+            "longitude": 22.59
+          },
+          {
+            "name": "Kalkalpen – Urlach",
+            "ref": "1133quinquies-017",
+            "latitude": 47.8,
+            "longitude": 14.2333333333
+          },
+          {
+            "name": "Synevyr – Darvaika",
+            "ref": "1133quinquies-066",
+            "latitude": 48.488,
+            "longitude": 23.773
+          },
+          {
+            "name": "Synevyr – Vilshany",
+            "ref": "1133quinquies-069",
+            "latitude": 48.35,
+            "longitude": 23.65
+          },
+          {
+            "name": "Synevyr – Kvasovets",
+            "ref": "1133quinquies-067",
+            "latitude": 48.378,
+            "longitude": 23.702
+          },
+          {
+            "name": "Codrul secular Șinca",
+            "ref": "1133quinquies-044",
+            "latitude": 45.6666666667,
+            "longitude": 25.1666666667
+          },
+          {
+            "name": "Uholka – Shyrikyi Luh",
+            "ref": "1133quinquies-006",
+            "latitude": 48.3,
+            "longitude": 23.6833333333
+          },
+          {
+            "name": "Dürrenstein-Lassingtal",
+            "ref": "1133quinquies-014",
+            "latitude": 47.74,
+            "longitude": 14.985
+          },
+          {
+            "name": "Paklenica National Park",
+            "ref": "1133quinquies-034",
+            "latitude": 44.3333333333,
+            "longitude": 15.5
+          },
+          {
+            "name": "Cheile Nerei-Beușnița",
+            "ref": "1133quinquies-043",
+            "latitude": 44.9,
+            "longitude": 21.8
+          },
+          {
+            "name": "Cozia – Masivul Cozia",
+            "ref": "1133quinquies-046",
+            "latitude": 45.3166666667,
+            "longitude": 24.3166666667
+          },
+          {
+            "name": "Falascone (Foresta Umbra)",
+            "ref": "1133quinquies-079",
+            "latitude": 41.807,
+            "longitude": 15.981
+          },
+          {
+            "name": "Forêt de la Bettlachstock",
+            "ref": "1133quinquies-073",
+            "latitude": 47.2166666667,
+            "longitude": 7.4
+          },
+          {
+            "name": "Kalkalpen – Hintergebirg",
+            "ref": "1133quinquies-015",
+            "latitude": 47.7333333333,
+            "longitude": 14.4666666667
+          },
+          {
+            "name": "Kalkalpen – Bodinggraben",
+            "ref": "1133quinquies-016",
+            "latitude": 47.7833333333,
+            "longitude": 14.35
+          },
+          {
+            "name": "Codrul Secular Slătioara",
+            "ref": "1133quinquies-045",
+            "latitude": 47.443,
+            "longitude": 25.629
+          },
+          {
+            "name": "Kalkalpen – Wilder Graben",
+            "ref": "1133quinquies-018",
+            "latitude": 47.83,
+            "longitude": 14.432
+          },
+          {
+            "name": "Hajdučki i Rožanski kukovi",
+            "ref": "1133quinquies-033",
+            "latitude": 44.768,
+            "longitude": 15.006
+          },
+          {
+            "name": "Pavari-Sfilzi (Foresta Umbra)",
+            "ref": "1133quinquies-080",
+            "latitude": 41.839,
+            "longitude": 16.027
+          },
+          {
+            "name": "Hayedos de Ayllon – Montejo",
+            "ref": "1133quinquies-058",
+            "latitude": 41.11,
+            "longitude": -3.499
+          },
+          {
+            "name": "Hayedos de Navarra – Aztaparreta",
+            "ref": "1133quinquies-060",
+            "latitude": 42.912,
+            "longitude": -0.818
+          },
+          {
+            "name": "Zacharovanyi Krai – Irshavka",
+            "ref": "1133quinquies-070",
+            "latitude": 48.454,
+            "longitude": 23.094
+          },
+          {
+            "name": "Groșii Țibleșului – Preluci",
+            "ref": "1133quinquies-052",
+            "latitude": 47.5333333333,
+            "longitude": 24.2166666667
+          },
+          {
+            "name": "Hayedos de Navarra – Lizardoia",
+            "ref": "1133quinquies-059",
+            "latitude": 43.005,
+            "longitude": -1.114
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle A",
+            "ref": "1133quinquies-020",
+            "latitude": 50.781,
+            "longitude": 4.427
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle B",
+            "ref": "1133quinquies-021",
+            "latitude": 50.784,
+            "longitude": 4.434
+          },
+          {
+            "name": "Central Balkan – Boatin Reserve",
+            "ref": "1133quinquies-024",
+            "latitude": 42.8,
+            "longitude": 24.2666666667
+          },
+          {
+            "name": "Zacharovanyi Krai – Velykyi Dil",
+            "ref": "1133quinquies-071",
+            "latitude": 48.421,
+            "longitude": 23.172
+          },
+          {
+            "name": "Pollinello (Pollino National Park)",
+            "ref": "1133quinquies-082",
+            "latitude": 39.897,
+            "longitude": 16.197
+          },
+          {
+            "name": "Central Balkan – Steneto Reserve",
+            "ref": "1133quinquies-027",
+            "latitude": 42.7333333333,
+            "longitude": 24.7
+          },
+          {
+            "name": "Central Balkan – Sokolna Reserve",
+            "ref": "1133quinquies-032",
+            "latitude": 42.6833333333,
+            "longitude": 25.1333333333
+          },
+          {
+            "name": "Hayedos de Ayllon – Tejera Negra",
+            "ref": "1133quinquies-057",
+            "latitude": 41.245,
+            "longitude": -3.388
+          },
+          {
+            "name": "Wolosatka stream valley (Bieszczady)",
+            "ref": "1133quinquies-088",
+            "latitude": 49.0666666667,
+            "longitude": 22.7333333333
+          },
+          {
+            "name": "Central Balkan – Dzhendema Reserve",
+            "ref": "1133quinquies-029",
+            "latitude": 42.6833333333,
+            "longitude": 24.9666666667
+          },
+          {
+            "name": "Terebowiec stream valley (Bieszczady)",
+            "ref": "1133quinquies-087",
+            "latitude": 49.095,
+            "longitude": 22.722
+          },
+          {
+            "name": "Havešová Primeval Forest (Poloniny)",
+            "ref": "1133quinquies-089",
+            "latitude": 49.01,
+            "longitude": 22.337
+          },
+          {
+            "name": "Stužica - Bukovské Vrchy (Poloniny)",
+            "ref": "1133quinquies-091",
+            "latitude": 49.085,
+            "longitude": 22.526
+          },
+          {
+            "name": "Central Balkan – Tsarichina Reserve",
+            "ref": "1133quinquies-025",
+            "latitude": 42.774,
+            "longitude": 24.411
+          },
+          {
+            "name": "Central Balkan – Stara Reka Reserve",
+            "ref": "1133quinquies-028",
+            "latitude": 42.697,
+            "longitude": 24.81
+          },
+          {
+            "name": "Cozzo Ferriero (Pollino National Park)",
+            "ref": "1133quinquies-081",
+            "latitude": 39.908,
+            "longitude": 16.105
+          },
+          {
+            "name": "Central Balkan – Kozya stena Reserve",
+            "ref": "1133quinquies-026",
+            "latitude": 42.795,
+            "longitude": 24.523
+          },
+          {
+            "name": "Central Balkan – Peesh skali Reserve",
+            "ref": "1133quinquies-031",
+            "latitude": 42.766,
+            "longitude": 25.076
+          },
+          {
+            "name": "Groșii Țibleșului – Izvorul Șurii",
+            "ref": "1133quinquies-051",
+            "latitude": 47.553,
+            "longitude": 24.187
+          },
+          {
+            "name": "Polonina Wetlinska and Smerek (Bieszczady)",
+            "ref": "1133quinquies-086",
+            "latitude": 49.175,
+            "longitude": 22.527
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Cuesta Fria",
+            "ref": "1133quinquies-061",
+            "latitude": 43.1666666667,
+            "longitude": -4.9833333333
+          },
+          {
+            "name": "Central Balkan – Severen Dzhendem Reserve",
+            "ref": "1133quinquies-030",
+            "latitude": 42.744,
+            "longitude": 24.94
+          },
+          {
+            "name": "Domogled – Valea Cernei – Iauna Craiovei",
+            "ref": "1133quinquies-049",
+            "latitude": 45.107,
+            "longitude": 22.566
+          },
+          {
+            "name": "Domogled – Valea Cernei – Ciucevele Cerne",
+            "ref": "1133quinquies-050",
+            "latitude": 45.25,
+            "longitude": 22.84
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Canal de Asotin",
+            "ref": "1133quinquies-062",
+            "latitude": 43.171,
+            "longitude": -4.889
+          },
+          {
+            "name": "Border Ridge and Gorna Solinka valley (Bieszczady)",
+            "ref": "1133quinquies-085",
+            "latitude": 49.098,
+            "longitude": 22.563
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton A",
+            "ref": "1133quinquies-022",
+            "latitude": 50.734,
+            "longitude": 4.437
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton B",
+            "ref": "1133quinquies-023",
+            "latitude": 50.727,
+            "longitude": 4.431
+          },
+          {
+            "name": "Sonian Forest – Forest Reserve “Joseph Zwaenepoel”",
+            "ref": "1133quinquies-019",
+            "latitude": 50.757,
+            "longitude": 4.416
+          },
+          {
+            "name": "Domogled – Valea Cernei – Domogled-Coronini – Bedina",
+            "ref": "1133quinquies-048",
+            "latitude": 44.9333333333,
+            "longitude": 22.4666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1133",
+        "unesco_documents": "https://whc.unesco.org/en/list/1133/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1133/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1133/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. North Macedonia Spain Italy France Poland Albania Austria Belgium Croatia Romania Ukraine Bulgaria Slovenia Slovakia Switzerland Bosnia and Herzegovina Germany Czechia Europe and North America Natural"
+    }
+  ]
+}

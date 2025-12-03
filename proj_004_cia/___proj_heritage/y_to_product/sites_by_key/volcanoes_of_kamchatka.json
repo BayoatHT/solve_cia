@@ -1,0 +1,210 @@
+{
+  "site_key": "volcanoes_of_kamchatka",
+  "uuid": "475122c2-19f3-5d70-90b4-a0bee7eb9d5b",
+  "unesco_id": "765",
+  "names": {
+    "en": "Volcanoes of Kamchatka",
+    "fr": "Volcans du Kamchatka",
+    "es": "Volcanes de Kamchatka",
+    "ru": "Вулканы Камчатки",
+    "ar": "براكين كاماشتاكا",
+    "zh": "勘察加火山"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "RUS": {
+        "name": "Russia",
+        "iso2": "RU",
+        "iso3": "RUS"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle.",
+      "fr": "C'est l'une des régions volcaniques les plus exceptionnelles du monde, avec une forte densité de volcans actifs et une grande variété de types et de caractéristiques volcaniques associés. Les six sites aujourd'hui inclus regroupent la plupart des caractéristiques volcaniques de la péninsule du Kamchatka. L'interaction du volcanisme avec les glaciers actifs forme un paysage dynamique d'une grande beauté. Le site abrite de très nombreuses espèces, dont la plus grande diversité connue de salmonidés, et des concentrations remarquables de loutres de mer, d'ours bruns et d'aigles marins de Stellar.",
+      "es": "La Península de Kamchatka es una de las regiones volcánicas más excepcionales del planeta, debido a la gran concentración y variedad de volcanes en actividad, así como a la diversidad de los fenómenos geológicos conexos. Las seis zonas del sitio abarcan la mayoría de las principales características volcánicas de la península. La interacción entre volcanes y glaciares activos confiere al paisaje un dinamismo de gran belleza. Por otra parte, el sitio alberga la mayor variedad de salmónidos del mundo y grandes concentraciones de nutrias marinas, osos pardos y águilas marinas de Steller.",
+      "ru": "Это один из наиболее интересных вулканических районов мира, где сконцентрировано большое число действующих вулканов, равно как и множество других природных феноменов, связанных с вулканической деятельностью. Объект наследия состоит из шести отдельных участков, которые в сумме отражают все основные особенности Камчатки как региона активного вулканизма. Действующие вулканы в сочетании с ледниками формируют исключительно живописный и постоянно развивающийся ландшафт. Местность выделяется значительным биоразнообразием, здесь отмечена высочайшая концентрация лососевых рыб, а также крупные скопления калана, большое количество бурых медведей и белоплечих орланов.",
+      "ar": "هي إحدى المناطق البركانيّة الأكثر استثنائيّة في العالم وينشط فيها عدد من البراكين. وتضمّ المواقع الستة اليوم معظم الخصائص البركانيّة في شبه جزيرة كاماشتاكا. وفي تفاعل الحركة البركانيّة مع الكتل الثلجيّة ما يكوّن منظراً ينبض بالحياة وآية من الجمال. ويأوي الموقع العديد من الأصناف ومن أبرزها سمك السلمون وثعلب الماء والدببة السمراء ونسور ستيلار البحرية.",
+      "zh": "勘察加火山是世界上最著名的火山区之一，它拥有高密度的活火山，而且类型和特征各不相同。指定考察的6个景点集中了勘察加半岛大多数的火山奇异景观。活火山与冰河相互作用造就了这里的生机和美景。景区内物种丰富，除世界现存的最大鲑鱼群外，还集中了罕见的海獭、棕熊和鱼鹰。"
+    },
+    "full": "This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "all": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "display": "(vii)(viii)(ix)(x)",
+      "count": 4,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 3995769.37,
+      "square_km": 39957.69,
+      "square_miles": 16170.33,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1996,
+      "all_dates": [
+        1996,
+        2001
+      ],
+      "extensions": [
+        2001
+      ],
+      "timeline": [
+        {
+          "year": 1996,
+          "event": "Inscribed"
+        },
+        {
+          "year": 2001,
+          "event": "Extended"
+        }
+      ],
+      "extension_count": 1
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/78baa477aec1a96d83bf6f0d5dee2037",
+      "filename": "site_0765_0001-500-0-20151105152533.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113286/site_0765_0001.jpg",
+        "https://whc.unesco.org/document/113288/site_0765_0002.jpg",
+        "https://whc.unesco.org/document/113289/site_0765_0003.jpg",
+        "https://whc.unesco.org/document/113292/site_0765_0004.jpg",
+        "https://whc.unesco.org/document/113294/site_0765_0005.jpg",
+        "https://whc.unesco.org/document/113296/site_0765_0006.jpg",
+        "https://whc.unesco.org/document/113298/site_0765_0007.jpg",
+        "https://whc.unesco.org/document/113300/site_0765_0008.jpg",
+        "https://whc.unesco.org/document/113302/site_0765_0009.jpg",
+        "https://whc.unesco.org/document/113304/site_0765_0010.jpg",
+        "https://whc.unesco.org/document/113306/site_0765_0011.jpg",
+        "https://whc.unesco.org/document/113308/site_0765_0012.jpg",
+        "https://whc.unesco.org/document/113311/site_0765_0013.jpg",
+        "https://whc.unesco.org/document/113313/site_0765_0014.jpg",
+        "https://whc.unesco.org/document/113315/site_0765_0015.jpg",
+        "https://whc.unesco.org/document/113317/site_0765_0016.jpg",
+        "https://whc.unesco.org/document/113319/site_0765_0017.jpg",
+        "https://whc.unesco.org/document/113321/site_0765_0018.jpg"
+      ],
+      "count": 18
+    }
+  },
+  "components": {
+    "count": 6,
+    "locations": [
+      {
+        "name": "\\Nalychevo\\ Regional Nature Park",
+        "ref": "765bis-003",
+        "latitude": 53.4666666667,
+        "longitude": 159.0
+      },
+      {
+        "name": "\\Bystrinsky\\ Regional Nature Park",
+        "ref": "765bis-004",
+        "latitude": 56.3333333333,
+        "longitude": 158.5
+      },
+      {
+        "name": "Southern Kamchatka Wildlife Reserve",
+        "ref": "765bis-002",
+        "latitude": 51.3333333333,
+        "longitude": 157.0
+      },
+      {
+        "name": "\\Kluchevskoy\\ Regional Nature Park\\",
+        "ref": "765bis-006",
+        "latitude": 56.1,
+        "longitude": 160.55
+      },
+      {
+        "name": "Kronotsky Strict Nature Reserve (two parcels)",
+        "ref": "765bis-001",
+        "latitude": 54.75,
+        "longitude": 161.0
+      },
+      {
+        "name": "Southern Kamchatka\\ Regional Nature Park (two parcels)",
+        "ref": "765bis-005",
+        "latitude": 51.95,
+        "longitude": 158.0
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/765",
+    "unesco_documents": "https://whc.unesco.org/en/list/765/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/765/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/765/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 29,
+    "inscription_year": 1996
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Volcanoes of Kamchatka This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle. This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle. Russia Europe and North America Natural"
+}

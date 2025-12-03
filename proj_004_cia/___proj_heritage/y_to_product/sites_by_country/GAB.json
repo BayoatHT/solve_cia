@@ -1,0 +1,357 @@
+{
+  "country": {
+    "code": "GAB",
+    "name": "Gabon"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "ivindo_national_park",
+      "uuid": "9112dcdb-4eec-5800-8e00-ac6535574545",
+      "unesco_id": "1653",
+      "names": {
+        "en": "Ivindo National Park",
+        "fr": "Parc national de l’Ivindo",
+        "es": "Parque Nacional de Ivindo",
+        "ru": "Национальный парк Ивиндо",
+        "ar": "حديقة آيفيندو الوطنية",
+        "zh": "伊温多国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GAB": {
+            "name": "Gabon",
+            "iso2": "GA",
+            "iso3": "GAB"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on the equator in northern Gabon the largely pristine site encompasses an area of almost 300,000 ha crossed by a network of picturesque blackwater rivers. It features rapids and waterfalls bordered by intact rainforest, which make for a landscape of great aesthetic value. The site’s aquatic habitats harbour endemic freshwater fish species, 13 of which are threatened, and at least seven species of Podostemaceae riverweeds, with probable micro-endemic aquatic flora at each waterfall. Many fish species in the property are yet to be described and parts of the site have hardly been investigated. Critically Endangered Slender-snouted Crocodiles (Mecistops cataphractus) find shelter in Ivindo National Park which also boasts biogeographically unique Caesalpinioideae old-growth forests of high conservation value, supporting, for instance, a very high diversity of butterflies alongside threatened flagship mammals and avian fauna such as the Critically Endangered Forest Elephant (Loxodonta cyclotis), Western Lowland Gorilla (Gorilla gorilla), the Endangered Chimpanzee (Pan troglodytes) and Grey Parrot (Psittacus erithacus) as well as the Vulnerable Grey-necked Rockfowl (Picathartes oreas), Mandrill (Mandrillus sphinx), Leopard (Panthera pardus), and African Golden Cat (Caracal aurata), and three species of Pangolin (Manidae spp.).",
+          "fr": "Situé sur l’équateur, dans le nord du Gabon, le site, essentiellement intact, s’étend sur près de 300 000 hectares traversés par un réseau de rivières d’eau noire pittoresques. Il comprend des rapides et des chutes bordées par des forêts humides intactes, ce qui en fait un paysage d’une grande valeur esthétique. Les habitats aquatiques abritent des espèces de poissons endémiques, dont 13 espèces sont considérées comme menacées, au moins sept espèces d’herbes aquatiques Podostemaceae et, sans doute, une faune aquatique micro-endémique de chaque chute. De nombreuses espèces de poissons du bien ne sont pas encore décrites et certaines parties du site sont encore à peine explorées. Le crocodile à long museau (Mecistops cataphractus), en danger critique d’extinction, trouve refuge dans le parc national de l’Ivindo qui s’enorgueillit aussi de posséder des forêts climaciques uniques très anciennes à Caesalpinioideae et de haute valeur pour la conservation, abritant, par exemple, une très grande diversité de papillons ainsi que des espèces menacées de mammifères emblématiques et d’oiseaux comme l’éléphant de forêt (Loxodonta cyclotis) et le gorille de l’Ouest (Gorilla gorilla) En danger critique d’extinction, le chimpanzé (Pan troglodytes) et le perroquet gris (Psittacus erithacus) En danger, ainsi que le picatharte du Cameroun (Picathartes oreas), le mandrill (Mandrillus sphinx), le léopard (Panthera pardus) et le chat doré (Caracal aurata) Vulnérables, et trois espèces de pangolins (Manidae spp.).",
+          "es": "Situado en el ecuador, en el norte de Gabón, este sitio, en gran parte prístino, abarca una superficie de casi 300.000 hectáreas atravesadas por una red de pintorescos ríos de aguas negras. Cuenta con rápidos y cascadas bordeados por una selva tropical intacta, que conforman un paisaje de gran valor estético. Los hábitats acuáticos del lugar albergan especies endémicas de peces de agua dulce, 13 de las cuales están amenazadas, y al menos siete especies de algas fluviales Podostemaceae, con una probable flora acuática microendémica en cada cascada. Todavía no se han descrito muchas especies de peces en el sitio, algunas de cuyas partes han sido escasamente investigadas. Los cocodrilos de hocico fino (Mecistops cataphractus), en peligro crítico, encuentran refugio en el Parque Nacional de Ivindo, que también cuenta con bosques antiguos de Caesalpinioideae, únicos desde el punto de vista biogeográfico y de gran valor para la conservación que albergan, por ejemplo, una gran diversidad de mariposas junto con mamíferos emblemáticos amenazados y fauna aviar como el elefante de bosque (Loxodonta cyclotis), en peligro crítico, el gorila occidental de llanura (Gorilla gorilla),el chimpancé (Pan troglodytes) y el loro gris (Psittacus erithacus) en peligro de extinción, así como el picatartes cuelligrís (Picathartes oreas), que es vulnerable, el mandril (Mandrillus sphinx), el leopardo (Panthera pardus), el gato dorado africano (Caracal aurata), y tres especies de pangolín (Manidae spp.).",
+          "ru": "Расположенная на экваторе в северной части Габона, эта в основном нетронутая местность занимает площадь около 300000 га, пересекаемую сетью живописных черноводных рек. В парке есть пороги и водопады, окаймленные нетронутым тропическим лесом, что придает ландшафту значительную эстетическую ценность. В водных средах обитания этого объекта обитают эндемичные виды пресноводных рыб, 13 из которых находятся в угрожаемом положении, и по меньшей мере семь видов речных Подостемовых с возможной микроэндемичной водной флорой на территории каждого водопада. Многие виды рыб, обитающие на территории Национального парка Ивиндо, еще не описаны, а отдельные участки парка практически не исследованы. Находящийся на грани полного исчезновения узкорылый крокодил (Mecistops cataphractus) находит убежище в Национальном парке Ивиндо, который также может похвастаться биогеографически уникальными древними лесами Цезальпиниевых, имеющими высокую природоохранную ценность и поддерживающими, например, очень большое разнообразие бабочек наряду с находящимися в угрожаемом положении флагманскими видами млекопитающих и птиц, такими как находящиеся на грани полного исчезновения лесной слон (Loxodonta cyclotis) и западная равнинная горилла (Gorilla gorilla), исчезающие виды шимпанзе (Pan troglodytes) и попугай Жако (Psittacus erithacus), а также уязвимые виды восточная лысая ворона (Picathartes oreas), мандрил (Mandrillus sphinx), леопард (Panthera pardus) и золотая кошка (Caracal aurata), а также три вида панголинов (Manidae spp.).",
+          "ar": "يوجد الموقع على خط الاستواء في شمال غابون ولا يزال يحافظ على رونقه الأصلي إلى حدّ كبير، ويمتد على مساحة تصل إلى ما يقارب 300 ألف هكتار، وتعبره شبكة من أنهار المياه السوداء الخلّابة. ويحتضن الموقع أيضاً مجموعة من الشلالات والأنهار المُنسدلة في أحضان غابات مطيرة لم يمسّ الزمن شيئاً من طبيعتها. وتضفي هذه العناصر على قيمة جمالية كبيرة. وتحتضن الموائل المائية في الموقع أصنافاً مستوطنة من أسماك المياه العذبة، من بينها 13 صنفاً مهدداً، وسبعة أصناف على الأقل من أعشاب الأنهار التابعة للفصيلة البدوستمونية، وينفرد كل شلال في الموقع بنباتات وأعشاب مائية مستوطنة في محيطه دون غيره. وتجدر الإشارة إلى أنّ العديد من أصناف الأسماك المتواجدة في الموقع تفتقر إلى الوصف الوافي، مع العلم أيضاً أنّ بعض أجزاء الموقع بالكاد خضعت للبحوث. وتلتمس التماسيح المهددة بالانقراض بصورة خطيرة المأوى في حديقة آيفيندو الوطنية التي تحتضن غابات نبات عائلة العَنْدَمَاوَات المعمّرة ذات الطابع الفريد التي لِحِفظِها قيمة كبيرة، إذ يأوي الموقع على سبيل المثال طيفاً واسعاً ومتنوّعاً من الفراشات والثدييات المهددة بالانقراض والطيور المهددة بالانقراض بصورة كبيرة مثل فيلة الغابة وغوريلا السهول الغربية والشمبانزي المهدد بالانقراض والببغاء الرمادي الأفريقي والدجاج الصخري الرمادي العنق وميمون أبو الهول أو المادريل والنمر والسنور الذهبي الأفريقي، فضلاً عن ثلاثة أصناف من النمل الحرشفي.",
+          "zh": "伊温多国家公园位于加蓬北部的赤道地区，覆盖了近30万公顷的原始土地，美丽的黑水河水网密布其间。原始热带雨林与穿行的激流和瀑布构成了一个极具美学价值的景观。这里的水生栖息地孕育着特有的淡水鱼类（其中13种濒危）、至少7种川苔草科植物，以及可能存在于每个瀑布的微型特有水生植物。该遗产地的多个鱼类物种尚未得到记录，部分区域几乎从未经过勘察。极度濒危的非洲狭吻鳄在伊温多国家公园找到了栖身之所。该公园还拥有生物地理学上独特的具有极高保护价值的苏木亚科原始森林，它支持着多种多样的蝴蝶以及濒危的标志性哺乳动物和鸟类，如极危物种非洲森林象、西部低地大猩猩，濒危物种黑猩猩、非洲灰鹦鹉，易危的灰颈岩鹛、山魈、花豹、非洲金猫，以及3种穿山甲。"
+        },
+        "full": "Situated on the equator in northern Gabon the largely pristine site encompasses an area of almost 300,000 ha crossed by a network of picturesque blackwater rivers. It features rapids and waterfalls bordered by intact rainforest, which make for a landscape of great aesthetic value. The site’s aquatic habitats harbour endemic freshwater fish species, 13 of which are threatened, and at least seven species of Podostemaceae riverweeds, with probable micro-endemic aquatic flora at each waterfall. Many fish species in the property are yet to be described and parts of the site have hardly been investigated. Critically Endangered Slender-snouted Crocodiles (Mecistops cataphractus) find shelter in Ivindo National Park which also boasts biogeographically unique Caesalpinioideae old-growth forests of high conservation value, supporting, for instance, a very high diversity of butterflies alongside threatened flagship mammals and avian fauna such as the Critically Endangered Forest Elephant (Loxodonta cyclotis), Western Lowland Gorilla (Gorilla gorilla), the Endangered Chimpanzee (Pan troglodytes) and Grey Parrot (Psittacus erithacus) as well as the Vulnerable Grey-necked Rockfowl (Picathartes oreas), Mandrill (Mandrillus sphinx), Leopard (Panthera pardus), and African Golden Cat (Caracal aurata), and three species of Pangolin (Manidae spp.).",
+        "justification": "Brief synthesis Ivindo National Park is the main protected area representative of the forests of the interior plateaus of Gabon. It is characterized by the Ivindo and the Djidji wetlands which form a virgin and highly “picturesque” complex of waterfalls, rapids and quiet reaches with deep black waters, in a setting of intact forests. These forests include a great diversity of formations, notably very old Caesalpinioideae forests, unique in Central Africa and throughout the Guinean-Congolese domain. The property, together with two other protected areas, is considered one of the most irreplaceable protected areas in the world for the conservation of mammals, birds and amphibians. It is a natural refuge for many rare, threatened or endemic species of the region of the Gabonese interior highlands which constitutes one of the four zones, very different from each other, of the biogeographical province of Lower Guinea, very different from the forests of the Congolese region. Criterion (ix): Ivindo National Park combines large areas of intact climatical Caesalpinioideae forests and undisturbed river ecosystems. The property has exceptional value due to its great diversity of forest formations, the presence of large areas of very old Caesalpinioideae forests, and monodominant Julbernardia pellegriniana or Eurypetalum batesii forests, all of which are unique in Lower Guinea and throughout all of central Africa. Covering nearly 300,000 ha of this forest ecosystem and surrounded by a buffer zone of over 182,000 ha, the property can be considered exceptional, providing enough space for evolutionary processes to continue undisturbed. The very old Caesalpinioideae forests represent a characteristic stage of forest evolution in Central Africa but have disappeared elsewhere in Lower Guinea. They do not occur elsewhere in the Guinean-Congolese region because the high diversity of Caesalpinioideae is unique to Lower Guinea. This forest ecosystem is also representative of the Lower Guinean or Atlantic forests of the Gabonese interior highlands, and more particularly of the​​ Ivindo Landscape Area which very likely forms a separate and very rich phytogeographical entity within Lower Guinea. The great diversity of the Caesalpinioideae forests of the inner plateau is also reflected in the fact that, at the site level, the forests of the western edge differ, by a proportion of 60%, from those of the eastern edge. The presence of the Langoué Baï and grassy meadows identical to those of the inselbergs, contribute very largely to the uniqueness of the region. This intact forest ecosystem helps preserve the integrity of the black waters of the Ivindo which are home to a swarm of some fifteen species of fish of the genus Paramormyrops (Mormyridae) – the only swarm of species found in rivers worldwide belonging to this family. It is one of the world's best examples of speciation in open waters in which the speciation process takes place at a very high rate. Criterion (x): The rivers of the property are home to ichthyofauna of global importance and characterized by exceptional endemism, an extremely diversified flora and habitats of critical importance for the conservation of mammals, birds and amphibians. The intact forest ecosystem of Ivindo National Park and the Ivindo Landscape Area, with its diversity of habitats and, especially, its very old Caesalpinioideae forests, unique in west-central Africa and the entire Guinean-Congolese domain, is home to 161 plant species of high conservation value, 129 species endemic to Gabon and 35 species endemic to Ivindo. Ivindo National Park alone is home to 81 plant and 39 animal threatened species, including the Western Lowland Gorilla (Gorilla gorilla), the Chimpanzee (Pan troglodytes), the Forest Elephant (Loxodonta cyclotis), the Gray Parrot (Psittacus erithacus), and the Slender-snouted Crocodile (Mecistops cataphractus). In terms of zoology, this ecosystem has 126 species of mammals, including seven species of primates endemic to Lower Guinea. In addition, the Forest Elephant population is relatively large and includes many males with very large tusks, which is becoming very rare in much of Central Africa. Ivindo National Park avifauna includes 190 (68%) of the 278 forest species native to the Guinean-Congolese region and five of the six species endemic to Lower Guinea. The entomofauna includes 528 species of diurnal butterflies (probably 800-1000) many of which appear to be restricted to very old-growth Caesalpinioideae forests. Regarding the Kongou Falls, they are home to seven species of Podostemaceae, very specialized, rare and very vulnerable plants that are everywhere threatened by the construction of dams and the regulation of rivers. These seven species represent both 44% of the Podostemaceae flora of Gabon and the four known genera of the country. Ivindo is also home to 45 species of fish endemic to Lower Guinea, 13 of which are endemic to Gabon. The Ivindo River is home to 16 fish exclusively native to it, and to a particular wealth of Cyprinodontiformes and Mormyridae, with very specialized and fragile species of the genus Ivindomyrus, named after the Ivindo River. A dozen species of slightly electric fish of the genus Paramormyrops (Mormyridae) form swarms of freshwater fish that are globally rare. Integrity The property covers an area of ​​298,758 ha and exhibits exceptional integrity. It is totally uninhabited and is approximately 90% intact. It is part of a larger forest ecosystem of nearly 2,000,000 ha, located between the towns of Makokou, Ovan, Booué and Lastoursville. The average human population density is about 2.5 inhabitants/km² and the areas outside the park are mostly composed of forest concessions, of which two out of eleven concessions in the buffer zone are Forest Stewardship Council (FSC) certified at the time of inscription. However, these concessions must leave intact a 500 m wide strip along the boundaries of the property. Logging operations are already responsible for the introduction of the invasive ant Wassmannia auropunctata into the property and have also created access tracks that open up previously inaccessible areas. Access roads should be closed after the end of operation. By the size and the nature of its topography and hydrographic system, its phytogeographic and ecological gradients, and its connectivity with other protected areas — Minkébé National Park to the north and Mwagné National Park to the east —, this ecosystem is able to withstand climatic changes, at least those predicted by current assessments. In addition, in the framework of the land-use plan, the property is located completely outside of the areas designated for agricultural or agro-industrial developments (palm oil tree). Admittedly, the connectivity of the property with other protected areas should be maintained so that the protection of large mammals such as the Forest Elephant (Loxodonta cyclotis) is ensured. Protection and management requirements The property benefits from long-term legal protection conferred by Decree 612/PR/MEFEPEPN of 30 August 2002, which classifies Ivindo National Park and sets out its boundaries in Article 2. The width of the buffer zone of a national park is set at 5 km, in accordance with Article 77 of Law 16/2001 of 31 December 2001 on the Forestry Code in Gabon, and more specifically by Order 118/MEFEPEPN of 1 March 2004 on the regulation of forestry, mining, agricultural, aquacultural, hunting and tourism activities within a buffer zone. The property is protected as a National Park (IUCN Category II). Although the boundaries of the property are clearly defined, known to local populations and regulated, threats such as poaching, illegal logging and illegal fishing persist. Therefore, the fight against poaching is an unavoidable necessity. Additional adequate measures have been taken to eliminate these threats, notably by intensifying surveillance missions to ensure the protection of the property. Although the property is large enough to effectively conserve its values, it remains important to strive to protect the Caesalpinioideae forests even beyond the property, as there are also large stands of this ancient forest located outside the property, crucial for a fauna whose living space extends beyond the limits of the National Park, as evidenced by the Forest Elephants (Loxodonta cyclotis). Similarly, maintaining the freshwater biodiversity of Ivindo National Park, home to many fragile species, will depend on ensuring protection from potential development impacts, both upstream and downstream of the property. The only activity allowed outside of management, research and tourism, is artisanal fishing, but this is strictly limited to a section of the Ivindo which forms the boundary of the national park, and to fishermen of the village of Loa- Loah. These activities are provided for by law, mainly by Law 16/2001 of 31 December 2001 on the Forestry Code in Gabon, Law No. 003/2007 of 27 August 2007 on National Parks, and Order 118/MEFEPEPN of 1 March 2004 on the regulation of forestry, mining, agricultural, aquacultural, hunting and tourism activities within a buffer zone. It is important to ensure a monitoring of the scale of these fishing activities, which is an ancient practice, to ensure that it remains sustainable in terms of the Outstanding Universal Value of the property. Ivindo National Park is managed by National Agency for National Parks (ANPN) established by Law No. 003/2007 of 27 August 2007 relating to National Parks. Considerable and sustained efforts are made to ensure the effective coordination and harmonization of policies and practices related to the management of the protected area. The property has a management plan since 2016 which will be updated every five years. Logging is allowed in the buffer zone, provided that an environmental and social impact assessment proves that there is no negative impact on the National Park. Its implementation is selective: one tree cut per hectare. Gabon is engaged in a FSC forest certification process for all eleven concessions. At the time of inscription, two of these concessions already have FSC certification. All the forest concessions constitute de facto a buffer zone aimed at combating poaching by facilitating access control. Ivindo National Park receives financial and technical support from the State and its development partners, such as the French Development Agency (AFD), the United States Fish and Wildlife Service (USFWS) and the Wildlife Conservation Society (WCS), as well as in the framework of its participation in the Central African Forest Initiative, a funding agreement with Norway. The management of the property requires sufficient and long-term funding, which is ensured by its own resources and contributions from other partners."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 298758,
+          "square_km": 2987.58,
+          "square_miles": 1209.033,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/69b9fcae6725b617093653275248cd06",
+          "filename": "site_1653_0005.jpg",
+          "dimensions": {
+            "width": 3888,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/187718/site_1653_0005.jpg",
+            "https://whc.unesco.org/document/187724/site_1653_0011.jpg",
+            "https://whc.unesco.org/document/187715/site_1653_0002.jpg",
+            "https://whc.unesco.org/document/187716/site_1653_0003.jpg",
+            "https://whc.unesco.org/document/187717/site_1653_0004.jpg",
+            "https://whc.unesco.org/document/187719/site_1653_0006.jpg",
+            "https://whc.unesco.org/document/187720/site_1653_0007.jpg",
+            "https://whc.unesco.org/document/187721/site_1653_0008.jpg",
+            "https://whc.unesco.org/document/187714/site_1653_0001.jpg",
+            "https://whc.unesco.org/document/187722/site_1653_0009.jpg",
+            "https://whc.unesco.org/document/187723/site_1653_0010.jpg",
+            "https://whc.unesco.org/document/187725/site_1653_0012.jpg",
+            "https://whc.unesco.org/document/187726/site_1653_0013.jpg",
+            "https://whc.unesco.org/document/187727/site_1653_0014.jpg",
+            "https://whc.unesco.org/document/187728/site_1653_0015.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ivindo National Park",
+            "ref": "1653",
+            "latitude": 0.113,
+            "longitude": 12.648
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1653",
+        "unesco_documents": "https://whc.unesco.org/en/list/1653/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1653/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1653/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ivindo National Park Situated on the equator in northern Gabon the largely pristine site encompasses an area of almost 300,000 ha crossed by a network of picturesque blackwater rivers. It features rapids and waterfalls bordered by intact rainforest, which make for a landscape of great aesthetic value. The site’s aquatic habitats harbour endemic freshwater fish species, 13 of which are threatened, and at least seven species of Podostemaceae riverweeds, with probable micro-endemic aquatic flora at each waterfall. Many fish species in the property are yet to be described and parts of the site have hardly been investigated. Critically Endangered Slender-snouted Crocodiles (Mecistops cataphractus) find shelter in Ivindo National Park which also boasts biogeographically unique Caesalpinioideae old-growth forests of high conservation value, supporting, for instance, a very high diversity of butterflies alongside threatened flagship mammals and avian fauna such as the Critically Endangered Forest Elephant (Loxodonta cyclotis), Western Lowland Gorilla (Gorilla gorilla), the Endangered Chimpanzee (Pan troglodytes) and Grey Parrot (Psittacus erithacus) as well as the Vulnerable Grey-necked Rockfowl (Picathartes oreas), Mandrill (Mandrillus sphinx), Leopard (Panthera pardus), and African Golden Cat (Caracal aurata), and three species of Pangolin (Manidae spp.). Situated on the equator in northern Gabon the largely pristine site encompasses an area of almost 300,000 ha crossed by a network of picturesque blackwater rivers. It features rapids and waterfalls bordered by intact rainforest, which make for a landscape of great aesthetic value. The site’s aquatic habitats harbour endemic freshwater fish species, 13 of which are threatened, and at least seven species of Podostemaceae riverweeds, with probable micro-endemic aquatic flora at each waterfall. Many fish species in the property are yet to be described and parts of the site have hardly been investigated. Critically Endangered Slender-snouted Crocodiles (Mecistops cataphractus) find shelter in Ivindo National Park which also boasts biogeographically unique Caesalpinioideae old-growth forests of high conservation value, supporting, for instance, a very high diversity of butterflies alongside threatened flagship mammals and avian fauna such as the Critically Endangered Forest Elephant (Loxodonta cyclotis), Western Lowland Gorilla (Gorilla gorilla), the Endangered Chimpanzee (Pan troglodytes) and Grey Parrot (Psittacus erithacus) as well as the Vulnerable Grey-necked Rockfowl (Picathartes oreas), Mandrill (Mandrillus sphinx), Leopard (Panthera pardus), and African Golden Cat (Caracal aurata), and three species of Pangolin (Manidae spp.). Gabon Africa Natural"
+    },
+    {
+      "site_key": "ecosystem_and_relict_cultural_landscape_of_lope_okanda",
+      "uuid": "57922af1-e23a-5526-a80f-23203617c46a",
+      "unesco_id": "1147",
+      "names": {
+        "en": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+        "fr": "Ecosystème et paysage culturel relique de Lopé-Okanda",
+        "es": "Ecosistema y Paisaje Cultural Arcaico de Lopé-Okanda",
+        "ru": "Экосистема и реликтовый культурный пейзаж Лопе-Оканда",
+        "ar": "النظام البيئي والمناظر الطبيعية الثقافية في لوبي",
+        "zh": "洛佩──奥坎德生态系统与文化遗迹景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GAB": {
+            "name": "Gabon",
+            "iso2": "GA",
+            "iso3": "GAB"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Ecosystem and Relict Cultural Landscape of Lopé-Okanda demonstrates an unusual interface between dense and well-conserved tropical rainforest and relict savannah environments with a great diversity of species, including endangered large mammals, and habitats. The site illustrates ecological and biological processes in terms of species and habitat adaptation to post-glacial climatic changes. It contains evidence of the successive passages of different peoples who have left extensive and comparatively well-preserved remains of habitation around hilltops, caves and shelters, evidence of iron-working and a remarkable collection of some 1,800 petroglyphs (rock carvings). The property’s collection of Neolithic and Iron Age sites, together with the rock art found there, reflects a major migration route of Bantu and other peoples from West Africa along the River Ogooué valley to the north of the dense evergreen Congo forests and to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa.",
+          "fr": "Le bien présente une interface inhabituelle entre une forêt tropicale ombrophile dense bien conservée et un milieu de savane relique abritant un large éventail d’habitats et d’espèces, parmi lesquelles de grands mammifères en voie de disparition. Il illustre des processus écologiques et biologiques d’adaptation des espèces et des habitats aux changements climatiques postglaciaires. Cet ensemble regroupant des sites datant du néolithique et de l’âge du fer et incluant des vestiges d’œuvres d’art rupestre est le reflet d’un axe migratoire majeur emprunté par les Bantous et par d’autres peuples originaires d’Afrique de l’Ouest qui longeaient la vallée de l’Ogooué pour se rendre vers le nord des forêts sempervirentes denses du Congo et vers le centre, l’est et le sud du continent africain. Ces flux migratoires ont façonné le développement de toute l’Afrique subsaharienne.",
+          "es": "Este sitio es un ejemplo de una interfaz poco común entre un bosque lluvioso tropical, denso y bien conservado, y una sabana arcaica con gran variedad de hábitats y especies animales, entre las que figuran grandes mamíferos en peligro de extinción. También es un exponente de procesos de evolución, tanto ecológicos como biológicos, desde el punto de vista de la adaptación de las especies y los hábitats a los cambios climáticos postglaciares. El sitio presenta además huellas palpables de asentamientos humanos de la Era Neolítica y la Edad del Hierro, así como vestigios de arte rupestre, que demuestran la existencia de una importante ruta migratoria utilizada por los bantúes y otras poblaciones del África Occidental. Esa ruta, que ha contribuido a la configuración del África Subsahariana en su conjunto, partía del África Occidental y pasaba por el valle del río Ogooué para dirigirse luego hacia el norte de los bosques de hoja perenne del Congo y hacia el este y el sur del continente.",
+          "ru": "Экосистема и реликтовый культурный пейзаж Лопе-Оканда представляет собой необычное сочетание густого и хорошо сохранившегося влажного тропического леса и реликтовой окружающей среды саванного типа, которое служит местом обитания большого разнообразия видов, включая исчезающих крупных млекопитающих. На примере этого объекта можно наглядно проследить экологические и биологические процессы адаптации видов и мест обитания к климатическим условиям, сложившимся после ледникового периода. Этот ансамбль, объединяющий поселения, датируемые неолитом и железным веком, и включающий остатки наскального искусства, отражает историю важного миграционного пути народа Банту и других народов Западной Африки, проходившего по долине реки Огове в направлении к северу от вечнозеленых лесов Конго и к центру, востоку и югу африканского континента. Эти миграционные потоки предопределили развитие всей Африки к югу от Сахары.",
+          "ar": "يعرض هذا الموقع جانباً استثنائياً للغابات المدارية المطيرة المنتشرة بكثافة في المنطقة وبيئة المروج التي تتميز بتنوع غني، بما يشمل الثدييات الضخمة المهددة والمستوطنات الحيوانية والنباتية العديدة. يظهِر الموقع التكيف البيئي والبيولوجي مع التغيرات المناخية منذ نهاية العصر الجليدي. كما يحتوي على أدلة حول تعاقب الشعوب التي خلفت وراءها آثاراً سكنية في محيط التلال والهضاب والكهوف والملتجآت، وأدلة تشير إلى استخدام الأدوات الحديدية، ومجموعة لافتة من 800 1 نقش ونحت على الصخر. أدرج الموقع لأهمية مجموعته الأثرية التي ترقى إلى العصر الحجري الحديث وعصر الحديد، وآثار نقوشه الصخرية، وكلها تشير إلى طريق الهجرة الرئيسي لجماعة البانتو وشعوب أخرى من غرب أفريقيا على طول وادي نهر أوغويه شمالاً باتجاه غابات الكونغو الكثيفة والدائمة الخضرة ووسط وشرق وجنوب أفريقيا، مما أدى لاحقاً إلى تطور منطقة جنوب الصحراء الأفريقية.",
+          "zh": "洛佩──奥坎德生态系统与文化遗迹景观展示了保护完好的茂密热带雨林与残余热带草原环境之间的奇妙接合，这里的物种丰富，包括濒危的大型哺乳动物，是多种生物的栖息地。该遗址展现了生物及其栖息地适应冰川后期气候变化的生态和生物进程。这里有不同民族相继生活的证据，他们在山岭、岩洞和庇护所周围留下了大量保存比较完好的居住遗迹，同时还有炼铁的遗迹，遗迹约1800幅杰出的岩石雕刻。该遗产包括新石器时代和铁器时代遗址，还有岩刻艺术，共同反映了班图人(Bantu)和西非其他民族沿奥果韦河谷(the River Ogooué valley)向茂密的常绿刚果森林北部，再到中东部和南部非洲的主要移徙路线，这一移徙书写了撒哈拉以南非洲的发展。这是加蓬列入世界遗产的第一处遗址。"
+        },
+        "full": "The Ecosystem and Relict Cultural Landscape of Lopé-Okanda demonstrates an unusual interface between dense and well-conserved tropical rainforest and relict savannah environments with a great diversity of species, including endangered large mammals, and habitats. The site illustrates ecological and biological processes in terms of species and habitat adaptation to post-glacial climatic changes. It contains evidence of the successive passages of different peoples who have left extensive and comparatively well-preserved remains of habitation around hilltops, caves and shelters, evidence of iron-working and a remarkable collection of some 1,800 petroglyphs (rock carvings). The property’s collection of Neolithic and Iron Age sites, together with the rock art found there, reflects a major migration route of Bantu and other peoples from West Africa along the River Ogooué valley to the north of the dense evergreen Congo forests and to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa.",
+        "justification": "The Ecosystem and Relic Cultural Landscape of Lopé-Okanda represents an unusual interface between dense and well conserved tropical rainforest and relict savannah environments. A greater number of threatened species of large mammals find their last refuge in Lopé-Okanda than in any other comparable rainforest area in the Congo Rainforest Biogeographical Province. The property also preserves a record of biological evolution over the last 15,000 years of the still extant rainforest-savannah transition zone. The Lopé-Okanda National Park displays remarkable evidence for settlement stretching over 400,000 years from the Palaeolithic, through the Neolithic and Iron Age, to the present day Bantu and Pygmy peoples. The National Park includes the River Ogooué valley, one of the principle migration routes for the diffusion of people and languages, including the Bantu, to Central and Southern Africa, in the Neolithic and Iron Age, as evidenced in extraordinary number of substantial settlements sites and an extensive collection of rock art petroglyphs. The Lopé-Okanda National Park provides the oldest dates for the extension of the Tshitolien culture towards the Atlantic and it has revealed evidence of the early domestication of plants and animals and the use of forest resources. Criterion (iii): the rich archaeological ensembles of the middle stretches of the River Ogooué Valley demonstrate 400,000 years of almost continuous history. The archaeological sites have revealed the earliest date for the extension of Tshitolien culture towards the Atlantic, as well as detailed evidence for the early use of forest produce, cultivation of crops and the domestication of animals. Criterion (iv): the collection of Neolithic and Iron Age sites together with the rock art remains appear to reflect a major migration route of Bantu and other peoples along the River Ogooué valley to the north of the dense evergreen Congo forests from West Africa to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa. The subsidiary Iron Age sites within the forest provide evidence for the development of forest communities and their relationship with present day peoples. Criterion (ix): The nominated property demonstrates an unusual interface between forest and savannah environments, and a very important manifestation of evolutionary processes in terms of species and habitat adaptation to post-glacial climatic changes. The diversity of species and habitats present are the result of natural processes and also the long-term interaction between man and nature. Criterion (x): The diversity of habitats and the complex relationship between forest and savannah ecosystems have contributed to a high biological diversity particularly in relation to the property's flora, making it one of the most outstanding areas in relation to floristic diversity and complexity in the Congo Rainforest Biogeographical Province. Over 1,550 plant species have been recorded, including 40 never recorded before in Gabon, and it is anticipated that once all the floristic surveys and research are completed the number of plant species could reach over 3,000. The property is of sufficient size to maintain the long-term ecological viability of its habitats and ecosystems. The conservation and management of the property is guided by a management plan for the period 2006-2011 which is supported by international cooperation, particularly through a number of international and national NGOs. Conservation and management of the property also benefits from a number of transboundary cooperation initiatives. Key management issues include the need to resolve conflicts from competing interests, and to raise awareness amongst local people on the importance of conserving this property and to involve them in its management. Control and regulation of commercial poaching is of priority as well as the need to fully enforce regulations banning commercial logging within the property. Additional financial, logistical and human resources need to be obtained to ensure the effective management of the property and its buffer zone. The authenticity of the archaeological sites and rock art site is intact. There is a need for consolidation of the excavated sites to be carried out to ensure that they are not eroded by natural or human processes. The integrity of the cultural sites lies mainly in their relationship to one another along the River Ogooué Valley corridor which facilitated waves of migrations and subsidiary, later archaeological sites which fan out along the lesser river valleys within the forest. It would be desirable if at some point in the future that part of the river valley between the north-west corner of the National Park and the historic ensemble to the north-west could be included so that the integrity of the river corridor as a whole could be protected. The legal protective measures for the property are adequate to protect the cultural attributes of the landscape. Without a mission to the main archaeological sites in the River Ogooué Valley, details of the state of conservation of the cultural property cannot be recorded. Currently there are no active conservation measures undertaken on the archaeological sites. Although many of the sites are remote and this remoteness will help provide good protection, it would appear that over time consolidation and remedial work will be needed. High priority should be given to putting in place one or more staff with appropriate training for archaeological sites and cultural landscapes."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            3,
+            4,
+            9,
+            10
+          ],
+          "display": "(iii)(iv)(ix)(x)",
+          "count": 4,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 511991,
+          "square_km": 5119.91,
+          "square_miles": 2071.957,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d490b78644fa8050f18648f9d7853092",
+          "filename": "site_1147_0001.jpg",
+          "dimensions": {
+            "width": 2000,
+            "height": 1326
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115304/site_1147_0001.jpg",
+            "https://whc.unesco.org/document/115305/site_1147_0002.jpg",
+            "https://whc.unesco.org/document/115306/site_1147_0003.jpg",
+            "https://whc.unesco.org/document/115307/site_1147_0004.jpg",
+            "https://whc.unesco.org/document/115308/site_1147_0005.jpg",
+            "https://whc.unesco.org/document/115309/site_1147_0006.jpg",
+            "https://whc.unesco.org/document/115310/site_1147_0007.jpg"
+          ],
+          "count": 7
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Elarmékora",
+            "ref": "1147rev-002",
+            "latitude": -0.083333,
+            "longitude": 11.133333
+          },
+          {
+            "name": "Mount Iboundji",
+            "ref": "1147rev-003",
+            "latitude": -1.175,
+            "longitude": 11.791667
+          },
+          {
+            "name": "Parc National de Lopé-Okanda; Doda; Mokékou",
+            "ref": "1147rev-001",
+            "latitude": -0.5,
+            "longitude": 11.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1147",
+        "unesco_documents": "https://whc.unesco.org/en/list/1147/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1147/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1147/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda The Ecosystem and Relict Cultural Landscape of Lopé-Okanda demonstrates an unusual interface between dense and well-conserved tropical rainforest and relict savannah environments with a great diversity of species, including endangered large mammals, and habitats. The site illustrates ecological and biological processes in terms of species and habitat adaptation to post-glacial climatic changes. It contains evidence of the successive passages of different peoples who have left extensive and comparatively well-preserved remains of habitation around hilltops, caves and shelters, evidence of iron-working and a remarkable collection of some 1,800 petroglyphs (rock carvings). The property’s collection of Neolithic and Iron Age sites, together with the rock art found there, reflects a major migration route of Bantu and other peoples from West Africa along the River Ogooué valley to the north of the dense evergreen Congo forests and to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa. The Ecosystem and Relict Cultural Landscape of Lopé-Okanda demonstrates an unusual interface between dense and well-conserved tropical rainforest and relict savannah environments with a great diversity of species, including endangered large mammals, and habitats. The site illustrates ecological and biological processes in terms of species and habitat adaptation to post-glacial climatic changes. It contains evidence of the successive passages of different peoples who have left extensive and comparatively well-preserved remains of habitation around hilltops, caves and shelters, evidence of iron-working and a remarkable collection of some 1,800 petroglyphs (rock carvings). The property’s collection of Neolithic and Iron Age sites, together with the rock art found there, reflects a major migration route of Bantu and other peoples from West Africa along the River Ogooué valley to the north of the dense evergreen Congo forests and to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa. Gabon Africa Mixed"
+    }
+  ]
+}

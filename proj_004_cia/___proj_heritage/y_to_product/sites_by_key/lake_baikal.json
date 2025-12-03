@@ -1,0 +1,164 @@
+{
+  "site_key": "lake_baikal",
+  "uuid": "2b15c78e-3f65-5169-bca4-ef1f93a11bc9",
+  "unesco_id": "754",
+  "names": {
+    "en": "Lake Baikal",
+    "fr": "Lac Baïkal",
+    "es": "Lago Baikal",
+    "ru": "Озеро Байкал",
+    "ar": "بحيرة بايكل",
+    "zh": "贝加尔湖"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "RUS": {
+        "name": "Russia",
+        "iso2": "RU",
+        "iso3": "RUS"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Situated in south-east Siberia, the 3.15-million-ha Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve. Known as the 'Galapagos of Russia', its age and isolation have produced one of the world's richest and most unusual freshwater faunas, which is of exceptional value to evolutionary science.",
+      "fr": "Situé au sud-est de la Sibérie, le lac Baïkal, d'une superficie de 3,15 millions d'hectares, est le plus ancien (25 millions d'années) et le plus profond (1 700 m) lac du monde. Il contient 20 % des eaux douces non gelées de la planète. Son ancienneté et son isolement ont produit une des faunes d'eau douce les plus riches et originales de la planète, qui présente une valeur exceptionnelle pour la science de l'évolution, ce qui lui vaut le surnom de « Galápagos de la Russie ».",
+      "es": "Situado al sudeste de Siberia, este lago tiene una superficie de 3.150.000 hectáreas y es el más antiguo (25 millones de años) y profundo del mundo (1.700 metros). Contiene el 20% del agua dulce no helada de la Tierra. Debido a su antigüedad y aislamiento posee una de las faunas de agua dulce más ricas y singulares del planeta. El excepcional interés que ésta ofrece para el estudio de la evolución de las especies le ha valido al lago Baikal el sobrenombre de “las Galápagos de Rusia”.",
+      "ru": "Расположенный на юго-востоке Сибири и занимающий площадь 3,15 млн. га, Байкал признан самым древним (25 млн. лет) и самым глубоким (около 1700 м) озером планеты. Водоем хранит примерно 20% всех мировых запасов пресной воды. В озере, которое известно как «Галапагосы России», благодаря древнему возрасту и изоляции сформировалась уникальная даже по мировым меркам пресноводная экосистема, изучение которой имеет непреходящее значение для понимания эволюции жизни на Земле.",
+      "ar": "تقع بحيرة بايكل جنوب شرق سيبيريا وتمتد على مساحة3.15 مليون هكتار وهي أقدم بحيرات العالم (25 مليون سنة) وأعمقها (1700 متر). وهي تضمّ 20% من مياه الأرض العذبة غير المثلجة. وفي قدمها وعزلتها ما أفضى إلى تكوّن مجموعات حيوانيّة هي الأغنى والأكثر ابتكاراً على وجه الأرض وهي تتمتع بقيمة استثنائيّة لعلم التطوّر فكسبت اسم غالاباغوس روسيا.",
+      "zh": "坐落在俄罗斯联邦境内西伯利亚东南部的贝加尔湖，占地315万公顷，是世界历史最悠久（2500万年）且最深的（1700米）湖泊。它拥有地表不冻淡水资源的20%。以“俄国的加拉帕戈斯”而闻名于世的贝加尔湖，因其悠久的年代和人迹罕见，使它成为拥有世界上种类最多和最稀有的淡水动物群的地区之一，而这一动物群对于进化科学具有不可估量的价值。"
+    },
+    "full": "Situated in south-east Siberia, the 3.15-million-ha Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve. Known as the 'Galapagos of Russia', its age and isolation have produced one of the world's richest and most unusual freshwater faunas, which is of exceptional value to evolutionary science.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "all": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "display": "(vii)(viii)(ix)(x)",
+      "count": 4,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 8800000,
+      "square_km": 88000.0,
+      "square_miles": 35612.391,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1996,
+      "all_dates": [
+        1996
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1996,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/84ca7c8d5a75f596d8cb4bd6d2c54655",
+      "filename": "site_0754_0001-500-0-20151105152509.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113193/site_0754_0001.jpg",
+        "https://whc.unesco.org/document/113195/site_0754_0002.jpg",
+        "https://whc.unesco.org/document/113197/site_0754_0003.jpg",
+        "https://whc.unesco.org/document/113199/site_0754_0004.jpg",
+        "https://whc.unesco.org/document/113201/site_0754_0005.jpg",
+        "https://whc.unesco.org/document/113203/site_0754_0006.jpg",
+        "https://whc.unesco.org/document/113205/site_0754_0007.jpg",
+        "https://whc.unesco.org/document/113207/site_0754_0008.jpg",
+        "https://whc.unesco.org/document/113209/site_0754_0009.jpg"
+      ],
+      "count": 9
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Lake Baikal",
+        "ref": "754",
+        "latitude": 53.17361111,
+        "longitude": 107.6625
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/754",
+    "unesco_documents": "https://whc.unesco.org/en/list/754/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/754/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/754/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Natural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 29,
+    "inscription_year": 1996
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Lake Baikal Situated in south-east Siberia, the 3.15-million-ha Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve. Known as the 'Galapagos of Russia', its age and isolation have produced one of the world's richest and most unusual freshwater faunas, which is of exceptional value to evolutionary science. Situated in south-east Siberia, the 3.15-million-ha Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve. Known as the 'Galapagos of Russia', its age and isolation have produced one of the world's richest and most unusual freshwater faunas, which is of exceptional value to evolutionary science. Russia Europe and North America Natural"
+}

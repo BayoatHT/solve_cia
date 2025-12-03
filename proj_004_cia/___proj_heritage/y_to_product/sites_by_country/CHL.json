@@ -1,0 +1,2099 @@
+{
+  "country": {
+    "code": "CHL",
+    "name": "Chile"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 7,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "churches_of_chiloe",
+      "uuid": "113c7fcc-766e-54e6-975b-bf96ec0ebd8b",
+      "unesco_id": "971",
+      "names": {
+        "en": "Churches of Chiloé",
+        "fr": "Églises de Chiloé",
+        "es": "Iglesias de Chiloé",
+        "ru": "Церкви на островах Чилоэ",
+        "ar": "كنائس تشيلوي",
+        "zh": "奇洛埃教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities.",
+          "fr": "Les églises de Chiloé constituent un exemple unique en Amérique Latine d'architecture religieuse en bois. Elles représentent une tradition initiée aux XVIIe et XVIIIe siècle par des prêcheurs jésuites itinérants, tradition poursuivie et enrichie par les Franciscains au XIXe siècle et qui prévaut encore de nos jours. Ces églises illustrent l'extraordinaire richesse de l'archipel de Chiloé et témoignent de la fusion réussie de la culture et des techniques indigènes et européennes, de la parfaite intégration de son architecture dans le paysage et l'environnement, ainsi que des valeurs spirituelles des communautés.",
+          "es": "Construidas enteramente de madera, las iglesias de Chiloé constituyen un ejemplo único de la arquitectura religiosa en Latinoamérica. Son representativas de una tradición arquitectónica iniciada por los predicadores itinerantes jesuitas en los siglos XVII y XVIII. Tras haber sido continuada y enriquecida por los franciscanos en el siglo XIX, esa tradición perdura todavía en nuestros días. Además de ilustrar la riqueza cultural del archipiélago de Chiloé, estas iglesias atestiguan la lograda fusión de la cultura y las técnicas indígenas con las europeas, la perfecta armonización de su arquitectura con el paisaje y al entorno físico, y la perdurable continuidad de los valores espirituales las comunidades isleñas.",
+          "ru": "Церкви Чилоэ являются уникальным для Латинской Америки примером развития форм церковной деревянной архитектуры. Они представляют традицию, начатую в XVII-XVIII вв. иезуитской странствующей миссией, продолженную и развитую в XIX в. францисканцами, и превалирующую до сих пор. Эти церкви представляют собой также часть нематериального наследия островов Чилоэ и служат примером успешного слияния местной и европейской культур, органичного включения архитектуры в окружающий ландшафт и признания духовных ценностей местных общин.",
+          "ar": "تشكّل كنائس تشيلوي مثالاً فريداً عن الهندسة الدينية الخشبية في أميركا اللاتينية. وهي تعكس تقليداً خاصاً أطلقه المبشرون اليسوعيون الجوّالون في القرنين السابع عشر والثامن عشر، ثم تابعه وعزّزه الرهبان الفرنسيسكانيون في القرن التاسع عشر وهو لا يزال رائجاً حتى يومنا هذا. تجسّد هذه الكنائس الوفرة التي يتمتع بها أرخبيل تشيلوي كما تشهد على الإنصهار الناجح بين الثقافة والتقنيات الأصلية والأوروبية وعلى الإندماج المذهل لهندسة هذا الأرخبيل في المنظر الطبيعي والبيئة المحيطة به، الى جانب القيم الروحية للمجتمعات المحلية.",
+          "zh": "奇洛埃教堂是拉丁美洲特有的基督教木式建筑的杰出代表，所代表的建筑传统始于17和18世纪的耶稣会布道团(Jesuit Peripatetic Mission)，在19世纪得到圣芳济会(Franciscans)的发扬，并流传至今。这些教堂象征了智利群岛文化上的繁荣，也见证了当地文化与欧洲文化的成功融合，建筑与自然环境，以及当地社会精神价值的有机统一。"
+        },
+        "full": "The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities.",
+        "justification": "Brief Synthesis In the Chiloé archipelago off the coast of Chile are about 70 churches built within the framework of a “Circular Mission” introduced by the Jesuits in the 17th century and continued by the Franciscans in the 18th and 19th centuries. The most exceptional illustrations of this unique form of wooden ecclesiastical architecture (the so-called Chilota School of architecture) are the churches of Achao, Quinchao, Castro, Rilán, Nercón, Aldachildo, Ichuac, Detif, Vilupulli, Chonchi, Tenaún, Colo, San Juan, Dalcahue, Chellín and Caguach. These sixteen churches are outstanding examples of the successful fusion of European and indigenous cultural traditions. The abilities of the people of Chiloé as builders achieved its highest expression in these wooden churches, where farmers, fishermen and sailors exhibited great expertise in the handling of the most abundant material in this environment, wood. Along with the churches, the mestizo culture resulting from Jesuit missionary activities has survived to the present day. This isolated archipelago was colonized by the Spanish in the mid 16th century. The Jesuits, who arrived in 1608, used a circulating missionsystem in their evangelization of the area: religious groups made annual tours around the archipelago, staying for a few days at locations where churches were erected jointly with the communities of believers. The rest of the year a specially trained layperson attended the spiritual needs of the inhabitants. The construction techniques and architecture of the churches of Chiloé are specific to this locale: European experience was adapted and reformulated, giving rise to a vernacular tradition, supported by a great quantity and variety of testimonies which are still in use. Along with the culture of the archipelago, these churches are the result of a rich and extensive cross-cultural dialogue and interaction. Along with their basic architectural design (tower façade, basilican layout and vaulted ceiling), these sixteen churches are significant for their building material, their construction systems and the expertise demonstrated by the Chilote carpenters, as well as for their interior decoration, particularly the traditional colours and the religious images. The churches are distinguished by an indigenous tradition of building in wood strongly influenced by boat-building techniques, as shown by the forms and jointing of the tower and roof structures. The orientation and location of the churches is deliberate: constructed according to the demands of the sea, they were arranged on hills to be seen by navigators and to prevent flooding. Their associated esplanades remain important components: they embody communication with the sea; they are the scenes of religious festivals; and even those that have been transformed into formal plazas still evoke the arrival of the missionaries during their circulating mission. Devotional and communitarian practices, religious festivals and supportive group activities such as minga (unpaid community work) are key components of the intangible values of the relationship between the communities and the churches. Also of importance is the subsoil of the churches, which one day may reveal information about the relationship between the locations of the churches and pre-Hispanic indigenous ritual sites. Criterion (ii): The Churches of Chiloé are outstanding examples of the successful fusion of European and indigenous cultural traditions to produce a unique form of wooden architecture. Criterion (iii): The mestizo culture resulting from Jesuit missionary activities in the 17th and 18th centuries has survived intact in the Chiloé archipelago, and achieves its highest expression in the outstanding wooden churches. Integrity All the elements necessary to express the Outstanding Universal Value of the 13.9-ha serial property are located within its boundaries. The boundaries are nevertheless very constricted, and most of the components lack a coherent buffer zone. The collapse of the church of Chonchi’s tower as the result of a storm in March 2002 highlighted the fact that the state of conservation and the vulnerability of the churches were worse than previously assessed, particularly at the time of nomination. These churches require constant conservation efforts; the nature of the building material and the environmental characteristics make continual maintenance an imperative. The communities have always assured their conservation, but current phenomena associated with modernization and globalizations have increased the vulnerability of the churches. Authenticity The Churches of Chiloé present a high degree of authenticity in terms of their forms and designs, materials and substances, and locations and settings. Their architectural forms, materials and building systems constitute the zenith of a typological evolution, and have been preserved without substantive changes. Their function as places of worship has also been preserved. Interventions have retained all the richness of the typologies of connections, joints and fittings; period technology has been recovered and applied; and exceptional combinations of connections of a deeply local and singular character have been discovered. The traditions, techniques and management systems have been maintained, as have the essential conditions of the sites. Recent restorations have influenced a substantive reflection on the role of the intangible heritage. Protection and management requirements The sixteen churches of Chiloé are part of the Catholic Church’s Diocese of Ancud. They are administered by the Bishop of Ancud and by parish priests who have the support of the Friends of the Churches of Chiloé Foundation, a private entity presided over by the Bishop himself and created specifically for the conservation and enhancement of the churches. The Foundation was created by the Diocese to address the communities’ needs related to conservation, to bring professionals into the conservation process and to secure contributions by the State for their protection and restoration. The sixteen churches of Chiloé were declared a National Monument of Chile by means of various Decrees under Law No. 17.288 (1970). The supervision and protection of these assets is carried out by the Government of Chile through the National Monuments Council. The problem of the lack of coherent buffer zones for the property’s components is being addressed through the protection and regulation of the surrounding areas. The clearest challenges for sustaining the Outstanding Universal Value of the property over time are the recovery and promotion of a local “culture of maintenance” for the buildings; the effective religious and community use of the churches by the population; and the active participation of local people in the conservation effort. The unified and selfless participation of the community in the conservation and preservation of the wisdom, expertise and ancestral knowledge of the carpenters, as well as participation in preventive maintenance and critical restoration, are essential in this regard. The sustainability of the conservation effort is a significant challenge: the churches are located at the centres of their communities’ development, and a formula must be found to ensure their conservation in the context of any such development. The Government of Chile, with the support of the Inter-American Development Bank, has implemented a large-scale program since 2003 that has managed to reverse serious damage, particularly in the tower façades. Formulas must be found to ensure that, for example, tourism may result in tangible benefits for the communities and churches while at the same time avoiding the high risks of commercialization or trivialization. A shortage of fine hardwoods and the protection of the species that provide them represent current challenges. The use of alternative woods that have the exceptional properties of larch and cypress is therefore being explored. Investigating, recording and transmitting the building techniques to new generations are essential, as well as research on the properties of different woods and on the treatments that mitigate the effects of weathering and attacks by xylophages. Finally, it is necessary to make advances in risk preparedness and in the environmental protection of these churches. The churches of Chiloé present a delicate balance of social, environmental, physical and spiritual factors. It is the spiritual value inherent in these sixteen churches that gives rise to the complexity of their conservation. This is not a matter of simply repairing buildings; the challenge here is much greater, and in that challenge the very significance of heritage endeavour is in question."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 13.8977,
+          "square_km": 0.14,
+          "square_miles": 0.056,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/74ec3db544dc3f468613f985116ecb97",
+          "filename": "site_0971_0001-500-0-20090924190142.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 399
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113889/site_0971_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 16,
+        "locations": [
+          {
+            "name": "Church of Colo",
+            "ref": "971bis-012",
+            "latitude": -42.2588055556,
+            "longitude": -73.4019416667
+          },
+          {
+            "name": "Church of Detif",
+            "ref": "971bis-008",
+            "latitude": -42.6851083333,
+            "longitude": -73.5565805556
+          },
+          {
+            "name": "Church of Achao",
+            "ref": "971bis-001",
+            "latitude": -42.4716944445,
+            "longitude": -73.4881638889
+          },
+          {
+            "name": "Church of Ichuac",
+            "ref": "971bis-007",
+            "latitude": -42.6159166667,
+            "longitude": -73.7198333334
+          },
+          {
+            "name": "Church of Castro",
+            "ref": "971bis-003",
+            "latitude": -42.4814722223,
+            "longitude": -73.7637416667
+          },
+          {
+            "name": "Church of Rilán",
+            "ref": "971bis-004",
+            "latitude": -42.5198055556,
+            "longitude": -73.6283333334
+          },
+          {
+            "name": "Church of Nercón",
+            "ref": "971bis-005",
+            "latitude": -42.5012166667,
+            "longitude": -73.7854388889
+          },
+          {
+            "name": "Church of Chonchi",
+            "ref": "971bis-010",
+            "latitude": -42.6240833334,
+            "longitude": -73.7737222223
+          },
+          {
+            "name": "Church of Tenaún",
+            "ref": "971bis-011",
+            "latitude": -42.3314972223,
+            "longitude": -73.3751388889
+          },
+          {
+            "name": "Church of Chelín",
+            "ref": "971bis-015",
+            "latitude": -42.6013305556,
+            "longitude": -73.51625
+          },
+          {
+            "name": "Churgh of Caguach",
+            "ref": "971bis-016",
+            "latitude": -42.5102472222,
+            "longitude": -73.2659166667
+          },
+          {
+            "name": "Church of Quinchao",
+            "ref": "971bis-002",
+            "latitude": -42.535151,
+            "longitude": -73.427109
+          },
+          {
+            "name": "Church of San Juan",
+            "ref": "971bis-013",
+            "latitude": -42.335025,
+            "longitude": -73.5043888889
+          },
+          {
+            "name": "Church of Dalcahue",
+            "ref": "971bis-014",
+            "latitude": -42.3790833334,
+            "longitude": -73.647525
+          },
+          {
+            "name": "Church of Vilupulli",
+            "ref": "971bis-009",
+            "latitude": -42.6053055556,
+            "longitude": -73.7880805555
+          },
+          {
+            "name": "Church of Aldachildo",
+            "ref": "971bis-006",
+            "latitude": -42.5839138889,
+            "longitude": -73.6119916667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/971",
+        "unesco_documents": "https://whc.unesco.org/en/list/971/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/971/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/971/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Churches of Chiloé The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities. The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities. Chile Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "sewell_mining_town",
+      "uuid": "bbe29446-c553-5bff-b172-2d108393399e",
+      "unesco_id": "1214",
+      "names": {
+        "en": "Sewell Mining Town",
+        "fr": "Ville minière de Sewell",
+        "es": "Ciudad minera de Sewell",
+        "ru": "Шахтерский город Сьюэлл",
+        "ar": "مدينة سويل المنجمية",
+        "zh": "塞维尔铜矿城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated at 2,000 m in the Andes, 60 km to the east of Rancagua, in an environment marked by extremes of climate, Sewell Mining Town was built by the Braden Copper company in 1905 to house workers at what was to become the world’s largest underground copper mine, El Teniente. It is an outstanding example of the company towns that were born in many remote parts of the world from the fusion of local labour and resources from an industrialized nation, to mine and process high-value natural resources. The town was built on a terrain too steep for wheeled vehicles around a large central staircase rising from the railway station. Along its route formal squares of irregular shape with ornamental trees and plants constituted the main public spaces or squares of the town. The buildings lining the streets are timber, often painted in vivid green, yellow, red and blue. At its peak Sewell numbered 15,000 inhabitants, but was largely abandoned in the 1970s.",
+          "fr": "Située à plus de 2 000 m d’altitude dans les Andes, à 60 km à l’est de Rancagua, dans un environnement marqué par un climat extrême, la ville minière de Sewell a été construite par la société Bradden Copper en 1905 pour héberger les mineurs travaillant dans ce qui était en train de devenir la plus grande mine souterraine de cuivre du monde, El Teniente. C’est un exemple exceptionnel de ces villes qui ont été « implantées » dans de nombreuses parties reculées du monde pour exploiter une mine et transformer des ressources naturelles de grande valeur, en utilisant à la fois une main d’œuvre locale et les moyens financiers et techniques d’un pays industrialisé. Installée sur un terrain trop abrupt pour les véhicules à roues, la ville a été construite autour d’un grand escalier central partant de la gare. Le long de la pente, des places de forme irrégulière, embellies par des arbres et des plantes, constituaient les principaux espaces publics de la ville. Les immeubles construits le long des rues sont en bois, souvent peints dans des tons vifs de vert, jaune, rouge et bleu. A son apogée, Sewell a compté jusqu’à 15 000 habitants mais elle a été largement abandonnée dans les années 1970.",
+          "es": "Situada a 60 km al este de Rancagua, a mí¡s de 2.000 metros de altitud, en la cordillera andina, la ciudad minera de Sewell fue construida por la empresa Braden Koper a principios del siglo XX para albergar a los trabajadores de la mina El Teniente, que pronto se iba a convertir en la mayor explotación subterrí¡nea de cobre del mundo. Sewell es un ejemplo notable de las ciudades construidas por empresas industriales, que surgieron en muchos rincones apartados del planeta como resultado de la fusión entre la mano de obra local y los recursos técnicos y financieros de algunas naciones industrializadas, con vistas a explotar yacimientos mineros y transformar recursos naturales valiosos. Construida en una ladera demasiado abrupta para permitir la circulación de vehí­culos con ruedas, Sewell se estructuró en torno a una gran escalera central que se elevaba desde la estación ferroviaria. A lo largo de su recorrido, esa escalera iba jalonando plazoletas de configuración irregular, ornadas de í¡rboles y plantas, que constituí­an el espacio público urbano principal. Los edificios que se alinean a lo largo de las calles son de madera y con frecuencia estí¡n pintados con diversos colores llamativos: verde, amarillo, rojo y azul. La ciudad minera fue abandonada por una gran mayorí­a de sus pobladores en el decenio de 1970, pero en su momento de apogeo llegó a contar con 15.000 habitantes.",
+          "ru": "Расположенный в 85 км к югу от столицы – Сантъяго, в местности с экстремальным климатом, на высоте более 2000 м в Андах, шахтерский город Сьюэлл был построен «Брейден Коппер Компани» в начале ХХ в. для поселения рабочих крупнейшей в мире подземной шахты по добыче меди Эль-Теньенте. Это выдающийся пример города, каковые создавались промышленными компаниями во многих удаленных районах мира за счет ресурсов экономически развитых стран и в расчете на использование местной рабочей силы, с целью добычи и переработки наиболее ценных природных богатств. На пике своего развития Сьюэлл имел 15 тыс. жителей, но он был почти полностью заброшен в 1970-х гг. Город был построен на крутых склонах, не допускавших использование колесного транспорта, по сторонам большой центральной лестницы, поднимавшейся от железнодорожной станции. Вдоль лестницы располагались площадки неправильной формы с декоративными посадками деревьев и кустарников, которые служили основными общественными и озелененными пространствами города. В обе стороны от центральной лестницы расходились горизонтальные проходы, которые вели к меньшим площадкам и лестницам второго порядка, соединявшим лежащие на разных уровнях части города. Здания на улицах деревянные, и многие покрашены в яркие цвета - зеленый, желтый, красный и синий. В основном архитектура зданий следовала американским образцам Х1Х в., однако проект Промышленной школы (1936 г.) был вдохновлен архитектурой модернизма. Сьюэлл – это единственное в ХХ в. крупное горнопромышленное шахтерское поселение, построенное в расчете на круглогодичное использование.",
+          "ar": "في العام 1905، أسست شركة برادن كوبر مدينة سويل المنجمية التي تقع على علو أكثر من2000 متر في الأنديز وعلى بعد 60 كم شرق رانكاغوا، في بيئة معروفة بمناخها القاسي. وكان الهدف من تأسيسها إيواء عمّال المناجم الذين كانوا يعملون في منجم التينيانتي الذي ما لبث أن أصبح أكبر منجم جوفي للنحاس في العالم. ويشكّل هذا الموقع مثلاً إستثنائياً عن تلك المدن التي كانت تستحدث في أنحاء نائية من العالم بهدف استغلال أحد المناجم الموجودة فيها وتحويل مواردها الطبيعية القيّمة من خلال الجمع بين اليد العاملة المحلية والأساليب المالية والتقنية المتوفرة في بلد صناعي. تقوم هذه المدينة على أرض وعرة يصعب الوصول إليها بالمركبات المزوّدة بالعجلات، لذلك تمّ تشييدها حول سلّم مركزي كبير ينطلق من محطة القطارات. وعلى امتداد المنحدر، كانت الساحات المصممة بأشكال غير منتظمة والمزيّنة بالأشجار والنباتات، تشكّل الأماكن العامة الأساسية في المدينة. أمّا الأبنية المشيّدة على طول الطرقات، فكانت مصنوعة من الخشب المطلي في غالبية الأحيان بألوان زاهية كالأخضر والأصفر والأحمر والأزرق. وعندما بلغت مدينة سويل ذروتها، كان عدد سكانها يناهز الـ 15000 نسمة إلاّ أنّهم هجروها بأعداد كبيرة في السبعينيات من القرن العشرين.",
+          "zh": "塞维尔采矿小镇建于20世纪早期，位于智利首都圣地亚哥以南85公里处，处于安第斯山海拔2000米以上的极端气候环境中，是布瑞登铜业公司(the Braden Copper company)在厄尔特尼恩特(El Teniente)这一世界最大的地下铜矿中为工人修建的工房。在当地劳动力与工业化国家的资源相融合，开采和冶炼高价值自然资源的过程中诞生了这个小镇，它是位于世界偏远地区企业生活区的杰出典范。在巅峰时期，塞维尔拥有15 000名居民，但在20世纪70年代小镇的大部分都被废弃了。小镇沿着从火车站升起的庞大的中心阶梯而建，地势非常陡峭，轮式车辆根本无法抵达。沿着大路分布着种有观赏树木和植物的不规则方形区域，构成了小镇的主要公共活动区或广场。在中央阶梯之外，环山小路通往较小的广场和连接小镇其他区域的二级阶梯。沿街建筑是由原木搭建的，通常漆成鲜艳的绿色、黄色、红色和蓝色。这些房屋由美国设计，其中大多数是按照美国19世纪的风格建造的，但是其他建筑，如工艺学校（1936年）则是现代主义灵感的产物。塞维尔是20世纪唯一一座为全年度使用而在山区建造的大规模工业采矿住区。"
+        },
+        "full": "Situated at 2,000 m in the Andes, 60 km to the east of Rancagua, in an environment marked by extremes of climate, Sewell Mining Town was built by the Braden Copper company in 1905 to house workers at what was to become the world’s largest underground copper mine, El Teniente. It is an outstanding example of the company towns that were born in many remote parts of the world from the fusion of local labour and resources from an industrialized nation, to mine and process high-value natural resources. The town was built on a terrain too steep for wheeled vehicles around a large central staircase rising from the railway station. Along its route formal squares of irregular shape with ornamental trees and plants constituted the main public spaces or squares of the town. The buildings lining the streets are timber, often painted in vivid green, yellow, red and blue. At its peak Sewell numbered 15,000 inhabitants, but was largely abandoned in the 1970s.",
+        "justification": "Brief Synthesis Sewell Mining Town, located more than 2,200 m above sea level, clambers up the barren slopes of central Chile’s Los Andes Cordillera above the world’s largest underground copper mine, El Teniente. The first copper company town in Chile (the main producer of this metal in the world), the now-uninhabited Sewell is an outstanding example of the global phenomenon of company towns in which settlements were established in remote parts of the world to extract and process natural resources – in this case, high-value copper. These company towns were typically created through a fusion of local labour with external capital and resources. Sewell Mining Town is particularly notable for its contribution to the global spread of large-scale mining technology. Sewell’s origins go back to 1905, when the Chilean government authorized American mining engineer William Braden to exploit the copper mine. In an epic commercial endeavour, Braden built roads, a concentrator plant, camps and a railway that connected this remote place to the city of Rancagua 60 km away. El Teniente and the town of Sewell were owned by American companies until 1971, when the copper industry was nationalized and became the property of the State, which, by the end of 1960, had already become the major stockholder. Sewell had gradually expanded to accommodate 15,000 people in 175,000 square metres by the time of its maximum development in 1968. The town then slowly lost population when the company resolved that it was more efficient to move its workers to Rancagua. A process of demolition ended in the 1990s when a policy oriented toward the protection and conservation of the site was implemented. Sewell is a company town of great originality. It is known as the Ciudad de las Escaleras (City of Stairs) or Ciudad Derramada en el Cerro (City Spread Down the Hill) because of its urban configuration on the steep Andean slopes. These dramatic inclines gave rise to an organic design characterised by an exclusively pedestrian interior circulation system of stairs and paths, with public places built on small open areas between the buildings. The construction of buildings and industrial facilities shows great creativity and quality in the use of wood and steel. Their architectural expression is marked by austerity, functionality and the imprint of modernism. The most outstanding attributes of the property are the industrial installations, which take advantage of the hillside incline for the mineral grinding process; the buildings that combine houses on the upper floors with business or services in the ground floor; the service buildings, public spaces and pedestrian circulation system; the electric infrastructure and drinking water and sewer systems; the assorted and diverse networks of pipes crossing the town, as well as the Rebolledo Bridge; and the urban design and the ensemble’s location in the stark Andean landscape. Among the industrial installations, the Concentrator (still in working order) and the energy infrastructure stand out, as well as the Punta de Rieles (Rails’ End) sector at the highest point on the property. In Sewell was forged a special culture – a combination of Chilean and American customs – which survives with its former residents and their descendants. Criterion (ii): Sewell town in its hostile environment is an outstanding example of the global phenomenon of company towns, established in remote parts of the world through a fusion of local labour with resources from already industrialised nations, to mine and process high value copper. The town contributed to the global spread of large-scale mining technology. Integrity Within the boundaries of the 17.2-ha property are located all the elements necessary to express the Outstanding Universal Value of Sewell Mining Town, including 38 percent of the housing and 80 percent of the industrial buildings that constituted the town at the time of its maximum development. These buildings form the central core of the town as it was configured by the mid 20th century. The property includes all the construction typologies historically located here except for the detached single-family houses of the American inhabitants, all of which have been destroyed. The pedestrian circulation system, public spaces and service infrastructure are intact and remain operational. The property does not suffer from adverse effects of development or neglect. The property (which is surrounded by a 33-ha buffer zone) is within a mining exploitation area, so access is controlled; tour visits are limited, and undertaken only under the supervision of authorized operators. Because of this provision, the property does not suffer from looting and does not face undue tourism pressure. Authenticity Sewell Mining Town is authentic in terms of the ensemble’s forms and designs, materials and substances, uses and functions, and location and setting. The industrial sector of the property still operates, thereby assuring its full authenticity of use and function. Although copper flotation (metal separation) is no longer performed in the Concentrator, mineral grinding still is. Sewell is a remarkable example of synergy between production and property conservation, and its future viability largely depends on this balance. In the non-industrial sector buildings, some interior transformations took place in the 1980s, but are reversible. Most of the buildings have been thoroughly restored and are subjected to periodic maintenance; their construction systems, design and essential characteristics have been preserved. The town also includes buildings that authentically illustrate the full range of its construction stages, including the last stage before its depopulation, when management introduced modern reinforced concrete buildings (Building No. 501, built in 1958, for example). It has been recommended, in the context of the Committee’s comment at the time of inscription concerning adaptive re-use, that evidence of the town’s buildings’ original functions be strengthened. The widespread use of wood creates a serious potential for fire, although the high altitude reduces this risk, and there are strict safety procedures to minimise this and other potential disasters. The high altitude has also made the property inhospitable to xylophagous insects. Protection and management requirements Sewell Mining Town is owned by the El Teniente Division of the National Copper Corporation of Chile (Codelco-Chile), a State-owned corporation created by Decree Law No. 1.350 of 30 January 1976. In 2006 this corporation created the Fundación Sewell (Sewell Foundation), a non-profit organization devoted specifically to managing, administering, conserving and promoting Sewell Mining Town’s assets as a museum site for the copper mining industry, and to which it provides funding. Sewell Mining Town was declared a National Monument by virtue of Ministry of Education Decree No. 857 of 27 August 1998, and is therefore overseen by the National Monuments Council. A Management Plan was in force for the period 2006-2010, but has not yet been updated. An important management principle for the property has been community participation: the former inhabitants of Sewell’s contribution to conserving and developing the property and its memory for future generations is underlined, as are historical and archaeological investigations and interpretation of the property as a testimony to Chilean copper mining as a whole. Sustaining the Outstanding Universal Value of the property over time will require updating, approving and implementing the Management Plan for the property; maintaining a rigorous maintenance programme, given the harsh climatic conditions; in the context of adaptive re-use, restoring rather than adapting a number of the dwelling units in order to display the realities of mining life in the town and to keep sufficient evidence of the internal layout of the buildings to ensure that their original functions can be discerned; and ensuring that interventions, including those related to ongoing copper mining and processing activities, do not compromise the Outstanding Universal Value, authenticity and integrity of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2
+          ],
+          "natural": [],
+          "all": [
+            2
+          ],
+          "display": "(ii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 17.2,
+          "square_km": 0.17,
+          "square_miles": 0.07,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2006,
+          "all_dates": [
+            2006
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2006,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9a00814d6e277db41b32b1dc3de7bdb9",
+          "filename": "site_1214_0001.jpg",
+          "dimensions": {
+            "width": 2448,
+            "height": 3264
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113876/site_1214_0001.jpg",
+            "https://whc.unesco.org/document/113878/site_1214_0002.jpg",
+            "https://whc.unesco.org/document/113880/site_1214_0003.jpg",
+            "https://whc.unesco.org/document/113882/site_1214_0004.jpg",
+            "https://whc.unesco.org/document/113884/site_1214_0005.jpg",
+            "https://whc.unesco.org/document/113886/site_1214_0006.jpg",
+            "https://whc.unesco.org/document/113888/site_1214_0007.jpg",
+            "https://whc.unesco.org/document/113890/site_1214_0008.jpg",
+            "https://whc.unesco.org/document/113892/site_1214_0009.jpg",
+            "https://whc.unesco.org/document/113894/site_1214_0010.jpg",
+            "https://whc.unesco.org/document/113896/site_1214_0011.jpg",
+            "https://whc.unesco.org/document/113898/site_1214_0012.jpg",
+            "https://whc.unesco.org/document/113900/site_1214_0013.jpg",
+            "https://whc.unesco.org/document/113902/site_1214_0014.jpg",
+            "https://whc.unesco.org/document/113904/site_1214_0015.jpg",
+            "https://whc.unesco.org/document/113906/site_1214_0016.jpg",
+            "https://whc.unesco.org/document/113908/site_1214_0017.jpg",
+            "https://whc.unesco.org/document/113911/site_1214_0018.jpg",
+            "https://whc.unesco.org/document/113913/site_1214_0019.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sewell Mining Town",
+            "ref": "1214",
+            "latitude": -34.0844444444,
+            "longitude": -70.3827777777
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1214",
+        "unesco_documents": "https://whc.unesco.org/en/list/1214/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1214/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1214/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 19,
+        "inscription_year": 2006
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sewell Mining Town Situated at 2,000 m in the Andes, 60 km to the east of Rancagua, in an environment marked by extremes of climate, Sewell Mining Town was built by the Braden Copper company in 1905 to house workers at what was to become the world’s largest underground copper mine, El Teniente. It is an outstanding example of the company towns that were born in many remote parts of the world from the fusion of local labour and resources from an industrialized nation, to mine and process high-value natural resources. The town was built on a terrain too steep for wheeled vehicles around a large central staircase rising from the railway station. Along its route formal squares of irregular shape with ornamental trees and plants constituted the main public spaces or squares of the town. The buildings lining the streets are timber, often painted in vivid green, yellow, red and blue. At its peak Sewell numbered 15,000 inhabitants, but was largely abandoned in the 1970s. Situated at 2,000 m in the Andes, 60 km to the east of Rancagua, in an environment marked by extremes of climate, Sewell Mining Town was built by the Braden Copper company in 1905 to house workers at what was to become the world’s largest underground copper mine, El Teniente. It is an outstanding example of the company towns that were born in many remote parts of the world from the fusion of local labour and resources from an industrialized nation, to mine and process high-value natural resources. The town was built on a terrain too steep for wheeled vehicles around a large central staircase rising from the railway station. Along its route formal squares of irregular shape with ornamental trees and plants constituted the main public spaces or squares of the town. The buildings lining the streets are timber, often painted in vivid green, yellow, red and blue. At its peak Sewell numbered 15,000 inhabitants, but was largely abandoned in the 1970s. Chile Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "qhapaq_nan_andean_road_system",
+      "uuid": "2f179b38-86d7-533e-8e4a-36ab67985b06",
+      "unesco_id": "1459",
+      "names": {
+        "en": "Qhapaq Ñan, Andean Road System",
+        "fr": "Qhapaq Ñan, réseau de routes andin",
+        "es": "Qhapaq Ñan - Sistema vial andino",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PER": {
+            "name": "Peru",
+            "iso2": "PE",
+            "iso3": "PER"
+          },
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          },
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          },
+          "COL": {
+            "name": "Colombia",
+            "iso2": "CO",
+            "iso3": "COL"
+          },
+          "ARG": {
+            "name": "Argentina",
+            "iso2": "AR",
+            "iso3": "ARG"
+          },
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": true,
+        "country_count": 6
+      },
+      "descriptions": {
+        "short": {
+          "en": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+          "fr": "Ce grand réseau de routes de communication, de commerce et de défense parcourt plus de 30 000 km. Construit par les Incas sur plusieurs siècles et en partie basé sur une infrastructure préinca, ce réseau extraordinaire traversant l’un des terrains géographiques les plus difficiles du monde relie les sommets enneigés des Andes (à plus de 6 000 m) à la côte en passant par des forêts tropicales humides, des vallées fertiles et des déserts. Le Qhapac Ñan qui a atteint son extension maximale au XVe siècle s’étendait sur toute la longueur et la largeur des Andes. Le bien comprend 273 sites individuels s’étendant sur plus de 6 000 km. Ils ont été choisis pour illustrer les réalisations architecturales, techniques, politiques, sociales du réseau ainsi que son infrastructure associée, destinée au commerce, à l’hébergement et au stockage des marchandises, et des sites d’importance religieuse.",
+          "es": "Se trata de una vasta red viaria de unos 30.000 kilómetros construida a lo largo de varios siglos por los incas –aprovechando en parte infraestructuras preincaicas ya existentes– con vistas a facilitar las comunicaciones, los transportes y el comercio, y también con fines defensivos. Este extraordinario sistema de caminos se extiende por una de las zonas geográficas del mundo de mayores contrastes, desde las cumbres nevadas de los Andes que se yerguen a más de 6.000 metros de altitud hasta la costa del Pacífico, pasando por bosques tropicales húmedos, valles fértiles y desiertos de aridez absoluta. La red viaria alcanzó su máxima expansión en el siglo XV, llegando a extenderse por todo lo largo y ancho de la cordillera andina. El nuevo sitio del patrimonio mundial, que consta de 274 componentes y se extiende a lo largo de más de 5.000 kilómetros. Los componentes se han seleccionado para poner de relieve la importante función social y política de la red viaria; las obras maestras de arquitectura e ingeniería y las infraestructuras conexas dedicadas a las actividades mercantiles, el alojamiento y el almacenamiento de mercancías; y los sitios con un significado religioso.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+        "justification": "Brief synthesis Qhapaq Ñan, Andean Road System is an extensive Inca communication, trade and defence network of roads and associated structures covering more than 30,000 kilometres. Constructed by the Prehispanic Andean communities over several centuries, the network reached its maximum expansion in the 15th century, during the consolidation of the Tawantinsuyu, when it spread across the length and breadth of the Andes. The network is based on four main routes, which originate from the central square of Cusco, the capital of the Tawantinsuyu. These main routes are connected to several other road networks of lower hierarchy, which created linkages and cross-connections. 137 component areas and 308 associated archaeological sites, covering 616.06 kilometers of the Qhapaq Ñan highlight the achievements of the Incas in architecture and engineering along with its associated infrastructure for trade, storage and accommodation as well as sites of religious significance. The road network was the outcome of a political project implemented by the Incas linking towns and centers of production and worship together under an economic, social and cultural programme in the service of the State. The Qhapaq Ñan, Andean Road System is an extraordinary road network through one of the world’s most extreme geographical terrains used over several centuries by caravans, travellers, messengers, armies and whole population groups amounting up to 40,000 people. It was the lifeline of the Tawantinsuyu, linking towns and centres of production and worship over long distances. Towns, villages and rural areas were thus integrated into a single road grid. Several local communities who remain traditional guardians and custodians of Qhapaq Ñan segments continue to safeguard associated intangible cultural traditions including languages. The Qhapaq Ñan by its sheer scale and quality of the road, is a unique achievement of engineering skills in most varied geographical terrains, linking snow-capped mountain ranges of the Andes, at an altitude of more than 6,600 metres high, to the coast, running through hot rainforests, fertile valleys and absolute deserts. It demonstrates mastery in engineering technology used to resolved myriad problems posed by the Andes variable landscape by means of variable road construction technologies, bridges, stairs, ditches and cobblestone pavings. Criterion (ii): The Qhapaq Ñan exhibits important processes of interchange of goods, communication and cultural traditions within a cultural area of the world which created a vast empire of up to 4,200km in extension at its height in the 15th century. It is based on the integration of prior Andean ancestral knowledge and the specifics of Andean communities and cultures forming a state organizational system that enabled the exchange of social, political and economic values for imperial policy. Several roadside structures provide lasting evidence of valuable resources and goods traded along the network, such as precious metals, muyu (spondylus shell), foodstuffs, military supplies, feathers, wood, coca and textiles transported from the areas where they were collected, produced or manufactured, to Inca centres of various types and to the capital itself. Several communities, who remain custodians of components of this vast Inca communication network, are living reminders of the exchange of cultural values and language. Criterion (iii): The Qhapaq Ñan is an exceptional and unique testimony to the Inca civilization based on the values and principles of reciprocity, redistribution and duality constructed in a singular system of organization called Tawantinsuyu. The road network was the life giving support to the Inca Empire integrated into the Andean landscape. As a testimony to the Inca Empire, it illustrates thousands of years of cultural evolution and was an omnipresent symbol of the Empire’s strength and extension throughout the Andes. This testimony influences the communities along the Qhapaq Ñan until today, in particular with relation to the social fabric of local communities and the cultural philosophies that give meaning to relationships among people and between people and the land. Most importantly, life is still defined by links among close kin and an ethic of mutual support. Criterion (iv): The Qhapaq Ñan, Andean Road System is an outstanding example of a type of technological ensemble which despite the most difficult geographical conditions created a continuous and functioning communication and trade system with exceptional technological and engineering skills in rural and remote settings. Several elements illustrate characteristic typologies in terms of walls, roads, steps, roadside ditches, sewage pipes, drains, etc., with construction methods unique to the Qhapaq Ñan while varying according to location and regional context. Many of these elements were standardized by the Inca State, which allowed for the control of equal conditions along the road network. Criterion (vi): The Qhapaq Ñan played an essential role in the organization of space and society in a wide geographical area along the Andes, where the roads were used as a means to share cultural values with outstanding intangible significance. The Qhapaq Ñan continues today to provide communities with a sense of identity and to enable their cultural practices, cultural expressions and traditional skills to continue to be transmitted from generation to generation. Members of these communities base their own existence on an Andean cosmovision, which is unique in the World. This cosmovision applies to all aspects of everyday life. Today, Qhapaq Ñan is directly associated with the intangible values shared by the communities in the Andean World, such as traditional trade, ritual practices, and the use of ancient technology, among others, which are living traditions and beliefs essential to the cultural identity of the communities concerned. The Andean Road System continues to serve its original functions of integration, communication, exchange and flow of goods and knowledge, and - despite the current modern trade and social changes - keeps its pertinence and importance throughout the centuries and its role as a cultural reference which contributes to reinforcing the identity within the Andean world. Integrity The series of sites inscribed as the best representation of the Qhapaq Ñan is exhaustive and illustrates the variety of typological, functional and communicative elements, which allow for a full understanding of its historic and contemporary role. The number of segments is adequate to communicate the key features of the heritage route, despite the fact that these are fragmented in individual site components, which represent the best preserved segments of the previously continuous road network. For a number of site components the condition of integrity remains vulnerable and it is recommended that the States Parties develop criteria to define minimum intactness in relation to the different technological and architectural categories identified and the different geographical regions and levels of remoteness. According to these criteria, the condition of integrity should be monitored in the future to ensure that intactness can be guaranteed in the long term and that the site components remain free from threats which may reduce the condition of integrity. To ensure that the distinct relations between different sites in terms of continuity despite their fragmentation can be well understood by future visitors, it is recommended that appropriate maps or a GIS system be developed which illustrates the functional and social relations between the different site components and highlights their role in the overall Qhapaq Ñan network. Authenticity The authenticity of the Qhapaq Ñan component sites is very high in that the characteristic features retain their form and design and the variety of specific well-preserved types of architectural and engineering achievements facilitate communication of the overall form and design of the network. The materials used are mainly stone and earth, with stone type varying from region to region, and repair and maintenance measures where necessary are undertaken in traditional techniques and material. These are predominantly driven by the local populations, who remain knowledgeable in traditional road management techniques and who are the key partners in maintaining the roadbed and associated features. At sites which have been of specific archaeological or cultural interest professional stabilization and restoration techniques have been applied and implemented with great respect to the original materials and substance. On the road sections, local management systems govern decision-making processes, often with a large degree of community involvement and these have retained highest degrees of authenticity as reuse of the historic materials remains more efficient than the introduction of new materials. The setting and visual surroundings of most of Qhapaq Ñan’s components is very good and in many cases pristine. For several summit ceremonial sites, settings include horizon ranges of 360 degrees for many kilometres in all directions. The Qhapaq Ñan also passes through very beautiful landscapes, the beauty of which depends on fragile view sheds associated which need to be monitored to ensure that any modern developments in the landscape have as minimal visual impact as possible. Several sites are difficult to access and their remoteness has over centuries preserved them in a very good condition. A majority of Qhapaq Ñan components is located in rural settings which fortunately left them free of noticeable modern intrusions. Associated intangible values and management practices remain very strong, especially in the most remote sections of the road network and contribute to the safeguarding of authentic management mechanisms. The information sources of spirit and feeling as well as atmosphere are very relevant as many of the communities have strong associations to the Qhapaq Ñan and continue to remain guardians of some of the ceremonial structures. Protection and management requirements As a transnational serial property the Qhapaq Ñan covers the jurisdiction of six countries at national and local levels, including, in one instance, regulations of seven regional authorities. A number of international joint declarations and Statements of Commitment have been signed by the participating States Parties between 2010 and 2012 which highlight their agreement to protect the segments of the Qhapaq Ñan at the highest possible level. The protection put in place in light of these agreements follow the respective national heritage legislations and provide protection at the highest national level to all property components. The States Parties have designed two overarching management frameworks, one for the candidature phase of the nomination and a second that will become operational once the inscription is achieved. The preparation phase was guided by a Paris-based international Coordination Committee while the overarching management framework following World Heritage inscription is guided by regional networks among the participating States Parties. The State Party of Peru committed to support the establishment of a technical coordination secretariat where information will be gathered and communicated to the experts in all Qhapaq Ñan states and where frequent meetings among the technical experts will be organized. Within the national contexts management systems have been developed in cooperation with the local communities and include concerns of perpetuation of the living traditions associated with the Qhapaq Ñan. The majority of these are traditional management systems which have been in existence for centuries and have developed from the local community levels to more formalized agreements with the concerned governmental authorities. The importance of preserving the actual road trace in areas that are being cultivated by the communities should be highlighted as part of the management agreements. Several local communities explicitly expressed their interest in tourism activities which they intend to be managed and driven at the community level. Limited presentation and interpretation facilities are at present available along the Qhapaq Ñan and local communities sharing their experiences and stories with visitors are a key basis of interpretation. Some territories of the Qhapaq Ñan, Andean Road System are seismically active areas and especially the architectural structures seem to be endangered by earthquakes. Adequate risk protection schemes need to be developed to ensure safety of humans as well as cultural resources in the event of natural disasters. An overall policy framework for the Qhapaq Ñan was created with the Management Strategy document undersigned at high level by the six States Parties on 29 November 2012. In addition to this multinational agreement management plans are intended to be developed at a regional level for each individual section of the road network. The management strategy framework illustrates the initial implementation of key management aspects, in particular the social and participation strategies intended to enable local communities to develop owner- and guardianship of the Qhapaq Ñan and its serial components. Further management and conservation plan components remain under development and should integrate adequate risk preparedness and disaster management as well as visitor management strategies."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3642.8067,
+          "square_km": 36.43,
+          "square_miles": 14.742,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/56195c2fc3c25e375e33ff406a1ede86",
+          "filename": "site_1459_0065-500-0-20241107142213.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209587/site_1459_0065.jpg",
+            "https://whc.unesco.org/document/209588/site_1459_0066.jpg",
+            "https://whc.unesco.org/document/209589/site_1459_0067.jpg",
+            "https://whc.unesco.org/document/209590/site_1459_0068.jpg",
+            "https://whc.unesco.org/document/209591/site_1459_0069.jpg",
+            "https://whc.unesco.org/document/209592/site_1459_0070.jpg",
+            "https://whc.unesco.org/document/209593/site_1459_0071.jpg",
+            "https://whc.unesco.org/document/129445/site_1459_0001.jpg",
+            "https://whc.unesco.org/document/129446/site_1459_0002.jpg",
+            "https://whc.unesco.org/document/129447/site_1459_0003.jpg",
+            "https://whc.unesco.org/document/129448/site_1459_0004.jpg",
+            "https://whc.unesco.org/document/129449/site_1459_0005.jpg",
+            "https://whc.unesco.org/document/129450/site_1459_0006.jpg",
+            "https://whc.unesco.org/document/129451/site_1459_0007.jpg",
+            "https://whc.unesco.org/document/129452/site_1459_0008.jpg",
+            "https://whc.unesco.org/document/129453/site_1459_0009.jpg",
+            "https://whc.unesco.org/document/129454/site_1459_0010.jpg",
+            "https://whc.unesco.org/document/129455/site_1459_0011.jpg",
+            "https://whc.unesco.org/document/129456/site_1459_0012.jpg",
+            "https://whc.unesco.org/document/129457/site_1459_0013.jpg",
+            "https://whc.unesco.org/document/129458/site_1459_0014.jpg",
+            "https://whc.unesco.org/document/129459/site_1459_0015.jpg",
+            "https://whc.unesco.org/document/129482/site_1459_0021.jpg",
+            "https://whc.unesco.org/document/129483/site_1459_0022.jpg",
+            "https://whc.unesco.org/document/129484/site_1459_0023.jpg",
+            "https://whc.unesco.org/document/129485/site_1459_0024.jpg",
+            "https://whc.unesco.org/document/129486/site_1459_0025.jpg",
+            "https://whc.unesco.org/document/129487/site_1459_0026.jpg",
+            "https://whc.unesco.org/document/129488/site_1459_0027.jpg",
+            "https://whc.unesco.org/document/129489/site_1459_0028.jpg",
+            "https://whc.unesco.org/document/129490/site_1459_0029.jpg",
+            "https://whc.unesco.org/document/129491/site_1459_0030.jpg",
+            "https://whc.unesco.org/document/129492/site_1459_0031.jpg",
+            "https://whc.unesco.org/document/129493/site_1459_0032.jpg",
+            "https://whc.unesco.org/document/129494/site_1459_0033.jpg",
+            "https://whc.unesco.org/document/129495/site_1459_0034.jpg",
+            "https://whc.unesco.org/document/129496/site_1459_0035.jpg",
+            "https://whc.unesco.org/document/129497/site_1459_0036.jpg",
+            "https://whc.unesco.org/document/129499/site_1459_0037.jpg",
+            "https://whc.unesco.org/document/129500/site_1459_0038.jpg",
+            "https://whc.unesco.org/document/129501/site_1459_0039.jpg",
+            "https://whc.unesco.org/document/129502/site_1459_0040.jpg",
+            "https://whc.unesco.org/document/129503/site_1459_0041.jpg",
+            "https://whc.unesco.org/document/129504/site_1459_0042.jpg",
+            "https://whc.unesco.org/document/129505/site_1459_0043.jpg",
+            "https://whc.unesco.org/document/129506/site_1459_0044.jpg",
+            "https://whc.unesco.org/document/129507/site_1459_0045.jpg",
+            "https://whc.unesco.org/document/129508/site_1459_0046.jpg",
+            "https://whc.unesco.org/document/129509/site_1459_0047.jpg",
+            "https://whc.unesco.org/document/129510/site_1459_0048.jpg",
+            "https://whc.unesco.org/document/129511/site_1459_0049.jpg",
+            "https://whc.unesco.org/document/129512/site_1459_0050.jpg",
+            "https://whc.unesco.org/document/129513/site_1459_0051.jpg",
+            "https://whc.unesco.org/document/129514/site_1459_0052.jpg",
+            "https://whc.unesco.org/document/129515/site_1459_0053.jpg",
+            "https://whc.unesco.org/document/129516/site_1459_0054.jpg",
+            "https://whc.unesco.org/document/129517/site_1459_0055.jpg",
+            "https://whc.unesco.org/document/129518/site_1459_0056.jpg",
+            "https://whc.unesco.org/document/129519/site_1459_0057.jpg",
+            "https://whc.unesco.org/document/129520/site_1459_0058.jpg",
+            "https://whc.unesco.org/document/129521/site_1459_0059.jpg",
+            "https://whc.unesco.org/document/129522/site_1459_0060.jpg",
+            "https://whc.unesco.org/document/129523/site_1459_0061.jpg",
+            "https://whc.unesco.org/document/129524/site_1459_0062.jpg",
+            "https://whc.unesco.org/document/129525/site_1459_0063.jpg",
+            "https://whc.unesco.org/document/129526/site_1459_0064.jpg"
+          ],
+          "count": 66
+        }
+      },
+      "components": {
+        "count": 137,
+        "locations": [
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cerro Vicuña- Quebrada La Tuna)",
+            "ref": "1459-047",
+            "latitude": -26.55,
+            "longitude": -69.7833333333
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llano San Juan-Llanada San Juan)",
+            "ref": "1459-036",
+            "latitude": -26.3333333333,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del Inca Sur -Cerro Bonete)",
+            "ref": "1459-046",
+            "latitude": -26.5166666667,
+            "longitude": -69.75
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llanada San Juan-Quebrada La Sal)",
+            "ref": "1459-037",
+            "latitude": -26.35,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Quebrada La Sal – Tambo La Sal)",
+            "ref": "1459-038",
+            "latitude": -26.3666666667,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Quebrada La Tuna-Casa de Domeyko)",
+            "ref": "1459-048",
+            "latitude": -26.5666666667,
+            "longitude": -69.8
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Portal del Inca – Llano San Juan)",
+            "ref": "1459-035",
+            "latitude": -26.3,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-049",
+            "latitude": -26.6,
+            "longitude": -69.8333333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-050",
+            "latitude": -26.6333333333,
+            "longitude": -69.85
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cuesta Topon Azul Llano de Topon Azul)",
+            "ref": "1459-041",
+            "latitude": -26.4,
+            "longitude": -69.65
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Tambo el Jardín – Cuesta Topon Azul)",
+            "ref": "1459-040",
+            "latitude": -26.3833333333,
+            "longitude": -69.6333333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano de Topon Azul Sierra Caballo Muerto)",
+            "ref": "1459-042",
+            "latitude": -26.4166666667,
+            "longitude": -69.6666666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto- Llano del Inca Norte)",
+            "ref": "1459-043",
+            "latitude": -26.4333333333,
+            "longitude": -69.6833333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del inca Norte-Sierra Caballo Muerto Oeste)",
+            "ref": "1459-044",
+            "latitude": -26.4666666667,
+            "longitude": -69.7166666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto Oeste - Llano del Inca Sur)",
+            "ref": "1459-045",
+            "latitude": -26.5,
+            "longitude": -69.7333333333
+          },
+          {
+            "name": "La Paz",
+            "ref": "1459-054",
+            "latitude": 0.9,
+            "longitude": -77.55
+          },
+          {
+            "name": "Rumichaca",
+            "ref": "1459-051",
+            "latitude": 0.8,
+            "longitude": -77.65
+          },
+          {
+            "name": "San Pedro",
+            "ref": "1459-052",
+            "latitude": 0.8166666667,
+            "longitude": -77.55
+          },
+          {
+            "name": "Chitarran",
+            "ref": "1459-055",
+            "latitude": 0.9,
+            "longitude": -77.45
+          },
+          {
+            "name": "Inantaz",
+            "ref": "1459-058",
+            "latitude": 1.1,
+            "longitude": -77.4
+          },
+          {
+            "name": "La Cofradía",
+            "ref": "1459-053",
+            "latitude": 0.9,
+            "longitude": -77.5666666667
+          },
+          {
+            "name": "Los Ajos",
+            "ref": "1459-059",
+            "latitude": 1.1333333333,
+            "longitude": -77.35
+          },
+          {
+            "name": "Rosal de Chapal",
+            "ref": "1459-056",
+            "latitude": 0.9333333333,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Rumichaca",
+            "ref": "1459-060",
+            "latitude": 0.813553,
+            "longitude": -77.664324
+          },
+          {
+            "name": "Guapuscal Bajo",
+            "ref": "1459-057",
+            "latitude": 1.05,
+            "longitude": -77.4166666667
+          },
+          {
+            "name": "Segment Tiwanacu",
+            "ref": "1459-015",
+            "latitude": -16.55,
+            "longitude": -68.6666666667
+          },
+          {
+            "name": "Segment Ranchillos",
+            "ref": "1459-012",
+            "latitude": -32.6,
+            "longitude": -69.4666666667
+          },
+          {
+            "name": "Segment Turi Norte",
+            "ref": "1459-027",
+            "latitude": -22.2166666667,
+            "longitude": -68.2666666667
+          },
+          {
+            "name": "Segment Cupo-Topain",
+            "ref": "1459-026",
+            "latitude": -22.15,
+            "longitude": -68.3
+          },
+          {
+            "name": "Segment Pulcas - Troya A",
+            "ref": "1459-061",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Pulcas - Troya B",
+            "ref": "1459-062",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Chiwuanquiri",
+            "ref": "1459-106",
+            "latitude": -14.3666666667,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Catarpe Norte",
+            "ref": "1459-028",
+            "latitude": -22.8333333333,
+            "longitude": -68.2166666667
+          },
+          {
+            "name": "Segment Pimán - Caranqui",
+            "ref": "1459-067",
+            "latitude": 0.3666666667,
+            "longitude": -78.0833333333
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-124",
+            "latitude": -9.5,
+            "longitude": -77.0166666667
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-125",
+            "latitude": -9.4833333333,
+            "longitude": -77.0333333333
+          },
+          {
+            "name": "Segment Puente del Inca",
+            "ref": "1459-013",
+            "latitude": -32.8166666667,
+            "longitude": -69.9
+          },
+          {
+            "name": "Segment Jayllihuaya-Ichu",
+            "ref": "1459-092",
+            "latitude": -15.8666666667,
+            "longitude": -69.95
+          },
+          {
+            "name": "Segment Aypate - El Arco",
+            "ref": "1459-137",
+            "latitude": -4.7,
+            "longitude": -79.5666666667
+          },
+          {
+            "name": "Segment Mamamag - Mamamag",
+            "ref": "1459-074",
+            "latitude": -2.8166666667,
+            "longitude": -79.2
+          },
+          {
+            "name": "Segment Masho - Piticocha",
+            "ref": "1459-108",
+            "latitude": -12.0666666667,
+            "longitude": -76.0
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-115",
+            "latitude": -12.0666666667,
+            "longitude": -76.7666666667
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-116",
+            "latitude": -12.0833333333,
+            "longitude": -76.75
+          },
+          {
+            "name": "Segment Taulli - Tambillo",
+            "ref": "1459-126",
+            "latitude": -9.45,
+            "longitude": -77.0666666667
+          },
+          {
+            "name": "Segment Loma Virgen - Chiquito",
+            "ref": "1459-065",
+            "latitude": 0.5333333333,
+            "longitude": -78.0666666667
+          },
+          {
+            "name": "Segment Pomata-Chaca Chaca",
+            "ref": "1459-095",
+            "latitude": -16.3,
+            "longitude": -69.2666666667
+          },
+          {
+            "name": "Segment Tambillo - Pincosh",
+            "ref": "1459-127",
+            "latitude": -9.4333333333,
+            "longitude": -77.0833333333
+          },
+          {
+            "name": "Segment Pariachuco - Tauli",
+            "ref": "1459-135",
+            "latitude": -8.3166666667,
+            "longitude": -77.8166666667
+          },
+          {
+            "name": "Segment Llano de los Leones",
+            "ref": "1459-010",
+            "latitude": -29.0833333333,
+            "longitude": -69.3333333333
+          },
+          {
+            "name": "Segment Kallamarka-Apacheta",
+            "ref": "1459-016",
+            "latitude": -16.6333333333,
+            "longitude": -68.5333333333
+          },
+          {
+            "name": "Segment Juan Montalvo - Cabuyal",
+            "ref": "1459-066",
+            "latitude": 0.5833333333,
+            "longitude": -78.1
+          },
+          {
+            "name": "Segment Llaviuco - Llaviuco",
+            "ref": "1459-073",
+            "latitude": -2.8333333333,
+            "longitude": -79.15
+          },
+          {
+            "name": "Segment Huaricashash - Isco",
+            "ref": "1459-120",
+            "latitude": -9.7666666667,
+            "longitude": -76.8833333333
+          },
+          {
+            "name": "Segment Inka Hamash - Ayash",
+            "ref": "1459-123",
+            "latitude": -9.5333333333,
+            "longitude": -76.9833333333
+          },
+          {
+            "name": "Segment Las Peras-Sauzalito",
+            "ref": "1459-004",
+            "latitude": -24.8166666667,
+            "longitude": -66.15
+          },
+          {
+            "name": "Segment Desaguadero Titijoni",
+            "ref": "1459-014",
+            "latitude": -16.55,
+            "longitude": -69.0166666667
+          },
+          {
+            "name": "Segment La Paz - Quebrada Tupala",
+            "ref": "1459-064",
+            "latitude": 0.5,
+            "longitude": -77.85
+          },
+          {
+            "name": "Segment Paucarcolla-Yanamayo",
+            "ref": "1459-090",
+            "latitude": -15.7666666667,
+            "longitude": -70.05
+          },
+          {
+            "name": "Segment Canrash - Torrepampa",
+            "ref": "1459-131",
+            "latitude": -8.9,
+            "longitude": -77.3166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Tastil",
+            "ref": "1459-002",
+            "latitude": -24.45,
+            "longitude": -65.95
+          },
+          {
+            "name": "Segment Angualasto-Colangüil",
+            "ref": "1459-009",
+            "latitude": -30.05,
+            "longitude": -69.1666666667
+          },
+          {
+            "name": "Segment Mariscal Sucre - El Tambo",
+            "ref": "1459-063",
+            "latitude": 0.5833333333,
+            "longitude": -77.7333333333
+          },
+          {
+            "name": "Segment Paredones - Paredones",
+            "ref": "1459-075",
+            "latitude": -2.7333333333,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Kutacoca-Choquequirao",
+            "ref": "1459-105",
+            "latitude": -13.35,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Pucará del Aconquija",
+            "ref": "1459-007",
+            "latitude": -27.7,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Ccaje-Sisipampa-Pomata",
+            "ref": "1459-094",
+            "latitude": -16.25,
+            "longitude": -69.3
+          },
+          {
+            "name": "Segment Casila Alto - Chillaco",
+            "ref": "1459-110",
+            "latitude": -12.0666666667,
+            "longitude": -76.5166666667
+          },
+          {
+            "name": "Segment Tambo Chico - Taparaku",
+            "ref": "1459-121",
+            "latitude": -9.6666666667,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Campana Pucará - Quitoloma",
+            "ref": "1459-068",
+            "latitude": -0.05,
+            "longitude": -78.2
+          },
+          {
+            "name": "Segment Machucucho-Choquecancha",
+            "ref": "1459-098",
+            "latitude": -13.0333333333,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Choquecancha-Paucarpata",
+            "ref": "1459-099",
+            "latitude": -13.0166666667,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Otutococha - QÑ-HH-051",
+            "ref": "1459-129",
+            "latitude": -9.1166666667,
+            "longitude": -77.2
+          },
+          {
+            "name": "Segment Machaqmarka-Raqchi-Qquea",
+            "ref": "1459-087",
+            "latitude": -14.1666666667,
+            "longitude": -71.35
+          },
+          {
+            "name": "Segment Vitkus-Abra Choqetakarpu",
+            "ref": "1459-102",
+            "latitude": -13.15,
+            "longitude": -72.9
+          },
+          {
+            "name": "Segment QÑ-HH-051 - Inca Misana",
+            "ref": "1459-130",
+            "latitude": -9.0666666667,
+            "longitude": -77.2333333333
+          },
+          {
+            "name": "Subsection Achupallas - Ingapirca",
+            "ref": "1459-069",
+            "latitude": -2.3333333333,
+            "longitude": -78.7833333333
+          },
+          {
+            "name": "Segment Hierba Buena-Hierba Buena",
+            "ref": "1459-076",
+            "latitude": -2.7166666667,
+            "longitude": -79.4166666667
+          },
+          {
+            "name": "Segment San Antonio - San Antonio",
+            "ref": "1459-077",
+            "latitude": -2.9,
+            "longitude": -79.4
+          },
+          {
+            "name": "Segment Arbolera-Parcco Chua Chua",
+            "ref": "1459-096",
+            "latitude": -16.4166666667,
+            "longitude": -69.1333333333
+          },
+          {
+            "name": "Segment Abra Choqetakarpu-Toroyoq",
+            "ref": "1459-104",
+            "latitude": -13.7333333333,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Taparaku - Tambo de Llata",
+            "ref": "1459-122",
+            "latitude": -9.6333333333,
+            "longitude": -76.95
+          },
+          {
+            "name": "Segment Quinrraycueva - Pariachuco",
+            "ref": "1459-134",
+            "latitude": -8.3833333333,
+            "longitude": -77.7666666667
+          },
+          {
+            "name": "Subsection Los Corrales-Las Pircas",
+            "ref": "1459-008",
+            "latitude": -28.8666666667,
+            "longitude": -67.9333333333
+          },
+          {
+            "name": "Segment Santa Martha - Santa Martha",
+            "ref": "1459-078",
+            "latitude": -2.9166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Botija Paqui - Botija Paqui",
+            "ref": "1459-079",
+            "latitude": -2.6833333333,
+            "longitude": -79.55
+          },
+          {
+            "name": "Segment Ciudadela - Vinoyaco Grande",
+            "ref": "1459-081",
+            "latitude": -3.7333333333,
+            "longitude": -79.25
+          },
+          {
+            "name": "Segment Inca Mach’ay-Samarinapata",
+            "ref": "1459-103",
+            "latitude": -13.2,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Quebrada Verde - Pachacamac",
+            "ref": "1459-117",
+            "latitude": -12.253358,
+            "longitude": -76.904472
+          },
+          {
+            "name": "Segment El Tambo - Honorato Vásquez",
+            "ref": "1459-071",
+            "latitude": -2.5166666667,
+            "longitude": -78.9166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Chontay - Molle",
+            "ref": "1459-114",
+            "latitude": -12.0333333333,
+            "longitude": -76.7166666667
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-118",
+            "latitude": -9.8833333333,
+            "longitude": -76.8
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-119",
+            "latitude": -9.85,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Cotocancha - Alturas de Torre",
+            "ref": "1459-133",
+            "latitude": -8.75,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Quebrada Grande-Las escaleras",
+            "ref": "1459-001",
+            "latitude": -23.3666666667,
+            "longitude": -64.9666666667
+          },
+          {
+            "name": "Segment Caragshillo - Cañaro - Tuncarta",
+            "ref": "1459-080",
+            "latitude": -3.604644,
+            "longitude": -79.221228
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-111",
+            "latitude": -12.0166666667,
+            "longitude": -76.65
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-112",
+            "latitude": -12.0166666667,
+            "longitude": -76.6666666667
+          },
+          {
+            "name": "Subsection Abra de ChaupiyacoLas Capillas",
+            "ref": "1459-003",
+            "latitude": -24.5833333333,
+            "longitude": -66.0333333333
+          },
+          {
+            "name": "Segment San José - Llamacanchi - Las Limas",
+            "ref": "1459-083",
+            "latitude": -4.5166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Complejo Arqueológico La Ciudacita",
+            "ref": "1459-006",
+            "latitude": -27.1666666667,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Palcañán Grande - Palcañán Chico",
+            "ref": "1459-070",
+            "latitude": -2.3166666667,
+            "longitude": -78.8
+          },
+          {
+            "name": "Segment San Juan de Tantaranche - Huarochiri",
+            "ref": "1459-109",
+            "latitude": -12.1333333333,
+            "longitude": -76.2166666667
+          },
+          {
+            "name": "Subsection Ciénaga de Yalguaraz-San Alberto",
+            "ref": "1459-011",
+            "latitude": -32.1,
+            "longitude": -69.35
+          },
+          {
+            "name": "Segment Cusipata-Santa Cruz de Occobamba Norte",
+            "ref": "1459-086",
+            "latitude": -13.95,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Complejo Ceremonial Volcán Llullaillaco",
+            "ref": "1459-005",
+            "latitude": -24.7,
+            "longitude": -68.5166666667
+          },
+          {
+            "name": "Segment Peine Norte (Sector Tambillo Verde Peine)",
+            "ref": "1459-034",
+            "latitude": -23.6333333333,
+            "longitude": -68.05
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Socoroma-Tantalcollo)",
+            "ref": "1459-018",
+            "latitude": -18.2833333333,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Collcas de Zapahuira)",
+            "ref": "1459-020",
+            "latitude": -18.35,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Tantalcollo-Zapahuira)",
+            "ref": "1459-019",
+            "latitude": -18.3166666667,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Putre Sur (Sector Quebrada de AromaSocoroma)",
+            "ref": "1459-017",
+            "latitude": -18.25,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Bajada Lasana - Lasana)",
+            "ref": "1459-025",
+            "latitude": -22.25,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Llano Camar – Camar Sur)",
+            "ref": "1459-030",
+            "latitude": -23.4333333333,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Cerro de Cojitambo (Loma Curiquinga) - Rumiurco",
+            "ref": "1459-072",
+            "latitude": -2.7833333333,
+            "longitude": -78.85
+          },
+          {
+            "name": "Segment Camar Sur (Sector Tambo de Camar – Llano Camar)",
+            "ref": "1459-029",
+            "latitude": -23.4166666667,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Lasana Norte – Los Chorros)",
+            "ref": "1459-023",
+            "latitude": -22.1833333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Subsection Quebrada Huatuchi - Plaza del Inca - Las Aradas",
+            "ref": "1459-082",
+            "latitude": -4.3333333333,
+            "longitude": -79.3333333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Los Chorros – Bajada Lasana)",
+            "ref": "1459-024",
+            "latitude": -22.2,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Camar Sur – Pampa Algarrobilla)",
+            "ref": "1459-031",
+            "latitude": -23.4666666667,
+            "longitude": -68.0
+          },
+          {
+            "name": "Segment Peine Norte (Sector Peine Norte – Tambillo Verde)",
+            "ref": "1459-033",
+            "latitude": -23.5833333333,
+            "longitude": -68.0333333333
+          },
+          {
+            "name": "Segment Escalerilla/ Casa Blanca - Cerro Huaylillas/Cushuro",
+            "ref": "1459-136",
+            "latitude": -7.9333333333,
+            "longitude": -78.0
+          },
+          {
+            "name": "Segment Camar Sur (Sector Pampa Algarrobilla – Peine Norte)",
+            "ref": "1459-032",
+            "latitude": -23.5333333333,
+            "longitude": -68.0166666667
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Tambo La Sal)",
+            "ref": "1459-039",
+            "latitude": -26.3666666667,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Incahuasi Norte – Lasana Norte)",
+            "ref": "1459-022",
+            "latitude": -22.1333333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Tambo Incahuasi – Incahuasi Norte)",
+            "ref": "1459-021",
+            "latitude": -22.1,
+            "longitude": -68.6166666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1459",
+        "unesco_documents": "https://whc.unesco.org/en/list/1459/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1459/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1459/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Qhapaq Ñan, Andean Road System This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. Peru Chile Ecuador Colombia Argentina Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "rapa_nui_national_park",
+      "uuid": "661567b0-303c-5269-9219-931abc5cc4d1",
+      "unesco_id": "715",
+      "names": {
+        "en": "Rapa Nui National Park",
+        "fr": "Parc national de Rapa Nui",
+        "es": "Parque Nacional Rapa Nui",
+        "ru": "Национальный парк Рапануи (остров Пасхи)",
+        "ar": "منتزه رابا نوي الوطني",
+        "zh": "拉帕努伊国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world.",
+          "fr": "Rapa Nui, nom autochtone de l'île de Pâques, témoigne d'un phénomène culturel unique au monde. Installée aux environs de l'an 300, une société d'origine polynésienne a développé ici, en dehors de toute influence, une tradition de sculpture et d'architecture monumentales puissante, imaginative et originale. Du Xe au XVIe siècle, elle bâtit des sanctuaires et dressa des personnages gigantesques en pierre, les moai , qui, créant un paysage culturel sans égal, fascinent aujourd'hui le monde entier.",
+          "es": "Rapa Nui –nombre indí­gena de la Isla de Pascua– ofrece el testimonio de un fenómeno cultural único en el mundo. Asentada en esta isla hacia el año 300 d.C., una sociedad de origen polinesio creó, al margen de toda influencia externa, grandiosas formas arquitectónicas y esculturales dotadas de una gran fuerza, imaginación y originalidad. Desde el siglo X al XVI, construyó santuarios y esculpió numerosos ”moai“, gigantescos personajes de piedra que forman un paisaje cultural inigualable y fascinan hoy al mundo entero.",
+          "ru": "Рапануи, туземное название острова Пасхи, является свидетельством уникального культурного феномена. Сообщество полинезийского происхождения проживает здесь с IV в., создав мощную, богатую образами, своеобразную традицию монументальной скульптуры и архитектуры, свободную от каких-либо внешних влияний. В период X - XVI вв. это сообщество построило святилища и воздвигло огромные каменные статуи, известные как «моаи», формирующие неповторимый культурный ландшафт, который продолжает поражать людей со всего мира.",
+          "ar": "يعكس منتزه رابا نوي، وهو الإسم الأصلي لجزيرة الفصح، ظاهرة ثقافية فريدة في نوعها في العالم أجمع. وقرابة العام 300، شكّل هذا المنتزه موطناً لمجتمع من أصل بولينيزي روّج فيها، وبعيداً عن أي نفوذ خارجي، لتقليد مهم وابتكاري وأصيل من الننحت والهندسة المعمارية. وبين القرنين العاشر والسادس عشر، شيّد هذا المجتمع المحلي أماكن عبادة وتماثيل ضخمة من الحجر، أو الـ موآي بالإسبانية، تشكّل إطاراً ثقافياً منقطع النظير لا يزال يسحر العالم كله حتى يومنا هذا.",
+          "zh": "拉帕努伊是当地人对复活节岛(Easter Island)的称呼，岛上酝酿了一种独特的文化现象。公元300年时玻利尼西亚人(Polynesian)在没有外界影响下，形成了自己独特的、想象丰富的、原汁原味的纪念性雕刻和建筑传统。从10世纪到16世纪，玻利尼西亚人陆续建立了许多神殿，竖起了许多称为莫阿伊(moai)的巨大的石像，至今仍是一道无与伦比的文化风景，吸引全世界各地游人慕名来访。"
+        },
+        "full": "Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world.",
+        "justification": "Brief Synthesis Rapa Nui National Park is a protected Chilean wildlife area located in Easter Island, which concentrates the legacy of the Rapa Nui culture. This culture displayed extraordinary characteristics that are expressed in singular architecture and sculpture within the Polynesian context. Easter Island, the most remote inhabited island on the planet, is 3,700 kilometres from the coast of continental Chile and has an area of 16,628 hectares while the World Heritage property occupies an area of approximately seven thousand hectares, including four nearby islets. The island was colonized toward the end of the first millennium of the Christian era by a small group of settlers from Eastern Polynesia, whose culture manifested itself between the eleventh and seventeenth centuries in great works such as the ahu –ceremonial platforms- and carved moai - colossal statues- representing ancestors. Rapa Nui National Park most prominent attributes are the archaeological sites. It is estimated that there are about 900 statues, more than 300 ceremonial platforms and thousands of structures related to agriculture, funeral rites, housing and production, and other types of activities. Prominent among the archaeological pieces are the moai that range in height from 2 m to 20 m and are for the most part carved from the yellow–brown lava tuff, using simple picks (toki) made from hard basalt and then lowered down the slopes into previously dug holes. There are many kinds of them and of different sizes: those in the process of being carved, those in the process of being moved to their final destinations –the ahu-, those being torn down and erected. The quarries (Rano Raraku and others) are invaluable evidence of the process of their carving. The ahu vary considerably in size and form; the most colossal is the Ahu Tongariki, with its 15 moai. There are certain constant features, notably a raised rectangular platform of large worked stones filled with rubble, a ramp often paved with rounded beach pebbles, and levelled area in front of the platform. Also extremely valuable are the rock art sites (pictographs and petroglyphs), which include a large variety of styles, techniques and motifs. Other archaeological sites are the caves, which also contain rock art. There is also a village of ceremonial nature named Orongo which stands out because of its location and architecture. While it has not attracted as much attention, the housing and productive structures are of extreme interest. According to some studies, the depletion of natural resources had brought about an ecological crisis and the decline of the ancient Rapa Nui society by the 16th century, which led to decline and to the spiritual transformation in which these megalithic monuments were destroyed. The original cult of the ancestor was replaced by the cult of the man-bird, which has as exceptional testimony the ceremonial village of Orongo, located at the Rano Kau volcano. Fifty-four semi-subterranean stone-houses of elliptical floor plans complement this sacred place, profusely decorated with petroglyphs alluding to both the man-bird and fertility. This cult would see its end in the middle of the nineteenth century. Colonization, the introduction of livestock, the confinement of the original inhabitants to smaller areas, the dramatic effect of foreign diseases and, above all, slavery, reduced the population of Rapa Nui to little more than a hundred. Currently, the island is inhabited by descendants of the ancient Rapa Nui as well as immigrants from diverse backgrounds, accounting for a significant mixed population. Critère (i): Rapa Nui National Park contains one of the most remarkable cultural phenomena in the world. An artistic and architectural tradition of great power and imagination was developed by a society that was completely isolated from external cultural influences of any kind for over a millennium. Criterion (iii): Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai, which created an unrivalled landscape that continues to fascinate people throughout the world. Criterion (v): Rapa Nui National Park is a testimony to the undeniably unique character of a culture that suffered a debacle as a result of an ecological crisis followed by the irruption from the outside world. The substantial remains of this culture blend with their natural surroundings to create an unparalleled cultural landscape. Integrity The Rapa Nui National Park covers approximately 40% of the island and incorporates an ensemble of sites that is highly representative of the totality of the archaeological sites and of the most outstanding manifestations of their numerous typologies. The integrity of the archaeological sites has been preserved, but the conservation of materials is a matter of great concern and scientific research. The management and conservation efforts, still insufficient, focus on addressing anthropic factors and the effects of weathering, both on the material -volcanic lava and tuff- and on the stability of structures. Progress has been made in the closure of areas, monitoring and the layout of roads so as to maintain the visual integrity of the landscape. An increase has been observed in cattle that wander illegally inside the Park limits. In terms of invasive vegetation, certain species have proliferated and have had an impact on the landscape. At the same time, they have adversely affected the structural stability which is being addressed through the management of the sites. Authenticity The Rapa Nui National Park continues to exhibit a high degree of authenticity because there has been little intervention since virtual abandonment of the area in the later 19th century. A number of restorations and reconstructions of ahu have been made on the basis of strictly controlled scientific investigations, and there has been some re-erection of fallen moai, with replacement of the red stone headdresses, but these do not go beyond the permissible limits of anastylosis. Authenticity is being maintained and conservation interventions are consistent with the Outstanding Universal Value of the property, with prevailing sense of respect for the historical transformation of the Rapa Nui culture, which, in a context of deep crisis, toppled the moai. In this respect, it is important to consider that the Rapa Nui National Park must provide an account of the various stages of the Rapa Nui civilization, not excluding that of its crisis. Protection and management requirements The Rapa Nui National Park has two official protections. On one hand, since 1935 it has been a national park, administered by the National Forest Service of Chile (CONAF). On the other hand, the entire island was declared a National Monument in 1935 and the same was done with the islets adjacent to Easter Island in 1976. The property enjoys a solid legal and institutional framework for protection and management. There are two institutions responsible for this activity that coordinate with each other (National Monuments Council and CONAF) and with the community for conservation and management. There is a museum, the R. P. Sebastian Englert Museum of Anthropology, which supports research and conservation efforts. A management plan is in place which undergoes periodic review and there is a team in charge of Park administration. Nevertheless, site management becomes complex because of cultural differences and the reluctances from part of some sectors of the local community about State intervention. Visitor management is a great imperative, with challenges in establishing carrying capacity and providing infrastructure of basic services and interpretation. Also, it is necessary that the local population effectively support the conservation effort, for example, through livestock control. A better dialogue is necessary among researchers to reach conclusions on the available knowledge and to manage it in a functional manner conducive to conservation; to systematize the information produced and generate a periodic, comprehensive and sustainable monitoring system. Additional staff and resources are needed for the administration and care of the site, to reinforce the number and training of the park rangers team, and to increase the operating budget. There is a constant pressure on park lands; the State must prevent its illegal occupation. The essential requirement for the protection and management of this property lies in its multifaceted status as a World Heritage site, as a reference point and basis for the development of the population of the island, and repository of answers to fundamental questions that are far from being revealed."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3,
+            5
+          ],
+          "display": "(i)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 6666,
+          "square_km": 66.66,
+          "square_miles": 26.976,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1995,
+          "all_dates": [
+            1995
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1995,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a35a13fdeba88686f7f8a22851bdaf0e",
+          "filename": "site_0715_0001-500-0-20090929161624.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112699/site_0715_0001.jpg",
+            "https://whc.unesco.org/document/112701/site_0715_0002.jpg",
+            "https://whc.unesco.org/document/112703/site_0715_0003.jpg",
+            "https://whc.unesco.org/document/112705/site_0715_0004.jpg",
+            "https://whc.unesco.org/document/124189/site_0715_0007.jpg",
+            "https://whc.unesco.org/document/124190/site_0715_0008.jpg",
+            "https://whc.unesco.org/document/124191/site_0715_0009.jpg",
+            "https://whc.unesco.org/document/124192/site_0715_0010.jpg",
+            "https://whc.unesco.org/document/124193/site_0715_0011.jpg",
+            "https://whc.unesco.org/document/124194/site_0715_0012.jpg",
+            "https://whc.unesco.org/document/124195/site_0715_0013.jpg",
+            "https://whc.unesco.org/document/124196/site_0715_0014.jpg",
+            "https://whc.unesco.org/document/124197/site_0715_0015.jpg",
+            "https://whc.unesco.org/document/125316/site_0715_0017.jpg",
+            "https://whc.unesco.org/document/125318/site_0715_0019.jpg",
+            "https://whc.unesco.org/document/125319/site_0715_0020.jpg",
+            "https://whc.unesco.org/document/125321/site_0715_0021.jpg",
+            "https://whc.unesco.org/document/125322/site_0715_0022.jpg",
+            "https://whc.unesco.org/document/125323/site_0715_0023.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Rapa Nui National Park",
+            "ref": "715",
+            "latitude": -27.074403,
+            "longitude": -109.365683
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/715",
+        "unesco_documents": "https://whc.unesco.org/en/list/715/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/715/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/715/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 30,
+        "inscription_year": 1995
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rapa Nui National Park Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world. Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world. Chile Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "settlement_and_artificial_mummification_of_the_chinchorro_culture_in_the_arica_and_parinacota_region",
+      "uuid": "4bdd33fa-6ffe-5ed4-a526-eb7b55f8748c",
+      "unesco_id": "1634",
+      "names": {
+        "en": "Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region",
+        "fr": "Peuplement et momification artificielle de la culture chinchorro dans la région d'Arica et de Parinacota",
+        "es": "Asentamiento y momificación artificial de la cultura chinchorro en la región de Arica y Parinacota",
+        "ru": "Поселение и искусственная мумификация культуры Чинчорро в регионе Арика и Паринакота",
+        "ar": "الاستيطان والتحنيط الاصطناعي في ثقافة شنكورو في منطقة أريكا وباريناكوتا",
+        "zh": "阿里卡和帕里纳科塔地区的新克罗文化聚落及木乃伊制作"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property consists of three component parts: Faldeo Norte del Morro de Arica, Colón 10, both in the city of Arica, and Desembocadura de Camarones, in a rural environment some 100km further south. Together they bear testimony to a culture of marine hunter-gatherers who resided in the arid and hostile northern coast of the Atacama Desert in northernmost Chile from approximately 5450 BCE to 890 BCE. The property presents the oldest known archaeological evidence of the artificial mummification of bodies with cemeteries that contain both artificially mummified bodies and some that were preserved due to environmental conditions. Over time, the Chinchorro perfected complex mortuary practices, whereby they systematically dismembered and reassembled bodies of deceased men, women and children of the entire social spectrum to create “artificial” mummies. These mummies possess material, sculptural, and aesthetic qualities that are presumed to reflect the fundamental role of the dead in Chinchorro society. Tools made of mineral and plant materials as well as simple instruments made of bone and shells that enabled an intensive exploitation of marine resources, have been found in the property which bears a unique testimony to the complex spirituality of the Chinchorro culture.",
+          "fr": "Ce bien est constitué de trois éléments constitutifs : Faldeo Norte del Morro de Arica et Colón 10, tous deux situés dans la ville d’Arica, et Desembocadura de Camarones, situé dans un cadre rural à environ 100 km au sud. Ils témoignent d’une culture de chasseurs-cueilleurs marins qui ont résidé sur la côte nord, aride et hostile, du désert d’Atacama, dans l’extrême nord du Chili, entre environ 5450 et 890 avant J.-C. Ce bien comprend les plus anciens témoignages archéologiques connus de momification artificielle des corps au monde, avec des cimetières recelant des corps artificiellement momifiés par l’homme et d’autres qui ont été préservés sous l’effet de facteurs environnementaux. Au fil du temps, les Chinchorros ont perfectionné des pratiques mortuaires élaborées, démembrant et réassemblant systématiquement les corps des défunts (hommes, femmes et enfants) de tout le spectre social pour créer des momies « artificielles ». Ces momies possèdent des qualités matérielles, sculpturales et esthétiques qui traduisaient probablement le rôle fondamental des morts dans la société chinchorro. Des outils faits de matériaux minéraux et végétaux ainsi que des instruments simples faits d’os et de coquillages qui permettaient une exploitation importante des ressources marines ont été découverts dans ce bien, qui constitue un témoignage unique de la spiritualité complexe de la culture chinchorro.",
+          "es": "El sitio consta de tres componentes: Faldeo Norte del Morro de Arica, Colón 10, ambos en la ciudad de Arica, y Desembocadura de Camarones, en un entorno rural a unos 100 km más al sur. En conjunto, brindan testimonio de una cultura de cazadores-recolectores marinos que residieron en la árida y hostil costa norte del desierto de Atacama, en el extremo norte de Chile, desde aproximadamente 5450 a.C. hasta 890 a.C. El sitio presenta la evidencia arqueológica más antigua conocida de la momificación artificial de cuerpos con cementerios que contienen tanto cuerpos momificados artificialmente como algunos que se conservaron debido a las condiciones ambientales. Con el tiempo, los chinchorro perfeccionaron complejas prácticas funerarias, por las que desmembraban y volvían a ensamblar sistemáticamente cuerpos de hombres, mujeres y niños fallecidos de todo el espectro social para crear momias “artificiales”. Estas poseían cualidades materiales, escultóricas y estéticas que se supone reflejaban el papel fundamental de los muertos en la sociedad chinchorro. En el sitio se han encontrado herramientas confeccionadas con materiales minerales y vegetales, así como instrumentos sencillos de hueso y concha que permitían una explotación intensiva de los recursos marinos, lo que constituye un testimonio único de la compleja espiritualidad de la cultura chinchorro.",
+          "ru": "Объект состоит из трех компонентов: Faldeo Norte del Morro de Arica и Colón 10, которые находятся в городе Арика, и Desembocadura de Camarones в сельской местности, примерно в 100 км к югу. Вместе они являются свидетельствами культуры морских охотников-собирателей, которые проживали на территории засушливого и враждебного северного побережья пустыни Атакама на самом севере Чили примерно в 5450-890 гг. до н.э. На территории объекта представлены древнейшие из известных археологических свидетельств искусственной мумификации тел, а также кладбища, содержащие как искусственно мумифицированные тела, так и тела, которые были сохранены в связи с условиями окружающей среды. Со временем Чинчорро усовершенствовали сложные методы захоронения, посредством чего они систематически расчленяли и собирали тела умерших мужчин, женщин и детей всего социального спектра для создания «искусственных» мумий. Эти мумии обладают материальными, скульптурными и эстетическими свойствами, которые, как предполагается, отражают основополагающую роль мертвых в обществе Чинчорро. Инструменты из минеральных и растительных материалов, а также простые инструменты из костей и ракушек, которые позволяли интенсивно использовать морские ресурсы, были найдены на территории объекта, что является уникальным свидетельством сложной духовности культуры Чинчорро.",
+          "ar": "يتألَّف هذا الموقع من ثلاثة عناصر: فالديو نورتيه ديل مورو دي أريكا وكولون 10 اللذين يقعان في مدينة أريكا، وديسيمبو كادروا دي كامارونس الذي يقع ضمن بيئة ريفية تبعد قرابة 100 كم باتجاه الجنوب. وتشهد هذه العناصر معاً على ثقافة البحارة الصيادين الجامعين الذين استوطنوا في الفترة التي تراوحت تقريباً بين عام 5450 قبل الميلاد وعام 890 قبل الميلاد، في الساحل الشمالي لصحراء أتاكاما الكائن في أقصى شمال شيلي، والذي يتسمُّ بأنَّه قاحل وغير مؤاتٍ للحياة. ويقدِّم هذا الموقع أقدم دليل أثري على التحنيط الاصطناعي للجثامين، حيث توجد فيه مقابر تحتوي على أجساد محنَّطة بطريقة اصطناعية وأخرى حُفظت بفعل الظروف البيئية. وقد أتقن شعب شنكورو مع الوقت، ممارسات معقدة مرتبطة بدفن الموتى، حيث كانوا يقومون بطريقة منهجية، بتقطيع أوصال جثامين الرجال والنساء والأطفال الذين ينتمون إلى جميع أطياف المجتمع بغية تشكيل مومياءات اصطناعية، تتمتع بمزايا مادية ونحتية وجمالية يُفترض أنَّها تعكس الدور الأساسي للموتى في مجتمع شنكورو. وقد وُجدت في الموقع أدوات مصنوعة من مواد معدنية ونباتية وكذلك وُجدت معدات بسيطة مصنوعة من عظام وأصداف خوَّلتهم استغلال الموارد البحرية على نحو مكثَّف، مما يمثِّل شهادة للحياة الروحانية المركبة لثقافة شنكورو.",
+          "zh": "遗产地由3个区域组成：位于阿里卡市区的阿里卡山北坡、哥伦布10遗址，以及城南100公里处的农村环境中的卡马罗内斯河入海口。它们共同见证了约公元前5450年至前890年的海洋狩猎采集者文化，这些人居住在智利最北端阿塔卡马沙漠干旱且环境恶劣的北岸。在该遗址发现了已知的最古老的人工木乃伊化尸体的考古证据，墓地中既有人工木乃伊化的尸体，也有由于环境条件而保存下来的尸体。随着时间的推移，新克罗人完善了其复杂的殡葬习俗，他们系统地肢解和重组了各个社会阶层的亡者的身体，以创造“人造”木乃伊。这些木乃伊的材质、结构和审美特质被认为反映了先人在新克罗社会中的重要地位。在该遗迹中还发现了用矿物和植物材料制成的工具，以及用骨头和贝壳制成的简单器械，这些器具使得新克罗人能够大量开发海洋资源。亦是新克罗文化复杂精神信仰的独特见证。"
+        },
+        "full": "The property consists of three component parts: Faldeo Norte del Morro de Arica, Colón 10, both in the city of Arica, and Desembocadura de Camarones, in a rural environment some 100km further south. Together they bear testimony to a culture of marine hunter-gatherers who resided in the arid and hostile northern coast of the Atacama Desert in northernmost Chile from approximately 5450 BCE to 890 BCE. The property presents the oldest known archaeological evidence of the artificial mummification of bodies with cemeteries that contain both artificially mummified bodies and some that were preserved due to environmental conditions. Over time, the Chinchorro perfected complex mortuary practices, whereby they systematically dismembered and reassembled bodies of deceased men, women and children of the entire social spectrum to create “artificial” mummies. These mummies possess material, sculptural, and aesthetic qualities that are presumed to reflect the fundamental role of the dead in Chinchorro society. Tools made of mineral and plant materials as well as simple instruments made of bone and shells that enabled an intensive exploitation of marine resources, have been found in the property which bears a unique testimony to the complex spirituality of the Chinchorro culture.",
+        "justification": "Brief synthesis The northern coast of the Atacama Desert, an arid and hostile habitat in northernmost Chile, was home to the Chinchorro, a society of marine hunter-gatherers who lived here from approximately 7400 BP to 2840 BP (5450 BCE to 890 BCE). They successfully adapted to the extreme environmental conditions of a hyper-arid coastal desert in the rugged Coastal Cordillera by using the nearby rich marine resources. Archaeological sites associated with the Chinchorro culture are recognized for having the oldest known artificially mummified human bodies. The serial property is comprised of three component parts – Faldeo Norte del Morro de Arica and Colón 10 (both located in an urban setting), and Desembocadura de Camarones (located in a rural environment) – which include the archaeological remains of settlements, cemeteries, and dense shell middens, as well as a natural setting similar to that faced by the Chinchorro people. These remains provide evidence of sea harvesting activities and land occupation that illustrate the technological and spiritual complexity of this society from its coastal beginnings to its disappearance. The cemeteries reveal that the Chinchorro innovated continuously in their mummification practices to create artificial mummies that possessed extraordinary material, sculptural, and aesthetic qualities that reflected the fundamental social role of the dead in human society. Criterion (iii): The cultural remains left behind by the Chinchorro people, including their artefacts, mummies, and cemeteries, stand as a testimony to their belief system and ideas about the afterlife, and as such bear a unique testimony to this cultural tradition. The Chinchorro cemeteries reveal artificially as well as naturally mummified bodies, both in exceptionally good states of conservation due to the very dry environment. The Chinchorro innovated continuously in their artificial mummification practices, revealing technical ability by dismembering and reassembling bodies to create artificial mummies possessing extraordinary material, sculptural, and aesthetic qualities. Criterion (v): The Chinchorro culture occupied one of the most arid places in the world, the coastal areas of the Atacama Desert. The property presents an outstanding example of human interaction with the environment, with highly specialized use of land and sea resources. The marine hunter-gatherer groups adapted to a harsh environment that had minimal fresh water and plant resources and developed simple and efficient technologies to harvest from the ocean. Culturally, they flourished for thousands of years in a vast, hyper-dry territory and the archaeological evidence of their sea harvesting and land occupation can be found in settlements, cemeteries, and shell middens as well as in the environmental setting itself. Integrity The integrity of the property is based on the cultural remains left behind by the Chinchorro people, particularly artificially mummified remains, and on this people’s adaptation to one of the most arid places in the world, where they flourished for thousands of years. The serial component parts were selected as the most representative and best preserved of all the Chinchorro sites in northern Chile and southern Peru, for their complementary nature, and for their tangible attributes that provide a comprehensive view of the Chinchorro culture. Issues with site encroachment in the Faldeo Norte del Morro de Arica component part have been resolved, and are in the process of being addressed at the Desembocadura de Camarones component. Part of the Faldeo Norte del Morro de Arica component has been affected by public works. Further explanation on distribution and interrelationships of the archaeological sites located within the property component parts, including the remains already removed through excavation, as well as those still in situ and detected through different surveying techniques, would enhance the integrity of the property. Authenticity The conditions of authenticity of the Settlement and Artificial Mummification of the Chinchorro Culture in terms of the attributes of material, design and substance have been met. The knowledge of the Chinchorro culture comes from studies of archaeological sites endorsed by a number of national and international scientific conferences and publications. Archaeological sites where no reconstructions have been undertaken retain a high degree of authenticity. It is supposed that most of the property’s archaeological artefacts remain in situ, unexcavated and untouched for thousands of years and therefore are authentic. Protection and management requirements At the national level, the Ministry of Culture, the Arts and Heritage is officially in charge of Chile’s cultural heritage. The Undersecretariat of Cultural Heritage is responsible for developing cultural policies, including those associated with World Heritage properties. The National Monuments Council, which is part of the Ministry of Culture, the Arts and Heritage, is the technical body in charge of supervising and maintaining National Monuments, which is the legal category protecting the Chinchorro archaeological sites. Any changes to the sites must be authorized by this council. The National Cultural Heritage Service acts as technical advisor to World Heritage properties in Chilean territory through the National Centre for World Heritage Sites, which supports the work of site administrators. At the local level, the Chinchorro Marka Corporation is the body in charge of the property’s management system. The current and proposed legal protection of the serial property is based at the national level on Law No. 17288 of National Monuments (1970, substantially modified in 2005 and currently under additional review). At the regional level, Decree No. 4867 (1967) of the Ministry of Education declares all archaeological and palaeontological sites in the Arica and Parinacota Region to be Historical Monuments. The protection established by this Decree covers the archaeological sites in all three component parts of the serial property. The Desembocadura de Camarones component part and its buffer zone will be protected in the future under the Nature Sanctuary category of Law No. 17288 of National Monuments. The Desembocadura de Camarones component part is protected by Decree No. 240 (2014) of the Ministry of National Defence and the Armed Forces Undersecretariat, which regulates the use of the seashore by non-industrial fishers. Processes related to the nature sanctuary declaration and the renewal of the Regulatory plan of the city of Arica and the Cuya-Caleta Camarones Sectional Plan are still pending and need to be finalized. The ownership of the three component parts of the property and the two buffer zones is a combination of public and private tenure. The management system and management plan are comprehensive, well structured, and generally inclusive in terms of stakeholder participation, but they are still under development. The Management Plan of the property (2020-2026) is currently being established. Priority should be given to finalizing, approving and implementing the Management Plan as well as completing and making operational the projected monitoring system. Systemic documentation and inventorying of the archaeological information already collected needs to be addressed, as well as documentation of areas with potential interest for future investigation. Priority should be given to the development of conservation measures focused on general maintenance and on the identification and rescue of unprotected archaeological remains on the surface. The installation of the basic infrastructure to assure the safety of visitors and the security of the property, the strengthening of general maintenance and the development and application of a Heritage Impact Assessment system are priorities to be tackled. The ethical issues related to the treatment of human remains needs to be addressed. Community outreach activities are key to the success of future management of the property. It will be important to continue these efforts and include in the decision-making processes local stakeholders as well as any community that may have an interest in and connection with the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": null,
+          "available": false,
+          "note": "area_not_reported"
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/342bfd7dfe5515c17806eeb9680a1d2f",
+          "filename": "site_1634_0001.jpg",
+          "dimensions": {
+            "width": 5256,
+            "height": 2953
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/181885/site_1634_0001.jpg",
+            "https://whc.unesco.org/document/181886/site_1634_0002.jpg",
+            "https://whc.unesco.org/document/181887/site_1634_0003.jpg",
+            "https://whc.unesco.org/document/181888/site_1634_0004.jpg",
+            "https://whc.unesco.org/document/181890/site_1634_0006.jpg",
+            "https://whc.unesco.org/document/181892/site_1634_0008.jpg",
+            "https://whc.unesco.org/document/181893/site_1634_0009.jpg",
+            "https://whc.unesco.org/document/181894/site_1634_0010.jpg",
+            "https://whc.unesco.org/document/181895/site_1634_0011.jpg",
+            "https://whc.unesco.org/document/181896/site_1634_0012.jpg",
+            "https://whc.unesco.org/document/181897/site_1634_0013.jpg",
+            "https://whc.unesco.org/document/181898/site_1634_0014.jpg",
+            "https://whc.unesco.org/document/191049/site_1634_0015.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Colón 10",
+            "ref": "1634-002",
+            "latitude": -18.4807444445,
+            "longitude": -70.3215333334
+          },
+          {
+            "name": "Desembocadura de Camarones",
+            "ref": "1634-003",
+            "latitude": -19.1898,
+            "longitude": -70.2620055556
+          },
+          {
+            "name": "Faldeo Norte del Morro de Arica",
+            "ref": "1634-001",
+            "latitude": -18.4819583334,
+            "longitude": -70.3215722223
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1634",
+        "unesco_documents": "https://whc.unesco.org/en/list/1634/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1634/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1634/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region The property consists of three component parts: Faldeo Norte del Morro de Arica, Colón 10, both in the city of Arica, and Desembocadura de Camarones, in a rural environment some 100km further south. Together they bear testimony to a culture of marine hunter-gatherers who resided in the arid and hostile northern coast of the Atacama Desert in northernmost Chile from approximately 5450 BCE to 890 BCE. The property presents the oldest known archaeological evidence of the artificial mummification of bodies with cemeteries that contain both artificially mummified bodies and some that were preserved due to environmental conditions. Over time, the Chinchorro perfected complex mortuary practices, whereby they systematically dismembered and reassembled bodies of deceased men, women and children of the entire social spectrum to create “artificial” mummies. These mummies possess material, sculptural, and aesthetic qualities that are presumed to reflect the fundamental role of the dead in Chinchorro society. Tools made of mineral and plant materials as well as simple instruments made of bone and shells that enabled an intensive exploitation of marine resources, have been found in the property which bears a unique testimony to the complex spirituality of the Chinchorro culture. The property consists of three component parts: Faldeo Norte del Morro de Arica, Colón 10, both in the city of Arica, and Desembocadura de Camarones, in a rural environment some 100km further south. Together they bear testimony to a culture of marine hunter-gatherers who resided in the arid and hostile northern coast of the Atacama Desert in northernmost Chile from approximately 5450 BCE to 890 BCE. The property presents the oldest known archaeological evidence of the artificial mummification of bodies with cemeteries that contain both artificially mummified bodies and some that were preserved due to environmental conditions. Over time, the Chinchorro perfected complex mortuary practices, whereby they systematically dismembered and reassembled bodies of deceased men, women and children of the entire social spectrum to create “artificial” mummies. These mummies possess material, sculptural, and aesthetic qualities that are presumed to reflect the fundamental role of the dead in Chinchorro society. Tools made of mineral and plant materials as well as simple instruments made of bone and shells that enabled an intensive exploitation of marine resources, have been found in the property which bears a unique testimony to the complex spirituality of the Chinchorro culture. Chile Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "humberstone_and_santa_laura_saltpeter_works",
+      "uuid": "77fdf06f-040f-5df4-9861-9c5a4bf117e6",
+      "unesco_id": "1178",
+      "names": {
+        "en": "Humberstone and Santa Laura Saltpeter Works",
+        "fr": "Usines de salpêtre de Humberstone et de Santa Laura",
+        "es": "Oficinas salitreras de Humberstone y Santa Laura",
+        "ru": "Производства селитры Хамберстон и Санта-Лаура",
+        "ar": "مصانع نترات الصوديوم في همبرستون وسانتا لاورا",
+        "zh": "亨伯斯通和圣劳拉硝石采石场"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Humberstone and Santa Laura works contain over 200 former saltpeter works where workers from Chile, Peru and Bolivia lived in company towns and forged a distinctive communal pampinos culture. That culture is manifest in their rich language, creativity, and solidarity, and, above all, in their pioneering struggle for social justice, which had a profound impact on social history. Situated in the remote Pampas, one of the driest deserts on Earth, thousands of pampinos lived and worked in this hostile environment for over 60 years, from 1880, to process the largest deposit of saltpeter in the world, producing the fertilizer sodium nitrate that was to transform agricultural lands in North and South America, and in Europe, and produce great wealth for Chile. Because of the vulnerability of the structures and the impact of a recent earthquake, the site was also placed on the List of World Heritage in Danger to help mobilize resources for its conservation.",
+          "fr": "Les usines de Humberstone et de Santa Laura représentent plus de 200 anciens sites d’extraction du salpêtre, où des ouvriers, venus du Chili, du Pérou et de Bolivie, vécurent dans des cités minières et forgèrent une culture pampina commune. Cette culture se manifeste dans la richesse de la langue, la créativité et les liens de solidarité, et surtout dans les luttes pionnières menées par les pampinos pour la justice sociale, luttes dont l’impact fut profond sur l’histoire sociale. Installés dans la Pampa désertique et reculée, l’un des déserts les plus arides du globe, des milliers de pampinos ont vécu et travaillé, à partir de 1880 et pendant plus de soixante ans, dans un environnement hostile pour exploiter le plus grand gisement de salpêtre du monde et produire le nitrate de soude, un engrais qui allait transformer le paysage agricole de l’Amérique du Nord et du Sud, ainsi que celui de l’Europe, tout en procurant de grandes richesses au Chili.",
+          "es": "Las oficinas de Humberstone y Santa Laura cuentan con un total de 200 lugares de extracción del salitre, donde trabajadores llegados de Chile, Perú y Bolivia vivieron agrupados en campamentos de las compañí­as mineras. Aquí­ forjaron la cultura comunitaria especí­fica de los pampinos, caracterizada por su creatividad, la riqueza de su expresión lingüí­stica, los ví­nculos solidarios entre sus miembros y su lucha precursora por la justicia social, que dejarí­a una honda huella en la historia de los movimientos sociales. A estas y otras oficinas salitreras instaladas en el desierto de la Pampa –una de las zonas mí¡s í¡ridas del planeta y mí¡s hostiles al ser humano– acudieron miles de pampinos desde 1880 para vivir y trabajar en ellas por espacio de sesenta años, a fin de extraer del yacimiento de salitre mí¡s grande del mundo el nitrato de sodio, fertilizante que transformó la agricultura en las dos Américas y en Europa, proporcionando a Chile una riqueza considerable.",
+          "ru": "Предприятия Хамберстон и Санта-Лаура включают свыше 200 бывших разработок селитры, где в городках добывающей компании жили рабочие из Чили, Перу и Боливии, формируя характерную культуру проживания «пампинос». Эта культура отличалась богатым языком, духом творчества и солидарности, а более всего – своей борьбой за социальную справедливость, которая оказала глубокое воздействие на дальнейший ход исторических событий в этом регионе. Находясь в отдаленной «пампе» – одной из самых безводных пустынь на земле, тысячи «пампинос» жили и работали в неблагоприятных природных условиях более 60 лет, начиная с 1880 г., чтобы освоить крупнейшее в мире месторождение селитры. Произведенное на этой основе удобрение, которое преобразило сельскохозяйственные земли в Северной и Южной Америке и в Европе, принесло Чили огромное богатство.",
+          "ar": "تمثل مصانع همبرستون وسانتا لاورا أكثر من200 موقع قديم لاستخراج نترات الصوديوم، حيث كان يعيش العمال القادمون من شيلي والبيرو وبوليفيا في مدن منجمية. وقد استحدثوا ثقافة مشتركة تبرز من خلال ثراء اللغة والإبداع وعلاقات التضامن، وبالأخص عبر أولى حركات النضال التي قادها هؤلاء في سبيل العدالة الاجتماعية والتي كان أثرها عميقاً على التاريخ الاجتماعي. استقر العمال في سهول البامبا الشاسعة والنائية، في إحدى الصحارى القاحلة، حيث عاش آلاف العمال وعملوا، بدءاً من العام 1880 وطوال أكثر من 60 عاماً، في بيئة معادية، من أجل استغلال أكبر منجم لإنتاج نترات الصوديوم في العالم، ذاك السماد الذي أحدث تغييراً جذرياً في المنظر الزراعي في أميركا الشمالية والجنوبية وفي أوروبا، وعاد بثروات كبرى على شيلي.",
+          "zh": "亨伯斯通和圣劳拉硝石采石场遗址由200多个以前的采矿点组成，来自智利、秘鲁和玻利维亚的工人就居住在企业生活区中，形成了独特的社区文化。这种文化体现于丰富的语言、创造力和团结力上，尤其是争取社会公正的先锋精神，这对社会历史有着深远的影响。此处遗址位于地球上最干燥的沙漠之一，偏远的潘帕沙漠地区(desert Pampa)。从1880年开始，成千上万名来自智利、秘鲁和玻利维亚的矿工就在这样恶劣的环境下生活和工作了60多年，开采世界上最大的硝石矿，生产化肥硝酸钠，用于改造北美洲和南美洲以及欧洲的农田，并为智利创造了巨大财富。由于这里的建筑物容易遭到破坏，最近又受到地震影响，这里已列入了《濒危世界遗产名录》，以便募集资源，对其实施保护。"
+        },
+        "full": "Humberstone and Santa Laura works contain over 200 former saltpeter works where workers from Chile, Peru and Bolivia lived in company towns and forged a distinctive communal pampinos culture. That culture is manifest in their rich language, creativity, and solidarity, and, above all, in their pioneering struggle for social justice, which had a profound impact on social history. Situated in the remote Pampas, one of the driest deserts on Earth, thousands of pampinos lived and worked in this hostile environment for over 60 years, from 1880, to process the largest deposit of saltpeter in the world, producing the fertilizer sodium nitrate that was to transform agricultural lands in North and South America, and in Europe, and produce great wealth for Chile. Because of the vulnerability of the structures and the impact of a recent earthquake, the site was also placed on the List of World Heritage in Danger to help mobilize resources for its conservation.",
+        "justification": "Brief Synthesis In the remote desert Pampa, one of the driest deserts on earth, thousands of people lived and worked from the first half of the 19th century to process the largest deposit of saltpeter in the world, producing the fertiliser sodium nitrate that was to transform agricultural land in North and South America, and Europe, and produce great wealth for Chile. Humberstone and Santa Laura works are the best preserved and most representative remains of a series of over 200 saltpeter works that once existed, all of which were interconnected by a specially built modern railway system, and constitute an exceptional testimony to technological progress and global exchanges which were the cornerstone of the industrial era. In this area, workers, drawn from Chile, Peru and Bolivia, to this hostile environment, lived in company towns and forged a distinctive communal Pampinos culture, manifest in their own rich language, creativity, and solidarity, and above all in pioneering struggles for social justice, that had a profound impact generally on social history. The industrial heritage site was developed from 1872 and until mid 20th century; it is located 45 km. from the port of Iquique in the midst of a desert landscape. The property covers a surface area of 573.48 hectares, with a buffer zone of 1,826.39 hectares that encompasses the two main sites which stand at a distance of approximately 1 km from each other. These complement each other, because the industrial area of Santa Laura is better conserved, while Humberstone has better preserved residential and service areas. The site of Santa Laura conserves the remains of the industrial installations that were used for saltpeter processing such as industrial installations and equipment, including the only leaching shed and a saltpeter grinder that remain intact today, installations for manufacturing iodine, for energy production and buildings such as the administration house and the main square. The Humberstone site contains the attributes that express the quality of urban settlements, such as the living quarters, public spaces and the regular grid pattern of the Camp, with a main square around which communal buildings are clustered. Other relevant attributes are the remains of the railway line that linked Santa Laura and Humberstone, the gravel heaps, the construction techniques, architectural styles and materials, in particular the costrón and the Pampa concrete, distinctive construction materials together with the calamine and timber that were brought from other latitudes. The remains of saltpeter works are also present in the buffer zone which is also significant for the conservation of the characteristics of the natural setting of the Pampa which illustrate the relationship between the built environment and the adaptation to the natural setting. The two saltpeter works are the most representative remaining vestiges of an industry that transformed the lives of a large proportion of the population of Chile, brought great wealth to the country. The output of the industry, nitrate fertilisers, had indirectly a transforming influence on existing agricultural lands in Europe, and on newly cultivated land in other latitudes and indirectly supported the agricultural revolution of the late 19th century in many parts of the world. The remaining buildings are testimony to the social order and technical processes that drove the industry. The pioneering social agenda of the saltpeter workers’ unions had far-reaching effects on labour laws throughout Chile and further afield. The distinctive culture of the Pampinos that evolved in association with the industry, which expresses the language, the memory of the saltpeter culture and its influence on social process, has resonance amongst the local population today and is another important attribute of the property. The place still has a strong symbolic and evocative association for the people from the Pampa, former workers and their families, who use the place for meetings and commemorations such as Saltpeter Week. Criterion (ii): The development of the saltpeter industry reflects the combined knowledge, skills, technology, and financial investment of a diverse community of people who were brought together from around South America, and from Europe. The saltpeter industry became a huge cultural exchange complex where ideas were quickly absorbed and exploited. The two works represent this process. Criterion (iii): The saltpeter mines and their associated company towns developed into an extensive and very distinct urban community with its own language, organisation, customs, and creative expressions, as well as displaying technical entrepreneurship. The two nominated works represent this distinctive culture. Criterion (iv): The saltpeter mines in the north of Chile together became the largest producers of natural saltpeter in the world, transforming the Pampa and indirectly the agricultural lands that benefited from the fertilisers the works produced. The two works represent this transformation process. Integrity The attributes at the nucleus of the complex of the two saltpeter works still reflect the key manufacturing processes and social structures and ways of life of these company towns. As opposed to what occurred in many other saltpeter works, Santa Laura and Humberstone were not fully dismantled when they were no longer functional. However, looting, demolition and lack of conservation and maintenance that occurred until the declaration of the site as a National Monument in 1970 compromised the overall integrity of the two works. Efforts have been made by the State Party to reverse the conditions that threaten the integrity of the property. Notwithstanding these works, interventions are still needed to ensure that no further erosion of integrity occurs, particularly by addressing the considerable damage that exists at some of the industrial structures in Santa Laura which are still at risk. The State Party is stressing the multidisciplinary analysis of vulnerability of the materials and the instability of the structures, the assessment of the composition of the materials and their pathologies, the effect of environmental conditions on them, the soil and mechanical actions on structures, so as to identify the best methods of conserving and maintaining them and the use and historic functioning of machinery and buildings. The buffer zone is an attempt to protect the desert landscape and its relationship with the built environment, as well as the remains from still older saltpeter works and mining camps, including railway lines and roads as well as pedestrian footpaths which give a certain sense to the historic reality of the saltpeter canton (complex of several interrelated saltpeter works). However, no formal buffer zone has been established to control and regulate activities that occur in the surroundings to mitigate the visual impacts on the setting derived from contemporary industrial buildings. Authenticity The two saltpeter works have remained better conserved that any other saltpeter works in the Pampa of northern Chile and what remains at the site is authentic and original. The relatively few interventions, the lack of additions of architectural elements or constructive materials from outside or which are different from those used originally have helped in maintaining the authenticity of the property. The authenticity of the site is heightened as a result of its characteristics and its relationship to the landscape which illustrates the occupation of the territory in the saltpeter era and powerfully evokes how the desert was conquered. The conservation of manifestations of intangible attributes of the saltpeter era also contributes toward the authenticity of the site. Humberstone houses the most important gathering of a commemoration of the industry as a whole: the Saltpeter Week which annually gathers together people from all over the Pampa; i.e. former saltpeter workers and their descendants. However, there are significant challenges for the conservation of the conditions of authenticity, in light of the nature and vulnerability of the materials in the specific environmental conditions, and the identification of interventions which do not compromise these characteristics. Protection and management requirements The property is a National Monument in the category of Historic Monument – the maximum level of protection of heritage in this country -. It is administered by a private entity, the Saltpeter Museum Corporation, under the supervision of the National Monuments Council, a state institution responsible for the protection of Chile’s cultural heritage. A 2004-2009 Management Plan was produced and now needs to be updated. In addition, the human and financial resources for its sustained implementation will need to be secured and provided to the Corporation. The formal definition of a buffer zone and the establishment and enforcement of regulatory measures is also an action that needs to be implemented as a crucial measure to protect the desert landscape both geographically as well as in relation to the remains of mining exploration and the transport of the saltpeter in general. To ensure the conservation of Outstanding Universal Value, authenticity and integrity of the property, the Priority Interventions Plan needs to be implemented, including the structural consolidation and the recovery of buildings at risk. Physical conservation must be addressed bearing in mind the effects of the camanchaca - dense and frequent mist generated by the Pacific Ocean - and its high saltiness, capable of seriously damaging metals, timbers and even stone materials. It is necessary to conceptually reflect on authenticity which opens up a space coherently with replacing those pieces and sections that have irredeemably deteriorated, defining a criteria for change associated with that degradation, in order to maintain them for all time. This must be done in addition to the protection of materials with anti-corrosion treatments. An essential imperative for the protection, conservation and management of the site is an in-depth knowledge of the techniques, construction systems, and ways of life, exploration systems and the economic conditions at the time. The importance of the technology itself of this exploitation is of great singularity and the complexities of life associated with saltpeter impose a considerable challenge on how it is all interpreted. Also essential is protecting, conserving and managing those artistic elements that are a part of the history of the site whilst it was functioning and being abandoned, such as the “graphic designs” on the walls, and the movable assets."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 573.48,
+          "square_km": 5.73,
+          "square_miles": 2.321,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/80a8ceb37cf89d5c0acdd955ae6153e6",
+          "filename": "site_1178_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113512/site_1178_0001.jpg",
+            "https://whc.unesco.org/document/113515/site_1178_0003.jpg",
+            "https://whc.unesco.org/document/113517/site_1178_0004.jpg",
+            "https://whc.unesco.org/document/113519/site_1178_0005.jpg",
+            "https://whc.unesco.org/document/113521/site_1178_0006.jpg",
+            "https://whc.unesco.org/document/121829/site_1178_0009.jpg",
+            "https://whc.unesco.org/document/121830/site_1178_0010.jpg",
+            "https://whc.unesco.org/document/121831/site_1178_0011.jpg",
+            "https://whc.unesco.org/document/121832/site_1178_0012.jpg",
+            "https://whc.unesco.org/document/121833/site_1178_0013.jpg",
+            "https://whc.unesco.org/document/126658/site_1178_0014.jpg",
+            "https://whc.unesco.org/document/126660/site_1178_0016.jpg",
+            "https://whc.unesco.org/document/126661/site_1178_0017.jpg",
+            "https://whc.unesco.org/document/126662/site_1178_0018.jpg",
+            "https://whc.unesco.org/document/126663/site_1178_0019.jpg",
+            "https://whc.unesco.org/document/126664/site_1178_0020.jpg"
+          ],
+          "count": 16
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Humberstone and Santa Laura Saltpeter Works",
+            "ref": "1178ter",
+            "latitude": -20.20582,
+            "longitude": -69.79406
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1178",
+        "unesco_documents": "https://whc.unesco.org/en/list/1178/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1178/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1178/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Humberstone and Santa Laura Saltpeter Works Humberstone and Santa Laura works contain over 200 former saltpeter works where workers from Chile, Peru and Bolivia lived in company towns and forged a distinctive communal pampinos culture. That culture is manifest in their rich language, creativity, and solidarity, and, above all, in their pioneering struggle for social justice, which had a profound impact on social history. Situated in the remote Pampas, one of the driest deserts on Earth, thousands of pampinos lived and worked in this hostile environment for over 60 years, from 1880, to process the largest deposit of saltpeter in the world, producing the fertilizer sodium nitrate that was to transform agricultural lands in North and South America, and in Europe, and produce great wealth for Chile. Because of the vulnerability of the structures and the impact of a recent earthquake, the site was also placed on the List of World Heritage in Danger to help mobilize resources for its conservation. Humberstone and Santa Laura works contain over 200 former saltpeter works where workers from Chile, Peru and Bolivia lived in company towns and forged a distinctive communal pampinos culture. That culture is manifest in their rich language, creativity, and solidarity, and, above all, in their pioneering struggle for social justice, which had a profound impact on social history. Situated in the remote Pampas, one of the driest deserts on Earth, thousands of pampinos lived and worked in this hostile environment for over 60 years, from 1880, to process the largest deposit of saltpeter in the world, producing the fertilizer sodium nitrate that was to transform agricultural lands in North and South America, and in Europe, and produce great wealth for Chile. Because of the vulnerability of the structures and the impact of a recent earthquake, the site was also placed on the List of World Heritage in Danger to help mobilize resources for its conservation. Chile Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "historic_quarter_of_the_seaport_city_of_valparaiso",
+      "uuid": "9997dd62-13d2-5ac4-ad87-a3d37dfc9c79",
+      "unesco_id": "959",
+      "names": {
+        "en": "Historic Quarter of the Seaport City of Valparaíso",
+        "fr": "Quartier historique de la ville portuaire de Valparaiso",
+        "es": "Barrio histórico de la ciudad portuaria de Valparaíso",
+        "ru": "Историческая часть портового города Вальпараисо",
+        "ar": "الحيّ التاريخي لمدينة فال براييسو البحرية",
+        "zh": "瓦尔帕莱索港口城市历史区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides.",
+          "fr": "La ville coloniale de Valparaíso offre un exemple de développement urbain et architectural de la fin du XIXe siècle en Amérique latine. Dans son cadre naturel en forme d’amphithéâtre, la ville se caractérise par un tissu urbain vernaculaire adapté aux collines, en contraste avec le dessin géométrique employé en plaine, et présente une unité formelle sur laquelle se détache une grande diversité de clochers d’églises. Valparaíso a bien préservé d’intéressantes infrastructures du début de l’ère industrielle, tels les nombreux « funiculaires » à flanc de colline.",
+          "es": "La ciudad colonial de Valparaíso constituye un ejemplo notable del desarrollo urbano y arquitectónico de América Latina a finales del siglo XIX. Enmarcada en un sitio natural en forma de anfiteatro, la ciudad se caracteriza por un tejido urbanístico tradicional especialmente adaptado a las colinas circundantes, que contrasta con el trazado geométrico utilizado en terreno llano. En su paisaje urbano, dotado de unidad formal, se yergue una gran variedad de campanarios de iglesias. La ciudad ha conservado interesantes estructuras de los inicios de la era industrial, por ejemplo los múltiples funiculares que recorren las escarpadas laderas de las colinas.",
+          "ru": "Колониальный город Вальпараисо представляет собой прекрасную иллюстрацию развития градостроительства и архитектуры в Латинской Америке конца XIX в. Город расположен в естественном природном амфитеатре, и некоторые его кварталы построены на крутых склонах прилегающих холмов, где на общем фоне выделяются многочисленные и различающиеся по форме шпили церквей. Это контрастирует с геометрической планировкой, примененной на равнине. В городе сохранились образцы ранее созданной инженерной инфраструктуры, включая многочисленные подъемники, преодолевающие крутые склоны холмов.",
+          "ar": "تمثل مدينة فال براييسو المستعمرة نموذجاً عن التطور الحضري والهندسي في نهاية القرن التاسع عشر في أميركا اللاتينية. تتخذ هذه المدينة شكل المدرّج وتتميّز بنسيج حضري محلي متكيّف مع التلال، بينما تتباين مع الرسم الهندسي المطبق في السهول، وهي بذلك تشكّل وحدة متكاملة تتخللها مجموعة متنوعة من قبب الأجراس. وقد نجحت مدينة فال براييسو في الحفاظ على بعض البنى التحتية المهمة التي ترقى إلى مطلع العصر الصناعي، على غرار العديد من المصاعد السلكية عند منحدر التلال.",
+          "zh": "瓦尔帕莱索殖民城市是19世纪晚期拉丁美洲城市和建筑发展的典范。城市地理位置如同一个圆形露天剧场，布局非常有特色，山腰上到处可见本国的城市建筑，其中还点缀着星罗棋布的教堂尖塔，在平地部分则采用几何布局。瓦尔帕莱索还完好保存了一些早年有趣的工业基础设施，例如陡峭山坡上不计其数的“起卸机”。"
+        },
+        "full": "The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides.",
+        "justification": "Brief Synthesis Located on central Chile’s Pacific coast, the Historic Quarter of the Seaport City of Valparaíso represents an extraordinary example of industrial-age heritage associated with the international sea trade of the late 19th and early 20th centuries. The city was the first and most important merchant port on the sea routes of the Pacific coast of South America that linked the Atlantic and Pacific oceans via the Strait of Magellan. It had a major commercial impact on its region from the 1880s until the opening of the Panama Canal in 1914. After this date its development slowed, allowing its harbour and distinctive urban fabric to survive as an exceptional testimony to the early phase of globalisation. Valparaíso’s historic quarter is located on the coastal plain and part way up the steep surrounding hills, where the city first developed. It is composed of five interlaced neighbourhoods: La Matriz Church and Santo Domingo Square, located between the hills and the plain and comprised of the church and late 19th-century buildings typical of the seaport architecture; Echaurren Square and Serrano Street, predominantly commercial in character and marked by the presence of the Port Market, commercial establishments and active street trade; Prat Pier and Sotomayor and Justicia squares, comprising the main transversal axis of the area and containing the largest public spaces; the Prat Street and Turri Square area around the foothill, featuring a number of examples of monumental architecture; and the two hills of Cerro Alegre and Cerro Concepción, a single neighbourhood planned and developed to a large extent by German and English immigrants, with squares, viewing points, promenades, alleyways, stairways and the top stations of some of Valparaíso’s distinctive funicular elevators. The outstanding nature of the historic quarter of Valparaíso results from a combination of three factors, all associated with its role as a port: its particular geographical and topographical environment; its urban forms, layout, infrastructure and architecture; and its attraction to and influence by people from around the world. The character of Valparaíso was strongly marked by the geography of its location: the bay, the narrow coastal plains (largely artificial) and the steep hills scored by multiple ravines together created the city’s amphitheatre-like layout. Adaptation of the built environment to these difficult geographical conditions produced an innovative and creative urban ensemble that stressed the particularities of each architectural object, grounded in the technological and entrepreneurial mindset typical of the era. Consistent with its pre-eminence, the city was populated and influenced by people from around the world. The urban fabric and cultural identity of Valparaíso are thus distinguished by a diversity that sets it apart from other Latin American cities. From an urban perspective, the result of this challenging geography, modernizing impulse and intercultural dialogue is a fully original American city with the stamp of the late 19th century upon it. Criterion (iii) Valparaíso is an exceptional testimony to the early phase of globalisation in the late 19th century, when it became the leading commercial port on the sea routes of the Pacific coast of South America. Integrity Within the boundaries of the property are located all the elements necessary to express the Outstanding Universal Value of the Historic Quarter of the Seaport City of Valparaíso, including the urban layout, public spaces and buildings, which range from very simple houses to monumental buildings in a variety of construction techniques, styles and adaptations to the landscape; the port and naval heritage as exemplified by Prat Pier and the customs and naval services buildings; the transportation infrastructure, including funicular elevator and trolley systems typical of the period; and a number of expressions of intangible heritage, all of which illustrate the historic quarter of the seaport city of Valparaíso’s leading role in the global commercial trade associated with the late 19th century industrial era. Without minimising the conservation challenges inherent to a living port city, the property has maintained its integrity. Authenticity The Historic Quarter of the Seaport City of Valparaíso is substantially authentic in terms of the ensemble’s forms and designs, materials and substances, uses and functions, and location and setting. It has largely retained the key features of its heyday in the late 19th and early 20th centuries, including its urban elements, its architecture, its transportation systems and parts of its port infrastructure. These essential features are authentic and have been maintained with an eye to continuity of use and function as well as construction techniques. The relationship of the property with the landscape, and in particular the ‘amphitheatre’ layout, has also been maintained. The historic quarter of Valparaíso nevertheless has challenges to maintain its authenticity, particularly in relation to conservation and planning control. Damage to several buildings due to a fire in 2007 and a major earthquake in 2010 is being addressed. Protection and Management Requirements The Historic Quarter of the Seaport City of Valparaíso, a mixture of public and private properties, is administered through the Municipal Heritage Management Department, which is specifically responsible for overseeing the management of the property. The 23.2-ha property and much of its 44.5-ha buffer zone are designated a National Monument, and are therefore overseen by the National Monuments Council of Chile. The Ministry of Housing and Urban Development also supervises the entire area by virtue of the Historic Preservation Zone established in the area, which extends beyond the boundaries of both the property and the buffer zone. This Zone covers two-thirds of the city, with reference to both the natural amphitheatre that characterises the entire urban area (defined by Avenida Alemania – the 100-m level – from Cerro Playa Ancha to Cerro Esperanza), and the City Plan (area of El Almendral). To respond to challenges in relation to conservation and planning control and to sustain the Outstanding Universal Value of the property, a comprehensive Management and Conservation Plan for the property is in the process of elaboration. It reconciles the Communal Regulating Plan with the property’s National Monument status, and addresses related urban planning and regulation issues, visual integrity, heritage/development balances, strategic guidelines (including economic and financial initiatives) and monitoring systems. Sustaining the Outstanding Universal Value of the property over time will require completing, approving and implementing the comprehensive Management and Conservation Plan for the property, and ensuring financial resources for conservation. The recovery and enhancement of the sectors that are depressed and have social problems are of particular importance. Moreover, it will be necessary to reconcile economic development efforts (both tourism and commercial) with the special character of these sectors, and with the concerns of their traditional population. Attention also needs to be paid to safeguarding the infrastructure related to the historic functions of the harbour and the underwater heritage and ensuring the sustainability of traditional transportation systems (funicular elevators and trolley cars). Known and potential threats and risks must also be addressed, including the infrastructure of basic services (water, gas, electricity), the vulnerabilities of materials (the threat from xylophagous insects, for example), as well as natural disasters (earthquakes, floods, fires)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 23.2,
+          "square_km": 0.23,
+          "square_miles": 0.094,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c1452ac962c399564889e30f281c7323",
+          "filename": "site_0959_0003.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113824/site_0959_0003.jpg",
+            "https://whc.unesco.org/document/113826/site_0959_0004.jpg",
+            "https://whc.unesco.org/document/113828/site_0959_0005.jpg",
+            "https://whc.unesco.org/document/113830/site_0959_0006.jpg",
+            "https://whc.unesco.org/document/113832/site_0959_0007.jpg",
+            "https://whc.unesco.org/document/113834/site_0959_0008.jpg",
+            "https://whc.unesco.org/document/113836/site_0959_0009.jpg",
+            "https://whc.unesco.org/document/120681/site_0959_0012.jpg",
+            "https://whc.unesco.org/document/121835/site_0959_0014.jpg",
+            "https://whc.unesco.org/document/121836/site_0959_0015.jpg",
+            "https://whc.unesco.org/document/121838/site_0959_0016.jpg",
+            "https://whc.unesco.org/document/121839/site_0959_0017.jpg",
+            "https://whc.unesco.org/document/121840/site_0959_0018.jpg",
+            "https://whc.unesco.org/document/121841/site_0959_0019.jpg",
+            "https://whc.unesco.org/document/121842/site_0959_0020.jpg",
+            "https://whc.unesco.org/document/121843/site_0959_0021.jpg",
+            "https://whc.unesco.org/document/124199/site_0959_0022.jpg",
+            "https://whc.unesco.org/document/124200/site_0959_0023.jpg",
+            "https://whc.unesco.org/document/124201/site_0959_0024.jpg",
+            "https://whc.unesco.org/document/124202/site_0959_0025.jpg",
+            "https://whc.unesco.org/document/124203/site_0959_0026.jpg",
+            "https://whc.unesco.org/document/124204/site_0959_0027.jpg",
+            "https://whc.unesco.org/document/126648/site_0959_0028.jpg",
+            "https://whc.unesco.org/document/126649/site_0959_0029.jpg",
+            "https://whc.unesco.org/document/126650/site_0959_0030.jpg",
+            "https://whc.unesco.org/document/126651/site_0959_0031.jpg"
+          ],
+          "count": 26
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Quarter of the Seaport City of Valparaíso",
+            "ref": "959rev",
+            "latitude": -33.04063889,
+            "longitude": -71.628
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/959",
+        "unesco_documents": "https://whc.unesco.org/en/list/959/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/959/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/959/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Quarter of the Seaport City of Valparaíso The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides. The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides. Chile Latin America and the Caribbean Cultural"
+    }
+  ]
+}

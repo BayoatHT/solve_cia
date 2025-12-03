@@ -1,0 +1,210 @@
+{
+  "country": {
+    "code": "SLB",
+    "name": "Solomon Islands"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "east_rennell",
+      "uuid": "bf3be571-5e27-5a71-902d-f722d0c3cf32",
+      "unesco_id": "854",
+      "names": {
+        "en": "East Rennell",
+        "fr": "Rennell Est",
+        "es": "Rennell Este",
+        "ru": "Восточная часть острова Реннелл",
+        "ar": "إيست رينيل",
+        "zh": "东伦内尔岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SLB": {
+            "name": "Solomon Islands",
+            "iso2": "SB",
+            "iso3": "SLB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "East Rennell makes up the southern third of Rennell Island, the southernmost island in the Solomon Island group in the western Pacific. Rennell, 86 km long x 15 km wide, is the largest raised coral atoll in the world. The site includes approximately 37,000 ha and a marine area extending 3 nautical miles to sea. A major feature of the island is Lake Tegano, which was the former lagoon on the atoll. The lake, the largest in the insular Pacific (15,500 ha), is brackish and contains many rugged limestone islands and endemic species. Rennell is mostly covered with dense forest, with a canopy averaging 20 m in height. Combined with the strong climatic effects of frequent cyclones, the site is a true natural laboratory for scientific study. The site is under customary land ownership and management.",
+          "fr": "Rennell Est est situé dans le tiers méridional de Rennell, île la plus australe de l'archipel des Salomon. Rennell est le plus grand atoll corallien surélevé du monde avec ses 86 km de long et 15 km de large. Le site couvre environ 37 000 ha et un secteur marin s'étendant jusqu'à trois milles nautiques. Une des caractéristiques principales de l'île est le lac Tegano, ancien lagon de l'atoll et le plus grand lac du Pacifique insulaire (15 500 ha). Il est saumâtre et contient de nombreuses îles calcaires accidentées. Rennell est essentiellement couverte de forêts denses dont la canopée atteint 20 m de hauteur en moyenne. Avec les effets climatiques marqués de cyclones fréquents, le site est un véritable laboratoire naturel pour l'étude scientifique. C'est la coutume qui régit la propriété et la gestion du site.",
+          "es": "El sitio de Rennell Este abarca el tercio meridional de la isla Rennell, la más austral del archipiélago de las Salomón. Con sus 86 kilómetros de longitud y 15 de ancho, Rennell es el atolón de coral elevado más grande del mundo. El sitio comprende una superficie terrestre de 37.000 hectáreas y una zona marina de tres millas. Después de la elevación del atolón primigenio, su laguna dio origen al lago Tegano, que con sus 15.500 hectáreas es el mayor de todas las islas del Pacífico. En sus aguas salobres emergen numerosos islotes calizos que albergan especies endémicas. El sitio está cubierto por espesos bosques cuyo dosel alcanza una altura de 20 metros por término medio. Además, sus condiciones climáticas, caracterizadas por la frecuencia de fenómenos ciclónicos, hacen de él un auténtico laboratorio natural para los estudios científicos. La propiedad y administración del sitio se rigen por el derecho consuetudinario.",
+          "ru": "Реннелл – самый южный из группы Соломоновых островов, лежащих в западной части Тихого океана. Это самый большой в мире поднятый атолл, его размеры 86х15 км. Объект наследия площадью 37 тыс. га охватывает южную треть этого острова и включает также прилегающую акваторию в радиусе трех морских миль. Главный природный объект острова – озеро Тегано, бывшая лагуна атолла. Озеро считается крупнейшим внутренним водоемом во всей Океании (15,5 тыс. га), оно имеет солоноватую воду, множество скалистых известняковых островков, и служит местообитанием для некоторых эндемичных видов. Преобладающая часть острова Реннелл покрыта густыми лесами, которые образуют сплошной полог на высоте 20 м. Подверженный воздействию частых циклонов, Реннелл является отличной естественной научной лабораторией и районом традиционного землевладения и землепользования.",
+          "ar": "تقع إيست رينيل في الثلث الجنوبي لجزيرة رينيل، الجزيرة الأكثر جنوباً في أرخبيل جزر سليمان. وتشكّل رينيل أكبر جزيرة مرجانية ذات ارتفاع مُفرط في العالم إذ يبلغ طولها 86 كيلومتراً وعرضها 15 كيلومتراً. يغطّي الموقع تقريباً مساحة 37000 هكتار وقطاعاً بحرياً يمتدّ حتى ثلاثة آلاف ميل بحري. وتشكّل بحيرة تيغانو، وهي بحيرة مالحة قديمة من الجزيرة المرجانية وأكبر بحيرة في جزر المحيط الهادئ، إحدى أبرز مميزات الجزيرة. الموقع شديد الملوحة ويضمّ عدّة جُزر جيريّة وعرة. وتغطّي جزيرة رينيل بصورة خاصة غابات كثيفة يبلغ معدل ارتفاع نتوئها 20 مترا. وبفضل التأثيرات المناخية التي تخلّفها الأعاصير المتكرّرة، يشكّل الموقع مختبراً طبيعياً حقيقياً للدراسة العلمية. يجري الاعتماد على العادات التقليدية القديمة في ملكية هذا المكان وإدارته.",
+          "zh": "东伦内尔岛位于西太平洋所罗门群岛的最南端，它是伦内尔岛南面的第三个岛屿。伦内尔岛长86公里，宽15公里，是世界上最大的上升珊瑚环礁。该区域占地约37 000公顷，还有3海里的海域面积。这个岛最主要的特色就是特加诺湖，它以前是环状珊瑚岛的泻湖。这个面积为15 500公顷的太平洋岛屿中的最大湖泊，是一个咸水湖，包括许多崎岖不平的石灰石岛屿以及当地的特有物种。伦内尔岛大部分被茂密的森林所覆盖，这些森林的平均高度为20米。加之这里时常发生飓风，故成为一处真正的科学研究的天然实验室。这个岛屿遵循习惯的岛屿所有制和管理。"
+        },
+        "full": "East Rennell makes up the southern third of Rennell Island, the southernmost island in the Solomon Island group in the western Pacific. Rennell, 86 km long x 15 km wide, is the largest raised coral atoll in the world. The site includes approximately 37,000 ha and a marine area extending 3 nautical miles to sea. A major feature of the island is Lake Tegano, which was the former lagoon on the atoll. The lake, the largest in the insular Pacific (15,500 ha), is brackish and contains many rugged limestone islands and endemic species. Rennell is mostly covered with dense forest, with a canopy averaging 20 m in height. Combined with the strong climatic effects of frequent cyclones, the site is a true natural laboratory for scientific study. The site is under customary land ownership and management.",
+        "justification": "Brief synthesis East Rennell is part of Rennell Island, the southernmost island of the Western Pacific, Solomon Islands Group. Rennell Island is the largest raised coral atoll in the world, covering an area of 87,500ha at 86km long and 15km wide and is located 250km due south of the Solomon’s capital, Honiara. The World Heritage property occupies the southern third of the island and includes approximately 37,000ha and a marine area that extends 3km offshore. A prominent feature of the property is Lake Tegano, the former lagoon of the atoll, which at 15,000ha is the largest lake in the insular Pacific. Containing many rugged limestone islets the lake’s brackish waters harbour numerous endemic species including an endemic sea snake. The surrounding karst terrain has a dense cover of indigenous forest. Remaining in its natural state, the forest has a rich biodiversity with many endemic species; four species and nine subspecies of land and water birds respectively, one bat and seven land snails. The property was the first natural property inscribed on the World Heritage List with customary ownership and management. Approximately 1,200 people of Polynesian origin occupy four villages within the boundaries of the property, living mainly by subsistence gardening, hunting and fishing. Frequent cyclones can have severe consequences for the local people and the biota, and rising lake water levels from climatic change are adversely affecting some staple food crops. Criterion (ix): East Rennell demonstrates significant on-going ecological and biological processes and is an important site for the science of island biogeography. The property is an important stepping stone in the migration and evolution of species in the western Pacific and for speciation processes, especially with respect to avifauna. Combined with the strong climatic effects of frequent cyclones, the property is a true natural laboratory for scientific study. The unmodified forest vegetation contains floral elements from the more impoverished Pacific Islands to the east and the much richer Melanesian flora to the west. For its size, Rennell Island has a high number of endemic species, particularly among its avifauna and also harbours 10 endemic plant species. The wildlife includes 11 species of bat (one endemic) and 43 species of breeding land and water birds (four species and nine subspecies endemic respectively). The invertebrate life is also rich with 27 species of land snail (seven endemics) and approximately 730 insect species, many of which are endemic. The flora of Lake Tegano is dominated by more than 300 species of diatoms and algae, some of which are endemic. There is also an endemic sea snake in the lake. Integrity East Rennell encompasses a number of marine, coastal and forest values, combined in one place and in a relatively undisturbed state. The clearly defined boundaries of the property encompass Lake Tegano as well as a continuous expanse of surrounding forest-covered karst terrain. The property also includes a marine area extending 3km offshore. Apart from subsistence garden cultivation, hunting, fishing and utilisation of forest products for building materials, the natural vegetation is little-modified by human impact and there are no serious invasive species of animals or plants. Both rats and alien land snails, which have decimated fauna of other islands, are absent. The location of the western boundary, determined by community and administrative borders, is not optimal as it excludes important forest habitat for some species, particularly birds. Previously reported threats from mining and commercial fishing have passed. However, potential logging operations in the lands adjacent to the property, in West Rennell, could have severe adverse impacts on the forests within the property. These forests are intrinsically linked to those of West Rennell and are insufficient on their own to ensure the long-term survival of a number of endemic birds. Increasing water levels and salinity in Lake Tegano, induced by sea level rise due to climate change, are adversely affecting plant growth in low-lying areas. Of particular concern is the reduced harvest of taro and coconut, both of which are vital staple foods for the local community. Of particular importance and significance is the support for conservation from the local community. Protection and management requirements All land, islands and marine reefs within the property are under customary ownership, which is acknowledged in the Constitution of the Solomon Islands and the 1995 Customs Recognition Act. East Rennell is also protected under a National Protected Areas Act, passed in 2010 and administered by a recently established Ministry of the Environment. The legislation is focused on biodiversity conservation and explicitly applies to World Heritage properties, but it requires a Provincial Ordinance and local regulations and by-laws to empower the traditional owners and make it fully effective at the local level. The property has a management plan as well as an action plan for implementation. The management plan requires more specific policies to address vulnerabilities and threats including mining, logging, over-exploitation of coconut crabs and marine resources and invasive species and has no timeline or budget. Customary values and traditional management practices are not detailed in the plan, though a recent scoping study has begun the task of addressing this gap. The recently created Lake Tegano World Heritage Site Association, comprising some 250 community members, has established a representative committee to co-ordinate management activities. The committee, recognised by the Government, requires funding, office and communication facilities and a presence or counterpart focal point in either the provincial or national Governments to ensure it is effective. Heritage management and capacity-building projects, conducted by foreign donor Governments and international NGO’s, have provided beneficial outcomes including: enhanced awareness and understanding of World Heritage obligations on the part of the community, Government officials and other stakeholders; better co-ordination and co-operation in community management activities; improved survey and monitoring of natural resources; a strengthened legal basis for protection and management; and initial arrangements for twinning East Rennell with an Australian property. The ability of the traditional owners to adequately protect and manage the natural values and resources of the property is limited by a lack of funding, capacity and resources. In particular, they require funding and substantial rural development aid in the form of improved communication and transport facilities, health and medical services, education resources and income-generating small business enterprises based on sustainable uses of the natural resources. The isolation of the property and the consequent restricted access, requiring long- distance travel on infrequent and unreliable air services and extremely difficult overland travel assist in protection of the property but have also impacted on attempts to develop eco-tourism. Restricted transport links also hinder the ability of the community to obtain food and medical supplies, and to access markets for locally produced products. Future priorities for management of the property include: full implementation of legal and planning provisions; community capacity-building and empowerment for managing projects and natural resources; and increased sources of sustainable funding, including income generation, to improve the standard of living of the traditional owners and enhance their ability to protect the property to World Heritage standards."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 37000,
+          "square_km": 370.0,
+          "square_miles": 149.734,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1998,
+          "all_dates": [
+            1998
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1998,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1a98bf509e426c2d32820bb31a326c4e",
+          "filename": "site_0854_0017-500-0-20151105153738.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 361
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/123702/site_0854_0017.jpg",
+            "https://whc.unesco.org/document/123703/site_0854_0018.jpg",
+            "https://whc.unesco.org/document/123704/site_0854_0019.jpg",
+            "https://whc.unesco.org/document/123705/site_0854_0020.jpg",
+            "https://whc.unesco.org/document/168784/site_0854_0021.jpg",
+            "https://whc.unesco.org/document/168785/site_0854_0022.jpg",
+            "https://whc.unesco.org/document/175060/site_0854_0023.jpg",
+            "https://whc.unesco.org/document/175061/site_0854_0024.jpg",
+            "https://whc.unesco.org/document/175062/site_0854_0025.jpg",
+            "https://whc.unesco.org/document/175063/site_0854_0026.jpg",
+            "https://whc.unesco.org/document/175064/site_0854_0027.jpg",
+            "https://whc.unesco.org/document/175065/site_0854_0028.jpg",
+            "https://whc.unesco.org/document/175066/site_0854_0029.jpg",
+            "https://whc.unesco.org/document/175067/site_0854_0030.jpg",
+            "https://whc.unesco.org/document/175068/site_0854_0031.jpg",
+            "https://whc.unesco.org/document/175069/site_0854_0032.jpg",
+            "https://whc.unesco.org/document/175070/site_0854_0033.jpg",
+            "https://whc.unesco.org/document/175071/site_0854_0034.jpg",
+            "https://whc.unesco.org/document/175072/site_0854_0035.jpg",
+            "https://whc.unesco.org/document/175073/site_0854_0036.jpg",
+            "https://whc.unesco.org/document/175074/site_0854_0037.jpg",
+            "https://whc.unesco.org/document/175075/site_0854_0038.jpg",
+            "https://whc.unesco.org/document/175076/site_0854_0039.jpg",
+            "https://whc.unesco.org/document/175077/site_0854_0040.jpg",
+            "https://whc.unesco.org/document/175078/site_0854_0041.jpg",
+            "https://whc.unesco.org/document/175079/site_0854_0042.jpg",
+            "https://whc.unesco.org/document/175080/site_0854_0043.jpg",
+            "https://whc.unesco.org/document/175081/site_0854_0044.jpg",
+            "https://whc.unesco.org/document/175082/site_0854_0045.jpg",
+            "https://whc.unesco.org/document/175083/site_0854_0046.jpg",
+            "https://whc.unesco.org/document/175084/site_0854_0047.jpg",
+            "https://whc.unesco.org/document/175085/site_0854_0048.jpg",
+            "https://whc.unesco.org/document/175086/site_0854_0049.jpg",
+            "https://whc.unesco.org/document/175087/site_0854_0050.jpg",
+            "https://whc.unesco.org/document/175088/site_0854_0051.jpg",
+            "https://whc.unesco.org/document/175089/site_0854_0052.jpg",
+            "https://whc.unesco.org/document/175090/site_0854_0053.jpg",
+            "https://whc.unesco.org/document/175091/site_0854_0054.jpg",
+            "https://whc.unesco.org/document/175092/site_0854_0055.jpg",
+            "https://whc.unesco.org/document/175093/site_0854_0056.jpg",
+            "https://whc.unesco.org/document/175094/site_0854_0057.jpg",
+            "https://whc.unesco.org/document/175095/site_0854_0058.jpg",
+            "https://whc.unesco.org/document/175096/site_0854_0059.jpg",
+            "https://whc.unesco.org/document/175097/site_0854_0060.jpg",
+            "https://whc.unesco.org/document/175098/site_0854_0061.jpg"
+          ],
+          "count": 45
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "East Rennell",
+            "ref": "854",
+            "latitude": -11.68333,
+            "longitude": 160.33333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/854",
+        "unesco_documents": "https://whc.unesco.org/en/list/854/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/854/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/854/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 27,
+        "inscription_year": 1998
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "East Rennell East Rennell makes up the southern third of Rennell Island, the southernmost island in the Solomon Island group in the western Pacific. Rennell, 86 km long x 15 km wide, is the largest raised coral atoll in the world. The site includes approximately 37,000 ha and a marine area extending 3 nautical miles to sea. A major feature of the island is Lake Tegano, which was the former lagoon on the atoll. The lake, the largest in the insular Pacific (15,500 ha), is brackish and contains many rugged limestone islands and endemic species. Rennell is mostly covered with dense forest, with a canopy averaging 20 m in height. Combined with the strong climatic effects of frequent cyclones, the site is a true natural laboratory for scientific study. The site is under customary land ownership and management. East Rennell makes up the southern third of Rennell Island, the southernmost island in the Solomon Island group in the western Pacific. Rennell, 86 km long x 15 km wide, is the largest raised coral atoll in the world. The site includes approximately 37,000 ha and a marine area extending 3 nautical miles to sea. A major feature of the island is Lake Tegano, which was the former lagoon on the atoll. The lake, the largest in the insular Pacific (15,500 ha), is brackish and contains many rugged limestone islands and endemic species. Rennell is mostly covered with dense forest, with a canopy averaging 20 m in height. Combined with the strong climatic effects of frequent cyclones, the site is a true natural laboratory for scientific study. The site is under customary land ownership and management. Solomon Islands Asia and the Pacific Natural"
+    }
+  ]
+}

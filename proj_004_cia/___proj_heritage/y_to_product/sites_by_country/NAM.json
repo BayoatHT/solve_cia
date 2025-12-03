@@ -1,0 +1,344 @@
+{
+  "country": {
+    "code": "NAM",
+    "name": "Namibia"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "twyfelfontein_or_ui_aes",
+      "uuid": "1ce57a06-62d9-5bab-8504-2dbe112bcded",
+      "unesco_id": "1255",
+      "names": {
+        "en": "Twyfelfontein or /Ui-//aes",
+        "fr": "Twyfelfontein ou /Ui-//aes",
+        "es": "Twyfelfontein o /Ui-//aes (Namibia)",
+        "ru": "Твифелфонтейн или /Ui-//aes",
+        "ar": "تويفلفونتين",
+        "zh": "推菲尔泉岩画"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NAM": {
+            "name": "Namibia",
+            "iso2": "NA",
+            "iso3": "NAM"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Twyfelfontein or /Ui-//aes has one of the largest concentrations of ... petroglyphs, i.e. rock engravings in Africa. Most of these well-preserved engravings represent rhinoceros, . The site also includes six painteelephant, ostrich and giraffe, as well as drawings of human and animal footprintsd rock shelters with motifs of human figures in red ochre. The objects excavated from two sections, date from the Late Stone Age. The site forms a coherent, extensive and high-quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years, and eloquently illustrates the links between the ritual and economic practices of hunter-gatherers.",
+          "fr": "Twyfelfontein possède l’une des plus importantes concentrations gravures sur roche d’Afrique. La plupart de ces œuvres bien préservées représentent des rhinocéros, des éléphants, des autruches et des girafes, ainsi que des empreintes de pas d’hommes et d’animaux. Le bien comprend également six abris sous roche décorés de représentations humaines peintes à l’ocre rouge. Les vestiges mis au jour dans deux parties du site ont été datés de la fin de l’âge de pierre. Le site forme un ensemble cohérent, d’envergure et de qualité qui témoigne des pratiques rituelles des communautés de chasseurs-cueilleurs dans cette partie d’Afrique australe pendant au moins deux millénaires ; il illustre de façon éloquente les liens entre les pratiques rituelles et économiques des chasseurs-cueilleurs.",
+          "es": "En Twyfelfontein se puede encontrar una de las mayores concentraciones de petroglifos de todo el continente africano. La mayoría de ellos se hallan en buen estado de conservación y representan rinocerontes, elefantes, avestruces y jirafas, así como huellas de pisadas de hombres y animales. El sitio posee además seis refugios en la roca ornados con pinturas de ocre rojo que representan figuras humanas. Los vestigios hallados en las dos áreas del sitio datan del final de la Edad de Piedra. El sitio forma un conjunto coherente de gran envergadura y calidad, que atestigua las prácticas rituales de las poblaciones de cazadores-recolectores en esta región del África Meridional por espacio de veinte siglos por lo menos. Además, es un testimonio elocuente de los vínculos entre las prácticas rituales y las actividades económicas de esas poblaciones.",
+          "ru": "В Твифелфонтейне сосредоточено самое крупное в Африке собрание наскальных рисунков, а точнее вырезов в горной породе. На территории объекта расположены шесть укрытий, проделанных в скале, на стенах которых красной охрой изображены человеческие фигурки. Обнаруженные находки (археологические раскопки проводятся в двух отдельных местах), такие как, каменные предметы, бусы из скорлупы страусиных яиц, подвески из кристаллического сланца, относятся к позднему периоду каменного века. Рисунки составляют единое по содержанию, разнообразное и исчерпывающее свидетельство о ритуальных обычаях племен охотников-собирателей в этой части Южной Африки, относящееся к, по меньшей мере, двум тысячелетиям их истории.",
+          "ar": "تتمتع تويفلفونتين بإحدى أكبر مجموعات النقوش الصخرية في أفريقيا. وقد أحصي حتى الآن أكثر من ألفين منها، معظمها في حالة حفظ جيدة ويمثل حيوانات عدة كوحيد القرن والفيل والنعامة والزرافة، فضلاً عن رسوم لآثار أقدام بشرية وحيوانية. كما تشمل الملكية ستة ملتجآت صخرية تحوي رسوماً بالمغرة الحمراء لأشكال إنسانية. وتضم القطع المستخرَجة من جزأين مختلفين من الملكية قطعاً حجرية وقشوراً لبيض النعامة، وقطع حلي مصنوعة من الصخر المتبلر، ترقى جميعها إلى العصر الحجري الحديث. لكن الرسوم التي تمثل بشراً أو طيوراً تبقى نادرة وتقول إحدى النظريات إنها تعكس طقوساً خاصة مرتبطة بتحول البشر إلى حيوانات. وعلى سبيل المثال، تظهر النعامات ماشية في صف واحد وهي تبسط أجنحتها فيما يشبه رقصة خاصة بتلك الطقوس، كما أن الزرافات تقف إلى جانب آثار أقدام بشرية. أما المثال الأبرز، فهو الرجل الأسد، الذي يمثل أسداً بخمسة أصابع أقدام على كل مخلب. وتوحي هذه الصور بأن الفن المنحوت في الصخر كان مرتبطاً بنظام معتقدات الصيادين الذين كانوا يسيطرون على المنطقة إلى حين وصول رعاة الماشية عام 1000 م. ويشكل الموقع مثالاً متكاملاً وعالي النوعية للطقوس والممارسات التي كانت معتمدة في المجتمعات التي تعيش من أنشطة الصيد والقطف في هذا الجزء من جنوب أفريقيا على مدى ألفي عام على الأقل، ويلقي الضوء أخيراً على الصلات القائمة بين الطقوس والممارسات الاقتصادية للصيادين.الهوية المحفورة في الصخر رسالة اليونسكو (2007)",
+          "zh": "推菲尔泉是世界最大的岩刻画集中地，即非洲岩刻。迄今为止已记载有2000多幅图画。大多数保存完好的岩刻是犀牛、大象、驼鸟和长颈鹿，以及人和动物的脚印画。该遗产还包括六个绘有图画的岩石庇护处，在红赭石上刻有以人为主题的图画。这些岩刻是从两处遗产中挖掘出来的，包括来自石器时代晚期的石材工艺品、鸵鸟蛋壳珠和片岩吊坠。人或飞鸟很少见，据认为雕刻这些图形是说明人变成动物的礼仪。最有名的例子是“狮人”，一个狮子每个脚爪上有五个脚趾头。该雕刻说明岩刻艺术与狩猎采集者的信仰体系相关，这些狩猎采集者在牧民们约公元1000年到来时占据着该地区。该遗址连贯、广泛、高质量地记录了至少2000多年间南美这块土地与狩猎采集者社区相关的礼仪习俗，而且它令人信服地说明了狩猎采集者的礼仪和经济习俗之间的联系。这是纳米比亚第一个列入《世界遗产名录》的遗址。"
+        },
+        "full": "Twyfelfontein or /Ui-//aes has one of the largest concentrations of ... petroglyphs, i.e. rock engravings in Africa. Most of these well-preserved engravings represent rhinoceros, . The site also includes six painteelephant, ostrich and giraffe, as well as drawings of human and animal footprintsd rock shelters with motifs of human figures in red ochre. The objects excavated from two sections, date from the Late Stone Age. The site forms a coherent, extensive and high-quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years, and eloquently illustrates the links between the ritual and economic practices of hunter-gatherers.",
+        "justification": "The rock art forms a coherent, extensive and high quality record of ritual practices relating to hunter-gather communities in this part of southern Africa over at least two millennia and, eloquently reflects the links between ritual and economic practices of hunter-gatherers in terms of the value of reliable water sources in nurturing communities on a seasonal basis. Criterion (iii): The rock art engravings and paintings in Twyfelfontein form a coherent, extensive and high quality record of ritual practices relating to hunter-gather communities in this part of southern Africa over at least two millennia. Criterion (v): The rock art reflects links between ritual and economic practices in the apparent sacred association of the land adjacent to an aquifer as a reflection of its role in nurturing hunter-gather communities over many millennia. The integrity of the property is generally intact. The Twyfelfontein Country Lodge was permitted by the Conservancy in 1999/2000 within the Seremonienplatz rock engraving site in the buffer zone. This has severely compromised the integrity of the rock engravings in this area. All the rock engravings and rock paintings within the core area are without doubt the authentic work of San hunter-gatherers who lived in the region long before the influx of Damara herders and European colonists. The setting of the Twyfelfontein rock art is also authentic as other than one small engraved panel which was removed to the National Museum in Windhoek in the early part of the 20th century, no panels have been moved or re-arranged. The core area was designated a national monument in 1948 and is now protected by the National Heritage Act 2004. A buffer zone has been established and proclaimed. The overall state of conservation of the property has improved over the past few years, particularly in terms of the way visitors are managed. Implementation of the Management plan began in 2005."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 57.4269,
+          "square_km": 0.57,
+          "square_miles": 0.232,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/bfecfed379213a46891357066d1b222a",
+          "filename": "site_1255_0001.jpg",
+          "dimensions": {
+            "width": 350,
+            "height": 230
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114269/site_1255_0001.jpg",
+            "https://whc.unesco.org/document/114271/site_1255_0002.jpg",
+            "https://whc.unesco.org/document/114272/site_1255_0003.jpg",
+            "https://whc.unesco.org/document/114274/site_1255_0004.jpg",
+            "https://whc.unesco.org/document/114276/site_1255_0005.jpg",
+            "https://whc.unesco.org/document/114278/site_1255_0006.jpg",
+            "https://whc.unesco.org/document/114280/site_1255_0007.jpg"
+          ],
+          "count": 7
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Twyfelfontein or /Ui-//aes",
+            "ref": "1255",
+            "latitude": -20.597,
+            "longitude": 14.376
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1255",
+        "unesco_documents": "https://whc.unesco.org/en/list/1255/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1255/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1255/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Twyfelfontein or /Ui-//aes Twyfelfontein or /Ui-//aes has one of the largest concentrations of ... petroglyphs, i.e. rock engravings in Africa. Most of these well-preserved engravings represent rhinoceros, . The site also includes six painteelephant, ostrich and giraffe, as well as drawings of human and animal footprintsd rock shelters with motifs of human figures in red ochre. The objects excavated from two sections, date from the Late Stone Age. The site forms a coherent, extensive and high-quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years, and eloquently illustrates the links between the ritual and economic practices of hunter-gatherers. Twyfelfontein or /Ui-//aes has one of the largest concentrations of ... petroglyphs, i.e. rock engravings in Africa. Most of these well-preserved engravings represent rhinoceros, . The site also includes six painteelephant, ostrich and giraffe, as well as drawings of human and animal footprintsd rock shelters with motifs of human figures in red ochre. The objects excavated from two sections, date from the Late Stone Age. The site forms a coherent, extensive and high-quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years, and eloquently illustrates the links between the ritual and economic practices of hunter-gatherers. Namibia Africa Cultural"
+    },
+    {
+      "site_key": "namib_sand_sea",
+      "uuid": "9290168c-3a9f-5da6-8324-79a1519ef9be",
+      "unesco_id": "1430",
+      "names": {
+        "en": "Namib Sand Sea",
+        "fr": "Erg du Namib",
+        "es": "Arenal de Namib",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NAM": {
+            "name": "Namibia",
+            "iso2": "NA",
+            "iso3": "NAM"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. Covering an area of over three million hectares and a buffer zone of 899,500 hectares, the site is composed of two dune systems, an ancient semi-consolidated one overlain by a younger active one. The desert dunes are formed by the transportation of materials thousands of kilometres from the hinterland, that are carried by river, ocean current and wind. It features gravel plains, coastal flats, rocky hills, inselbergs within the sand sea, a coastal lagoon and ephemeral rivers, resulting in a landscape of exceptional beauty. Fog is the primary source of water in the site, accounting for a unique environment in which endemic invertebrates, reptiles and mammals adapt to an ever-changing variety of microhabitats and ecological niches.",
+          "fr": "Le site qui s’étend sur plus de trois millions d’ha. - plus une zone tampon de 899 500 ha. - est le seul désert côtier où l’on trouve de vastes champs de dunes de sable sous l’influence du brouillard. L’Erg est composé de deux systèmes dunaires, un système ancien semi-consolidé sur lequel se superpose un système plus jeune et plus actif. L’endroit est exceptionnel car les dunes sont constituées de matériaux venus de loin, transportés depuis l’intérieur de l’Afrique australe par les cours d’eau, les courants océaniques et le vent. Le site comprend également des plaines de gravier, des cuvettes côtières, des collines rocheuses, des inselbergs à l’intérieur de l’erg, un lagon côtier, des cours d’eau éphémères, le tout formant un paysage d’une beauté exceptionnelle. Le brouillard est ici la principale source d’eau, contribuant à un environnement, unique à une telle échelle, où invertébrés, reptiles et mammifères endémiques s’adaptent à une grande variété de micro-habitats et de niches écologiques toujours changeantes.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. Covering an area of over three million hectares and a buffer zone of 899,500 hectares, the site is composed of two dune systems, an ancient semi-consolidated one overlain by a younger active one. The desert dunes are formed by the transportation of materials thousands of kilometres from the hinterland, that are carried by river, ocean current and wind. It features gravel plains, coastal flats, rocky hills, inselbergs within the sand sea, a coastal lagoon and ephemeral rivers, resulting in a landscape of exceptional beauty. Fog is the primary source of water in the site, accounting for a unique environment in which endemic invertebrates, reptiles and mammals adapt to an ever-changing variety of microhabitats and ecological niches.",
+        "justification": "Brief Synthesis The Namib Sand Sea lies along the arid African coast of the South Atlantic lying wholly within Namibia’s Namib-Naukluft Park. It covers an area of 3,077,700 hectares, with an additional 899,500 hectares designated as a buffer zone. The Namib Sand Sea is a unique coastal fog desert encompassing a diverse array of large, shifting dunes. It is an outstanding example of the scenic, geomorphological, ecological and evolutionary consequences of wind-driven processes interacting with geology and biology. The sand sea includes most known types of dunes together with associated landforms such as inselbergs, pediplains, and playas, formed through aeolian depositional processes. It is a place of outstanding natural beauty where atmospheric conditions provide exceptional visibility of landscape features by day and the dazzling southern hemisphere sky at night. Life in the fog-bathed coastal dunes of the Namib Sand Sea is characterised by very rare behavioural, morphological and physiological adaptations that have evolved throughout its specialist communities. The large number of endemic plants and animals are globally-important examples of evolution and the resilience of life in extreme environments. Criterion (vii):The property is the world’s only coastal desert that includes extensive dune fields influenced by fog. This alone makes it exceptional at a global scale, but it also represents a superlative natural phenomenon on account of the three-part ‘conveyor system’ which has produced the massive dune field from material transported over thousands of kilometres from the interior of the African continent by river erosion, ocean currents and wind. Most dune fields elsewhere in the world are derived from bedrock eroded in situ. The age, extent and height of the dunes are outstanding and the property also exhibits a range of features that give it exceptional aesthetic qualities. The diversity of dune formations, their ever-changing form and the range of colour and texture create landscapes of outstanding natural beauty. Criterion (viii): The property represents an exceptional example of ongoing geological processes involving the formation of the world’s only extensive dune system in a coastal fog desert through transport of material over thousands of kilometres by river, ocean current and wind. Although the nominated area encompasses only the Aeolian elements of this ongoing geological process the other elements of the ‘conveyor system’ are assured. The diversity of the ever-changing dune formations, sculpted by pronounced daily and seasonal changes in dominant wind directions is also exceptional at a global scale within such a relatively small area. Criterion (ix): The property is an exceptional example of ongoing ecological process in a coastal fog desert where plant and animal communities are continuously adapting to life in a hyper arid environment. Fog serves as the primary source of water and this is harvested in extraordinary ways while the ever-mobile wind-blown dunes provide an unusual substrate in which well-oxygenated subsurface sand offers respite and escape for ‘swimming’ and ‘diving’ invertebrates, reptiles and mammals. The outstanding combination and characteristics of the physical environment – loose sand, variable winds and fog gradients across the property – creates an ever-changing variety of micro-habitats and ecological niches that is globally unique on such a scale. Criterion (x): The property is of outstanding importance for the in-situ conservation of an unusual and exceptional array of endemic species uniquely adapted to life in a hyper-arid desert environment in which fog serves as the primary source of water. These are mostly invertebrate animals and display a range of very rare behavioural and physiological adaptations to the desert environment where they live that contributes significantly to the property’s OUV. Integrity The boundaries of the property encompass all the elements of the Namib Sand Sea that exemplify its Outstanding Universal Values. These elements are well conserved and included at a scale appropriate to maintaining ongoing dynamic processes. The large size of the area (30,777 km2) ensures that all the active and underlying (fossilized) dune formations and features, causative processes and ancillary habitats are included. The extensive dune-scapes are unspoilt and continuously refreshed and maintained by wholly natural processes. Because of its vast size, difficulty of access and current management within the protected Namib-Naukluft Park (49,768 km2), the Namib Sand Sea is well conserved and in an excellent, undamaged state. Permanent visitor and management infrastructure is non-existent within the boundaries of the property and visitation is restricted to small, temporary point locations that have no measurable effect on the area. Protection and management requirements The Namib Sand Sea has been under conservation management for more than 50 years with well-established management and resource allocation systems, based on regularly revised and updated management plans and long-term budgetary planning. Prior to establishment of conservation management, the area was protected for its potential as a diamond-mining area, but this was never realised. Key management issues today include managing the increasing demand for visitor access to pristine areas and precluding mineral exploration rights that would impact on the values and attributes of the area. There is potential for serial extension of the Namib Sand Sea beyond the Namib-Naukluft Park and beyond national borders to include other significant dune systems within other protected areas of the larger Namib Desert."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(vii)(viii)(ix)(x)",
+          "count": 4,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 3077700,
+          "square_km": 30777.0,
+          "square_miles": 12455.029,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2013,
+          "all_dates": [
+            2013
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2013,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3176dd040d53f30ba77fca837e5bdb62",
+          "filename": "site_1430_0002-500-0-20221005163538.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 753
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/123187/site_1430_0002.jpg",
+            "https://whc.unesco.org/document/133530/site_1430_0010.jpg",
+            "https://whc.unesco.org/document/123186/site_1430_0001.jpg",
+            "https://whc.unesco.org/document/123188/site_1430_0003.jpg",
+            "https://whc.unesco.org/document/123189/site_1430_0004.jpg",
+            "https://whc.unesco.org/document/123190/site_1430_0005.jpg",
+            "https://whc.unesco.org/document/123191/site_1430_0006.jpg",
+            "https://whc.unesco.org/document/123192/site_1430_0007.jpg",
+            "https://whc.unesco.org/document/123193/site_1430_0008.jpg",
+            "https://whc.unesco.org/document/133531/site_1430_0011.jpg",
+            "https://whc.unesco.org/document/133532/site_1430_0012.jpg",
+            "https://whc.unesco.org/document/133533/site_1430_0013.jpg",
+            "https://whc.unesco.org/document/133534/site_1430_0014.jpg",
+            "https://whc.unesco.org/document/133535/site_1430_0015.jpg",
+            "https://whc.unesco.org/document/133544/site_1430_0017.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Namib Sand Sea",
+            "ref": "1430",
+            "latitude": -24.8852777778,
+            "longitude": 15.4077777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1430",
+        "unesco_documents": "https://whc.unesco.org/en/list/1430/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1430/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1430/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 12,
+        "inscription_year": 2013
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Namib Sand Sea Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. Covering an area of over three million hectares and a buffer zone of 899,500 hectares, the site is composed of two dune systems, an ancient semi-consolidated one overlain by a younger active one. The desert dunes are formed by the transportation of materials thousands of kilometres from the hinterland, that are carried by river, ocean current and wind. It features gravel plains, coastal flats, rocky hills, inselbergs within the sand sea, a coastal lagoon and ephemeral rivers, resulting in a landscape of exceptional beauty. Fog is the primary source of water in the site, accounting for a unique environment in which endemic invertebrates, reptiles and mammals adapt to an ever-changing variety of microhabitats and ecological niches. Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. Covering an area of over three million hectares and a buffer zone of 899,500 hectares, the site is composed of two dune systems, an ancient semi-consolidated one overlain by a younger active one. The desert dunes are formed by the transportation of materials thousands of kilometres from the hinterland, that are carried by river, ocean current and wind. It features gravel plains, coastal flats, rocky hills, inselbergs within the sand sea, a coastal lagoon and ephemeral rivers, resulting in a landscape of exceptional beauty. Fog is the primary source of water in the site, accounting for a unique environment in which endemic invertebrates, reptiles and mammals adapt to an ever-changing variety of microhabitats and ecological niches. Namibia Africa Natural"
+    }
+  ]
+}

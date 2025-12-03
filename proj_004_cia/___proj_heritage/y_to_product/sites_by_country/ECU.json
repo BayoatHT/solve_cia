@@ -1,0 +1,1747 @@
+{
+  "country": {
+    "code": "ECU",
+    "name": "Ecuador"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "city_of_quito",
+      "uuid": "db4bf14e-622b-5fc5-8bda-50f10dd18562",
+      "unesco_id": "2",
+      "names": {
+        "en": "City of Quito",
+        "fr": "Ville de Quito",
+        "es": "Ciudad de Quito",
+        "ru": "Город Кито",
+        "ar": "مدينة كيتو",
+        "zh": "基多旧城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art.",
+          "fr": "Fondée au XVIe siècle sur les ruines d'une cité inca à 2 850 m d'altitude, la capitale de l'Équateur possède toujours, malgré le tremblement de terre de 1917, le centre historique le mieux préservé et le moins modifié d'Amérique latine. Les monastères San Francisco et Santo Domingo, l'église et le collège jésuite de La Compañía, avec leurs riches décorations intérieures, sont des exemples parfaits de l'« école baroque de Quito », mélange d'art espagnol, italien, mauresque, flamand et indien.",
+          "es": "Fundada en el siglo XVI sobre las ruinas de una antigua ciudad inca y encaramada a 2.850 metros de altitud, la capital de Ecuador posee el centro histórico mejor conservado y menos alterado de toda América Latina, a pesar del terremoto que la sacudió en 1917. Suntuosamente ornamentados en su interior, los monasterios de San Francisco y Santo Domingo, así como la iglesia y el colegio de la Compañía de Jesús, son un acabado ejemplo del arte de la escuela barroca de Quito, en el que se funden las influencias estéticas españolas, italianas, mudéjares, flamencas e indígenas.",
+          "ru": "Столица Эквадора Кито была основана в XVI в. на руинах древнего города инков на высоте 2850 м. Несмотря на землетрясение 1917 г., исторический центр Кито является наиболее сохранившимся городом Латинской Америки. Монастыри Сан-Франциско и Санто-Доминго, церковь и колледж иезуитов Ла-Компанья с богатыми интерьерами – все это наглядные примеры барочной школы Кито, которая является сплавом испанского, итальянского, мавританского, фламандского и местного искусства.",
+          "ar": "تأسست عاصمة الإكوادور في القرن السادس عشر على أنقاض إحدى مدن حضارة الإنكا على ارتفاع 2850 متراً وفيها، على الرغم من زلزال العام 1917م،ّ الوسط التاريخي الأفضل حفظاً والأقل تغيّراً في أمريكا اللاتينيّة. وتشكّل أديرة سان فرانسيسكو وسانتو دومينيغو والكنيسة ودير لا كومبانيا اليسوعي بزخارفها الداخليّة الجميلة خير مثال على مدرسة كيتو ذات الطراز الباروكي وهي مزيج بين الفنّ الإسباني والإيطالي والمغربي/الأندلسي والفلمندي والهندي.",
+          "zh": "厄瓜多尔的首都基多城海拔2850米，是在16世纪一个印加城市的废墟上建立起来的。尽管历经了1917年的地震，基多仍然是拉丁美洲保存最好、变化最小的历史中心。圣弗朗西斯修道院和圣多明各修道院，拉孔帕尼亚的教堂和耶酥会学院，连同这些建筑华丽的内部装饰都成为了“基多巴洛克风格”的纯正典范，完美地融合了西班牙、意大利、摩尔人式、佛兰德和当地艺术。"
+        },
+        "full": "Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art.",
+        "justification": "Brief synthesis Isolated in the Andes at 2,818 m. altitude, the city of Quito is spread along the slopes of the Pichincha Volcano and is bordered by the hills of Panecillo and Ichimbia. Founded by the Spanish in 1534, on the ruins of an Inca city, Quito proudly possesses one of the most extensive and best-preserved historic centres of Spanish America.The city offers a remarkable example of the Baroque school of Quito (Escuela Quitena), that brings together the indigenous and European artistic traditions and which is renowned for providing the greatest contribution of Spanish America to universal art. The height of this art is represented by veritable spiritual citadels, among which are San Francisco, San Domingo, San Augustin, La Compana, La Merced, the Sanctuary of Guapulco and the Recoleta of San Diego, to name just the principal ones. These are recognized not only for their artistic value from the architectural viewpoint but also for their decorative elements (altarpieces, paintings, sculptures).The city of Quito forms a harmonious ensemble where nature and man are brought together to create a unique and transcendental work. The colonizers knew how to adapt their artistic sensibility to the reality that surrounded them, building their architecture in a very complex topographical environnent. Despite this, the architects were able to confera stylistic and volumetric harmony to the ensemble. The urban routes are based on the original plan and include central and secondary squares as well as checkerboard-patterned streets and are aligned on the cardinal points of the compass. In the city centre, there are convents and churches as well as houses (1 or 2 floors with one or several patios), usually built with earthen bricks and covered with stucco, combining the monumental with the simple and austere.The city of Quito, the cradle of Pre-Colombian cultures and an important witness of Spanish colonization maintains, for the time being unity and harmony in its urban structure despite centuries of urban development.Elevated to the title of capital of the Audience of Quito, it assumed the political direction and patronal control over the villages and towns. This is the maximum representation of the step towards forming socio-economic development, creator of a true national idiosyncrasy expressed through its unique tangible and intangible heritage. Criterion (ii): The influence of the Baroque school of Quito (Escuela Quitena) was recognized in the cultural domain, especially art – architecture, sculpture and painting – in all the cities of the Audencia, and even in those of the neighbouring Audencia. Criterion (iv): Quito forms a harmonious sui generis where the actions of man and nature come together, to create a unique and transcendental work of its kind. Integrity The great majority of attributes upon which the Outstanding Universal Value of the City of Quito is based are present and intact. The Historic Centre of Quito has conserved its original configuration, new constructions being built outside of the colonial centre. Indeed, based on the first plan of Quito designed in 1734 by Dionisio Alcedo y Herrera, one notes that the original plan of the streets, the blocks of houses and squares – with a few rare exceptions – is the same can be seen today.Despite numerous earthquakes that have affected it over the course of history, the city conserves the least modified historic centre of all Latin America because of the concerted action of the Municipal authorities of the Metropolitan District of Quito and the Ecuadorean government. Authenticity In general, the urban plan and its integration into the landscape may be considered as entirely authentic because the original generic form has remained unaltered and the Plaza Mayor (Main Square) has developed organically with very few changes.The preservation of traditional trades, the contributions of craftsmen holders of ancient know-how and the use of local materials (stone, lime, mud and wood) make it possible to maintain the significant characteristics of the different architectonic components and their decorative elements. Protection and management requirements With regard to the legal domain, aspects relating to the protection and safeguarding of cultural heritage are considered in the Constitution of the State, in the Law and Regulations for Cultural Heritage, in the Code of Territorial Organization, Autonomy and Decentralisation (COTAD) and in the Law on Culture which is awaiting approval. The National Institute for Cultural Heritage (INPC) delegates to local governments competences such as the protection and safeguarding of cultural heritage, while reserving the right of control.The management tools available to the Municipality of the Metropolitan District of Quito are the Territorial Urban Development Plan, the special plan for the Historic Centre of Quito and annual operational plans.These management tools are planned by the Territorial and Housing Secretariat, while their implementation is the responsibility of the Metropolitan Municipality through the Secretariat of Culture of the Municipality, the Metropolitan Institute of Culture (formerly the Safeguarding Fund for Cultural Heritage), the Administration Zone Centre, the Municipal Development Enterprise and the Commission for Historic Zones, which is the legislator body for the Historic Centre of Quito.The buffer zone of the Historic Centre as well as its monumental zone share the same legislation that applies to both the conservation and management of the property. These two zones are clearly marked and are covered by specific protection measures. The measures developed to counterbalance the threats and risks affecting the site (earthquakes, volcanic eruptions, parking and traffic problems in the historic zone, etc.) are covered by the Territorial Urban Development Plan and the Special Plan for the Historic Centre of Quito. The Environmental Drainage Programme aims to mitigate land slides and control erosion caused by rainwater, especially during the winter. The revision and application of the collector system for the historic centre has diminished the risks caused by an eruption of the Pichincha Volcano and the overflowing of existing water sources. The boundary of permitted construction zones and the control of illegal constructions on the slopes of Pichincha Volcano aim to lessen the risks for the historic centre and its population. The revision of the transport system and traffic in the Metropolitan District of Quito has led to the introduction of measures to lessen the negative impacts on the historic centre: restriction of the number of public transport lines; installation of a programme of pedestrian streets and bicycle corridors, creation of parking areas in strategic parts of the historic centre.The importance of measures such as the control of use and activities within the historic centre, the revitalization of public areas that, in 2003, greatly contributed to the conservation of the site and the improvement of the quality of life of its inhabitants, must also be emphasized."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 70.43,
+          "square_km": 0.7,
+          "square_miles": 0.285,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1978,
+          "all_dates": [
+            1978
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1978,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/fbdcd8b9fa9e11213bc2ee9ce6c31037",
+          "filename": "site_0002_0018-500-0-20250108171943.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 334
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107461/site_0002_0018.jpg",
+            "https://whc.unesco.org/document/107462/site_0002_0019.jpg",
+            "https://whc.unesco.org/document/107463/site_0002_0020.jpg",
+            "https://whc.unesco.org/document/107464/site_0002_0021.jpg",
+            "https://whc.unesco.org/document/107465/site_0002_0022.jpg",
+            "https://whc.unesco.org/document/107466/site_0002_0023.jpg",
+            "https://whc.unesco.org/document/107467/site_0002_0024.jpg",
+            "https://whc.unesco.org/document/120717/site_0002_0025.jpg",
+            "https://whc.unesco.org/document/125544/site_0002_0031.jpg",
+            "https://whc.unesco.org/document/139391/site_0002_0044.jpg",
+            "https://whc.unesco.org/document/139392/site_0002_0045.jpg",
+            "https://whc.unesco.org/document/139393/site_0002_0046.jpg",
+            "https://whc.unesco.org/document/139394/site_0002_0047.jpg",
+            "https://whc.unesco.org/document/139395/site_0002_0048.jpg",
+            "https://whc.unesco.org/document/107444/site_0002_0001.jpg",
+            "https://whc.unesco.org/document/107445/site_0002_0002.jpg",
+            "https://whc.unesco.org/document/107446/site_0002_0003.jpg",
+            "https://whc.unesco.org/document/107447/site_0002_0004.jpg",
+            "https://whc.unesco.org/document/107448/site_0002_0005.jpg",
+            "https://whc.unesco.org/document/107449/site_0002_0006.jpg",
+            "https://whc.unesco.org/document/107450/site_0002_0007.jpg",
+            "https://whc.unesco.org/document/107451/site_0002_0008.jpg",
+            "https://whc.unesco.org/document/107452/site_0002_0009.jpg",
+            "https://whc.unesco.org/document/107453/site_0002_0010.jpg",
+            "https://whc.unesco.org/document/107454/site_0002_0011.jpg",
+            "https://whc.unesco.org/document/107456/site_0002_0013.jpg",
+            "https://whc.unesco.org/document/107457/site_0002_0014.jpg",
+            "https://whc.unesco.org/document/107458/site_0002_0015.jpg",
+            "https://whc.unesco.org/document/125539/site_0002_0026.jpg",
+            "https://whc.unesco.org/document/125540/site_0002_0027.jpg",
+            "https://whc.unesco.org/document/125541/site_0002_0028.jpg",
+            "https://whc.unesco.org/document/125542/site_0002_0029.jpg",
+            "https://whc.unesco.org/document/132311/site_0002_0032.jpg",
+            "https://whc.unesco.org/document/132312/site_0002_0033.jpg",
+            "https://whc.unesco.org/document/132313/site_0002_0034.jpg",
+            "https://whc.unesco.org/document/132315/site_0002_0036.jpg",
+            "https://whc.unesco.org/document/132318/site_0002_0039.jpg",
+            "https://whc.unesco.org/document/132319/site_0002_0040.jpg",
+            "https://whc.unesco.org/document/139396/site_0002_0049.jpg",
+            "https://whc.unesco.org/document/139397/site_0002_0050.jpg",
+            "https://whc.unesco.org/document/139398/site_0002_0051.jpg",
+            "https://whc.unesco.org/document/139399/site_0002_0052.jpg",
+            "https://whc.unesco.org/document/139400/site_0002_0053.jpg",
+            "https://whc.unesco.org/document/139401/site_0002_0054.jpg",
+            "https://whc.unesco.org/document/139402/site_0002_0055.jpg",
+            "https://whc.unesco.org/document/139403/site_0002_0056.jpg"
+          ],
+          "count": 46
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "City of Quito",
+            "ref": "2",
+            "latitude": -0.22,
+            "longitude": -78.5120833333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/2",
+        "unesco_documents": "https://whc.unesco.org/en/list/2/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/2/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/2/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 47,
+        "inscription_year": 1978
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "City of Quito Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art. Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art. Ecuador Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "qhapaq_nan_andean_road_system",
+      "uuid": "2f179b38-86d7-533e-8e4a-36ab67985b06",
+      "unesco_id": "1459",
+      "names": {
+        "en": "Qhapaq Ñan, Andean Road System",
+        "fr": "Qhapaq Ñan, réseau de routes andin",
+        "es": "Qhapaq Ñan - Sistema vial andino",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PER": {
+            "name": "Peru",
+            "iso2": "PE",
+            "iso3": "PER"
+          },
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          },
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          },
+          "COL": {
+            "name": "Colombia",
+            "iso2": "CO",
+            "iso3": "COL"
+          },
+          "ARG": {
+            "name": "Argentina",
+            "iso2": "AR",
+            "iso3": "ARG"
+          },
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": true,
+        "country_count": 6
+      },
+      "descriptions": {
+        "short": {
+          "en": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+          "fr": "Ce grand réseau de routes de communication, de commerce et de défense parcourt plus de 30 000 km. Construit par les Incas sur plusieurs siècles et en partie basé sur une infrastructure préinca, ce réseau extraordinaire traversant l’un des terrains géographiques les plus difficiles du monde relie les sommets enneigés des Andes (à plus de 6 000 m) à la côte en passant par des forêts tropicales humides, des vallées fertiles et des déserts. Le Qhapac Ñan qui a atteint son extension maximale au XVe siècle s’étendait sur toute la longueur et la largeur des Andes. Le bien comprend 273 sites individuels s’étendant sur plus de 6 000 km. Ils ont été choisis pour illustrer les réalisations architecturales, techniques, politiques, sociales du réseau ainsi que son infrastructure associée, destinée au commerce, à l’hébergement et au stockage des marchandises, et des sites d’importance religieuse.",
+          "es": "Se trata de una vasta red viaria de unos 30.000 kilómetros construida a lo largo de varios siglos por los incas –aprovechando en parte infraestructuras preincaicas ya existentes– con vistas a facilitar las comunicaciones, los transportes y el comercio, y también con fines defensivos. Este extraordinario sistema de caminos se extiende por una de las zonas geográficas del mundo de mayores contrastes, desde las cumbres nevadas de los Andes que se yerguen a más de 6.000 metros de altitud hasta la costa del Pacífico, pasando por bosques tropicales húmedos, valles fértiles y desiertos de aridez absoluta. La red viaria alcanzó su máxima expansión en el siglo XV, llegando a extenderse por todo lo largo y ancho de la cordillera andina. El nuevo sitio del patrimonio mundial, que consta de 274 componentes y se extiende a lo largo de más de 5.000 kilómetros. Los componentes se han seleccionado para poner de relieve la importante función social y política de la red viaria; las obras maestras de arquitectura e ingeniería y las infraestructuras conexas dedicadas a las actividades mercantiles, el alojamiento y el almacenamiento de mercancías; y los sitios con un significado religioso.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+        "justification": "Brief synthesis Qhapaq Ñan, Andean Road System is an extensive Inca communication, trade and defence network of roads and associated structures covering more than 30,000 kilometres. Constructed by the Prehispanic Andean communities over several centuries, the network reached its maximum expansion in the 15th century, during the consolidation of the Tawantinsuyu, when it spread across the length and breadth of the Andes. The network is based on four main routes, which originate from the central square of Cusco, the capital of the Tawantinsuyu. These main routes are connected to several other road networks of lower hierarchy, which created linkages and cross-connections. 137 component areas and 308 associated archaeological sites, covering 616.06 kilometers of the Qhapaq Ñan highlight the achievements of the Incas in architecture and engineering along with its associated infrastructure for trade, storage and accommodation as well as sites of religious significance. The road network was the outcome of a political project implemented by the Incas linking towns and centers of production and worship together under an economic, social and cultural programme in the service of the State. The Qhapaq Ñan, Andean Road System is an extraordinary road network through one of the world’s most extreme geographical terrains used over several centuries by caravans, travellers, messengers, armies and whole population groups amounting up to 40,000 people. It was the lifeline of the Tawantinsuyu, linking towns and centres of production and worship over long distances. Towns, villages and rural areas were thus integrated into a single road grid. Several local communities who remain traditional guardians and custodians of Qhapaq Ñan segments continue to safeguard associated intangible cultural traditions including languages. The Qhapaq Ñan by its sheer scale and quality of the road, is a unique achievement of engineering skills in most varied geographical terrains, linking snow-capped mountain ranges of the Andes, at an altitude of more than 6,600 metres high, to the coast, running through hot rainforests, fertile valleys and absolute deserts. It demonstrates mastery in engineering technology used to resolved myriad problems posed by the Andes variable landscape by means of variable road construction technologies, bridges, stairs, ditches and cobblestone pavings. Criterion (ii): The Qhapaq Ñan exhibits important processes of interchange of goods, communication and cultural traditions within a cultural area of the world which created a vast empire of up to 4,200km in extension at its height in the 15th century. It is based on the integration of prior Andean ancestral knowledge and the specifics of Andean communities and cultures forming a state organizational system that enabled the exchange of social, political and economic values for imperial policy. Several roadside structures provide lasting evidence of valuable resources and goods traded along the network, such as precious metals, muyu (spondylus shell), foodstuffs, military supplies, feathers, wood, coca and textiles transported from the areas where they were collected, produced or manufactured, to Inca centres of various types and to the capital itself. Several communities, who remain custodians of components of this vast Inca communication network, are living reminders of the exchange of cultural values and language. Criterion (iii): The Qhapaq Ñan is an exceptional and unique testimony to the Inca civilization based on the values and principles of reciprocity, redistribution and duality constructed in a singular system of organization called Tawantinsuyu. The road network was the life giving support to the Inca Empire integrated into the Andean landscape. As a testimony to the Inca Empire, it illustrates thousands of years of cultural evolution and was an omnipresent symbol of the Empire’s strength and extension throughout the Andes. This testimony influences the communities along the Qhapaq Ñan until today, in particular with relation to the social fabric of local communities and the cultural philosophies that give meaning to relationships among people and between people and the land. Most importantly, life is still defined by links among close kin and an ethic of mutual support. Criterion (iv): The Qhapaq Ñan, Andean Road System is an outstanding example of a type of technological ensemble which despite the most difficult geographical conditions created a continuous and functioning communication and trade system with exceptional technological and engineering skills in rural and remote settings. Several elements illustrate characteristic typologies in terms of walls, roads, steps, roadside ditches, sewage pipes, drains, etc., with construction methods unique to the Qhapaq Ñan while varying according to location and regional context. Many of these elements were standardized by the Inca State, which allowed for the control of equal conditions along the road network. Criterion (vi): The Qhapaq Ñan played an essential role in the organization of space and society in a wide geographical area along the Andes, where the roads were used as a means to share cultural values with outstanding intangible significance. The Qhapaq Ñan continues today to provide communities with a sense of identity and to enable their cultural practices, cultural expressions and traditional skills to continue to be transmitted from generation to generation. Members of these communities base their own existence on an Andean cosmovision, which is unique in the World. This cosmovision applies to all aspects of everyday life. Today, Qhapaq Ñan is directly associated with the intangible values shared by the communities in the Andean World, such as traditional trade, ritual practices, and the use of ancient technology, among others, which are living traditions and beliefs essential to the cultural identity of the communities concerned. The Andean Road System continues to serve its original functions of integration, communication, exchange and flow of goods and knowledge, and - despite the current modern trade and social changes - keeps its pertinence and importance throughout the centuries and its role as a cultural reference which contributes to reinforcing the identity within the Andean world. Integrity The series of sites inscribed as the best representation of the Qhapaq Ñan is exhaustive and illustrates the variety of typological, functional and communicative elements, which allow for a full understanding of its historic and contemporary role. The number of segments is adequate to communicate the key features of the heritage route, despite the fact that these are fragmented in individual site components, which represent the best preserved segments of the previously continuous road network. For a number of site components the condition of integrity remains vulnerable and it is recommended that the States Parties develop criteria to define minimum intactness in relation to the different technological and architectural categories identified and the different geographical regions and levels of remoteness. According to these criteria, the condition of integrity should be monitored in the future to ensure that intactness can be guaranteed in the long term and that the site components remain free from threats which may reduce the condition of integrity. To ensure that the distinct relations between different sites in terms of continuity despite their fragmentation can be well understood by future visitors, it is recommended that appropriate maps or a GIS system be developed which illustrates the functional and social relations between the different site components and highlights their role in the overall Qhapaq Ñan network. Authenticity The authenticity of the Qhapaq Ñan component sites is very high in that the characteristic features retain their form and design and the variety of specific well-preserved types of architectural and engineering achievements facilitate communication of the overall form and design of the network. The materials used are mainly stone and earth, with stone type varying from region to region, and repair and maintenance measures where necessary are undertaken in traditional techniques and material. These are predominantly driven by the local populations, who remain knowledgeable in traditional road management techniques and who are the key partners in maintaining the roadbed and associated features. At sites which have been of specific archaeological or cultural interest professional stabilization and restoration techniques have been applied and implemented with great respect to the original materials and substance. On the road sections, local management systems govern decision-making processes, often with a large degree of community involvement and these have retained highest degrees of authenticity as reuse of the historic materials remains more efficient than the introduction of new materials. The setting and visual surroundings of most of Qhapaq Ñan’s components is very good and in many cases pristine. For several summit ceremonial sites, settings include horizon ranges of 360 degrees for many kilometres in all directions. The Qhapaq Ñan also passes through very beautiful landscapes, the beauty of which depends on fragile view sheds associated which need to be monitored to ensure that any modern developments in the landscape have as minimal visual impact as possible. Several sites are difficult to access and their remoteness has over centuries preserved them in a very good condition. A majority of Qhapaq Ñan components is located in rural settings which fortunately left them free of noticeable modern intrusions. Associated intangible values and management practices remain very strong, especially in the most remote sections of the road network and contribute to the safeguarding of authentic management mechanisms. The information sources of spirit and feeling as well as atmosphere are very relevant as many of the communities have strong associations to the Qhapaq Ñan and continue to remain guardians of some of the ceremonial structures. Protection and management requirements As a transnational serial property the Qhapaq Ñan covers the jurisdiction of six countries at national and local levels, including, in one instance, regulations of seven regional authorities. A number of international joint declarations and Statements of Commitment have been signed by the participating States Parties between 2010 and 2012 which highlight their agreement to protect the segments of the Qhapaq Ñan at the highest possible level. The protection put in place in light of these agreements follow the respective national heritage legislations and provide protection at the highest national level to all property components. The States Parties have designed two overarching management frameworks, one for the candidature phase of the nomination and a second that will become operational once the inscription is achieved. The preparation phase was guided by a Paris-based international Coordination Committee while the overarching management framework following World Heritage inscription is guided by regional networks among the participating States Parties. The State Party of Peru committed to support the establishment of a technical coordination secretariat where information will be gathered and communicated to the experts in all Qhapaq Ñan states and where frequent meetings among the technical experts will be organized. Within the national contexts management systems have been developed in cooperation with the local communities and include concerns of perpetuation of the living traditions associated with the Qhapaq Ñan. The majority of these are traditional management systems which have been in existence for centuries and have developed from the local community levels to more formalized agreements with the concerned governmental authorities. The importance of preserving the actual road trace in areas that are being cultivated by the communities should be highlighted as part of the management agreements. Several local communities explicitly expressed their interest in tourism activities which they intend to be managed and driven at the community level. Limited presentation and interpretation facilities are at present available along the Qhapaq Ñan and local communities sharing their experiences and stories with visitors are a key basis of interpretation. Some territories of the Qhapaq Ñan, Andean Road System are seismically active areas and especially the architectural structures seem to be endangered by earthquakes. Adequate risk protection schemes need to be developed to ensure safety of humans as well as cultural resources in the event of natural disasters. An overall policy framework for the Qhapaq Ñan was created with the Management Strategy document undersigned at high level by the six States Parties on 29 November 2012. In addition to this multinational agreement management plans are intended to be developed at a regional level for each individual section of the road network. The management strategy framework illustrates the initial implementation of key management aspects, in particular the social and participation strategies intended to enable local communities to develop owner- and guardianship of the Qhapaq Ñan and its serial components. Further management and conservation plan components remain under development and should integrate adequate risk preparedness and disaster management as well as visitor management strategies."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3642.8067,
+          "square_km": 36.43,
+          "square_miles": 14.742,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/56195c2fc3c25e375e33ff406a1ede86",
+          "filename": "site_1459_0065-500-0-20241107142213.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209587/site_1459_0065.jpg",
+            "https://whc.unesco.org/document/209588/site_1459_0066.jpg",
+            "https://whc.unesco.org/document/209589/site_1459_0067.jpg",
+            "https://whc.unesco.org/document/209590/site_1459_0068.jpg",
+            "https://whc.unesco.org/document/209591/site_1459_0069.jpg",
+            "https://whc.unesco.org/document/209592/site_1459_0070.jpg",
+            "https://whc.unesco.org/document/209593/site_1459_0071.jpg",
+            "https://whc.unesco.org/document/129445/site_1459_0001.jpg",
+            "https://whc.unesco.org/document/129446/site_1459_0002.jpg",
+            "https://whc.unesco.org/document/129447/site_1459_0003.jpg",
+            "https://whc.unesco.org/document/129448/site_1459_0004.jpg",
+            "https://whc.unesco.org/document/129449/site_1459_0005.jpg",
+            "https://whc.unesco.org/document/129450/site_1459_0006.jpg",
+            "https://whc.unesco.org/document/129451/site_1459_0007.jpg",
+            "https://whc.unesco.org/document/129452/site_1459_0008.jpg",
+            "https://whc.unesco.org/document/129453/site_1459_0009.jpg",
+            "https://whc.unesco.org/document/129454/site_1459_0010.jpg",
+            "https://whc.unesco.org/document/129455/site_1459_0011.jpg",
+            "https://whc.unesco.org/document/129456/site_1459_0012.jpg",
+            "https://whc.unesco.org/document/129457/site_1459_0013.jpg",
+            "https://whc.unesco.org/document/129458/site_1459_0014.jpg",
+            "https://whc.unesco.org/document/129459/site_1459_0015.jpg",
+            "https://whc.unesco.org/document/129482/site_1459_0021.jpg",
+            "https://whc.unesco.org/document/129483/site_1459_0022.jpg",
+            "https://whc.unesco.org/document/129484/site_1459_0023.jpg",
+            "https://whc.unesco.org/document/129485/site_1459_0024.jpg",
+            "https://whc.unesco.org/document/129486/site_1459_0025.jpg",
+            "https://whc.unesco.org/document/129487/site_1459_0026.jpg",
+            "https://whc.unesco.org/document/129488/site_1459_0027.jpg",
+            "https://whc.unesco.org/document/129489/site_1459_0028.jpg",
+            "https://whc.unesco.org/document/129490/site_1459_0029.jpg",
+            "https://whc.unesco.org/document/129491/site_1459_0030.jpg",
+            "https://whc.unesco.org/document/129492/site_1459_0031.jpg",
+            "https://whc.unesco.org/document/129493/site_1459_0032.jpg",
+            "https://whc.unesco.org/document/129494/site_1459_0033.jpg",
+            "https://whc.unesco.org/document/129495/site_1459_0034.jpg",
+            "https://whc.unesco.org/document/129496/site_1459_0035.jpg",
+            "https://whc.unesco.org/document/129497/site_1459_0036.jpg",
+            "https://whc.unesco.org/document/129499/site_1459_0037.jpg",
+            "https://whc.unesco.org/document/129500/site_1459_0038.jpg",
+            "https://whc.unesco.org/document/129501/site_1459_0039.jpg",
+            "https://whc.unesco.org/document/129502/site_1459_0040.jpg",
+            "https://whc.unesco.org/document/129503/site_1459_0041.jpg",
+            "https://whc.unesco.org/document/129504/site_1459_0042.jpg",
+            "https://whc.unesco.org/document/129505/site_1459_0043.jpg",
+            "https://whc.unesco.org/document/129506/site_1459_0044.jpg",
+            "https://whc.unesco.org/document/129507/site_1459_0045.jpg",
+            "https://whc.unesco.org/document/129508/site_1459_0046.jpg",
+            "https://whc.unesco.org/document/129509/site_1459_0047.jpg",
+            "https://whc.unesco.org/document/129510/site_1459_0048.jpg",
+            "https://whc.unesco.org/document/129511/site_1459_0049.jpg",
+            "https://whc.unesco.org/document/129512/site_1459_0050.jpg",
+            "https://whc.unesco.org/document/129513/site_1459_0051.jpg",
+            "https://whc.unesco.org/document/129514/site_1459_0052.jpg",
+            "https://whc.unesco.org/document/129515/site_1459_0053.jpg",
+            "https://whc.unesco.org/document/129516/site_1459_0054.jpg",
+            "https://whc.unesco.org/document/129517/site_1459_0055.jpg",
+            "https://whc.unesco.org/document/129518/site_1459_0056.jpg",
+            "https://whc.unesco.org/document/129519/site_1459_0057.jpg",
+            "https://whc.unesco.org/document/129520/site_1459_0058.jpg",
+            "https://whc.unesco.org/document/129521/site_1459_0059.jpg",
+            "https://whc.unesco.org/document/129522/site_1459_0060.jpg",
+            "https://whc.unesco.org/document/129523/site_1459_0061.jpg",
+            "https://whc.unesco.org/document/129524/site_1459_0062.jpg",
+            "https://whc.unesco.org/document/129525/site_1459_0063.jpg",
+            "https://whc.unesco.org/document/129526/site_1459_0064.jpg"
+          ],
+          "count": 66
+        }
+      },
+      "components": {
+        "count": 137,
+        "locations": [
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cerro Vicuña- Quebrada La Tuna)",
+            "ref": "1459-047",
+            "latitude": -26.55,
+            "longitude": -69.7833333333
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llano San Juan-Llanada San Juan)",
+            "ref": "1459-036",
+            "latitude": -26.3333333333,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del Inca Sur -Cerro Bonete)",
+            "ref": "1459-046",
+            "latitude": -26.5166666667,
+            "longitude": -69.75
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llanada San Juan-Quebrada La Sal)",
+            "ref": "1459-037",
+            "latitude": -26.35,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Quebrada La Sal – Tambo La Sal)",
+            "ref": "1459-038",
+            "latitude": -26.3666666667,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Quebrada La Tuna-Casa de Domeyko)",
+            "ref": "1459-048",
+            "latitude": -26.5666666667,
+            "longitude": -69.8
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Portal del Inca – Llano San Juan)",
+            "ref": "1459-035",
+            "latitude": -26.3,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-049",
+            "latitude": -26.6,
+            "longitude": -69.8333333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-050",
+            "latitude": -26.6333333333,
+            "longitude": -69.85
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cuesta Topon Azul Llano de Topon Azul)",
+            "ref": "1459-041",
+            "latitude": -26.4,
+            "longitude": -69.65
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Tambo el Jardín – Cuesta Topon Azul)",
+            "ref": "1459-040",
+            "latitude": -26.3833333333,
+            "longitude": -69.6333333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano de Topon Azul Sierra Caballo Muerto)",
+            "ref": "1459-042",
+            "latitude": -26.4166666667,
+            "longitude": -69.6666666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto- Llano del Inca Norte)",
+            "ref": "1459-043",
+            "latitude": -26.4333333333,
+            "longitude": -69.6833333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del inca Norte-Sierra Caballo Muerto Oeste)",
+            "ref": "1459-044",
+            "latitude": -26.4666666667,
+            "longitude": -69.7166666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto Oeste - Llano del Inca Sur)",
+            "ref": "1459-045",
+            "latitude": -26.5,
+            "longitude": -69.7333333333
+          },
+          {
+            "name": "La Paz",
+            "ref": "1459-054",
+            "latitude": 0.9,
+            "longitude": -77.55
+          },
+          {
+            "name": "Rumichaca",
+            "ref": "1459-051",
+            "latitude": 0.8,
+            "longitude": -77.65
+          },
+          {
+            "name": "San Pedro",
+            "ref": "1459-052",
+            "latitude": 0.8166666667,
+            "longitude": -77.55
+          },
+          {
+            "name": "Chitarran",
+            "ref": "1459-055",
+            "latitude": 0.9,
+            "longitude": -77.45
+          },
+          {
+            "name": "Inantaz",
+            "ref": "1459-058",
+            "latitude": 1.1,
+            "longitude": -77.4
+          },
+          {
+            "name": "La Cofradía",
+            "ref": "1459-053",
+            "latitude": 0.9,
+            "longitude": -77.5666666667
+          },
+          {
+            "name": "Los Ajos",
+            "ref": "1459-059",
+            "latitude": 1.1333333333,
+            "longitude": -77.35
+          },
+          {
+            "name": "Rosal de Chapal",
+            "ref": "1459-056",
+            "latitude": 0.9333333333,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Rumichaca",
+            "ref": "1459-060",
+            "latitude": 0.813553,
+            "longitude": -77.664324
+          },
+          {
+            "name": "Guapuscal Bajo",
+            "ref": "1459-057",
+            "latitude": 1.05,
+            "longitude": -77.4166666667
+          },
+          {
+            "name": "Segment Tiwanacu",
+            "ref": "1459-015",
+            "latitude": -16.55,
+            "longitude": -68.6666666667
+          },
+          {
+            "name": "Segment Ranchillos",
+            "ref": "1459-012",
+            "latitude": -32.6,
+            "longitude": -69.4666666667
+          },
+          {
+            "name": "Segment Turi Norte",
+            "ref": "1459-027",
+            "latitude": -22.2166666667,
+            "longitude": -68.2666666667
+          },
+          {
+            "name": "Segment Cupo-Topain",
+            "ref": "1459-026",
+            "latitude": -22.15,
+            "longitude": -68.3
+          },
+          {
+            "name": "Segment Pulcas - Troya A",
+            "ref": "1459-061",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Pulcas - Troya B",
+            "ref": "1459-062",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Chiwuanquiri",
+            "ref": "1459-106",
+            "latitude": -14.3666666667,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Catarpe Norte",
+            "ref": "1459-028",
+            "latitude": -22.8333333333,
+            "longitude": -68.2166666667
+          },
+          {
+            "name": "Segment Pimán - Caranqui",
+            "ref": "1459-067",
+            "latitude": 0.3666666667,
+            "longitude": -78.0833333333
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-124",
+            "latitude": -9.5,
+            "longitude": -77.0166666667
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-125",
+            "latitude": -9.4833333333,
+            "longitude": -77.0333333333
+          },
+          {
+            "name": "Segment Puente del Inca",
+            "ref": "1459-013",
+            "latitude": -32.8166666667,
+            "longitude": -69.9
+          },
+          {
+            "name": "Segment Jayllihuaya-Ichu",
+            "ref": "1459-092",
+            "latitude": -15.8666666667,
+            "longitude": -69.95
+          },
+          {
+            "name": "Segment Aypate - El Arco",
+            "ref": "1459-137",
+            "latitude": -4.7,
+            "longitude": -79.5666666667
+          },
+          {
+            "name": "Segment Mamamag - Mamamag",
+            "ref": "1459-074",
+            "latitude": -2.8166666667,
+            "longitude": -79.2
+          },
+          {
+            "name": "Segment Masho - Piticocha",
+            "ref": "1459-108",
+            "latitude": -12.0666666667,
+            "longitude": -76.0
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-115",
+            "latitude": -12.0666666667,
+            "longitude": -76.7666666667
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-116",
+            "latitude": -12.0833333333,
+            "longitude": -76.75
+          },
+          {
+            "name": "Segment Taulli - Tambillo",
+            "ref": "1459-126",
+            "latitude": -9.45,
+            "longitude": -77.0666666667
+          },
+          {
+            "name": "Segment Loma Virgen - Chiquito",
+            "ref": "1459-065",
+            "latitude": 0.5333333333,
+            "longitude": -78.0666666667
+          },
+          {
+            "name": "Segment Pomata-Chaca Chaca",
+            "ref": "1459-095",
+            "latitude": -16.3,
+            "longitude": -69.2666666667
+          },
+          {
+            "name": "Segment Tambillo - Pincosh",
+            "ref": "1459-127",
+            "latitude": -9.4333333333,
+            "longitude": -77.0833333333
+          },
+          {
+            "name": "Segment Pariachuco - Tauli",
+            "ref": "1459-135",
+            "latitude": -8.3166666667,
+            "longitude": -77.8166666667
+          },
+          {
+            "name": "Segment Llano de los Leones",
+            "ref": "1459-010",
+            "latitude": -29.0833333333,
+            "longitude": -69.3333333333
+          },
+          {
+            "name": "Segment Kallamarka-Apacheta",
+            "ref": "1459-016",
+            "latitude": -16.6333333333,
+            "longitude": -68.5333333333
+          },
+          {
+            "name": "Segment Juan Montalvo - Cabuyal",
+            "ref": "1459-066",
+            "latitude": 0.5833333333,
+            "longitude": -78.1
+          },
+          {
+            "name": "Segment Llaviuco - Llaviuco",
+            "ref": "1459-073",
+            "latitude": -2.8333333333,
+            "longitude": -79.15
+          },
+          {
+            "name": "Segment Huaricashash - Isco",
+            "ref": "1459-120",
+            "latitude": -9.7666666667,
+            "longitude": -76.8833333333
+          },
+          {
+            "name": "Segment Inka Hamash - Ayash",
+            "ref": "1459-123",
+            "latitude": -9.5333333333,
+            "longitude": -76.9833333333
+          },
+          {
+            "name": "Segment Las Peras-Sauzalito",
+            "ref": "1459-004",
+            "latitude": -24.8166666667,
+            "longitude": -66.15
+          },
+          {
+            "name": "Segment Desaguadero Titijoni",
+            "ref": "1459-014",
+            "latitude": -16.55,
+            "longitude": -69.0166666667
+          },
+          {
+            "name": "Segment La Paz - Quebrada Tupala",
+            "ref": "1459-064",
+            "latitude": 0.5,
+            "longitude": -77.85
+          },
+          {
+            "name": "Segment Paucarcolla-Yanamayo",
+            "ref": "1459-090",
+            "latitude": -15.7666666667,
+            "longitude": -70.05
+          },
+          {
+            "name": "Segment Canrash - Torrepampa",
+            "ref": "1459-131",
+            "latitude": -8.9,
+            "longitude": -77.3166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Tastil",
+            "ref": "1459-002",
+            "latitude": -24.45,
+            "longitude": -65.95
+          },
+          {
+            "name": "Segment Angualasto-Colangüil",
+            "ref": "1459-009",
+            "latitude": -30.05,
+            "longitude": -69.1666666667
+          },
+          {
+            "name": "Segment Mariscal Sucre - El Tambo",
+            "ref": "1459-063",
+            "latitude": 0.5833333333,
+            "longitude": -77.7333333333
+          },
+          {
+            "name": "Segment Paredones - Paredones",
+            "ref": "1459-075",
+            "latitude": -2.7333333333,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Kutacoca-Choquequirao",
+            "ref": "1459-105",
+            "latitude": -13.35,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Pucará del Aconquija",
+            "ref": "1459-007",
+            "latitude": -27.7,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Ccaje-Sisipampa-Pomata",
+            "ref": "1459-094",
+            "latitude": -16.25,
+            "longitude": -69.3
+          },
+          {
+            "name": "Segment Casila Alto - Chillaco",
+            "ref": "1459-110",
+            "latitude": -12.0666666667,
+            "longitude": -76.5166666667
+          },
+          {
+            "name": "Segment Tambo Chico - Taparaku",
+            "ref": "1459-121",
+            "latitude": -9.6666666667,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Campana Pucará - Quitoloma",
+            "ref": "1459-068",
+            "latitude": -0.05,
+            "longitude": -78.2
+          },
+          {
+            "name": "Segment Machucucho-Choquecancha",
+            "ref": "1459-098",
+            "latitude": -13.0333333333,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Choquecancha-Paucarpata",
+            "ref": "1459-099",
+            "latitude": -13.0166666667,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Otutococha - QÑ-HH-051",
+            "ref": "1459-129",
+            "latitude": -9.1166666667,
+            "longitude": -77.2
+          },
+          {
+            "name": "Segment Machaqmarka-Raqchi-Qquea",
+            "ref": "1459-087",
+            "latitude": -14.1666666667,
+            "longitude": -71.35
+          },
+          {
+            "name": "Segment Vitkus-Abra Choqetakarpu",
+            "ref": "1459-102",
+            "latitude": -13.15,
+            "longitude": -72.9
+          },
+          {
+            "name": "Segment QÑ-HH-051 - Inca Misana",
+            "ref": "1459-130",
+            "latitude": -9.0666666667,
+            "longitude": -77.2333333333
+          },
+          {
+            "name": "Subsection Achupallas - Ingapirca",
+            "ref": "1459-069",
+            "latitude": -2.3333333333,
+            "longitude": -78.7833333333
+          },
+          {
+            "name": "Segment Hierba Buena-Hierba Buena",
+            "ref": "1459-076",
+            "latitude": -2.7166666667,
+            "longitude": -79.4166666667
+          },
+          {
+            "name": "Segment San Antonio - San Antonio",
+            "ref": "1459-077",
+            "latitude": -2.9,
+            "longitude": -79.4
+          },
+          {
+            "name": "Segment Arbolera-Parcco Chua Chua",
+            "ref": "1459-096",
+            "latitude": -16.4166666667,
+            "longitude": -69.1333333333
+          },
+          {
+            "name": "Segment Abra Choqetakarpu-Toroyoq",
+            "ref": "1459-104",
+            "latitude": -13.7333333333,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Taparaku - Tambo de Llata",
+            "ref": "1459-122",
+            "latitude": -9.6333333333,
+            "longitude": -76.95
+          },
+          {
+            "name": "Segment Quinrraycueva - Pariachuco",
+            "ref": "1459-134",
+            "latitude": -8.3833333333,
+            "longitude": -77.7666666667
+          },
+          {
+            "name": "Subsection Los Corrales-Las Pircas",
+            "ref": "1459-008",
+            "latitude": -28.8666666667,
+            "longitude": -67.9333333333
+          },
+          {
+            "name": "Segment Santa Martha - Santa Martha",
+            "ref": "1459-078",
+            "latitude": -2.9166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Botija Paqui - Botija Paqui",
+            "ref": "1459-079",
+            "latitude": -2.6833333333,
+            "longitude": -79.55
+          },
+          {
+            "name": "Segment Ciudadela - Vinoyaco Grande",
+            "ref": "1459-081",
+            "latitude": -3.7333333333,
+            "longitude": -79.25
+          },
+          {
+            "name": "Segment Inca Mach’ay-Samarinapata",
+            "ref": "1459-103",
+            "latitude": -13.2,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Quebrada Verde - Pachacamac",
+            "ref": "1459-117",
+            "latitude": -12.253358,
+            "longitude": -76.904472
+          },
+          {
+            "name": "Segment El Tambo - Honorato Vásquez",
+            "ref": "1459-071",
+            "latitude": -2.5166666667,
+            "longitude": -78.9166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Chontay - Molle",
+            "ref": "1459-114",
+            "latitude": -12.0333333333,
+            "longitude": -76.7166666667
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-118",
+            "latitude": -9.8833333333,
+            "longitude": -76.8
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-119",
+            "latitude": -9.85,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Cotocancha - Alturas de Torre",
+            "ref": "1459-133",
+            "latitude": -8.75,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Quebrada Grande-Las escaleras",
+            "ref": "1459-001",
+            "latitude": -23.3666666667,
+            "longitude": -64.9666666667
+          },
+          {
+            "name": "Segment Caragshillo - Cañaro - Tuncarta",
+            "ref": "1459-080",
+            "latitude": -3.604644,
+            "longitude": -79.221228
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-111",
+            "latitude": -12.0166666667,
+            "longitude": -76.65
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-112",
+            "latitude": -12.0166666667,
+            "longitude": -76.6666666667
+          },
+          {
+            "name": "Subsection Abra de ChaupiyacoLas Capillas",
+            "ref": "1459-003",
+            "latitude": -24.5833333333,
+            "longitude": -66.0333333333
+          },
+          {
+            "name": "Segment San José - Llamacanchi - Las Limas",
+            "ref": "1459-083",
+            "latitude": -4.5166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Complejo Arqueológico La Ciudacita",
+            "ref": "1459-006",
+            "latitude": -27.1666666667,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Palcañán Grande - Palcañán Chico",
+            "ref": "1459-070",
+            "latitude": -2.3166666667,
+            "longitude": -78.8
+          },
+          {
+            "name": "Segment San Juan de Tantaranche - Huarochiri",
+            "ref": "1459-109",
+            "latitude": -12.1333333333,
+            "longitude": -76.2166666667
+          },
+          {
+            "name": "Subsection Ciénaga de Yalguaraz-San Alberto",
+            "ref": "1459-011",
+            "latitude": -32.1,
+            "longitude": -69.35
+          },
+          {
+            "name": "Segment Cusipata-Santa Cruz de Occobamba Norte",
+            "ref": "1459-086",
+            "latitude": -13.95,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Complejo Ceremonial Volcán Llullaillaco",
+            "ref": "1459-005",
+            "latitude": -24.7,
+            "longitude": -68.5166666667
+          },
+          {
+            "name": "Segment Peine Norte (Sector Tambillo Verde Peine)",
+            "ref": "1459-034",
+            "latitude": -23.6333333333,
+            "longitude": -68.05
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Socoroma-Tantalcollo)",
+            "ref": "1459-018",
+            "latitude": -18.2833333333,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Collcas de Zapahuira)",
+            "ref": "1459-020",
+            "latitude": -18.35,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Tantalcollo-Zapahuira)",
+            "ref": "1459-019",
+            "latitude": -18.3166666667,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Putre Sur (Sector Quebrada de AromaSocoroma)",
+            "ref": "1459-017",
+            "latitude": -18.25,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Bajada Lasana - Lasana)",
+            "ref": "1459-025",
+            "latitude": -22.25,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Llano Camar – Camar Sur)",
+            "ref": "1459-030",
+            "latitude": -23.4333333333,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Cerro de Cojitambo (Loma Curiquinga) - Rumiurco",
+            "ref": "1459-072",
+            "latitude": -2.7833333333,
+            "longitude": -78.85
+          },
+          {
+            "name": "Segment Camar Sur (Sector Tambo de Camar – Llano Camar)",
+            "ref": "1459-029",
+            "latitude": -23.4166666667,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Lasana Norte – Los Chorros)",
+            "ref": "1459-023",
+            "latitude": -22.1833333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Subsection Quebrada Huatuchi - Plaza del Inca - Las Aradas",
+            "ref": "1459-082",
+            "latitude": -4.3333333333,
+            "longitude": -79.3333333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Los Chorros – Bajada Lasana)",
+            "ref": "1459-024",
+            "latitude": -22.2,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Camar Sur – Pampa Algarrobilla)",
+            "ref": "1459-031",
+            "latitude": -23.4666666667,
+            "longitude": -68.0
+          },
+          {
+            "name": "Segment Peine Norte (Sector Peine Norte – Tambillo Verde)",
+            "ref": "1459-033",
+            "latitude": -23.5833333333,
+            "longitude": -68.0333333333
+          },
+          {
+            "name": "Segment Escalerilla/ Casa Blanca - Cerro Huaylillas/Cushuro",
+            "ref": "1459-136",
+            "latitude": -7.9333333333,
+            "longitude": -78.0
+          },
+          {
+            "name": "Segment Camar Sur (Sector Pampa Algarrobilla – Peine Norte)",
+            "ref": "1459-032",
+            "latitude": -23.5333333333,
+            "longitude": -68.0166666667
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Tambo La Sal)",
+            "ref": "1459-039",
+            "latitude": -26.3666666667,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Incahuasi Norte – Lasana Norte)",
+            "ref": "1459-022",
+            "latitude": -22.1333333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Tambo Incahuasi – Incahuasi Norte)",
+            "ref": "1459-021",
+            "latitude": -22.1,
+            "longitude": -68.6166666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1459",
+        "unesco_documents": "https://whc.unesco.org/en/list/1459/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1459/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1459/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Qhapaq Ñan, Andean Road System This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. Peru Chile Ecuador Colombia Argentina Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "historic_centre_of_santa_ana_de_los_rios_de_cuenca",
+      "uuid": "6df84a81-4b77-55de-8703-6039783cfcc6",
+      "unesco_id": "863",
+      "names": {
+        "en": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+        "fr": "Centre historique de Santa Ana de los Ríos de Cuenca",
+        "es": "Centro histórico de Santa Ana de los Ríos de Cuenca",
+        "ru": "Исторический центр города Санта-Ана-де-лос-Риос-де-Куэнка",
+        "ar": "وسط سانتا آنا التاريخي في لوس ريوس دي كوينكا",
+        "zh": "昆卡的洛斯－里奥斯的圣安娜历史中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town (entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products.",
+          "fr": "Santa Ana de los Ríos de Cuenca est enchâssée dans une vallée entourée par les Andes, dans le sud de l'Équateur. La ville coloniale de l'intérieur (entroterra ), actuellement troisième ville du pays, a été fondée en 1557 selon les directives d'urbanisme rigoureuses établies trente ans auparavant par Charles Quint, roi d'Espagne. Elle suit le plan orthogonal officiel respecté depuis 400 ans. Centre agricole et administratif de la région, la ville est devenue un lieu de brassage pour les populations locales et immigrantes. L'architecture de Cuenca, qui date en grande partie du XVIIIe siècle, a été « modernisée » lors de la prospérité économique du XIXe siècle, lorsque la ville est devenue grande exportatrice de quinine, de chapeaux de paille et d'autres produits.",
+          "es": "Santa Ana de los Ríos de Cuenca está enclavada en un valle de la cordillera de los Andes, al sur de Ecuador. Esta ciudad colonial “de tierra adentro” –que es hoy la tercera en importancia del país– fue fundada en 1557, de conformidad con la estricta normativa urbanística promulgada treinta años antes por el emperador Carlos V. El trazado urbano de la ciudad se sigue ajustando al plan ortogonal establecido 400 años atrás. Cuenca es hoy un centro agrícola y administrativo regional, en el que la población local se ha mezclado con sucesivas generaciones de emigrantes. La mayor parte de sus edificios datan del siglo XVIII, pero la arquitectura urbana se modernizó con la prosperidad económica de que se benefició la ciudad en el siglo XIX, cuando se convirtió en un centro de exportación importante de quinina, sombreros de jipijapa y otros productos.",
+          "ru": "Санта-Ана-де-лос-Риос-де-Куэнка расположена в горной долине в окружении Анд, на юге Эквадора. Этот удаленный от морского побережья колониальный город «энтротерра», ныне являющийся третьим городом в стране, был основан в 1557 г. и строился в соответствии с жесткими планировочными установлениями, принятыми 30-ю годами раньше королем Испании Карлом V. Куэнка и сейчас, спустя 400 лет, все еще сохраняет прямоугольную планировку. Представляя один из сельскохозяйственных и административных центров региона, она явилась «плавильным котлом», в котором «перемешивались» местные жители и иммигранты. Архитектура Куэнки, в основном относящаяся к XVIII в., была обновлена во время экономического процветания XIХ в., когда город стал главным экспортером хинина, шляп из перьев и других товаров.",
+          "ar": "تقع سانتا آنا دي لوس ريوس دي كوينكا في وادٍ تحيطه جبال الآند جنوب الإكواتور. والمدينة المستعمرة الداخليّة وهي ثالث مدن البلاد اليوم تأسست عام 1557 بناءً على توجيهات صارمة حول التخطيط الحضري التي فرضها قبل ثلاثين عاماً من ذلك التاريج شارل كان، ملك اسبانيا. ولا تزال تتبع الخطة المتعامدة الرسميّة المطبقة منذ 400 سنة. أصبحت معبراً للسكان المحليين والمهاجرين كونها مركزا زراعيا وإداريا. جرى تحديث هندسة دي كوينكا التي ترقى بمعظمها إلى القرن الثامن عشر في خلال فترة الازدهار الاقتصادي للقرن التاسع عشر عندما أصبحت المدينة مركز تصدير الكينيين وقبعات القشّ وغيرها من المنتجات.",
+          "zh": "昆卡的洛斯－里奥斯的圣安娜位于厄瓜多尔南部安第斯山环绕的一个山谷里，始建于1557年，是典型的内陆殖民地城镇，如今是厄瓜多尔第三大城市。城市的建造严格遵守了30年前西班牙国王查尔斯·冯·昆卡(Charles V. Cuenca)制定的垂直城市规划原则，并于后来的400年间一直沿袭了当初的规划。作为这个地区的农业和行政中心之一，该历史中心是当地居民和外来移民的大熔炉。昆卡的建筑大多始建于18世纪，到19世纪时这里成为奎宁、草帽以及其他产品的主要出口港，经济上的繁荣也推动了城市建筑的现代化。"
+        },
+        "full": "Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town (entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products.",
+        "justification": "Brief synthesis Located in the heart of the Andean mountains, the town of Cuenca is entrenched in a valley irrigated by four rivers: Tomebamba, Yanuncay, Tarqui and Machangara. This location has over a long period of time favoured close contact with the natural environment. The Historic Centre of Santa Ana de los Rios de Cuenca includes the territory that was occupied by the town of Cuenca until the first half of the 20th century, as well as the archaeological site of Pumapungo and the corridors that include the ancient access routes to the town. The Historic Centre of Santa Ana de los Rios de Cuenca is a remarkable example of a planned inland Spanish town (entroterra) that bears witness to the interest given to the principles of Renaissance urban planning in the Americas. Founded in 1577 according to the guidelines issued thirty years earlier by the King of Spain, Charles V, it has preserved over four centuries its original orthogonal plan. An Indian community was in existence at the time of the arrival of the Spanish, (Inca-Canari); from this time on the character of the town of Cuenca was determined. The urban layout and the townscape of its historic centre, corresponding to colonial towns located in the interior of the land with an agricultural vocation, clearly bears witness to the successful fusion of the different societies and cultures of Latin America. The urban fabric of the Historic Centre of Santa Ana de los Rios de Cuenca comprises a system of parks, squares, atriums, churches and other public spaces. Around the Plaza Mayor (Park Abdon Calderon), the three powers of society are always present: political with the town hall and the Governor’s Office, religious, with its two cathedrals opposite one another and the judiciary with the Law Courts. Its paved streets are wide and sunlit. Moreover, the simple colonial houses have often been transformed into more important residences, especially during the period of relative economic expansion due to the production and exportation of quinine and straw hats (19th century). This resulted in a specific architecture that integrated the diverse local and European influences. A few buildings merit mention: the New Cathedral, begun in 1885, the Old Cathedral, the Carmelite Monastery and Santo Domingo Church. The religious architecture, closely related to public areas, where community life is expressed, greatly contributes to the urban profile of the town. The vernacular architecture illustrating the techniques and organization of space during the colonial period is principally located in the periphery of the historic centre and in the rural areas. A strong concentration of this type of architecture is located along the River Tomebanba (el Barranco) that defines the boundaries of the historic town on the south side. It is also in this sector that the site of Pumapungo is located (Puma Gate) in the heart of the Inca town of Tomebamba, and that of Todos Santos (All Saints) where the vestiges corresponding to Canari, Inca and Spanish cultures have been unearthed by archaeologists. Criterion (ii): Cuenca illustrates the perfect implantation of the principles of urban planning of the Renaissance in the Americas. Criterion (iv): The successful fusion of the different societies and cultures of Latin America is symbolized in a striking manner by the layout and townscape of Cuenca. Criterion (v): Cuenca is an outstanding example of a planned inland Spanish colonial town. Integrity The Historic Centre of Santa Ana de los Rios de Cuenca retains the majority of attributes necessary for the expression of its Outstanding Universal Value, which are complete and intact. Despite the loss of important edifices during the second half of the 20th century, all the components of the urban structure and its relation with the townscape environment remain. The inventory of constructions declared cultural heritage of Ecuador comprises more than a thousand buildings: 5% are of monumental value (important and dominant presence in the urban fabric); 60% are constructions of prime importance and 35% of the constructions complete the formation of a coherent urban townscape. This inventory contributes towards preserving and consolidating the urban townscape and encourages the comprehension of the socio-economic history of the ancient town and its internal relations. Authenticity The Historic Centre of Santa Ana de los Rios de Cuenca has preserved its image of a colonial town and the essential aspects of its original character. Its historic centre is inhabited and enjoys an active traditional social life, although sometimes in degraded living conditions. Due to this continued occupation, the town offers a high degree of authenticity. The architectonique character of the historic centre is the result of a dynamic modernization process. Numerous edifices have been updated and tastefully adapted to the changing fashions of the different eras, especially between 1870 and 1950. The Historic Centre has also preserved within its urban zone an archaeological park with vestiges that, despite the fragility of the elements, clearly explain the conception and territorial organization of the pre-Hispanic cultures, in particular the Inca-Canari culture. Protection and management requirements At the national level, the Cultural Heritage Law (19/06/1979) and its provisions is applicable, and is the law concerning the creation of the Cultural Heritage Assistance Fund (29/12/1988) that designates 6% of income taxes collected in each district to heritage protection projects. This Fund was replaced by the “Code organique d’organisation territorial, d’autonomie et de decentralization” (COTAD) that designates to the Municipalities, competence for the protection and safeguarding of the heritage, and provides financial resources for this purpose. At the regional level, diverse regulatory measures apply: the Act of Declaration of the Historic Centre of Santa Ana de los Rios de Cuenca as cultural heritage of the State in 1982 and successive delegation to the Commission of the Historic Centre of Cuenca; Decree for the Control and Administration of the Historic Centre, 1983; Decree for the Creation of the Directorate of the Historic Centre, 1989; Decree on Signage and Publicity, 1992; Decree for the Exoneration of Housing Tax for the owners of properties declared national cultural heritage. The regulatory provisions apply within the periphery of the Historic Centre but leave the buffer zone without analogous control, very narrow buffer zone, in any event. The Commission for the Historic Centre is a special body responsible for the control and management of the historic centre. The Commission is assisted by the General Secretariat for Urbanism attached to the Municipal Government of Cuenca for all matters concerning technical aspects. To date, the Historic Centre of Santa Ana de los Rios de Cuenca has been the subject of several partial management plans. A Master Plan, the Management Plan for the Historic Zones of Cuenca relating to interventions in the designated zones, is under preparation. The edifices of the historic centre are extremely fragile due to the low resistance of their building materials, particularly with regard to earthen architecture. The authorities consider that regular maintenance by their owners is a priority measure and encourage it in many ways. As the necessary financial resources to protect a zone of the dimensions of the Historic Centre of Santa Ana de los Rios de Cuenca are insufficient, other national and international resources have been explored, for example: At the national level: the Ministry for Heritage Coordination financed repair work for the roof of the Convent of All Saints as well as emergent works concerning the maintenance and conservation of the Ancient Seminary San Louis; in a similar manner the Municipality of Cuenca is presently exploring funding possibilities to complete the restoration of the Ancient Ecole Centrale through the “Socio Patrimonio” Programme of the Ministry for Heritage Coordination. At the international level, the Junta de Andalucia has co-financed a social housing project (16 units) as well as the creation of the Straw Hat Museum, the weaving of which has recently been recognized by UNESCO as Intangible Cultural Heritage of Humanity. In a similar strain, the Junta de Andalucia is co-financing the restoration of private residences in the Historic Centre; so far, 18 buildings have been rehabilitated. Through an agreement between the Spanish Agency for International Cooperation (AECID) and the Municipality of Cuenca, the School Workshop of Cuenca was created in 1995 to prepare a qualified work force for heritage restoration of the town, as well as to counterbalance the loss of traditional know-how. The air company LAN maintains a programme called “Cuida tu Destino”; for three years work has been undertaken for the improvement and maintenance of some public areas such as El Barranco adjacent to the River Tomebamba, between the Vado and Centenario Bridges, as well as the Merced and Las Monjas Squares. In the framework of this programme, the participation of educational establishments is important to motivate young people in the conservation and protection of heritage and thus enable the protection of places of touristic interest. As regards the rehabilitation of built cultural heritage, investment from the private sector has been forthcoming with a strong sense of social compromise. The training of staff is offered for the most part by the universities of Cuenca and Azuay."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4,
+            5
+          ],
+          "display": "(ii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 224.14,
+          "square_km": 2.24,
+          "square_miles": 0.907,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3a8b317f39f312b88cca14b93cdc6f57",
+          "filename": "site_0863_0003-500-0-20121203153527.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 334
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/120715/site_0863_0003.jpg",
+            "https://whc.unesco.org/document/120716/site_0863_0004.jpg",
+            "https://whc.unesco.org/document/125533/site_0863_0005.jpg",
+            "https://whc.unesco.org/document/125534/site_0863_0006.jpg",
+            "https://whc.unesco.org/document/125535/site_0863_0007.jpg",
+            "https://whc.unesco.org/document/125536/site_0863_0008.jpg",
+            "https://whc.unesco.org/document/125537/site_0863_0009.jpg",
+            "https://whc.unesco.org/document/125538/site_0863_0010.jpg",
+            "https://whc.unesco.org/document/132340/site_0863_0011.jpg",
+            "https://whc.unesco.org/document/132341/site_0863_0012.jpg",
+            "https://whc.unesco.org/document/132342/site_0863_0013.jpg",
+            "https://whc.unesco.org/document/132343/site_0863_0014.jpg",
+            "https://whc.unesco.org/document/132344/site_0863_0015.jpg",
+            "https://whc.unesco.org/document/132346/site_0863_0017.jpg",
+            "https://whc.unesco.org/document/132348/site_0863_0019.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+            "ref": "863",
+            "latitude": -2.897447,
+            "longitude": -79.004382
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/863",
+        "unesco_documents": "https://whc.unesco.org/en/list/863/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/863/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/863/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Santa Ana de los Ríos de Cuenca Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town (entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products. Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town (entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products. Ecuador Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "sangay_national_park",
+      "uuid": "6c8505d1-398f-5be2-88a0-969be0b7df93",
+      "unesco_id": "260",
+      "names": {
+        "en": "Sangay National Park",
+        "fr": "Parc national Sangay",
+        "es": "Parque nacional Sangay",
+        "ru": "Национальный парк Сангай",
+        "ar": "منتزه سانغاي الوطني",
+        "zh": "桑盖国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor.",
+          "fr": "D'une beauté naturelle exceptionnelle avec ses deux volcans en activité, ce parc présente toute la gamme verticale des écosystèmes, depuis la forêt tropicale humide jusqu'aux glaciers, avec des contrastes saisissants entre les sommets enneigés et les forêts des plaines. Son isolement protège les espèces menacées qui s'y trouvent, comme le tapir de montagne et le condor des Andes.",
+          "es": "Este parque de extraordinaria belleza natural posee dos volcanes activos y cuenta con toda la gama vertical de ecosistemas, desde los bosques húmedos tropicales hasta los glaciares. Sus paisajes ofrecen sorprendentes contrastes entre cumbres nevadas y selvas de llanura. Por otra parte, su aislamiento facilita la protección de las especies en peligro de extinción que lo pueblan, como el tapir de montaña y el cóndor de los Andes.",
+          "ru": "Живописный парк, куда входит два активных вулкана, включает широкий спектр экосистем: от предгорных влажно-тропических лесов до заснеженных вершин и ледников, которые ярко контрастируют друг с другом. Изолированность этого района позволила выжить здесь таким аборигенным видам, как горный тапир и андский кондор.",
+          "ar": "الطبيعة في أبهى حللها تتجلّى في هذين البركانيّن الناشطين ليعكس المنتزه تنوّع النظم البيئيّة منذ الغابة الإستوائيّة الرطبة وحتّى الأنهر الجليديّة في تعارض آسر بين القمم التي تغطيها الثلوج وغابات السهول. ويحمي انعزال البركانيين الأصناف المهددة الموجودة فيها مثل حيوان تابير الجبلي ونسر الآنديز.",
+          "zh": "公园以其独特秀丽的自然风光和两座活火山的壮观景象向人们展现了一个完整系列的生态系统，从热带雨林延到冰川，白雪皑皑的山峰与苍翠的平原森林交相辉映。这种孤立的环境使得当地特有的生物，诸如山貘和安第斯秃鹫等得以幸存。"
+        },
+        "full": "With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor.",
+        "justification": "Brief synthesis With its outstanding natural beauty and two active volcanoes, the Sangay National Park illustrates within its 270,000 hectares the entire spectrum of ecosystems of Ecuador. These include glacial and volcanic ecosystems, cloud forests, Amazon rainforest, wetlands, lakes, and the fragile moorlands (páramos) and grasslands of the highlands. Geologically, this area is especially important due to the presence of the Sangay volcano, which at 5,140m in altitude is one of the more active volcanoes in the world. The Sangay National Park also provides significant habitat for a rich flora and fauna, including many threatened species such as the Mountain Tapir and the Spectacled Bear. Criterion (vii): The Sangay National Park contains one of the world’s most complex series of ecological habitats. With an altitudinal range extending from 900 to 5,319 metres above sea level, the park includes three volcanoes: Tungurahua (5,016m), Sangay (5,230m), and Altar (5,319m). These volcanoes have a superlative aesthetic beauty, including a rare combination of grasslands, rainforests and many other fragile habitats. The property includes a vast system of wetlands with 327 lakes, covering a surface of 31.5 km2, which protect and generate environmental services of local, national and regional importance. The park also contains one of the largest areas of páramo (a montane grassland vegetation) occurring in Ecuador. Criterion (viii): Sangay (a perfect cone-shaped volcano) is notable globally for its long period of continuous activity. The area exhibits a rugged topography with deep, steep-sided valleys, abundant cliffs and many rocky jagged peaks. A number of large rivers, draining eastwards into the Amazon Basin, are characterized by fast and dramatic variations in water level. Run-off is extremely rapid due to high rainfall and steep slopes. Erosion is a constant danger, although controlled by thick forest vegetation. Numerous waterfalls occur, especially in the hanging valleys of the glacial zone along the eastern edge of the Cordillera. Criterion (ix): The presence of an active volcano means that primary succession is a continual process which influences species composition in a number of special ecosystems in the park, including rainforest, cloud forest, grasslands and moorlands (páramos). For example, many plant species in the páramo, in particular bunch grasses and cushion plants, have adapted to cold weather conditions and have evolved specialised structures for water capture. These areas also provide an excellent example of ongoing succession, where volcanic ash creates fertile soil and new habitats for plant colonization. Although the flora is poorly known, at least 3,000 species are expected to occur in the park and, given the special conditions, probably exhibit a high degree of endemism. At the same time the associated fauna, including a large number of birds and insects, is also expected to be unique. The park comprises two Endemic Bird Areas, the Central Andean páramo (home to some 11 bird species of restricted range), and the Ecuador-Peru East Andes (home to 17 restricted-range species). It is important to note that the high diversity of ecosystems and different vegetation types in the park increases the likelihood of evolutionary changes. Criterion (x): Natural vegetation has been well conserved and covers around 84.5% of the entire park. With its different ecosystems, the park has the best and least disturbed assemblage of native species in the region. At least 3,000 species of flowering plants are expected to occur in the park and recent reports describe 107 mammal, 430 bird, 33 amphibian, 14 reptile and 17 fish species. Perhaps the highest profile animal is the endangered Mountain Tapir, for which the Sangay Park represents one of its last refuges. The park is also one of the three protected areas with the largest populations of Spectacled Bear, classified as vulnerable. Other emblematic species include the Andean Condor, Andean Cock-of-the-rock, Jaguar and Giant Anteater, classified as vulnerable because its populations are declining in many parts of its range. The Lowland Tapir, another vulnerable rainforest species, only survives in undisturbed areas. Integrity This undisturbed area is sufficiently large (271,925 ha) so that its ecosystems can continue to provide ecological services and undergo natural biological processes. Located in the middle of the Ecuadorian Andes, the area contains no human settlements. Sangay was declared a National Park in 1979 and included in the World Heritage List in 1983. In 1992 the park was extended to the south, increasing its area by 245,800 ha, although this extension was not included as part of the World Heritage property. 15,651 ha of park were excluded in May 2004, but the area inscribed as World Heritage was not reduced. Today, the Park covers an area of 502,105 ha of which 271,925 ha is considered as World Heritage. An executive management plan, approved in 2005, has been used as a management tool for the area and is kept updated. Protection and management requirements A large part of the subtropical forest in the lowlands along the eastern border of the Park has been converted to grasslands for cattle ranching and agriculture, and these activities that represent the most significant threats to the property, including the risk of encroachment and livestock entering the property, illegal hunting and fishing are also an ongoing concern. In order to address these problems, the Ministry of Environment is permanently monitoring the area and implements local management actions as part of the management programs of the protected area, with principal objectives to reduce and / or eliminate the threats to the OUV of the property. The area was placed on the World Heritage List in Danger from 1992 to 2005, mainly due to the construction of the Guamote - Macas road, as well as from threats caused by grazing and illegal hunting. The park was seriously affected by the building of the road, which now separates the World Heritage site from the southern extension of the park. Impacts included contamination of the Upano River and nearby lakes, the use of dynamite, microclimate changes and indirect effects including new settlements, cattle ranching, illegal hunting and deforestation. However, in 2005 a new management plan was adopted defining strategies for the restoration of the zones affected by the road, as well as developing participative management of the park in order to reduce conflicts over land use and the relationship between the local population and wildlife. Following this the park was removed from the List in of World Heritage in Danger. Many programmes have been implemented in order to improve management efficiency, develop participative community management and increase environmental education, among others. The Ecuadorian Government recognizes environmental principles in its 2008 Constitution, declaring the State as responsible for the management and administration of its protected areas in order to guarantee biodiversity conservation and to maintain ecosystem ecological functions. The State works with provincial and local governments, other state institutions, non-governmental organizations and communities in order to achieve these goals."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(vii)(viii)(ix)(x)",
+          "count": 4,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 271925,
+          "square_km": 2719.25,
+          "square_miles": 1100.443,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/94e2822b485dd6f93eee86e630e333e9",
+          "filename": "site_0260_0003.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109496/site_0260_0003.jpg",
+            "https://whc.unesco.org/document/109498/site_0260_0004.jpg",
+            "https://whc.unesco.org/document/125529/site_0260_0005.jpg",
+            "https://whc.unesco.org/document/125530/site_0260_0006.jpg",
+            "https://whc.unesco.org/document/125531/site_0260_0007.jpg",
+            "https://whc.unesco.org/document/125532/site_0260_0008.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sangay National Park",
+            "ref": "260",
+            "latitude": -1.83333,
+            "longitude": -78.33333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/260",
+        "unesco_documents": "https://whc.unesco.org/en/list/260/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/260/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/260/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sangay National Park With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor. With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor. Ecuador Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "galapagos_islands",
+      "uuid": "b44f3220-b545-5e0e-a0ed-14b52ad4b5b0",
+      "unesco_id": "1",
+      "names": {
+        "en": "Galápagos Islands",
+        "fr": "Îles Galápagos",
+        "es": "Islas Galápagos",
+        "ru": "Галапагосские острова",
+        "ar": "أرخبيل جزر غالاباغوس",
+        "zh": "加拉帕戈斯群岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the Pacific Ocean some 1,000 km from the South American continent, these 19 islands and the surrounding marine reserve have been called a unique ‘living museum and showcase of evolution’. Located at the confluence of three ocean currents, the Galápagos are a ‘melting pot’ of marine species. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual animal life – such as the land iguana, the giant tortoise and the many types of finch – that inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835.",
+          "fr": "Situées dans l’océan Pacifique, à environ 1000 km du continent sud-américain, ces dix-neuf îles et la réserve marine qui les entoure constituent un musée et un laboratoire vivants de l’évolution uniques au monde. Au confluent de trois courants océaniques, les Galápagos sont un creuset d’espèces marines. L’activité sismique et le volcanisme toujours en activité illustrent les processus qui ont formé ces îles. Ces processus, ainsi que l’isolement extrême de ces îles, ont entraîné le développement d’une faune originale - notamment l’iguane terrestre, la tortue géante et de nombreuses espèces de pinsons qui inspira à Charles Darwin sa théorie de l’évolution par la sélection naturelle à la suite de sa visite en 1835.",
+          "es": "Situadas en el Pacífico, a unos mil kilómetros del subcontinente sudamericano, estas diecinueve islas de origen volcánico y su reserva marina circundante son un museo y un laboratorio vivientes de la evolución, únicos en el mundo. Las Galápagos están situadas en la confluencia de tres corrientes oceánicas y concentran una gran variedad de especies marinas. Su actividad sísmica y volcánica ilustra los procesos de su formación geológica. Estos procesos, sumados al extremo aislamiento del archipiélago, han originado el desarrollo de una fauna singular con especies como la iguana terrestre, la tortuga gigante y numerosas especies de pinzones, cuyo estudio inspiró a Darwin la teoría de la evolución por selección natural, tras su viaje a estas islas en 1835.",
+          "ru": "Архипелаг лежит в Тихом океане на расстоянии около 1 тыс. км от берегов Южной Америки. 19 островов этой группы, вместе с прилегающей акваторией, называют «живым музеем эволюции». Поскольку Галапагосы располагаются на пересечении трех океанических течений, они выступают в роли «плавильного котла» по отношению к обитателям морской среды. Здесь продолжается сейсмическая и вулканическая активность, что приводит к постоянному обновлению ландшафта. Эти процессы, наряду с большой изолированностью островов, привели к появлению таких оригинальных созданий как морская игуана, гигантская сухопутная черепаха, и многие разновидности вьюрков, наблюдения за которыми натолкнули Чарлза Дарвина после его визита сюда в 1835 г. на создание теории эволюции.",
+          "ar": "على مسافة 1000 كيلومتر من القارة الأمريكيّة الجنوبيّة، تقع الجزر التسعة عشر والمحميّة البحريّة التي تحيطها وتكوّن متحفاً ومختبراً حيّين فريدين من نوعهما في المحيط الهادئ. وعند نقطة تلاقي تيارات المحيطات الثلاثة، تشكّل غالاباغوس بوتقة الأصناف البحريّة. فحركة الزلازل والبراكين الثائرة تجسّد عمليّات تكوين هذه الجزر. ولقد أدّت هذه العمليّات، ناهيك عن انعزال هذه الجزر التام، إلى تطوّر ثروة حيوانيّة فريدة من نوعها وخصوصاً الإغوانة البريّة والسلحفاة العملاقة وأصناف عديدة من عصافير البرقش التي استوحى منها شارل داروين نظريّته الشهيرة بعد زيارته عام 1835.",
+          "zh": "群岛地处离南美大陆1000公里的太平洋上，由19个火山岛以及周围的海域组成，被人称作独一无二的“活的生物进化博物馆和陈列室”。加拉帕戈斯群岛处于三大洋流的交汇处，是海洋生物的“大熔炉”。持续的地震和火山活动反映了群岛的形成过程。这些过程，加上群岛与世隔绝的地理位置，促使群岛内进化出许多奇异的动物物种，例如陆生鬣蜥、巨龟和多种类型的雀类。1835年查尔斯·达尔文参观了这片岛屿后，从中得到感悟，进而提出了著名的进化论。"
+        },
+        "full": "Situated in the Pacific Ocean some 1,000 km from the South American continent, these 19 islands and the surrounding marine reserve have been called a unique ‘living museum and showcase of evolution’. Located at the confluence of three ocean currents, the Galápagos are a ‘melting pot’ of marine species. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual animal life – such as the land iguana, the giant tortoise and the many types of finch – that inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835.",
+        "justification": "Brief synthesis The Galapagos Islands area situated in the Pacific Ocean some 1,000 km from the Ecuadorian coast. This archipelago and its immense marine reserve is known as the unique ‘living museum and showcase of evolution’. Its geographical location at the confluence of three ocean currents makes it one of the richest marine ecosystems in the world. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual plant and animal life – such as marine iguanas, flightless cormorants, giant tortoises, huge cacti, endemic trees and the many different subspecies of mockingbirds and finches – all of which inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835. Criterion vii: The Galapagos Marine Reserve is an underwater wildlife spectacle with abundant life ranging from corals to sharks to penguins to marine mammals. No other site in the world can offer the experience of diving with such a diversity of marine life forms that are so familiar with human beings, that they accompany divers. The diversity of underwater geomorphological forms is an added value to the site producing a unique display, which cannot be found anywhere else in the world. Criterion viii: The archipelago´s geology begins at the sea floor and emerges above sea level where biological processes continue.. Three major tectonic plates—Nazca, Cocos and Pacific— meet at the basis of the ocean, which is of significant geological interest. In comparison with most oceanic archipelagos, the Galapagos are very young with the largest and youngest islands, Isabela and Fernandina, with less than one million years of existence, and the oldest islands, Española and San Cristóbal, somewhere between three to five million years. The site demonstrates the evolution of the younger volcanic areas in the west and the older islands in the east. On-going geological and geomorphological processes, including recent volcanic eruptions, small seismic movements, and erosion provide key insights to the puzzle of the origin of the Galapagos Islands. Almost no other site in the world offers protection of such a complete continuum of geological and geomorphological features. Criterion ix: The origin of the flora and fauna of the Galapagos has been of great interest to people ever since the publication of the “Voyage of the Beagle” by Charles Darwin in 1839. The islands constitute an almost unique example of how ecological, evolutionary and biogeographic processes influence the flora and fauna on both specific islands as well as the entire archipelago. Darwin’s finches, mockingbirds, land snails, giant tortoises and a number of plant and insect groups represent some of the best examples of adaptive radiation which still continues today. Likewise, the Marine Reserve, situated at the confluence of 3 major eastern Pacific currents and influenced by climatic phenomena such as El Niño, has had major evolutionary consequences and provides important clues about species evolution under changing conditions. The direct dependence on the sea for much of the island’s wildlife (e.g. seabirds, marine iguanas, sea lions) is abundantly evident and provides an inseparable link between the terrestrial and marine worlds. Criterion x: The islands have relatively high species diversity for such young oceanic islands, and contain emblematic taxa such as giant tortoises and land iguanas, the most northerly species of penguin in the world, flightless cormorants as well as the historically important Darwin’s finches and Galapagos mockingbirds. Endemic flora such as the giant daisy trees Scalesia spp. and many other genera have also radiated on the islands, part of a native flora including about 500 vascular plant species of which about 180 are endemic. Examples of endemic and threatened species include 12 native terrestrial mammal species (11 endemic, with 10 threatened or extinct) and 36 reptile species (all endemic and most considered threatened or extinct), including the only marine iguana in the world. Likewise the marine fauna has an unusually high level of diversity and endemism, with 2,909 marine species identified with 18.2% endemism. High profile marine species include sharks, whale sharks, rays and cetaceans. The interactions between the marine and terrestrial biotas (e.g. sea lions, marine and terrestrial iguanas, and seabirds) are also exceptional. Recent exploration of deep sea communities continues to produce new additions to science. Integrity The Galapagos archipelago is located about 1,000 km from continental Ecuador and is composed of 127 islands, islets and rocks, of which 19 are large and 4are inhabited. 97% of the total emerged surface (7,665,100 ha) was declared National Park in 1959. Human settlements are restricted to the remaining 3% in specifically zoned rural and urban areas on four islands (a fifth island only has an airport, tourism dock, fuel containment, and military facilities). The islands are surrounded by the Galapagos Marine Reserve which was created in 1986 (70,000 km2) and extended to its current area (133,000 km2) in 1998, making it one of the largest marine reserves in the world. The marine reserve includes inland waters of the archipelago (50,100 km2) in addition to all those contained within 40 nautical miles, measured from the outermost coastal islands. Airports on two islands (Baltra and San Cristobal) receive traffic from continental Ecuador with another airport on Isabela mostly limited to inter-island traffic. All the inhabited islands have ports to receive merchandise. The other uninhabited islands are strictly controlled with carefully planned tourist itineraries limiting visitation. Around 30,000 people live on the islands, and approximately 170,000 tourists visit the islands each year. Protection and management requirements The main threats to the Galapagos are the introduction of invasive species, increased tourism, demographic growth, illegal fishing and governance issues (i.e. who takes responsibility for decisions given the large number of stakeholders with conflicting interests involved in managing the islands). These issues are constantly analyzed and monitored to adequately manage them and reinforce strategies to minimize their impact. In 1986 a law was passed to control fishing and over-exploitation of Galapagos marine resources. Protection was further strengthened by the “Special Regime Law for the Conservation and Sustainable Development in the Province of the Galapagos” of 1998, and inscribed in the Constitution of the Republic of Ecuador. This law designated the current Galapagos Marine Reserve as a protected area under the responsibility of the Galapagos National Park Service. Among other issues, it provides the specific legal framework over which many aspects of island life are to be regulated, including provincial planning; inspection and quarantine measures; fisheries management; control and marine monitoring; residency and migration of people to the islands; tourism through a visitor management system, permits and quotas; agriculture; waste management; and “total control” of introduced species. This management imposes some limitations on the exercise of the rights of people living in this geographical area, but also provides them with preferential rights to use the natural resources sustainably. Within this framework the Galapagos National Park Service has periodically prepared Management Plans since 1974 to date, which have been developed in a participatory manner among the different social and economic groups through community representatives and local authorities to address the changing realities of the Galapagos ecosystem. This includes tools for development and conservation management of natural resources in harmony with international standards. For example, a zoning system has been implemented to establish areas of sustainable use and areas prohibited to the local population. Governmental institutions contribute to the funding of conservation and management in the archipelago. Other support comes from the entry fee paid by tourists and a small percentage from international donations."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(vii)(viii)(ix)(x)",
+          "count": 4,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 14066514,
+          "square_km": 140665.14,
+          "square_miles": 56925.25,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1978,
+          "all_dates": [
+            1978,
+            2001
+          ],
+          "extensions": [
+            2001
+          ],
+          "timeline": [
+            {
+              "year": 1978,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2001,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/56478b3163f4ceb0fec99dfd4d826826",
+          "filename": "site_0001_0006-500-0-20250109100719.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107417/site_0001_0006.jpg",
+            "https://whc.unesco.org/document/107418/site_0001_0007.jpg",
+            "https://whc.unesco.org/document/107419/site_0001_0008.jpg",
+            "https://whc.unesco.org/document/107420/site_0001_0009.jpg",
+            "https://whc.unesco.org/document/107421/site_0001_0010.jpg",
+            "https://whc.unesco.org/document/107422/site_0001_0011.jpg",
+            "https://whc.unesco.org/document/107423/site_0001_0012.jpg",
+            "https://whc.unesco.org/document/107424/site_0001_0013.jpg",
+            "https://whc.unesco.org/document/107425/site_0001_0014.jpg",
+            "https://whc.unesco.org/document/107426/site_0001_0015.jpg",
+            "https://whc.unesco.org/document/107435/site_0001_0024.jpg",
+            "https://whc.unesco.org/document/107436/site_0001_0025.jpg",
+            "https://whc.unesco.org/document/107443/site_0001_0032.jpg",
+            "https://whc.unesco.org/document/124779/site_0001_0033.jpg",
+            "https://whc.unesco.org/document/124780/site_0001_0034.jpg",
+            "https://whc.unesco.org/document/124781/site_0001_0035.jpg",
+            "https://whc.unesco.org/document/124782/site_0001_0036.jpg",
+            "https://whc.unesco.org/document/124783/site_0001_0037.jpg",
+            "https://whc.unesco.org/document/124784/site_0001_0038.jpg",
+            "https://whc.unesco.org/document/139359/site_0001_0056.jpg",
+            "https://whc.unesco.org/document/139360/site_0001_0057.jpg",
+            "https://whc.unesco.org/document/139361/site_0001_0058.jpg",
+            "https://whc.unesco.org/document/139362/site_0001_0059.jpg",
+            "https://whc.unesco.org/document/139363/site_0001_0060.jpg",
+            "https://whc.unesco.org/document/139364/site_0001_0061.jpg",
+            "https://whc.unesco.org/document/139367/site_0001_0062.jpg",
+            "https://whc.unesco.org/document/139368/site_0001_0063.jpg",
+            "https://whc.unesco.org/document/139369/site_0001_0064.jpg",
+            "https://whc.unesco.org/document/139370/site_0001_0065.jpg",
+            "https://whc.unesco.org/document/107413/site_0001_0002.jpg",
+            "https://whc.unesco.org/document/107414/site_0001_0003.jpg",
+            "https://whc.unesco.org/document/107415/site_0001_0004.jpg",
+            "https://whc.unesco.org/document/107416/site_0001_0005.jpg",
+            "https://whc.unesco.org/document/107427/site_0001_0016.jpg",
+            "https://whc.unesco.org/document/107428/site_0001_0017.jpg",
+            "https://whc.unesco.org/document/107429/site_0001_0018.jpg",
+            "https://whc.unesco.org/document/107430/site_0001_0019.jpg",
+            "https://whc.unesco.org/document/107431/site_0001_0020.jpg",
+            "https://whc.unesco.org/document/107432/site_0001_0021.jpg",
+            "https://whc.unesco.org/document/107433/site_0001_0022.jpg",
+            "https://whc.unesco.org/document/107434/site_0001_0023.jpg",
+            "https://whc.unesco.org/document/107438/site_0001_0027.jpg",
+            "https://whc.unesco.org/document/107439/site_0001_0028.jpg",
+            "https://whc.unesco.org/document/107440/site_0001_0029.jpg",
+            "https://whc.unesco.org/document/107441/site_0001_0030.jpg",
+            "https://whc.unesco.org/document/107442/site_0001_0031.jpg",
+            "https://whc.unesco.org/document/132325/site_0001_0043.jpg",
+            "https://whc.unesco.org/document/132327/site_0001_0045.jpg",
+            "https://whc.unesco.org/document/132331/site_0001_0049.jpg",
+            "https://whc.unesco.org/document/132332/site_0001_0050.jpg",
+            "https://whc.unesco.org/document/132335/site_0001_0053.jpg",
+            "https://whc.unesco.org/document/139378/site_0001_0066.jpg",
+            "https://whc.unesco.org/document/139379/site_0001_0067.jpg",
+            "https://whc.unesco.org/document/139380/site_0001_0068.jpg",
+            "https://whc.unesco.org/document/139381/site_0001_0069.jpg",
+            "https://whc.unesco.org/document/139382/site_0001_0070.jpg",
+            "https://whc.unesco.org/document/139383/site_0001_0071.jpg",
+            "https://whc.unesco.org/document/139384/site_0001_0072.jpg",
+            "https://whc.unesco.org/document/139385/site_0001_0073.jpg",
+            "https://whc.unesco.org/document/139386/site_0001_0074.jpg",
+            "https://whc.unesco.org/document/139387/site_0001_0075.jpg"
+          ],
+          "count": 61
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Galápagos Islands",
+            "ref": "1bis",
+            "latitude": -0.68986,
+            "longitude": -90.501319
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1",
+        "unesco_documents": "https://whc.unesco.org/en/list/1/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 47,
+        "inscription_year": 1978
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Galápagos Islands Situated in the Pacific Ocean some 1,000 km from the South American continent, these 19 islands and the surrounding marine reserve have been called a unique ‘living museum and showcase of evolution’. Located at the confluence of three ocean currents, the Galápagos are a ‘melting pot’ of marine species. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual animal life – such as the land iguana, the giant tortoise and the many types of finch – that inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835. Situated in the Pacific Ocean some 1,000 km from the South American continent, these 19 islands and the surrounding marine reserve have been called a unique ‘living museum and showcase of evolution’. Located at the confluence of three ocean currents, the Galápagos are a ‘melting pot’ of marine species. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual animal life – such as the land iguana, the giant tortoise and the many types of finch – that inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835. Ecuador Latin America and the Caribbean Natural"
+    }
+  ]
+}

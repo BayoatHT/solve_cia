@@ -1,0 +1,1821 @@
+{
+  "country": {
+    "code": "VNM",
+    "name": "Vietnam"
+  },
+  "total_sites": 9,
+  "sites_by_category": {
+    "Cultural": 6,
+    "Natural": 2,
+    "Mixed": 1
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "phong_nha_ke_bang_national_park_and_hin_nam_no_national_park",
+      "uuid": "2defbb0f-f41b-585f-98af-c90da0cf1df8",
+      "unesco_id": "951",
+      "names": {
+        "en": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
+        "fr": "Parc national de Phong Nha-Ke Bang et Parc national de Hin Nam No",
+        "es": "Parque Nacional de Phong Nha-Ke Bang y Parque Nacional de Hin Nam No",
+        "ru": "Национальный парк Фонгня-Кебанг и Национальный парк Хин Нам Но",
+        "ar": "منتزه فونغ نا-كي بانغ الوطني وحديقة هيم نام نو الوطنية",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          },
+          "LAO": {
+            "name": "Laos",
+            "iso2": "LA",
+            "iso3": "LAO"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts.",
+          "fr": "Ce bien transfrontalier, situé le long de la frontière entre le Viet Nam et la République démocratique populaire lao, constitue l’un des paysages karstiques en calcaire les plus exceptionnels et intacts au monde. Les formations karstiques de cette zone ont commencé à se développer il y a environ 400 millions d’années, à l’époque du Paléozoïque, ce qui en fait la zone karstique de grande échelle la plus ancienne d’Asie. Il présente des falaises spectaculaires, des dolines profondes et un vaste réseau de rivières souterraines. Plus de 220 kilomètres de grottes et de cours d’eau souterrains ont été répertoriés, dont beaucoup sont reconnus mondialement pour leur taille, leur beauté et leur valeur scientifique. Ce paysage ancien abrite une remarquable diversité d’écosystèmes, allant des forêts sèches de haute altitude poussant sur le karst aux forêts humides et denses de faible altitude. Ces milieux accueillent de nombreuses espèces végétales et animales rares ou uniques, dont plusieurs sont rares, menacées ou endémiques à la région. La biodiversité de cette région est non seulement exceptionnelle, mais elle joue également un rôle crucial dans les efforts de conservation à l’échelle mondiale.",
+          "es": "El Parque Nacional de Phong Nha-Ke Bang y el Parque Nacional de Hin Nam No es una extensión transfronteriza del Parque Nacional de Phong Nha-Ke Bang de Viet Nam, inscrito en 2003. Situado en las montañas de Annamite, cuenta con escarpados paisajes kársticos, profundas cuevas, incluida la vasta cueva de Xe Bang Fai, así como una rica biodiversidad y el uso tradicional local asociado. El parque se encuentra dentro del punto crítico de biodiversidad Indo-Burma, hogar de más de 1500 especies de plantas y 536 especies de vertebrados, incluyendo muchas especies endémicas y amenazadas a nivel mundial como el duc de canillas rojas y el pangolín malayo. En esta zona también habitan especies únicas como la rata de roca laosiana y la araña cazadora gigante. Sus diversos ecosistemas abarcan bosques de tierras bajas hasta hábitats kársticos de gran altitud.",
+          "ru": "Национальный парк Фонгня-Кебанг и Национальный парк Хин Нам Но представляют собой трансграничное расширение объекта «Национальный парк Фонгня-Кебанг» (Вьетнам), включённого в Список всемирного наследия в 2003 году. Объект находится в Аннамских горах. Его территория включает карстовые ландшафты и глубокие пещеры, в том числе обширную пещеру Хе Банг Фай. Здесь сохраняется богатое биоразнообразие, а также продолжаются традиционные практики местных сообществ, тесно связанные с природной средой. Парк находится в зоне Индо-Бирманского очага биоразнообразия и является средой обитания для более чем 1 500 видов растений и 536 видов позвоночных, включая множество эндемиков и находящихся под угрозой исчезновения видов, таких как немейский тонкотел и яванский ящер. Здесь также обитают такие уникальные виды, как лаосская скальная крыса и гигантский паук-охотник. Экосистемы объекта простираются от низменных лесов до высокогорных карстовых районов.",
+          "ar": "إنَّ منتزه فونغ نا-كي بانغ الوطني وحديقة هيم نام نو الوطنية هما عبارة عن توسيع عابر للحدود لمنتزه فونغ نا-كي بانغ الوطني في فييت نام، الذي أُدرج في القائمة في عام 2003. ويوجد هذا الموقع في جبال أناميت، ويضمُّ مناظر طبيعية كارستية وعرة وكهوفاً عميقة، من بينها كهف سي بانغ فاي الكبير، كما يحتوي على تنوع بيولوجي غني وتُمارَس فيه الاستخدامات التقليدية المرتبطة بهذا التنوع. وتوجد هذه الحديقة في بؤرة الهند-بورما للتنوع البيولوجي، وتؤوي أكثر من 1500 نوع نباتي و536 نوعاً من الفقاريات، من بينها الكثير من الأنواع المستوطنة والأنواع المهددة عالمياً مثل القردة حمراء الساق وآكل النمل الحرشفي السوندي. ويقطن في المنطقة أيضاً الجرذ الصخرى اللاوسي وعنكبوت هانتسمان الكبير. وتمتد نظمها الإيكولوجية المتنوعة من غابات الأراضي المنخفضة إلى الموائل الكارستية المرتفعة.",
+          "zh": ""
+        },
+        "full": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8,
+            9,
+            10
+          ],
+          "all": [
+            8,
+            9,
+            10
+          ],
+          "display": "(viii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 217447,
+          "square_km": 2174.47,
+          "square_miles": 879.978,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003,
+            2015,
+            2025
+          ],
+          "extensions": [
+            2015,
+            2025
+          ],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2015,
+              "event": "Extended"
+            },
+            {
+              "year": 2025,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 2
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aa7eddeaf9321ee27a5a2f1d076e4cb0",
+          "filename": "site_0951_0001.jpg",
+          "dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113743/site_0951_0001.jpg",
+            "https://whc.unesco.org/document/113745/site_0951_0002.jpg",
+            "https://whc.unesco.org/document/113747/site_0951_0003.jpg",
+            "https://whc.unesco.org/document/134797/site_0951_0004.jpg",
+            "https://whc.unesco.org/document/134798/site_0951_0005.jpg",
+            "https://whc.unesco.org/document/134799/site_0951_0006.jpg",
+            "https://whc.unesco.org/document/134800/site_0951_0007.jpg",
+            "https://whc.unesco.org/document/134801/site_0951_0008.jpg",
+            "https://whc.unesco.org/document/134802/site_0951_0009.jpg",
+            "https://whc.unesco.org/document/134803/site_0951_0010.jpg",
+            "https://whc.unesco.org/document/134804/site_0951_0011.jpg",
+            "https://whc.unesco.org/document/134805/site_0951_0012.jpg",
+            "https://whc.unesco.org/document/134806/site_0951_0013.jpg",
+            "https://whc.unesco.org/document/136106/site_0951_0014.jpg",
+            "https://whc.unesco.org/document/136107/site_0951_0015.jpg",
+            "https://whc.unesco.org/document/136108/site_0951_0016.jpg",
+            "https://whc.unesco.org/document/136109/site_0951_0017.jpg",
+            "https://whc.unesco.org/document/136110/site_0951_0018.jpg",
+            "https://whc.unesco.org/document/136111/site_0951_0019.jpg",
+            "https://whc.unesco.org/document/136112/site_0951_0020.jpg",
+            "https://whc.unesco.org/document/136113/site_0951_0021.jpg",
+            "https://whc.unesco.org/document/136114/site_0951_0022.jpg",
+            "https://whc.unesco.org/document/136115/site_0951_0023.jpg",
+            "https://whc.unesco.org/document/136116/site_0951_0024.jpg",
+            "https://whc.unesco.org/document/136117/site_0951_0025.jpg",
+            "https://whc.unesco.org/document/136118/site_0951_0026.jpg",
+            "https://whc.unesco.org/document/136119/site_0951_0027.jpg",
+            "https://whc.unesco.org/document/136120/site_0951_0028.jpg",
+            "https://whc.unesco.org/document/136121/site_0951_0029.jpg",
+            "https://whc.unesco.org/document/136122/site_0951_0030.jpg",
+            "https://whc.unesco.org/document/219851/site_0951_0031.jpg",
+            "https://whc.unesco.org/document/219852/site_0951_0032.jpg",
+            "https://whc.unesco.org/document/219853/site_0951_0033.jpg",
+            "https://whc.unesco.org/document/219854/site_0951_0034.jpg",
+            "https://whc.unesco.org/document/219855/site_0951_0035.jpg",
+            "https://whc.unesco.org/document/219856/site_0951_0036.jpg",
+            "https://whc.unesco.org/document/219857/site_0951_0037.jpg",
+            "https://whc.unesco.org/document/219858/site_0951_0038.jpg",
+            "https://whc.unesco.org/document/219859/site_0951_0039.jpg",
+            "https://whc.unesco.org/document/219860/site_0951_0040.jpg",
+            "https://whc.unesco.org/document/220602/site_0951_0041.jpg",
+            "https://whc.unesco.org/document/220603/site_0951_0042.jpg",
+            "https://whc.unesco.org/document/220604/site_0951_0043.jpg"
+          ],
+          "count": 43
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Hin Nam No National Park",
+            "ref": "951ter-001",
+            "latitude": 17.410984,
+            "longitude": 105.940936
+          },
+          {
+            "name": "Phong Nha-Ke Bang National Park",
+            "ref": "951ter-001",
+            "latitude": 17.516439,
+            "longitude": 106.110538
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/951",
+        "unesco_documents": "https://whc.unesco.org/en/list/951/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/951/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/951/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Phong Nha-Ke Bang National Park and Hin Nam No National Park This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts. This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts. Vietnam Laos Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "citadel_of_the_ho_dynasty",
+      "uuid": "2c699342-c542-5968-8242-288ac42d922e",
+      "unesco_id": "1358",
+      "names": {
+        "en": "Citadel of the Ho Dynasty",
+        "fr": "Citadelle de la dynastie Hô",
+        "es": "Ciudadela de la dinastía Ho",
+        "ru": "Цитадель династии Хо",
+        "ar": "قلعة سلالة هو",
+        "zh": "胡朝时期的城堡"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city.",
+          "fr": "La Citadelle de la dynastie Hô du XIVe siècle, construit selon les principes du feng shui, témoigne de l'épanouissement du néoconfucianisme dans le Viet Nam de la fin du XIVe siècle et de sa diffusion dans d'autres parties d'Extrême-Orient. En vertu de ces principes, il est situé dans un paysage aux panoramas d'une grande beauté sur un axe reliant les montagnes de Tuong Son et de Don Son dans une plaine entre les fleuves Ma et Buoi. Les bâtiments de la Citadelle représentent un exemple exceptionnel d'un nouveau style de ville impériale du Sud-Est asiatique.",
+          "es": "La ciudadela de la dinastía Ho, construida en el siglo XIV siguiendo los principios del feng shui, es testimonio del florecimiento del neoconfucianismo a finales del siglo XIV en Viet Nam y su expansión por otras zonas del este asiático. Siguiendo estos principios, la ciudadela se encuentra en un paisaje de gran belleza, con un eje que toca las montañas Tuong Song y Don Son en una llanura entre los ríos Ma y Buoi. Los edificios de la ciudadela representan un ejemplo excepcional de un estilo nuevo de ciudad imperial del sureste asiático.",
+          "ru": "Цитадель 14-го века, созданная в соответствии с принципами фэн-шуй, является свидетельством расцвета нео- конфуцианства во Вьетнаме в эту эпоху и его распространения на другие районы Восточной Азии. Согласно этим принципам, цитадель была воздвигнута в живописной местности в междуречье Ма и Буои, по оси, соединяющей горы Туонг Сон и Дон Сон. Сооружения цитадели являются выдающимся образцом нового стиля архитектуры имперского города юго-восточной Азии.",
+          "ar": "قلعة سلالة هو، من القرن السادس عشر، شيدت على مبادئ فينغ شوي، وتشهد على انتشار النيكونفوشية في فيتنام ذلك العصر ومناطق أخرى من الشرق الأقصى. وبناء على هذه المبادئ فإنها تقع ضمن مشهد شامل ذي جمال نادر على محور يربط بين جبال تيونغ سون ودون سون في سهل بين نهري ما وبيوي. وتعطي أبنية القلعة نموذجا استثنائيا لأسلوب بناء جديد للمدينة الملكية في جنوب شرق آسيا.",
+          "zh": "修建于14世纪，城堡的建设遵循了风水的原则，是14世纪末期传到越南及东亚其他地区新儒家思想发扬光大的见证。城堡建在连接起长山（Tuong Son）与东山（Don Son）山脉的轴线上，位于马江与八里河（Buoi）之间平原上一片风景秀丽之处。壮观的城堡建筑本身代表着东南亚王城建设历史中曾涌现出的一种新风格。"
+        },
+        "full": "The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city.",
+        "justification": "Brief synthesis The Citadel of Ho Dynasty built in 1397, composed of the Inner Citadel, La Thanh Outer Wall and the Nam Giao Altar covers 155.5 ha, surrounded by a buffer zone of 5078.5 ha. It is located in accordance with geomantic principles in a landscape of great scenic beauty between the Ma and Buoi rivers in Vinh Loc district, Thanh Hoa province of Viet Nam. The Inner Citadel constructed of large limestone blocks represents a new development of architectural technology and adaptation of geomantic city planning in an East Asian and South-east Asian context. It demonstrates the use of architectural elements in terms of space management and decoration designed for a centralized imperial city in order to show a concept of royal power, based on the adoption of the Confucian philosophy within a predominantly Buddhist culture. Being the capital of Viet Nam from 1398 to 1407 and also the political, economic and cultural centre of North Central Viet Nam from the 16th to the 18th century, it bears exceptional testimony to a critical period in Vietnamese and South-east Asian history when traditional kingship and Buddhist values were giving way to new trends in technology, commerce and centralized administration. Criterion (ii): The property exhibits Chinese Confucianism influence on a symbol of regal centralized power in the late 14th – early 15th century. It represents new developments in architectural style with respect to technology and, in adapting pre-existing geomantic city planning principles in an East Asian and South-east Asian context, makes full use of the natural surroundings and incorporated distinctly Vietnamese and East and Southeast Asian elements in its monuments and landscape. Criterion (iv): The Ho Citadel is an outstanding example of an architectural ensemble in a landscape setting which illustrates a flowering of pragmatic Neo-Confucianism in late 14th century Viet Nam, at a time when it was spreading throughout East Asia to become a major philosophical influence on government in the region. The use of large blocks of stone testifies to the organizational power of the Neo-Confucian state, and the shift in the main axis distinguishes the Citadel layout from the Chinese norm. Integrity The integrity of the property is guaranteed by the areas of the three major components which represent the characteristics of the Ho Dynasty: the Inner Citadel, the Nam Giao altar and part of La Thanh Outer Wall. These elements reflect the presence of a citadel that has remained almost intact, with massive stone walls within a landscape setting that is easily recognizable. Excavations have also demonstrated a rich source of archaeological evidence preserved underground below the present rice and other crops within the boundaries of the three components. The buffer zone includes all cultural elements that were part of a large imperial city during the late 14th – early 15th century, including religious monuments, traditional villages, common houses, ancient roads, markets, landing places and scenic beauty spots, which are a direct tangible expression of the cultural values of the property. Authenticity The conditions of authenticity in terms of the geo-cultural location and landscape setting of the property are almost unchanged; the layout and architectural design and materials of the Inner Citadel’s walls, four gates, sections of moat, and section of La Thanh Outer Wall and archaeological remains of Nam Giao Altar are well preserved. The archaeological excavations in the property reveal well-preserved structures contemporaneous with the Ho Dynasty. Protection and management requirements The Inner Citadel and Nam Giao Altar were designated in 1962 as national heritage by Decision of the Ministry of Culture of the Democratic Republic of Vietnam and are protected under the Law on Cultural Heritage of 29/06/2001. The nominated section of La Thanh Outer Wall is in the process of being similarly protected. The buffer zone is protected by the Law on Environmental Protection of the Socialist Republic of Vietnam, number 52/2005/QH11, Chapter 4, Article 31 of 2005. The property is directly managed by the People’s Committees of the relevant communes for the particular component sites, under the Management Board of the Citadel of the Ho Dynasty established by Decision 2264/QD-UBND (30 July 2007). A comprehensive five–year Management Plan for the property was submitted in November 2010. The control of urban development near the Inner Citadel, in Vinh Loc town particularly along the axis between the Inner Citadel and Mount Don Son, and in the buffer zone generally should receive specific attention so as to protect all view lines along the axes between topographical features, and views within the area enclosed by the line of the outer wall and the Ma and Buoi rivers. Special attention is needed for the development of a risk-preparedness and management strategy and a strategy for involving local people in the protection and management of the property. The local authority and people are working closely for the preservation and protection of the property through a training and public-awareness raising programme."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 155.5,
+          "square_km": 1.55,
+          "square_miles": 0.629,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a83264c78c020c3d6dc62c86ca992a86",
+          "filename": "site_1358_0001-500-0-20241213160415.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 336
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115093/site_1358_0001.jpg",
+            "https://whc.unesco.org/document/218468/site_1358_0012.jpg",
+            "https://whc.unesco.org/document/218469/site_1358_0013.jpg",
+            "https://whc.unesco.org/document/134827/site_1358_0002.jpg",
+            "https://whc.unesco.org/document/134828/site_1358_0003.jpg",
+            "https://whc.unesco.org/document/134829/site_1358_0004.jpg",
+            "https://whc.unesco.org/document/134830/site_1358_0005.jpg",
+            "https://whc.unesco.org/document/134831/site_1358_0006.jpg",
+            "https://whc.unesco.org/document/134832/site_1358_0007.jpg",
+            "https://whc.unesco.org/document/134833/site_1358_0008.jpg",
+            "https://whc.unesco.org/document/134834/site_1358_0009.jpg",
+            "https://whc.unesco.org/document/134835/site_1358_0010.jpg",
+            "https://whc.unesco.org/document/134836/site_1358_0011.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Inner Citadel",
+            "ref": "1358-001",
+            "latitude": 20.0780555556,
+            "longitude": 105.6047222222
+          },
+          {
+            "name": "Nam Giao Altar",
+            "ref": "1358-003",
+            "latitude": 20.0455555556,
+            "longitude": 105.621111111
+          },
+          {
+            "name": "La Thanh Outer Walled Section",
+            "ref": "1358-002",
+            "latitude": 20.0980555556,
+            "longitude": 105.618611111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1358",
+        "unesco_documents": "https://whc.unesco.org/en/list/1358/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1358/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1358/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Citadel of the Ho Dynasty The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city. The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city. Vietnam Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "central_sector_of_the_imperial_citadel_of_thang_long_hanoi",
+      "uuid": "aa0bcb57-7a28-5da5-9503-08e6f09d0bd1",
+      "unesco_id": "1328",
+      "names": {
+        "en": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+        "fr": "Secteur central de la cité impériale de Thang Long-Hanoï",
+        "es": "Ciudad imperial de Thang Long-Hanoi",
+        "ru": "Императорская цитадель Тханг Лонг, Ханой",
+        "ar": "مدينة ثانغ لونغ الإمبراطورية في هانوي",
+        "zh": "河内升龙皇城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south.",
+          "fr": "La cité impériale de Thang Long, édifiée au XIe siècle par la dynastie Viêt des Ly, concrétise l'indépendance du Dai Viêt. Elle a été construite sur les vestiges d'une citadelle chinoise remontant au 7e siècle, dans les terrains drainés du delta du fleuve Rouge à Hanoï. Elle fut le lieu du pouvoir politique régional de manière continue pendant près de treize siècles. Les édifices de la cité impériale et les vestiges de la zone archéologique 18 Hoang Diêu expriment une culture originale du Sud-Est asiatique propre à la basse vallée du fleuve Rouge, à l'intersection des influences venues de la Chine, au nord, et de l'ancien royaume du Champa au sud.",
+          "es": "La ciudadela imperial de Thang Long-Hanoi (Viet Nam) se convirtió en el sitio número 900 inscrito en la Lista del Patrimonio Mundial de la UNESCO. Fue edificada en el siglo XI por la dinastía Viêt de los Ly para concretizar la independencia del Dai Viêt. Fue construida en los vestigios de una fortaleza china del siglo VII en terrenos drenados del delta del Río Rojo, en Hanoi. Durante casi trece siglos fue sede del poder político regional. Los edificios de la ciudad iperial y los vestigios de la zona arqueológica 18 Hoang Diêu son la expresión de una cultura original del sureste asiático, propia del bajo valle del Río Rojo, en la intersección de influencias venidas de China, en el norte, y del antiguo valle de Champa, en el sur.",
+          "ru": "Императорская цитадель Тханг Лонг стала 900-м объектом культуры, занесенным в Список Всемирного наследия ЮНЕСКО. Крепость была построена в 11-м веке, в эпоху династии Ли Вьет как символ независимости королевства Даи Вьет. Она была построена на развалинах китайской крепости седьмого века, на осушенных землях, отвоеванных в дельте Красной реки у Ханоя. На протяжении почти 13 веков это был бессменный центр региональной политической власти. Сооружения Императорской цитадели и развалины, сохранившиеся на территории археологического памятника 18 Хоанг Дьё, отражают уникальную культуру Юго-Восточной Азии, характерную для нижней части долины Красной реки, где слились культурное влияние Китая, распространявшегося с севера, и древнего королевства Чампа – с юга.",
+          "ar": "بنت سلالة لي فيت مدينة ثانغ لونغ الإمبراطورية في القرن الحادي عشر، مما طبع بداية استقلال فيتنام الكبرى أو داي فيت. وتم تشييد هذه المدينة على أنقاض قلعة صينية تعود إلى القرن السابع في أراضٍ تابعة لدلتا النهر الأحمر في هانوي تم صرف مياهها لأغراض البناء. وكانت هذه المدينة مركز السلطة السياسية الإقليمية لحوالى 13 قرناً، من دون انقطاع. وتعكس مباني المدينة الإمبراطورية والأنقاض الموجودة في الموقع الأثري بشارع هوانغ ديو رقم 18 ثقافة فريدة في جنوب شرق آسيا يتفرد بها الجزء السفلي لوادي النهر الأحمر الذي كان بمثابة ملتقى للاتجاهات الآتية من الصين شمالاً، ومملكة شامبا القديمة جنوباً.",
+          "zh": "河内升龙皇城成为被列入教科文组织《世界遗产名录》的第900个遗址。皇城建于11世纪越南李王朝时期，是“大越”独立的标志。此处原是公元7世纪时，由中国在红河三角洲的一块土地上排水而建的一座城堡。直至13世纪，这里一直是区域政治权力中心。皇城建筑物与黄耀街18号考古遗址反映了东南亚——确切地说红河下游河谷——在北部的中国与南部的占城古王国交互影响下出现的独特文化。"
+        },
+        "full": "The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south.",
+        "justification": "Brief summary The Central Sector of the Imperial Citadel of Thang Long -- Hanoi, located in the heart of the capital of Viet Nam, is the most important and best-preserved part of the ancient Imperial Citadel of Thang Long. The Thang Long Imperial Citadel was built in the 11th century by the Vietnamese Ly Dynasty, marking the independence of the Đại Việt. It was built on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost thirteen centuries without interruption. The buildings of the Imperial Citadel and the remains in the 18 Hoang Diêu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads of influences coming from China in the north and the ancient Kingdom of Champa in the south. The Imperial Citadel of Thang Long is characterized by its longevity and continuity as a seat of power, evidenced by different archaeological levels and monuments. Criterion (ii): The Central Sector of the Imperial Citadel of Thang Long - Hanoi bears witness to the meeting of influences coming mainly from China in the north and the Kingdom of Champa in the south. It expresses a set of intercultural exchanges which shaped a unique culture in the lower Red River Valley. Criterion (iii): The Central Sector of the Imperial Citadel of Thang Long bears witness to the long cultural tradition of the Viêt populations established in the Delta and the lower Red River Valley. It was a continuous seat of power from the 7th century through to the present day. Criterion (vi): The Imperial Citadel of Thang Long at Hanoi, with its political function and symbolic role, is directly associated with numerous and important cultural and historical events, and leading artistic expressions and moral, philosophical, and religious ideas. The succession of these events marks the formative and development process of an independent nation over more than a thousand years, including the colonial period and the two contemporary Wars of Independence and reunification of Viet Nam. Integrity The continuity of its political role is demonstrated by the archaeological elements brought to light and by the later built elements of the Thang Long Citadel. In spite of absent and not always very visible evidence, the conditions of integrity in terms of the architecture, structure and landscaping of the property are acceptable. The very promising archaeological vestiges of the 18 Hoang Diêu site must be completed by a study programme on the scale of the property for confirmation of the archaeological integrity. Authenticity The degree of authenticity expressed by the architecture of Thang Long corresponds to buildings of the late 19th and the 20th centuries. Older buildings, dating back to the dynastic periods, notably the Doan Mon Gate and the Hau Lau Palace, have been restored and modified. However, these changes are related to the political history of the property. Over the long historical period of the Citadel of Thang Long, the archaeological authenticity of the property is good, even if expressed by only a small excavation area. The degree of authenticity of the architecture is variable depending on the period examined, being more satisfactory for the contemporary and colonial buildings. Protection and management requirements The legal protection of the property is based primarily on two laws: the Law on Cultural Heritage (2001) which ensures the protection of the various recognized moveable and immoveable components of the property, and the Law on Construction for all work and projects. In the event of discordance in the application of these two laws, for example for a proposed project in the territory of the property nominated for inscription, the Law on Heritage Management takes precedent. The legal protection in place is appropriate for the property, but it must be completed and a wider buffer zone should be envisaged. The management authority is well-defined and already functional: in 2006, the People's Committee of Hanoi entrusted the Co Loa and Thang Long Vestiges Preservation Centre, also called Thang Long Centre, with the responsibility for the management of the property. The general guidelines of the Management Plan are satisfactory, but this Plan must be enacted, and the archaeological studies component should be strengthened and expanded. Furthermore, the capacity building for the personnel involved in the conservation of the property should be enhanced."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 18.395,
+          "square_km": 0.18,
+          "square_miles": 0.074,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2010,
+          "all_dates": [
+            2010
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2010,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/39081a504fe08efdb4e9d75f447278f5",
+          "filename": "site_1328_0011-500-0-20230116172556.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/130163/site_1328_0011.jpg",
+            "https://whc.unesco.org/document/130164/site_1328_0012.jpg",
+            "https://whc.unesco.org/document/218583/site_1328_0023.jpg",
+            "https://whc.unesco.org/document/218584/site_1328_0024.jpg",
+            "https://whc.unesco.org/document/114904/site_1328_0001.jpg",
+            "https://whc.unesco.org/document/114906/site_1328_0002.jpg",
+            "https://whc.unesco.org/document/114908/site_1328_0003.jpg",
+            "https://whc.unesco.org/document/119070/site_1328_0005.jpg",
+            "https://whc.unesco.org/document/119071/site_1328_0006.jpg",
+            "https://whc.unesco.org/document/130159/site_1328_0007.jpg",
+            "https://whc.unesco.org/document/130160/site_1328_0008.jpg",
+            "https://whc.unesco.org/document/130161/site_1328_0009.jpg",
+            "https://whc.unesco.org/document/130162/site_1328_0010.jpg",
+            "https://whc.unesco.org/document/134814/site_1328_0013.jpg",
+            "https://whc.unesco.org/document/134815/site_1328_0014.jpg",
+            "https://whc.unesco.org/document/134816/site_1328_0015.jpg",
+            "https://whc.unesco.org/document/134817/site_1328_0016.jpg",
+            "https://whc.unesco.org/document/134818/site_1328_0017.jpg",
+            "https://whc.unesco.org/document/134819/site_1328_0018.jpg",
+            "https://whc.unesco.org/document/134820/site_1328_0019.jpg",
+            "https://whc.unesco.org/document/134821/site_1328_0020.jpg",
+            "https://whc.unesco.org/document/134822/site_1328_0021.jpg",
+            "https://whc.unesco.org/document/134823/site_1328_0022.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+            "ref": "1328",
+            "latitude": 21.03752,
+            "longitude": 105.838623
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1328",
+        "unesco_documents": "https://whc.unesco.org/en/list/1328/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1328/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1328/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 15,
+        "inscription_year": 2010
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Central Sector of the Imperial Citadel of Thang Long - Hanoi The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south. The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south. Vietnam Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "ha_long_bay_cat_ba_archipelago",
+      "uuid": "d3ccc2ef-56cd-5563-a52b-8042e3b81b0e",
+      "unesco_id": "672",
+      "names": {
+        "en": "Ha Long Bay - Cat Ba Archipelago",
+        "fr": "Baie d’Ha Long – archipel de Cat Ba",
+        "es": "Bahía de Ha Long - Archipiélago de Cat Ba",
+        "ru": "Бухта Ха-Лонг – Архипелаг Катба",
+        "ar": "خليج هالونغ – أرخبيل كاتبا توسيع مساحة",
+        "zh": "下龙湾-吉婆群岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems.",
+          "fr": "D'une superficie de 65 650 ha et comprenant 1 133 îles et îlots, la Baie d'Ha Long - archipel de Cat Ba est située dans le nord-est du Viet Nam, dans la province de Quang Ninh et la ville de Hai Phong. Composé d'une multitude d'îles et d'îlots calcaires émergeant de la mer, de tailles et de formes variées et présentant une nature pittoresque et intacte, la Baie d'Ha Long - archipel de Cat Ba est un paysage marin spectaculaire sculpté par la nature. Exemple le plus étendu et le plus connu de karst à tours envahi par la mer, la Baie d'Ha Long et l'archipel de Cat Ba constituent l'une des plus importantes zones de karst fengcong (grappes de pics coniques) et fenglin (tours isolées) au monde. En outre, ce paysage d'une beauté exceptionnelle est également dominé par des écosystèmes typiques.",
+          "es": "La bahía de Ha Long, en el golfo de Tonkín, incluye unas 1 600 islas e islotes que forman un espectacular paisaje marino de pilares calcáreos. Su extensión comprende una multitud de islas calcáreas e imponentes pilares de piedra caliza que surgen del mar, con muescas erosionadas, arcos y cuevas que crean un paisaje bello y pintoresco. Aquí se encuentran siete tipos de ecosistemas clave y la zona alberga especies endémicas amenazadas como el langur de Cat Ba (Trachypithecus poliocephalus), el geco tigre de Cat Ba (Goniurosaurus Catbaensis) y la nutria asiática de garras pequeñas (Aonyx cinerea).",
+          "ru": "В Бухте Ха-Лонг, расположенной в Тонкинском заливе, насчитывается около 1600 островов и островков, образующих впечатляющий морской пейзаж из известняковых столбов. Расширение территории включает в себя множество известняковых островов и возвышающихся над морем известняковых столбов с выветрившимися выемками, арками и пещерами, создающими живописный и удивительный ландшафт. Здесь встречаются семь основных типов экосистем и обитают эндемичные виды, находящиеся под угрозой исчезновения: лангур Катба (Trachypithecus poliocephalus), тигровый геккон Катба (Goniurosaurus Catbaensis) и азиатская малая когтистая выдра (Aonyx cinerea).",
+          "ar": "يضم خليج هالونغ، في خليج تونكين زهاء 1600 جزيرة وجزيرة صغيرة، الأمر الذي يرسم منظراً بحرياً خلاباً لأعمدة الحجر الجيري. وتضم أجزاء الموقع الجديدة العديد من جزر الحجر الجيري وأعمدة الحجر الجيري الشاهقة المرتفعة من البحر، مع الشقوق والأقواس والكهوف المتآكلة التي تشكّل مناظر طبيعية خلابة ورائعة. ويوجد في الموقع سبعة أنواع رئيسيّة من النظم البيئية، وتؤوي المنطقة مجموعة من الأصناف السمتوطنة والمهددة مثل قرد لانجور الأبيض الرأس، وأبو بريص كاتب با تايجر غيكو، والقضاعة الشرقية الصغيرة المخالب.",
+          "zh": "下龙湾位于北部湾，约1600个大小岛屿组成壮观的石灰石柱海景。拓展部分包括众多的石灰石岛屿和高耸海面的石灰石柱。海水侵蚀而成的凹槽、拱门和洞穴共同铸就了风景如画、美丽迷人的景观。这里已发现7种主要生态系统类型，也是一些受威胁特有物种的栖息地，如金头乌叶猴、吉婆睑虎、亚洲小爪水獭。"
+        },
+        "full": "Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            7,
+            8
+          ],
+          "display": "(vii)(viii)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 65650,
+          "square_km": 656.5,
+          "square_miles": 265.677,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1994,
+          "all_dates": [
+            1994,
+            2000,
+            2023
+          ],
+          "extensions": [
+            2000,
+            2023
+          ],
+          "timeline": [
+            {
+              "year": 1994,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2000,
+              "event": "Extended"
+            },
+            {
+              "year": 2023,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 2
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/8cd13011560a4648d7d7a74722893944",
+          "filename": "site_0672_0050.jpg",
+          "dimensions": {
+            "width": 1942,
+            "height": 1332
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/192596/site_0672_0050.jpg",
+            "https://whc.unesco.org/document/192597/site_0672_0051.jpg",
+            "https://whc.unesco.org/document/192598/site_0672_0052.jpg",
+            "https://whc.unesco.org/document/192599/site_0672_0053.jpg",
+            "https://whc.unesco.org/document/192600/site_0672_0054.jpg",
+            "https://whc.unesco.org/document/192601/site_0672_0055.jpg",
+            "https://whc.unesco.org/document/192602/site_0672_0056.jpg",
+            "https://whc.unesco.org/document/192603/site_0672_0057.jpg",
+            "https://whc.unesco.org/document/192590/site_0672_0044.jpg",
+            "https://whc.unesco.org/document/192591/site_0672_0045.jpg",
+            "https://whc.unesco.org/document/192592/site_0672_0046.jpg",
+            "https://whc.unesco.org/document/192593/site_0672_0047.jpg",
+            "https://whc.unesco.org/document/192594/site_0672_0048.jpg",
+            "https://whc.unesco.org/document/192595/site_0672_0049.jpg",
+            "https://whc.unesco.org/document/112290/site_0672_0001.jpg",
+            "https://whc.unesco.org/document/112292/site_0672_0002.jpg",
+            "https://whc.unesco.org/document/112294/site_0672_0003.jpg",
+            "https://whc.unesco.org/document/112296/site_0672_0004.jpg",
+            "https://whc.unesco.org/document/112298/site_0672_0005.jpg",
+            "https://whc.unesco.org/document/112300/site_0672_0006.jpg",
+            "https://whc.unesco.org/document/112302/site_0672_0007.jpg",
+            "https://whc.unesco.org/document/112304/site_0672_0008.jpg",
+            "https://whc.unesco.org/document/112306/site_0672_0009.jpg",
+            "https://whc.unesco.org/document/112308/site_0672_0010.jpg",
+            "https://whc.unesco.org/document/112310/site_0672_0011.jpg",
+            "https://whc.unesco.org/document/118648/site_0672_0019.jpg",
+            "https://whc.unesco.org/document/119080/site_0672_0020.jpg",
+            "https://whc.unesco.org/document/119081/site_0672_0021.jpg",
+            "https://whc.unesco.org/document/119082/site_0672_0022.jpg",
+            "https://whc.unesco.org/document/124658/site_0672_0023.jpg",
+            "https://whc.unesco.org/document/124659/site_0672_0024.jpg",
+            "https://whc.unesco.org/document/124660/site_0672_0025.jpg",
+            "https://whc.unesco.org/document/124661/site_0672_0026.jpg",
+            "https://whc.unesco.org/document/124662/site_0672_0027.jpg",
+            "https://whc.unesco.org/document/124663/site_0672_0028.jpg",
+            "https://whc.unesco.org/document/128883/site_0672_0030.jpg",
+            "https://whc.unesco.org/document/128884/site_0672_0031.jpg",
+            "https://whc.unesco.org/document/128885/site_0672_0032.jpg",
+            "https://whc.unesco.org/document/128886/site_0672_0033.jpg"
+          ],
+          "count": 39
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ha Long Bay - Cat Ba Archipelago",
+            "ref": "672ter",
+            "latitude": 20.8327777778,
+            "longitude": 107.1611111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/672",
+        "unesco_documents": "https://whc.unesco.org/en/list/672/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/672/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/672/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 31,
+        "inscription_year": 1994
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ha Long Bay - Cat Ba Archipelago Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems. Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems. Vietnam Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "my_son_sanctuary",
+      "uuid": "f06c97be-37c3-52d7-bba7-dde16935b92d",
+      "unesco_id": "949",
+      "names": {
+        "en": "My Son Sanctuary",
+        "fr": "Sanctuaire de Mi-sön",
+        "es": "Santuario de My Son",
+        "ru": "Святилище Мишон",
+        "ar": "ضريح مي- سون",
+        "zh": "圣子修道院"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence.",
+          "fr": "Du IVe au XIIIe siècle, la côte du Viet Nam contemporain accueillait une culture unique, associée par ses racines spirituelles à l'hindouisme indien. Cette relation est illustrée par les vestiges d'une série d'impressionnantes tours-sanctuaires, au cœur d'un site remarquable qui fut pendant quasiment toute son existence la capitale religieuse et politique du royaume de Champâ.",
+          "es": "En el litoral del actual Viet Nam floreció, entre los siglos IV y XIII, una civilización única en su género, cuyas raíces espirituales estaban estrechamente vinculadas al hinduismo. Vestigio de esa civilización es el conjunto de imponentes torres-santuarios erigidas en el sitio espectacular donde estuvo emplazada la ciudad que fue capital política y religiosa del Reino de Champa durante la casi totalidad de ese periodo.",
+          "ru": "В период между IV и XIII вв. в этом приморском районе Вьетнама сложилась уникальная цивилизация, духовные основы которой были тесно связаны с индуизмом. Доказательством этому служат остатки впечатляющих башнеподобных храмов, расположенных в живописном месте, где некогда существовала религиозная и культурная столица государства Чампа.",
+          "ar": "احتضن ساحل فييتنام الحديثة من القرن الرابع الى القرن الثالث عشر ثقافة فريدة ترتبط جذورها الروحية بالهندوسية الهندية. وتبرز هذه العلاقة في آثار سلسلة من الأبراج الهرمية المدهشة في قلب موقع ملفت شكّل طيلة فترة وجوده تقريباً عاصمة دينية وسياسية لمملكة تشامبا.",
+          "zh": "公元4世纪到13世纪，一种独特的文化在现在的越南边境地区得到了发展，这种文化的宗教起源是印度教。由占婆王国作为宗教和政治首府时所保存的一系列庙宇和殿堂生动地说明了这一切。"
+        },
+        "full": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence.",
+        "justification": "Brief synthesis During the 4th to 13th centuries there was a unique culture on the coast of contemporary Vietnam, owing its spiritual origins to the Hinduism of India. This is graphically illustrated by the remains of a series of impressive tower temples in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence. My Son Sanctuary dates from the 4th to the 13th centuries CE. The property is located in the mountainous border Duy Xuyen District of Quang Nam Province, in central Viet Nam. It is situated within an elevated geological basin surrounded by a ring of mountains, which provides the watershed for the sacred Thu Bon river. The source of the Thu Bon river is here and it flows past the monuments, out of the basin, and through the historic heartland of the Champa Kingdom, draining into the South China Sea at its mouth near the ancient port city of Hoi An. The location gives the sites its strategic significance as it is also easily defensible. The tower temples were constructed over ten centuries of continuous development in what was the heart of the ancestral homeland of the ruling Dua Clan which unified the Cham clans and established the kingdom of Champapura (Sanskrit for City of the Cham people) in 192 CE. During the 4th to 13th centuries CE this unique culture, on the coast of contemporary Viet Nam, owed its spiritual origins to the Hinduism of the Indian sub-continent. Under this influence many temples were built to the Hindu divinities such as Krishna and Vishnu, but above all Shiva. Although Mahayan Buddhist penetrated the Cham culture, probably from the 4thcentury CE, and became strongly established in the north of the kingdom, Shivite Hinduism remained the established state religion. The monuments of the My Son sanctuary are the most important constructions of the My Son civilization. The tower temples have a variety of architectural designs symbolizing the greatness and purity of Mount Meru, the mythical sacred mountain home of Hindu gods at the center of the universe, now symbolically reproduced on Earth in the mountainous homeland of the Cham people. They are constructed in fired brick with stone pillars and decorated with sandstone bas-reliefs depicting scenes from Hindu mythology. Their technological sophistication is evidence of Cham engineering skills while the elaborate iconography and symbolism of the tower-temples give insight into the content and evolution of Cham religious and political thought. The My Son Sanctuary is a remarkable architectural ensemble that developed over a period of ten centuries. It presents a vivid picture of spiritual and political life in an important phase of the history of South-East Asia. The monuments are unique and without equal in Southeast Asia. Criterion (ii): The My Son Sanctuary is an exceptional example of cultural interchange, with an indigenous society adapting to external cultural influences, notably the Hindu art and architecture of the Indian sub-continent. Criterion (iii): The Champa Kingdom was an important phenomenon in the political and cultural history of South – East Asia, vividly illustrated by the ruins of My Son. Integrity The Hindu tower temples of the My Son Sanctuary are located within a well-protected property with clearly defined boundaries. Eight groups of 71 standing monuments exist as well as extensive buried archaeology representing the complete historic sequence of construction of tower temples at the site, covering the entire period of the existence of the Champa Kingdom. Conservation of the My Son monuments began in the early part of the 20th century CE soon after their discovery in modern times by French archaeologists. During World War II, the First Indo-China War and, especially, during the Second Indo-China War, many tower temples were damaged. However, conservation work has been carried out and the remaining tower temples have been maintained and are well-preserved. The site is at risk from severe climatic conditions such as flooding and high humidity, though stream widening and clearance of surrounding vegetation have minimized these impacts. There remains an enduring issue of the possible presence of unidentified, unexploded ordnance within the boundaries of the property’s buffer zone, which has affected the archaeological research of newly-discovered areas, restoration of eight monumental areas, as well as site presentation for visitors. Authenticity Our understanding of the authenticity of the My Son Sanctuary is underpinned by the work of Henry Parmentier in the early 20th century. Historically, investigation by archaeologists, historians, and other scholars in the 19th and early 20th century has recorded the significance of the site through its monuments, which are masterpieces of brick construction of the period, both in terms of the technology of their construction and because of their intricate carved-brick decorations. The location and the sacred nature of the site ensured that the monuments have remained intact within their original natural setting, although many have suffered some damage over the years. Conservation interventions under French and Polish expert guidance have been relatively minor and do not affect the overall level of authenticity of the site. The authenticity of My Son in terms of design, materials, workmanship, and setting continues to support it Outstanding Universal Value. Protection and management requirements The property was recognized as a National Site in 1979 by the Culture Ministry and as a Special National site in 2009 by the national government. All local and national authorities must act according to the provisions of the Cultural Heritage Law (2001 amended 2009). Overall responsibility for the protection of the property rests with the Ministry of Culture, Sports and Tourism, operating through its Department of Preservation and Museology. This responsibility is devolved to the Quang Nam Provincial Department of Culture, Sport and Tourism which collaborates closely with the People’s Committee of Duy Xuyen District, which has established My Son Management Board of Relics and Tourism. Account is taken of the special needs of the historic heritage in the Nation Plan for the Development of Tourism and in the General Plan for the Socio – Economic Development of Duy Xuyen District. A strategy for the revision of the Conservation Master plan of My Son is being developed as part of the current UNESCO Asia- Pacific World Heritage site project for My Son, and should be integrated within an up to date Management Plan for the site. After the unification of Viet Nam in 1975, conservation work began again in earnest and now the conservation of the property is of a high standard with both national and international teams working on site. Although the Vietnamese authorities demined unexploded ordnance at four main monuments since 1975, this is progressing slowly and much de-mining work remains to be carried out. To further the safeguarding of the property, the Prime-Minister of Viet Nam promulgated Decision 1915/ QĐ-TTg, which gave formal approval and provided budgetary support for the property’s Master Plan (2008 to 2020) for the conservation and tourism promotion of the property. The management of the forested areas surrounding the site needs to be improved to allow better environmental protection of the property. Detailed monitoring of these areas for the effects of extreme climatic conditions should continue to be addressed, and should be included in the future long-term management of the property. With significantly increased numbers of tourists visiting the site, managing its carrying–capacity will be increasingly important and should also be addressed as part of a Management Plan as is required for the site. It is essential to continue with the de-mining work to ensure the safety of people and to allow appropriate access and understanding of the monuments in their setting."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 142,
+          "square_km": 1.42,
+          "square_miles": 0.575,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/13d4c7d33ae072899da2add888f7447b",
+          "filename": "site_0949_0015-500-0-20241217153326.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/130148/site_0949_0015.jpg",
+            "https://whc.unesco.org/document/218573/site_0949_0028.jpg",
+            "https://whc.unesco.org/document/218574/site_0949_0029.jpg",
+            "https://whc.unesco.org/document/218575/site_0949_0030.jpg",
+            "https://whc.unesco.org/document/113712/site_0949_0001.jpg",
+            "https://whc.unesco.org/document/113714/site_0949_0002.jpg",
+            "https://whc.unesco.org/document/113717/site_0949_0003.jpg",
+            "https://whc.unesco.org/document/113719/site_0949_0004.jpg",
+            "https://whc.unesco.org/document/113721/site_0949_0005.jpg",
+            "https://whc.unesco.org/document/113723/site_0949_0006.jpg",
+            "https://whc.unesco.org/document/113725/site_0949_0007.jpg",
+            "https://whc.unesco.org/document/113727/site_0949_0008.jpg",
+            "https://whc.unesco.org/document/113729/site_0949_0009.jpg",
+            "https://whc.unesco.org/document/130143/site_0949_0010.jpg",
+            "https://whc.unesco.org/document/130146/site_0949_0013.jpg",
+            "https://whc.unesco.org/document/130147/site_0949_0014.jpg",
+            "https://whc.unesco.org/document/130149/site_0949_0016.jpg",
+            "https://whc.unesco.org/document/130150/site_0949_0017.jpg",
+            "https://whc.unesco.org/document/134783/site_0949_0018.jpg",
+            "https://whc.unesco.org/document/134784/site_0949_0019.jpg",
+            "https://whc.unesco.org/document/134785/site_0949_0020.jpg",
+            "https://whc.unesco.org/document/134786/site_0949_0021.jpg",
+            "https://whc.unesco.org/document/134787/site_0949_0022.jpg",
+            "https://whc.unesco.org/document/134788/site_0949_0023.jpg",
+            "https://whc.unesco.org/document/134789/site_0949_0024.jpg",
+            "https://whc.unesco.org/document/134790/site_0949_0025.jpg",
+            "https://whc.unesco.org/document/134791/site_0949_0026.jpg",
+            "https://whc.unesco.org/document/134792/site_0949_0027.jpg"
+          ],
+          "count": 28
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "My Son Sanctuary",
+            "ref": "949",
+            "latitude": 15.773843,
+            "longitude": 108.109169
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/949",
+        "unesco_documents": "https://whc.unesco.org/en/list/949/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/949/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/949/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "My Son Sanctuary Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence. Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence. Vietnam Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "trang_an_landscape_complex",
+      "uuid": "910352ba-9730-598a-b973-9747f93dfc7e",
+      "unesco_id": "1438",
+      "names": {
+        "en": "Trang An Landscape Complex",
+        "fr": "Complexe paysager de Trang An",
+        "es": "Complejo paisajístico de Trang An",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages.",
+          "fr": "Situé sur la rive méridionale du delta du fleuve Rouge, Trang An est un spectaculaire paysage de pitons karstiques sillonné de vallées, pour certaines immergées, et encadré de falaises abruptes, presque verticales. L’exploration de quelques-unes des grottes les plus en altitude qui ponctuent ce paysage a mis au jour des traces archéologiques d’une activité humaine qui remonte à 30 000 ans environ. Elles illustrent l’occupation de ce massif par des chasseurs-cueilleurs et leur adaptation aux changements climatiques et environnementaux. Le bien comprend aussi Hoa Lu, l’ancienne capitale du Viet Nam aux Xe et XIe siècles, ainsi que des temples, des pagodes et des paysages de rizières, de villages et de lieux sacrés.",
+          "es": "Situado cerca de la orilla meridional del delta del Río Rojo y formado por un macizo de picos cársticos, el espectacular paisaje de Trang An está surcado por varios valles, sumergidos en parte por las aguas, y se halla enmarcado por farallones abruptos prácticamente verticales. Las exploraciones efectuadas en algunas de las grutas más altas que jalonan este sitio han permitido descubrir vestigios arqueológicos de actividades del ser humano que se remontan a unos 30.000 años atrás. Estos vestigios son un testimonio de la ocupación de este macizo montañoso por grupos de cazadores-recolectores, así como de la adaptación de éstos a los cambios climáticos y ambientales. El sitio abarca también la localidad de Hoa Lu, antigua capital de Viet Nam en los siglos X y XI, y una serie de templos, pagodas, paisajes de arrozales, aldeas y lugares de carácter sagrado.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages.",
+        "justification": "Brief synthesis Located within Ninh Binh Province of North Vietnam near the southern margin of the Red River Delta, the Trang An Landscape Complex (Trang An) is a mixed cultural and natural property contained mostly within three protected areas; the Hoa Lu Ancient Capital, the Trang An-Tam Coc-Bich Dong Scenic Landscape, and the Hoa Lu Special-Use Forest. The property covers 6,226 hectares within the Trang An limestone massif, and is surrounded by a buffer zone of 6,026 hectares, mostly rural land with rice paddy fields. There are about 14,000 residents, the majority of whom are families involved in subsistence agriculture, but much of the property is uninhabited and in a natural state. Trang An is of global significance as an outstanding humid tropical tower-karst landscape in the final stages of geomorphic evolution. It is composed of a variety of classical karst cones and towers and a network of enclosed depressions connected by an intricate system of subterranean waterways, some of which are navigable by small boats. The area is unique in having been invaded by the sea several times in the recent geological past but is now emergent on land. The blend of towering mountains draped in natural rain forest, with large internal basins and narrow cave passages containing quietly flowing waters, creates an extraordinarily beautiful and tranquil landscape. Archaeological deposits in caves reveal a regionally significant, continuous sequence of human occupation and utilization spanning more than 30,000 years. There is convincing evidence showing how early human groups adapted to changing landscapes in the massif, including some of the most extreme climatic and environmental changes in the planet’s recent history. Criterion (v): Trang An is an outstanding locale within Southeast Asia, for demonstrating the way early humans interacted with the natural landscape and adapted to major changes in climatic, geographical and environmental conditions over a period of more than 30,000 years. The long cultural history is closely associated with geological evolution of the Trang An limestone massif in late Pleistocene and early Holocene times, when the inhabitants endured some of the most turbulent climatic and environmental changes in Earth history, including repeated submergence of the landscape due to oscillating sea levels. Within the one compact landscape there are many sites covering multiple periods and functions, comprising early human settlement systems. Criterion (vii): The exceptionally beautiful tower-karst landscape of Trang An is dominated by a spectacular array of forest-mantled limestone rock towers up to 200m high, which are linked in places by sharp ridges enclosing deep depressions filled by waterways that are inter-connected by a myriad of subterranean cave passages. These features all contribute to a multi-sensory visitor experience that is heightened by contrasting and ever-changing colours - the deep green tropical rainforests, grey limestone rocks and cliffs, blue-green waters and the brilliant blue of the sky, and areas of human use including the green and yellow rice paddies. Visitors, conveyed in traditional sampans rowed by local guides, experience an intimate connection with the natural environment and a relaxing sense of serenity and security. The dramatic mountains, secretive caves and sacred places in Trang An have inspired people through countless generations. Criterion (viii): Trang An is a superb geological property that displays, in a globally exceptional way, the final stages of tower-karst landscape evolution in a humid tropical environment. Deep dissection of an uplifted limestone massif over a period of five million years has produced a series of classical karst landforms, including cones, towers, enclosed depressions (cockpits), interior-draining valleys (poljes), foot- caves and subterranean cave passages decorated with speleothems. The presence of transitional forms between ‘fengcong’ karst with ridges connecting towers, and ‘fenglin’ karst where towers stand isolated on alluvial plains, is an extremely significant feature of the property. Trang An is an unusual autogenic karst system, being rain-fed only and hydrologically isolated from rivers in the surrounding terrain. Former inundation by the sea transformed the massif into an archipelago for some periods, though it is fully emergent on land today. Fluctuations of sea level are evidenced by an altitudinal series of erosion notches in cliffs, with associated caves, wave-cut platforms, beach deposits and marine shell layers. Integrity The property is of sufficient size and scope to encompass almost the entire limestone massif, with a full range of classic tower-karst landforms and associated geomorphic processes. All caves and other sites known to be of archaeological significance are included. The very rugged topography has generally isolated the property from intensive occupation and utilization, and much of its interior remains in a natural state. Within the extensive natural areas of the property there are no structures that obstruct the scenery or detract from the aesthetic appeal. Occupied areas are mainly small traditional villages and associated gardens and rice paddy fields tended by subsistence farmers. The greater part of the property is enclosed within three officially designated protected areas, and contains a number of other sites protected by Government Decree. A large buffer zone surrounds the property and is designed to protect it from external impacts. It contains many small villages together with gardens, farms and rice paddies, and also the recently reconstructed Bai Dinh Pagoda complex. Trang An is a relatively small property that supports a resident population and is host to a large and growing number of tourist visitors. Close monitoring, strict regulation and careful management will be required in the long term to avoid pressures and threats from urban expansion, resource use, village growth and excessive tourist infrastructure and use, and service development. These are among the key issues given priority attention in the property management plan. Authenticity Knowledge of the ancient inhabitants of Trang An, their culture and relationship to the landscape comes primarily from archaeological investigation and excavation in caves within the massif, which are still largely in their original condition – a rarity in Southeast Asia. The rich archaeological resources are predominantly midden accumulations containing shells, animal bones, stone tools, hearths, corded-ware pottery and occasionally human remains. The sites are yielding vivid palaeo-environmental records from analysis of pollen, seeds and plant tissue, from fauna, and from geomorphic evidence of ancient shorelines. These studies are supported by sophisticated modern techniques such as geo-chemical analysis of plant carbon isotopes and lipids, and shell oxygen isotopes, and the pioneering use in Southeast Asia of LiDAR (Light Distancing and Ranging) to create millimetre-accurate images of cave sites. All materials are professionally plotted, collected, catalogued, stored and analysed. The results of studies have been communicated through an impressive portfolio of published scientific papers, and are also reported in a definitive monograph on human adaptation in the Asian Palaeolithic, the author of which has conducted research in Trang An for almost a decade. Protection and management requirements Trang An is State-owned and is controlled by the Ninh Binh Provincial People’s Committee. Most of the property is secured within three statutory protected areas: the Hoa Lu Ancient Capital, the Trang An-Tam Coc-Bich Dong Scenic Landscape and the Hoa Lu Special-Use Forest. Six primary national laws and a series of Government decrees provide measures for: administration and management of the property; protection of cultural heritage, monuments, relics and archaeological sites and resources; biodiversity conservation; environmental protection; eco-tourism and other commercial activities; and sustainable socio-economic development. The property is managed by the Trang An Landscape Complex Management Board, an independent agency with extensive decision-making powers, responsibilities and resources, and with close functional links to Government ministries, research institutes, and commercial and community stakeholders. Management is guided by a comprehensive, Government-approved and legally binding management plan, prepared in consultation with the public and key stakeholders. The plan adopts a zoning system that allows for management prescriptions to be more effectively aligned to the varying protection and use requirements in different parts of the property. A long-term lease gives delegated authority to a private company for some aspects of conservation and tourism management in the Trang An-Tam Coc-Bich Dong Scenic Landscape area. There are four small private tourist resort operations within the property. Ongoing management priorities include: extended monitoring and control of tourist operations; development of better visitor centres and services; ongoing research together with improved archaeological site conservation, database development, and collection, storage and display of artefacts; expansion of training, education, awareness-raising and promotion programmes; and support for social and economic development of local communities through employment opportunities, and more effective sustainable use and conservation of natural resources."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            5,
+            7,
+            8
+          ],
+          "display": "(v)(vii)(viii)",
+          "count": 3,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 6226,
+          "square_km": 62.26,
+          "square_miles": 25.196,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7b10b2f3dafac0304a1d6233faeb53d4",
+          "filename": "site_1438_0008.jpg",
+          "dimensions": {
+            "width": 2256,
+            "height": 1496
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/129643/site_1438_0008.jpg",
+            "https://whc.unesco.org/document/129637/site_1438_0002.jpg",
+            "https://whc.unesco.org/document/129638/site_1438_0003.jpg",
+            "https://whc.unesco.org/document/129639/site_1438_0004.jpg",
+            "https://whc.unesco.org/document/129640/site_1438_0005.jpg",
+            "https://whc.unesco.org/document/129641/site_1438_0006.jpg",
+            "https://whc.unesco.org/document/129642/site_1438_0007.jpg",
+            "https://whc.unesco.org/document/129644/site_1438_0009.jpg",
+            "https://whc.unesco.org/document/129645/site_1438_0010.jpg",
+            "https://whc.unesco.org/document/129646/site_1438_0011.jpg",
+            "https://whc.unesco.org/document/129647/site_1438_0012.jpg",
+            "https://whc.unesco.org/document/129653/site_1438_0018.jpg",
+            "https://whc.unesco.org/document/129654/site_1438_0019.jpg",
+            "https://whc.unesco.org/document/134837/site_1438_0020.jpg",
+            "https://whc.unesco.org/document/134838/site_1438_0021.jpg",
+            "https://whc.unesco.org/document/134839/site_1438_0022.jpg",
+            "https://whc.unesco.org/document/134840/site_1438_0023.jpg",
+            "https://whc.unesco.org/document/134841/site_1438_0024.jpg",
+            "https://whc.unesco.org/document/134842/site_1438_0025.jpg",
+            "https://whc.unesco.org/document/134843/site_1438_0026.jpg",
+            "https://whc.unesco.org/document/134844/site_1438_0027.jpg",
+            "https://whc.unesco.org/document/134845/site_1438_0028.jpg",
+            "https://whc.unesco.org/document/134846/site_1438_0029.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Trang An Landscape Complex",
+            "ref": "1438bis",
+            "latitude": 20.2566666667,
+            "longitude": 105.8963888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1438",
+        "unesco_documents": "https://whc.unesco.org/en/list/1438/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1438/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1438/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Trang An Landscape Complex Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages. Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages. Vietnam Asia and the Pacific Mixed"
+    },
+    {
+      "site_key": "complex_of_hue_monuments",
+      "uuid": "840ad8f4-8247-531d-8d86-56751d16c2b4",
+      "unesco_id": "678",
+      "names": {
+        "en": "Complex of Hué Monuments",
+        "fr": "Ensemble de monuments de Huê",
+        "es": "Conjunto de monumentos de Huê",
+        "ru": "Комплекс памятников Хюэ",
+        "ar": "مجموعة نصب هوي",
+        "zh": "顺化历史建筑群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty.",
+          "fr": "Établie comme capitale du Viet Nam unifié en 1802, la ville de Huê a été non seulement le centre politique mais aussi le centre culturel et religieux sous la dynastie Nguyên, jusqu'en 1945. La rivière des Parfums serpente à travers la cité-capitale, la cité impériale, la cité pourpre interdite et la cité intérieure, ajoutant la beauté de la nature à cette capitale féodale unique.",
+          "es": "Proclamada capital del Viet Nam unificado en 1802, Huê fue el centro político, cultural y religioso del país bajo la dinastía Nguyên, hasta 1945. El río de los Perfumes serpentea a través de la Ciudad-Capital, la Ciudad Imperial, la Ciudad Púrpura Prohibida y la Ciudad Interior, dando a esta capital feudal, única en su género, el encanto de un marco natural de gran belleza.",
+          "ru": "Ставший в 1802 г. столицей объединенного Вьетнама город Хюэ был не только политическим, но также культурным и религиозным центром в период правления династии Нгуен вплоть до 1945 г. Река Хыонг (Ароматная), пересекающая все части старого города – Столичный город, Императорский город, Запретный или Пурпурный город и Внутренний город, - придает особенную красоту этой уникальной феодальной столице.",
+          "ar": "تأسست مدينة هوي لتكون عاصمة فييتنام الموحدة عام 1802، لكنها لم تشكل مركزاً سياسياً فحسب بل أيضاً مركزاً ثقافياً ودينياً في ظل حكم النغويين حتى عام 1945. ويتعرج نهر العطور عبر المدينة العاصمة والمدينة الامبراطورية والمدينة الأرجوانية المحظورة والمدينة الداخلية، مضفياً على هذه العاصمة الفيدرالية الفريدة جمالاً طبيعياً.",
+          "zh": "顺化作为统一后越南的首都建于1802年，在阮朝统治下直到1945年。在此期间它不仅是政治中心，同时也是文化和宗教中心。香河蜿蜒流经都城、帝国城、紫禁城以及内城，给这个独特的封建都市平添了许多自然景色。"
+        },
+        "full": "Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty.",
+        "justification": "Brief synthesis The Complex of Hue Monuments is located in and around Hue City in Thua Thien-Hue Province in the geographical centre of Vietnam and with easy access to the sea. Established as the capital of unified Vietnam in 1802 CE, Hue was not only the political but also the cultural and religious centre under the Nguyen Dynasty, the last royal dynasty of Vietnamese history, from 1802 to 1945 CE. The plan of the new capital is in accordance with ancient oriental philosophy, and respected the physical conditions of the site. The Ngu Binh Mountain (known as the Royal Screen) and the Perfume River, which runs through the city, give this unique feudal capital an entire setting of great natural beauty as well defining its symbolic importance. The site was chosen for a combination of natural features – hills representing a protective screen in front of the monuments or taking the role of “a blue dragon” to the left and “a white tiger” to the right – which shield the main entrance and prevent the entry of malevolent spirits. Within this landscape, the main features of the city are laid out. The structures of the Complex of Hue Monuments are carefully placed within the natural setting of the site and aligned cosmologically with the Five Cardinal Points (centre, west, east, north, south), the Five Elements (earth, metal, wood, water, fire), and the Five Colours (yellow, white, blue, black, red). The central structure is the Hue Citadel area which was the administrative centre of southern Viet Nam during the 17th and 18th centuries CE. Within the Hue Citadel were located not only administrative and military functions of the Empire, but also the Imperial Residence, the Hoang Thanh (Imperial City), the Tu Cam Thanh (Forbidden Purple City) and related royal palaces. Tran Binh Dai, an additional defensive work in the north-east corner of the Capital City, was designed to control movement on the river. Another fortress, Tran Hai Thanh, was constructed a little later to protect the capital against assault from the sea. Outside the Capital City there are several associated monuments of importance. In the outlying areas were located important ritual sites related to the spiritual life of the dynasty such as the Van Mieu (Temple of Literature), the Dan Nam Giao (Esplanade of Sacrifice to the Heaven and Earth), the Ho Quyen (Royal Area), the Den Voi Re (Temple of the Roaring Elephant), and the Chua Thien Mu (Celestial Lady Pagoda). Further upstream, arranged along the Perfume River were the tombs of the dynasty’s emperors. The Complex of Hue Monuments is a remarkable example of the planning and construction of a complete defended capital city in a relatively short period in the early years of the 19th century CE. The integrity of the town layout and building design make it an exceptional specimen of late feudal urban planning in East Asia. Criterion (iv): The Complex of Hue Monuments is an outstanding example of an eastern feudal capital. Integrity The Complex of Hue Monuments site has suffered from the effects of 3 wars, as well as modern development and expanding human settlements. Nevertheless the complex of monuments within its landscape setting remains sufficiently well preserved as a whole, or recorded, to demonstrate that the overall integrity of the site has been maintained. All the key elements of monumental arts, and town planning, that are necessary to express the value for which the site is inscribed on the World Heritage List are included within the well-protected boundaries of the property and its buffer zone. However the wider landscape setting of the property, its relationship with the natural landscape and the other temples and tombs along the Perfume River associated with the monuments within the property, are not included within either boundaries. Authenticity The authenticity of the Complex of Hue Monuments may be understood through the unique layout of the design of the site, which became the imperial capital of the Vietnam Empire in the 19th and early 20th centuries. The basic architectural and landscape features of the site have been maintained intact since their original construction in the early 19th century CE. The natural setting of the Perfume River, within which the citadel, temples and tombs have been laid out in accordance with geomantic principles, demonstrates the symbolic meaning, beauty and significance of the site. The original plan within this setting remains evident. However some of the attributes that allow the understanding of the wider relationship with the river are outside the boundary. The overall setting of the town within its landscape could be compromised by urbanization and development of infrastructure. Although some of the structures are now in ruins, and most of the significant existing monuments have been partially restored, this has been carried out using traditional techniques and materials, according to international professional standards of conservation to ensure that the authenticity of the monuments has been maintained. There continue to be concerns that threats from flooding, insect damage and inappropriate development within the site could affect its authenticity and the ability of the site to demonstrate its Outstanding Universal Value. Protection and management requirements The Complex of Hue Monuments is wholly owned by the Government of the Socialist Republic of Viet Nam. Guided by the 1972 Convention on the Protection of the World Cultural and Natural Heritage, the National Heritage Law (2001, revised in 2009), and a number of other provincial regulations and decisions, the Hue Monuments Conservation Centre, placed directly under the Thua Thien Hue Provincial People’s Committee, is the institution responsible for the management of the complex and the protection of its outstanding universal value. Staffed by more than 700 people from many different professional backgrounds, this institution deals with all issues including zoning, research, tangible and intangible heritage preservation, traditional material reproduction, visitor management, as well as the planning and protection of the landscape setting and associated features in the buffer zone and immediately surrounding area. The Complex of Hue Monuments is given special attention in the Socio-Economic Development Master Plan of Thua Thien Hue Province, which provides direction for the conservation and restoration of the complex through 2020. In addition, an Adjusted Planning Framework for the Complex of Hue Monuments (2010-2020) was approved by the Prime Minister on 7 June 2010. This should control any further infrastructure projects that could impact on the property. The details of how this will protect the site should be explained in the Management Plan in preparation, which itself should be integrated into the regulatory framework for Hue (the Master Plan). The completion of the Management Plan is a priority. The Plan should be based on the approved Statement of Outstanding Universal Value. Re-zoning of the protected area is being considered in order to control increasing urbanization and development of infrastructure. It is important that the works needed to minimize the negative impact of noise and visual pollution on the Minh Mang and Khai Dinh tombs and to reduce the impact of the new highway are completed. Any remaining illegal buildings, within the site should be removed. In addition to development, climate change and natural disasters are other potential problems for the long-term management of the property. To reduce the impact of recurrent floods, three dams are being constructed upstream along the Perfume River. In addition the traditional water network and drainage system within and around the Citadel will be restored, as a means to reduce the vulnerability of the World Heritage property and its inhabitants to the risk of flood, and to reconstitute the historic network of ponds and canals. The level of tourism at the Hue Monuments is growing such that it needs to be managed so as not to exceed the capacity of the site. This issue should also be addressed in the Management Plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 315.47,
+          "square_km": 3.15,
+          "square_miles": 1.277,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1993,
+          "all_dates": [
+            1993
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1993,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/be69db632de53c004ea7e5d67513b378",
+          "filename": "site_0678_0001-500-0-20241217145407.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112322/site_0678_0001.jpg",
+            "https://whc.unesco.org/document/112325/site_0678_0003.jpg",
+            "https://whc.unesco.org/document/112336/site_0678_0008.jpg",
+            "https://whc.unesco.org/document/119076/site_0678_0015.jpg",
+            "https://whc.unesco.org/document/130151/site_0678_0023.jpg",
+            "https://whc.unesco.org/document/218535/site_0678_0038.jpg",
+            "https://whc.unesco.org/document/218536/site_0678_0039.jpg",
+            "https://whc.unesco.org/document/218537/site_0678_0040.jpg",
+            "https://whc.unesco.org/document/218538/site_0678_0041.jpg",
+            "https://whc.unesco.org/document/112323/site_0678_0002.jpg",
+            "https://whc.unesco.org/document/112327/site_0678_0004.jpg",
+            "https://whc.unesco.org/document/112329/site_0678_0005.jpg",
+            "https://whc.unesco.org/document/112332/site_0678_0006.jpg",
+            "https://whc.unesco.org/document/112334/site_0678_0007.jpg",
+            "https://whc.unesco.org/document/119072/site_0678_0011.jpg",
+            "https://whc.unesco.org/document/119073/site_0678_0012.jpg",
+            "https://whc.unesco.org/document/119074/site_0678_0013.jpg",
+            "https://whc.unesco.org/document/119075/site_0678_0014.jpg",
+            "https://whc.unesco.org/document/119077/site_0678_0016.jpg",
+            "https://whc.unesco.org/document/119078/site_0678_0017.jpg",
+            "https://whc.unesco.org/document/119079/site_0678_0018.jpg",
+            "https://whc.unesco.org/document/122782/site_0678_0019.jpg",
+            "https://whc.unesco.org/document/122783/site_0678_0020.jpg",
+            "https://whc.unesco.org/document/122784/site_0678_0021.jpg",
+            "https://whc.unesco.org/document/122785/site_0678_0022.jpg",
+            "https://whc.unesco.org/document/130152/site_0678_0024.jpg",
+            "https://whc.unesco.org/document/130153/site_0678_0025.jpg",
+            "https://whc.unesco.org/document/130154/site_0678_0026.jpg",
+            "https://whc.unesco.org/document/130155/site_0678_0027.jpg",
+            "https://whc.unesco.org/document/130156/site_0678_0028.jpg",
+            "https://whc.unesco.org/document/134745/site_0678_0029.jpg",
+            "https://whc.unesco.org/document/134746/site_0678_0030.jpg",
+            "https://whc.unesco.org/document/134747/site_0678_0031.jpg",
+            "https://whc.unesco.org/document/134748/site_0678_0032.jpg",
+            "https://whc.unesco.org/document/134749/site_0678_0033.jpg",
+            "https://whc.unesco.org/document/134750/site_0678_0034.jpg",
+            "https://whc.unesco.org/document/134751/site_0678_0035.jpg",
+            "https://whc.unesco.org/document/134752/site_0678_0036.jpg",
+            "https://whc.unesco.org/document/134753/site_0678_0037.jpg"
+          ],
+          "count": 39
+        }
+      },
+      "components": {
+        "count": 14,
+        "locations": [
+          {
+            "name": "Tu Duc Tomb",
+            "ref": "678-007",
+            "latitude": 16.4322777778,
+            "longitude": 107.565888889
+          },
+          {
+            "name": "Duc Duc Tomb",
+            "ref": "678-005",
+            "latitude": 16.4514611111,
+            "longitude": 107.592947222
+          },
+          {
+            "name": "Gia Long Tomb",
+            "ref": "678-013",
+            "latitude": 16.361973,
+            "longitude": 107.59571
+          },
+          {
+            "name": "Thieu Tri Tomb",
+            "ref": "678-010",
+            "latitude": 16.4166666667,
+            "longitude": 107.572111111
+          },
+          {
+            "name": "Khai Dinh Tomb",
+            "ref": "678-011",
+            "latitude": 16.398969,
+            "longitude": 107.590321
+          },
+          {
+            "name": "Minh Mang Tomb",
+            "ref": "678-012",
+            "latitude": 16.387733,
+            "longitude": 107.568876
+          },
+          {
+            "name": "Thien Mu Pagoda",
+            "ref": "678-002",
+            "latitude": 16.4546305556,
+            "longitude": 107.54455
+          },
+          {
+            "name": "Dong Khanh Tomb",
+            "ref": "678-008",
+            "latitude": 16.430129,
+            "longitude": 107.569909
+          },
+          {
+            "name": "Hon Chen Temple",
+            "ref": "678-009",
+            "latitude": 16.421956,
+            "longitude": 107.562833
+          },
+          {
+            "name": "Tran Hai Fortress",
+            "ref": "678-014",
+            "latitude": 16.5546836142,
+            "longitude": 107.654933355
+          },
+          {
+            "name": "Nam Giao Esplanade",
+            "ref": "678-006",
+            "latitude": 16.4376944444,
+            "longitude": 107.582555556
+          },
+          {
+            "name": "Royal Arena and Voi Re Temple",
+            "ref": "678-004",
+            "latitude": 16.4486111111,
+            "longitude": 107.554638889
+          },
+          {
+            "name": "Temple of Letters and Temple of Military",
+            "ref": "678-003",
+            "latitude": 16.4527777778,
+            "longitude": 107.539055556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/678",
+        "unesco_documents": "https://whc.unesco.org/en/list/678/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/678/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/678/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 32,
+        "inscription_year": 1993
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Complex of Hué Monuments Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty. Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty. Vietnam Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "yen_tu_vinh_nghiem_con_son_kiep_bac_complex_of_monuments_and_landscapes",
+      "uuid": "f45edea7-9023-5b13-a4f2-fb65ca21b4b6",
+      "unesco_id": "1732",
+      "names": {
+        "en": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",
+        "fr": "Ensemble de monuments et de paysages de Yen Tu-Vinh Nghiem-Con Son, Kiep Bac",
+        "es": "Complejo de monumentos y paisajes Yen Tu-Vinh Nghiem-Con Son, Kiep Bac",
+        "ru": "Комплекс памятников и ландшафтов Йенты, Виньнгием, Коншон, Киепбак",
+        "ar": "مجمَّع ين تو، فين نغيم، كون سون، كيب باك للمعالم الأثرية والمناظر الطبيعية",
+        "zh": "安子、永严、昆山-劫泊建筑和景观群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property comprises 12 sites across forested mountains, lowlands, and river valleys. Centred on the Yen Tu Mountain Range, it was home to the Tran Dynasty during the 13th and 14th centuries and the birthplace of Truc Lam Buddhism, a uniquely Vietnamese Zen tradition that shaped the Dai Viet kingdom. The complex includes pagodas, temples, shrines, and archaeological remains tied to religious and historical figures. Strategically located in geologically favourable settings, it remains a vibrant pilgrimage destination.",
+          "fr": "Ce bien regroupe 12 sites répartis entre montagnes boisées, plaines et régions fluviales. Centré autour de la chaîne de montagnes de Yen Tu, il fut le lieu de résidence de la dynastie Tran aux XIIIe et XIVe siècles et le berceau du bouddhisme Truc Lam, une tradition zen vietnamienne qui a joué un rôle clé dans la formation du royaume de Dai Viet. L’ensemble comprend des pagodes, des temples, des sanctuaires et des vestiges archéologiques associés à des figures religieuses et historiques. Stratégiquement situé dans un cadre géologique favorable, ce site demeure un lieu de pèlerinage animé.",
+          "es": "La zona abarca 12 sitios situados en montañas boscosas, tierras bajas y valles fluviales. Con la cordillera Yen Tu como eje central, fue el hogar de la dinastía Tran durante los siglos XIII y XIV y el lugar de nacimiento del budismo Truc Lam, una tradición zen exclusivamente vietnamita que dio forma al reino Dai Viet. El complejo incluye pagodas, templos, santuarios y restos arqueológicos vinculados a figuras religiosas e históricas. Estratégicamente situado en entornos geológicamente favorables, sigue siendo un importante lugar de peregrinación.",
+          "ru": "Этот комплекс включает 12 объектов, расположенных в лесистых горах, низинах и речных долинах. В его центре находится горный хребет Йенты, где в XIII–XIV веках находилась резиденция династии Чан и сформировалась буддийская школа Чуклам — уникальное вьетнамское течение дзэн, оказавшее влияние на развитие государства Дайвьет. Комплекс включает пагоды, храмы, святилища и археологические памятники, связанные с религиозными и историческими деятелями. Благодаря своему расположению в благоприятной природной среде он и сегодня остаётся важным местом паломничества.",
+          "ar": "يتألف هذا العنصر من 20 موقعاً تتوزع على الجبال المكسوة بالغابات والأراضي المنخفضة وأودية الأنهار، ويتمركز هذا العنصر على سلسلة جبال ين تو حيث كان موطناً لأسرة تران خلال القرنين الثالث عشر والرابع عشر، ومنشأ مذهب تروك لام البوذي وهو أحد تقاليد الزن الفييتنامي الفريدة من نوعها الذي اتسمت به مملكة الداي فييت. ويتضمن المجمَّع باغودا ومعابد وأضرحة وبقايا أثرية ترتبط بشخصيات دينية وتاريخية. ويتمتع هذا العنصر بموقع استراتيجي مؤاتٍ من الناحية الجيولوجية، ولا يزال وجهة حيوية للحج.",
+          "zh": "该遗产由分布于山林、低地、河谷的12个遗产点组成，以安子山脉为核心，是13-14世纪陈朝的所在地，也是竹林禅派——塑造“大越”国的越南特色禅宗传统——的发源地。遗产群包括佛塔、寺庙、圣祠以及与宗教和历史人物相关的考古遗址。其地理区位和地质环境优越，至今仍是活跃的朝圣地。"
+        },
+        "full": "The property comprises 12 sites across forested mountains, lowlands, and river valleys. Centred on the Yen Tu Mountain Range, it was home to the Tran Dynasty during the 13th and 14th centuries and the birthplace of Truc Lam Buddhism, a uniquely Vietnamese Zen tradition that shaped the Dai Viet kingdom. The complex includes pagodas, temples, shrines, and archaeological remains tied to religious and historical figures. Strategically located in geologically favourable settings, it remains a vibrant pilgrimage destination.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 525.748,
+          "square_km": 5.26,
+          "square_miles": 2.128,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/265d5b7cd8e6aba179730e50ac956981",
+          "filename": "site_1732_0005.jpg",
+          "dimensions": {
+            "width": 2976,
+            "height": 4464
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/219903/site_1732_0005.jpg",
+            "https://whc.unesco.org/document/220692/site_1732_0007.jpg",
+            "https://whc.unesco.org/document/220693/site_1732_0008.jpg",
+            "https://whc.unesco.org/document/220694/site_1732_0009.jpg",
+            "https://whc.unesco.org/document/220696/site_1732_0011.jpg",
+            "https://whc.unesco.org/document/220697/site_1732_0012.jpg",
+            "https://whc.unesco.org/document/220698/site_1732_0013.jpg",
+            "https://whc.unesco.org/document/220699/site_1732_0014.jpg",
+            "https://whc.unesco.org/document/220700/site_1732_0015.jpg",
+            "https://whc.unesco.org/document/220701/site_1732_0016.jpg",
+            "https://whc.unesco.org/document/220703/site_1732_0018.jpg",
+            "https://whc.unesco.org/document/221390/site_1732_0019.jpg",
+            "https://whc.unesco.org/document/221391/site_1732_0020.jpg",
+            "https://whc.unesco.org/document/221392/site_1732_0021.jpg",
+            "https://whc.unesco.org/document/221393/site_1732_0022.jpg",
+            "https://whc.unesco.org/document/221394/site_1732_0023.jpg",
+            "https://whc.unesco.org/document/221395/site_1732_0024.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 12,
+        "locations": [
+          {
+            "name": "Bo Da Pagoda",
+            "ref": "1732-009",
+            "latitude": 21.2432916666,
+            "longitude": 106.050683333
+          },
+          {
+            "name": "Con Son Pagoda",
+            "ref": "1732-008",
+            "latitude": 21.1515666667,
+            "longitude": 106.380166667
+          },
+          {
+            "name": "Kiep Bac Temple",
+            "ref": "1732-002",
+            "latitude": 21.1510555556,
+            "longitude": 106.327555556
+          },
+          {
+            "name": "Chua Lan Pagoda",
+            "ref": "1732-003",
+            "latitude": 21.1106777778,
+            "longitude": 106.727377778
+          },
+          {
+            "name": "King Chu Cavern",
+            "ref": "1732-011",
+            "latitude": 21.0316944445,
+            "longitude": 106.509277778
+          },
+          {
+            "name": "Thanh Mai Pagoda",
+            "ref": "1732-007",
+            "latitude": 21.2182833334,
+            "longitude": 106.461469444
+          },
+          {
+            "name": "Nham Duong Pagoda",
+            "ref": "1732-010",
+            "latitude": 21.0380277777,
+            "longitude": 106.536388889
+          },
+          {
+            "name": "Vinh Nghiem Pagoda",
+            "ref": "1732-006",
+            "latitude": 21.2134166667,
+            "longitude": 106.324111111
+          },
+          {
+            "name": "Yen Giang Stake-yard",
+            "ref": "1732-012",
+            "latitude": 20.9361666666,
+            "longitude": 106.783797222
+          },
+          {
+            "name": "Hoa Yen Pagoda relic cluster",
+            "ref": "1732-004",
+            "latitude": 21.1531166667,
+            "longitude": 106.715469444
+          },
+          {
+            "name": "Thai Mieu (Imperial Ancestral Shrine)",
+            "ref": "1732-001",
+            "latitude": 21.1721388889,
+            "longitude": 106.574416667
+          },
+          {
+            "name": "Ngoa Van Hermitage Pagoda relic cluster",
+            "ref": "1732-005",
+            "latitude": 21.1758361111,
+            "longitude": 106.578891667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1732",
+        "unesco_documents": "https://whc.unesco.org/en/list/1732/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1732/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1732/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes The property comprises 12 sites across forested mountains, lowlands, and river valleys. Centred on the Yen Tu Mountain Range, it was home to the Tran Dynasty during the 13th and 14th centuries and the birthplace of Truc Lam Buddhism, a uniquely Vietnamese Zen tradition that shaped the Dai Viet kingdom. The complex includes pagodas, temples, shrines, and archaeological remains tied to religious and historical figures. Strategically located in geologically favourable settings, it remains a vibrant pilgrimage destination. The property comprises 12 sites across forested mountains, lowlands, and river valleys. Centred on the Yen Tu Mountain Range, it was home to the Tran Dynasty during the 13th and 14th centuries and the birthplace of Truc Lam Buddhism, a uniquely Vietnamese Zen tradition that shaped the Dai Viet kingdom. The complex includes pagodas, temples, shrines, and archaeological remains tied to religious and historical figures. Strategically located in geologically favourable settings, it remains a vibrant pilgrimage destination. Vietnam Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "hoi_an_ancient_town",
+      "uuid": "0e451a16-d6e6-5df4-8147-9eb350d016ab",
+      "unesco_id": "948",
+      "names": {
+        "en": "Hoi An Ancient Town",
+        "fr": "Vieille ville de Hoi An",
+        "es": "Ciudad vieja de Hoi An",
+        "ru": "Исторический город Хойан",
+        "ar": "مدينة هوي - آن القديمة",
+        "zh": "会安古镇"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site.",
+          "fr": "Hoi An constitue un exemple exceptionnellement bien préservé d'une cité qui fut un port marchand d'Asie du Sud-Est du XVe au XIXe siècle. Ses bâtiments et la disposition de ses rues reflètent les traditions autochtones aussi bien que les influences étrangères, qui ont donné naissance à ce vestige unique.",
+          "es": "Hoi An constituye un ejemplo excepcional de lo que fue una ciudad portuaria mercantil del Asia Sudoriental entre los siglos XV y XIX. Sus edificios y el trazado de sus calles son un fiel reflejo de la combinación de estilos arquitectónicos, autóctonos y extranjeros, que ha dado su fisionomía singular a este sitio único en su género.",
+          "ru": "Исторический город Хойан – это пример исключительно хорошо сохранившегося торгового порта в Юго-Восточной Азии, относящегося к периоду XV-XIX вв. Его застройка и планировка сложились под воздействием как местных традиций, так и пришлых культур, в результате чего и сформировался этот уникальный объект наследия.",
+          "ar": "تجسد مدينة هوي- آن مثالاً سليماً لمدينة شكلت مرفأ تجارياً جنوب شرق آسيا من القرن الخامس عشر ولغاية القرن التاسع عشر. وتعكس أبنيتها وتصميم شوارعها التقاليد المحلية والتأثيرات الخارجية التي أدّت الى نشوء هذا الأثر الفريد.",
+          "zh": "会安古镇是15世纪到19世纪东南亚的一个贸易港，是一个保存非常完好的范例。其建筑和街道样式，受到本地和国外风格的影响，土洋结合的风格共同孕育出这个独特的遗址。"
+        },
+        "full": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site.",
+        "justification": "Brief synthesis Hoi An Ancient town is located in Viet Nam’s central Quang Nam Province, on the north bank near the mouth of the Thu Bon River. The inscribed property comprises 30 ha and it has a buffer zone of 280 ha. It is an exceptionally well-preserved example of a small-scale trading port active the 15th to 19th centuries which traded widely, both with the countries of Southeast and East Asia and with the rest of the world. Its decline in the later 19th century ensured that it has retained its traditional urban tissue to a remarkable degree. The town reflects a fusion of indigenous and foreign cultures (principally Chinese and Japanese with later European influences) that combined to produce this unique survival. The town comprises a well-preserved complex of 1,107 timber frame buildings, with brick or wooden walls, which include architectural monuments, commercial and domestic vernacular structures, notably an open market and a ferry quay, and religious buildings such as pagodas and family cult houses. The houses are tiled and the wooden components are carved with traditional motifs. They are arranged side-by-side in tight, unbroken rows along narrow pedestrian streets. There is also the fine wooden Japanese bridge, with a pagoda on it, dating from the 18th century. The original street plan, which developed as the town became a port, remains. It comprises a grid of streets with one axis parallel to the river and the other axis of streets and alleys set at right angles to it. Typically, the buildings front the streets for convenient customer access while the backs of the buildings open to the river allowing easy loading and off-loading of goods from boats. The surviving wooden structures and street plan are original and intact and together present a traditional townscape of the 17th and 18th centuries, the survival of which is unique in the region. The town continues to this day to be occupied and function as a trading port and centre of commerce. The living heritage reflecting the diverse communities of the indigenous inhabitants of the town, as well as foreigners, has also been preserved and continues to be passed on. Hoi An Ancient Town remains an exceptionally well-preserved example of a Far Eastern port. Criterion (ii): Hoi An is an outstanding material manifestation of the fusion of cultures over time in an international commercial port. Criterion (v): Hoi An is an exceptionally well-preserved example of a traditional Asian trading port. Integrity Hoi An Ancient Town has retained its original form and function as an outstanding example of a well-preserved traditional South East Asian trading port and commercial centre. It remains complete as a homogenous complex of traditional wooden buildings, with the original organically developed street plan, within the town’s original river/seacoast setting. These original cultural and historic features demonstrate the town’s outstanding universal value and are present, well-preserved, and evident within the boundary of the inscribed property, even while it continues to be occupied and function as a trading port, as well as a popular tourism destination. As a result of this economic stagnation since the 19th century, it has not suffered from development and there has not been pressure to replace the older wooden buildings with new ones in modern materials. This has ensured that the town has retained its traditional urban tissue and is preserved in a remarkably intact state. Authenticity Hoi An Ancient Town has retained its traditional wooden architecture and townscape in terms of plot size, materials, façade and roof line. Its original street plan, with buildings backing on to the river, with its infrastructure of quays, canals and bridges in its original setting, also remains. The historic landscape setting is also intact, consisting of a coastal environment of river, seashore, dunes and islands. Because most of the buildings were constructed in wood it is necessary for them to be repaired at intervals, and so many buildings with basic structures from the 17th and 18th centuries were renewed in the 19th century, using traditional methods of repair. There is currently no pressure to replace older buildings with new ones in modern materials such as concrete and corrugated iron. Protection and management requirements Hoi An Ancient Town was classified as a National Cultural Heritage Site in 1985 and subsequently as a Special National Cultural Heritage Site under the Cultural Heritage Law of 2001 amended in 2009. The entire town is State property and is effectively protected by a number of relevant national laws and governmental decisions, such as: the Cultural Heritage Law (2001, amended 2009) and the Tourism Law (2005). The 1997 Hoi An Town Statute defines in regulations that are implemented by the Hoi An Center for Monuments Management and Preservation, the responsible agency of the People’s Committee for the management of the property. Day-to-day management involves collaboration with various stakeholders, to maintain the authenticity and integrity of the property and to monitor socio-economic activities within and adjacent to the property. The capacity of the professional staff has been and continues to be developed by many domestic and international training courses. Revenue from entrance tickets is invested directly in the management, preservation and promotion of the property. Management and preservation are further strengthened through master planning and action plans at the local level. There are also regular restoration and conservation programmes. Multi-disciplinary research conducted by teams of international and national scholars has informed the conservation and interpretation of the town’s heritage. This research is on-going. Within the property boundary, the landscape, the townscape, the architecture and all material cultural artifacts are preserved. A Management Plan was implemented at the time of nomination of the property, and is being kept up to date and reviewed as required by UNESCO to ensure that it remains effective. The buffer zone is managed to protect the property from external threats. The potential adverse effects to the property caused by annual flooding and urbanization are being effectively controlled with the active participation of all authorities and the local community. The Master Plan for the Hoi An Ancient town conservation, restoration and promotion together with the city and tourism development was approved by Prime Minister on 12 January 2012, covered the period until 2025. Long-term management should aim to promote improvement in the living conditions for local residents. As tourism increases a strategy to manage it within the parameters of the site will be required. Strategies to deal with adverse effects of the climate are being developed and should be included in the Management Plan. In the future, it is an aim to link the Hoi An Ancient Town with the adjacent UNESCO Cu Lao Cham Biosphere Reserve and to build Hoi An into a community integrating ecology, culture and tourism."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            5
+          ],
+          "display": "(ii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 30,
+          "square_km": 0.3,
+          "square_miles": 0.121,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e96d50be2ed9b17ef76bfa2157ca73b8",
+          "filename": "site_0948_0001-500-0-20241213161839.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113698/site_0948_0001.jpg",
+            "https://whc.unesco.org/document/218530/site_0948_0037.jpg",
+            "https://whc.unesco.org/document/218531/site_0948_0038.jpg",
+            "https://whc.unesco.org/document/218532/site_0948_0039.jpg",
+            "https://whc.unesco.org/document/218533/site_0948_0040.jpg",
+            "https://whc.unesco.org/document/218534/site_0948_0041.jpg",
+            "https://whc.unesco.org/document/113700/site_0948_0002.jpg",
+            "https://whc.unesco.org/document/113702/site_0948_0003.jpg",
+            "https://whc.unesco.org/document/113704/site_0948_0004.jpg",
+            "https://whc.unesco.org/document/113706/site_0948_0005.jpg",
+            "https://whc.unesco.org/document/119087/site_0948_0014.jpg",
+            "https://whc.unesco.org/document/119088/site_0948_0015.jpg",
+            "https://whc.unesco.org/document/119089/site_0948_0016.jpg",
+            "https://whc.unesco.org/document/119090/site_0948_0017.jpg",
+            "https://whc.unesco.org/document/119091/site_0948_0018.jpg",
+            "https://whc.unesco.org/document/119092/site_0948_0019.jpg",
+            "https://whc.unesco.org/document/119093/site_0948_0020.jpg",
+            "https://whc.unesco.org/document/119094/site_0948_0021.jpg",
+            "https://whc.unesco.org/document/119095/site_0948_0022.jpg",
+            "https://whc.unesco.org/document/126698/site_0948_0023.jpg",
+            "https://whc.unesco.org/document/126699/site_0948_0024.jpg",
+            "https://whc.unesco.org/document/126700/site_0948_0025.jpg",
+            "https://whc.unesco.org/document/126701/site_0948_0026.jpg",
+            "https://whc.unesco.org/document/134773/site_0948_0027.jpg",
+            "https://whc.unesco.org/document/134774/site_0948_0028.jpg",
+            "https://whc.unesco.org/document/134775/site_0948_0029.jpg",
+            "https://whc.unesco.org/document/134776/site_0948_0030.jpg",
+            "https://whc.unesco.org/document/134777/site_0948_0031.jpg",
+            "https://whc.unesco.org/document/134778/site_0948_0032.jpg",
+            "https://whc.unesco.org/document/134779/site_0948_0033.jpg",
+            "https://whc.unesco.org/document/134780/site_0948_0034.jpg",
+            "https://whc.unesco.org/document/134781/site_0948_0035.jpg",
+            "https://whc.unesco.org/document/134782/site_0948_0036.jpg"
+          ],
+          "count": 33
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Hoi An Ancient Town",
+            "ref": "948",
+            "latitude": 15.88333333,
+            "longitude": 108.3333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/948",
+        "unesco_documents": "https://whc.unesco.org/en/list/948/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/948/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/948/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hoi An Ancient Town Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site. Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site. Vietnam Asia and the Pacific Cultural"
+    }
+  ]
+}

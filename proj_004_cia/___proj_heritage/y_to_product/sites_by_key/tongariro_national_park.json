@@ -1,0 +1,197 @@
+{
+  "site_key": "tongariro_national_park",
+  "uuid": "e41f2617-1e6f-5f4f-a4dd-a87d07703879",
+  "unesco_id": "421",
+  "names": {
+    "en": "Tongariro National Park",
+    "fr": "Parc national de Tongariro",
+    "es": "Parque Nacional de Tongariro",
+    "ru": "Национальный парк Тонгариро",
+    "ar": "منتزه تونغاريرو الوطني",
+    "zh": "汤加里罗国家公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "NZL": {
+        "name": "New Zealand",
+        "iso2": "NZ",
+        "iso3": "NZL"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes.",
+      "fr": "En 1993, Tongariro est devenu le premier bien inscrit sur la Liste du patrimoine mondial au titre du critère culturel révisé concernant des paysages culturels. Les montagnes situées au centre du parc ont une signification culturelle et religieuse pour le peuple maori et symbolisent les liens spirituels entre cette communauté humaine et son environnement. Le parc contient des volcans en activité et éteints, une gamme variée d'écosystèmes et des paysages particulièrement spectaculaires.",
+      "es": "En 1993, Tongariro pasó a ser el primer sitio inscrito en la Lista del Patrimonio Mundial con arreglo a los nuevos criterios aplicables a los paisajes culturales. En efecto, las montañas situadas en el corazón de este parque nacional tienen un importante significado cultural y religioso para el pueblo maorí, ya que simbolizan los vínculos espirituales que éste mantiene con la naturaleza. El parque posee volcanes activos y extintos, una amplia gama de ecosistemas y paisajes espectaculares.",
+      "ru": "В 1993 г. Тонгариро стал первым объектом, включенным в Список всемирного наследия в качестве ценного культурного ландшафта. Горный массив, расположенный в центре парка, имеет особое культурное и религиозное значение для народов маори, и символизирует духовные связи аборигенного населения с окружающей средой. На территории парка имеются потухшие и действующие вулканы, представлен широкий спектр экосистем, имеется целый ряд достопримечательных ландшафтов.",
+      "ar": "أصبح منتزه تونغاريرو في العام 1993 الثروة الاولى على قائمة التراث العالمي بالمقياس الثقافي الذي أعيد النظر في طبيعته الثقافية. تملك الجبال الواقعة في وسط المنتزه دلالة ثقافية ودينية للشعب الماوري وترمز الى الترابط الروحي بين هذا المجتمع الانساني وبيئته. ويشمل هذا المنتزه براكين ناشطة ومنطفئة وتشكيلة متنوعة من الأنظمة البيئية والطبيعة المدهشة.جيم الجماعة: مقابلة مع توموتي هو هو رسالة اليونسكو (2007)",
+      "zh": "1993 年，汤加里罗成为第一处根据修改后的文化景观标准被列入《世界遗产名录》的遗址。地处公园中心的群山对毛利人具有文化和宗教意义，象征着毛利人社会与外界环境的精神联系。公园里有活火山、 死活山和不同层次的生态系统以及非常美丽的风景。"
+    },
+    "full": "In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Mixed",
+      "id": 3
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8
+      ],
+      "all": [
+        7,
+        8
+      ],
+      "display": "(vii)(viii)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 79596,
+      "square_km": 795.96,
+      "square_miles": 322.114,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1990,
+      "all_dates": [
+        1990,
+        1993
+      ],
+      "extensions": [
+        1993
+      ],
+      "timeline": [
+        {
+          "year": 1990,
+          "event": "Inscribed"
+        },
+        {
+          "year": 1993,
+          "event": "Extended"
+        }
+      ],
+      "extension_count": 1
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c4d1ab7e31c1813499a274a91fcb813c",
+      "filename": "site_0421_0001.jpg",
+      "dimensions": {
+        "width": 2150,
+        "height": 1637
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/109551/site_0421_0001.jpg",
+        "https://whc.unesco.org/document/109555/site_0421_0003.jpg",
+        "https://whc.unesco.org/document/109557/site_0421_0004.jpg",
+        "https://whc.unesco.org/document/109559/site_0421_0005.jpg",
+        "https://whc.unesco.org/document/109561/site_0421_0006.jpg",
+        "https://whc.unesco.org/document/109563/site_0421_0007.jpg",
+        "https://whc.unesco.org/document/109565/site_0421_0008.jpg",
+        "https://whc.unesco.org/document/109567/site_0421_0009.jpg",
+        "https://whc.unesco.org/document/109569/site_0421_0010.jpg",
+        "https://whc.unesco.org/document/109571/site_0421_0011.jpg",
+        "https://whc.unesco.org/document/109573/site_0421_0012.jpg",
+        "https://whc.unesco.org/document/109575/site_0421_0013.jpg",
+        "https://whc.unesco.org/document/109577/site_0421_0014.jpg",
+        "https://whc.unesco.org/document/109579/site_0421_0015.jpg",
+        "https://whc.unesco.org/document/109580/site_0421_0016.jpg",
+        "https://whc.unesco.org/document/109583/site_0421_0017.jpg",
+        "https://whc.unesco.org/document/125284/site_0421_0020.jpg",
+        "https://whc.unesco.org/document/125286/site_0421_0022.jpg",
+        "https://whc.unesco.org/document/125287/site_0421_0023.jpg",
+        "https://whc.unesco.org/document/125288/site_0421_0024.jpg",
+        "https://whc.unesco.org/document/125289/site_0421_0025.jpg",
+        "https://whc.unesco.org/document/125290/site_0421_0026.jpg",
+        "https://whc.unesco.org/document/148028/site_0421_0027.jpg",
+        "https://whc.unesco.org/document/148029/site_0421_0028.jpg",
+        "https://whc.unesco.org/document/148030/site_0421_0029.jpg",
+        "https://whc.unesco.org/document/148031/site_0421_0030.jpg",
+        "https://whc.unesco.org/document/148032/site_0421_0031.jpg",
+        "https://whc.unesco.org/document/148033/site_0421_0032.jpg",
+        "https://whc.unesco.org/document/148034/site_0421_0033.jpg",
+        "https://whc.unesco.org/document/148035/site_0421_0034.jpg",
+        "https://whc.unesco.org/document/148036/site_0421_0035.jpg",
+        "https://whc.unesco.org/document/148037/site_0421_0036.jpg",
+        "https://whc.unesco.org/document/109553/tongariro3.jpg"
+      ],
+      "count": 33
+    }
+  },
+  "components": {
+    "count": 2,
+    "locations": [
+      {
+        "name": "First component",
+        "ref": "421-001",
+        "latitude": -39.2770935487,
+        "longitude": 175.568632584
+      },
+      {
+        "name": "Second component",
+        "ref": "421-002",
+        "latitude": -39.015420895,
+        "longitude": 175.731577246
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/421",
+    "unesco_documents": "https://whc.unesco.org/en/list/421/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/421/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/421/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 35,
+    "inscription_year": 1990
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Tongariro National Park In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes. In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes. New Zealand Asia and the Pacific Mixed"
+}

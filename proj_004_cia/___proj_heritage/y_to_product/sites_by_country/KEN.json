@@ -1,0 +1,1376 @@
+{
+  "country": {
+    "code": "KEN",
+    "name": "Kenya"
+  },
+  "total_sites": 8,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 3,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "lake_turkana_national_parks",
+      "uuid": "c69019f6-2bf6-5349-99db-4c17c6279392",
+      "unesco_id": "801",
+      "names": {
+        "en": "Lake Turkana National Parks",
+        "fr": "Parcs nationaux du Lac Turkana",
+        "es": "Parques nacionales del Lago Turkana",
+        "ru": "Национальные парки на озере Туркана",
+        "ar": "منتزهات بحيرة تركانا الوطنيّة",
+        "zh": "图尔卡纳湖国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent.",
+          "fr": "Le plus salé des grands lacs d'Afrique, le Turkana, est un laboratoire exceptionnel pour l'étude des communautés végétales et animales. Les trois parcs nationaux servent d'étapes aux oiseaux d'eau migrateurs et constituent d'importantes zones de reproduction pour le crocodile du Nil, l'hippopotame et différents serpents venimeux. Les gisements fossilifères de Koobi Fora, où l'on trouve de nombreux restes de mammifères, de mollusques et d'autres espèces, ont davantage contribué à la compréhension des paléo-environnements que tout autre site sur ce continent.",
+          "es": "El lago Turkana es el más salino de los grandes lagos de África y constituye un laboratorio excepcional para el estudio de diferentes comunidades de plantas y animales. Formado por tres parques nacionales, este sitio sirve de etapa a las aves acuáticas migratorias y es un área de reproducción importante para especies como el cocodrilo del Nilo, el hipopótamo y diversas serpientes venenosas. Los yacimientos fosilíferos de Koobi Fora –donde se conservan numerosos restos de mamíferos, moluscos y otras especies– han contribuido más al conocimiento de los paleoambientes que ningún otro sitio análogo del continente africano.",
+          "ru": "Озеро Туркана (Рудольф), самое соленое из всех крупных африканских озер, является естественной лабораторией для изучения сообществ растений и животных. Три национальных парка, располагающихся по берегам и на островах этого озера, служат местом остановки для мигрирующих птиц и являются «родильным домом» для нильских крокодилов, бегемотов и различных ядовитых змей. Обнаруженные в районе Кооби-Фора ископаемые остатки гоминид, млекопитающих, моллюсков и т.д., имеют огромное значение с точки зрения палеогеографии.",
+          "ar": "تُعتبَر تركانا، وهي البحيرة الأملح بين بحيرات أفريقيا الكبرى، مختبرًا استثنائيًّا لدراسة الأجناس النباتيّة والحيوانيّة. وتشكّل المنتزهات الوطنيّة الثلاثة محطاتٍ لعصافير المياه المُهاجرة وتُعتبر من أبرز المناطق لتزاوج تماسيح النيل وفرس النهر ومختلف الأفاعي السّامة. كما أن بقايا الأحافير في كوبي فورا حيث نجد الكثير من هياكل ثدييات وحيوانات رخويّة وأجناس أخرى، هي أكثر من ساهم في فهم التعدديّة البيئيّة في هذه القارة.",
+          "zh": "图尔卡纳湖是非洲含盐量最高的大湖，它为研究动植物种群提供了良好环境。这里的三个国家公园既是迁徙水鸟的中途停留地，也是尼罗河鳄鱼、河马和各种毒蛇的栖息地。在图尔卡纳湖畔发现的库比·福勒化石遗迹中发掘出了许多哺乳动物、软体动物和其他动物的化石，它对于研究理解古代自然环境所作的贡献是非洲任何其他地方无法比拟的。"
+        },
+        "full": "The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent.",
+        "justification": "Brief synthesis Lake Turkana National Parks are constituted of Sibiloi National Park, the South Island and the Central Island National Parks, covering a total area of 161,485 hectares located within the Lake Turkana basin whose total surface area is 7 million ha. The Lake is the most saline lake in East Africa and the largest desert lake in the world, surrounded by an arid, seemingly extraterrestrial landscape that is often devoid of life. The long body of Lake Turkana drops down along the Rift Valley from the Ethiopian border, extending 249 kilometers from north to south and 44 km at its widest point with a depth of 30 meters. It is Africa's fourth largest lake, fondly called the Jade Sea because of its breathtaking color. The property represents unique geo-morphological features with fossil deposits on sedimentary formations as well as one hundred identified archaeological and paleontological sites. There are numerous volcanic overflows with petrified forests. The existing ecological conditions provide habitats for maintaining diverse flora and fauna. At Kobi Fora to the north of Allia Bay, extensive paleontological finds have been made, starting in 1969, with the discovery of Paranthropus boisei. The discovery of Homo habilis thereafter is evidence of the existence of a relatively intelligent hominid two million years ago and reflect the change in climate from moist forest grassland when the now petrified forest were growing to the present hot desert. The human and pre-human fossils include the remains of five species, Austrolophithecus anamensis, Homo habilis/rudolfensis, Paranthropus boisei, Homo erectus and Homo sapiens all found within one locality. These discoveries are important for understanding the evolutionary history of the human species. The island parks are the breeding habitats of the Nile crocodile Crocodylus niloticus, the hippopotamus amphibious and several snake species. The lake is an important flyway passage and stopover for palaeartic migrant birds. Criterion (viii): The geology and fossil record represents major stages of earth history including records of life represented by hominid discoveries, presence of recent geological process represented by volcanic erosional and sedimentary land forms. This property’s main geological features stem from the Pliocene and Holocene periods (4million to 10,000 years old). It has been very valuable in the reconstruction of the paleo-environment of the entire Lake Turkana Basin. The Kobi Fora deposits contain pre-human, mammalian, molluscan and other fossil remains and have contributed more to the understanding of human ancestry and paleo-environment than any other site in the world. Criterion (x): The property features diverse habitats resulting from ecological changes over time and ranging from terrestrial and aquatic, desert to grasslands and is inhabited by diverse fauna. In situ conservation within the protected areas includes threatened species particularly the reticulated giraffe, lions and gravy zebras and has over 350 recorded species of aquatic and terrestrial birds. The island parks are the breeding habitats of the Nile crocodile, Crocodylus niloticus, the hippopotamus amphibious and several snake species. Furthermore, the lake is an important flyway passage and stopover for palaeartic migrant birds, with the South Island Park also being designated as an important bird area under Birdlife International. The protected area around Lake Turkana provides a large and valuable laboratory for the study of plant and animal communities. Remoteness has preserved the area as a natural wilderness. On the grassy plains yellow speargrass Imperata cylindrica, Commiphora sp., Acacia tortilis, and other acacia species predominate along with A. elatior, desert date Balanites aegyptiaca and doum palm Hyphaene coriacea in sparse gallery woodlands. Salvadora persica bush is found on Central and South Islands. The muddy bays of South Island have extensive submerged beds of Potamogeton pectinatus which shelter spawning fish. The principal emergent macrophytes in the seasonally exposed shallows are the grasses Paspalidium geminatum and Sporobolus spicatus. Integrity The property covers a total area of 161,485 ha. The area around the property is sparsely populated due to its isolated location, inadequate freshwater and national protection status. It is an important habitat for hippopotamus and the world’s largest colony of crocodiles (and the largest Nile crocodile breeding ground in the world). Physical evidence through scientific studies indicate the area’s continued support for habitation of flora and fauna of diverse species over millions of years to the present. In addition, volcanic eruptions and extensive lava flows, geological faulting within the Great Rift Valley, and the formation of sedimentary deposits have assured preservation of fossil remains, which are significant in understanding the history of life especially human evolution. The adjacent Mount Kulal Biosphere Reserve serves as a water shed for the Lake Turkana Basin and as a wildlife dispersal area. It thereby assures the protection of the biological and natural processes making it an important site for avian habitation and migration, particularly water birds. The area is managed under two State Acts ensuring protection, conservation and sustainability of the environment and addressing for example. post-archaeological excavation, illegal grazing, poaching and over fishing. Protection and management requirements The property enjoys the highest level of legal protection by both the Kenya Wildlife Act cap 376 as well as the Antiquities and Monument Act cap 215 (currently the National Museums and Heritage Act of 2006) under Kenyan legislation. Sibiloi National Park was legally designated as a national park in 1973 whereas South and Central Islands were legally designated in 1983 and 1985 respectively. The property is co-managed by Kenya Wildlife Service (KWS) and the National Museums of Kenya (NMK). Following the extension of the property in 2001, a first management plan was developed for the period of 2001 to 2005. The long term planning foresees the development of an integrated management plan for the area. Formalization of the existing collaboration between KWS and NMK and other stakeholders through a Memorandum of Understanding will be necessary for the successful implementation of the plan. Challenges and potential threats have been identified: these include severe droughts, livestock encroachment into the property, impacts from climate change, poaching, siltation, receding water level, human-wildlife conflicts and poor infrastructure in the area. Mitigation measures and strategies are required for the sustainable long-term management of the property and the development of an integrated management plan taking into account reforestation, law enforcement, education and awareness-raising, alternative livelihoods, resource mobilization and appropriate forms of infrastructure development (roads, electricity, telecommunication, etc.)."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8,
+            10
+          ],
+          "all": [
+            8,
+            10
+          ],
+          "display": "(viii)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 161485,
+          "square_km": 1614.85,
+          "square_miles": 653.508,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997,
+            2001
+          ],
+          "extensions": [
+            2001
+          ],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2001,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2018",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/31d1dbd6a462d95c32cd6b8686f10014",
+          "filename": "site_0801_0001-500-0-20090930173844.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 263
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111824/site_0801_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "South Island",
+            "ref": "801-003",
+            "latitude": 2.6325,
+            "longitude": 36.5947222222
+          },
+          {
+            "name": "Central Island",
+            "ref": "801-002",
+            "latitude": 3.4916666667,
+            "longitude": 36.0666666667
+          },
+          {
+            "name": "Sibiloi National Park",
+            "ref": "801-001",
+            "latitude": 4.0,
+            "longitude": 36.3333333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/801",
+        "unesco_documents": "https://whc.unesco.org/en/list/801/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/801/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/801/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Lake Turkana National Parks The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent. The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent. Kenya Africa Natural"
+    },
+    {
+      "site_key": "lamu_old_town",
+      "uuid": "b00f5da5-da1f-5c24-a40f-524ddc331be7",
+      "unesco_id": "1055",
+      "names": {
+        "en": "Lamu Old Town",
+        "fr": "Vieille ville de Lamu",
+        "es": "Ciudad vieja de Lamu",
+        "ru": "Старый город в Ламу",
+        "ar": "مدينة لامو القديمة",
+        "zh": "拉穆古镇"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures.",
+          "fr": "La vieille ville de Lamu, qui est le plus ancien et le mieux préservé des lieux de peuplement swahilis en Afrique de l'Est, conserve ses fonctions traditionnelles. Construite en roches coralliennes et de bois de palétuvier, la ville se caractérise par la simplicité de ses formes structurelles, enrichies d'éléments comme des cours intérieures, des vérandas et des portes de bois sculptées avec soin. Siège depuis le XIXe siècle de grandes célébrations religieuses, Lamu est devenue un centre important pour l'étude des cultures islamique et swahilie.",
+          "es": "La ciudad vieja de Lamu no sólo es el más antiguo y el mejor conservado de los lugares de poblamiento swahilíes del África Oriental, sino que además ha conservado sus funciones tradicionales. Construida con roca de coral y madera de mangle, la ciudad se caracteriza por la simplicidad de sus formas estructurales, enriquecidas por elementos como patios interiores, galerías y puertas de madera primorosamente esculpidas. Sede de grandes celebraciones religiosas desde el siglo XIX, Lamu se ha convertido en un centro importante de estudio de la cultura islámica y la swahili.",
+          "ru": "Старый город в Ламу – это старейшее и наиболее хорошо сохранившееся поселение суахили в Восточной Африке, продолжающее выполнять свои традиционные функции. Построенный из кораллового известняка и мангровой древесины, город характерен простотой строительных форм, которые обогащены такими элементами как внутренние дворики, веранды и искусно украшенные резьбой деревянные двери. В Ламу, начиная с XIX в., проводятся крупные мусульманские религиозные праздники, и он превратился в важный центр изучения культур ислама и суахили.",
+          "ar": "لا تزال مدينة لامو القديمة تحافظ على عاداتها التقليديّة وهي أقدم المناطق التي سكنتها الشّعوب السواحليّة في أفريقيا الشرقيّة وأكثر مدينة قد تمَّت المحافظة عليها. بُنيت هذه المدينة من صخورٍ مرجانيّةٍ ومن خشب الشورى وتتميّز ببساطة أشكال أبنيتها الغنيّة بعناصرَ مثل الساحات الداخليّة والشرفات والأبواب الخشبيّة المنقوشة بدقة. ومنذ القرن التاسع عشر، شكّلت لامو مركزًا للاحتفالات الدينيّة الكبرى، كما أصبحت مركزًا مهمًّا لدراسة الثقافات الاسلاميّة والسواحلية.",
+          "zh": "拉穆古镇是东非最古老、保存最完整的斯瓦希里人聚居地，并仍然保持着它的传统作用。这个镇用珊瑚石和红树林木材建造而成，以简朴的结构为特色，同时，庭院、阳台走廊、精心雕刻的木门为其增添了很多特有风貌。从19世纪开始，主要的穆斯林宗教节日活动都在这里举行，这里也已经成为伊斯兰和斯瓦希里文化的重要研究中心。"
+        },
+        "full": "Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures.",
+        "justification": "Brief synthesis Lamu Old Town, located on an island known by the same name on the coast of East Africa some 350km north of Mombasa, is the oldest and best preserved example of Swahili settlement in East Africa. With a core comprising a collection of buildings on 16 ha, Lamu has maintained its social and cultural integrity, as well as retaining its authentic building fabric up to the present day. Once the most important trade centre in East Africa, Lamu has exercised an important influence in the entire region in religious, cultural as well as in technological expertise. A conservative and close-knit society, Lamu has retained its important status as a significant centre for education in Islamic and Swahili culture as illustrated by the annual Maulidi and cultural festivals. Unlike other Swahili settlements which have been abandoned along the East African coast, Lamu has continuously been inhabited for over 700 years. The growth and decline of the seaports on the East African coast and interaction between the Bantu, Arabs, Persians, Indians, and Europeans represents a significant cultural and economic phase in the history of the region which finds its most outstanding expression in Lamu Old Town, its architecture and town planning. The town is characterized by narrow streets and magnificent stone buildings with impressive curved doors, influenced by unique fusion of Swahili, Arabic, Persian, Indian and European building styles. The buildings on the seafront with their arcades and open verandas provide a unified visual impression of the town when approaching it from the sea. While the vernacular buildings are internally decorated with painted ceilings, large niches (madaka), small niches (zidaka), and pieces of Chinese porcelain. The buildings are well preserved and carry a long history that represents the development of Swahili building technology, based on coral, lime and mangrove poles. The architecture and urban structure of Lamu graphically demonstrate the cultural influences that have come together over 700 hundred years from Europe, Arabia, and India, utilizing traditional Swahili techniques that produced a distinct culture. The property is characterized by its unique Swahili architecture that is defined by spatial organization and narrow winding streets. This labyrinth street pattern has its origins in Arab traditions of land distribution and urban development. It is also defined by clusters of dwellings divided into a number of small wards (mitaa) each being a group of buildings where a number of closely related lineages live. Attributed by eminent Swahili researchers as the cradle of Swahili civilization,Lamu became an important religious centre in East and Central Africa since the 19th century, attracting scholars of Islamic religion and Swahili culture. Today it is a major reservoir of Swahili culture whose inhabitants have managed to sustain their traditional values as depicted by a sense of social unity and cohesion. Criterion (ii):The architecture and urban structure of Lamu graphically demonstrate the cultural influences that have come together there over several hundred years from Europe, Arabia, and India, utilizing traditional Swahili techniques to produce a distinct culture. Criterion (iv):The growth and decline of the seaports on the East African coast and interaction between the Bantu, Arabs, Persians, Indians, and Europeans represents a significant cultural and economic phase in the history of the region which finds its most outstanding expression in Lamu Old Town. Criterion (vi):Its paramount trading role and its attraction for scholars and teachers gave Lamu an important religious function (such as the annual Maulidi and Lamu cultural festivals) in East and Central Africa. It continues to be a significant centre for education in Islamic and Swahili culture. Integrity The property, covering 16 hectares, adequately incorporates all the tangible and intangible attributes that convey its outstanding universal value. A high percentage (65%) of the physical structures is in good condition with only 20 % being in need of minor refurbishment. The remaining 15 % may need total restoration. The majority of the town’s buildings are still in use. The town needs to maintain its relationship with the surrounding landscape. The setting of the Old Town is vulnerable to encroachment and illegal development on the Shela dunes that are a fundamental part of its setting. Development is a threat to its visual integrity as an island town closely connected to the sea and sand-dunes, and to its ultimate survival in terms of the fresh water that the dunes supply. The setting extends to the surrounding islands, all of which need to be protected from informal settlements, and to the mangroves that shelter the port. Authenticity The architecture of Lamu has employed locally available materials and techniques which are still applied to date. The people of Lamu have managed to maintain age-old traditions reinforcing a sense of belonging and social unity. This is expressed by the layout of the town which includes social spaces such as porches (Daka), town squares and sea front barazas. The town continues to be a significant centre for education in Islamic and Swahili culture. The authenticity of the Old Town is vulnerable to development and to a lack of adequate infrastructure, that could overwhelm the sensitive and comparatively fragile buildings and urban spaces that together make up the distinctive urban grain of the town. Protection and management requirements Lamu Old Town is managed by the National Museums and Heritage Act 2006 (that replaced the 1983 National Museums Act CAP 216 and Antiquities and Monuments Act CAP 215) and the Local Governments Act (and the associated by laws). Physical construction is also subjected to the EMCA Act and the 2006 Planning Act, which recognize that archaeology is material for consideration. The Old Town has a gazetted buffer zone that includes the Manda and Ras Kitau mangrove skyline and the Shela sand dunes, also protected by the Forest Act and Water Act respectively (although the buffer zone has not been formally approved by the World Heritage Committee). All the components are legally protected. The Lamu Stone Town Conservation Office, now renamed the Lamu World Heritage Site and Conservation Office, was established by the National Museums of Kenya and has been in operation since 1986. A conservation officer is seconded to Lamu County Council to advice on conservation matters. A planning commission exists since 1991 to play a supervisory role and address emerging issues in the conservation area. There exists a conservation plan for Lamu Old Town which is used as a guide in balancing the community needs for development and sustaining the architectural values of the town. The property is in a satisfactory state of conservation. Locally embedded institutions ensure the continued importance of Lamu as a centre of Islamic and Swahili cultural learning and practices. A draft management plan has been developed that will address issues such as the mushrooming of informal settlements in the setting of the property, encroachment and illegal development on the sand dunes water catchment area, the proposed port and cruise ship berth, and oil exploration. The plan will also strengthen the inter-ministerial relationships to enhance an integrated management approach, including the establishment of a conservation fund, for sustainable conservation and management of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 15.6,
+          "square_km": 0.16,
+          "square_miles": 0.063,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a344092764f23c7252dcee3837859990",
+          "filename": "site_1055_0002-500-0-20151105113631.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 336
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114528/site_1055_0002.jpg",
+            "https://whc.unesco.org/document/114530/site_1055_0003.jpg",
+            "https://whc.unesco.org/document/114532/site_1055_0004.jpg",
+            "https://whc.unesco.org/document/114534/site_1055_0005.jpg",
+            "https://whc.unesco.org/document/114536/site_1055_0006.jpg",
+            "https://whc.unesco.org/document/122752/site_1055_0007.jpg",
+            "https://whc.unesco.org/document/122753/site_1055_0008.jpg",
+            "https://whc.unesco.org/document/122754/site_1055_0009.jpg",
+            "https://whc.unesco.org/document/122755/site_1055_0010.jpg",
+            "https://whc.unesco.org/document/122756/site_1055_0011.jpg",
+            "https://whc.unesco.org/document/122757/site_1055_0012.jpg",
+            "https://whc.unesco.org/document/122758/site_1055_0013.jpg",
+            "https://whc.unesco.org/document/122759/site_1055_0014.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Lamu Old Town",
+            "ref": "1055",
+            "latitude": -2.284444444,
+            "longitude": 40.8525
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1055",
+        "unesco_documents": "https://whc.unesco.org/en/list/1055/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1055/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1055/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Lamu Old Town Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures. Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures. Kenya Africa Cultural"
+    },
+    {
+      "site_key": "the_historic_town_and_archaeological_site_of_gedi",
+      "uuid": "fbc6a447-e545-598b-a656-2d7dcc9dc8f8",
+      "unesco_id": "1720",
+      "names": {
+        "en": "The Historic Town and Archaeological Site of Gedi",
+        "fr": "La ville historique et site archéologique de Gedi",
+        "es": "Ciudad histórica y sitio arqueológico de Gedi",
+        "ru": "Исторический город и археологический памятник Геди",
+        "ar": "مدينة جيداي التاريخية وموقعها الأثري",
+        "zh": "格迪古镇和考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood.",
+          "fr": "Entourée d’un reste de forêt côtière, à distance du littoral, la ville abandonnée de Gedi fut l’une des plus importantes villes swahilies de la côte de l’Afrique de l’Est entre le Xe et le XVIIe siècle. Durant cette période, elle fit partie d’un réseau complexe et international d’échanges commerciaux et culturels à travers l’océan Indien, reliant les centres côtiers africains à la Perse et à d’autres régions. Cet établissement opulent est clairement délimité par ses murs d’enceinte et présente des vestiges d’architecture domestique, religieuse et civile, ainsi qu’un système de gestion de l’eau élaboré. Il présente clairement les caractéristiques architecturales et urbanistiques swahilies, faisant usage de matériaux tels que le calcaire corallien, le corail, le mortier de terre et le bois.",
+          "es": "La ciudad abandonada de Gedi, que está rodeada por los vestigios de un bosque costero y alejada del litoral, fue una de las ciudades suajili más importantes de la costa oriental africana entre los siglos X y XVII. Durante este periodo, formó parte de una compleja red internacional de intercambios comerciales y culturales que cruzaba el océano Índico y unía los centros costeros africanos con Persia y otras áreas. El opulento asentamiento está claramente delimitado por murallas y presenta restos de arquitectura doméstica, religiosa y cívica, así como un sofisticado sistema de gestión del agua. Representa fielmente las características de la arquitectura y el urbanismo suajili, utilizando materiales como la caliza coralina, el mortero de coral y tierra y la madera.",
+          "ru": "В период с X по XVII век ныне заброшенный город Геди был одним из важнейших городов народа суахили на побережье Восточной Африки. Он расположен в окружении остатков прибрежного леса, вдали от береговой линии. В указанный период он был частью сложной международной системы торгового и культурного обмена, пересекавшей Индийский океан и связывавшей прибрежные центры Африки с Персией и другими регионами. Это некогда богатое поселение четко очерчено стенами. В нем сохранились остатки жилищной, религиозной и гражданской архитектуры, а также сложной системы управления водными ресурсами. В облике города четко прослеживаются черты суахилийской архитектуры и градостроительства, с применением таких материалов, как коралловый известняк, коралловой и земляной раствор, а также дерево.",
+          "ar": "تقع مدينة جيداي المهجورة بعيداً عن الساحل في أحضان أطلال إحدى الغابات الساحلية، وكانت فيما مضى إحدى أهم المدن السواحلية على الساحل الأفريقي الشرقي في الفترة الممتدة من القرن العاشر إلى القرن السابع عشر، حينما كانت جزءاً من شبكة دولية معقدة للتجارة والتبادل الثقافي عبر المحيط الهندي، وهي شبكة كانت تربط بين المراكز الساحلية الأفريقية وبين بلاد الفرس ومناطق أخرى. وتحيط بالمدينة أسوار ترسم حدودها بوضوح، وتحتضن آثار العمارة المحلية والدينية والمدنية، فضلاً عن نظام متطور لإدارة المياه. وتقف المدينة شاهداً على خصائص العمارة السواحلية والتخطيط المدني باستخدم مواد مثل الأحجار المرجانية والمرجان والطين والخشب.",
+          "zh": "被遗弃的格迪（Gedi）古镇离海不远，四周残存的沿海森林将其与海岸隔开。10-17世纪，它曾是东非海岸最重要的斯瓦希里城市之一。那段时间里，格迪是横跨印度洋的复杂国际贸易和文化交流网络的一部分，参与将非洲沿海中心与波斯和其他地区连接起来。城墙清晰地勾勒出这一富饶市镇的轮廓，其中保留着民居、宗教、城镇建筑遗迹，以及先进的水务系统。格迪古镇充分体现了斯瓦西里建筑和城市规划的特色，其使用的建筑材料包括珊瑚石灰岩、珊瑚砂浆、土砂浆、木材等。"
+        },
+        "full": "Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood.",
+        "justification": "Brief synthesis The Historic Town and Archaeological Site of Gedi was one of the most important and densely populated Swahili cities on the East African coast in the period from the 10th to 17th centuries (and particularly between the 15th and 17th centuries). During this period, Gedi was part of a complex network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal and inland centres with ports around the Arabian Sea and Southern Asia. Because Gedi was abandoned, its surviving ruins strongly demonstrates the characteristics of Swahili architecture and town planning. Gedi was an opulent settlement, defined by two rings of irregularly running walls, public and private buildings, street patterns, tombs, and an elaborate palace complex and Grand Mosque. Within the inner walls, the remains of domestic, civic and religious architecture, all constructed from local coral stone and lime mortar, are laid out around a grid street pattern, with the mosques and tombs embellished by carvings and inset with Chinese porcelain. Between the inner and outer walls, there is evidence of more modest houses built for the majority of the residents. The city was serviced by wells and a sophisticated water engineering and management system that is still readable. Luxury goods imported from China, Persia, India, and Venice found at Gedi demonstrate its role in international trade networks, that were supported by the export of gold, ivory, and other minerals and timber, as well as slaves. Gedi is located inland, 6.5 kilometres away from the Indian Ocean coastline and is surrounded by a remnant coastal forest. Gedi is well-researched, and has the potential to contribute further to the understanding of Swahili coastal settlements and trading histories. Criterion (ii): The Historic Town and Archaeological Site of Gedi exhibits an important interchange of values on architecture, technology and town-planning as a result of its participation over several centuries in the Indian Ocean trading system between the East African coast, the Arabian Sea and Southern Asia. The fusion of African and Islamic beliefs can be seen in the layout of the city, in the distinctive architectural forms of its coral stone buildings, in the decorative details of its mosques and tombs, and in the technical know-how of the wells and hydraulic systems that sustained a large urban settlement over centuries of occupation. Criterion (iii): The Historic Town and Archaeological Site of Gedi bears exceptional testimony to the strong Swahili cultural traditions that developed and flourished as a result of maritime trade between the East African coast and the Indian Ocean from the 10th to the 17th centuries. Gedi was a substantial urban settlement with outstanding features of town planning, architecture, and infrastructure. It is distinctive for the scale and density of its urban settlement, unusual and complex spatial layout, and intricate water engineering. Criterion (iv): The Historic Town and Archaeological Site of Gedi is an outstanding example of a Swahili settlement from the 10th to the 17th centuries, that reflects a period when the East African coast became part of a global trading network linking Eastern Africa across the Arabian Sea and the Indian Ocean with India and Southern Asia. Gedi is one of the largest, most well-preserved and well-researched abandoned Swahili Islamic settlements on the East African coast. The architectural and archaeological elements of Gedi demonstrate its opulence, as well as its social stratification. Integrity The boundaries of the property are well-defined and contain all the attributes of the historical town including the inner and outer walls, water infrastructure and wells, tombs, mosques, sunken courts, palace, private houses, streets, and alleyways. The attributes are well-documented and the structures and archaeological materials are generally in a good state of conservation, although they are vulnerable and require monitoring and maintenance. Traditional building materials and methods were used for the maintenance of the structures. The visual integrity of the site is also good, due to the protection provided by the surrounding remnant African coastal forest in the buffer zone which is managed with the support of the Kenya Forest Service. Authenticity Gedi is an abandoned settlement with standing walls and buried archaeological remains. The abandonment of the settlement and lack of subsequent occupation has ensured a high level of authenticity. The remains of buildings and walls are in their original location, and the town layout is evident. The water sumps and other infrastructure elements are in place. The original building materials have been respected in the conservation works undertaken, and all works are documented. Appropriate conservation measures are in place and a detailed Conservation Management Plan for Gedi is in preparation that should further support the authenticity of the property. Protection and management requirements The property has been subject to legal protection since 1927 and is a National Monument protected by the Kenyan National Museums and Heritage Act (2006). The natural values of the surrounding forest are also protected by Kenyan law. At the local level, Gedi is additionally protected through the County Integrated Development Planning processes, and the Spatial Development Framework. All developments within the property and the buffer zone require permission from the National Museums of Kenya and are subject to Heritage Impact Assessment processes. Gedi is managed by the National Museums of Kenya in cooperation with the Malindi Museum, relevant national and local authorities, and the local community. A management plan (2022-2027) and action plan are in place, and were prepared in cooperation with major stakeholders and the local community. Gedi is vulnerable to fire, and fire management and training are priorities for the disaster risk preparedness plan which is being prepared. Further development of strategies and plans for visitor management, sustainable tourism, archaeological research, interpretation and conservation are planned. The management plan includes actions for capacity building and the transfer of traditional skills. Adequate monitoring is in place, although this should be further augmented by regular monitoring of vegetation, and the development of more specific indicators that can track trends and identify emerging issues."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 20.81,
+          "square_km": 0.21,
+          "square_miles": 0.084,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2024,
+          "all_dates": [
+            2024
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2024,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3de63cf84e54ffbcf0b1156402079abd",
+          "filename": "site_1720_0001.jpg",
+          "dimensions": {
+            "width": 6000,
+            "height": 5584
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/198621/site_1720_0001.jpg",
+            "https://whc.unesco.org/document/198622/site_1720_0002.jpg",
+            "https://whc.unesco.org/document/198623/site_1720_0003.jpg",
+            "https://whc.unesco.org/document/198624/site_1720_0004.jpg",
+            "https://whc.unesco.org/document/198625/site_1720_0005.jpg",
+            "https://whc.unesco.org/document/198626/site_1720_0006.jpg",
+            "https://whc.unesco.org/document/198627/site_1720_0007.jpg",
+            "https://whc.unesco.org/document/198628/site_1720_0008.jpg",
+            "https://whc.unesco.org/document/198629/site_1720_0009.jpg",
+            "https://whc.unesco.org/document/198630/site_1720_0010.jpg",
+            "https://whc.unesco.org/document/198631/site_1720_0011.jpg",
+            "https://whc.unesco.org/document/198632/site_1720_0012.jpg",
+            "https://whc.unesco.org/document/198633/site_1720_0013.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "The Historic Town and Archaeological Site of Gedi",
+            "ref": "1720",
+            "latitude": -3.3102638889,
+            "longitude": 40.0172638889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1720",
+        "unesco_documents": "https://whc.unesco.org/en/list/1720/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1720/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1720/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 1,
+        "inscription_year": 2024
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Historic Town and Archaeological Site of Gedi Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood. Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood. Kenya Africa Cultural"
+    },
+    {
+      "site_key": "fort_jesus_mombasa",
+      "uuid": "1c152058-2511-56a3-81f4-c106cc65dd6e",
+      "unesco_id": "1295",
+      "names": {
+        "en": "Fort Jesus, Mombasa",
+        "fr": "Fort Jésus, Mombasa",
+        "es": "Fuerte Jesús, Mombasa",
+        "ru": "Форт Иисус, Момбаса",
+        "ar": "حصن يسوع، مومباسا",
+        "zh": "蒙巴萨的耶稣堡"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings.",
+          "fr": "Le Fort, édifié par les Portugais en 1593-1596 selon les plans de Giovanni Battista Cairati pour protéger le port de Mombasa, est l'un des exemples les plus remarquables et les mieux préservés de fortification militaire portugaise du XVIe siècle et une référence dans l'histoire de ce type de construction. Le schéma et la structure du Fort reflètent l'idéal de la Renaissance selon lequel la perfection des proportions et l'harmonie géométrique doivent s'inspirer du corps humain. Le bien s'étend sur 2,36 hectares et comprend les douves du Fort et la zone immédiatement avoisinante.",
+          "es": "El Fuerte Jesús, construido por los portugueses entre 1593 y 1596 según los planos de Giovanni Battista Cairati para proteger el puerto de Mombasa, es uno de los ejemplos más sobresalientes y mejor preservados de fortificación militar portuguesa y un hito en la historia de este tipo de construcciones. El diseño y la forma del Fuerte reflejan el ideal renacentista según el cual las proporciones perfectas y la armonía geométrica se encuentran en el cuerpo humano. El sitio cubre una superficie de 2,36 hectáreas e incluye el foso del puerto y sus inmediatos alrededores.",
+          "ru": "Укрепление было построено португальцами по проекту Джованни Баттиста Кайрати в 1593 -1596 г.г. для защиты порта Момбаса. Оно является одним из самых интересных и хорошо сохранившихся образцов португальского военно-фортификационного искусства 16-го века, ставшего вехой в истории этого вида строительства. Его расположение и форма отражают идеал эпохи Возрождения, находящий совершенство пропорций и геометрической гармонии в строении человеческого тела. Площадь памятника составляет 2,36 га, включая защитный ров и ближайшее окружение.",
+          "ar": "قلعة بناها البرتغاليون بين العامين 1593و1596 وفق تصاميم وضعها جيوفاني باتيستا كايراتي لحماية ميناء مومباسا. وهي أحد أكثر النماذج البارزة التي حفظت جيدًا التحصينات العسكرية البرتغالية منذ القرن السادس عشر، ومعلم في تاريخ هذا النوع من البناء. ويعكس تخطيط الحصن وشكله عصر النهضة المثالي من حيث كمال الأبعاد والتناغم الهندسي اللذان يمكن إيجادهما في جسم الإنسان. ويقع هذا الحصن على مساحة 2.36 هكتار ويضم خندق القلعة ومحيطها المباشر.",
+          "zh": "在1593-1596年间由葡萄牙人修建而成。用于保护蒙巴萨港口城堡由乔瓦尼·巴蒂斯塔·凯拉迪（Giovanni Battista Cairati） 设计，是16世纪葡萄牙军事要塞建筑中最出色的作品之一，代表着此类建筑物历史上的一个里程碑，受到了良好的保护。城堡的设计布局与形式体现了文艺复兴的理想，即采用同样可以在人体比例中找到的那种完美和谐的比例与几何构图。这一遗产占地2.36公顷，包括护城河以及周围的附属部分。"
+        },
+        "full": "The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings.",
+        "justification": "Brief synthesis Built by the Portuguese at the end of the 16th century at the southern edge of the town of Mombasa, over a spur of coral rock, and kept under their control for one century, Fort Jesus, Mombasa, bears testimony to the first successful attempt by Western civilization to rule the Indian ocean trade routes, which, until then had remained under Eastern influence. The design of the fort, with its proportions, its imposing walls and five bastions, reflects the military architectural theory of the Renaissance. Fort Jesus, Mombasa, bears physical witness, in its structures and subsequent transformations, also to the interchange of cultural values and influences between and among peoples of African, Arab, Turkish, Persian and European origin that fought to gain and maintain their control over this strategic port. Criterion (ii): Built in a period and in a region, which were at the centre of the emerging political, commercial, and cultural globalisation, Fort Jesus, with its imposing structure, and the various traces of subsequent modifications, bears significant witness to the interchange of cultural values among peoples of African, Arab, Turkish, Persian and European origin. Built and occupied first by the Portuguese, Fort Jesus, Mombasa, changed hands many times throughout its history, coming under Arab, Swahili and English control. Its important role in the control of trade also saw it host many of the peoples of the Indian Ocean basin. Criterion (iv): Fort Jesus, Mombasa, eminently exemplifies a new type of fortification that resulted from the innovations in military and weapons technology that occurred between the 15th and 16th centuries. In its layout and form, the Fort reflects the Renaissance ideal whose architectural proportions and geometric harmony are to be found in the proportions of the human body, while at the same time meeting the functional needs of a modern and well-defended fortification. The original layout of the Fort, despite several changes, has survived almost unchanged over centuries of continued occupations and reoccupations. Integrity The boundaries of the property have been delineated to include the underwater archaeological remains in the expanse of sea in front of Fort Jesus as well as the moat area adjacent to Mombasa Old Town. Minor changes inside the Fort bear witness to its history and do not threaten its integrity. The property is in good conditions and there is no urban or development encroachment in its immediate vicinity. Mombasa Old Town, which is integral to Fort Jesus’ historic context, acts as the buffer zone of the Fort. Authenticity In regard to authenticity, Fort Jesus, Mombasa, hasretained its form, design and materials, with coral stone and lime mortar still being used in the traditional way, where necessary, for repair and conservation work. It has also retained its authenticity of setting, located on an otherwise unbuilt property along the coast of Mombasa Island adjacent to the Mombasa Old Town with which it shares a common history. Protection and management requirements The legal protection system for the property is adequate: Fort Jesus, Mombasa, was originally designated a National Park in 1958, the protected area included the Fort itself and a 100-meter strip around it; today it falls under the National Museums and Heritage Act, 2006. The buffer zone has been formally declared a Conservation Area, however, a discrepancy between the size of the designated Conservation Area and the size of the Buffer Zone has not been amended yet. A satisfactory management plan has been put in place for the property with the National Museums of Kenya acting as the key stakeholder in its conservation and safeguarding. Long-term conservation and management issues include the protection of the Fort from urban encroachment and inappropriate design in the areas adjacent to the Fort and in the surrounding Mombasa Old Town, which require the reinforcement of dedicated management structures and staff, control of erosion of the rocks along the sea coast, and the ongoing maintenance and conservation of the Fort itself."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2.36,
+          "square_km": 0.02,
+          "square_miles": 0.01,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/56b53f48de96eac3143d78ecc75ecbae",
+          "filename": "site_1295_0001-500-0-20110920204740.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114661/site_1295_0001.jpg",
+            "https://whc.unesco.org/document/114663/site_1295_0002.jpg",
+            "https://whc.unesco.org/document/114665/site_1295_0003.jpg",
+            "https://whc.unesco.org/document/114667/site_1295_0004.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1295",
+        "unesco_documents": "https://whc.unesco.org/en/list/1295/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1295/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1295/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fort Jesus, Mombasa The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings. The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings. Kenya Africa Cultural"
+    },
+    {
+      "site_key": "kenya_lake_system_in_the_great_rift_valley",
+      "uuid": "4efb51c9-6644-587a-9afe-fd0c97fb8052",
+      "unesco_id": "1060",
+      "names": {
+        "en": "Kenya Lake System in the Great Rift Valley",
+        "fr": "Réseau des lacs du Kenya dans la vallée du Grand Rift",
+        "es": "Sistema de lagos de Kenya en el Gran Valle del Rift",
+        "ru": "Система озер в Великой рифтовой долине",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance.",
+          "fr": "Le Réseau des lacs du Kenya dans la vallée du Grand Rift comprend trois lacs interconnectés et peu profonds (Lac Bogoria, lac Nakuru et Lac Elementaita) qui se trouvent dans la province de la Rift Valley au Kenya. Sa superficie est de 32 034 hectares. Le bien héberge 13 espèces d'oiseaux menacées au plan mondial et la diversité des espèces d'oiseaux est une des plus élevées au monde. C'est le plus important site de nourrissage de la planète pour les flamants nains et un important site de nidification et de nourrissage pour les pélicans blancs. On y trouve aussi des populations de bonne taille de mammifères, dont le rhinocéros noir, la girafe de Rothschild, le grand koudou, le lion, le guépard et le lycaon. Le site se prête particulièrement bien à des études sur des processus écologiques particulièrement importants.",
+          "es": "El sitio natural Sistema de lagos de Kenya en el Gran Valle del Rift, de belleza excepcional, situado en la provincia keniana del Valle del Rift, totaliza una superficie de 32.034 hectáreas y comprende tres lagos poco profundos comunicados entre sí: el lago Bogoria, el Nakuru y el Elementaita. El sitio alberga 13 especies de aves amenazadas de extinción a nivel mundial y la diversidad de sus especies de pájaros es una de las mayores del planeta. Además, es el lugar más importante del mundo para la alimentación del flamenco enano y una zona importante para la nidificación y cría del gran pelícano blanco. También se encuentran en la zona poblaciones considerables de algunas especies de mamíferos como el rinoceronte negro, la jirafa de Rothschild, el gran kudú, el león, la onza y el licaón. El sitio es también valioso para el estudio de procesos ecológicos de gran importancia.",
+          "ru": "Система озер в Великой рифтовой долине, природный объект отличающийся исключительной живописностью, был впервые включен в Список Всемирного наследия на нынешней сессии Комитета. В Рифтовой долине Кении расположены три относительно мелководных озера (Богория, Накуру и Элементаита), общая площадь которых составляет 32034 га. Здесь обитают 13 видов птиц, которым угрожает полное уничтожение за пределами заповедника. Здесь сложилось самое представительное в мире разнообразие пернатых. Территория является самым обширным среди известных мест выгула малых фламинго, а также одним из наиболее значительных мест гнездования и выкармливания птенцов больших пеликанов. В заповеднике обитают значительные популяции млекопитающих, включая черного носорога, жирафа Ротшильда, большого куду, льва, леопарда и дикой собаки. Это место представляет большую ценность с точки зрения возможности изучения важнейших экологических процессов.",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance.",
+        "justification": "Brief synthesis The Kenya Lake System is composed of three alkaline lakes and their surrounding territories: Lake Bogoria, 10,700 ha; Lake Nakuru, 18,800 ha; and Lake Elementaita, 2,534 ha. These lakes are found on the floor of the Great Rift Valley where major tectonic and/or volcanic events have shaped a distinctive landscape. Some of the world's greatest diversities and concentrations of bird species are recorded within these relatively small lake systems. For most of the year, up to 4 million Lesser Flamingos move between the three shallow lakes in an outstanding wildlife spectacle. Surrounded by hot springs, geysers and the steep escarpment of the Rift Valley with its volcanic outcrops, the natural setting of the lakes provides an exceptional experience of nature. Criterion (vii): The Kenya Lake System presents an exceptional range of geological and biological processes of exceptional natural beauty, including falls, geysers, hot springs, open waters and marshes, forests and open grasslands concentrated in a relatively small area and set among the landscape backdrop of the Great Rift Valley. The massed congregations of birds on the shores of the lakes including up to 4 million Lesser Flamingos which move between the three lakes is an outstanding wildlife spectacle. The natural setting of all three lakes surrounded by the steep escarpment of the Rift Valley and associated volcanic features provides an exceptional experience of nature. Criterion (ix): The Kenya Lake System illustrates ongoing ecological and biological processes which provide valuable insights into the evolution and the development of soda lake ecosystems and the related communities of plants and animals. Low species diversity and abundant resident populations of birds and other animals make the soda lakes of the property especially important environments in which to conduct investigations of trophic dynamics and ecosystem processes. The production of huge biomass quantities in these distinctive soda lakes and the food web that this green algae supports are also of international scientific value, and provide critical support to birds, which visit the property in large numbers as part of their migration in response to seasonal and episodic changes in the environment. Criterion (x): The Kenya Lake System is the single most important foraging site for the Lesser Flamingo in the world with about 1.5 million individuals moving from one lake to the other and provides the main nesting and breeding grounds for Great White Pelicans in the Great Rift Valley. The lakes' terrestrial zones also contain important populations of many mammal and bird species that are globally or regionally threatened. They are home to over 100 species of migratory birds and support globally important populations of Black-Necked Grebe, African Spoonbill, Pied Avocet, Little Grebe, Yellow Billed Stork, Black Winged Stilt, Grey-Headed Gull and Gull Billed Tern. The property makes a critical contribution to the conservation of the natural values within the Great Rift Valley, as an integral part of the most important route of the African-Eurasian flyway system where billions of birds are found to travel from northern breeding grounds to African wintering places. Integrity The three lakes constituting the property represent the most significant Rift Valley lakes within Kenya, and are an essential component of those in the Great Rift Valley as a whole. Each of the three components of the property is gazetted as a protected area and whilst the property is of small size, it contains the main ecosystems and features that support its Outstanding Universal Value. Surrounded by an area of rapidly growing population, the property is under considerable threat from surrounding pressures. These threats include siltation from soil erosion, increased abstraction of water in the catchment, degradation of land, deforestation, growth in human settlements, overgrazing, wildlife management, tourism and pollution coming from Nakuru town. Management authorities must be vigilant in continuing to address these issues through effective multi-sector and participatory planning processes. Protection and management requirements Each component of the property enjoys adequate legal protection, up-to-date management plans and a satisfactory on-ground management presence. In order to maintain and enhance the Outstanding Universal Value of the property it will be important to sustain and enhance this effective management, and to address a range of long-term issues. These include catchment level management of threats and development with particular emphasis on management of groundwater and surface pollution and forest cover, inter-sectoral and participatory management processes especially with respect to environmental impact assessment of adjoin development and the building of increased ecological connectivity between the component parts of the system. Transboundary cooperation is also important as the values of the property are partly dependant on protection of other lake and wetland areas that support migratory species. In this regard there is potential for other areas, including Lake Natron in Tanzania, to be considered as part of a future transnational serial World Heritage property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 32034,
+          "square_km": 320.34,
+          "square_miles": 129.637,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d49a1ae7e2673c49be861943a3c5f402",
+          "filename": "site_1060_0002-500-0-20240108113541.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 332
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114591/site_1060_0002.jpg",
+            "https://whc.unesco.org/document/114589/site_1060_0001.jpg",
+            "https://whc.unesco.org/document/114593/site_1060_0003.jpg",
+            "https://whc.unesco.org/document/114595/site_1060_0004.jpg",
+            "https://whc.unesco.org/document/167561/site_1060_0009.jpg"
+          ],
+          "count": 5
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Lake Nakuru",
+            "ref": "1060rev-002",
+            "latitude": -0.3588888889,
+            "longitude": 36.0855555556
+          },
+          {
+            "name": "Lake Bogoria",
+            "ref": "1060rev-003",
+            "latitude": 0.2583333333,
+            "longitude": 36.0855555556
+          },
+          {
+            "name": "Lake Elementaita",
+            "ref": "1060rev-001",
+            "latitude": -0.4425,
+            "longitude": 36.24
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1060",
+        "unesco_documents": "https://whc.unesco.org/en/list/1060/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1060/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1060/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kenya Lake System in the Great Rift Valley The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance. The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance. Kenya Africa Natural"
+    },
+    {
+      "site_key": "thimlich_ohinga_archaeological_site",
+      "uuid": "5ddd9c61-822f-5b51-8ac6-e575ceb58723",
+      "unesco_id": "1450",
+      "names": {
+        "en": "Thimlich Ohinga Archaeological Site",
+        "fr": "Site Archéologique de Thimlich Ohinga",
+        "es": "Sitio arqueológico de Thimlich Ohinga",
+        "ru": "Археологический объект Тхимлич Охинга",
+        "ar": "موقع تيمليش أوينغا الأثري",
+        "zh": "西穆里奇定居点考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated north-west of the town of Migori, in the Lake Victoria region, this dry-stone walled settlement was probably built in the 16th century CE. The Ohinga (i.e. settlement) seems to have served as a fort for communities and livestock, but also defined social entities and relationships linked to lineage. Thimlich Ohinga is the largest and best preserved of these traditional enclosures. It is an exceptional example of the tradition of massive dry-stone walled enclosures, typical of the first pastoral communities in the Lake Victoria Basin, which persisted from the 16th to the mid-20th century.",
+          "fr": "Situé au nord-ouest de la ville de Migori, dans la région du lac Victoria, cet établissement fortifié en pierre sèche a probablement été construit au XVIe siècle de notre ère. L’Ohinga, (forme d’établissement ou d’enceinte), semble avoir servi à assurer la sécurité des communautés et du bétail, mais définissait aussi des unités et relations sociales associées à des systèmes fondés sur la lignée. Thimlich Ohinga est l’enceinte traditionnelle existante la plus vaste et la mieux préservée. Il s’agit d’un exemple exceptionnel de cette tradition de construction massive en pierre sèche, caractéristique des premières communautés pastorales du bassin du lac Victoria, qui se perpétua du XVIe siècle au milieu du XXe siècle.",
+          "es": "Situado en la región del lago Victoria, al nordeste de la ciudad de Migori, este sitio contiene los vestigios de un asentamiento humano fortificado que fue construido con piedras sin labrar y unidas sin mortero, a principios del siglo XVI probablemente. Las construcciones parecen haber servido para garantizar la seguridad de la población y del ganado, así como para determinar las diferentes unidades sociales y relaciones socioeconómicas vinculadas a sociedades basadas en el linaje. Thimlich Ohinga no sólo es el recinto de este tipo más vasto y mejor conservado de todos los existentes, sino que además constituye un ejemplo excepcional de las construcciones tradicionales compactas con piedra seca realizadas desde el siglo XVI hasta mediados del siglo XX por las primeras comunidades pastorales asentadas en la cuenca del lago Victoria.",
+          "ru": "Этот объект находится на северо-востоке от города Мигори в районе озера Виктория. Он представляет укрепленное каменное сооружение, построенное методом сухой кладки, вероятно, в XVI веке нашей эры. По-видимому, укрепленное сооружение или строительный комплекс Охинга использовался для обеспечения безопасности общин и охраны домашнего скота. Он также определял социальные отношения и образование кланов в системе родственных связей. Тхимлич Охинга является самым крупным и наиболее сохранившимся из существующих традиционных строительных комплексов. Это выдающийся пример сборного массивного строительства методом сухой каменной кладки, характерной для ранних скотоводческих общин в бассейне озера Виктория и практиковавшейся с XVI до середины XX века.",
+          "ar": "تقع هذه المنطقة المحصنة بالصخور الناشفة شمال شرق مدينة ميغون في منطقة بحيرة فيكتوريا، ويشار إلى أنها غالباً قد بنيت في القرن الخامس العشر الميلادي. ويبدو أن الأوهينغا كانت تستخدم لضمان أمن المجتمعات المحلية والمواشي، وكذلك في تحديد الوحدات والعلاقات الاجتماعية المتعلقة في النظم القائمة على مسألة النسل. ويعدّ موقع تيمليش أوينغا أوسع المنشآت الصخرية المحصنة التقليدية القائمة حتى يومنا هذا وأفضلها حالاً. ويقدم الموقع مثالاً فريداً على هذا التقليد لعمليات البناء الضخمة باستخدام الحجارة الجافة، والذي تتميز به المجتمعات الرعوية الأولى في حوض بحيرة فكتوريا التي بقيت هناك من القرن السادس عشر حتى منتصف القرن العشرين.",
+          "zh": "该遗产地位于维多利亚湖地区的Migori镇西北部，这个干砌石墙定居点可能建于公元16世纪。 欧辛加的词义即为定居点，这一带的定居点曾被用于人类居住和牲畜圈养，遗址同时也反映了与血统有关的社会实体和关系。西穆里奇是其中规模最大、保存最完好的传统定居点。它是典型的维多利亚湖盆地第一代牧民社区的大型传统干砌石墙的具代表性的例子，该社区一直延续至20世纪中叶。"
+        },
+        "full": "Situated north-west of the town of Migori, in the Lake Victoria region, this dry-stone walled settlement was probably built in the 16th century CE. The Ohinga (i.e. settlement) seems to have served as a fort for communities and livestock, but also defined social entities and relationships linked to lineage. Thimlich Ohinga is the largest and best preserved of these traditional enclosures. It is an exceptional example of the tradition of massive dry-stone walled enclosures, typical of the first pastoral communities in the Lake Victoria Basin, which persisted from the 16th to the mid-20th century.",
+        "justification": "Brief synthesis Located 46 km northwest of Migori Town in the Lake Victoria region, Thimlich Ohinga archaeological site is a dry-stone walled settlement, based on a complex organization system of communal occupation, craft industries and livestock that reflects a cultural tradition developed by pastoral communities in the Nyanza region of the Lake Victoria basin that persisted from 16th to mid-20th centuries. Thimlich Ohinga is the largest and best preserved of these massive dry-stone walled enclosures. The Ohinga appear to have served primarily as security for communities and livestock, but they also defined social units and relationships linked to lineage based systems. The property comprises four larger Ohingni, all of which have extensions. The main Ohinga is referred to as Kochieng, while the others are Kakuku, Koketch and Koluoch. The dry stone wall enclosures are constructed in a three-phase design with separately built up outer and inner phases, held together by the middle phase. Stones were placed in an interlocking system that enhanced overall stability without use of any mortar or cement. The walls are built of neatly arranged stones of various sizes and without mortar, ranging from 1.5 m to 4.5 m in height, with an average thickness of 1 m. Thimlich Ohinga is an exceptional testimony of settlement patterns and spatial community relations in the Lake Victoria Basin, which documents the successive occupation by different people from various linguistic origins during an important episode in the migration and settlement of the Lake Victoria Basin between the 16th and 17th centuries. It also gives reference to habitation patterns, livestock cultivation and craft practices prevalent in communal settlements at this time. Criterion (iii): Thimlich Ohinga provides an exceptional testimony to settlement traditions in the Lake Victoria Basin. It illustrates shared communal settlement, livestock cultivation and craft industry patterns, utilized and practiced by several successive inhabitant groups of different linguistic origin. The archaeological evidence testified not only to the communities’ spatial organization but also to an elaborate system of interrelations between the different Ohingni within proximity to each other. It therefore allows to understand and further research community interaction patterns between the 16th and the mid-20th century in the region. Criterion (iv): The settlements of Thimlich Ohinga provide an impressive reference to spatial planning and settlement types in the wider Lake Victoria Basin, at a period in history characterized by increased human mobility as a result of social, economic and environmental pressures that affected human populations in the region. The massive stone walled enclosures at Thimlich Ohinga mark an important episode in the migration and settlement of the Lake Victoria Basin and sub-Saharan Africa as a whole. Thimlich Ohinga also illustrates an outstanding example of undressed dry-stone construction typology characterized by a three-phase building technology using stones of irregular shapes in two phases joined together by a third middle phase. Criterion (v): Thimlich Ohinga, as the best preserved example of Ohingni constitutes a representative and outstanding example of Ohingni, a distinctive form of pastoral settlement that persisted in the Lake Victoria Basin from the 16th to the mid-20th centuries. Integrity The property includes the Ohingni with their stone walls and low entrances, the structural support features known as buttresses, low water/sludge drainage vents from the inner livestock enclosures (kraals), the three-phase wall design, the inner and outer enclosures, industrial site and house pits. To ensure the full protection of the archaeological remains, the entire property area, including the suggested extension toward a yet private land in the south, will need to be considered in an integrated management approach. This also applies to the property’s immediate setting, where visual integrity depends on the conservation of the surrounding vegetation to retain the traditional atmosphere of the jungle-protected settlement. Authenticity Maintenance work of the structures was carried out over the centuries using traditional materials and techniques. Several subsequent periods of occupation and repair did not interfere with the design or workmanship of the structures. After their abandonment, the Ohingni became ruins. In the past decades, these ruins have now been largely restored, and selected walls have been added to demarcate the boundary between the archaeological site and the forest. This new work is not always easily distinguishable from the historic stone structures. Future conservation measures should be undertaken based on minimum intervention approaches and should continue to train younger apprentices in traditional maintenance techniques. Protection and management requirements The property is protected by the National Museums and Heritage Act, Cap 216 of 2006 and is managed by the National Museums of Kenya. The legal protection is further strengthened by traditional rules and taboos maintained by community elders, which assist in the protection of the property and its surrounding flora and fauna. The archaeological potential of features located on the south side of the property requires the extension of the property boundary towards this direction, in line with the recommendation by the World Heritage Committee in its Decision 39 COM 8B.8. Likewise, the buffer zone, though adequately extended in southern direction needs to be further adjusted in all other directions. A new management plan for the property has been adopted in 2017 and guides site management until 2027. The management authorities plan to develop controlled tourism while conserving cultural and environmental values. Plans are underway to develop a picnic site, a camping site and an eco-lodge as additional visitor infrastructure. While at a theoretical levels the aims of this emphasize sustainability, it will need to be observed in practice how the anticipated new infrastructure and significant visitor increase will affect the property. It will be essential that any tourism or infrastructure project in the boundaries or the wider setting of the property will be evaluated by a comprehensive Heritage Impact Assessment before permissions are granted. The property serves as a meeting venue for the community and remains a location for community rituals, in particular in times of crisis. These as well as the community-based maintenance strategies need to be continued to retain the strong involvement and attachment of the local communities."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 21,
+          "square_km": 0.21,
+          "square_miles": 0.085,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2018,
+          "all_dates": [
+            2018
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2018,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5d4a56a3333a1daa665b7ccf8f93c509",
+          "filename": "site_1450_0001.jpg",
+          "dimensions": {
+            "width": 4288,
+            "height": 2848
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136402/site_1450_0001.jpg",
+            "https://whc.unesco.org/document/136405/site_1450_0004.jpg",
+            "https://whc.unesco.org/document/203853/site_1450_0006.jpg",
+            "https://whc.unesco.org/document/136403/site_1450_0002.jpg",
+            "https://whc.unesco.org/document/136404/site_1450_0003.jpg",
+            "https://whc.unesco.org/document/136406/site_1450_0005.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Thimlich Ohinga Archaeological Site",
+            "ref": "1450rev",
+            "latitude": -0.8913380556,
+            "longitude": 34.326107
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1450",
+        "unesco_documents": "https://whc.unesco.org/en/list/1450/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1450/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1450/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 7,
+        "inscription_year": 2018
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Thimlich Ohinga Archaeological Site Situated north-west of the town of Migori, in the Lake Victoria region, this dry-stone walled settlement was probably built in the 16th century CE. The Ohinga (i.e. settlement) seems to have served as a fort for communities and livestock, but also defined social entities and relationships linked to lineage. Thimlich Ohinga is the largest and best preserved of these traditional enclosures. It is an exceptional example of the tradition of massive dry-stone walled enclosures, typical of the first pastoral communities in the Lake Victoria Basin, which persisted from the 16th to the mid-20th century. Situated north-west of the town of Migori, in the Lake Victoria region, this dry-stone walled settlement was probably built in the 16th century CE. The Ohinga (i.e. settlement) seems to have served as a fort for communities and livestock, but also defined social entities and relationships linked to lineage. Thimlich Ohinga is the largest and best preserved of these traditional enclosures. It is an exceptional example of the tradition of massive dry-stone walled enclosures, typical of the first pastoral communities in the Lake Victoria Basin, which persisted from the 16th to the mid-20th century. Kenya Africa Cultural"
+    },
+    {
+      "site_key": "mount_kenya_national_park_natural_forest",
+      "uuid": "a530a696-75c2-506e-b71c-b8b71b74b6d3",
+      "unesco_id": "800",
+      "names": {
+        "en": "Mount Kenya National Park/Natural Forest",
+        "fr": "Parc national/Forêt naturelle du mont Kenya",
+        "es": "Parque nacional/Bosque natural del Monte Kenya",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora provide an outstanding example of ecological and biological processes. Through the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve, the property also incorporates lower lying scenic foothills and arid habitats of high biodiversity, situated in the ecological transition zone between the mountain ecosystem and the semi-arid savanna grasslands. The area also lies within the traditional migrating route of the African elephant population.",
+          "fr": "Culminant à 5.199 m, le mont Kenya est le deuxième plus haut sommet d’Afrique. C’est un ancien volcan éteint qui, durant sa période d’activité (il y a 3,1-2,6 millions d’années), aurait atteint 6.500 m. Il reste une douzaine de glaciers sur la montagne, tous en retrait rapide, et l’on trouve quatre sommets secondaires situés à la tête de vallées glaciaires en forme de U. Avec ses sommets rugueux, couronnés de glaciers, et ses pentes moyennes boisées, le mont Kenya est un des paysages les plus impressionnants de l’Afrique de l’Est. L’évolution et l’écologie de la flore afro-alpine du mont Kenya fournissent un exemple exceptionnel de processus écologiques et biologiques. Avec le Conservatoire de faune sauvage de Lewa et la Réserve forestière du Ngare Ndare, le site comprend des vallées profondes de pentes basses et des habitats arides riches en biodiversité, situés dans une zone écologique de transition entre un écosystème montagneux et des prairies de savanes semi-arides. Le lieu se trouve également sur la voie traditionnelle de migration des populations d’éléphants d’Afrique.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora provide an outstanding example of ecological and biological processes. Through the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve, the property also incorporates lower lying scenic foothills and arid habitats of high biodiversity, situated in the ecological transition zone between the mountain ecosystem and the semi-arid savanna grasslands. The area also lies within the traditional migrating route of the African elephant population.",
+        "justification": "Brief synthesis Mount Kenya straddles the equator about 193 km north-east of Nairobi and about 480 km from the Kenyan coast. At 5,199 m, Mount Kenya is the second highest peak in Africa and is an ancient extinct volcano. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora also provide an outstanding example of ecological processes. The property includes the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve (LWC-NNFR) to the north. The two component parts of the property are connected via a wildlife corridor which is part of the buffer zone for the property, and which provides vital connectivity for elephants moving between Mount Kenya and the larger conservation complex of the Somali/Maasai ecosystem. The LWC-NNFR extension incorporates the forested foothills and steep valleys of the lower slopes of Mount Kenya and extends northwards onto the relatively flat, arid, volcanic soils supporting grassland and open woodland communities on the Laikipia plain. Criterion (vii): At 5,199 m, Mount Kenya is the second-highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. The entire mountain is deeply dissected by valleys radiating from the peaks, which are largely attributed to glacial erosion. There are about 20 glacial tarns (small lakes) of varying sizes and numerous glacial moraine features between 3,950 m and 4,800 m asl. The highest peaks are Batian (5,199 m) and Nelion (5,188 m). There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. This setting is enhanced by the visual contrast and diversity of landscapes created between the Kenyan Highlands and Mount Kenya looming over the flat, arid, grassland and sparse wooded plains of the Lewa Wildlife Conservancy extension to the north. Mount Kenya is also regarded as a holy mountain by all the communities (Kikuyu and Meru) living adjacent to it. They use the mountain for traditional rituals based on the belief that their traditional God Ngai and his wife Mumbi live on the peak of the mountain. Criterion (ix): The evolution and ecology of the afro-alpine flora of Mount Kenya provides an outstanding example of ecological processes in this type of environment. Vegetation varies with altitude and rainfall and the property supports a rich alpine and subalpine flora. Juniperus procera and Podocarpus species are predominant in the drier parts of the lower zone (below 2,500 m asl). Cassipourea malosana predominates in wetter areas to the south-west and north-east. Higher altitudes (2,500-3,000 m) are dominated by bamboo and Podocarpus milanjianus. Above 3,000 m, the alpine zone offers a diversity of ecosystems including grassy glades, moorlands, tussock grasslands and sedges. Continuous vegetation stops at about 4,500 m although isolated vascular plants have been found at over 5,000 m. In the lower forest and bamboo zone mammals include giant forest hog, tree hyrax, white-tailed mongoose, elephant, black rhinoceros, suni, black-fronted duiker and leopard. Moorland mammals include the localized Mount Kenya mouse shrew, hyrax and common duiker. The endemic mole-rat is common throughout the northern slopes and the Hinder Valley at elevations up to 4,000 m. Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve enhance the species diversity within the property including being home to the largest resident population of Grevys’ Zebra in the world. An impressive array of birdlife includes green ibis (local Mount Kenya race); Ayres hawk eagle; Abyssinian long-eared owl; scaly francolin; Rüppell's robin-chat; numerous sunbirds (Nectariniidae); the locally threatened scarce swift; and near endemic alpine swift. The Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve component of the property incorporates lower lying, scenic foothills and arid habitats of high biological richness and diversity. The component lies at the ecological transition zone between the Afro Tropical Mountain ecosystem and the semi-arid East African Savannah Grasslands. Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve also lie within the traditional migration route of the African elephant population of the Mount Kenya – Somali/Maasai ecosystem and has always been the traditional dry season feeding area for elephants. Integrity The serial property comprises Mount Kenya National Park managed by the Kenya Wildlife Service (KWS) and parts of the Mount Kenya Forest Reserve managed by the Kenya Forest Service (KFS). Both these protected areas are designed to protect the main natural values and the watershed of the mountain above the 2,000 - 2,500m elevations. To the north the property is connected via a 9.8 km elephant corridor to the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve (LWC-NNFR) which adds lowland drier ecosystems and habitats and a suite of additional species to the property. The corridor is within the buffer zone but critical to maintain ecological connectivity between the two components of the property. Despite a number of threats to the property, wildlife populations, though reduced from the years prior to the first inscription of the property on the World Heritage List, are still considered healthy. The boundaries of the property on the main area of Mount Kenya are limited to the upper reaches of the mountain above the montane forest zone and most of the forest destruction, illegal grazing, poaching and other human activities which impact the broader ecosystem are occurring outside the property, in the area of forest/national reserve that serves as a ‘buffer zone’. Understanding and mitigating these threats to the broader ecosystem is important because they impact the long-term viability of the property. Climate change is probably one of the most serious long-term threats to the site. Glaciers are melting fast and appear destined to disappear altogether within a few decades. As the climate warms the vegetation zones can be expected to shift higher up the mountain. For example, the lower parts of the bamboo zone (which occur at the lower limit of the property) will likely gradually be replaced with mixed montane forest. It is essential that the threat of climate change is buffered through enhanced connectivity and ensuring that natural habitats covering the full range of altitude are maintained as a continuum, thus providing ecosystem resilience and allowing for adaptation to the inevitable change. The LWC-NNFR by establishing the corridor and regional linkages via several conservancies to link with Samburu National Park, Shaba National Reserve and Buffalo Springs to the north and beyond to the Matthew’s Range is a significant proactive intervention to mitigate climate change impacts on the biodiversity of this region of East Africa providing mobility for biodiversity to adapt to changing temperature and rainfall regimes. Protection and management requirements The property’s legislative framework is generally sound and provides for adequate protection of the site. The most relevant legislation is provided by the Wildlife Act, the Environment Management and Coordination Act (1999), the Water Act (2002), and the Forest Act (2005). The Government of Kenya, through KWS has promoted the formation of wildlife conservancies amongst owners of large tracks of land especially amongst local communities as a long-term strategy to increase range for biodiversity conservation and management in the country. LWC is managed for the conservation of biological diversity and thus has met the national legal requirements for designation as a conservancy. In addition the National Land Policy of the Ministry of Lands supports the establishment of corridors for biodiversity conservation. Three institutions require close coordination to manage the serial property. These include KWS and KFS as well as the Lewa Wildlife Conservancy managed through a Board of Trustees. KWS and KFS are signatories to the Mount Kenya Ecosystem Management Plan which provides an overarching management planning framework. It is essential that the separate management plans applying to the components of the property are harmonised in terms of management approaches and timeframes. More sustainable management of various sections of the forest has been supported through the establishment of Community Forestry Associations (CFAs) and the production of operational forest management plans and related agreements signed between KFS and the CFAs. There is a major problem with crop damage caused by elephant, buffalo and other large mammals moving into fields along the lower boundary of the Mount Kenya National/Forest Reserve. Various attempts have been made to mitigate this human-wildlife conflict problem by fencing and construction of other barriers to stop animals moving out of the reserve. These have had mixed results, nevertheless, as experience has shown elsewhere, effective and well considered fencing is likely to be the best option for mitigating human/wildlife conflict in such a densely populated landscape. Past threats from commercial tree plantation development and associated cultivation/habitat destruction have been alleviated through long term efforts. Government policy not to convert any more natural forest for plantation development has significantly reduced the threat to the property from plantation development and associated cultivation in the adjacent buffer zone. Nevertheless, the ecological consequences of the failed plantation development activities of past decades remain. Areas which were cleared for plantations, but never planted, have been colonised by grasses and are being maintained as open grazing lands, rather than being allowed to revert to natural forest. Threats from illegal logging, grazing, poaching and tourism are being managed and appear to be stable notwithstanding on-going issues. Continued monitoring and effective management of these issues will be needed. Fire is a major threat, especially in the high altitude moorlands of the World Heritage property. The threat is exacerbated by the increasing number of people living around the periphery of the forest, and making daily incursions up the mountain to graze livestock and collect non-timber forest products. Stakeholders have jointly developed a Mount Kenya Hotspot Strategic Fire Plan to guide future fire preparedness within the ecosystem. The maintenance of the 9.8km elephant corridor connecting Mount Kenya to the lowland areas of the LWC-NNFR is critical to provide a contiguous link between the two components of the property, thereby supporting wildlife movements and buffering against climate change impacts. It is also critical to explore other opportunities to create connectivity within the larger ecosystem complex to enhance the ecological viability of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9
+          ],
+          "all": [
+            7,
+            9
+          ],
+          "display": "(vii)(ix)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 202334,
+          "square_km": 2023.34,
+          "square_miles": 818.818,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997,
+            2013
+          ],
+          "extensions": [
+            2013
+          ],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2013,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/23d3babbd99a53706c43b93308c628c9",
+          "filename": "site_0800_0001.jpg",
+          "dimensions": {
+            "width": 1296,
+            "height": 976
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111808/site_0800_0001.jpg",
+            "https://whc.unesco.org/document/111810/site_0800_0002.jpg",
+            "https://whc.unesco.org/document/111812/site_0800_0003.jpg",
+            "https://whc.unesco.org/document/111814/site_0800_0004.jpg",
+            "https://whc.unesco.org/document/111815/site_0800_0005.jpg",
+            "https://whc.unesco.org/document/111817/site_0800_0006.jpg",
+            "https://whc.unesco.org/document/125205/site_0800_0009.jpg",
+            "https://whc.unesco.org/document/125206/site_0800_0010.jpg",
+            "https://whc.unesco.org/document/125207/site_0800_0011.jpg",
+            "https://whc.unesco.org/document/125208/site_0800_0012.jpg",
+            "https://whc.unesco.org/document/125210/site_0800_0014.jpg",
+            "https://whc.unesco.org/document/125212/site_0800_0016.jpg",
+            "https://whc.unesco.org/document/125213/site_0800_0017.jpg",
+            "https://whc.unesco.org/document/125383/site_0800_0019.jpg",
+            "https://whc.unesco.org/document/125384/site_0800_0020.jpg",
+            "https://whc.unesco.org/document/125385/site_0800_0021.jpg",
+            "https://whc.unesco.org/document/125386/site_0800_0022.jpg",
+            "https://whc.unesco.org/document/125387/site_0800_0023.jpg",
+            "https://whc.unesco.org/document/125388/site_0800_0024.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Lewa Wildlife Conservancy",
+            "ref": "800bis-002",
+            "latitude": 0.2222222222,
+            "longitude": 37.4641666667
+          },
+          {
+            "name": "Mount Kenya National Park/Natural Forest",
+            "ref": "800-001",
+            "latitude": -0.155,
+            "longitude": 37.3155555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/800",
+        "unesco_documents": "https://whc.unesco.org/en/list/800/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/800/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/800/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mount Kenya National Park/Natural Forest At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora provide an outstanding example of ecological and biological processes. Through the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve, the property also incorporates lower lying scenic foothills and arid habitats of high biodiversity, situated in the ecological transition zone between the mountain ecosystem and the semi-arid savanna grasslands. The area also lies within the traditional migrating route of the African elephant population. At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora provide an outstanding example of ecological and biological processes. Through the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve, the property also incorporates lower lying scenic foothills and arid habitats of high biodiversity, situated in the ecological transition zone between the mountain ecosystem and the semi-arid savanna grasslands. The area also lies within the traditional migrating route of the African elephant population. Kenya Africa Natural"
+    },
+    {
+      "site_key": "sacred_mijikenda_kaya_forests",
+      "uuid": "8020fb26-693e-5645-809c-0587558ffec9",
+      "unesco_id": "1231",
+      "names": {
+        "en": "Sacred Mijikenda Kaya Forests",
+        "fr": "Forêts sacrées de kayas des Mijikenda",
+        "es": "Bosques sagrados y kayas de los mijikenda",
+        "ru": "Леса кайя Миджикенда",
+        "ar": "غابات كايا ميجيكندا المقدسة",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KEN": {
+            "name": "Kenya",
+            "iso2": "KE",
+            "iso3": "KEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.",
+          "fr": "Les forêts sacrées de kaya des Mijikenda consistent en 10 sites forestiers distincts qui s''étendent sur près de 200 km le long de la côte. Ils recèlent les vestiges de nombreux villages fortifiés, les kayas, du peuple Mijikenda. Les kayas, créés à partir du XVIème siècle ont été abandonnés dans les années 1940. Ils sont considérés aujourd''hui comme les demeures des ancêtres, révérés comme des sites sacrés et entretenus par les conseils d''anciens. Le site est inscrit en tant que témoignage unique d''une tradition culturelle et pour ses liens directs avec une tradition vivante.",
+          "es": "El sitio inscrito consta de 10 sitios independientes diseminados a lo largo de 200 km de costa. Muy ricos en vegetación, contienen los vestigios de numerosos pueblos fortificados, conocidos como kayas, del pueblo Mijikenda. Los kayas, creados en el siglo XVI pero abandonados en los años 1940, se consideran ahora morada de los ancestros y son venerados como sitios sagrados por parte de los consejos de ancianos. El sitio se inscribe como un testimonio único de una tradición cultural y su relación directa con una tradición todavía viva.",
+          "ru": "состоят из 10 отдельных поселений, расположенных вдоль двухсоткилометровой береговой линии, где еще сохранились остатки многочисленных укрепленных деревень, называемых кайя, племени Миджикенда. Строительство кайя началось в XVI веке, а прекратилось в 40-е годы прошлого века. Местные жители полагают, что в них пребывают их предки, поэтому чтят кайя как святыни. Только советам старейшин дано право следить за их содержанием. Объект занесен в Список как уникальный памятник традиционной культуры, тесно связанной с современными традициями.",
+          "ar": "تشمل 10 موقعاً، وتبلغ مساحتها 200 كلم تقريباً على طول الساحل. فيها آثار لعدد من القرى المحصنة، المسماة كايا، والتي يتميز بها شعب ميجيكندا. أنشئت قرى كايا بدءاً من القرن السادس عشر، وأصبحت مهجورة في عام 1940. لكنها تعتبر اليوم بيوت الأسلاف ومواقع مقدسة تحرص الأجيال المتعاقبة على الاعتناء بها. وقد أدرج الموقع بوصفه شهادة فريدة عن تقليد ثقافي ولارتباطه المباشر بتقليد حي.",
+          "zh": ""
+        },
+        "full": "The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.",
+        "justification": "Spread out along around 200km of the coast province of Kenya are ten separate forested sites, mostly on low hills, ranging in size from 30 to around 300 ha, in which are the remains of fortified villages, Kayas, of the Mijikenda people. They represent more than thirty surviving Kayas. The Kayas began to fall out of use in the early 20th century and are now revered as the repositories of spiritual beliefs of the Mijikenda people and are seen as the sacred abode of their ancestors. The forest around the Kayas have been nurtured by the Mijikenda community to protect the sacred graves and groves and are now almost the only remains of the once extensive coastal lowland forest. Criterion (iii): The Kayas provide focal points for Mijikenda religious beliefs and practices, are regarded as the ancestral homes of the different Mijikenda peoples, and are held to be sacred places. As such they have metonymic significance to Mijikenda and are a fundamental source of Mijikenda’s sense of ‘being-in-the-world’ and of place within the cultural landscape of contemporary Kenya. They are seen as a defining characteristic of Mijikenda identity. Criterion (v): Since their abandonment as preferred places of settlement, Kayas have been transferred from the domestic aspect of the Mijikenda landscape to its spiritual sphere. As part of this process, certain restrictions were placed on access and the utilisation of natural forest resources. As a direct consequence of this, the biodiversity of the Kayas and forests surrounding them has been sustained. The Kayas are under threat both externally and from within Mijikenda society through the decline of traditional knowledge and respect for practices. Criterion (vi): The Kayas are now the repositories of spiritual beliefs of the Mijikenda and are seen as the sacred abode of their ancestors. As a collection of sites spread over a large area, they are associated with beliefs of local and national significance, and possibly regional significance as the sites extend beyond the boundaries of Kenya. The Kayas demonstrate authenticity but aspects associated with traditional practices are highly vulnerable. The integrity of the Kayas relates to the intactness of their forest surroundings which has been compromised for Kaya Kinondo. Management needs to respect the needs of individual Kayas and to integrate the conservation of natural and cultural resources and traditional and non-traditional management practices; the authority of the Kaya elders should be established."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1538,
+          "square_km": 15.38,
+          "square_miles": 6.224,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/41042bb1198f33d9786b720d91772414",
+          "filename": "site_1231_0004-500-0-20231020131352.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114076/site_1231_0004.jpg",
+            "https://whc.unesco.org/document/114082/site_1231_0007.jpg",
+            "https://whc.unesco.org/document/114072/site_1231_0002.jpg",
+            "https://whc.unesco.org/document/114074/site_1231_0003.jpg",
+            "https://whc.unesco.org/document/114078/site_1231_0005.jpg",
+            "https://whc.unesco.org/document/114080/site_1231_0006.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 8,
+        "locations": [
+          {
+            "name": "Kaya Ribe",
+            "ref": "1231rev-005",
+            "latitude": -3.8969444444,
+            "longitude": 39.6327777778
+          },
+          {
+            "name": "Kaya Kambe",
+            "ref": "1231rev-003",
+            "latitude": -3.8636111111,
+            "longitude": 39.6519444444
+          },
+          {
+            "name": "Kaya Kauma",
+            "ref": "1231rev-004",
+            "latitude": -3.6205555556,
+            "longitude": 39.7361111111
+          },
+          {
+            "name": "Kaya Jibana",
+            "ref": "1231rev-002",
+            "latitude": -3.8375,
+            "longitude": 39.6694444444
+          },
+          {
+            "name": "Kaya Giriama",
+            "ref": "1231rev-001",
+            "latitude": -3.7986111111,
+            "longitude": 39.5144444444
+          },
+          {
+            "name": "Kaya Kinondo",
+            "ref": "1231rev-008",
+            "latitude": -4.3933333333,
+            "longitude": 39.5447222222
+          },
+          {
+            "name": "The Rabai Kayas",
+            "ref": "1231rev-006",
+            "latitude": -3.9319444444,
+            "longitude": 39.5961111111
+          },
+          {
+            "name": "The Duruma Kayas",
+            "ref": "1231rev-007",
+            "latitude": -3.9983333333,
+            "longitude": 39.5236111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1231",
+        "unesco_documents": "https://whc.unesco.org/en/list/1231/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1231/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1231/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sacred Mijikenda Kaya Forests The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition. The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition. Kenya Africa Cultural"
+    }
+  ]
+}

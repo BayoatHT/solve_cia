@@ -1,0 +1,507 @@
+{
+  "country": {
+    "code": "URY",
+    "name": "Uruguay"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "fray_bentos_industrial_landscape",
+      "uuid": "d054f351-0ec4-5fea-8aab-915d3291d85c",
+      "unesco_id": "1464",
+      "names": {
+        "en": "Fray Bentos Industrial Landscape",
+        "fr": "Paysage industriel de Fray Bentos",
+        "es": "Paisaje cultural industrial de Fray Bentos",
+        "ru": "Культурно-индустриальный ландшафт города Фрай-Бентос",
+        "ar": "موقع فراي بنتوس الثقافي الصناعي",
+        "zh": "弗莱本托斯文化工业景区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "URY": {
+            "name": "Uruguay",
+            "iso2": "UY",
+            "iso3": "URY"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located on land projecting into the Uruguay River west of the town of Fray Bentos, the industrial complex was built following the development of a factory founded in 1859 to process meat produced on the vast prairies nearby. The site illustrates the whole process of meat sourcing, processing, packing and dispatching. It includes buildings and equipment of the Liebig Extract of Meat Company, which exported meat extract and corned-beef to the European market from 1865 and the Anglo Meat Packing Plant, which exported frozen meat from 1924. Through its physical location, industrial and residential buildings as well as social institutions, the site presents an illustration of the entire process of meat production on a global scale.",
+          "fr": "Construit sur une avancée de terre sur le fleuve Uruguay, à l’ouest de la ville de Fray Bentos, le complexe industriel est né du développement d’une usine de salaison de viandes fondée en 1859 dans le but de tirer partie de l’élevage de bétail qu’abritaient les immenses prairies voisines. Illustrant toute la chaîne de la viande – approvisionnement, transformation, emballage et expédition - le site comprend des bâtiments et des équipements de la Liebig Extract of Meat Company, qui exporta du concentré de viande et du corned-beef sur le marché européen à partir de 1865 et de l’Anglo Meat Packing Plant, qui exporta de la viande surgelée à partir de 1924. La combinaison du lieu, de l’ensemble industriel, des logements et des institutions sociales présents sur le site permet de comprendre tout le processus d’une production de viande d’envergure mondiale.",
+          "es": "Se trata de un complejo industrial situado al oeste de la ciudad de Fray Bentos, en un saliente de tierra bañado por las aguas del río Uruguay. Su origen fue una fábrica de salazones, creada en 1859, para la explotación comercial de la carne del ganado vacuno criado en las vastas praderas de los alrededores. Ilustrativo de todas las fases de la cadena alimentaria cárnica (abastecimiento, transformación, enlatado, envasado y expedición), el sitio comprende los edificios y equipamientos de la empresa Liebig Extract of Meat Company, que en 1865 empezó a exportar a Europa su producción de carne en conserva y concentrado de carne. Su sucesora, la compañía Anglo Meat Packing Plant, inició la exportación de carne refrigerada a partir de 1924. El lugar mismo, así como las instalaciones industriales, viviendas e instituciones presentes en él, permiten aprehender la totalidad del proceso de una producción de carne que tuvo una importancia mundial.",
+          "ru": "Промышленный комплекс, расположенный в западной части города Фрай-Бентос на берегах реки Уругвай, вырос вокруг завода по засолке мяса, открытого в 1859 с целью в полной мере использовать ресурсы скотоводства в обширных окрестных хозяйствах. В комплексе осуществляются все этапы обработки мяса – производство, переработка, упаковка и транспортировка. Производственные здания и оборудование принадлежали компании Liebig Extract of Meat Company, которая с 1865 года поставляла на европейский рынок мясные полуфабрикаты и солонину, а также компании Anglo Meat Packing Plant, которая с 1924 года занималась производством и поставкой замороженного мяса. Данный объект, включающий природный ландшафт, промышленный комплекс, жилые дома и общественные учреждения на его территории, дает представление о процессе производства мяса в промышленной компании мирового масштаба.",
+          "ar": "بُني المجمع الصناعي على ضفاف نهر أوروغواي، غرب مدينة فراي بنتوس، وقد بصر النور نتيجةً لتوسيع مصنع لتمليح اللحوم أنشئ في عام 1859 بغية الاستفادة من الماشية التي كانت تربى في المراعي الشاسعة المجاورة للمصنع. ويبرِز الموقع عملية معالجة اللحوم بمراحلها كافة، بدءاً بالتموين والتحويل وانتهاءً بالتعليب والتصدير، ويشمل عدداً من المباني والمعدات التابعة لشركة ليبيغ إكستراكت أوف مِيت (Liebig Extract of Meat Company) التي بدأت بتصدير مركّز للحوم ولحم بقر معلّب إلى السوق الأوروبية اعتباراً من عام 1865، وشركة أنغلو مِيت باكنغ بلانت (Anglo Meat Packing Plant) التي شرعت في تصدير اللحوم المجمدة اعتباراً من عام 1924. ويعطي الموقع، بحكم مكانه ومجمعه الصناعي وما يشمله من مساكن ومؤسسات اجتماعية، صورة شاملة عن عملية ذات امتداد عالمي لإنتاج اللحوم.",
+          "zh": "这片位于弗莱本托斯镇西边乌拉圭河畔的工业园区最初是由1859年建起的一座肉类加工厂发展出来的，这里周围有广阔富饶的草甸。这片遗迹上有李比希肉制品公司和盎格鲁肉制品包装厂的厂房和设备，包括了肉类加工从调味、加工到包装、发送的完整过程，李比希公司自1865年开始向欧洲供应肉类提取物和腌牛肉，而盎格鲁厂则从1924年开始出口冻肉。这里的厂房和住宅楼以及社会机构的布局和环境展示了全球范围内肉制品生产的完整过程。"
+        },
+        "full": "Located on land projecting into the Uruguay River west of the town of Fray Bentos, the industrial complex was built following the development of a factory founded in 1859 to process meat produced on the vast prairies nearby. The site illustrates the whole process of meat sourcing, processing, packing and dispatching. It includes buildings and equipment of the Liebig Extract of Meat Company, which exported meat extract and corned-beef to the European market from 1865 and the Anglo Meat Packing Plant, which exported frozen meat from 1924. Through its physical location, industrial and residential buildings as well as social institutions, the site presents an illustration of the entire process of meat production on a global scale.",
+        "justification": "Brief synthesis Located on land projecting into the Uruguay River west of Fray Bentos town, the industrial complex is marked by the enormous cold storage building and tall brick, boiler chimney which punctuate a range of saw-toothed roofs. Illustrating the whole process of meat sourcing, processing, packing and dispatch, the site includes buildings and equipment of the Liebig Extract of Meat Company which exported meat extract and corned beef to the European market from 1865 and the Anglo Meat Packing Plant which exported frozen meat from 1924. Here German research and technology combined with English enterprise to provide food for a global market including to the armies of two World Wars in the 20th century. Workers’ housing and social institutions which accommodated and supported the cosmopolitan workers’ community continue in use today. Criterion (ii): Fray Bentos Industrial Landscape is evidence of the interchange of human values between European society and the South American population of the 19th and 20th century which effected social, cultural and economic changes in both places during that period. This was due the interchange on developments in technology which enabled the production and export of canned and frozen meat on a global scale and to the immigrant workers who arrived from more than 55 nations. Criterion (iv): The ensemble of cattle pasture and handling facilities, industrial buildings, mechanical facilities, port facilities, residential fabric and green areas linking the river and agricultural areas to the city of Fray Bentos Industrial Landscape stands out as an example of early 20th century industrial development. Integrity The property includes all elements related to the history of the site and the period of its operation and is of adequate size to ensure the complete representation of the features and processes which convey the property’s significance. The landscape setting is appropriate in size and views form the river and town are maintained. Some buildings are in need of repair and conservation but the site does not suffer from neglect overall. Authenticity The property is authentic in terms of location and setting, materials and substance and use/function in terms of the buildings which form part of the Museum of Industrial Revolution. The archive contains historical documents with technical information providing a source for repairs and restoration. Other buildings have been adapted for new uses and workers’ housing has been upgraded to provide more modern accommodation for families now living there, many of whom have a connection with the property through family members who worked there. Authenticity is vulnerable to proposed new development within the property including new uses for buildings and sites as well as new construction. Protection and management requirements The property is protected as a National Historic Landmark under the Heritage Act No. 14.040, August 1971 as amended in 2008 and the Regulatory Decree 536/72. Objects owned by government agencies and non-state corporations are protected under Act No. 17.473, 9 May 2002. The Acts are administered by the National Cultural Heritage Commission. The property has been managed at site level by the Anglo Management Committee since 2008 with input from representatives of the Ministry of Culture and Educational Affairs; Ministry of Housing, Land Use Planning and Environment and the Municipality of Rio Negro. This body is responsible for the implementation of the Property Management Plan 2012-2015, which was approved by the National Cultural Heritage commission in January 2014."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 273.8,
+          "square_km": 2.74,
+          "square_miles": 1.108,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2015,
+          "all_dates": [
+            2015
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2015,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/93db89a770b264fea02b519e3f64768d",
+          "filename": "site_1464_0001.jpg",
+          "dimensions": {
+            "width": 3670,
+            "height": 1772
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136297/site_1464_0001.jpg",
+            "https://whc.unesco.org/document/136298/site_1464_0002.jpg",
+            "https://whc.unesco.org/document/136299/site_1464_0003.jpg",
+            "https://whc.unesco.org/document/136300/site_1464_0004.jpg",
+            "https://whc.unesco.org/document/136302/site_1464_0006.jpg",
+            "https://whc.unesco.org/document/136303/site_1464_0007.jpg",
+            "https://whc.unesco.org/document/136304/site_1464_0008.jpg",
+            "https://whc.unesco.org/document/136305/site_1464_0009.jpg",
+            "https://whc.unesco.org/document/136306/site_1464_0010.jpg",
+            "https://whc.unesco.org/document/136307/site_1464_0011.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Fray Bentos Industrial Landscape",
+            "ref": "1464",
+            "latitude": -33.1177777778,
+            "longitude": -58.3316666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1464",
+        "unesco_documents": "https://whc.unesco.org/en/list/1464/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1464/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1464/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 10,
+        "inscription_year": 2015
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fray Bentos Industrial Landscape Located on land projecting into the Uruguay River west of the town of Fray Bentos, the industrial complex was built following the development of a factory founded in 1859 to process meat produced on the vast prairies nearby. The site illustrates the whole process of meat sourcing, processing, packing and dispatching. It includes buildings and equipment of the Liebig Extract of Meat Company, which exported meat extract and corned-beef to the European market from 1865 and the Anglo Meat Packing Plant, which exported frozen meat from 1924. Through its physical location, industrial and residential buildings as well as social institutions, the site presents an illustration of the entire process of meat production on a global scale. Located on land projecting into the Uruguay River west of the town of Fray Bentos, the industrial complex was built following the development of a factory founded in 1859 to process meat produced on the vast prairies nearby. The site illustrates the whole process of meat sourcing, processing, packing and dispatching. It includes buildings and equipment of the Liebig Extract of Meat Company, which exported meat extract and corned-beef to the European market from 1865 and the Anglo Meat Packing Plant, which exported frozen meat from 1924. Through its physical location, industrial and residential buildings as well as social institutions, the site presents an illustration of the entire process of meat production on a global scale. Uruguay Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "the_work_of_engineer_eladio_dieste_church_of_atlantida",
+      "uuid": "22730b21-d46a-5d67-8299-7a3082a990e4",
+      "unesco_id": "1612",
+      "names": {
+        "en": "The work of engineer Eladio Dieste: Church of Atlántida",
+        "fr": "L’œuvre de l’ingénieur Eladio Dieste : Église d’Atlántida",
+        "es": "Obra del ingeniero Eladio Dieste: iglesia de Atlántida",
+        "ru": "Работа инженера Эладио Диесте: Церковь Атлантиды",
+        "ar": "عمل المهندس إيلاديو ديسته: كنيسة أتلانتيدا",
+        "zh": "工程师埃拉蒂奥·迪埃斯特的作品：阿特兰蒂达教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "URY": {
+            "name": "Uruguay",
+            "iso2": "UY",
+            "iso3": "URY"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Church of Atlántida with its belfry and underground baptistery is located in Estación Atlántida, 45 km away from Montevideo. Inspired by Italian paleo-Christian and medieval religious architecture, the modernistic Church complex, inaugurated in 1960, represents a novel utilization of exposed and reinforced brick. Built on rectangular plan of one single hall, the church features distinctive undulating walls supporting a similarly undulating roof, composed of a sequence of reinforced brick Gaussian vaults developed by Eladio Dieste (1917-2000). The cylindrical bell-tower, built in openwork exposed brick masonry, rises from the ground to the right of the main church facade, while the underground baptistery is located on the left side of the parvis, accessible from a triangular prismatic entrance and illuminated via a central oculus. The Church provides an eminent example of the remarkable formal and spatial achievements of modern architecture in Latin America during the second part of the 20th century, embodying the search for social equality with a spare use of resources, meeting structural imperatives to great aesthetic effect.",
+          "fr": "L’église d’Atlántida, avec son clocher et son baptistère souterrain, se dresse à Estación Atlántida, à 45 km de Montevideo. Inspiré par l’architecture religieuse paléochrétienne et médiévale italienne, cet ensemble ecclésial moderniste inauguré en 1960 représente une utilisation novatrice de la brique apparente et armée. L’église de plan rectangulaire possède une unique salle, avec des murs latéraux ondulants qui supportent une toiture, décrivant également des courbes, composée d’une succession de voûtes gaussiennes, toutes en maçonnerie de briques armées conçue par Eliado Dieste (1917-2000). Le clocher cylindrique s’élève à droite de la façade principale et est construit en maçonnerie ajourée de briques apparentes, tandis que le baptistère souterrain, situé sur le côté gauche du parvis, est accessible depuis une entrée triangulaire prismatique et éclairé par un oculus central. Cette église constitue un exemple éminent des réalisations formelles et spatiales remarquables de l’architecture moderne en Amérique latine au cours de la seconde partie du XXe siècle, incarnant la recherche de l’égalité sociale avec une utilisation économe des ressources tout en répondant aux impératifs structurels avec un grand effet esthétique.",
+          "es": "La iglesia de Atlántida, con su campanario y su baptisterio subterráneo, está situada en Estación Atlántida, a 45 km de Montevideo. Inspirado en la arquitectura religiosa paleocristiana y medieval italiana, el conjunto modernista de la iglesia, inaugurado en 1960, representa una novedosa utilización del ladrillo a la vista y reforzado. Construida sobre una planta rectangular de una sola nave, la iglesia presenta unos característicos muros ondulados que soportan una cubierta igualmente ondulada, compuesta por una secuencia de bóvedas gaussianas de ladrillo reforzado desarrollada por Eladio Dieste (1917-2000). El campanario cilíndrico, construido en mampostería calada de ladrillo vista, se eleva desde el suelo a la derecha de la fachada principal de la iglesia, mientras que el baptisterio subterráneo se encuentra en el lado izquierdo del atrio, accesible desde una entrada prismática triangular e iluminada a través de un óculo central. La iglesia constituye un ejemplo eminente de los notables logros formales y espaciales de la arquitectura moderna en América Latina durante la segunda mitad del siglo XX y encarna la búsqueda de la igualdad social con un sobrio uso de los recursos, cumpliendo los imperativos estructurales con un gran efecto estético.",
+          "ru": "Церковь Атлантиды с колокольней и подземным баптистерием находится в Эстасьон Атлантида, в 45 км от Монтевидео. Вдохновленный итальянской палео-христианской и средневековой религиозной архитектурой, модернистский церковный комплекс, открытый в 1960 году, представляет собой новаторское использование открытой и армированной кирпичной кладки. Построенная на прямоугольном плане из одного зала церковь имеет характерные волнистые стены, поддерживающие такую ​​же волнообразную крышу, состоящую из ряда укрепленных кирпичных гауссовых сводов, разработанных Эладио Диесте (1917-2000 гг.). Цилиндрическая колокольня, построенная методом открытой кирпичной кладки, возвышается над землей справа от главного фасада церкви, в то время как подземный баптистерий расположен с левой стороны паперти. Баптистерий, доступ к которому осуществляется через треугольный призматический вход, освещается через центральный окулюс. Церковь представляет собой яркий пример выдающихся формальных и пространственных достижений современной архитектуры в Латинской Америке во второй половине ХХ века, воплощая в себе стремление к социальному равенству при экономном использовании ресурсов, удовлетворяя структурные требования с большим эстетическим эффектом.",
+          "ar": "تقع كنيسة أتلانتيدا وجرسيتها وبيت المعمودية التابع لها الموجود تحت الأرض في إستاثيون أتلانتيدا، على بُعد 45 كم من مونتيفيديو. وإن الفن المعماري في مجمع الكنيسة، الذي دُشّن في عام 1960، مستوحى من فنون العمارة المسيحية المبكرة في إيطاليا والهندسة المعمارية الدينية التي تعود إلى العصور الوسطى، ويقف المجمع العصريّ شاهداً على الاستخدام المُبتكر للطوب المعزّز والمكشوف. وكانت الكنيسة قد شُيّدت وفقاً لخطة هندسية مستطيلة الشكل تضم قاعة وحيدة منفردة، ونجد فيها جدران متميّزة متموّجة الشكل، وتحمل سقفاً متموّجاً بنفس الشكل ومؤلفاً من أقبية غاوسية طوّرها إيلاديو دييست (1917-2000). وإنّ برج الناقوس الأسطواني، المبني على هيئة مبنى طوبيّ مزخرف تتخلله مجموعة من الفتحات، يبرز من الأرض على يمين واجهة الكنيسة الرئيسية، في حين يقع بيت المعمودية على يسار باحة الكنيسة، التي يمكن النفاذ إليها عبر مدخل منشوري ثلاثي الأبعاد يتخلله الضوء عبر كوة مركزية. وتقدّم الكنيسة مثالاً بارزاً على الإنجازات الرسمية والمكانية المميزة على صعيد العمارة الحديثة في أمريكا اللاتينية إبّان الجزء الثاني من القرن العشرين، الأمر الذي يجسد المساعي المبذولة لتحقيق المساواة الاجتماعية وترشيد استخدام الموارد، من خلال التناغم بين المقتضيات والاحتياجات الهيكلية والبنيوية من جهة، والتأثير الجمالي القوي من جهة أخرى.",
+          "zh": "阿特兰蒂达教堂及其钟楼和地下洗礼堂位于阿特兰蒂达市，距首都蒙得维的亚45公里。这个现代主义教堂建筑群于1960年落成，受意大利早期基督教和中世纪宗教建筑的启发，代表了对裸露、强化砖块的新颖利用。教堂整体为一个矩形布局的大厅，其独特之处在于波浪形墙壁支撑的波浪形边缘屋顶，由埃拉蒂奥·迪埃斯特(Eladio Diust，1917-2000)开发的一系列呈高斯曲线排列的加固砖建成。圆柱形的钟楼以镂空的裸露砖砌筑，矗立于教堂主立面的右侧，而地下洗礼堂则位于教堂前广场的左侧，可从呈三角棱柱形入口进入，照明依靠中央眼洞天窗。该教堂是20世纪下半叶拉丁美洲现代建筑在形式和空间方面卓越成就的典范，以资源的充分利用体现了对社会平等的追求，在满足结构要求的同时产生了卓越的美学效果。"
+        },
+        "full": "The Church of Atlántida with its belfry and underground baptistery is located in Estación Atlántida, 45 km away from Montevideo. Inspired by Italian paleo-Christian and medieval religious architecture, the modernistic Church complex, inaugurated in 1960, represents a novel utilization of exposed and reinforced brick. Built on rectangular plan of one single hall, the church features distinctive undulating walls supporting a similarly undulating roof, composed of a sequence of reinforced brick Gaussian vaults developed by Eladio Dieste (1917-2000). The cylindrical bell-tower, built in openwork exposed brick masonry, rises from the ground to the right of the main church facade, while the underground baptistery is located on the left side of the parvis, accessible from a triangular prismatic entrance and illuminated via a central oculus. The Church provides an eminent example of the remarkable formal and spatial achievements of modern architecture in Latin America during the second part of the 20th century, embodying the search for social equality with a spare use of resources, meeting structural imperatives to great aesthetic effect.",
+        "justification": "Brief synthesis The Church of Atlántida of engineer Eladio Dieste with its belfry and underground baptistery is located in Estación Atlántida, a low-density locality, 45 km away from Montevideo. Inspired by Italian paleo-Christian and medieval religious architecture, the Church with its belfry and baptistery, all built in exposed bricks, exhibit forms dictated by the effort to achieve greater robustness with limited resistant sections and use of material. The property is an emblematic example of the application of a new building technique, reinforced ceramic, which Dieste developed by drawing on a thousand-year long tradition of brick construction, while applying modern scientific and technological knowledge, and thus opening up new structural and expressive possibilities for architecture. Designed from the outset to be built with local materials by local people, the Church of Atlántida, located in a lower middle-class semi-rural community, has its roots in long-established building traditions, while embodying the scientific and technical achievements of modernity. The Church of Atlántida reflects efforts to optimise the use of resources and ensure sustainability. The property is imbued with the humanistic principles that constantly guide the spatial and material concepts of engineer Dieste. Criterion (iv): The Church of Atlántida of engineer Eladio Dieste represents the highest spatial and aesthetic expression of a construction and technological innovation – the reinforced brickwork coupled with the mobile formwork – that draws from tradition, whilst reinterpreting and innovating it, and opens up structural and formal opportunities in architecture impossible to conceive and achieve up to that date with traditional masonry. The property embodies the post-war search for a renewed architectural language, expressing a modernity rooted in tradition and in the vernacular in Latin America and worldwide. It also reflects the locale and its people who built it. The church illustrates the confluence of geometry, of the static conception of the building, of the form expressed by the chosen building material. Integrity The Church of Atlántida includes all the elements linked to the history of the location and the period over which the building has been functioning. Its dimensions are sufficient to provide a comprehensive representation of the characteristics and processes that embody its Outstanding Universal Value. The church, which is in constant use, is currently in a good state of conservation. Thanks to a recent conservation programme, the building does not face any risks, and the pathologies affecting it can be treated. Authenticity The property is authentic in terms of location, time, construction materials, surroundings, and the substance of its creation and liturgical use. Protection and management requirements Requirements for the protection of the property are linked to its designation as a National Historic Monument by virtue of Heritage Law no. 10.040 of August 1971, amended in 2008 and 2015, and of Regulatory Decree 536/72. Conservation is the responsibility of the Heritage Commission, under the Ministry of Education and Culture. The Partial Land Use Plan for the commune of Atlántida and Estación Atlántida, which constitutes the legal land use instrument, recognises the heritage property status of the Church of Atlántida. Ownership is currently shared by the Bishopric of Canelones and the Congregation of the Rosarian Nuns, two institutions of the Catholic Church; however, steps have been undertaken to gather all elements of the property into the Bishopric’s ownership. The Church is administered by the Management Unit, which incorporates an Executive Committee, and a Deliberative Committee consisting of a set of institutional and social stakeholders who ensure the participation of citizens in the management of the heritage property. The Executive Committee, which takes decisions relating to intervention of all types on the property, is composed of the Ministry of Education and Culture, the Heritage Commission and the Bishopric of Canelones. The Deliberative Committee provides direct support to the Executive Committee; it consists of stakeholders involved in the routine management of the church as regards operational and material matters and its surroundings. The technical, administrative and economic resources are provided by State institutions and by the Catholic Church."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.56,
+          "square_km": 0.01,
+          "square_miles": 0.002,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c48def3038678b115acab2e974139073",
+          "filename": "site_1612_0001.jpg",
+          "dimensions": {
+            "width": 3837,
+            "height": 2387
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/172925/site_1612_0001.jpg",
+            "https://whc.unesco.org/document/172926/site_1612_0002.jpg",
+            "https://whc.unesco.org/document/172928/site_1612_0004.jpg",
+            "https://whc.unesco.org/document/172932/site_1612_0008.jpg",
+            "https://whc.unesco.org/document/172933/site_1612_0009.jpg",
+            "https://whc.unesco.org/document/172934/site_1612_0010.jpg",
+            "https://whc.unesco.org/document/172935/site_1612_0011.jpg",
+            "https://whc.unesco.org/document/172944/site_1612_0013.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "The work of engineer Eladio Dieste: Church of Atlántida",
+            "ref": "1612",
+            "latitude": -34.7439194444,
+            "longitude": -55.7664083333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1612",
+        "unesco_documents": "https://whc.unesco.org/en/list/1612/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1612/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1612/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The work of engineer Eladio Dieste: Church of Atlántida The Church of Atlántida with its belfry and underground baptistery is located in Estación Atlántida, 45 km away from Montevideo. Inspired by Italian paleo-Christian and medieval religious architecture, the modernistic Church complex, inaugurated in 1960, represents a novel utilization of exposed and reinforced brick. Built on rectangular plan of one single hall, the church features distinctive undulating walls supporting a similarly undulating roof, composed of a sequence of reinforced brick Gaussian vaults developed by Eladio Dieste (1917-2000). The cylindrical bell-tower, built in openwork exposed brick masonry, rises from the ground to the right of the main church facade, while the underground baptistery is located on the left side of the parvis, accessible from a triangular prismatic entrance and illuminated via a central oculus. The Church provides an eminent example of the remarkable formal and spatial achievements of modern architecture in Latin America during the second part of the 20th century, embodying the search for social equality with a spare use of resources, meeting structural imperatives to great aesthetic effect. The Church of Atlántida with its belfry and underground baptistery is located in Estación Atlántida, 45 km away from Montevideo. Inspired by Italian paleo-Christian and medieval religious architecture, the modernistic Church complex, inaugurated in 1960, represents a novel utilization of exposed and reinforced brick. Built on rectangular plan of one single hall, the church features distinctive undulating walls supporting a similarly undulating roof, composed of a sequence of reinforced brick Gaussian vaults developed by Eladio Dieste (1917-2000). The cylindrical bell-tower, built in openwork exposed brick masonry, rises from the ground to the right of the main church facade, while the underground baptistery is located on the left side of the parvis, accessible from a triangular prismatic entrance and illuminated via a central oculus. The Church provides an eminent example of the remarkable formal and spatial achievements of modern architecture in Latin America during the second part of the 20th century, embodying the search for social equality with a spare use of resources, meeting structural imperatives to great aesthetic effect. Uruguay Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "historic_quarter_of_the_city_of_colonia_del_sacramento",
+      "uuid": "7773dc23-9eff-5f77-85fe-4e77ae48c779",
+      "unesco_id": "747",
+      "names": {
+        "en": "Historic Quarter of the City of Colonia del Sacramento",
+        "fr": "Quartier historique de la ville de Colonia del Sacramento",
+        "es": "Barrio histórico de la ciudad de Colonia del Sacramento",
+        "ru": "Историческая часть города Колония-дель-Сакраменто",
+        "ar": "الحي التاريخي في مدينة كولونيا دي ساكرامنتو",
+        "zh": "萨拉门多移民镇的历史区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "URY": {
+            "name": "Uruguay",
+            "iso2": "UY",
+            "iso3": "URY"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles.",
+          "fr": "Fondée par les Portugais en 1680 sur le Río de la Plata, la ville avait une fonction stratégique face à l'Empire espagnol. Disputée pendant un siècle, elle fut finalement perdue par ses fondateurs. Son paysage urbain préservé, mélange de solennité et d'intimité, est un exemple de la fusion réussie des styles portugais, espagnol et postcolonial.",
+          "es": "Fundada por los portugueses en 1680, a orillas del Río de la Plata, Colonia del Sacramento tuvo una función estratégica en la pugna de éstos con los españoles. Disputada por ambos durante más de un siglo, la ciudad cayó por fin en manos de los españoles. Su paisaje urbano bien conservado, solemne e íntimo a la vez, constituye un ejemplo de fusión lograda entre el estilo arquitectónico portugués, el español y el postcolonial.",
+          "ru": "Город, основанный португальцами в 1680 г. на берегу реки Рио-де-Ла-Плата, имел стратегическое значение в противостоянии с испанцами. После столетия споров он, в конце концов, был оставлен своими основателями. Хорошо сохранившийся облик города демонстрирует успешное смешение португальского, испанского и постколониального стилей.",
+          "ar": "كانت هذه المدينة التي أسسها البرتغاليون عام 1680 على ضفاف نهر ريو دي لا بلاتا تؤدي وظيفة استراتيجية إزاء الامبراطورية الإسبانية، إلا ان مؤسسيها فقدوها في نهاية المطاف بعد نزاع دار حولها طيلة قرن من الزمن. ويشكل مظهرها المدني السليم الذي يمزج بين الفخامة والحميمية مثالاً على الدمج الموفّق بين الأساليب البرتغالية والإسبانية وتلك التابعة لمرحلة الاستعمار.",
+          "zh": "1680年，葡萄牙人在拉普拉塔联邦兴建了萨拉门多小镇，起到了战略上防御西班牙帝国侵略的作用。经过一个世纪的争夺，小镇终于落在西班牙人手中。萨拉门多保留了小镇的原貌，其建筑亦庄亦谐，整个小镇是葡萄牙、西班牙和已经成为历史的殖民地时代建筑风格的完美融合。"
+        },
+        "full": "Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles.",
+        "justification": "Brief summary Founded by the Portuguese in 1680, Colonia del Sacramento is located at the tip of a short peninsula with a strategic position on the north shore of the Río de la Plata, facing Buenos Aires. In the region, the Historic Quarter of Colonia is the only example of an urban plan that does not conform to the rigid checkerboard grid imposed by Spain under the Laws of the Indies. Instead, this city has a free plan adapted to the topographical features of the site, although strongly influenced by its military function. Throughout the successive destructions and occupations of its territory, the Historic Quarter acquired the urban and architectural heterogeneity that characterizes it: to the contributions of the Portuguese and Spanish, were added those of the artisans who emigrated there during the second half of the 19th century. All of its modest buildings, in regard both to their dimensions and their appearance, are a particularly interesting testimony to the singular fusion of the Portuguese and Spanish traditions that is evident in the construction methods used. The civil and religious buildings with long stone walls, wooden trellis and tiled roofs reveal an excellent knowledge of traditional construction systems and contribute to the architectural unity specific to the Historic Quarter. The special nature of Colonia del Sacramento is also based on its urban landscape, a mixture of large arteries and large squares, with narrow cobbled streets and more private spaces. The scale of the Historic Quarter is marked by the predominance of single-storey houses, those of two stories being rare. From the bay, only the outlines of the lighthouse and church towers stand out. Surrounded by water on three sides, the relationship of the city to the river is one of the natural aspects that additionally characterizes it. The bloody border dispute between Portugal and Spain gave this remarkable urban site an identity profile enabling appreciation of the survival of its essential characteristics: the dominant human scale, the texture and the time of this unique scenario, and the value of its integration into the environment. Criterion (iv): The Historic Quarter of the City of Colonia del Sacramento bears remarkable testimony in its layout and its buildings to the nature and objectives of European colonial settlement, in particular during the seminal period at the end of the 17th century. Integrity The site inscribed on the World Heritage List retains the elements necessary for the expression of its Outstanding Universal Value, in accordance with the attributes underpinning this value. Thus, despite the passage of time, the ancient Colonia del Sacramento has maintained its original structure and urban scale, as concerns both its buildings and urban spaces. In particular, the urban plan coincides almost exactly with that of the Lusitanian Nova Colonia do Sacramento, notably with the period of greatest splendour corresponding to the first half of the 18th century. All the elements necessary for the expression of the values of the Historic Quarter of Colonia del Sacramento are included in the designated area and its buffer zone. The area inscribed on the World Heritage List is clearly defined and includes all the attributes of the property as determined by the boundaries of the walled city of the 17th, 18th and 19th centuries. In addition, there is a buffer zone that extends to the immediate area of the Historic Quarter, including the city centre. Authenticity Given the condition of the property at the time of inscription on the World Heritage List, the conservation of its Outstanding Universal Value, as well as its credibility and original features, are evident. Public and private interventions at the site are carried out in accordance with international standards and local opportunities. An admissibility process of construction practices is being implemented. At the site, businesses that often change their main activity turn mostly to tourism services, and the cultural models and consumption requirements of new landlords constitute a wake-up call as regards the potential vulnerability of the authenticity in specific cases. Protection and Management requirements The layout itself, the public spaces and all the buildings of the Historic Quarter are listed as National Historic Monuments. They thus benefit from the highest protection under the national law in force (Law 14.040 of 1971). The management of the Historic Quarter of Colonia is the purview of various organizations. At national level, the Ministry of Education and Culture (MEC) is responsible for policies concerning the protection, conservation, rehabilitation and enhancement of the cultural heritage of the nation. The Commission for the Cultural Heritage of the Nation (Law 14,040 of 1971) works under the umbrella of the MEC. Its main objectives are to advise the Executive Power of the Nation on properties listed as Historic Monuments, and to monitor the conservation of monuments and their social promotion. At the departmental level, the Honorary Executive Council (Law 15,819 of 1986) is the body responsible for the protection, conservation, rehabilitation and enhancement of all the sites and monuments of the Department of Colonia, including the Historic Quarter. At local level, the Town Hall of Colonia is responsible for urban planning and standards governing the use of land and construction, as well as utilities, maintenance and sanitary services of the conservation area. Various municipal decrees define the criteria for the construction of buildings, their height, the installation of billboards and acceptable noise levels. The decree on land use is currently under study. Increased risks associated with real estate pressure, the increase in the number of tourists -- leading to changes in usage (increase in the number of shops and secondary residences), -- and the decrease in the numbers of the local population, oblige the authorities to initiate new planning processes and to rethink the management of the site. A Conservation Plan for the site inscribed on the World Heritage List, prior to the implementation of a Management Plan is currently under review, to counter this development. It is expected, in the short term, to include the Bay and the Islands of Colonia as an extension of the property, on the premise that they are the complement of the terrestrial buffer zone that is already included in the Statement. Thus, all the surrounding territories (terrestrial, insular and aquatic), could benefit from the same protection and management measures as the Historic Quarter."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 19,
+          "square_km": 0.19,
+          "square_miles": 0.077,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1995,
+          "all_dates": [
+            1995
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1995,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5c1d7bc8950d534c7ca7ecfab1c9e257",
+          "filename": "site_0747_0001-500-0-20130723154538.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 281
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113103/site_0747_0001.jpg",
+            "https://whc.unesco.org/document/113107/site_0747_0003.jpg",
+            "https://whc.unesco.org/document/113109/site_0747_0004.jpg",
+            "https://whc.unesco.org/document/120786/site_0747_0005.jpg",
+            "https://whc.unesco.org/document/120787/site_0747_0006.jpg",
+            "https://whc.unesco.org/document/120788/site_0747_0007.jpg",
+            "https://whc.unesco.org/document/121636/site_0747_0008.jpg",
+            "https://whc.unesco.org/document/121637/site_0747_0009.jpg",
+            "https://whc.unesco.org/document/121639/site_0747_0011.jpg",
+            "https://whc.unesco.org/document/121640/site_0747_0012.jpg",
+            "https://whc.unesco.org/document/123827/site_0747_0013.jpg",
+            "https://whc.unesco.org/document/123828/site_0747_0014.jpg",
+            "https://whc.unesco.org/document/123829/site_0747_0015.jpg",
+            "https://whc.unesco.org/document/123830/site_0747_0016.jpg",
+            "https://whc.unesco.org/document/123831/site_0747_0017.jpg",
+            "https://whc.unesco.org/document/128525/site_0747_0018.jpg",
+            "https://whc.unesco.org/document/128526/site_0747_0019.jpg",
+            "https://whc.unesco.org/document/128527/site_0747_0020.jpg",
+            "https://whc.unesco.org/document/128528/site_0747_0021.jpg",
+            "https://whc.unesco.org/document/128529/site_0747_0022.jpg",
+            "https://whc.unesco.org/document/128531/site_0747_0024.jpg",
+            "https://whc.unesco.org/document/128532/site_0747_0025.jpg",
+            "https://whc.unesco.org/document/128533/site_0747_0026.jpg",
+            "https://whc.unesco.org/document/128534/site_0747_0027.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Quarter of the City of Colonia del Sacramento",
+            "ref": "747",
+            "latitude": -34.47119,
+            "longitude": -57.849898
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/747",
+        "unesco_documents": "https://whc.unesco.org/en/list/747/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/747/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/747/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 30,
+        "inscription_year": 1995
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Quarter of the City of Colonia del Sacramento Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles. Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles. Uruguay Latin America and the Caribbean Cultural"
+    }
+  ]
+}

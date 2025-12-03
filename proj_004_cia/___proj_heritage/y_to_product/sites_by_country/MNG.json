@@ -1,0 +1,1195 @@
+{
+  "country": {
+    "code": "MNG",
+    "name": "Mongolia"
+  },
+  "total_sites": 6,
+  "sites_by_category": {
+    "Cultural": 4,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "landscapes_of_dauria",
+      "uuid": "a3c25b9f-03e7-51ff-adfc-a7ebb6e526fb",
+      "unesco_id": "1448",
+      "names": {
+        "en": "Landscapes of Dauria",
+        "fr": "Paysages de la Dauria",
+        "es": "Paisajes de la Dauria",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "Shared between Mongolia and the Russian Federation, this site is an outstanding example of the Daurian Steppe eco-region, which extends from eastern Mongolia into Russian Siberia and northeastern China. Cyclical climate changes, with distinct dry and wet periods lead to a wide diversity of species and ecosystems of global significance. The different types of steppe ecosystems represented, such as grassland and forest, as well as lakes and wetlands serve as habitats for rare species of fauna, such as the White-naped crane, Great Bustard, Relict Gull and Swan goose, as well as millions of vulnerable, endangered or threatened migratory birds. It is also a critical site on the transboundary migration path for the Mongolian gazelle.",
+          "fr": "Partagé entre la Fédération de Russie et la Mongolie, ce site est un exemple exceptionnel de l’écorégion de la steppe daourienne, qui s’étend de l’est de la Mongolie jusqu’à la Sibérie russe et au nord-est de la Chine. Les changements cycliques de climat, avec des périodes sèches et humides marquées, favorisent une grande diversité d’espèces et d’écosystèmes d’importance mondiale. Les différents types d'écosystèmes steppiques représentés, comme les prairies et les forêts, ainsi que les lacs et les marécages, servent d’habitats à des espèces de faune rares, telles que la grue à cou blanc, l’outarde barbue, la mouette relique et le l’oie cygnoïde, ainsi qu’à des millions d’oiseaux migrateurs vulnérables, en danger ou menacés. C’est également un site important sur la route migratoire transfrontalière de la gazelle de Daourie.",
+          "es": "Este sitio transnacional es un ejemplo único en su género del ecosistema estepario dauriano, que se extiende desde el este de Mongolia hasta la Siberia rusa y penetra incluso en el nordeste de China. Su clima cíclico, caracterizado por una alternancia de periodos secos y húmedos bien diferenciados, propicia la existencia de una rica diversidad de ecosistemas y especies de fauna y flora que revisten una gran importancia a nivel mundial. Los distintos tipos de estepas existentes –boscosas, lacustres y de pradera húmeda– son el hábitat de especies animales raras como la grulla de cuello blanco y la avutarda barbuda, así como de millones aves migratorias entre las que figuran especies vulnerables amenazadas o en peligro de extinción. También es un sitio importante para la ruta migratoria de la gacela dauriana.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Shared between Mongolia and the Russian Federation, this site is an outstanding example of the Daurian Steppe eco-region, which extends from eastern Mongolia into Russian Siberia and northeastern China. Cyclical climate changes, with distinct dry and wet periods lead to a wide diversity of species and ecosystems of global significance. The different types of steppe ecosystems represented, such as grassland and forest, as well as lakes and wetlands serve as habitats for rare species of fauna, such as the White-naped crane, Great Bustard, Relict Gull and Swan goose, as well as millions of vulnerable, endangered or threatened migratory birds. It is also a critical site on the transboundary migration path for the Mongolian gazelle.",
+        "justification": "Brief synthesis Shared by Mongolia and the Russian Federation, the Landscapes of Dauria is a transboundary serial World Heritage property of four component parts. It is an outstanding example of the Daurian steppe ecosystem, which covers over 1 million square kilometers, extending from Eastern Mongolia to Russian Siberia and into North-Eastern China. The serial property covers a total of 912,624 ha and comprises several protected areas in the northern part of the Daurian steppe ecoregion which occupy large areas of the transition from taiga to desert, including various steppe ecosystems. The inscribed property includes the nationally designated core and buffer zones of most of the Daursky State Nature Biosphere Reserve and the Valley of Dzeren Federal Nature Refuge (Russian Federation), as well as the core zone and a large part of the buffer zone of the Mongol Daguur Strictly Protected Area and the Ugtam Nature Refuge (Mongolia). Most of this property is surrounded by a World Heritage buffer zone of 307,317 ha, which overlaps with Ramsar sites and UNESCO Biosphere Reserves in both countries (Mongol Daguur in Mongolia and Torrey Lakes in the Russian Federation). The main natural value of the property resides in its intact steppe systems (including forest steppe), interspersed with wet meadows and floodplains, at the convergence of three floristic provinces belonging to three floristic regions. This exceptional ecological context results in a diverse combination of ecological complexes which derive from the cyclic climatic and hydrological variations over the year. The property provides key habitats for rare fauna species such as White-naped Crane, Great Bustard and millions of migratory birds of other species, including vulnerable, endangered or threatened species. The property is also an important area of the migration routes of the Mongolian Gazelle (Dzeren) and the major known place where this species breeds in the Russian Federation at the present time. The property also provides sanctuary to endangered Mongolian Marmots (Tarbagan), as well as to the near-threatened Pallas Cat. The property provides key habitats for rare fauna species such as the White-naped Crane, the Great Bustard and millions of other vulnerable, endangered or threatened species of migratory birds. The property is also an important area on the migration route of the Mongolian Gazelle (Dzeren) and the only place where this species is known to breed in the Russian Federation. The property also provides sanctuary to both endangered Tabargan and Mongolian Marmots, as well as to the near-threatened Pallas Cat. Criterion (ix): The Landscapes of Dauria contains substantial and relatively undisturbed areas of different types of steppe, ranging from grassland to forest, as well as many lakes and wetlands. All these habitats host a diversity of species and communities characteristic of the northern part of the vast Daurian Steppe ecoregion. Cyclic climate changes with distinct wet and dry periods lead to high species and ecosystem diversity which is globally significant and offers outstanding examples of ongoing ecological and evolutionary processes. The property also includes key natural habitats for many animal species during their annual migration, some of which also breed in the area. The high diversity of ecosystems, biotopes and their transition-zones in the property is indicative of the many evolutionary adaptive processes undergone by species living in this unique area. Criterion (x): The transboundary serial property conserves an excellent example of Daurian steppe and its characteristic wildlife including a number of globally threatened bird species (White-naped Crane, Hooded Crane, Swan Goose, Relict Gull, Great Bustard and Saker Falcon) as well as the endangered Tarbagan Marmot. It also provides essential breeding and resting habitat for birds along the East Asian-Australasian Flyway, with up to 3 million birds in spring and 6 million in autumn using the area during migration. The property also provides critical winter grounds and seasonal transboundary migration routes of the emblematic Mongolian Gazelle. Integrity The property contains grassland and forest steppe landscapes which have suffered little from human disturbance. It includes intact breeding and resting grounds for migratory bird species of international importance as well as significant parts of Mongolian Gazelle migration routes. The selection of component parts provides an appropriate representation of the scope of biodiversity of the Daurian Steppe, although there is potential to further extend the series to include other significant protected areas. The property is in a good condition thanks to its size, low human pressure and the absence of impacting uses and activities, such as mining. While grazing, as well as poaching and fire to some extent, could potentially affect the integrity of the property, current practice at the time of inscription is consistent with the property’s Outstanding Universal Value. The States Parties should, however, strengthen their action and cooperation in the future, in order to maintain the long term integrity of the property and minimize threats. Protection and management requirements The property is under the highest level of protection afforded by the national laws of both countries, on Special Protected Areas (1994) and on Buffer Zones (1998) in the case of Mongolia, and on Special Protected Areas (1995) in the Russian Federation. The legal status of all types of protected area making up the property provides, in principle, an appropriate conservation regime of this unique ecosystem complex. The property is also a good example of transboundary ecosystem cooperation, shared between governmental, scientific and non-governmental institutions. It has, since 1994, operated under the framework of the China-Mongolia-Russian International Protected Area Agreement (DIPA). This agreement provides a forum for the States Parties to discuss, on a regular basis, all issues in relation to the preservation of the property and its management, at both political and operational levels. Regarding hunting and poaching which may potentially impact the Outstanding Universal Value of the property, the States Parties have committed to set up additional “zones of peace” and to reduce the hunting season in the surroundings of the property. They also regularly adopt joint working plans in order to minimize fire and poaching risks and have increased their capacities with external support from international NGOs and foreign countries. Both countries develop joint monitoring activities for Mongolian Gazelle and migratory birds, through the DIPA process, to improve their knowledge and optimize the management of natural resources which are key attributes of the property’s Outstanding Universal Value. There is a commitment to full protection of the property from possible threats from mining and other extractive industries which will be important to maintain into the future. The law in Mongolia does not prohibit mining in the protective zones of Special Protected Areas, however, the State Party of Mongolia has committed to ban mining inside the World Heritage property on the basis of the primacy of international agreements and designations. Whilst protection and management measures are seen as meeting World Heritage requirements at the time of inscription, it is critical that both States Parties continue and strengthen their efforts in the long-term, in order to prevent impact on the property from significant threats such as changes to hydrology, climate change, illegal hunting, grazing pressure and fire damage. They should also develop coordinated management plans at the property level, with special emphasis on the buffer zones, focused on addressing the main risks to the Outstanding Universal Value of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 912624,
+          "square_km": 9126.24,
+          "square_miles": 3693.264,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2017,
+          "all_dates": [
+            2017
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2017,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6c5236c7656ec6518aa830fa3d716d67",
+          "filename": "site_1448_0001.jpg",
+          "dimensions": {
+            "width": 4256,
+            "height": 2832
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136570/site_1448_0001.jpg",
+            "https://whc.unesco.org/document/136581/site_1448_0011.jpg",
+            "https://whc.unesco.org/document/147465/site_1448_0027.jpg",
+            "https://whc.unesco.org/document/209338/site_1448_0047.jpg",
+            "https://whc.unesco.org/document/209339/site_1448_0048.jpg",
+            "https://whc.unesco.org/document/209340/site_1448_0049.jpg",
+            "https://whc.unesco.org/document/209341/site_1448_0050.jpg",
+            "https://whc.unesco.org/document/209342/site_1448_0051.jpg",
+            "https://whc.unesco.org/document/136571/site_1448_0002.jpg",
+            "https://whc.unesco.org/document/136572/site_1448_0003.jpg",
+            "https://whc.unesco.org/document/136573/site_1448_0004.jpg",
+            "https://whc.unesco.org/document/136574/site_1448_0005.jpg",
+            "https://whc.unesco.org/document/136576/site_1448_0006.jpg",
+            "https://whc.unesco.org/document/136577/site_1448_0007.jpg",
+            "https://whc.unesco.org/document/136578/site_1448_0008.jpg",
+            "https://whc.unesco.org/document/136579/site_1448_0009.jpg",
+            "https://whc.unesco.org/document/136580/site_1448_0010.jpg",
+            "https://whc.unesco.org/document/136583/site_1448_0013.jpg",
+            "https://whc.unesco.org/document/136584/site_1448_0014.jpg",
+            "https://whc.unesco.org/document/136585/site_1448_0015.jpg",
+            "https://whc.unesco.org/document/136586/site_1448_0016.jpg",
+            "https://whc.unesco.org/document/136587/site_1448_0017.jpg",
+            "https://whc.unesco.org/document/147456/site_1448_0018.jpg",
+            "https://whc.unesco.org/document/147457/site_1448_0019.jpg",
+            "https://whc.unesco.org/document/147458/site_1448_0020.jpg",
+            "https://whc.unesco.org/document/147459/site_1448_0021.jpg",
+            "https://whc.unesco.org/document/147460/site_1448_0022.jpg",
+            "https://whc.unesco.org/document/147463/site_1448_0025.jpg",
+            "https://whc.unesco.org/document/147464/site_1448_0026.jpg",
+            "https://whc.unesco.org/document/147470/site_1448_0032.jpg",
+            "https://whc.unesco.org/document/147472/site_1448_0034.jpg",
+            "https://whc.unesco.org/document/147473/site_1448_0035.jpg",
+            "https://whc.unesco.org/document/147475/site_1448_0037.jpg",
+            "https://whc.unesco.org/document/147476/site_1448_0038.jpg",
+            "https://whc.unesco.org/document/147480/site_1448_0042.jpg",
+            "https://whc.unesco.org/document/147481/site_1448_0043.jpg",
+            "https://whc.unesco.org/document/147482/site_1448_0044.jpg",
+            "https://whc.unesco.org/document/147483/site_1448_0045.jpg",
+            "https://whc.unesco.org/document/147484/site_1448_0046.jpg"
+          ],
+          "count": 39
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Mongol Daguur SPNA",
+            "ref": "1448rev-002",
+            "latitude": 49.8294444444,
+            "longitude": 115.0675
+          },
+          {
+            "name": "Ugtam Nature refuge",
+            "ref": "1448rev-004",
+            "latitude": 49.2666666667,
+            "longitude": 113.75
+          },
+          {
+            "name": "Chuh-Nuur Lake cluster",
+            "ref": "1448rev-003",
+            "latitude": 49.5463888889,
+            "longitude": 114.641111111
+          },
+          {
+            "name": "Forest steppe part of Daursky SNBR",
+            "ref": "1448rev-001",
+            "latitude": 50.3627777778,
+            "longitude": 115.286944444
+          },
+          {
+            "name": "Daursky SNBR and Valley of Dzeren Nature Refuge",
+            "ref": "1448rev-002",
+            "latitude": 50.1972222222,
+            "longitude": 116.0
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1448",
+        "unesco_documents": "https://whc.unesco.org/en/list/1448/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1448/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1448/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 8,
+        "inscription_year": 2017
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Landscapes of Dauria Shared between Mongolia and the Russian Federation, this site is an outstanding example of the Daurian Steppe eco-region, which extends from eastern Mongolia into Russian Siberia and northeastern China. Cyclical climate changes, with distinct dry and wet periods lead to a wide diversity of species and ecosystems of global significance. The different types of steppe ecosystems represented, such as grassland and forest, as well as lakes and wetlands serve as habitats for rare species of fauna, such as the White-naped crane, Great Bustard, Relict Gull and Swan goose, as well as millions of vulnerable, endangered or threatened migratory birds. It is also a critical site on the transboundary migration path for the Mongolian gazelle. Shared between Mongolia and the Russian Federation, this site is an outstanding example of the Daurian Steppe eco-region, which extends from eastern Mongolia into Russian Siberia and northeastern China. Cyclical climate changes, with distinct dry and wet periods lead to a wide diversity of species and ecosystems of global significance. The different types of steppe ecosystems represented, such as grassland and forest, as well as lakes and wetlands serve as habitats for rare species of fauna, such as the White-naped crane, Great Bustard, Relict Gull and Swan goose, as well as millions of vulnerable, endangered or threatened migratory birds. It is also a critical site on the transboundary migration path for the Mongolian gazelle. Mongolia Russia Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "petroglyphic_complexes_of_the_mongolian_altai",
+      "uuid": "82cde112-46c1-5603-8a0f-f9c3f7e117ba",
+      "unesco_id": "1382",
+      "names": {
+        "en": "Petroglyphic Complexes of the Mongolian Altai",
+        "fr": "Ensembles de pétroglyphes de l'Altaï mongol",
+        "es": "Conjuntos de petroglifos del Altái mongol",
+        "ru": "Петроглифы монгольского Алтая",
+        "ar": "مجمعات النقش على الصخور لشعب آلتاي في منغوليا",
+        "zh": "阿尔泰山脉岩画群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The numerous rock carvings and funerary monuments found in these three sites illustrate the development of culture in Mongolia over a period of 12,000 years. The earliest images reflect a time (11,000 - 6,000 BC) when the area was partly forested and the valley provided a habitat for hunters of large game. Later images show the transition to herding as the dominant way of life. The most recent images show the transition to a horse-dependent nomadic lifestyle during the early 1st millennium BC, the Scythian period and the later Turkic period (7th and 8th centuries AD). The carvings contribute valuably to our understanding of pre-historic communities in northern Asia.",
+          "fr": "De nombreux pétroglyphes et des monuments funéraires découverts sur ces trois sites illustrent le développement de la culture en Mongolie sur une période de quelque 12 000 ans. Les images les plus anciennes reflètent une époque (11 000 - 6 000 av. J.-C.) où la zone était en partie boisée et où la vallée offrait un habitat aux chasseurs de gros gibier. Les représentations postérieures correspondent à la transition vers le pastoralisme comme mode de vie dominant. Les représentations les plus récentes montrent la transition vers un nomadisme équestre durant le 1er millénaire av. J.C., la période scythe et la période turcique ultérieure (VII-VIIIe siècles après J.-C.). Ces pétroglyphes apportent une précieuse contribution à notre compréhension de la vie des communautés préhistoriques en Asie du nord.",
+          "es": "Este sitio comprende tres zonas donde se han hallado numerosos petroglifos y monumentos funerarios, que son un exponente de la evolución de la cultura mongola a lo largo de doce milenios. Las representaciones más antiguas (11.000-6.000 a.C.) reflejan la época en que el sitio estaba en parte cubierto por bosques y en que los valles ofrecían un hábitat propicio a los cazadores de grandes presas. Las representaciones posteriores datan de la época en que el paisaje del Altái había cobrado su forma actual de estepa montañosa y en que el pastoreo se había convertido en el modo de vida predominante. Las representaciones más recientes muestran la transición al nomadismo ecuestre que se produjo a principios del primer milenio antes de nuestra era, así como el periodo escita y el periodo túrquico ulterior (siglos VII y VIII). Estos petroglifos constituyen una aportación valiosa al conocimiento de las comunidades prehistóricas del Asia Septentrional.",
+          "ru": "Многочисленные наскальные рисунки и погребальные памятники, найденные на территории трех объектов, свидетельствуют о развитии культуры в Монголии на протяжении 12000 лет. Самые ранние из них относятся к периоду 11000-6000 годов до н.э., когда эта территория была частично покрыта лесом, что давало возможность охотиться на крупную дичь. Более поздние изображения относятся к временам, когда алтайский пейзаж приобрел свой нынешний характер гористой степи, и отражают переход к пастушеству, ставшему основным занятием людей. Наконец, самые поздние изображения, относящиеся к периоду с начала 1-го тысячелетия до н.э., затем - скифского периода, вплоть до позднего тюркского периода 7-8 веков н. э., свидетельствуют о формировании кочевого образа жизни. В эту эпоху важное место в наскальных изображениях заняла лошадь. Наскальные изображения Алтая являются ценным источником сведений, необходимых для нашего понимания жизни доисторических общин в северной части Азии.",
+          "ar": "تشهد المنحوتات الصخرية والآثار الجنائزية الكثيرة التي وُجدت في هذه المواقع الثلاثة على تطوُّر الثقافة البشرية في منغوليا على مدى 000 12 سنة. وتشير أقدم الصور المكتشفة (000 11 - 000 6 قبل الميلاد) إلى أن المنطقة كانت مغطاة جزئياً بالغابات في تلك الفترة وأن الوادي كان يوفر ملاذاً لصيادي الطرائد الكبيرة. ويتبين من الصور العائدة إلى الفترة التي برزت فيها السهوب الحالية لمنطقة آلتاي أن معظم السكان كانوا يعيشون حياة رعوية. أما أحدث الصور المكتشفة في المنطقة، فتدل على تحوّل السكان إلى نمط حياة البدو الرحل واعتمادهم على الخيل في أوائل القرن الأول قبل الميلاد وخلال عصر السيثيانيين وحقبة الأتراك الرحل (القرنان السابع والثامن بعد الميلاد). وتسهم المنحوتات إسهاماً قيماً في فهمنا للمجتمعات التي عاشت في شمال آسيا في مرحلة ما قبل التاريخ.",
+          "zh": "在三处遗址发现的大量石刻遗迹与随葬的纪念碑展现了12000多年来人类文化在蒙古国的发展。最早的岩画表明有一时期（11,000 - 6000年），该地区还部分覆盖着森林，此处的山谷为猎人提供了大型狩猎的场所。其后，阿尔泰山地景观据推断已经变为今天的山地草原，这一时期的岩画表明放牧逐渐成为主导的生活方式。最晚期的岩画作于公元前1000年早期及斯基泰时期与后突厥汗国时期（公元7-8世纪），展示了此处的生活方式向马上游牧生活的过渡。这些岩刻为我们了解北亚地区的史前社会提供了富有价值的史料。"
+        },
+        "full": "The numerous rock carvings and funerary monuments found in these three sites illustrate the development of culture in Mongolia over a period of 12,000 years. The earliest images reflect a time (11,000 - 6,000 BC) when the area was partly forested and the valley provided a habitat for hunters of large game. Later images show the transition to herding as the dominant way of life. The most recent images show the transition to a horse-dependent nomadic lifestyle during the early 1st millennium BC, the Scythian period and the later Turkic period (7th and 8th centuries AD). The carvings contribute valuably to our understanding of pre-historic communities in northern Asia.",
+        "justification": "Brief synthesis The Petroglyphic Complexes of the Mongolian Altai include three rock art sites in Bayan-Ulgii aimag: Tsagaan Salaa-Baga Oigor of Ulaankhus soum, and Upper Tsagaan Gol (Shiveet Khairkhan) and Aral Tolgoi, both of Tsengel soum. All three are located in high mountain valleys carved out by Pleistocene glaciers. These three property components include large concentrations of petroglyphs and funerary and ritual monuments reflecting the development of human culture over a period of 12,000 years. The persistent relationships between rock art, surface monuments and the larger physical context of rivers, ridges and cardinal directions create a vivid sense of the integration of human communities with the land they inhabited. The earliest images reflect a period beginning in the Late Pleistocene and lasting through the Early Holocene (ca. 11,000 – 6,000 years BP), when the paleoenvironment shifted from dry to forested steppe and the valleys provided an ideal habitat for hunters of large wild game. Later images from the middle Holocene (ca. 6,000 – 4,000 years BP) reflect the gradual reassertion of steppe vegetation in this part of the the Altai and the early emergence of herding as the economic basis of communities. Imagery from the succeeding, Late Holocene Period, reflects the transition to horse-dependent nomadism during the Early Nomadic and Scythian periods (1st millennium BCE) and the subsequent spread of steppe empires in the later Turkic Period (7th-9th c. CE). The Petroglyphic Complexes of the Mongolian Altai represent the most complete and best preserved visual record of human prehistory and early history of a region at the intersection of Central and North Asia. Criterion (iii): The Petroglyphic Complexes of the Mongolian Altai Mountain provide an exceptional documentation of the pre-historic and early historic communities in the northwestern Altai Mountains, at the intersection of Central and North Asia. The petroglyphic imagery includes animals such as mammoths, rhinoceros, and ostriches, executed in static profile contours. These animals inhabited North Asia when the region was significantly colder, drier and covered by rough grasses and forbs rather than forests. By the end of the Late Pleistocene (ca. 11,000 BP), the dry steppe was gradually being replaced by the forested environment of the Early Holocene (ca. 11,000 – 6,000 BP). This period is reflected in majestic images of elk, aurochs, and ibex, executed in profile silhouettes. There are very few sites in North Asia that include pre-Bronze Age petroglyphs in such number, variety, and quality. Integrity The two largest sites, Tsagaan Salaa-Baga Oigor and Upper Tsagaan Gol, include a unique array of material relating to the Bronze and Iron Ages. Together with Aral Tolgoi, the three sites include an undiminished record of human culture in this region over a period of more than 12,000 years. To preserve the integrity of the property, the potential impact of humans and their grazing animals on the petroglyphs requires strict control. Authenticity The authenticity of the property is demonstrated by its physical condition, which aside from the wear of time and the elements is essentially pristine. There is some modern damage on rock surfaces (writing, graffiti) located close to roads; but, in general, the rock art and monuments are relatively unimpacted by human or animal activities. The authenticity of the sites is protected by their relative inaccessibility due to both terrain and weather. Protection and management requirements The three sites of Tsagaan Salaa-Baga Oigor, Upper Tsagaan Gol, and Aral Tolgoi are registered as historical and cultural properties under state protection since 2008 following the provisions of the 2001 Law on Protecting the Cultural Heritage of Mongolia. The whole of Aral Tolgoi and part of the Upper Tsagaan Gol Complex are also included within the Altai Tavan Bogd National Park, listed since 1994 under the Mongolian Law for Special Protected Areas; this law offers additional protection to the natural environment including water sources and restricts urban and rural development. Ideally this environmental protection should be granted to all three property components. The Mongolian Parliament in 2012 considers amendments to the Law on Protecting the Cultural Heritage of Mongolia in order to include specific articles concerning management of cultural and natural heritage inscribed on the World Heritage List and the National Tentative List; once these additional articles have been adopted, the protection for the property will be further strengthened. The traditional protection by local inhabitants of this region is a key factor in the management of the Petroglyphic Complexes of the Mongolian Altai. Herders who have already been engaged in heritage protection in some soum (departments), need to be engaged as crucial partners for sustainable management. In this context, the role of the national authorities is important in the provision of incentives for traditional community management as well as for supporting strict control with regard to development proposals for purposes such as mining, road works or tourism infrastructure. This control must apply not only in the nominated areas but also in their upstream hinterland, where development could have detrimental effects to the Outstanding Universal Value of the property. Local and national management approaches could be more effectively integrated through a local site manager; who could ensure regular communication and exchange between the two levels. Management could also be better targeted if based on the results of a comprehensive survey and inventory of the petroglyphs in all three components of the property for their continued protection."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 11300,
+          "square_km": 113.0,
+          "square_miles": 45.73,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/66311167f6a0d86bed0b357faa4d346b",
+          "filename": "site_1382_0002-500-0-20241030141202.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 626
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115225/site_1382_0002.jpg",
+            "https://whc.unesco.org/document/209359/site_1382_0003.jpg",
+            "https://whc.unesco.org/document/209360/site_1382_0004.jpg",
+            "https://whc.unesco.org/document/209361/site_1382_0005.jpg",
+            "https://whc.unesco.org/document/209362/site_1382_0006.jpg",
+            "https://whc.unesco.org/document/209363/site_1382_0007.jpg",
+            "https://whc.unesco.org/document/209364/site_1382_0008.jpg",
+            "https://whc.unesco.org/document/209365/site_1382_0009.jpg",
+            "https://whc.unesco.org/document/209366/site_1382_0010.jpg",
+            "https://whc.unesco.org/document/115223/site_1382_0001.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Aral Tolgoi",
+            "ref": "1382-003",
+            "latitude": 48.73895,
+            "longitude": 88.14965
+          },
+          {
+            "name": "Upper Tsagaan Gol",
+            "ref": "1382-002",
+            "latitude": 49.0949333333,
+            "longitude": 88.2554833333
+          },
+          {
+            "name": "Tsagaan Salaa-Baga Oigor",
+            "ref": "1382-001",
+            "latitude": 49.3339666667,
+            "longitude": 88.3953833333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1382",
+        "unesco_documents": "https://whc.unesco.org/en/list/1382/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1382/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1382/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Petroglyphic Complexes of the Mongolian Altai The numerous rock carvings and funerary monuments found in these three sites illustrate the development of culture in Mongolia over a period of 12,000 years. The earliest images reflect a time (11,000 - 6,000 BC) when the area was partly forested and the valley provided a habitat for hunters of large game. Later images show the transition to herding as the dominant way of life. The most recent images show the transition to a horse-dependent nomadic lifestyle during the early 1st millennium BC, the Scythian period and the later Turkic period (7th and 8th centuries AD). The carvings contribute valuably to our understanding of pre-historic communities in northern Asia. The numerous rock carvings and funerary monuments found in these three sites illustrate the development of culture in Mongolia over a period of 12,000 years. The earliest images reflect a time (11,000 - 6,000 BC) when the area was partly forested and the valley provided a habitat for hunters of large game. Later images show the transition to herding as the dominant way of life. The most recent images show the transition to a horse-dependent nomadic lifestyle during the early 1st millennium BC, the Scythian period and the later Turkic period (7th and 8th centuries AD). The carvings contribute valuably to our understanding of pre-historic communities in northern Asia. Mongolia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "orkhon_valley_cultural_landscape",
+      "uuid": "8e02f512-e527-506b-b37a-3e461fae7922",
+      "unesco_id": "1081",
+      "names": {
+        "en": "Orkhon Valley Cultural Landscape",
+        "fr": "Paysage culturel de la vallée de l’Orkhon",
+        "es": "Paisaje cultural del valle del Orkhon",
+        "ru": "Культурный ландшафт долины реки Орхон",
+        "ar": "المنظر الثقافي لوادي اورخون",
+        "zh": "鄂尔浑峡谷文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists.",
+          "fr": "Le paysage culturel de la vallée de l’Orkhon, d’environ 121 967 ha, couvre une vaste zone de pâturages sur les deux rives de l’Orkhon et comprend de nombreux vestiges archéologiques remontant au VIe siècle. Le site englobe également Karakorum, capitale aux XIIIe et XIVe siècles du vaste empire de Chingis (Gengis) Khan. Les vestiges du site reflètent les liens symbiotiques entre les sociétés pastorales nomades et leurs centres administratifs et religieux, et l’importance de la vallée de l’Orkhon dans l’histoire de l’Asie centrale. Les herbages sont encore utilisés aujourd’hui par les bergers nomades de Mongolie.",
+          "es": "Este paisaje cultural de 121.967 hectáreas lo componen las vastas praderas situadas a ambos lados del río Orkhon, donde hay numerosos vestigios arqueológicos que datan del siglo VI. El sitio comprende también la ciudad de Karakorum, que durante los siglos XIII y XIV fue la capital del vasto imperio mongol creado por Gengis Khan. Estos vestigios son un exponente de los vínculos simbióticos entre las sociedades de pastores nómadas y sus centros administrativos y religiosos, así como de la importancia que ha tenido el valle del Orkhon en la historia del Asia Central. Hoy en día, los pastores nómadas de Mongolia siguen apacentando a sus ganados en esas praderas.",
+          "ru": "Культурный ландшафт долины реки Орхон площадью около 122 тыс. га охватывает обширные пастбища на обоих берегах реки Орхон и включает многочисленные археологические находки, самые старые из которых датируются VI в. Здесь также обнаружены руины Каркорума – в XIII-XIV вв. это была столица обширной империи Чингисхана. В целом этот объект наследия отражает символические связи между кочевыми, пастушескими сообществами и их административными и религиозными центрами, а также показывает важность долины Орхона в истории Центральной Азии. Пастбища долины до сих пор используются монгольскими пастухами-кочевниками.",
+          "ar": "تغطي الطبيعة الثقافية لوادي اورخون الذي تبلغ مساحته 121967 هكتارًا، منطقة واسعة من المراعي على ضفتي الاورخون. ويتضمَّن آثارًا تاريخية عديدة تعود الى القرن السادس. ويشمل الموقع أيضًا كراكوروم عاصمة امبراطورية جنجس خان الواسعة التي تعود إلى القرنَيْن الثالث عشر والرابع عشر. فآثار الموقع تعكس الصلات التكاملية بين المجتمعات الرعوية البدوية وبين مراكزهم الادارية والدينية، كما تعكس أهمية وادي الاورخون في تاريخ آسيا الوسطى. ولا تزال المراعي تُستعمل حتى الآن من قبل الرعاة البدويين في منغوليا.",
+          "zh": "占地121 967公顷的鄂尔浑峡谷文化景观包括鄂尔浑河两岸辽阔的牧地与可追溯到公元6世纪的考古遗迹群。此外，这个地区还包含13世纪和14世纪成吉思汗的大帝国首都哈尔和林。鄂尔浑峡谷文化景观中的遗址都清楚地反映出游牧生活、游牧民族社会与管理和宗教中心的共生关联性，并且展现出鄂尔浑峡谷在中亚历史上的重要性。现在这片草原上仍有蒙古国的游牧民族在此放牧。"
+        },
+        "full": "The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists.",
+        "justification": "Brief synthesis The Orkhon Valley Cultural Landscape (OVCL) lies in the central part of Mongolia, some 360 km southwest of Ulaanbaatar. The site covers 121,967 ha of grassland along the historic Orkhon River, and includes a buffer zone of 61,044 ha. The archaeologically rich Orkhon River basin was home of successive nomadic cultures which evolved from prehistoric origins in harmony with the natural landscape of the steppes and resulted in economic, social and cultural polities unique to the region. Home for centuries to major political, trade, cultural and religious activities of successive nomadic empires, the Orkhon Valley served as a crossroads of civilizations, linking East and West across the vast Eurasian landmass. Over successive centuries, the Orkhon Valley was found very suitable for settlement by waves of nomadic people. The earliest evidence of human occupancy dates from the sites of Moiltyn Am (40,000- 15,000 years ago) and “Orkhon-7” which show that the Valley was first settled about 62,000-58,000 years ago. Subsequently the Valley was continuously occupied throughout the Prehistoric and Bronze ages and in proto-historic and early historic times was settled successively by the Huns, Turkic peoples, the Uighurs, the Kidans, and finally the Mongols. At the height of its cultural ascendancy, the inscribed property was the site of historic Kharakhorum – the grand capital of the vast Mongol Empire established by Chinggis Khaan in 1220. Within the cultural landscape are a number of archaeological remains and standing structures, including Turkish memorial sites of the 6th-7th centuries, the 8th9th centuries’ Uighur capital of Khar Balgas as well as the 13th-14th centuries’ ancient Mongol imperial capital of Kharakhorum. Erdene Zuu, the earliest surviving Mongol Buddhist monastery, the Tuvkhun Hermitage and the Shank Western monastery are testimony to the widespread and enduring religious traditions and cultural practices of the Northern School of Buddhism which, with their respect for all the forms of life, enshrine the enduring sustainable management practices of this unique cultural landscape of the Central Asian steppes. Criterion (ii): The Orkhon Valley clearly demonstrates how a strong and persistent nomadic culture, led to the development of extensive trade networks and the creation of large administrative, commercial, military and religious centers. The empires that these urban centers supported undoubtedly influenced societies across Asia and into Europe and in turn absorbed influence from both east and west in a true interchange of human values. Criterion (iii): Underpinning all the development within the Orkhon valley for the past two millennia has been a strong culture of nomadic pastoralism. This culture is still a revered and indeed central part of Mongolian society and is highly respected as a ‘noble’ way to live in harmony with the landscape. Criterion (iv): The Orkhon Valley is an outstanding example of a valley that illustrates several significant stages in human history. First and foremost it was the centre of the Mongolian Empire; secondly it reflects a particular Mongolian variation of Turkish power; thirdly, the Erdene Zuu monastery and the Tuvkhun hermitage monastery were the setting for the development of a Mongolian form of Buddhism; and fourthly, Khar Balgas, reflects the Uighur urban culture in the capital of the Uighur Empire. Integrity The inscribed property straddles the Orkhon River, which provides water and shelter, key requisites for its role as a staging post on the ancient trade routes across the steppes and for its development as the centre of the vast Central Asian empires. Specifically, the inscribed property provides evidence of the 6th-7th century Turkish memorial sites, the 8th-9th century Uighur capita of Khar Balgas, the 13th-14th century Mongol capital of Kharkhorum, the earliest surviving Mongol Buddhist monastery at Erdene Zuu, the Hermitage Monastery of Tuvkhum, the Shankh Western Monastery, the palace at Doit Hill, the ancient towns of Talyn Dorvoljin, Har Bondgor, and Bayangol Am, deer stones and ancient graves, the sacred mountains of Hangai Ovoo and Undor Sant and archaeological and ethnographic evidence attesting to the long and enduring tradition of nomadic pastoralism. All elements necessary to express the Outstanding Universal Value of the property of Orkhon Valley Cultural Landscape are included within the boundaries of the inscribed area. The ecology of overall landscape and pastoral practices are vulnerable to lowering water table, associated with tree-cutting and mining, pollution of watercourses and the effects of over-grazing. The visual integrity of the landscape is vulnerable to modern roads, tracks and power lines. Lack of maintenance of monastery buildings, city walls and Turkic graves could impact on integrity. Authenticity Overall, the Orkhon Valley retains a high level of authenticity as a continuing cultural landscape, reflecting the long-standing traditions of Central Asian nomadic pastoralism. The basic use of the land has remained consistent over the centuries and has not adversely affected the component archaeological features of the landscape, the authenticity of which remains high individually and collectively. Although some modern features have obtruded into the landscape, the way in which the landscape is used is still essentially traditionally nomadic, with herdsmen moving their flocks across it in season transhumance. The pastoral management regime of the grasslands and the continuing intangible and tangible traditions associated with the nomadic way of life are integral to the property’s continued authenticity. Protection and management requirements The central and local authorities recognize how vital it is to sustain pastoralism as means of managing this cultural landscape. According to the Constitution of Mongolia adopted in 1992, each citizen has the right to live in a healthy and safe environment; additionally, lands and natural resources can be subjected to national ownership and state protection. Parliament Resolution No.43 under the Law on Special Protected Areas (1994) declared an area of the Khangai Mountains, including the upper part of OVCL, a State Special Protection Area, establishing Khangai Mountain Park in 1996. The northern part of the OVCL has been given “limited protected status” under the Law on Special Protected Area Buffer Zones passed in 1997. The five primary sites in the Orkhon Valley have been designated as Special Protected Areas and 20 historical and archaeological sites as Protected Monuments. The buffer zone of the OVCL was approved by the Government Resolution No. 123 issued on 31 May 2006. Also the longitude and latitude coordinates of 63 points of the OVCL were approved by this resolution. In 2009, the decree of the Ministry of Education, Culture and Science of Mongolia was adopted for strengthening the legal environment for the conservation of the OVCL. By Government Resolution No. 147 issued on 9 June 2010, the management office of the OVCL World Heritage Property, which was initially established by the Decree of Ministry of Education, Culture and Science of Mongolia in 2006, was re-established at the national government level. A management plan for the property was developed in 2002 and renewed in 2006 with widespread involvement of stakeholders. The purpose of this plan is to ensure the safeguarding of the heritage within a framework for the sustainable development of the OVCL by putting in place a system for ensuring there will be lasting harmony between the ecology of the grasslands and the practices of nomadic pastoralism. According to the Mongolian National Development Policy which was adopted by the Mongolian Parliament in 2008, a further revision to the management plan for the property has been adopted which oversees development in the area up to the year 2030 and ensures its protection under a new “Law on protecting the cultural heritage of Mongolia”. A detailed map, indicating the territorial boundaries, sites location, buffer zone, livestock density and grassland cover, of the inscribed property has been officially gazetted. Site museums have been provided for under the revised management plan, as has the reconstruction of Tsogchin Temple."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 121967,
+          "square_km": 1219.67,
+          "square_miles": 493.584,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b029c03fe5f6c29ffb219b5fed68a675",
+          "filename": "site_1081_0001-500-0-20241104171915.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114732/site_1081_0001.jpg",
+            "https://whc.unesco.org/document/209344/site_1081_0015.jpg",
+            "https://whc.unesco.org/document/209345/site_1081_0016.jpg",
+            "https://whc.unesco.org/document/209346/site_1081_0017.jpg",
+            "https://whc.unesco.org/document/209347/site_1081_0018.jpg",
+            "https://whc.unesco.org/document/209348/site_1081_0019.jpg",
+            "https://whc.unesco.org/document/209349/site_1081_0020.jpg",
+            "https://whc.unesco.org/document/209350/site_1081_0021.jpg",
+            "https://whc.unesco.org/document/209351/site_1081_0022.jpg",
+            "https://whc.unesco.org/document/209352/site_1081_0023.jpg",
+            "https://whc.unesco.org/document/209353/site_1081_0024.jpg",
+            "https://whc.unesco.org/document/209354/site_1081_0025.jpg",
+            "https://whc.unesco.org/document/209458/site_1081_0026.jpg",
+            "https://whc.unesco.org/document/209459/site_1081_0027.jpg",
+            "https://whc.unesco.org/document/209460/site_1081_0028.jpg",
+            "https://whc.unesco.org/document/209461/site_1081_0029.jpg",
+            "https://whc.unesco.org/document/209462/site_1081_0030.jpg",
+            "https://whc.unesco.org/document/209463/site_1081_0031.jpg",
+            "https://whc.unesco.org/document/209465/site_1081_0032.jpg",
+            "https://whc.unesco.org/document/209466/site_1081_0033.jpg",
+            "https://whc.unesco.org/document/209467/site_1081_0034.jpg",
+            "https://whc.unesco.org/document/209468/site_1081_0035.jpg",
+            "https://whc.unesco.org/document/209469/site_1081_0036.jpg",
+            "https://whc.unesco.org/document/209470/site_1081_0037.jpg",
+            "https://whc.unesco.org/document/209471/site_1081_0038.jpg",
+            "https://whc.unesco.org/document/209472/site_1081_0039.jpg",
+            "https://whc.unesco.org/document/209473/site_1081_0040.jpg",
+            "https://whc.unesco.org/document/209474/site_1081_0041.jpg",
+            "https://whc.unesco.org/document/209475/site_1081_0042.jpg",
+            "https://whc.unesco.org/document/209476/site_1081_0043.jpg",
+            "https://whc.unesco.org/document/209477/site_1081_0044.jpg",
+            "https://whc.unesco.org/document/209478/site_1081_0045.jpg",
+            "https://whc.unesco.org/document/209479/site_1081_0046.jpg",
+            "https://whc.unesco.org/document/209480/site_1081_0047.jpg",
+            "https://whc.unesco.org/document/209481/site_1081_0048.jpg",
+            "https://whc.unesco.org/document/209482/site_1081_0049.jpg",
+            "https://whc.unesco.org/document/209483/site_1081_0050.jpg",
+            "https://whc.unesco.org/document/114734/site_1081_0002.jpg",
+            "https://whc.unesco.org/document/114736/site_1081_0003.jpg",
+            "https://whc.unesco.org/document/114738/site_1081_0004.jpg",
+            "https://whc.unesco.org/document/147383/site_1081_0005.jpg",
+            "https://whc.unesco.org/document/147384/site_1081_0006.jpg",
+            "https://whc.unesco.org/document/147385/site_1081_0007.jpg",
+            "https://whc.unesco.org/document/147386/site_1081_0008.jpg",
+            "https://whc.unesco.org/document/147387/site_1081_0009.jpg",
+            "https://whc.unesco.org/document/147388/site_1081_0010.jpg",
+            "https://whc.unesco.org/document/147389/site_1081_0011.jpg",
+            "https://whc.unesco.org/document/147390/site_1081_0012.jpg",
+            "https://whc.unesco.org/document/147391/site_1081_0013.jpg",
+            "https://whc.unesco.org/document/147392/site_1081_0014.jpg"
+          ],
+          "count": 50
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Orkhon Valley Cultural Landscape",
+            "ref": "1081rev",
+            "latitude": 47.479214,
+            "longitude": 102.678482
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1081",
+        "unesco_documents": "https://whc.unesco.org/en/list/1081/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1081/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1081/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Orkhon Valley Cultural Landscape The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists. The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists. Mongolia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "great_burkhan_khaldun_mountain_and_its_surrounding_sacred_landscape",
+      "uuid": "570295ab-df08-5fb5-886d-cf76d30046e2",
+      "unesco_id": "1440",
+      "names": {
+        "en": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+        "fr": "Grande montagne Burkhan Khaldun et son paysage sacré environnant",
+        "es": "Gran montaña de Burkhan Khaldun y paisaje sacro circundante",
+        "ru": "Великая священная гора Бурхан-Халдун и ее окрестности",
+        "ar": "جبل بورخان خلدن الكبير والمشهد المقدس المحيط به",
+        "zh": "布尔罕和乐敦圣山及其周围景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The site is situated in the north-east of the country in the central part of the Khentii mountain chain where the vast Central Asian steppe meets the coniferous forests of the Siberian taiga. Burkhan Khaldun is associated with the worship of sacred mountains, rivers and ovoo-s (shamanic rock cairns), in which ceremonies have been shaped by a fusion of ancient shamanic and Buddhist practices. The site is also believed to be the place of Genghis Khan’s birth and burial. It testifies to his efforts to establish mountain worship as an important part of the unification of the Mongol people.",
+          "fr": "Situé dans le nord-est du pays, le site se trouve dans la partie centrale de la chaîne des monts Khentii. C'est là que les grandes steppes d'Asie centrale cèdent la place aux forêts de conifères de la taïga sibérienne. Le Burkhan Khaldun est associé au culte des montagnes, des rivières et des ovoos (cairns de pierre chamaniques), dont les cérémonies ont été façonnées par la fusion de pratiques chamaniques et bouddhistes anciennes. Le Burkhan Khaldun est également associé avec le lieu de naissance et de sépulture de Gengis Khan. Le site témoigne de ses efforts pour formaliser le culte des montagnes, élément important dans l'unification des peuples mongols.",
+          "es": "Situado al noreste del país, el sitio se encuentra en la parte central de la cadena montañosa de Khentii. En este lugar, las grandes estepas de Asia Central dan paso a bosques de coníferas y a la taiga siberiana. El Burkhan Khaldun se asocia al culto de las montañas, los ríos y los ovvos (cairns chamánicos de piedra), cuyas ceremonias fusionan prácticas chamánicas y budistas antiguas. Además, el Burkhan Khaldun está también asociado al lugar de nacimiento y sepultura del Gengis Khan y es testimonio de sus esfuerzos por formalizar el culto de las montañas, elemento importante en la unificación de los pueblos mongoles.",
+          "ru": "Объект расположен в центральной части гор Хэнтэй на северо-востоке страны, где обширные степи Центральной Азии уступают место хвойным лесам сибирской тайги. Поклонение священной горе Бурхан-Халдун связано с культом гор, рек и ову (шаманских пирамид из камней), в котором слились древние шаманские и буддистские традиции. Кроме того, окрестности горы Бурхан-Халдун считаются местом рождения и захоронения Чингисхана. Объект свидетельствует об усилиях великого хана укрепить культ гор как важный фактор объединения монгольского народа.",
+          "ar": "يوجد هذا الموقع في شمال شرق البلاد في الجزء الأوسط لسلسلة جبال خينتي، حيث يلتقي السهب الشاسع في آسيا الوسطى بالغابات الصنوبرية في سيبريا. ويرتبط بورخان خلدن بعبادة الجبال المقدسة، والأنهار وركام الصخور الشامانية (أوفو)، حيث تشكلت الاحتفالات من خلال تلاحم الممارسات الشامانية والبوذية القديمة. ويسود الاعتقاد أيضاً أن الموقع هو مسقط رأس جنكيز خان محل مدفنه. كما يشهد الموقع على جهوده لإقامة عبادة الجبال كجزء مهم من تحقيق وحدة الشعب المنغولي.",
+          "zh": "这片景观位于蒙古国东北科特山脉中部，这里是中亚大草原和西伯利亚泰加群落针叶林的交界处。布尔罕和乐敦圣山与对山脉、河流和萨满教石碓（ovoo-s）的崇拜有关，祭拜仪式混合了古老的肯特山崇拜和佛教仪式。这里也被认为是成吉思汗的出生地和埋葬地，见证了他为同一蒙古人民而建立大山崇拜的努力。"
+        },
+        "full": "The site is situated in the north-east of the country in the central part of the Khentii mountain chain where the vast Central Asian steppe meets the coniferous forests of the Siberian taiga. Burkhan Khaldun is associated with the worship of sacred mountains, rivers and ovoo-s (shamanic rock cairns), in which ceremonies have been shaped by a fusion of ancient shamanic and Buddhist practices. The site is also believed to be the place of Genghis Khan’s birth and burial. It testifies to his efforts to establish mountain worship as an important part of the unification of the Mongol people.",
+        "justification": "Brief synthesis Great Burkhan Khaldun Mountain and its surrounding landscape, lies in the central part of the Khentii mountains chain that forms the watershed between the Arctic and Pacific Oceans, where the vast Central Asian steppe meets the coniferous forests of the Siberian taiga. Water from the permanently snow-capped mountains feed significant rivers flowing both to the north and south. High up the mountains are forests and lower down mountain steppe, while in the valley below are open grasslands dissected by rivers feeding swampy meadows. Burkhan Khaldun is associated with Chinggis Khan, as his reputed burial site and more widely with his establishment of the Mongol Empire in 1206. It is one of four sacred mountains he designated during his lifetime, as part of the official status he gave to the traditions of mountain worship, based on long standing shamanic traditions associated with nomadic peoples. Traditions of mountain worship declined as Buddhism was adopted in the late 15th century and there appears to have been a lack of continuity of traditions and associations thereafter. Since the 1990s, the revival of mountain worship has been encouraged and old shamanist rituals are being revived and integrated with Buddhist rituals. State sponsored celebrations now take place at the mountain each summer around rivers and three stone ovoo-s (or rock cairns). The Great Burkhan Khaldun Mountain has few structures other that three major stone ovoo-s alongside paths connected to a pilgrimage route. The cairns were apparently destroyed in the 17th century but have now been re-constructed with timber posts on top. The pilgrimage path starts some 20km from the mountain by a bridge over the Kherlen River at the Threshold Pass where there is also a major ovoo. Pilgrims ride on horseback from there to the large Beliin ovoo made of tree trunks and adorned with blue silk prayer scarves and thence to the main ovoo of heaven at the summit of the mountain. The sacredness of the mountain is strongly associated with its sense of isolation, and its perceived ‘pristine’ nature. The Great Burkhan Khaldun Mountain and its surrounding sacred landscape, as a sacred mountain, were at the centre of events that profoundly changed Asia and Europe between the 12th and 14th and centuries and have direct links with Chinggis Khan and his formal recognition of mountain worship. Criterion (iv): Burkhan Khaldun Sacred Mountain reflects the formalisation of mountain worship by Chinggis Khan, a key factor in his success in unifying the Mongol peoples during the creation of the Mongolian Empire, an event of vital historical significance for Asian and world history. Criterion (vi): The Burkhan Khaldun Sacred Mountain is directly and tangibly associated with The Secret History of the Mongols, an historical and literary epic recognised as of world importance in its entry in the Memory of the World Register. The Secret History records the links between the mountain and Chinggis Khan, his formal recognition of mountain worship, and the formal status of Burkhan Khaldun as one of four sacred mountains designated during his lifetime. Integrity The property has adequate attributes within its boundaries to reflect the scale and scope of the scared mountain, although the boundary needs to be marked in relation to natural features. An on-going programme of work needs to be undertaken on documenting and mapping archaeological sites that might strengthen associations with Chinggis Khan or traditions of mountain worship, and lead to their protection. Authenticity All the natural and cultural attributes of the Burkhan Khaldun Mountain display their value. Various parts of the mountain are vulnerable to an increase in tourism which could profoundly change its sense of isolation if not well managed, and to over-grazing that could impact on its ‘perceived’ pristine nature and on archaeological sites. Protection and management requirements Although the majority of the Great Burkhan Khaldun Mountain is situated on the territory of the Khan Kentii Special Protected Area (KK SPA), a small area to the north-west and a much large area to the south lie outside this protected zone. There are plans to include the whole property and its buffer zone in the territory of the KK SPA in 2015. The KK SPA offers legal protection, but this is for natural and environmental protection rather than cultural heritage protection. Further protection needs to be established for cultural heritage and to ensure that no mining or extractive industry will be permitted within the property. The buffer zone is included within the buffer zone of the KK SPA. Currently the property buffer zone has no protection for cultural attributes nor does it have any regulatory procedures related to land-use or new construction and both need to be put in place. Since 1990 and the renewal of older Mongolian practices related to sacred mountains, national traditions and customs of nature protection in Mongolia and the laws associated with “Khalkh Juram” have been revived and are now incorporated into State policy. On 16 May 1995, the first President of Mongolia issued a new Decree “Supporting initiatives to revive the tradition of worshiping Bogd Khan Khairkhan, Burkhan Khaldun (Khan Khentii), and Otgontenger Mountains”. The Decree pronounced the State’s support for initiatives to revive Mountain worship as described in the original Mongolian Legal Document and as “set out according to the official Decree”. A further Decree of the President on “Regulation of ceremony of worshipping and offering of state sacred mountains and ovoos” provides legal tools for visitor organization during the large state worshipping ceremonies. Any activity on Burkhan Khaldun Mountain itself, other than worshipping rituals, is traditionally forbidden. The KK reserve staff do however undertake fire-fighting, forest protection, forest clearing and renovation, and address illegal hunting and wood cutting. At the national level, management of the site is under the responsibility of the Ministry of Nature, Environment and Green, and of the Ministry of Culture, Sports and Tourism. At the local level, local authorities at the levels of aimak-s, soum-s and bag-s have responsibility for providing local protection. Although soum administrations have people responsible for environmental protection, there appears not to be any formal arrangement for cultural heritage work. An Administration for the Protection of the World Heritage property responsible for both natural and cultural protection and conservation of the property is to be established, although no timescale has been provided for this, nor a commitment to the provision of adequate resources. Traditional protection is supported through the long standing tradition of worshipping nature and sacred places. For example, it is forbidden to disturb earth, waters, trees and all plants, animals and birds in sacred places, or hunt or cut wood for trading. A draft Management Plan was submitted as part of the nomination dossier. This will run from 2015-2025 and covers both cultural and natural heritage. It includes both long-term (2015-2025), and medium-term (2015-2020) plans. The draft Management Plan has not yet been approved or implemented. Before completion and adoption, more work is needed to augment the Plan to allow it to provide an appropriate framework for management of the property and necessary funding has still to be put in place from stakeholder organisations together with further support from aid and international donor organizations. Archaeological sites on the mountain that may contribute to a wider understanding of mountain worship and have not been formally identified nor are they actively conserved. Both of these aspects should be addressed in the Plan. Although a management plan exits for the Khan Khentii protected area and this is implemented by the Administration of Khan Khentii Special Protected Area, this is restricted to conservation of the natural environment and it appears that there is currently no active management for its cultural attributes, nor is work guided by specific cultural strategies and policies. These omissions need to be addressed."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 443739.2,
+          "square_km": 4437.39,
+          "square_miles": 1795.752,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2015,
+          "all_dates": [
+            2015
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2015,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/bbddaa9af33f824b83f0b16943dd5fd3",
+          "filename": "site_1440_0001.jpg",
+          "dimensions": {
+            "width": 3872,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136556/site_1440_0001.jpg",
+            "https://whc.unesco.org/document/136557/site_1440_0002.jpg",
+            "https://whc.unesco.org/document/136558/site_1440_0003.jpg",
+            "https://whc.unesco.org/document/136559/site_1440_0004.jpg",
+            "https://whc.unesco.org/document/136560/site_1440_0005.jpg",
+            "https://whc.unesco.org/document/136561/site_1440_0006.jpg",
+            "https://whc.unesco.org/document/136562/site_1440_0007.jpg",
+            "https://whc.unesco.org/document/136563/site_1440_0008.jpg",
+            "https://whc.unesco.org/document/136564/site_1440_0009.jpg",
+            "https://whc.unesco.org/document/136565/site_1440_0010.jpg",
+            "https://whc.unesco.org/document/136566/site_1440_0011.jpg",
+            "https://whc.unesco.org/document/136567/site_1440_0012.jpg",
+            "https://whc.unesco.org/document/136568/site_1440_0013.jpg",
+            "https://whc.unesco.org/document/136569/site_1440_0014.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+            "ref": "1440",
+            "latitude": 48.7619777778,
+            "longitude": 109.0093277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1440",
+        "unesco_documents": "https://whc.unesco.org/en/list/1440/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1440/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1440/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 10,
+        "inscription_year": 2015
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape The site is situated in the north-east of the country in the central part of the Khentii mountain chain where the vast Central Asian steppe meets the coniferous forests of the Siberian taiga. Burkhan Khaldun is associated with the worship of sacred mountains, rivers and ovoo-s (shamanic rock cairns), in which ceremonies have been shaped by a fusion of ancient shamanic and Buddhist practices. The site is also believed to be the place of Genghis Khan’s birth and burial. It testifies to his efforts to establish mountain worship as an important part of the unification of the Mongol people. The site is situated in the north-east of the country in the central part of the Khentii mountain chain where the vast Central Asian steppe meets the coniferous forests of the Siberian taiga. Burkhan Khaldun is associated with the worship of sacred mountains, rivers and ovoo-s (shamanic rock cairns), in which ceremonies have been shaped by a fusion of ancient shamanic and Buddhist practices. The site is also believed to be the place of Genghis Khan’s birth and burial. It testifies to his efforts to establish mountain worship as an important part of the unification of the Mongol people. Mongolia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "deer_stone_monuments_and_related_bronze_age_sites",
+      "uuid": "50a7b03a-b358-5141-9be9-ce033367f23e",
+      "unesco_id": "1621",
+      "names": {
+        "en": "Deer Stone Monuments and Related Bronze Age Sites",
+        "fr": "Monuments des pierres à cerfs et sites associés de l’âge du bronze",
+        "es": "Monumentos de piedras de ciervo y sitios conexos de la Edad del Bronce",
+        "ru": "Оленные камни и связанные с ними объекты бронзового века",
+        "ar": "معالم أحجار الغزلان والمواقع ذات الصلة من العصر البرونزي",
+        "zh": "鹿石遗迹以及相关青铜时代遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE.",
+          "fr": "Situées sur les versants des monts Khangaï, en Mongolie centrale, ces pierres à cerfs sont liées à des pratiques cérémonielles et funéraires. Datant d’environ 1200 à 600 av. J.-C., elles mesurent jusqu’à quatre mètres de hauteur, sont placées directement dans le sol en tant que pierres isolées ou en groupes et sont presque toujours situées au sein d’ensembles comprenant de grands tertres funéraires appelés khirgisüürs et des autels sacrificiels. Recouvertes de gravures de cerfs très stylisées ou figuratives, les pierres à cerfs sont les plus importantes structures subsistantes de la culture de l’âge du bronze des peuples nomades eurasiens qui évolua puis disparut lentement entre les IIe et Ier millénaires avant J.-C.",
+          "es": "Emplazadas en las laderas de la cordillera de Khangai, en Mongolia central, estas piedras de ciervo se utilizaban para prácticas ceremoniales y funerarias. Datan de entre los años 1200 y 600 a.C., miden hasta cuatro metros de altura y se colocan directamente en el suelo, solas o en grupos, casi siempre en complejos que incluyen grandes túmulos funerarios llamados khirgisüürs y altares de sacrificio. Cubiertas de grabados de ciervos muy estilizados o representativos, las piedras de ciervo son las estructuras más importantes que se conservan de la cultura de los nómadas de la Edad de Bronce euroasiática, que evolucionó y luego desapareció lentamente entre los milenios II y I a. C.",
+          "ru": "Эти оленные камни, расположенные на склонах хребта Хангай в центральной Монголии, использовались в ритуальных и погребальных целях. Датируемые периодом 1200-600 гг. до н.э., они достигают четырех метров в высоту, устанавливаются непосредственно в землю в виде одиночных камней или групп и почти всегда располагаются в комплексах, включающих большие курганы (khirgisüürs) и жертвенные алтари. Оленные камни, покрытые стилизованными или изобразительными гравировками оленей, являются наиболее важными из сохранившихся сооружений, относящихся к культуре евразийских кочевников бронзового века, которая развивалась и затем медленно исчезала в период со II по I тысячелетие до н.э",
+          "ar": "توجد أحجار الغزلان على سفوح مرتفعات خانغي وسط منغوليا، وكانت تُستخدم في الطقوس الاحتفالية والجنائزية. ويعود تاريخ هذه الصخور إلى الفترة الممتدة بين عامي 1200 و 600 قبل الميلاد، ويصل ارتفاعها إلى أربعة أمتار وتقف منتصبة في الأرض فرادى أو في مجموعات، ونجد هذه الصخور دائماً في تجمعات تلال المدافن الضخمة المعروفة باسم « khirgisüürs »، وكذلك في المذابح القربانية. هذه الصخور مغطاة بنقوش منمقة أو تمثيلية للغزلان، وهي أهم الهياكل الصخرية التي لا تزال قائمة ويعود أصلها إلى ثقافة البدو الرُحَّل في العصر البرونزي الأوراسي التي تطورت ثُمّ اندثرت ببطء بين الألفية الثانية والأولى قبل الميلاد.",
+          "zh": "这些遍布蒙古中部杭爱山脊上的鹿石用于仪式和葬礼，其年代可追溯至公元前约1200-600年。鹿石高度可达4米，或独石、或群石，直接嵌入大地。它们常位于大型墓冢（喀尔其苏尔）、祭坛等综合建筑群中。鹿石上刻有高度风格化或代表性的鹿纹图案，是青铜时代欧亚大陆游牧民族文化中最重要的存留物。此类游牧文化在公元前2000-1000年间演变，之后逐渐消失。"
+        },
+        "full": "Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE.",
+        "justification": "Brief synthesis The Deer Stone Monuments and Related Sites are significant and striking examples associated with the Late Bronze Age culture of Eurasian nomadic peoples. Deer stone monuments dated from approximately 1200 to 600 BCE. They are almost always located within complexes that include khirgisüürs (elaborated burial mounds), sacrificial altars, human burials and remains of horses, and other elements. Together the four component parts represent the occurrence and diversity of Mongolian deer stone monuments, khirgisüürs and satellite structures, and are notable examples of the world's megalithic ceremonial and funeral sites. Deer stones are gigantic steles, ranging in height up to four metres with engravings of stylised stag images. Elaborately decorated the stones are set directly in the ground singly or in groups. In terms of ornamentation, cultural significance, archaeological and landscape contexts, the Mongolian deer stones are unique within the world’s Bronze Age monumental heritage sites. About 1,500 deer stones have been discovered across the Eurasian steppe, classified into three distinct forms based on their artistic traditions. More than eighty percent of these occur in Mongolia, and the images of a stylised stag that cover these stones are without parallels across Bronze Age Eurasia. The significance of deer stone complexes at Khoid Tamir, Jargalantyn Am, Urtyn Bulag and Uushigiin Övör lies not only in their ancient origins and broad distribution, but also in their number, the variety and elegance of their ornamentation, and their intact spatial associations with khirgisüürs and other elements. Criterion (i): The Deer Stone Monuments are of exceptional beauty and cultural significance and are masterworks of Late Bronze Age culture. They constitute an outstanding example of Bronze Age megalithic monumental art of the highest quality, demonstrating the artistic vitality and creative genius of human achievement in prehistoric times. They demonstrate an extraordinary variety in their ornamentation, yet all featuring the imagery of a great antlered stag. Criterion (iii): The Deer Stone Monuments and Related Sites provide an exceptional testimony to the culture of Eurasian Bronze Age nomads, which had evolved and disappeared slowly from the 2nd to the 1st millennia BCE. In their landscape settings, they are testimony to the ceremonial and funeral practices of these peoples. Integrity The serial property includes all the elements necessary to express its Outstanding Universal Value, and the selection of component parts has been justified. The elements within the four component parts reflect the original layout and size of the complexes as they were shaped in the Late Bronze and Early Iron Ages. Aside from some tourism facilities, there are no commercial activities associated with the property. The individual component parts and the serial property as a whole meet the requirements of integrity. Authenticity Archaeological studies support the truthfulness of cultural values attributed to the sites within the property. The component parts reflect the original form, design, materials, layout, size, and locations of these complex monuments as they were created and shaped in the Late Bronze and Early Iron Ages. Surviving vestiges and monuments attest to the artistic skills and techniques used in the creation of these complex structures, and the knowledge and talent of the people who built them. Protection and management requirements Legal protection is provided through the Mongolian Law on the Protection of Cultural Heritage (2014) and the List of Immovable Historical and Cultural Heritage Properties under State, Provincial and Local (Soum) Protection (2008). Protection applies to the four component parts via various provincial and local proclamations and lists. Khoid Tamir and Uushigiin Övör are included in the State list, while Jargalantyn Am and Urtyn Bulag are in provincial and local lists. Uushigiin Övör is also a monument under State Special Protection. All component parts derive some protection from their remote locations and their traditional land use by nomadic herders. For the most part, such traditional ways of protection are still observed within these areas. A concise management plan establishes a shared set of objectives for the four component parts. This has been elaborated with the active participation of local communities and stakeholders. A site management administration unit for the protection and management of World Heritage properties which will ensure the implementation of the integrated management plan has been established. There are a number of aspects of the management system that require continuing development and implementation including documentation, risk management, sustainable tourism planning and monitoring."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 9768.87,
+          "square_km": 97.69,
+          "square_miles": 39.533,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f363c4a9b30ec4471acc836c8f78dabd",
+          "filename": "site_1621_0004.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/172389/site_1621_0004.jpg",
+            "https://whc.unesco.org/document/192582/site_1621_0016.jpg",
+            "https://whc.unesco.org/document/192578/site_1621_0012.jpg",
+            "https://whc.unesco.org/document/192584/site_1621_0018.jpg",
+            "https://whc.unesco.org/document/192585/site_1621_0019.jpg",
+            "https://whc.unesco.org/document/192588/site_1621_0022.jpg",
+            "https://whc.unesco.org/document/196646/site_1621_0024.jpg",
+            "https://whc.unesco.org/document/196647/site_1621_0025.jpg",
+            "https://whc.unesco.org/document/172386/site_1621_0001.jpg",
+            "https://whc.unesco.org/document/172387/site_1621_0002.jpg",
+            "https://whc.unesco.org/document/172388/site_1621_0003.jpg",
+            "https://whc.unesco.org/document/196648/site_1621_0026.jpg",
+            "https://whc.unesco.org/document/172390/site_1621_0005.jpg",
+            "https://whc.unesco.org/document/172399/site_1621_0011.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Bronze Age complex Site with Deer Stones at Khoid Tamir (KT)",
+            "ref": "1621rev-001",
+            "latitude": 47.7427777777,
+            "longitude": 101.225833333
+          },
+          {
+            "name": "Bronze Age Complex Site with Deer Stones at Urtyn Bulag (UB)",
+            "ref": "1621rev-003",
+            "latitude": 48.0795833334,
+            "longitude": 101.058555556
+          },
+          {
+            "name": "Bronze Age Complex Site with Deer Stones at Jargalantyn Am (JA)",
+            "ref": "1621rev-002",
+            "latitude": 48.1724722223,
+            "longitude": 101.093416667
+          },
+          {
+            "name": "Bronze Age Complex Site with Deer Stones at Uushigiin Ovor (UO)",
+            "ref": "1621rev-004",
+            "latitude": 49.6553611111,
+            "longitude": 99.9283333334
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1621",
+        "unesco_documents": "https://whc.unesco.org/en/list/1621/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1621/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1621/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Deer Stone Monuments and Related Bronze Age Sites Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE. Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE. Mongolia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "uvs_nuur_basin",
+      "uuid": "3c785db5-8a1a-5d77-abe9-61cbd80e6251",
+      "unesco_id": "769",
+      "names": {
+        "en": "Uvs Nuur Basin",
+        "fr": "Bassin d’Ubs Nuur",
+        "es": "Cuenca de Ubs Nuur",
+        "ru": "Убсунурская котловина",
+        "ar": "حوض أوبس نور",
+        "zh": "乌布苏盆地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MNG": {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "iso3": "MNG"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of Central Asia. It takes its name from Uvs Nuur Lake, a large, shallow and very saline lake, important for migrating birds, waterfowl and seabirds. The site is made up of twelve protected areas representing the major biomes of eastern Eurasia. The steppe ecosystem supports a rich diversity of birds and the desert is home to a number of rare gerbil, jerboas and the marbled polecat. The mountains are an important refuge for the globally endangered snow leopard, mountain sheep (argali) and the Asiatic ibex.",
+          "fr": "Le Bassin d’Ubs Nuur, qui couvre une surface de plus de un million d’hectares, est le bassin fermé le plus septentrional d’Asie centrale. Il tire son nom de l’Ubs Nuur, un grand lac peu profond et très salé, qui joue un rôle important dans la vie des oiseaux migrateurs, tant aquatiques que marins. Le site, divisé en douze aires protégées, comprend une vaste gamme d’écosystèmes qui représentent les principaux biomes de l’Eurasie orientale. L’écosystème steppique entretient une riche diversité d’oiseaux et le désert un certain nombre de gerbilles, gerboises et putois marbrés rares. Les montagnes sont d’importants refuges pour le léopard des neiges (une espèce menacée), l’argali et le bouquetin d’Asie.",
+          "es": "Esta cuenca cerrada de más de un millón de hectáreas es la más septentrional del Asia Central y recibe su nombre del gran lago de Ubs Nuur. Poco profundo y muy salado, este lago desempeña un papel muy importante en la vida de las aves migratorias, tanto fluviales y lacustres como marinas. El sitio está dividido en doce zonas protegidas y posee una amplia gama de ecosistemas representativos de los principales biomas de Eurasia Oriental. El ecosistema estepario alberga una gran variedad de aves y en las zonas desérticas viven jerbos, jerbillos y una especie rara de turones jaspeados. Las zonas montañosas sirven de refugio a una especie en peligro de extinción, el leopardo de las nieves, así como a ovejas montesas (argalis) e íbices asiáticos.",
+          "ru": "Объект наследия (площадью 1069 тыс. га) находится в границах самой северной из всех бессточных котловин Центральной Азии. Его наименование происходит от названия обширного мелководного и очень соленого озера Убсунур, в районе которого скапливается масса перелетных, водоплавающих и околоводных птиц. Объект состоит из 12 разрозненных участков (в т.ч. в России семь участков, площадью 258,6 тыс. га), которые представляют все основные типы ландшафтов, характерных для Восточной Евразии. В степях отмечено большое разнообразие пернатых, а на пустынных участках обитают редкие виды мелких млекопитающих. В высокогорной части отмечены такие животные, редкие в глобальном масштабе, как снежный барс и горный баран аргали, а также сибирский козерог.",
+          "ar": "يغطي حوض أوبس نور مساحة أكثر من مليون هكتار وهو الحوض المغلق الواقع إلى أقصى الشمال في آسيا الوسطى. ويشتق اسمه من أوبس نور وهي بحيرة كبيرة قليلة العمق وشديدة الملوحة وتؤدي دوراً مهمّاً في حياة العصافير المهاجرة المائيّة كما البحريّة. ويضمّ الموقع الموزّع على اثنتي عشرة مساحة محميّة، طيفاً من النظم البيئيّة التي تمثل أبرز ثروات أوراسيا الشرقيّة. وتحتفظ النظم البيئيّة المكوّنة من سهول واسعة بثروة وتنوّع من العصافير كما تحوي الصحراء عدداً من الجربيل واليربوع وابن العرس الرخامي النادر. وتشكّل الجبال موئل فهد الثلوج (وهو صنف مهدد) والكبش البرّي والوعل الآسيوي.",
+          "zh": "乌布苏盆地面积1 068 853公顷，是中亚最北部的封闭性盆地，它得名于乌布苏湖。乌布苏湖是一个巨大的浅咸水湖，它是候鸟、水鸟和海鸟的重要栖息地。该地区由12个保护区组成，这些保护区内拥有亚欧大陆东部的主要生物群系。西伯利亚大草原生态系统为各种各样的鸟类提供了栖息地，沙漠地区里生活着许多珍稀动物，如沙鼠、跳鼠和斑纹臭鼬，而山区地带则是一些世界濒危动物的避难所，比如雪豹、高山山羊（盘羊）和亚洲野生山羊。"
+        },
+        "full": "The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of Central Asia. It takes its name from Uvs Nuur Lake, a large, shallow and very saline lake, important for migrating birds, waterfowl and seabirds. The site is made up of twelve protected areas representing the major biomes of eastern Eurasia. The steppe ecosystem supports a rich diversity of birds and the desert is home to a number of rare gerbil, jerboas and the marbled polecat. The mountains are an important refuge for the globally endangered snow leopard, mountain sheep (argali) and the Asiatic ibex.",
+        "justification": "Brief synthesis Shared by Mongolia and the Republic of Tuva in the Russian Federation, Uvs Nuur Basin is a transnational World Heritage property in the heart of Asia. The serial property comprises seven components in Mongolia and five in the Republic of Tuva, clustered around the shallow and highly saline Lake Uvs Nuur. Some components are contiguous with each other across the international border, while others are distinct units. Inscribed in 2003 on the World Heritage List, the total surface area is close to 898,064 ha, of which 87,830 ha belong to the cluster in the Russian Federation, with 810,234 ha belonging to the Mongolian cluster. The central Uvs Nuur Strictly Protected Area in Mongolia covers almost half of the surface area of the entire property. While no buffer zones were formally recognized during the inscription of the property for its components on the Mongolian side, five of the seven components within the Russian Federation have buffer zones, totalling 170,790 ha. The ancient lake basin and its surroundings boast an extraordinary landscape diversity ranging from cold desert to desert-steppe and steppe, conifer, deciduous and floodplain forests to diverse wetlands and marshlands, freshwater and saltwater systems, mobile and fixed sand dunes and even tundra. The property includes peaks up to some 4000 m.a.s.l., towering high above Lake Uvs Nuur at around 800 m.a.s.l. The property contains remnant glaciers from Pleistocene ice sheets and numerous glacial lakes, and is of particular scientific significance for studying the evolution from the Ice Age to present-day conditions. Reflecting the landscape diversity, there is a rich species diversity which includes locally endemic plants and endangered species like the snow leopard. The entire basin has never been subjected to large-scale resource exploitation and has a longstanding and ongoing history of mobile pastoralism. The historical, cultural and spiritual importance of the landscape and many of its features are reflected in countless artefacts and archaeological sites and in the contemporary life, knowledge, resource use, songs and legends of local and indigenous communities. Criterion (ix): The remote and enclosed salt lake system of Uvs Nuur with its high degree of naturalness is of international scientific importance due to its large-scale undisturbed climatic, hydrological and ecological processes and phenomena. Because of the relatively stable past and contemporary pastoral use of the grasslands and the absence of conversion or major human impacts over thousands of years, it constitutes a unique field site for a great variety of subjects, including research into the ongoing development of Uvs Nuur and other smaller lakes within the basin, and the still intact processes of long term lake salinisation and eutrophication. In addition to important past and current research efforts on both sides of the border and in recognition of its unique geophysical and biological characteristics, the Uvs Nuur Basin has also been selected as a field site for the International Geosphere-Biosphere Programme (IGPB), a global effort to monitor and understand global change. Criterion (x): The serial property conserves the most valuable areas representing the much larger Uvs Nuur Basin, across an enormous range of ecosystems and habitats, including along a major altitudinal gradient. The diversity represents the major biomes of Central Asia with a corresponding floral and faunal diversity. There are important areas of different forest types and highly specialized vegetation in high altitudes, tundra systems and dry land ecosystems, including species and communities adapted to saline conditions. The more than 550 higher plants include relict species and a number of plants endemic to Mongolia and the Tuva Republic, with five species endemic to the lake basin. The various ecosystems support a rich faunal diversity, such as the argali sheep, Siberian ibex, Pallas's cat and the elusive and globally endangered snow leopard. The numerous rodents are of major ecological importance and include two vulnerable jerboa species and gerbil. The many ecological niches are occupied by an impressive density of breeding raptors. The property is also of major importance for waterfowl, as well as a stepping stone in the bird migration between Siberia and wintering ranges in China and South Asia. Integrity The Uvs Nuur Basin is a naturally diverse and simultaneously distinct landscape unit surrounded by several large and high mountain ranges. To the North, the basin transitions into the Tannu-Ola Range, to the East are the Sangilen and Bolnai Ranges; to the West the Tsagaan Shuvuut and Shapshaskee Ranges constitute natural boundaries, while the Turgen Uul and Hanhohee Ranges are adjacent to the South. All components and the zoning were selected considering biodiversity at all levels, connectivity and overall integrity. There are excellent opportunities to manage the basin at the landscape level across national boundaries of the property protected by the World Heritage Convention. However, it is important to understand the large scale of the basin, of which only a small part is protected and recognized as a World Heritage property. Mobile herders have been coexisting with the diverse flora and fauna in harsh environmental conditions for thousands of years without degrading the productivity, resilience and diversity of the basin. However, under changed and changing macroeconomic and political circumstances, there are concerns about poaching, illegal logging and overgrazing in certain areas of the basin, likely to affect the integrity of the property in the long term. Protection and management requirements The Uvs Nuur Basin transnational World Heritage property is formally protected public land in its entirety in both countries. All components are protected under the highest levels of the national law of both concerned countries, the Laws on Special Protected Areas (1994) and on Buffer Zones (1998) in the case of Mongolia and the Federal Law on Special Protected Areas (1995) in the Russian Federation. This includes the Mongolian Tes River component, the status of which was upgraded in response to the inscription decision by the World Heritage Committee. Much of the land of the contemporary protected areas overlaps with traditionally sacred mountains, lakes, rivers and other revered landscape features. The property is not only an excellent example of cooperation in the conservation of a shared ecosystem across an international boundary but also of cooperation between governmental, scientific and non-governmental institutions. Several bilateral agreements at the level of the responsible ministries and the protected area administrations formally underpin cooperation and joint management planning. Border Protection staff assists in the protection of the property on a permanent basis on both sides of the border. Environmental education and information activities further support the conservation of the property. Building upon existing involvement of local and indigenous communities, it is envisaged to promote the World Heritage property as a model of integrated and sustainable conservation and development. One important entry point is the acknowledgement and revitalization of traditional conservation beliefs. Given the longstanding interaction between livestock, wildlife and vegetation, mobile herding is an integral element of the contemporary ecosystem. However, herding is not sustainable per se, as overgrazing can result in erosion and reduced productivity of the grasslands at the expense of livestock, wildlife and people. As elsewhere in the region, there are signs of mounting pressure on pastures, forests and wildlife, as well as increasing occurrence of fires. The main challenge for the future of the property and the wider Uvs Nuur Basin will be to maintain the balance between use and conservation at the landscape level, including but not limited to the twelve components of the property. The control of illegal activities in the property, such as poaching and illegal logging, requires adequate equipment, staffing, and funding of law enforcement, as well as transboundary cooperation on a permanent basis. Research has an important role to play in terms of better understanding the ecology and cultural heritage of the basin in order to accompany conservation and management."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 898063.5,
+          "square_km": 8980.64,
+          "square_miles": 3634.34,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/25de277d71c0bee177a377388643019c",
+          "filename": "site_0769_0001-500-0-20241030142428.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113336/site_0769_0001.jpg",
+            "https://whc.unesco.org/document/209368/site_0769_0007.jpg",
+            "https://whc.unesco.org/document/209369/site_0769_0008.jpg",
+            "https://whc.unesco.org/document/209370/site_0769_0009.jpg",
+            "https://whc.unesco.org/document/209371/site_0769_0010.jpg",
+            "https://whc.unesco.org/document/209372/site_0769_0011.jpg",
+            "https://whc.unesco.org/document/209373/site_0769_0012.jpg",
+            "https://whc.unesco.org/document/209374/site_0769_0013.jpg",
+            "https://whc.unesco.org/document/209375/site_0769_0014.jpg",
+            "https://whc.unesco.org/document/209376/site_0769_0015.jpg",
+            "https://whc.unesco.org/document/209377/site_0769_0016.jpg",
+            "https://whc.unesco.org/document/209378/site_0769_0017.jpg",
+            "https://whc.unesco.org/document/209379/site_0769_0018.jpg",
+            "https://whc.unesco.org/document/113338/site_0769_0002.jpg",
+            "https://whc.unesco.org/document/113340/site_0769_0003.jpg",
+            "https://whc.unesco.org/document/113342/site_0769_0004.jpg",
+            "https://whc.unesco.org/document/113343/site_0769_0005.jpg",
+            "https://whc.unesco.org/document/113345/site_0769_0006.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 12,
+        "locations": [
+          {
+            "name": "Ular",
+            "ref": "769-007",
+            "latitude": 50.5333333333,
+            "longitude": 95.6333333333
+          },
+          {
+            "name": "Turgen",
+            "ref": "769-009",
+            "latitude": 49.7666666667,
+            "longitude": 91.3666666667
+          },
+          {
+            "name": "Ubsu-Nur",
+            "ref": "769-002",
+            "latitude": 50.6166666667,
+            "longitude": 93.1333333333
+          },
+          {
+            "name": "Jamaalyg",
+            "ref": "769-005",
+            "latitude": 50.25,
+            "longitude": 94.75
+          },
+          {
+            "name": "Uvs Lake",
+            "ref": "769-010",
+            "latitude": 50.3333333333,
+            "longitude": 92.8833333333
+          },
+          {
+            "name": "Altan els",
+            "ref": "769-011",
+            "latitude": 49.8333333333,
+            "longitude": 95.0
+          },
+          {
+            "name": "Tes River",
+            "ref": "769-012",
+            "latitude": 50.535529,
+            "longitude": 93.547127
+          },
+          {
+            "name": "Aryskannyg",
+            "ref": "769-004",
+            "latitude": 50.6666666667,
+            "longitude": 94.7333333333
+          },
+          {
+            "name": "Tsugeer els",
+            "ref": "769-006",
+            "latitude": 50.0833333333,
+            "longitude": 95.25
+          },
+          {
+            "name": "Mongun Taiga",
+            "ref": "769-001",
+            "latitude": 50.2,
+            "longitude": 90.2
+          },
+          {
+            "name": "Oroku-Shinaa",
+            "ref": "769-003",
+            "latitude": 50.6166666667,
+            "longitude": 94.0
+          },
+          {
+            "name": "Tsagan shuvuut",
+            "ref": "769-008",
+            "latitude": 50.3166666667,
+            "longitude": 91.15
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/769",
+        "unesco_documents": "https://whc.unesco.org/en/list/769/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/769/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/769/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Uvs Nuur Basin The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of Central Asia. It takes its name from Uvs Nuur Lake, a large, shallow and very saline lake, important for migrating birds, waterfowl and seabirds. The site is made up of twelve protected areas representing the major biomes of eastern Eurasia. The steppe ecosystem supports a rich diversity of birds and the desert is home to a number of rare gerbil, jerboas and the marbled polecat. The mountains are an important refuge for the globally endangered snow leopard, mountain sheep (argali) and the Asiatic ibex. The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of Central Asia. It takes its name from Uvs Nuur Lake, a large, shallow and very saline lake, important for migrating birds, waterfowl and seabirds. The site is made up of twelve protected areas representing the major biomes of eastern Eurasia. The steppe ecosystem supports a rich diversity of birds and the desert is home to a number of rare gerbil, jerboas and the marbled polecat. The mountains are an important refuge for the globally endangered snow leopard, mountain sheep (argali) and the Asiatic ibex. Mongolia Russia Asia and the Pacific Natural"
+    }
+  ]
+}

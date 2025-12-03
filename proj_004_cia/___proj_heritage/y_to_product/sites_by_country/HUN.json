@@ -1,0 +1,1521 @@
+{
+  "country": {
+    "code": "HUN",
+    "name": "Hungary"
+  },
+  "total_sites": 8,
+  "sites_by_category": {
+    "Cultural": 7,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "tokaj_wine_region_historic_cultural_landscape",
+      "uuid": "0b21214a-88f9-50b8-aefb-11fffe1d9284",
+      "unesco_id": "1063",
+      "names": {
+        "en": "Tokaj Wine Region Historic Cultural Landscape",
+        "fr": "Paysage culturel historique de la région viticole de Tokaj",
+        "es": "Paisaje cultural histórico de la región vitivinícola de Tokay",
+        "ru": "Исторический культурный ландшафт винодельческого района Токай",
+        "ar": "المشهد الثقافي التاريخي لمنطقة توكاج المختصّة بزراعة الكرمة",
+        "zh": "托卡伊葡萄酒产地历史文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries.",
+          "fr": "Le paysage culturel de Tokaj témoigne de façon vivante de la longue tradition de production viticole dans cette région de collines, rivières et vallées. Ce réseau complexe de vignobles, fermes, villages et petites villes avec son labyrinthe historique de caves à vin, illustre toutes les facettes de la production des fameux vins de Tokaj, dont la qualité et la gestion sont strictement contrôlées depuis presque trois siècles.",
+          "es": "El paisaje cultural de Tokay es un vivo testimonio de la larga tradición vitivinícola de esta región de colinas, ríos y valles. Está configurado por un complejo conjunto de viñedos, casas de labranza, pueblos y aldeas que poseen una red ancestral de bodegas, y es un vivo ejemplo de las distintas facetas de la producción del famoso vino de Tokay, cuya calidad es objeto de un control estricto desde hace tres siglos.",
+          "ru": "Культурный ландшафт Токая служит ярким свидетельством длительной традиции виноделия в этом районе с невысокими холмами и приречными селениями. Хитросплетение виноградников, ферм, сел и небольших городков, вместе с исторически сложившимися системами глубоких винных подвалов, иллюстрирует все аспекты производства знаменитых токайских вин, которые строго соблюдаются в течение уже почти трех столетий.",
+          "ar": "يدلّ المشهد الثقافي لمدينة توكاج بصورة حية على التقليد القديم لإنتاج زراعة الكرمة في هذه المنطقة الغنية بالتلال والأنهار والوديان. وتجسّد هذه الشبكة المعقّدة من الأراضي المزروعة كرمةً والمزارع والقرى والمُدن الصغيرة الغنية بالتيه التاريخي لكهوف النبيذ، كل أوجُه إنتاج نبيذ توكاج الفاخر والمشهور الذي تخضع نوعيته وإدارته لمراقبة شديدة منذ أكثر من ثلاثة قرون.",
+          "zh": "托卡伊葡萄酒产地历史文化景观生动地表现了该地区低山河谷地带历史悠久的葡萄酒酿造传统。葡萄园体系繁杂庞大，包括葡萄园、农场、村庄、小城镇，还有历史遗留下来的网络般的地下酒窖，显示了著名的托卡伊葡萄酒的每个酿造过程，近三个世纪以来其质量和生产都受到严格的管理和控制。"
+        },
+        "full": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries.",
+        "justification": "Brief synthesis Located at the foothills of the Zemplén Mountains (in North-East Hungary), along the Bodrog river and at the confluence of the Bodrog and the Tisza Rivers, the Tokaj Wine Region Historic Cultural Landscape was inscribed on the World Heritage List in 2002. The World Heritage property and its buffer zone together cover the administrative area of 27 settlements (13,245 ha and 74,879 ha, so 88,124 ha in total). The entire landscape, its organisation and its character are specially shaped in interaction with the millennial and still living tradition of wine production. Documented history of the wine region since 1561 attests that grape cultivation as well as the making of the ‘aszú’ wine has been permanent for centuries in the area surrounded by the three Sátor-hegy (the Tokaj-hill, the Sátor – hill of Abaújszántó, and the Sátor-hill of Sátoraljaújhely). The legal base of delimitation of the wine region is among the first in the world and dates back to 1737 when the decree of Emperor Charles VI (Charles III, King of Hungary) established the area as a closed wine region. The unique combination of topographic, environmental and climatic conditions of the Tokaj Wine Region, with its volcanic slopes, wetlands creating a special microclimate that favours the apparition of the “noble rote” (Botrytis cinerea), as well as the surrounding oak-woods have long been recognized as outstandingly favourable for grape cultivation and specialized wine production. All these features have enabled the development of vineyards, farms, villages, small towns and historic networks of wine cellars carved by hand into mostly volcanic rocks, which are the most characteristic structures in Tokaj: that of King Kalman in Tarcal is known to have been in existence as early as 1110. There are two basic types of cellar in Tokaj: the vaulted and the excavated. The socio-cultural, ethnic and religious diversity of the inhabitants, together with the special fame of the Tokaji Aszú Wine has contributed to the rich and diverse cultural heritage of the region. Criterion (iii): The Tokaj wine region represents a distinct viticultural tradition that has existed for at least a thousand years and which has survived intact up to the present. Criterion (v): The entire landscape of the Tokaj wine region, including both vineyards and long established settlements, vividly illustrates the specialized form of traditional land use that it represents. Integrity The attributes of the Outstanding Universal Value of the property are sufficiently intact. These include environmental conditions (geology, morphology, hydrology and climate) favourable for specialized vine- growing, historic vineyards /terroirs, long established settlements and their network, rich cultural heritage reflecting ethnic diversity, diverse types of cellars and a great diversity of other buildings contributing to the character of the landscape and related to vine-growing and wine production (e.g. terraces, built stone walls and hedges, reservoirs). The property embraces most of the attributes necessary to express the Outstanding Universal Value. However, the relationship between the property and its buffer zone needs further review as well as the external boundaries of the buffer zone. Within the context of changing economic demands, the continuity of traditional land use is sustained. In the long term, disappearance of wetlands and the expansion of built-in areas as well as climate change should be considered as potential threats. Authenticity Concerning the built structures, frequent military incursions and fires have resulted over the centuries in the destruction and rebuilding or reconstruction of a substantial proportion of the historic buildings. However, scrupulous respect for international standards in conservation and restoration, in conformity with the Venice Charter, have ensured that over the past half-century, the level of authenticity in the surviving historic buildings fully conforms with the requirements of the Operational Guidelines. The historic settlements have also conserved their basic urban layouts as well as their interconnection, both with each other and with the landscape. Wine has been produced in the Tokaj region and vineyards have been worked here for more than 1000 years. The resulting landscape, with its towns and villages serving the productions of the famous Tokaji Aszú wines, has not changed in its overall appearance throughout that period. Protection and management requirements Since 15 February 2012, the entire World Heritage property with its buffer zone is legally protected as a ‘historic landscape’ under the Act on the Protection of Cultural Heritage, thus significant interventions affecting the property and its buffer zone must follow the expert advice of the Government’s County District Construction and Heritage Protection Agency. The purpose of this territorial protection is to preserve the historic buildings and the natural environment, to sustain traditional land use, as well as to ensure the sustainable management of the Outstanding Universal Value of the property. 61% of this historic landscape belongs to the Natura 2000 network, hence enjoys EU-level protection as a natural site of community importance. A great number of historic monuments within the property and its buffer zone are also individually protected. Furthermore, there are several nationally protected natural areas fully or partly within the property and its buffer zone. The historically diverse ownership of the property (ranging from private individuals owning small vineyards to local authorities, Churches, the State and private companies possessing large estates) is part of the attributes of the property and is at the same time a serious challenge for management. Based on the national World Heritage Act of 2011, a new management plan will enter intoforce as a governmental decree and will be reviewed at least every seven years. A Regional Architectural and Planning Jury, composed of territorially competent State Chief Architect and members appointed by him/her, will assist in the realization of high quality developments adapted to the values of the property. Based on the World Heritage Act, the appointment of a management body by the Minister responsible for culture is under way. The new management plan and the management body will provide transparent governance arrangements with clear responsibilities, where the different interests can manifest themselves and where the institutional framework and methods for the cooperation of the different stakeholders are available. Based on the World Heritage Act, the state of conservation of the property, as well as threats and preservation measures, will be regularly monitored and reported to the National Assembly. The overall aim of the management is to maintain and enhance the environmental, social as well as economic conditions for viticulture, wine production and related sectors that have always been the economic engines of the region. The living cultural landscape must remain an asset for the benefit of the sustainable development of local communities. Once the Management Plan is approved and finalised, the revision of the boundaries of the property and its buffer zone shall be considered, in order to enhance the integrity and the appropriate protection of the property. The revision of the boundaries must bear in mind the challenges posed by the transformation of wetlands, the expansion of built-in areas and global environmental challenges such as climate change. Special attention should be paid to the impact of mines, quarries and other mineral exploitation industries. It is important to carry out a comprehensive conditions review and impact assessment on the effect of mines on the Outstanding Universal Value of the property. A careful and strategic approach has to be followed concerning traffic management, road constructions and improvements. Transboundary extension of the buffer zone is to be considered with reference to World Heritage Committee decisions and based on the excellent cooperation of the Hungarian and Slovak authorities of cultural heritage."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 13255,
+          "square_km": 132.55,
+          "square_miles": 53.641,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2002,
+          "all_dates": [
+            2002
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2002,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5d94eb6477d8cdbe365a2e557a2cf29e",
+          "filename": "site_1063_0004-500-0-20241029112921.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/131036/site_1063_0004.jpg",
+            "https://whc.unesco.org/document/209264/site_1063_0017.jpg",
+            "https://whc.unesco.org/document/209265/site_1063_0018.jpg",
+            "https://whc.unesco.org/document/209266/site_1063_0019.jpg",
+            "https://whc.unesco.org/document/209267/site_1063_0020.jpg",
+            "https://whc.unesco.org/document/131033/site_1063_0001.jpg",
+            "https://whc.unesco.org/document/131034/site_1063_0002.jpg",
+            "https://whc.unesco.org/document/131035/site_1063_0003.jpg",
+            "https://whc.unesco.org/document/131037/site_1063_0005.jpg",
+            "https://whc.unesco.org/document/131038/site_1063_0006.jpg",
+            "https://whc.unesco.org/document/159205/site_1063_0007.jpg",
+            "https://whc.unesco.org/document/159206/site_1063_0008.jpg",
+            "https://whc.unesco.org/document/159207/site_1063_0009.jpg",
+            "https://whc.unesco.org/document/159208/site_1063_0010.jpg",
+            "https://whc.unesco.org/document/159209/site_1063_0011.jpg",
+            "https://whc.unesco.org/document/159210/site_1063_0012.jpg",
+            "https://whc.unesco.org/document/159211/site_1063_0013.jpg",
+            "https://whc.unesco.org/document/159212/site_1063_0014.jpg",
+            "https://whc.unesco.org/document/159213/site_1063_0015.jpg",
+            "https://whc.unesco.org/document/159214/site_1063_0016.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Oremus Cellars",
+            "ref": "1063-006",
+            "latitude": 48.2666666667,
+            "longitude": 21.45
+          },
+          {
+            "name": "Koporosi Cellars",
+            "ref": "1063-004",
+            "latitude": 48.3397222222,
+            "longitude": 21.5566666667
+          },
+          {
+            "name": "Tokaj Wine Region",
+            "ref": "1063-001",
+            "latitude": 48.15,
+            "longitude": 21.35
+          },
+          {
+            "name": "Gomboshegyi Cellars",
+            "ref": "1063-005",
+            "latitude": 48.3305555556,
+            "longitude": 21.5605555556
+          },
+          {
+            "name": "Ungvári Wine Cellar",
+            "ref": "1063-002",
+            "latitude": 48.3925,
+            "longitude": 21.6736111111
+          },
+          {
+            "name": "Rákóczi Wine Cellar",
+            "ref": "1063-003",
+            "latitude": 48.3208333333,
+            "longitude": 21.5777777778
+          },
+          {
+            "name": "Tolcsva Wine Museum Cellars",
+            "ref": "1063-007",
+            "latitude": 48.2666666667,
+            "longitude": 21.45
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1063",
+        "unesco_documents": "https://whc.unesco.org/en/list/1063/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1063/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1063/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 23,
+        "inscription_year": 2002
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Tokaj Wine Region Historic Cultural Landscape The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries. The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries. Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "ferto_neusiedlersee_cultural_landscape",
+      "uuid": "572b34c6-8c15-5f57-915a-c0fa000bc879",
+      "unesco_id": "772",
+      "names": {
+        "en": "Fertö / Neusiedlersee Cultural Landscape",
+        "fr": "Paysage culturel de Fertö / Neusiedlersee",
+        "es": "Paisaje cultural de Fertö/Neusiedlersee",
+        "ru": "Культурный ландшафт Фертё – Нойзидлер-Зе",
+        "ar": "المشهد الثقافي فيرتو/نيوزدليرسي",
+        "zh": "新锡德尔湖与费尔特湖地区文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest.",
+          "fr": "Carrefour culturel depuis huit millénaires comme en atteste la variété de son paysage, le paysage culturel de Fertö/Neusiedlersee est né d’un processus évolutif et symbiotique d’interaction entre l’homme et son environnement physique. La remarquable architecture rurale des villages du pourtour du lac et plusieurs palais datant des XVIIIe et XIXe siècles ajoutent au grand intérêt culturel de ce site.",
+          "es": "Encrucijada distintas culturas durante ocho milenios como lo demuestra su variedad, el paisaje de la región del lago Fertí¶-Neusiedlersee es producto de un proceso evolutivo y simbiótico de interacción del ser humano y su entorno fí­sico. La excepcional arquitectura rural de las aldeas que bordean las riberas del lago y la majestuosidad de varios palacios de los siglos XVIII y XIX, aumentan el interés cultural de este sitio.",
+          "ru": "Озерный район Фертё – Нойзидлер-Зе на протяжении 8 тыс. лет был местом соприкосновения различных культур. Это ярко проявляется в разнообразии местного ландшафта, сформировавшегося в результате длительного взаимодействия человека с природой. Культурная значимость этого района возрастает, благодаря замечательной сельской архитектуре деревень, расположенных вокруг озера, и наличию нескольких дворцов XVIII-XIX вв.",
+          "ar": "إنه ملتقى لثقافات متنوعة يرقى إلى ثمانية آلاف سنة كما يدل على ذلك تنوع مناظره، المشهد الثقافي فيرتو/ نيوزدليرسي، ولد بفعل سيرورة متطورة ومتناغمة للتفاعل بين الإنسان ومحيطه الطبيعي. وما الهندسة المعمارية للقرى المحيطة بالبحيرة والقصور التي ترقى إلى القرنين الثامن عشر والتاسع عشر إلا لتعطي قيمة ثقافية كبرى لهذا الموقع.",
+          "zh": "新锡德尔湖与费尔特湖地区八千年以来一直是多种文化的汇集地，其风格迥异的景观生动地体现了这一点，也是人类活动和自然环境相互作用的结果。湖区周围奇异的乡村建筑和几座18和19世纪的宫殿为该地区增添了浓厚的文化色彩。"
+        },
+        "full": "The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest.",
+        "justification": "Brief synthesis Fertő/Neusiedlersee Cultural Landscape incorporates the westernmost steppe lake in Eurasia. This is an area of outstanding natural values and landscape diversity created and sustained by the encounter of different landscape types. It is situated in the cross-section of different geographical flora and fauna zones as well as wetlands, and is characterised by sub-Alpine mountains, sub-Mediterranean hills, alkaline lakes that dry out from time to time, saline soils, reeds, and shoreline plains. This area, a valuable biosphere reserve and gene bank, is home to a rich diversity of flora and fauna and has been shaped harmoniously for eight millennia by different human groups and ethnically diverse populations. The present character of the landscape is the result of millennia-old land-use forms based on stock raising and viticulture to an extent not found in other European lake areas. This interaction is also manifested in the several-century-long continuity of its urban and architectural traditions and the diverse traditional uses of the land and the lake. The Fertö/Neusiedlersee Lake is surrounded by an inner ring of sixteen settlements and an outer ring of twenty other settlements. Two broad periods may be discerned: from around 6000 BC until the establishment of the Hungarian state in the 11th century AD, and from the 11th century until the present. From the 7th century BC the lake shore was densely populated, initially by people of the early Iron Age Hallstatt culture and by late prehistoric and Roman times’ cultures. In the fields of almost every village around the lake there are remains of Roman villas. The basis of the current network of towns and villages was formed in the 12th and 13th centuries, their markets flourishing from 1277 onwards. The mid-13th century Tatar invasion left this area unharmed, and it enjoyed uninterrupted development throughout medieval times until the Turkish conquest in the late 16th century. The economic basis throughout was the export of animals and wine. The historic centre of the medieval free town of Rust in particular prospered from the wine trade. Rust constitutes an outstanding example of a traditional human settlement representative of the area. The town exhibits the special building mode of a society and culture within which the lifestyles of townspeople and farmers form an entity. Its refortification in the early 16th century marked the beginning of a phase of construction in the area, first with fortifications and then, during the 17th-19th centuries, with the erection and adaptation of domestic buildings. The remarkable rural architecture of the villages surrounding the lake and several 18th-and 19th-century palaces add to the area's considerable cultural interest. The palace of the township of Nagycenk, the Fertöd Palace, the Széchenyi Palace and the Fertöd Esterházy Palace are also exceptional cultural testimonies. Despite the fact that it is a transboundary property, located on the territory of two states, Austria and Hungary, it has formed a socio-economic and cultural unit for centuries, which is outstanding in terms of its rich archaeological heritage created by consecutive civilisations, its rich stock of historical monuments reflecting ethnic diversity, and the elements of its rich ethnographic, geological and mining heritage. Criterion (v): The Fertő/Neusiedlersee has been the meeting place of different cultures for eight millennia, and this is graphically demonstrated by its varied landscape, the result of an evolutionary and symbiotic process of human interaction with the physical environment. Integrity The inscribed property, located on the Austrian-Hungarian border, is not only characterised by diversity but it has also maintained, in terms of both natural and cultural aspects, its landscape, its socio-economic and cultural features, as well as its land-use forms, the several century-long continuity of its viticulture and stock-raising, and the rich characteristics of settlement architecture and structure related to land-use. The integrity of the property is based on geological, hydrological, geo-morphological, climatic, ecological as well as regional and cultural historical characteristics. The landscape of the Fertő/Neusiedlersee has advantageous natural and climatic conditions, which have made it suitable for agricultural cultivation and stock-raising for thousands of years. The water, the reed-beds, the saline fields, alkaline lakes and their remains, the row of hills enclosing the lake from the west with forests and vineyards on top, represent not only natural-geographical component features, but also hundreds of years of identical uses of the land and the lake, making the area a unique example of humans living in harmony with nature. Among the world's saline lakes, the Fertő/Neusiedlersee area is unique in terms of the organic, ancient, diverse and still living human-ecological relationship characterising the lake and society. The characteristic human-made elements of the cultural landscape include the traditional, partly rural architectural character of the settlements around the lake, the settlements' structure, the unity of the homogeneously arranged buildings on squares and streets, and several 18th and 19th century palaces in their landscape settings. The several-century-long viticulture, viniculture and reed management contribute to the continuity of land-use as well as to the continuous use of traditional building materials. Much of the value of the area lies in its genuinely unchanging qualities of the way of life, the preservation of vernacular architecture and a landscape based upon a traditional and sustainable exploitation of a limited range of resources. Though tourism is both a change and a catalyst thereof, associated development and insertion of the intrusively modern construction will need to be controlled. Maintaining these characteristics and the conditions of integrity will entail the development and enforcement of guidelines and zoning regulations to ensure that new development does not occur on open land and that it respects the form and scale of traditional buildings. Authenticity The overall landscape and scale as well as the internal structure and rural architecture of the towns and villages bear witness to an agricultural land-use and way of life uninterrupted since medieval times. The settlement pattern and occupation of several present-day village sites date to Roman times and earlier. Buildings, walls and vistas have been preserved in many places as well as the ratio of built-in areas. Authenticity is also supported by the continued use of local building materials (limestone, reed and wood). A varied ownership pattern is exemplified by the remarkable rural architecture of the very small villages and by the Fertőd Esterhazy and Nagycenk Széchenyi Palaces, outstanding examples of the landed aristocracy’s architecture of the 18th and 19th centuries. The Leitha limestone, found near the lake and quarried from Roman times until the mid-20th century, provided building stone to Sopron and Vienna as well as to local settlements. Protection and management requirements The property has been a nature and landscape protection area since 1977, and the protection area has been classified as a reserve under the Ramsar Convention since 1983. The Fertő/Neusiedlersee is also a MAB Biosphere Reserve. In Austria, Neusiedler See-Seewinkel National Park (1993) is within the Ramsar area. The southern (Hungarian) end of the property has been a landscape protection area since 1977 and it became the Fertő-Hanság National Park in 1991; furthermore, parts of the property also belong to the Natura 2000 network. Cultural property, including outstanding monuments and groups of buildings and objects, is protected in Austria by the Austrian Monument Protection Act 1923 (consequently amended several times) and in Hungary by the Act of 2001/LXIV on the Protection of Cultural Heritage. The entire historic centre of the free town of Rust (Austria) and Fertőrákos (Hungary) are under historic area protection. Nature is protected by law on provincial level in Austria. Land ownership is complex: in the Austrian part less than 1% lies with the State, the bulk belonging to private owners and communities. In the Hungarian part within the Fertő-Hanság National Park, the State owns 86% of the land, with other owners in the property being the local governments, the Church and private individuals. A detailed zoning plan for the Austrian part of the property has already been approved. A management plan for the whole property has been developed and its implementation is supported by the joint Management Forum. The Plan has advisory status and plays a strategic guiding and influencing role but is not generally compulsory. Control and monitoring functions are also exerted through the democratic participation and decision-making processes of the public. For conserving the existing cultural properties on both sides of the frontier, responsibilities are shared by federal, provincial and local levels. On the Hungarian part, the review of the Management Plan, based on the Act on World Heritage, will provide detailed regulations that may include zoning arrangements. The Regional World Heritage Architectural Planning Jury assists in the realization of high-quality developments adapted to the values of the property. The Fertőtáj World Heritage Hungarian Council Association is the management body of the Hungarian part of the World Heritage property. In Austria the combined effects of the Monument Protection Act and village renewal regulation within a tourist context encourage sustainable tourism. One of the management challenges consists in the balanced and sustainable development of the transboundary property through harmonising management plans. Short-term tasks include the protection of important views, bearing in mind long-distance visibility due to flat-land characteristics of the wider setting, and in face of development pressures (high-rise buildings, wind turbines, etc.) in the broader setting of the property. Tools to achieve this are planning regulations and World Heritage Planning Juries. Mid-term tasks include maintaining traditional land-use forms and activities adapted to the requirements of contemporary context: safeguarding the structure, architectural character and extension of the settlements, as well as, increasing the local economy's population retaining capacity. One of the means to attain the latter objectives is sustainable tourism, which needs to be managed in subordination to the interests of the preservation of heritage values. Another challenge consists in mitigating the impact of climate change on the built and natural environment (e.g. the extreme changes in the water level of Fertő/Neusiedlersee)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 68369,
+          "square_km": 683.69,
+          "square_miles": 276.68,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/8ff0f7a72791e96c8bea32e5e0106c04",
+          "filename": "site_0772_0014-500-0-20241028180226.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209236/site_0772_0014.jpg",
+            "https://whc.unesco.org/document/209237/site_0772_0015.jpg",
+            "https://whc.unesco.org/document/209238/site_0772_0016.jpg",
+            "https://whc.unesco.org/document/209239/site_0772_0017.jpg",
+            "https://whc.unesco.org/document/209240/site_0772_0018.jpg",
+            "https://whc.unesco.org/document/209241/site_0772_0019.jpg",
+            "https://whc.unesco.org/document/113382/site_0772_0001.jpg",
+            "https://whc.unesco.org/document/121890/site_0772_0002.jpg",
+            "https://whc.unesco.org/document/121891/site_0772_0003.jpg",
+            "https://whc.unesco.org/document/121893/site_0772_0005.jpg",
+            "https://whc.unesco.org/document/121894/site_0772_0006.jpg",
+            "https://whc.unesco.org/document/121895/site_0772_0007.jpg",
+            "https://whc.unesco.org/document/148264/site_0772_0008.jpg",
+            "https://whc.unesco.org/document/148265/site_0772_0009.jpg",
+            "https://whc.unesco.org/document/148266/site_0772_0010.jpg",
+            "https://whc.unesco.org/document/148267/site_0772_0011.jpg",
+            "https://whc.unesco.org/document/148268/site_0772_0012.jpg",
+            "https://whc.unesco.org/document/148269/site_0772_0013.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Fertö / Neusiedlersee Cultural Landscape",
+            "ref": "772rev",
+            "latitude": 47.71927778,
+            "longitude": 16.72272222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/772",
+        "unesco_documents": "https://whc.unesco.org/en/list/772/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/772/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/772/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fertö / Neusiedlersee Cultural Landscape The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest. The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest. Austria Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "millenary_benedictine_abbey_of_pannonhalma_and_its_natural_environment",
+      "uuid": "d5d29e46-a765-5836-b563-3ba5977e6331",
+      "unesco_id": "758",
+      "names": {
+        "en": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+        "fr": "Abbaye bénédictine millénaire de Pannonhalma et son environnement naturel",
+        "es": "Abadía milenaria benedictina de Pannonhalma y su entorno natural",
+        "ru": "Тысячелетний бенедиктинский монастырь в Паннонхальме и его природные окрестности",
+        "ar": "دير بانونهالما الألفي ومحيطه الطبيعي",
+        "zh": "潘诺恩哈尔姆千年修道院及其自然环境"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community.",
+          "fr": "Les premiers moines bénédictins installés ici en 996 évangélisèrent les Hongrois, fondèrent la première école magyare et rédigèrent, en 1055, le premier texte en hongrois. Depuis sa fondation, cette communauté monastique ne cessa d'assurer la diffusion de la culture en Europe centrale. Son histoire millénaire se lit dans la succession des styles architecturaux des bâtiments monastiques, le plus ancien datant de 1224, qui accueillent aujourd'hui encore une école et la communauté des moines.",
+          "es": "En el año 996 se establecieron en este sitio los primeros monjes benedictinos, que evangelizaron a los húngaros, fundaron la primera escuela del país y escribieron el primer texto en lengua magiar (1055). Desde su fundación, la comunidad monástica se dedicó sin descanso a la difusión de la cultura en Europa Central. La historia milenaria del monasterio se puede leer en la sucesión de estilos arquitectónicos de sus edificios, que hoy en día siguen albergando a la comunidad religiosa, así como una escuela. El edificio más antiguo de los existentes data de 1224.",
+          "ru": "Монахи-бенедиктинцы обосновались здесь в 996 г. Они прибыли для крещения венгров, основали первую в этой стране школу и написали в 1055 г. первые документы на венгерском языке. С момента своего основания эта монашеская община распространяла культуру в центре Европы. Ее тысячелетняя история иллюстрируется последовательной сменой архитектурных стилей зданий монастыря (старейшее из них относится к 1224 г.), где и в наши дни находятся школа и монашеская община.",
+          "ar": "عمل أول رهبان البركة (بندكتيون) سكنوا في هذا المكان عام 996 على تبشير المجريين وتأسيس أول مدرسة مجرية، وكتبوا عام 1055 أول نص باللغة المجرية. ولم يتوقّف هذا المجتمع الرهباني منذ تأسيسه عن تحقيق انتشار الثقافة في أوروبا الوسطى. ويمكن قراءة تاريخه في تعاقب تصاميم المباني الرهبانية الهندسية التي يعود أقدمها لعام 1224، ولا تزال تضمّ هذه المباني اليوم مدرسةً ومجتمع النساك.",
+          "zh": "这里的第一座修道院建于996年，为了教化匈牙利人，又建立了第一所国家学校，且在1055年，撰写了第一份匈牙利文档案。自创建之日起，这个修士团体便促进了中欧文化的发展。它1000年的历史可以从修道院建筑风格的连续性看出来（最后的建筑于1224年完成），今天它仍然是学校和修士团体的屋宇。"
+        },
+        "full": "The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community.",
+        "justification": "Brief synthesis The monastery of the Benedictine Order at Pannonhalma, founded in 996 and gently dominating the Pannonian landscape in western Hungary, had a major role in the diffusion of Christianity in medieval Central Europe. The Archabbey of Pannonhalma and its environment (the monastic complex, the Basilica, educational buildings, the Chapel of Our Lady, the Millennium Chapel, the botanical and herbal gardens) outstandingly exemplifies the characteristic location, landscape connections, original structure, design and a thousand year history of a Benedictine monastery. The community of monks still functions today on the basis of the Rule of St. Benedict, and sustains with a unique continuity one of the living centres of European culture. The present church, the building of which began in 1224, is the third on the site; it contains remains of its predecessors. The elevated three-aisled choir, the oldest part of the building, overlies a similarly three-aisled crypt, probably an element of the earlier church on the site. The main south door, known as the Porta Speciosa, is faced with red marble and flanked by five pairs of columns. It has undergone several transformations and reconstructions since it was originally built in the 13th century. This door gives access to the Cloister, a typical square Late Gothic ensemble built in 1486. The vaulting springs form consoles that are elaborately decorated with symbolic motifs. The doors and windows were given their present form in the 1880s. Sculptured stones from the Romanesque cloister were found during studies carried out in the 1960s, when the door leading into the medieval refectory, with small red marble columns, also came to light. The large Refectory, the work of the Carmelite Martin Witwer in 1724-27, is an oblong two-storeyed hall. The facade is surmounted by a triangular pediment. The building contains a series of mural paintings by Antonio Fossati. The main Monastery consists of a group of buildings dating from the 13th-15th centuries that were originally single-storey but raised to two storeys in 1912, erected in part over the medieval cloister. They were considerably modified in the earlier 18th century: the vaulted corridor and the row of monastic cells on the east-west wing are exceptional examples of 18th century Hungarian monastic architecture. The Library, on four levels, was built in two stages between 1824 and 1835. The Chapel of our Lady, the building of which began in 1714, is situated at the top of the southern hill. It is single-aisled, 26 m by 10.9 m, rising to 5.58 m in the sanctuary. The nave is barrel-vaulted, and is joined to the sanctuary by a large triumphal arch. Its original Baroque interior was restored in Romantic style in 1865. The Millenary Monument is one of seven erected to commemorate the thousandth anniversary of the conquest of Hungary in 896. It is located at the crest of the central hill, where it replaced the Calvary that is now located in front of the Chapel of our Lady. It consists of a single block, constructed in brick and limestone. The stone portico is formed of a tympanum bearing a symbolic relief, supported on two pairs of Ionic columns. It was originally surmounted by a dome 26 m high on a high drum, but this had to be removed in 1937-38 because of its severe deterioration. The principal elements of the area around the monastic complex are the forest and the botanical garden. The forest, on the eastern slopes of the Pannonhalma landscape, is largely the traditional oak forest of this region. It contains a number of rare and protected floral species and is home to many songbirds. The flora of the botanical garden is composed of two groups: one half forest trees and plants of mixed age, and one half hedgerow and park species, both native and exotic. Both the forest and the botanic garden are seen as illustrating the landscape value of the region as a whole and also to set off the aesthetic values of the man-made element represented by the buildings of the monastery. Criterion (iv): The Monastery of Pannonhalma and its surroundings illustrate in an exceptional manner the characteristic setting, the connections with its environment, the specific structure and the organization of a Christian (Benedictine) monastery that has evolved over a thousand years of continuous use. Criterion (vi): The Benedictine Monastery with its location and the early date of its foundation in 996 bear special witness to the diffusion of Christianity in Central Europe, which is enriched by the continuing presence of the Benedictine monks who have worked towards peace among countries and people for one thousand years. Integrity The attributes that express the Outstanding Universal Value including the whole historic monastic complex (the buildings of the Archabbey, the Basilica, the educational buildings, the Chapel of Our Lady and the Millennium Monument) and its immediate natural surroundings (the Archabbey's botanical garden, the herbal garden, parks and forests) are located within the property. Thus, the monastic complex incorporates all the venues of Benedictine monastic life. Due to its special location, undisturbed views from and to the property in its wider context can only be partially ensured by delimitation. Authenticity The building complex together with its expanding functions has preserved its continuity; over the centuries, particular buildings have undergone many alterations resulting from damage, destruction, or changes in times and style. However, these historic layers, built together in a linear way, ensure authenticity. Restoration and rehabilitation works carried out in several phases in the second half of the 20th century meet international standards of modern and contemporary restoration. The same applies to recent architectural interventions (vineyard, reception building, restaurant, pilgrims’ house and herbal garden). Monastic life is defined by the Rules written by Saint Benedict almost 1500 years ago. The adapted application of these rules is still a current practice in the monastery. The Benedictine motto of ‘Ora et labora!’ (‘Pray and work!’) is still present in the several-hundred-year old traditions of monastic life as well as in one of the most significant activities of Benedictine monks at present, i.e. teaching and educating the youth. Protection and management requirements The property has been legally protected as an area of historic monuments since 1964. The protected area was enlarged in 2005 under the Act on the Protection of Cultural Heritage. The historic buildings also have individual monument protection. The forests surrounding the buildings under monumental protection as well as the Abbey's Botanical garden have been part of the Pannonhalma Landscape Protection Area that belongs to the operational area of the Directorate of the Fertő-Hanság National Park since 1992. Based on the national World Heritage Act of 2011, a new management plan will enter into force as a governmental decree and will be reviewed at least every seven years. The Archabbey acts as the World Heritage management body. Once finalized and approved, the management plan and the management body will provide clear governance arrangements, thus defining responsibilities, making the manifestation of different interests possible and providing the institutional framework and methods for the cooperation of the different stakeholders. Based on the World Heritage Act, the state of the property, as well as threats and preservation measures will be regularly monitored and reported to the National Assembly; the management plan will be reviewed at least every seven years. One of the management challenges consists in ensuring access to the culture and monastic traditions represented by the Archabbey to as many people as possible as well as in presenting the historical, natural and landscape values of the property without disturbing the everyday life of the monks, and without degrading the physical state of the monastic complex or of the natural areas. In order to achieve this, conditions and financial resources (e.g. forest and land ownership) necessary for the autonomous and sustainable functioning and management of the monastery should also remain available in the long run. Long-term management requirements also include the protection of important views in the wider context of the property by appropriate tools (e.g. territorial planning)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 47.4,
+          "square_km": 0.47,
+          "square_miles": 0.192,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4b0ed4e088df2899a3b14996d6de499a",
+          "filename": "site_0758_0012-500-0-20241029114334.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209270/site_0758_0012.jpg",
+            "https://whc.unesco.org/document/113264/site_0758_0001.jpg",
+            "https://whc.unesco.org/document/148248/site_0758_0002.jpg",
+            "https://whc.unesco.org/document/148249/site_0758_0003.jpg",
+            "https://whc.unesco.org/document/148250/site_0758_0004.jpg",
+            "https://whc.unesco.org/document/148251/site_0758_0005.jpg",
+            "https://whc.unesco.org/document/148252/site_0758_0006.jpg",
+            "https://whc.unesco.org/document/148253/site_0758_0007.jpg",
+            "https://whc.unesco.org/document/148254/site_0758_0008.jpg",
+            "https://whc.unesco.org/document/148255/site_0758_0009.jpg",
+            "https://whc.unesco.org/document/148256/site_0758_0010.jpg",
+            "https://whc.unesco.org/document/148257/site_0758_0011.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+            "ref": "758",
+            "latitude": 47.55889,
+            "longitude": 17.78444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/758",
+        "unesco_documents": "https://whc.unesco.org/en/list/758/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/758/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/758/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community. The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community. Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "early_christian_necropolis_of_pecs_sopianae",
+      "uuid": "3387a64f-56d2-5768-b889-c313e8fcd301",
+      "unesco_id": "853",
+      "names": {
+        "en": "Early Christian Necropolis of Pécs (Sopianae)",
+        "fr": "Nécropole paléochrétienne de Pécs (Sopianae)",
+        "es": "Necrópolis paleocristiana de Pécs (Sopianae)",
+        "ru": "Раннехристианское захоронение в городе Печ (древнеримская Сопиана)",
+        "ar": "مقبرة بيك الكبيرة المسيحية القديمة في مدينة سوبيانايي",
+        "zh": "佩奇的早期基督教陵墓"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes.",
+          "fr": "Au IVe siècle, une série remarquable de tombeaux ornés fut érigée dans le cimetière de la ville romaine provinciale de Sopianae (la Pécs moderne). Ces tombeaux sont importants, tant du point de vue structurel qu'architectural, car ils ont été construits sous terre comme des chambres funéraires surmontées de chapelles commémoratives en surface. Ils sont également importants sur le plan artistique dans la mesure où ils sont richement ornés de peintures murales d'une qualité exceptionnelle représentant des thèmes chrétiens.",
+          "es": "En el siglo IV se construyó un excepcional conjunto de tumbas ornamentadas en el cementerio de la ciudad provincial romana de Sopianae (la actual Pécs). Estos sepulcros poseen un gran valor estructural y arquitectónico, porque fueron excavados bajo tierra como cámaras funerarias y encima de ellos se construyeron capillas funerarias. También poseen un valor artístico importante porque están ricamente ornamentados con excelentes pinturas murales de temática cristiana.",
+          "ru": "В IV в. на кладбище древнеримского центра провинции – города Сопиана (современный Печ) - было сооружено несколько богато украшенных гробниц. Подземные склепы и наземные мемориальные часовни выделяются в строительно-техническом и архитектурном отношении. Гробницы также имеют художественное значение, так как богато украшены великолепными настенными изображениями на христианские темы.",
+          "ar": "شُيّدت في القرن الرابع مجموعة مدهشة من الأضرحة المزيّنة في مقبرة مدينة سوبيانايي الرومانية. واتّسمت هذه الأضرحة بأهمية بالغة إن من حيث بنائها أو هندستها لأنها شُيّدت تحت الأرض كغرف جنائزية تقوم على سطحها كنائس تذكارية. وتتخذ هذه الأضرحة أهميةً أخرى من حيث التصميم الفني إذ أنها زُيّنت زينةً غنية برسوم جدرانية ذات نوعية استثنائية تحمل رموزا دينية.",
+          "zh": "公元4世纪，罗马帝国索皮阿瑙埃省（现代的佩奇城）建造了大量带有装饰的基督徒墓地。墓地不仅有地下墓室，而且地面上还有礼拜堂，在结构和建筑方面都具有重要意义。墓室里的装饰以基督为主题，创作精美细腻，这一切使皮阿尼亚基督徒墓地在人类建筑史和艺术史上都占有一席之地。"
+        },
+        "full": "In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes.",
+        "justification": "Brief synthesis In the 4th century A.D. a remarkable series of decorated tombs were constructed in the cemetery in the town of Sopianae, in the Roman Province of Pannonia, the ruins of which survived under the ground and are situated in the current city of Pécs, in South Hungary. The burial chambers, chapels and mausoleum excavated on the site of the Sopianae cemetery form a complex that bears witness to an ancient culture and civilization that had a lasting impact. It is the richest collection of structural types of sepulchral monuments in the northern and western Roman provinces reflecting a diversity of cultural sources. These monuments are important both structurally and architecturally as they were built above ground and served as both burial chambers and memorial chapels. They are also significant in artistic terms because of their richly decorated murals of outstanding quality depicting Christian themes. The Roman cemetery was found by archaeological excavations which began two centuries ago. Subsequent excavations revealed that the early Christian complex of monuments provides exceptional evidence of a historical continuity that spanned the turbulent centuries from the decline of the Roman Empire in the 4th century to the conquest of the Frankish Empire in the 8th century. Sixteen structures constitute the World Heritage property, although the cemetery includes over five hundred more modest graves which cluster around the major monuments. Criterion (iii): The burial chambers and memorial chapels of the Sopianae cemetery bear outstanding testimony to the strength and faith of the Christian communities of the Late Roman Empire. Criterion (iv): The unique Early Christian sepulchral art and architecture of the northern and western Roman provinces is exceptionally well and fully illustrated by the Sopianae cemetery at Pécs. Integrity The property includes a collection of 16 monuments which are part of the Early Christian Necropolis of Sopianae. They have been revealed through archaeological excavations which are ongoing; further delimitation of the property may change as a result of this ongoing research. With regard to the surviving attributes, all of which are under the ground level today, the intactness of the ruins and of their historic interrelations is sustained to the extent possible considering that subsequent urban layers, including the contemporary living city, are sedimented over the property. Authenticity Burial chambers, memorial chapels and other sepulchral remains and fragments excavated since the 18th century have been preserved at their original location following scientific research and restoration, using techniques available at the given time as well as technical solutions available today. Modern interventions necessary to conserve and present the remains are distinguished from original fabric. Protection and management requirements The property and its buffer zone are situated within a Historic Monuments Area declared in 1966. The Roman cemetery is also protected as an archaeological site. At local level, City Government Order No. 40 of 1994 declared the historic centre of the city and the area of the Roman cemetery a historic zone. The city has also passed several other ordinances in relation to the protection of historical and architectural values within the context of city development. Ownership of the sixteen monuments is varied: two belong to the Hungarian State, thirteen to the City of Pécs, and one to Baranya County. Based on National World Heritage Act of 2011 , a new management plan will enter into legal force as a governmental decree and will be reviewed at least every seven years. The management body is the World Heritage Division of Zsolnay Heritage Management Nonprofit Ltd. Once finalized and approved, the Management Plan and the management body will provide clear governance arrangements that involve representatives of different stakeholders. Based on the World Heritage Act , the state of the property, as well as threats and preservation measures will be regularly monitored and reported to the National Assembly; the management plan will be reviewed at least every seven years. Balance has to be kept between the preservation of authenticity and contemporary needs of presentation. In order to ensure increased authenticity of the attributes, modernisation of earlier technical solutions is an on-going management task. Ongoing research within the area of the former Necropolis may provide a base for the extension of the property in the future."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3.76,
+          "square_km": 0.04,
+          "square_miles": 0.015,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5a8f4fb7d5c947a89413c82f6f3c794f",
+          "filename": "site_0853_0002-500-0-20241029110508.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209260/site_0853_0002.jpg",
+            "https://whc.unesco.org/document/209261/site_0853_0003.jpg",
+            "https://whc.unesco.org/document/209262/site_0853_0004.jpg",
+            "https://whc.unesco.org/document/112631/site_0853_0001.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Early Christian Necropolis of Pécs (Sopianae)",
+            "ref": "853rev",
+            "latitude": 46.07444,
+            "longitude": 18.22778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/853",
+        "unesco_documents": "https://whc.unesco.org/en/list/853/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/853/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/853/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Early Christian Necropolis of Pécs (Sopianae) In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes. In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes. Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "caves_of_aggtelek_karst_and_slovak_karst",
+      "uuid": "e31bb8e6-5b4e-5694-b5c0-c77e2748ca1d",
+      "unesco_id": "725",
+      "names": {
+        "en": "Caves of Aggtelek Karst and Slovak Karst",
+        "fr": "Grottes du karst d'Aggtelek et du karst de Slovaquie",
+        "es": "Grutas del karst de Aggtelek y del karst de Eslovaquia",
+        "ru": "Пещерный район Аггтелек – Словацкий карст",
+        "ar": "كهوف ذات طوبوغرافية كارست في قرية أغتليك المجرية وسلوفاكيا",
+        "zh": "阿格泰列克洞穴和斯洛伐克喀斯特地貌"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          },
+          "SVK": {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "iso3": "SVK"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+          "fr": "La variété de leurs formes et leur concentration dans une aire restreinte font des 712 grottes actuellement identifiées un système karstique typique de la zone tempérée. Présentant une combinaison extrêmement rare d'effets climatiques tropicaux et glaciaires, elles permettent d'étudier l'histoire géologique sur plusieurs dizaines de millions d'années.",
+          "es": "Las 712 grutas descubiertas hasta hoy presentan una gran variedad de formas y se concentran en un área reducida, formando un sistema cárstico característico de la zona templada. La extraordinaria conjunción de efectos climáticos tropicales y glaciares que han dejado su huella en estas formaciones posibilita el estudio de un periodo de varias decenas de millones de años de la evolución geológica del planeta.",
+          "ru": "Район карстовых пещер (которых к настоящему времени открыто 712) выделяется многообразием карстовых проявлений и их высокой концентрацией на весьма ограниченной площади. Сочетание природных факторов (климатических, геологических), приведших к образованию пещерной системы, признано уникальным. Изучение пещер позволяет представить геологические события, охватывающие период времени в десятки миллионов лет.",
+          "ar": "إنّ تنوّع أشكال هذه الكهوف، التي يعمل على تعريفها حاليا، والتي يبلغ عددها 712 كهفاً وتجمّعها في مساحة ضيّقة يجعلان منها نظاماً ذا طوبوغرافية بالوعية صخرية خاصة بالمناطق المعتدلة. وتسمح تركيبة هذه التأثيرات المناخية المتضاربة، بين المناخ المداري والمناخ القطبي النادرة للغاية، بدراسة التاريخ الجيولوجي لعشرات ملايين السنين.",
+          "zh": "变化多端的岩层结构以及顺序排列在有限空间内的712个洞穴，为我们描绘出一幅温带喀斯特的神奇景观。作为热带与冰河气候共同作用下的一种极其奇特的组合，该地貌使人们研究几千万年以来的地貌历史成为可能。"
+        },
+        "full": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+        "justification": "Brief synthesis The Caves of Aggtelek Karst and Slovak Karst are outstanding for the large number of complex, diverse and relatively intact caves concentrated into a relatively small area. Located at the north-eastern border of Hungary and the south-eastern border of Slovakia, this exceptional group of 712 caves, recorded at time of inscription, lies under a protected area of 56,651 ha and a larger buffer zone. Today more than 1000 caves are known. Karst processes have produced a rich diversity of structures and habitats that are important from a biological, geological and paleontological point of view. While the karst continues to develop in mountains of medium height and under temperate climate conditions, sediments and fossil landforms provide ample evidence of Late Cretaceous and early Tertiary subtropical and tropical climatic conditions as well as periglacial denudational activity during the Quaternary. Shaped over tens of millions of years, the area provides an excellent demonstration of karst formation during both tropical and glacial climates, which is very unusual and probably better documented here than anywhere else in the world. The most significant cave system in the property is that of Baradla-Domica, a cross-border network richly decorated with stalagmites and stalactites, which is an important active stream cave in the temperate climatic zone and a Ramsar site. Also worth mentioning is the Dobsina Ice Cave, one of the most beautiful in the world. Among the ice-filled caves in the property, the Silica Ice Cave is located at the lowest latitude within the temperate climatic zone. The close proximity of many different types of caves of diverse morphology, including vadose and epiphreatic stream caves, vertical shafts and hypogenic or mixing corrosion caves, as well as important archaeological remains, makes the property an outstanding subterranean museum. Its ecosystems provide habitat for more than 500 troglobiont or troglophil species, including some which are endemic. The interactions between geological karst processes occurring on the surface with those occurring beneath make this area a natural field laboratory. Criteria (viii): The property Caves of Aggtelek and Slovak Karst, while typical of many karst localities in Europe, is distinctive in its great number (with 712 recorded at time of inscription) of different types of caves found in a concentrated area. Geological processes causing karst features to be buried by sediment and then later reactivated or exhumed provide evidence pertaining to the geologic history of the last tens of millions of years. Relicts of pre-Pleistocene karst (i.e. more than about 2 million years old) are very distinct in the area, and many of them show evidence for sub-tropical and tropical climate forms. These include rounded hills that are relicts of tropical karst later modified by Pleistocene periglacial weathering. This suite of paleokarst features, showing a combination of both tropical and glacial climates, is very unusual and is probably better documented in the Slovak Karst than anywhere else in the world. Integrity More than 99% of the Caves of Aggtelek Karst and Slovak Karst is preserved in its original natural condition and is well protected. The other 1% has been substantially modified as “show-caves” to allow human use, which includes 300,000 visitors annually. All of the caves are State-owned and the land above them has protected status. The cave system is exceptionally sensitive to environmental changes, including agricultural pollution, deforestation and soil erosion. Maintenance of the integrity of active geological and hydrological processes (karst formation and the development or evolution of stalagmites and stalactites) requires integrated management of the entire water catchment area. Protection and management requirements All of the caves are State-owned and their protection is guaranteed by the Act no. LIII. 1996 on nature protection in Hungary and by the Slovak Constitution no. 90/2001, and the Act of Nature Protection and Landscape no. 543/2002 in Slovakia, irrespective of ownership or protection status of the surface areas. However, in both countries most of the surface area of the property has National Park designation. Aggtelek Karst is administered by the Aggtelek National Park Directorate and the Slovak Karst is managed by the Slovak Karst National Park Directorate (surface) and Slovak Caves Administration (caves). These administrative bodies carry out joint projects including research, protection and monitoring. The main protection and management requirement is to ensure strict control over surface activities in order to avoid agricultural pollution, deforestation and soil erosion that may affect the quality and quantity of water infiltrating the karst. The property needs to be monitored to ensure that the water quality in the catchment area of the caves is appropriate (including controlling the use of agricultural chemicals) and to prevent large-scale soil erosion and the infiltration of humus and alluvial soil into the caves. This means that the establishment of buffer zones where appropriate, the completion of sewage systems, and the elimination of illegal garbage disposal and building debris in the surrounding settlements are necessary. Levels of sustainable tourism need to be determined with the involvement of local communities, and monitoring systems need to be completed and implemented. Further research and exploration is needed with regard to the interconnection of the karst cave system. Long-term tasks are related to the need to mitigate impacts caused by climate change, such as extreme changes in water levels. The transboundary property requires a harmonised and coordinated management approach in which the management plan is regularly reviewed."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8
+          ],
+          "all": [
+            8
+          ],
+          "display": "(viii)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 56650.57,
+          "square_km": 566.51,
+          "square_miles": 229.257,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1995,
+          "all_dates": [
+            1995,
+            2000
+          ],
+          "extensions": [
+            2000
+          ],
+          "timeline": [
+            {
+              "year": 1995,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2000,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7ee7bba58cc65fe50b38b10ee302a00e",
+          "filename": "site_0725_0001-500-0-20241028164407.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112889/site_0725_0001.jpg",
+            "https://whc.unesco.org/document/209214/site_0725_0044.jpg",
+            "https://whc.unesco.org/document/209215/site_0725_0045.jpg",
+            "https://whc.unesco.org/document/209216/site_0725_0046.jpg",
+            "https://whc.unesco.org/document/209217/site_0725_0047.jpg",
+            "https://whc.unesco.org/document/112891/site_0725_0002.jpg",
+            "https://whc.unesco.org/document/112894/site_0725_0003.jpg",
+            "https://whc.unesco.org/document/112896/site_0725_0004.jpg",
+            "https://whc.unesco.org/document/112904/site_0725_0008.jpg",
+            "https://whc.unesco.org/document/112906/site_0725_0009.jpg",
+            "https://whc.unesco.org/document/112908/site_0725_0010.jpg",
+            "https://whc.unesco.org/document/112910/site_0725_0011.jpg",
+            "https://whc.unesco.org/document/112912/site_0725_0012.jpg",
+            "https://whc.unesco.org/document/112914/site_0725_0013.jpg",
+            "https://whc.unesco.org/document/112916/site_0725_0014.jpg",
+            "https://whc.unesco.org/document/112918/site_0725_0015.jpg",
+            "https://whc.unesco.org/document/131970/site_0725_0016.jpg",
+            "https://whc.unesco.org/document/131971/site_0725_0017.jpg",
+            "https://whc.unesco.org/document/131972/site_0725_0018.jpg",
+            "https://whc.unesco.org/document/131973/site_0725_0019.jpg",
+            "https://whc.unesco.org/document/131974/site_0725_0020.jpg",
+            "https://whc.unesco.org/document/131975/site_0725_0021.jpg",
+            "https://whc.unesco.org/document/148048/site_0725_0022.jpg",
+            "https://whc.unesco.org/document/148049/site_0725_0023.jpg",
+            "https://whc.unesco.org/document/148050/site_0725_0024.jpg",
+            "https://whc.unesco.org/document/148051/site_0725_0025.jpg",
+            "https://whc.unesco.org/document/148052/site_0725_0026.jpg",
+            "https://whc.unesco.org/document/148053/site_0725_0027.jpg",
+            "https://whc.unesco.org/document/148054/site_0725_0028.jpg",
+            "https://whc.unesco.org/document/148055/site_0725_0029.jpg",
+            "https://whc.unesco.org/document/148056/site_0725_0030.jpg",
+            "https://whc.unesco.org/document/148057/site_0725_0031.jpg",
+            "https://whc.unesco.org/document/159193/site_0725_0032.jpg",
+            "https://whc.unesco.org/document/159194/site_0725_0033.jpg",
+            "https://whc.unesco.org/document/159195/site_0725_0034.jpg",
+            "https://whc.unesco.org/document/159196/site_0725_0035.jpg",
+            "https://whc.unesco.org/document/159197/site_0725_0036.jpg",
+            "https://whc.unesco.org/document/159198/site_0725_0037.jpg",
+            "https://whc.unesco.org/document/159199/site_0725_0038.jpg",
+            "https://whc.unesco.org/document/159200/site_0725_0039.jpg",
+            "https://whc.unesco.org/document/159201/site_0725_0040.jpg",
+            "https://whc.unesco.org/document/159202/site_0725_0041.jpg",
+            "https://whc.unesco.org/document/159203/site_0725_0042.jpg",
+            "https://whc.unesco.org/document/159204/site_0725_0043.jpg"
+          ],
+          "count": 44
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Dobšinská Ice Cave",
+            "ref": "725ter-007",
+            "latitude": 48.8766905794,
+            "longitude": 20.3764877633
+          },
+          {
+            "name": "Component of Esztramos Hill",
+            "ref": "725ter-003",
+            "latitude": 48.521581055,
+            "longitude": 20.7520874328
+          },
+          {
+            "name": "Component including Aggtelek",
+            "ref": "725ter-001",
+            "latitude": 48.5086948491,
+            "longitude": 20.5430782895
+          },
+          {
+            "name": "Component of Plešivec plateau",
+            "ref": "725ter-005",
+            "latitude": 48.61160104,
+            "longitude": 20.4334000651
+          },
+          {
+            "name": "Component of Szendrő-Rudabánya Hill",
+            "ref": "725ter-002",
+            "latitude": 48.3632185937,
+            "longitude": 20.6255304505
+          },
+          {
+            "name": "Component neighbouring Silica and Jasov",
+            "ref": "725ter-004",
+            "latitude": 48.5506878081,
+            "longitude": 20.5124439597
+          },
+          {
+            "name": "Component of Koniar plateau (including Ochtinscká Aragonite Cave)",
+            "ref": "725ter-006",
+            "latitude": 48.664624692,
+            "longitude": 20.3092153712
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/725",
+        "unesco_documents": "https://whc.unesco.org/en/list/725/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/725/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/725/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 30,
+        "inscription_year": 1995
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Caves of Aggtelek Karst and Slovak Karst The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years. The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years. Hungary Slovakia Europe and North America Natural"
+    },
+    {
+      "site_key": "budapest_including_the_banks_of_the_danube_the_buda_castle_quarter_and_andrassy_avenue",
+      "uuid": "5af0377c-f151-598d-b235-f5534008001d",
+      "unesco_id": "400",
+      "names": {
+        "en": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+        "fr": "Budapest, avec les rives du Danube, le quartier du château de Buda et l’avenue Andrássy",
+        "es": "Budapest con las orillas del Danubio, el barrio del Castillo de Buda y la Avenida Andrássy",
+        "ru": "Будапешт: берега Дуная, Крепостная гора в Буде и проспект Андрашши",
+        "ar": "بودابست بضفاف نهار الدانوب، وحي قصر بودا وجادة أندراسي",
+        "zh": "布达佩斯（多瑙河两岸、布达城堡区和安德拉什大街）"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital.",
+          "fr": "Conservant des vestiges de monuments ayant exercé une grande influence architecturale à diverses époques, comme ceux de la cité romaine d'Aquincum et le château gothique de Buda, ce site, qui est l'un des plus beaux paysages urbains du monde, illustre les périodes brillantes de l'histoire de la capitale hongroise.",
+          "es": "Este sitio conserva vestigios de monumentos que han ejercido una gran influencia en la arquitectura de diversas épocas, por ejemplo los de la ciudad romana de Aquincul y el castillo gótico de Buda. El paisaje urbano de Budapest es uno de los más bellos del mundo y es sumamente ilustrativo de los periodos de esplendor de la historia de la capital húngara.",
+          "ru": "В этот объект входят такие памятники, как древнеримский город Аквинкум и готический замок в Буде, которые оказали существенное влияние на архитектуру различных исторических эпох. Это один из выдающихся городских ландшафтов мирового значения, иллюстрирующий значительные этапы в истории столицы Венгрии.",
+          "ar": "إنّ هذا الموقع الذي حافظ على آثار قديمة مارست تأثيراً هندسياً كبيراً على حقبات عدّة كآثار مدينة أكوينكوم الرومانية وقصر بودا القوطي، وهو من أجمل المناظر الحضرية في العالم، يدلّ على الفترات اللامعة العائدة لتاريخ العاصمة المجرية.",
+          "zh": "该地区保留有诸如阿昆库姆罗马城和哥特式布达城堡等遗迹，这些遗迹受到好几个时期建筑风格的影响，是世界上城市景观中的杰出典范之一，而且显示了匈牙利都城在历史上各伟大时期的风貌。"
+        },
+        "full": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital.",
+        "justification": "Brief synthesis This stretch of the Danube has been the location of human settlement since the Palaeolithic. It was the site of the Roman city of Aquincum, situated to the north of the inscribed property which comprises parts of two originally quite separate cities: Buda on the spur on the right bank and Pest on the plain on the left bank. Pest was the first medieval urban centre, devastated in 1241-2. A few years later the castle of Buda was built on a rocky spur on the right bank by King Bela IV. Thereafter, the city reflected the history of the Hungarian monarchy. After the end of the Turkish occupation, recovery did not really begin until the 18th century. In the 19th century, the city’s role as a capital was enhanced by the foundation of the Hungarian Academy, housed from 1862 in a neo-renaissance palace, and by the construction of the imposing neo-gothic Parliament building (1884–1904). W.T. Clark’s suspension bridge, finalised in 1849, symbolised the reunification of Buda and Pest, which did not actually come about until 1873. The symbol of the development of the city as a modern metropolis was the radial Andrássy Avenue, which was included in the property in 2002. From 1872, the Avenue radically transformed the urban structure of Pest, together with the construction of the European continent’s first underground railway beneath it in 1893-6. As a centre for receiving and disseminating cultural influences, Budapest is an outstanding example of urban development in Central Europe, characterised by periods of devastation and revitalisation. Budapest has retained the separate structural characteristics of the former cities of Pest, Buda and Óbuda. One example thereof is the Buda Castle Quarter with its medieval and characteristically Baroque style, which are distinct from the extended and uniquely homogeneous architecture of Pest (with its historicising and art nouveau styles) which is characterised by outstanding public buildings and fitted into the ringed-radial city structure. All this is organized into a unity arising from the varied morphological characteristics of the landscape and the Danube, the two banks of which are linked by a number of bridges. The urban architectural ensemble of the Andrássy Avenue (‘The Avenue’) and its surroundings (Heroes' Square, the City Park, historic inner city districts and public buildings) are high-quality architectural and artistic realisations of principles of urbanism reflecting tendencies, which became widespread in the second part of the 19th century. The scenic view of the banks of the Danube as part of the historic urban landscape is a unique example of the harmonious interaction between human society and a natural environment characterised by varied morphological conditions (Gellért Hill with the Citadel and the Buda Hills partly covered with forests, the broad Danube river with its islands and Pest's flat terrain rising with a slight gradient). Criterion (ii): Aquincum played an essential role in the diffusion of Roman architectural forms in Pannonia, then in Dacia. Buda Castle played an essential role in the diffusion of Gothic art in the Magyar region from the 14th century. In the reign of Matthias Corvinus, Buda was an artistic centre comparable, due to its influence, to that of Cracow. As a result of the unification of Pest, Buda and Óbuda in 1872-73, Budapest became once more a significant centre in the second part of the 19th and at the beginning of the 20th century due to the amount and quality of heritage built during those periods. It was a centre which absorbed, integrated and disseminated outstanding and progressive European influences of urbanism and of architecture as well as modern technological developments such as the Millennium Underground Railway, built under Andrássy Avenue, the first in Continental Europe, all of which was in line with its role as a metropolis. Criterion (iv): Buda Castle is an architectural ensemble which, together with the nearby old district (the Buda Castle Quarter) illustrates two significant periods of history which were separated by an interval corresponding to the Turkish invasion. The Parliament is also an outstanding example of a great official building on a par with those of London, Munich, Vienna and Athens, exemplifying the eclectic architecture of the 19th century, whilst at the same time symbolising the political function of the second capital of the Austro-Hungarian Empire. Andrássy Avenue (1872–1885) and the Millennium Underground Railway (1893 – 1896) are representative examples of the implementation of planning solutions associated with the latest technical facilities of the day to meet the requirements of an emerging modern society. Architecturally, the Avenue has great integrity in its eclectic, neo-renaissance buildings. Integrity The delimitation of the extended property meets the requirements of integrity, since it includes the attributes of Outstanding Universal Value and their historical and structural role is preserved in the urban fabric. Despite the ruinous or missing buildings in certain parts and especially in the Buda Castle Quarter, and despite the reconstructions within the panorama of the Danube banks following World War II, the overall integrity of the property is sustained. In order to reinforce integrity, it is justified to review the delimitation on the Buda side as well as the inclusion of Margaret Island and the extension of the protected area up to the Grand Boulevard (Nagykörút). The original form of Andrássy Avenue with its buildings has been preserved reasonably well in terms of its conception and its relation to the surrounding urban environment, as well as the building fabric. Attention is also given to the preservation and appropriate design of small elements that form part of the street furniture. There are some problems, for example, in the physical condition of the buildings: wooden roof structures have suffered from humidity and metal structures have corroded, requiring maintenance and repair. There have also been some changes in the occupation, offices tending to replace the earlier residential use, which is a common problem in central urban areas. There have been problems with regard to development in the setting of the World Heritage property, both in terms of demolition and inappropriate new structures. Other challenges are the insurance of heritage-friendly traffic management and the mitigation of climate change impact on the natural and built environment (for example extreme water-levels of the Danube, air-pollution and deterioration of limestone structures). Authenticity In its attributes and the sum of its constituent parts, the property preserves the defining characters of the architectural heritage created by consecutive layers of historical periods. The restoration and partial reconstruction of the Buda Castle Quarter after World War II, carried out mainly between 1960 and 1980, as well as the degree of authenticity of the surviving historicising buildings are in line with the requirements of the Operational Guidelines. The majority of the replaced buildings in the panorama of the Danube banks conform to their original scales. The big public buildings, such as the Parliament, the Opera House, the Hungarian Academy of Sciences and the Market Hall, have also retained their original functions. Three of the four bridges across the Danube situated in the property have been authentically renovated. The 20th century design of the new Elisabeth Bridge fits in well into the line of bridges preserving its authentic image. Andrássy Avenue, with its trees alongside and its environment, preserve its historicity in its conception and constituent parts. The majority of public buildings have preserved their original function, however, the transformation of residential buildings into offices is an unfavourable trend. The renovated Underground Railway plays a functional role in the city infrastructure. The stations under the Avenue have retained their original features, while those in the City Park have been changed from their original position above-ground and are now built under the surface which represents a certain degree of compromise with regard to the authenticity of the railway. One of the guarantees of the property's authenticity lies in the authentic conservation of the historic urban structure and the buildings in the buffer zone. Protection and management requirements The World Heritage property with its buffer zone has been legally protected as a historic monuments area since 1965; this protected area was enlarged in 2005 - after the extension of the property in 2002 – under the Act on the Protection of Cultural Heritage. A great number of historic buildings as well as the bridges and the embankments are also individually protected. The proposed revision of the boundaries of the property is prompted not only by decisions of the World Heritage Committee, but also by recent evolution in the appreciation of the heritage values of the property and its surroundings, as well as by the appearance of new threats. The property and its buffer zone lie within nine administrative districts of Budapest, another municipality being that of the Capital of Budapest itself. These ten municipalities concerned have not yet established an overall management body. Architectural Planning Juries, both at the level of the districts and at the level of the Capital of Budapest, facilitate high quality architectural developments in accordance with the values of the property. The Gyula Forster National Centre for Cultural Heritage Management is the World Heritage Management Body. Based on the national World Heritage Act of 2011, the state of conservation of the property, as well as threats and preservation measures will be regularly monitored and reported to the National Assembly, while the management plan will be reviewed at least every seven years. Once finalised and approved, the management plan and the management body provide transparent governance arrangements with clear responsibilities, where different interests can manifest themselves and where the institutional framework and methods for the cooperation of the different stakeholders are available. A management requirement is the establishment of an urban conservation and development plan for the buffer zone, fully respecting the principal architectural and urban values of each quarter with a strict enforcement. In a complementary manner, additional funding (for example tax incentives and grants) has to be sought, and in a dynamic manner, private building investment has to be directed to rehabilitation operations and restoration rather than demolition and reconstruction. Due to the complexity of the property and its context, special attention has to be paid to developing appropriate monitoring tools and mechanisms as well as to their proper application."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 473.3,
+          "square_km": 4.73,
+          "square_miles": 1.915,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1987,
+          "all_dates": [
+            1987,
+            2002
+          ],
+          "extensions": [
+            2002
+          ],
+          "timeline": [
+            {
+              "year": 1987,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2002,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e5dcce9f1825480b26a278092366f71e",
+          "filename": "site_0400_0040-500-0-20251006101050.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/123928/site_0400_0040.jpg",
+            "https://whc.unesco.org/document/209220/site_0400_0061.jpg",
+            "https://whc.unesco.org/document/209221/site_0400_0062.jpg",
+            "https://whc.unesco.org/document/209222/site_0400_0063.jpg",
+            "https://whc.unesco.org/document/209223/site_0400_0064.jpg",
+            "https://whc.unesco.org/document/209224/site_0400_0065.jpg",
+            "https://whc.unesco.org/document/223028/site_0400_0066.jpg",
+            "https://whc.unesco.org/document/223029/site_0400_0067.jpg",
+            "https://whc.unesco.org/document/223030/site_0400_0068.jpg",
+            "https://whc.unesco.org/document/223031/site_0400_0069.jpg",
+            "https://whc.unesco.org/document/223032/site_0400_0070.jpg",
+            "https://whc.unesco.org/document/223033/site_0400_0071.jpg",
+            "https://whc.unesco.org/document/223034/site_0400_0072.jpg",
+            "https://whc.unesco.org/document/223035/site_0400_0073.jpg",
+            "https://whc.unesco.org/document/223036/site_0400_0074.jpg",
+            "https://whc.unesco.org/document/223037/site_0400_0075.jpg",
+            "https://whc.unesco.org/document/223038/site_0400_0076.jpg",
+            "https://whc.unesco.org/document/223039/site_0400_0077.jpg",
+            "https://whc.unesco.org/document/223040/site_0400_0078.jpg",
+            "https://whc.unesco.org/document/223041/site_0400_0079.jpg",
+            "https://whc.unesco.org/document/223042/site_0400_0080.jpg",
+            "https://whc.unesco.org/document/223043/site_0400_0081.jpg",
+            "https://whc.unesco.org/document/223044/site_0400_0082.jpg",
+            "https://whc.unesco.org/document/223045/site_0400_0083.jpg",
+            "https://whc.unesco.org/document/223046/site_0400_0084.jpg",
+            "https://whc.unesco.org/document/223047/site_0400_0085.jpg",
+            "https://whc.unesco.org/document/111306/site_0400_0001.jpg",
+            "https://whc.unesco.org/document/111325/site_0400_0016.jpg",
+            "https://whc.unesco.org/document/111327/site_0400_0017.jpg",
+            "https://whc.unesco.org/document/111329/site_0400_0018.jpg",
+            "https://whc.unesco.org/document/111331/site_0400_0019.jpg",
+            "https://whc.unesco.org/document/111333/site_0400_0020.jpg",
+            "https://whc.unesco.org/document/111335/site_0400_0021.jpg",
+            "https://whc.unesco.org/document/111337/site_0400_0022.jpg",
+            "https://whc.unesco.org/document/111339/site_0400_0023.jpg",
+            "https://whc.unesco.org/document/111341/site_0400_0024.jpg",
+            "https://whc.unesco.org/document/111343/site_0400_0025.jpg",
+            "https://whc.unesco.org/document/111346/site_0400_0026.jpg",
+            "https://whc.unesco.org/document/111348/site_0400_0027.jpg",
+            "https://whc.unesco.org/document/111350/site_0400_0028.jpg",
+            "https://whc.unesco.org/document/111352/site_0400_0029.jpg",
+            "https://whc.unesco.org/document/122663/site_0400_0030.jpg",
+            "https://whc.unesco.org/document/122664/site_0400_0031.jpg",
+            "https://whc.unesco.org/document/122665/site_0400_0032.jpg",
+            "https://whc.unesco.org/document/123921/site_0400_0033.jpg",
+            "https://whc.unesco.org/document/123922/site_0400_0034.jpg",
+            "https://whc.unesco.org/document/123923/site_0400_0035.jpg",
+            "https://whc.unesco.org/document/123924/site_0400_0036.jpg",
+            "https://whc.unesco.org/document/123925/site_0400_0037.jpg",
+            "https://whc.unesco.org/document/123926/site_0400_0038.jpg",
+            "https://whc.unesco.org/document/123927/site_0400_0039.jpg",
+            "https://whc.unesco.org/document/123929/site_0400_0041.jpg",
+            "https://whc.unesco.org/document/123930/site_0400_0042.jpg",
+            "https://whc.unesco.org/document/123931/site_0400_0043.jpg",
+            "https://whc.unesco.org/document/123932/site_0400_0044.jpg",
+            "https://whc.unesco.org/document/123933/site_0400_0045.jpg",
+            "https://whc.unesco.org/document/123934/site_0400_0046.jpg",
+            "https://whc.unesco.org/document/123935/site_0400_0047.jpg",
+            "https://whc.unesco.org/document/124356/site_0400_0049.jpg",
+            "https://whc.unesco.org/document/124357/site_0400_0050.jpg",
+            "https://whc.unesco.org/document/148228/site_0400_0051.jpg",
+            "https://whc.unesco.org/document/148229/site_0400_0052.jpg",
+            "https://whc.unesco.org/document/148230/site_0400_0053.jpg",
+            "https://whc.unesco.org/document/148231/site_0400_0054.jpg",
+            "https://whc.unesco.org/document/148232/site_0400_0055.jpg",
+            "https://whc.unesco.org/document/148233/site_0400_0056.jpg",
+            "https://whc.unesco.org/document/148234/site_0400_0057.jpg",
+            "https://whc.unesco.org/document/148235/site_0400_0058.jpg",
+            "https://whc.unesco.org/document/148236/site_0400_0059.jpg",
+            "https://whc.unesco.org/document/148237/site_0400_0060.jpg"
+          ],
+          "count": 70
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Andrássy Avenue and the Underground",
+            "ref": "400-002",
+            "latitude": 47.5043073,
+            "longitude": 19.0618036
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/400",
+        "unesco_documents": "https://whc.unesco.org/en/list/400/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/400/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/400/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 38,
+        "inscription_year": 1987
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital. This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital. Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "old_village_of_holloko_and_its_surroundings",
+      "uuid": "619fb368-6eaa-5c21-a177-08e6193e8cbe",
+      "unesco_id": "401",
+      "names": {
+        "en": "Old Village of Hollókő and its Surroundings",
+        "fr": "Hollókő, le vieux village et son environnement",
+        "es": "Aldea antigua de Hollókö y sus alrededores",
+        "ru": "Историческое село Холлокё и его окружение",
+        "ar": "هولوكو، القرية القديمة ومحيطها",
+        "zh": "霍洛克古村落及其周边"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century.",
+          "fr": "Exemple exceptionnel d'habitat traditionnel volontairement conservé, le village d'Hollokö, qui s'est développé surtout aux XVIIe et XVIIIe siècles, reste un témoignage toujours vivant des formes de la vie rurale avant la révolution agricole du XXe siècle.",
+          "es": "La aldea de Hollókö, que se desarrolló sobre todo en los siglos XVII y XVIII, es un extraordinario ejemplo de hábitat tradicional, deliberadamente conservado, y constituye un testimonio vivo del modo de vida rural antes de la revolución agrícola del siglo XX.",
+          "ru": "Село Холлокё – это наглядный пример целенаправленно сохраняемого традиционного поселения. Оно бурно развивалось в течение XVII-XVIII вв. Село хорошо иллюстрирует особенности сельской жизни до аграрной революции XX в.",
+          "ar": "لا تزال قرية هولوكو التي تشكّل مثالاً استثنائياً عن السكن التقليدي الذي تمّ الحفاظ عليه طوعاً والتي ازدهرت بصورة خاصة في القرنين السابع والثامن عشر، شهادةً حية لأشكال الحياة المدنية قبل اندلاع الثروة الزراعية في القرن العشرين.",
+          "zh": "霍洛克是被精心保护下来的传统民居的一个典型范例，该村落主要建立于17和18世纪，生动地展示了20世纪农业革命前乡村生活的生动图景。"
+        },
+        "full": "Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century.",
+        "justification": "Brief synthesis The Old Village of Hollókő is a Palócz settlement located in the County of Nógrád in Northern Hungary, about 100 km north-east of Budapest. The Old Village, which has been deliberately preserved, is a living example of rural life before the agricultural revolution of the 20th century. The rural architectural ensemble, which covers 145 ha, consists of 55 residential buildings, farm buildings and the church. Together, the traditional Palócz use of architectural forms and materials form a harmonious unit with the surrounding landscape and natural environment, characterized by strip-field farming, orchards, vineyards, meadows and woods. The property also includes the medieval castle ruins situated on the hill perched above the village, which is mentioned as early as 1310. This castle played a decisive part in the feudal wars of the Palóc and the Hussite and served as protection for the village whose ruins have been found a little way from its walls. At the end of the Ottoman occupation (1683) the castle and the village were finally abandoned and the present village established below. I developed gradually throughout the 18th and 19th centuries. As was customary in the region, the first generation of inhabitants settled on either side of the main street. In this one-street village, subsequent generations built their houses at the back of the narrow family plots, thus progressively enlarging the built-up area. The barns were built apart from the village, on the edges of the fields, according to Palócz custom. The development of the village and the agriculture can be traced from various documents. In 1782, Hollókő was still a typical one-street village. Later, a second street developed to the east of the main street. A plan from 1885 shows that the topography was already like that of the present-day plan: the amount of cultivated land had reached its maximum by the mid-19th century and the village could therefore grow no further. Some limited growth started again in 1960 and is now strictly controlled. The inhabitants of Hollókő never heeded a 1783 decree prohibiting the use of wood for building as the decree considered it to be too inflammable. Consequently, the village was periodically devastated by fire. The last of these fires dates back to 1909, after which houses were rebuilt mostly according to the traditional techniques of Palóc rural architecture: half-timbered houses on a stone base with roughcast, white-washed walls, enhanced by high wooden pillared galleries and balconies on the street side protected by overhanging porch roofs. The church with its shingled tower is simply a transposition of this domestic architectural style. Hollókő is a living community that provides an exceptional and maybe unique example of voluntary conservation of a traditional village. Criterion (v): The Old Village of Hollókő is an outstanding example of a deliberately preserved traditional settlement, representative of a culture that has become vulnerable under the impact of irreversible change. This village, which developed mainly during the 18th and 19th centuries, not only represents the Palócz subgroup within the Hungarian nation but also bears witness, for the whole of Central Europe, to the traditional forms of rural life which were generally abolished by the agricultural revolution in the 20th century. Integrity The property includes the most important elements and components of the village and the surrounding landscape: the deliberately preserved traditional settlement, the farmed land belonging to it, the wider landscape and the natural environment with all its character-shaping elements. The traditional settlement and its landscape environment, shaped by land-use, which includes features such as strip-style farming and wooded pastures, together with the castle ruins that organise and orient the landscape's panorama, form a harmonious and intact entity in its visual appearance. Authenticity The village, which developed mainly in the 18th and 19th centuries and was rebuilt in a homogenous way after the devastating fire at the beginning of the 20th century, has preserved the heritage elements and traditions that characterize it. The preservation of the traditional techniques of rural and Palócz architecture, the local uses of materials and forms (such as the 'long house' with its characteristic porches where several generations lived together and the shape of cellars adapted to the geomorphologic conditions) as well as the historical, one-street village structure have been maintained. Within the framework of the 1983 'landscape preservation district' project, the plots previously modified by the regrouping of land were returned to their original strip shape that is characteristic of the old system of land occupancy linked to family farming. The vineyards, orchards and vegetable gardens have been recreated; the ecological balance has been restored even in the forestry environment, taking special care to respect historical authenticity. Thus, Hollókő is not a museum village devoid of any traditional activity, but a living community whose conservation includes farming activity. Hollókő's community, whose majority today lives in the new village, protects and looks after the Old Village and its protected houses, which provides them with space for community and religious life as well as job opportunities and the possibility of safeguarding and presenting their traditions. However, there are challenges to maintain these conditions of authenticity, such as the changes in agricultural activity, the negative impact from the process related to the re-demise of the producers’ cooperative areas, the deep demographic crisis of the village and the relocation of the inhabitants of the Old Village and pressures from external commercial activities. These threats need to be adequately addressed through the implementation of sustained management actions to ensure that conditions of authenticity continue to be met. Protection and management requirements The property is a protected monument under Act LXIV of 2001 on the Protection of cultural heritage. It is also a nature conservation area under Act LIII of 1996 on the Protection of nature. The Old Village of Hollókő has been an area of monumental protection since 1972 and since its extension in 1989 covers the whole property (145 ha). Furthermore, the whole property has been a nature conservation area since 1987. No further protection zone is needed due to the morphological characteristics of the area. In addition, approximately 50 of the village buildings are protected as individual monuments. Based on the national World Heritage Act of 2011, a new management plan will enter into force as a governmental decree and will be reviewed at least every seven years. The local municipality acts as the World Heritage management body. Based on the World Heritage Act, the state of the property, as well as threats and preservation measures will be regularly monitored and reported to the National Assembly; the management plan will be reviewed at least every seven years. Mid-term tasks include: rehabilitation of traditional land-use according to the requirements of present times; preserving the living character of the village, creating sustainable local economy building on traditions and capable of sustaining the local population; realisation of developments harmonised with the safeguarding of heritage values in order to ensure a good quality of life. One of the means to attain the above mentioned objectives is sustainable tourism, which needs to be managed according to the challenges of globalisation. The aim of the management strategy consists of preventing Hollókő from becoming a museum village devoid of traditional activities and rather aims at sustaining a living community capable of renewing itself. The preservation of heritage values also entails traditional agricultural activity as well as the safeguarding and practice of rural traditions and of intangible cultural heritage."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 144.5,
+          "square_km": 1.45,
+          "square_miles": 0.585,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1987,
+          "all_dates": [
+            1987
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1987,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6d352bf55208838724e60378d9ba3133",
+          "filename": "site_0401_0017-500-0-20241029103138.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209248/site_0401_0017.jpg",
+            "https://whc.unesco.org/document/209249/site_0401_0018.jpg",
+            "https://whc.unesco.org/document/209250/site_0401_0019.jpg",
+            "https://whc.unesco.org/document/209251/site_0401_0020.jpg",
+            "https://whc.unesco.org/document/131027/site_0401_0001.jpg",
+            "https://whc.unesco.org/document/131028/site_0401_0002.jpg",
+            "https://whc.unesco.org/document/131029/site_0401_0003.jpg",
+            "https://whc.unesco.org/document/131030/site_0401_0004.jpg",
+            "https://whc.unesco.org/document/131031/site_0401_0005.jpg",
+            "https://whc.unesco.org/document/131032/site_0401_0006.jpg",
+            "https://whc.unesco.org/document/148238/site_0401_0007.jpg",
+            "https://whc.unesco.org/document/148239/site_0401_0008.jpg",
+            "https://whc.unesco.org/document/148240/site_0401_0009.jpg",
+            "https://whc.unesco.org/document/148241/site_0401_0010.jpg",
+            "https://whc.unesco.org/document/148242/site_0401_0011.jpg",
+            "https://whc.unesco.org/document/148243/site_0401_0012.jpg",
+            "https://whc.unesco.org/document/148244/site_0401_0013.jpg",
+            "https://whc.unesco.org/document/148245/site_0401_0014.jpg",
+            "https://whc.unesco.org/document/148246/site_0401_0015.jpg",
+            "https://whc.unesco.org/document/148247/site_0401_0016.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old Village of Hollókő and its Surroundings",
+            "ref": "401rev",
+            "latitude": 47.99444,
+            "longitude": 19.52917
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/401",
+        "unesco_documents": "https://whc.unesco.org/en/list/401/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/401/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/401/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 38,
+        "inscription_year": 1987
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Village of Hollókő and its Surroundings Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century. Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century. Hungary Europe and North America Cultural"
+    },
+    {
+      "site_key": "hortobagy_national_park_the_i_puszta_i",
+      "uuid": "f9d3c010-8cd7-5dcd-bde3-01b97f357c29",
+      "unesco_id": "474",
+      "names": {
+        "en": "Hortobágy National Park - the <i>Puszta</i>",
+        "fr": "Parc national de Hortobágy - la <i>Puszta</i>",
+        "es": "Parque Nacional del Hortobágy - La puszta",
+        "ru": "Национальный парк Хортобадь",
+        "ar": "الروضة الوطنية أرتوباغي- لابوسزتا",
+        "zh": "霍尔托巴吉国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "HUN": {
+            "name": "Hungary",
+            "iso2": "HU",
+            "iso3": "HUN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia.",
+          "fr": "Le paysage culturel de la puszta de l'Hortobágy est une vaste étendue de plaines et de marécages dans l'est de la Hongrie. L'utilisation traditionnelle des terres à des fins telles que le pâturage des animaux domestiques y a été perpétuée par une société pastorale pendant plus de deux mille ans.",
+          "es": "El paisaje cultural de la puszta de Hortobágy es una vasta extensión de llanuras y pantanos situada al este de Hungría. Durante más de dos mil años, una sociedad pastoril ha perpetuado en estos parajes el uso tradicional de la tierra para el pasto de animales.",
+          "ru": "Культурный ландшафт Хортобадьской «пушты» (Puszta) представляет собой обширную степную равнину и заболоченные приречные участки на востоке Венгрии. Традиционные способы землепользования, такие как пастбищное скотоводство, сохраняются в этом сельском сообществе более двух тысячелетий.",
+          "ar": "يتألف مشهد لابوسزتا الثقافي، الواقع في روضة أرتوباغي الوطنية، من مساحة شاسعة من السهول والمستنقعات شرق المجر. فقدعملت مجموعات من الرعاة منذ أكثر من ألفَي عام على استخدام هذه الأراضي استخداماً تقليدياً لغايات الزراعة والماشية.",
+          "zh": "霍尔托巴吉普斯陶文化景区是匈牙利东部一片面积辽阔的草原和湿地。传统的利用土地方式，例如家畜牧养，在这里的游牧民族保持了2000多年。"
+        },
+        "full": "The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia.",
+        "justification": "Brief synthesis The nearly 75 000 ha area of the World Heritage property “Hortobágy National Park – the Puszta”, located on the Great Hungarian Plain in the eastern part of Hungary, is an outstanding example of a cultural landscape which preserves intact and visible evidence of its traditional pastoral use over more than two millennia and represents the harmonious interaction between people and nature. The Puszta consists of vast plains where specific land-use practices such as animal husbandry, including grazing of hardy livestock breeds adapted to the natural conditions of alkaline pastures, steppes, meadows and wetlands. Significant scientific discoveries made since the inscription of the property attest that treeless alkaline grasslands dominated the landscape from the end of the Pleistocene period. The open character of the Hortobágy, suitable for their grazing practices, presented adequate conditions for the settlement and population of the region. Numerous peoples migrated from the east into the Carpathian Basin in prehistory. The nomadic groups that arrived around 2000 BC were the first to leave their imprint on the natural landscape in the form of many burial mounds (kurgans), mostly found on dry land, but located near a source of water. They were often used for secondary burials by later peoples, and in some cases Christian churches were built on them. Also found in the park are the low mounds (tells) that mark the sites of ancient settlements back from the Neolithic. The Hungarians arrived in the Carpathian Basin at the end of the 9th century and occupied the lands around the Tisza River. Settlements in the Middle Ages followed the Debrecen – Tiszafüred route. The main group was in the area defined by the existing settlements of Hortobágy, Nagyhegyes, Nádudvar and Nagyiván. Documentary records have shown that many of these had churches. By the early 13th century there was a dense network of settlements in the Hortobágy, with an economy based on pastoralism. With the progressive depopulation of the region from the 14th century onwards, the settlements disappeared. The only manmade features in the wide plains of the Puszta were light temporary structures of reeds and branches, used to provide seasonal shelter for animals and men. The most significant surviving structures from the 18th and the early 19th century, which were public buildings built from stone and brick, are bridges, including the Nine Arch Bridge and the Zádor Bridge, and the csárdas, provincial inns to provide drink, food and lodging for travellers, which usually consist of two buildings facing one another, both single-storeyed and thatched or, occasionally, roofed with shingles or tiles. The best known of the csárdas are at the outskirts of Balmazújváros, Hortobágy, Nagyhegyes, Nagyiván and Tiszafüred. From the middle 19th century, water regulation systems were set up to control over flooding of the Tisza River. This resulted in the partial draining of former wetlands, which were converted to grasslands or arable farming. Reduction of the water available for the natural pastures decreased their productivity, which was one of the main reasons of serious overgrazing in the early part of the 20th century. Efforts were made to diversify the land use of the Hortobágy, the most successful of which was the creation of artificial fishponds between 1914 and 1918 and again in the 1950s. The cultural landscape of the Puszta represents the highest scenic quality, with pleasing and dramatic patterns and combinations of landscape features which give it a distinctive character, including aesthetic qualities and topographic and visual unity. The unbroken horizon is only occasionally disrupted by trees, groves, settlements or linear establishments (open wire lines and dikes). Human-made elements fit harmoniously into this landscape and sustainable land-use practices have contributed to the conservation of a diversity of species and biotopes and the maintenance of the landscape. There is almost no permanent human population within the property itself, but in the grazing season, from April to October, hundreds of stock-breeders graze their animals here. Their traditional pastoralism, with the related social customs and handicraft activities manifests itself in their intangible cultural heritage. Criterion (iv): The Hungarian Puszta is an exceptional surviving example of a cultural landscape constituted by a pastoral society. Criterion (v): The landscape of the Hortobágy National Park maintains intact and visible traces of its traditional land-use forms over several thousand years, and illustrates the harmonious interaction between people and nature. Integrity The Puszta, represented by the Hortobágy National Park, is a complex mosaic of natural grasslands, loess ridges, alkaline pastures, meadows and smaller and larger wetlands (mostly marshes), which has presented ideal conditions for pastoralism since prehistoric times and which existed before the appearance of large animal-breeding cultures in this area. In this grassland-wetland mosaic habitat, the natural basis of the cultural landscape, the evidence of traditional and continuous use over more than four millennia has been preserved and is expressed through a variety of attributes, including human-made elements related to traditional animal husbandry and pastoralism. Legal protection as a nature conservation area guaranteed by the establishment of the Hortobágy National Park in 1972 has provided appropriate conditions for the preservation of these attributes and the continued use of the landscape within the property. Organically connected and separate grassland fragments, which continue to function as undisturbed, traditional grazing lands, can be found to some extent outside the National Park, which warrants the establishment of a buffer zone. Authenticity The main elements of historic land-use (extensive grazing with partly traditional breeds of domestic animals, as well as unused areas sustained in their natural conditions) still remain and the cultural landscape has preserved its structure, and functional complexity. The proportions of the scenery have inspired many artists, poets and writers throughout the centuries. The human-made elements of the landscape in service of the traditional land-use (dug wells made of wood, csárdas, bridges, temporary accommodations) preserve and sustain the features and technologies that evolved through the centuries, in their materials (e.g. adobe and reed), in their forms, in their structural construction (or the characteristic absence of certain elements, such as fences), and in the ways of their usage. The safeguarding of pastoral, handicraft and other community traditions (popular customs, fairs) related to land-use is ensured by their conscious practice and their transmission. Protection and management requirements The Hortobágy National Park was established in 1972. The Act LIII of 1996 on the Protection of Nature regulates the activities that may have an impact on the character and qualities of the property including the different forms of land-use (grazing, hay and reed cutting, etc.) construction, and visitor management. At the time of inscription the area of the National Park was 74 820 ha. Since then, the Park was extended to almost 81 000 ha. The entire property is part of the Natura 2000 network of the European Union, in which Special Protected Areas and Special Areas of Conservation were designated in a way that they contain and encompass the area of the National Park including organically connected or separate grassland mosaic areas that are outside the National Park. The protection thus ensured by the Natura 2000 areas provides an appropriate basis for the establishment of a buffer zone. A conservational management plan of the National Park was prepared in 1997. Based on the national World Heritage Act of 2011, a World Heritage management plan will enter into legal force as a governmental decree. The Hortobágy National Park Directorate, having the land owner’s right on 75% of the property, acts as the World Heritage management body and has been re-appointed by the Minister responsible for culture. The World Heritage Act ensures the operation of a World Heritage Regional Architectural Planning Jury which facilitates high quality architectural developments aligned to the values of the property. The archeological sites and historic monuments of the property are protected by the Act on the Protection of Cultural Heritage of 2001 and are listed in an official national register. Kurgans are ex lege protected by the Act on Nature Conservation of 1996. There is also a register of kurgans and draw wells established by the Ministry of Rural Development and the Hortobágy National Park Directorate. Furthermore, TÉKA (landscape elements inventory) is a nationwide cadastre representing landmarks, historical monuments, cultural and natural landscape values inter alia in the World Heritage property. The rehabilitation of the protected buildings of the Meggyes, the Hortobágyi and the Kadarcs csárdas has been carried out by the Hortobágy National Park. The rehabilitation of the protected Nine-Arch-Bridge also has been carried out by the Hajdú-Bihar County Road Operator Company. Once approved and finalized, the World Heritage management plan will provide clear governance arrangements that involve representatives of the different stakeholders. Based on the World Heritage Act, the state of the property, as well as threats and preservation measures will be regularly monitored and reported to the National Assembly. The World Heritage management plan will be reviewed at least every seven years. In order to maintain the traditional land-use practices, especially common grazing, review of the land rental and farming contracts is essential, in particular with regard to areas under 100 ha. One of the strategic conservation goals is to extend the scope of the nature conservation-oriented horizontal agricultural subsidies as much as possible to grassland use in the property and in the future buffer zone. Another main objective is to decrease the ratio of hay cutting in favour of traditional grazing activities. Since they are detrimental to the grasslands, under- and overgrazing must be avoided together with intensive hay farming that leads to the deterioration of originally grazed habitats. The future buffer zone may remain the location for the more modern arable and grassland farming practices, but large constructions that disturb the landscape should be avoided. The unfavourable modernization of stock-keeping farms mandated by domestic and international laws and regulations needs to be prevented by the derogation of the relevant EU regulations, especially concerning concrete manure storage facilities. A short-term goal is the completion of landscape rehabilitation projects already in progress: elimination of linear establishments (canals and dikes), replacing open wire lines with underground cable. Other urgent tasks include combating invasive plant species, possibly by blocking their known migratory corridors; updating the inventory of pastoral buildings (stables, huts and sweep wells) and completing their monument protection survey; establishing a financial assistance system for the renovation of pastoral buildings; delineation of a buffer zone and its integration into regional and local development plans."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 74820,
+          "square_km": 748.2,
+          "square_miles": 302.786,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1ed6a126e9161cccc7c25de15babdc50",
+          "filename": "site_0474_0001-500-0-20241029104647.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/133979/site_0474_0001.jpg",
+            "https://whc.unesco.org/document/209253/site_0474_0016.jpg",
+            "https://whc.unesco.org/document/209254/site_0474_0017.jpg",
+            "https://whc.unesco.org/document/209255/site_0474_0018.jpg",
+            "https://whc.unesco.org/document/209256/site_0474_0019.jpg",
+            "https://whc.unesco.org/document/209257/site_0474_0020.jpg",
+            "https://whc.unesco.org/document/209258/site_0474_0021.jpg",
+            "https://whc.unesco.org/document/133980/site_0474_0002.jpg",
+            "https://whc.unesco.org/document/133981/site_0474_0003.jpg",
+            "https://whc.unesco.org/document/133982/site_0474_0004.jpg",
+            "https://whc.unesco.org/document/133983/site_0474_0005.jpg",
+            "https://whc.unesco.org/document/133984/site_0474_0006.jpg",
+            "https://whc.unesco.org/document/133985/site_0474_0007.jpg",
+            "https://whc.unesco.org/document/133986/site_0474_0008.jpg",
+            "https://whc.unesco.org/document/133987/site_0474_0009.jpg",
+            "https://whc.unesco.org/document/148258/site_0474_0010.jpg",
+            "https://whc.unesco.org/document/148259/site_0474_0011.jpg",
+            "https://whc.unesco.org/document/148260/site_0474_0012.jpg",
+            "https://whc.unesco.org/document/148261/site_0474_0013.jpg",
+            "https://whc.unesco.org/document/148262/site_0474_0014.jpg",
+            "https://whc.unesco.org/document/148263/site_0474_0015.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Hortobágy National Park - the <i>Puszta</i>",
+            "ref": "474rev",
+            "latitude": 47.59458,
+            "longitude": 21.15678
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/474",
+        "unesco_documents": "https://whc.unesco.org/en/list/474/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/474/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/474/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hortobágy National Park - the <i>Puszta</i> The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia. The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia. Hungary Europe and North America Cultural"
+    }
+  ]
+}

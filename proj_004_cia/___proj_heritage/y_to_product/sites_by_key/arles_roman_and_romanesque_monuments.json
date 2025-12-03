@@ -1,0 +1,174 @@
+{
+  "site_key": "arles_roman_and_romanesque_monuments",
+  "uuid": "d44eed96-64e2-5274-96a5-8dd8793a6053",
+  "unesco_id": "164",
+  "names": {
+    "en": "Arles, Roman and Romanesque Monuments",
+    "fr": "Arles, monuments romains et romans",
+    "es": "Monumentos romanos y románicos de Arles",
+    "ru": "Древнеримские и романские памятники в городе Арль",
+    "ar": "مدينة آرل، نصب تذكارية رومانية أو تابعة لروما القديمة",
+    "zh": "阿尔勒城的古罗马建筑"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "FRA": {
+        "name": "France",
+        "iso2": "FR",
+        "iso3": "FRA"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Arles is a good example of the adaptation of an ancient city to medieval European civilization. It has some impressive Roman monuments, of which the earliest – the arena, the Roman theatre and the cryptoporticus (subterranean galleries) – date back to the 1st century B.C. During the 4th century Arles experienced a second golden age, as attested by the baths of Constantine and the necropolis of Alyscamps. In the 11th and 12th centuries, Arles once again became one of the most attractive cities in the Mediterranean. Within the city walls, Saint-Trophime, with its cloister, is one of Provence's major Romanesque monuments.",
+      "fr": "Arles offre un exemple intéressant d'adaptation d'une cité antique à la civilisation de l'Europe médiévale. Elle conserve d'impressionnants monuments romains dont les plus anciens – arènes, théâtre antique, cryptoportiques – remontent au Ier siècle av. J.-C. Elle connut au IVe siècle un second âge d'or dont témoignent les thermes de Constantin et la nécropole des Alyscamps. Aux XIe et XIIe siècles, Arles redevint une des plus belles villes du monde méditerranéen. À l'intérieur des murs, Saint-Trophime avec son cloître est un des monuments majeurs de l'art roman provençal.",
+      "es": "Excelente ejemplo de adaptación de una ciudad de la Antigüedad clásica a la civilización medieval europea, Arles conserva vestigios y monumentos impresionantes de la época romana. Los más antiguos –criptopórticos, circo y teatro romano–datan del siglo I a.C. La ciudad tuvo una segunda edad de oro en el siglo IV, de la que son muestras las termas de Constantino y la necrópolis de Alyscamps. En los siglos XI y XII Arles volvió a ser una de las ciudades más hermosas de la región del Mediterráneo. En la ciudad intramuros se yergue la iglesia de San Trófimo, uno de los monumentos más importantes del arte románico provenzal.",
+      "ru": "Арль – прекрасный пример адаптации античного города к средневековой европейской цивилизации. Он имеет впечатляющие древнеримские памятники, из которых самые ранние – Арена, Римский театр и Криптопортик (подземные галереи) – датируются I в. до н.э. В IV в. Арль пережил свой второй «золотой век», о чем свидетельствуют бани Константина и некрополь Аликан. В XI-XII вв. Арль вновь становится одним из самых процветающих городов Средиземноморья. Внутри городских стен церковь Сен-Трофим с интересным клостером является одним из главных памятников романского искусства в Провансе.",
+      "ar": "توفّر مدينة آرل نموذجاً مثيراً للأهمية عن تكيّف مدينة قديمة مع حضارة أوروبا في القرون الوسطى. وهي تحافظ على نُصب تذكارية رومانية مدهشة يعود أقدمها- أي الحلبات، والمسرح القديم، والسراديب- إلى القرن الأول قبل الميلاد. وشهدت المدينة في القرن الرابع عصراً ذهبياً ثانياً تدلّ عليها حمامات قسطنطين ومقبرة الكبيرة. وعادت مدينة آرل في القرنين الحادي والثاني عشر لتصبح إحدى أجمل المدن في عالم المتوسط. وفي داخل أسوارها، تُعتبر كنيسة سان تروفيم بأروقتها إحدى أبرز النُصب التذكارية الخاصة بفن روما القديمة في منطقة البروفانس، جنوب فرنسا.",
+      "zh": "阿尔勒是古代城市适应欧洲中世纪文明的一个范例。城中有许多令人难忘的罗马古迹，其中最早的竞技场、古罗马剧场和古罗马地道（地下通道）可追溯到公元前1世纪。阿尔勒经历了公元4世纪第二个黄金时代，君士坦丁浴场(the baths of Constantine)和阿利斯堪普斯墓地(the necropolis of Alyscamps)就是这一时期的见证。11至12世纪期间，阿尔勒再一次成为地中海地区最具魅力的城市，城内的圣特罗菲姆教堂(Saint-Trophime)是普罗旺斯地区众多的罗马式古迹之一。"
+    },
+    "full": "Arles is a good example of the adaptation of an ancient city to medieval European civilization. It has some impressive Roman monuments, of which the earliest – the arena, the Roman theatre and the cryptoporticus (subterranean galleries) – date back to the 1st century B.C. During the 4th century Arles experienced a second golden age, as attested by the baths of Constantine and the necropolis of Alyscamps. In the 11th and 12th centuries, Arles once again became one of the most attractive cities in the Mediterranean. Within the city walls, Saint-Trophime, with its cloister, is one of Provence's major Romanesque monuments.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        4
+      ],
+      "display": "(ii)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 65,
+      "square_km": 0.65,
+      "square_miles": 0.263,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1981,
+      "all_dates": [
+        1981
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1981,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/001c73cae79f010e01e97f3611bd74cb",
+      "filename": "site_0164_0001-500-0-20251022164942.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 334
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/108612/site_0164_0001.jpg",
+        "https://whc.unesco.org/document/108614/site_0164_0002.jpg",
+        "https://whc.unesco.org/document/108616/site_0164_0003.jpg",
+        "https://whc.unesco.org/document/108618/site_0164_0004.jpg",
+        "https://whc.unesco.org/document/108620/site_0164_0005.jpg",
+        "https://whc.unesco.org/document/108622/site_0164_0006.jpg",
+        "https://whc.unesco.org/document/108625/site_0164_0007.jpg",
+        "https://whc.unesco.org/document/108627/site_0164_0008.jpg",
+        "https://whc.unesco.org/document/108629/site_0164_0009.jpg",
+        "https://whc.unesco.org/document/108631/site_0164_0010.jpg",
+        "https://whc.unesco.org/document/108633/site_0164_0011.jpg",
+        "https://whc.unesco.org/document/108635/site_0164_0012.jpg",
+        "https://whc.unesco.org/document/108637/site_0164_0013.jpg",
+        "https://whc.unesco.org/document/108639/site_0164_0014.jpg",
+        "https://whc.unesco.org/document/108641/site_0164_0015.jpg",
+        "https://whc.unesco.org/document/108643/site_0164_0016.jpg",
+        "https://whc.unesco.org/document/108645/site_0164_0017.jpg",
+        "https://whc.unesco.org/document/108647/site_0164_0018.jpg",
+        "https://whc.unesco.org/document/223247/site_0164_0021.jpg",
+        "https://whc.unesco.org/document/223248/site_0164_0022.jpg",
+        "https://whc.unesco.org/document/223249/site_0164_0023.jpg",
+        "https://whc.unesco.org/document/223250/site_0164_0024.jpg",
+        "https://whc.unesco.org/document/223251/site_0164_0025.jpg",
+        "https://whc.unesco.org/document/223252/site_0164_0026.jpg",
+        "https://whc.unesco.org/document/223253/site_0164_0027.jpg",
+        "https://whc.unesco.org/document/223254/site_0164_0028.jpg",
+        "https://whc.unesco.org/document/223262/site_0164_0036.jpg",
+        "https://whc.unesco.org/document/223264/site_0164_0038.jpg",
+        "https://whc.unesco.org/document/130157/site_0164_0019.jpg",
+        "https://whc.unesco.org/document/130158/site_0164_0020.jpg"
+      ],
+      "count": 30
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": []
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/164",
+    "unesco_documents": "https://whc.unesco.org/en/list/164/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/164/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/164/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Urban",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 44,
+    "inscription_year": 1981
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Arles, Roman and Romanesque Monuments Arles is a good example of the adaptation of an ancient city to medieval European civilization. It has some impressive Roman monuments, of which the earliest – the arena, the Roman theatre and the cryptoporticus (subterranean galleries) – date back to the 1st century B.C. During the 4th century Arles experienced a second golden age, as attested by the baths of Constantine and the necropolis of Alyscamps. In the 11th and 12th centuries, Arles once again became one of the most attractive cities in the Mediterranean. Within the city walls, Saint-Trophime, with its cloister, is one of Provence's major Romanesque monuments. Arles is a good example of the adaptation of an ancient city to medieval European civilization. It has some impressive Roman monuments, of which the earliest – the arena, the Roman theatre and the cryptoporticus (subterranean galleries) – date back to the 1st century B.C. During the 4th century Arles experienced a second golden age, as attested by the baths of Constantine and the necropolis of Alyscamps. In the 11th and 12th centuries, Arles once again became one of the most attractive cities in the Mediterranean. Within the city walls, Saint-Trophime, with its cloister, is one of Provence's major Romanesque monuments. France Europe and North America Cultural"
+}

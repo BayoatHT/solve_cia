@@ -1,0 +1,413 @@
+{
+  "country": {
+    "code": "AFG",
+    "name": "Afghanistan"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 2,
+  "sites": [
+    {
+      "site_key": "cultural_landscape_and_archaeological_remains_of_the_bamiyan_valley",
+      "uuid": "a1d7e93d-f865-53f4-a76b-0c7895273013",
+      "unesco_id": "208",
+      "names": {
+        "en": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+        "fr": "Paysage culturel et vestiges archéologiques de la vallée de Bamiyan",
+        "es": "Paisaje cultural y vestigios arqueológicos del Valle de Bamiyán",
+        "ru": "Культурный ландшафт и археологические находки в долине Бамиан",
+        "ar": "المنظر الثقافي والبقايا الأثرية في وادي باميان",
+        "zh": "巴米扬山谷的文化景观和考古遗迹"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AFG": {
+            "name": "Afghanistan",
+            "iso2": "AF",
+            "iso3": "AFG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001.",
+          "fr": "Le paysage culturel et les vestiges archéologiques de la vallée de Bamiyan illustrent les développements artistiques et religieux qui, du Ier au XIIIe siècle, ont caractérisé l’ancienne Bactriane, intégrant diverses influences culturelles pour former l’école d’art bouddhique du Gandhara. Le site contient plusieurs ensembles monastiques et sanctuaires bouddhistes, ainsi que des édifices fortifiés de la période islamique. Il témoigne également de la tragique destruction des deux bouddhas debout par les taliban, qui ébranla le monde en mars 2001.",
+          "es": "Este sitio es un exponente de las creaciones artísticas y religiosas características de la antigua Bactriana entre el siglo I y el XIII, en las que confluyeron distintas influencias culturales que desembocaron en la afirmación de la escuela de arte búdico del Gandhara. El sitio comprende varios conjuntos monásticos y santuarios budistas, así como edificios fortificados de la época islámica. El valle fue escenario de la trágica destrucción de las dos monumentales estatuas de Buda en pie, perpetrada por los talibanes en marzo de 2001, que causó una honda conmoción en el mundo entero.",
+          "ru": "Культурный ландшафт и археологические находки в долине Бамиан иллюстрируют развитие искусства и религии древней Бактрии с I до XIII вв., где различные культурные влияния интегрировались в гандхарскую школу буддийского искусства. Район содержит множество буддийских монастырских ансамблей и святилищ, укрепленных зданий, относящихся к мусульманскому периоду. Этот объект был свидетелем трагического разрушения талибами двух статуй стоящего Будды, которое шокировало мир в марте 2001 г.",
+          "ar": "يمثّل المنظر الثقافي والبقايا الأثرية في وادي باميان التطوّر الفنيّ والدينيّ الذي ميّز (إمبراطورية) بختريان القديمة بين القرن الأول والقرن الثالث عشر، فاجتمعت التأثيرات الثقافية المختلفة لتثمر عن المدرسة البوذيّة الفنيّة في غاندهارا. يحتوي الموقع على مجمّعات رهبانية مختلفة ومقدّسات بوذية عديدة، بالإضافة إلى مبانِ معزّزة تعود إلى العصر الإسلامي. ويشهد الموقع أيضاً على الدمار المأساوي لتمثالي بوذا الواقفين، وهو دمار أقدم عليه الطالبان وهزّ العالم في آذار/ مارس من العام 2001.",
+          "zh": "巴米扬山谷的文化景观和考古遗址向世人展示了从公元1世纪至13世纪期间以古代巴克特里亚文化为特征的艺术和宗教发展。正是在这一发展过程中，佛教艺术的干达拉流派兼收并蓄了各种文化影响。这一地区汇集了大量的佛教寺院、庙宇，以及伊斯兰教时期的防御建筑。此遗址同时也见证了塔利班政权无情摧毁两尊立佛像的暴行。这一事件在2001年3月曾震惊世界。"
+        },
+        "full": "The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001.",
+        "justification": "Brief synthesis Enclosed between the high mountains of the Hindu Kush in the central highlands of Afghanistan, the Bamiyan Valley opens out into a large basin bordered to the north by a long, high stretch of rocky cliffs. The Cultural Landscape and Archaeological Remains of the Bamiyan Valley comprise a serial property consisting of eight separate sites within the Valley and its tributaries. Carved into the Bamiyan Cliffs are the two niches of the giant Buddha statues (55m and 38m high) destroyed by the Taliban in 2001, and numerous caves forming a large ensemble of Buddhist monasteries, chapels and sanctuaries along the foothills of the valley dating from the 3rd to the 5th century C.E. In several of the caves and niches, often linked by galleries, there are remains of wall paintings and seated Buddha figures. In the valleys of the Bamiyan's tributaries are further groups of caves including the Kakrak Valley Caves, some 3km south-east of the Bamiyan Cliffs where among the more than one hundred caves dating from the 6th to 13th centuries are fragments of a 10m tall standing Buddha figure and a sanctuary with painted decorations from the Sasanian period. Along the Fuladi valley around 2km southwest of the Bamiyan Cliffs are the caves of Qoul-i Akram and Lalai Ghami, also containing decorative features. Punctuating the centre of the valley basin to the south of the great cliff are the remains of the fortress of Shahr-i Ghulghulah. Dating from the 6th to 10th centuries CE, this marks the original settlement of Bamiyan as stopping place on the branch of the Silk Route, which linked China and India via ancient Bactria. Further to the east along the Bamiyan Valley are the remains of fortification walls and settlements, dating from the 6th to 8th centuries at Qallai Kaphari A and B and further east still (around 15km east of the Bamiyan Cliffs) at Shahr-i Zuhak, where the earlier remains are overlaid by developments of the 10th to 13th centuries under the rule of the Islamic Ghaznavid and Ghorid dynasties. The Cultural Landscape and Archaeological Remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterised ancient Bactria, integrating various cultural influences into the Gandharan school of Buddhist art. The numerous Buddhist monastic ensembles and sanctuaries, as well as fortified structures from the Islamic period, testify to the interchange of Indian, Hellenistic, Roman, Sasanian and Islamic influences. The site is also testimony to recurring reactions to iconic art, the most recent being the internationally condemned deliberate destruction of the two standing Buddha statues in March 2001. Criterion (i): The Buddha statues and the cave art in Bamiyan Valley are an outstanding representation of the Gandharan school in Buddhist art in the Central Asian region. Criterion (ii):The artistic and architectural remains of Bamiyan Valley, an important Buddhist centre on the Silk Road, are an exceptional testimony to the interchange of Indian, Hellenistic, Roman and Sasanian influences as the basis for the development of a particular artistic expression in the Gandharan school. To this can be added the Islamic influence in a later period. Criterion (iii):The Bamiyan Valley bears an exceptional testimony to a cultural tradition in the Central Asian region, which has disappeared. Criterion (iv): The Bamiyan Valley is an outstanding example of a cultural landscape which illustrates a significant period in Buddhism. Criterion (vi): The Bamiyan Valley is the most monumental expression of the western Buddhism. It was an important centre of pilgrimage over many centuries. Due to their symbolic values, the monuments have suffered at different times of their existence, including the deliberate destruction in 2001, which shook the whole world. Integrity The heritage resources in Bamiyan Valley have suffered from various disasters and some parts are in a fragile state. A major loss to the integrity of the site was the destruction of the large Buddha statues in 2001. However, a significant proportion of all the attributes that express the Outstanding Universal Value of the site, such as Buddhist and Islamic architectural forms and their setting in the Bamiyan landscape, remain intact at all 8 sites within the boundaries, including the vast Buddhist monastery in the Bamiyan Cliffs which contained the two colossal sculptures of the Buddha. Authenticity The cultural landscape and archaeological remains of the Bamiyan Valley continue to testify to the different cultural phases of its history. Seen as a cultural landscape, the Bamiyan Valley, with its artistic and architectural remains, the traditional land use and the simple mud brick constructions continues to express its Outstanding Universal Value in terms of form and materials, location and setting, but may be vulnerable in the face of development and requires careful conservation and management. Protection and management requirements The monuments and archaeological remains of the Bamiyan Valley are public property, owned by the State of Afghanistan. However, large parts of the buffer zone are in private ownership. Many documents defining the ownership were destroyed during the decades of conflict and civil unrest, and are now being re-established. The State Law on the Protection of Historical and Cultural Properties (Ministry of Justice, May 21st 2004)is in force and provides the basis for financial and technical resources. The management of the serial property is under the authority of the Ministry of Information and Culture (MoIC) and its relevant departments (Institute of Archaeology and the Department for the Preservation of Historical Monuments), as well as the Governor of the Bamiyan Province. The Ministry of Information and Culture has a provincial local office representative in Bamiyan. There are 8 guards specifically protecting the site against vandalism and looting, with additional resources provided by the Ministry of Interior in the form of a dedicated police contingent for the protection of cultural property (Police unit 012). At present, the management system is provisional with help from the international community for the appropriate administrative, scientific and technical resources. Since 2003, UNESCO has been leading a three-phase safe-guarding plan for the property. Its focus has been to consolidate the Buddha niches, to safeguard the artefacts that survived the destruction of the Buddha statues and to render the site safe, notably by pursuing the complex de-mining operations at the site. A Management Plan for the property is under preparation with the objective to prepare and implement a programme for the protection, conservation and presentation of the Bamiyan Valley, to undertake exploration and excavation of the archaeological remains, and to prepare and implement a programme for sustainable cultural tourism in the Valley. The Governor of the Province is responsible for the implementation of a regional development plan, which includes rehabilitation of housing, provision of health and educational services, and development of infrastructure and agriculture. In March 2011, it was concluded by Afghan officials and international experts at a meeting of the 9th Bamiyan Expert Working Group hosted by UNESCO that the World Heritage site is potentially ready to be removed from the List of World Heritage in Danger by 2013, pending continued progress in addressing security risks, the structural stability of the remains of the two giant Buddha sculptures and their niches, the conservation of the archaeological remains and mural paintings and implementation of the Management Plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "display": "(i)(ii)(iii)(iv)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 158.9265,
+          "square_km": 1.59,
+          "square_miles": 0.643,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2003",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7f2cfcfa800cf8c29f49ee6d514fc008",
+          "filename": "site_0208_0001-500-0-20220826164915.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109140/site_0208_0001.jpg",
+            "https://whc.unesco.org/document/109141/site_0208_0002.jpg",
+            "https://whc.unesco.org/document/109142/site_0208_0003.jpg",
+            "https://whc.unesco.org/document/109143/site_0208_0004.jpg",
+            "https://whc.unesco.org/document/109144/site_0208_0005.jpg",
+            "https://whc.unesco.org/document/109145/site_0208_0006.jpg",
+            "https://whc.unesco.org/document/109146/site_0208_0007.jpg",
+            "https://whc.unesco.org/document/109147/site_0208_0008.jpg",
+            "https://whc.unesco.org/document/109148/site_0208_0009.jpg",
+            "https://whc.unesco.org/document/109149/site_0208_0010.jpg",
+            "https://whc.unesco.org/document/109152/site_0208_0013.jpg",
+            "https://whc.unesco.org/document/109153/site_0208_0014.jpg",
+            "https://whc.unesco.org/document/109154/site_0208_0015.jpg",
+            "https://whc.unesco.org/document/109155/site_0208_0016.jpg",
+            "https://whc.unesco.org/document/109156/site_0208_0017.jpg",
+            "https://whc.unesco.org/document/109157/site_0208_0018.jpg",
+            "https://whc.unesco.org/document/109158/site_0208_0019.jpg",
+            "https://whc.unesco.org/document/109159/site_0208_0020.jpg",
+            "https://whc.unesco.org/document/109160/site_0208_0021.jpg",
+            "https://whc.unesco.org/document/109161/site_0208_0022.jpg",
+            "https://whc.unesco.org/document/109162/site_0208_0023.jpg",
+            "https://whc.unesco.org/document/130343/site_0208_0024.jpg",
+            "https://whc.unesco.org/document/130348/site_0208_0029.jpg",
+            "https://whc.unesco.org/document/130349/site_0208_0030.jpg",
+            "https://whc.unesco.org/document/130351/site_0208_0032.jpg",
+            "https://whc.unesco.org/document/130353/site_0208_0034.jpg",
+            "https://whc.unesco.org/document/130354/site_0208_0035.jpg",
+            "https://whc.unesco.org/document/130355/site_0208_0036.jpg",
+            "https://whc.unesco.org/document/130356/site_0208_0037.jpg",
+            "https://whc.unesco.org/document/130357/site_0208_0038.jpg",
+            "https://whc.unesco.org/document/130361/site_0208_0042.jpg",
+            "https://whc.unesco.org/document/130363/site_0208_0044.jpg",
+            "https://whc.unesco.org/document/130365/site_0208_0046.jpg",
+            "https://whc.unesco.org/document/130368/site_0208_0049.jpg",
+            "https://whc.unesco.org/document/130371/site_0208_0052.jpg",
+            "https://whc.unesco.org/document/130373/site_0208_0054.jpg",
+            "https://whc.unesco.org/document/130374/site_0208_0055.jpg",
+            "https://whc.unesco.org/document/130375/site_0208_0056.jpg"
+          ],
+          "count": 38
+        }
+      },
+      "components": {
+        "count": 8,
+        "locations": [
+          {
+            "name": "Shahr-i-Zuhak",
+            "ref": "208-005",
+            "latitude": 34.8262222222,
+            "longitude": 66.8901388889
+          },
+          {
+            "name": "Qallay Kaphari A",
+            "ref": "208-006",
+            "latitude": 34.8109722222,
+            "longitude": 66.8435277778
+          },
+          {
+            "name": "Qallay Kaphari B",
+            "ref": "208-007",
+            "latitude": 34.8128888889,
+            "longitude": 66.8500277778
+          },
+          {
+            "name": "Shahr-i-Ghulghulah",
+            "ref": "208-008",
+            "latitude": 34.8326666667,
+            "longitude": 67.8391111111
+          },
+          {
+            "name": "Qoul-I Akram Caves in the Fuladi Valley",
+            "ref": "208-003",
+            "latitude": 34.8236944444,
+            "longitude": 67.79825
+          },
+          {
+            "name": "Kalai Ghamai Caves in the Fuladi Valley",
+            "ref": "208-004",
+            "latitude": 34.8204444444,
+            "longitude": 67.7873611111
+          },
+          {
+            "name": "Kakrak Valley caves including the niche of the standing Buddha",
+            "ref": "208-002",
+            "latitude": 34.8165555556,
+            "longitude": 67.8513611111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/208",
+        "unesco_documents": "https://whc.unesco.org/en/list/208/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/208/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/208/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001. The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001. Afghanistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "minaret_and_archaeological_remains_of_jam",
+      "uuid": "4c5742fb-7de8-5b99-a07b-b0f96dfce6f2",
+      "unesco_id": "211",
+      "names": {
+        "en": "Minaret and Archaeological Remains of Jam",
+        "fr": "Minaret et vestiges archéologiques de Djam",
+        "es": "Minarete y vestigios arqueológicos de Jam",
+        "ru": "Минарет и археологические объекты в Джеме",
+        "ar": "مئذنة جام وبقاياها الاثرية",
+        "zh": "查姆回教寺院尖塔和考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AFG": {
+            "name": "Afghanistan",
+            "iso2": "AF",
+            "iso3": "AFG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province.",
+          "fr": "Haut de 65m, le minaret de Djam est une construction gracieuse et élancée datant du XIIe siècle. Recouvert d’une décoration complexe en briques et portant une inscription de tuiles bleues au sommet, il est remarquable par la qualité de son architecture et de ses motifs décoratifs, qui représentent l’apogée d’une tradition artistique propre à cette région. Son impact est renforcé par un environnement spectaculaire : une vallée profonde qui s’ouvre entre d’imposantes montagnes au cœur de la province du Ghor.",
+          "es": "Con sus 65 metros de altura, el minarete de Jam es una construcción esbelta y llena de gracia que data del siglo XII. Se distingue por la compleja decoración con ladrillo de sus paredes, rematada en la cúspide por una franja de cerámica azul con una inscripción. La calidad de su arquitectura y ornamentación es una muestra del apogeo de la tradición artística de la región. La belleza del sitio se ve realzada por su entorno espectacular: un profundo valle de imponentes laderas montañosas, situado en el centro de la provincia de Ghor.",
+          "ru": "65-метровый минарет Джема – грациозное и как бы парящее в воздухе сооружение, построенное в XII в. Имеющий тщательно отделанную кирпичную поверхность с надписями по голубой плитке на завершении, минарет примечателен качеством своей архитектуры и отделки, представляющих кульминацию архитектурно-художественной традиции этого региона. Впечатление от минарета усиливается благодаря его нахождению в выразительном окружении, в глубокой речной долине, обрамленной высокими горами в самом сердце провинции Гур.",
+          "ar": "إن مئذنة جام بناء رشيق وممشوق؛ يبلغ ارتفاعها 65 متراً وتُرقى إلى القرن الثاني عشر. تغطيها زينة معقّدة التركيب من القرميد وتعلو قمتها كتابات بالقرميد الأزرق. تتميّز المئذنة بنوعية هندستها المعمارية ورسومها التزيينية التي تمثل قمّة التقاليد الفنية الخاصة بالمنطقة. ويزداد أثرها أهمية بفضل المحيط المذهل الذي تقع فيه، لأنها في وادٍِ عميق مفتوح بين جبال شاهقة وسط إقليم غور.",
+          "zh": "65米高的查姆尖塔庄严肃穆，高耸入云，其历史可追溯到公元12世纪。塔外砌烧制精巧的砖石, 顶部饰有蓝色釉面的琉璃瓦铭刻建筑工艺高超，装饰精美，代表了该地区建筑和艺术的最高水平。尖塔地处古尔省(Ghur province)心脏位置，依山傍水，从狭窄河谷中拔地而起，其独特的地理环境又为之平添了几分魅力。"
+        },
+        "full": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province.",
+        "justification": "Brief synthesis At 1,900 m above sea level and far from any town, the Minaret of Jam rises within a rugged valley along the Hari-rud River at its junction with the river Jam around 215km-east of Herat. Rising to 65m from a 9m diameter octagonal base, its four superimposed, tapering cylindrical shafts are constructed from fired bricks. The Minaret is completely covered with geometric decoration in relief enhanced with a Kufic inscription in turquoise tiles. Built in 1194 by the great Ghurid Sultan Ghiyas-od-din (1153-1203), its emplacement probably marks the site of the ancient city of Firuzkuh, believed to have been the summer capital of the Ghurid dynasty. Surrounding remains include a group of stones with Hebrew inscriptions from the 11th to 12th centuries on the Kushkak hill, and vestiges of castles and towers of the Ghurid settlements on the banks of the Hari River as well as to the east of the Minaret. The Minaret of Jam is one of the few well-preserved monuments representing the exceptional artistic creativity and mastery of structural engineering of the time. Its architecture and ornamentation are outstanding from the point of view of art history, fusing together elements from earlier developments in the region in an exceptional way and exerting a strong influence on later architecture in the region. This graceful soaring structure is an outstanding example of the architecture and ornamentation of the Islamic period in Central Asia and played a significant role in their further dissemination as far as India as demonstrated by the Qutb Minar, Delhi, begun in 1202 and completed in the early 14th century. Criterion (ii): The innovative architecture and decoration of the Minaret of Jam played a significant role in the development of the arts and architecture of the Indian sub-continent and beyond. Criterion (iii): The Minaret of Jam and its associated archaeological remains constitute exceptional testimony to the power and quality of the Ghurid civilization that dominated the region in the 12th and 13th centuries. Criterion (iv): The Minaret of Jam is an outstanding example of Islamic architecture and ornamentation in the region and played a significant role for further dissemination. Integrity Since the building of the Minaret around eight hundred years ago, no reconstruction or extensive restoration work has ever taken place in the area. The archaeological vestiges were surveyed and recorded in 1957 when the remains were first discovered by archaeologists. Subsequent surveys and studies have led only to simple precautionary stabilization measures to the base of the Minaret. Thus, the attributes that express the Outstanding Universal Value of the site, not least the Minaret itself, other architectural forms and their setting in the landscape, remain intact within the boundaries of the property and beyond. Authenticity The authenticity of the ensemble of the Minaret of Jam and the vestiges that surround it has never been questioned. The Minaret has always been recognised as a genuine architectural and decorative masterpiece by the experts and an artistic chef-d'oeuvre by the aesthetes. Its monumental Kufic inscriptions testify to the remote and glorious origin of its builders as well as giving evidence to its early dating (1194). No reconstruction or extensive restoration work has ever taken place in the area. Protection and management requirements The legal and institutional framework for the effective management of the Minaret and archaeological remains (70ha with a 600ha buffer zone), is regulated by the Department of Historic Monuments on behalf of the Ministry of Information and Culture of the Islamic Republic of Afghanistan. The specific law under which the monument and its landscape are protected is the Law on the Protection of Historical and Cultural Properties (Ministry of Justice, 21 May 2004) which is in force and provides the basis for financial and technical resources. The property will be removed from the List of World Heritage in Danger when its desired state of conservation is achieved in accordance with Decision 31 COM 7A.20. This must include the increased capacity of the staff of the Afghan Ministry of Culture and Information who are in charge of the preservation of the property; precise identification of the World Heritage property and clearly marked boundaries and buffer zones; assurance of the long-term stability and conservation of the Minaret; assurance of site security, and a comprehensive management system including the development and implementation of a long-term conservation policy. Proposals for the protection of the Minaret and its environs are under scientific discussion. They would seek to monitor erosion of the riverbanks adjacent to the Minaret, any further movement in the level of inclination of the monument along with any degradation in the historic fabric in general, and mitigate any adverse observations with appropriate programs of stabilization and conservation measures where necessary. Measures for the protection and monitoring of the wider archaeological site are currently under review and an approved program of research and public awareness raising is likely to be instigated in the long term."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 70,
+          "square_km": 0.7,
+          "square_miles": 0.283,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2002,
+          "all_dates": [
+            2002
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2002,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2002",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a134599731dbf3d04a8ee96b9e13ffea",
+          "filename": "site_0211_0008-500-0-20240126154919.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/119616/site_0211_0008.jpg",
+            "https://whc.unesco.org/document/109163/site_0211_0006.jpg",
+            "https://whc.unesco.org/document/119617/site_0211_0009.jpg",
+            "https://whc.unesco.org/document/119619/site_0211_0011.jpg",
+            "https://whc.unesco.org/document/119620/site_0211_0012.jpg",
+            "https://whc.unesco.org/document/119621/site_0211_0013.jpg",
+            "https://whc.unesco.org/document/119622/site_0211_0014.jpg",
+            "https://whc.unesco.org/document/119623/site_0211_0015.jpg",
+            "https://whc.unesco.org/document/119624/site_0211_0016.jpg",
+            "https://whc.unesco.org/document/119625/site_0211_0017.jpg",
+            "https://whc.unesco.org/document/119626/site_0211_0018.jpg",
+            "https://whc.unesco.org/document/119627/site_0211_0019.jpg",
+            "https://whc.unesco.org/document/119628/site_0211_0020.jpg",
+            "https://whc.unesco.org/document/119629/site_0211_0021.jpg",
+            "https://whc.unesco.org/document/119630/site_0211_0022.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Valley of Hari River including Minaret of Jam",
+            "ref": "211-001",
+            "latitude": 34.3964166667,
+            "longitude": 64.5158888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/211",
+        "unesco_documents": "https://whc.unesco.org/en/list/211/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/211/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/211/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 23,
+        "inscription_year": 2002
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Minaret and Archaeological Remains of Jam The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province. The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province. Afghanistan Asia and the Pacific Cultural"
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "country": {
+    "code": "MLI",
+    "name": "Mali"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 0,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 3,
+  "sites": [
+    {
+      "site_key": "tomb_of_askia",
+      "uuid": "c2e81d13-82a3-5911-94b6-aed85ab1149f",
+      "unesco_id": "1139",
+      "names": {
+        "en": "Tomb of Askia",
+        "fr": "Tombeau des Askia",
+        "es": "Tumba de los Askia",
+        "ru": "Гробница императора Аския-Мохамеда (город Гао)",
+        "ar": "مدفن أسكيا",
+        "zh": "阿斯基亚王陵"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLI": {
+            "name": "Mali",
+            "iso2": "ML",
+            "iso3": "MLI"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire.",
+          "fr": "La spectaculaire structure pyramidale du tombeau des Askia, édifiée par Askia Mohamed, Empereur du Songhaï, en 1495 dans sa capitale Gao, témoigne de la puissance et de la richesse de l’empire qui s’épanouit aux XVe et XVIe siècles grâce au contrôle du commerce transsaharien, notamment du sel et de l’or. L’ensemble, y compris la tombe pyramidale, les deux mosquées à toit plat, le cimetière de la mosquée et l’espace des assemblées en plein air, fut édifié lorsque Gao devint la capitale de l’Empire songhaï et après qu’Askia Mohamed eut fait de l’islam la religion officielle de l’Empire à son retour de La Mecque.",
+          "es": "La espectacular estructura piramidal de 17 metros de altura de la tumba de la dinastía de los Askia, erigida en 1495 por Askia Mohamed, emperador de Songhai, en su capital de Gao, atestigua la potencia y riqueza de un imperio que cobró auge entre los siglos XV y XVI gracias al control del comercio de la sal y del oro practicado a través del Sahara. Esta tumba es también un magnífico ejemplo de la tradición arquitectónica de construcción de edificios con adobe, característica de la región del Sahel Occidental. El conjunto monumental –que comprende la pirámide funeraria, dos edificios de techo plano de la mezquita, el cementerio de ésta y un ágora al aire libre– fue construido cuando Gao se convirtió en la capital del Imperio Songhai, después del retorno de Askia Mohamed de su peregrinación a La Meca y de la subsiguiente declaración del Islam como religión oficial en sus dominios.",
+          "ru": "Эффектное 17-метровое пирамидальное сооружение-гробница было воздвигнуто в 1495 г. императором Мохамедом I Аския в столице Сонгаи. Этот памятник – свидетельство силы, власти и богатства империи, которая процветала в XV-XVI вв. благодаря контролю над транссахарской торговлей, в основном – солью и золотом. Это также прекрасный пример традиционной монументальной глинобитной постройки на западной окраине Сахары. Комплекс, включающий пирамидальную гробницу, две мечети с плоскими крышами, кладбище при мечети, а также площадь под открытым небом для собраний, был построен, когда столицей империи Сонгаи стал город Гао.",
+          "ar": "يشهد مدفن أسكيا المميَّز والهرمي الشكل الذي بناه سلطان السونغاي، أسكيا محمد، في العام 1495، في عاصمته مدينة غاو، على سلطة الإمبراطوريّة التي ازدهرت في القرنَيْن الخامس عشر والسادس عشر من جرّاء السيطرة على التجارة التي كانت تُمارَس عبر الصحراء، لا سيّما تجارة الملح والذهب وغناها. فمجموعة الآثار ومن ضمنها القبر الهرمي الشكل والمسجدان المسطّحَا السقف ومقبرة المسجد والمكان حيث كانت تدور الاجتماعات في الهواء الطلق، تمّ تشييدها عندما صارت غاو عاصمة إمبراطورية السونغاي وبعد أن جعل أسكيا محمد من الإسلام الديانة الرسميّة للإمبراطوريّة غداة عودته من مكّة المكرّمة.",
+          "zh": "阿斯吉亚王陵给人印象深刻的17米高的金字塔形建筑，由桑海帝国国王阿斯基亚·穆罕默德于1495年建于首都加奥。由这个王陵可以看出15世纪至16世纪这个帝国的强大、富裕和繁荣。当时，桑海帝国控制了横跨撒哈拉的贸易，特别是盐和黄金。它也是西非萨赫勒地区具有重要意义的泥土建筑传统的范例。阿斯基亚王陵包括了金字塔形坟墓、两个平顶清真寺建筑、清真寺公墓和露天的聚会场地。这些都是在阿斯基亚·穆罕默德从麦加回来定伊斯兰教为国教并将加奥作为首都后建造的。"
+        },
+        "full": "The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire.",
+        "justification": "Brief synthesis The Tomb of Askia is located in the town of Gao. The site comprises the following elements: the pyramidal tower, the two flat-roofed mosques, the necropolis and the white stone square. The spectacular pyramidal structure was built by Askia Mohamed, Emperor of the Songhai Empire in 1495. The Tomb of Askia was built when Gao became the capital of the Empire and Islam was adopted as the official religion. The Tomb of Askia is a magnificent example of how the local traditions have adapted to the exigences of Islam in creating an architectural structure unique across the West African Sahel. The Tomb is the most important and best conserved vestige of the powerful and rich Songhai Empire that extended through West Africa in the 15th and 16th centuries. Its value is also invested in its architectural tomb/minaret shape, its prayer rooms, its cemetery and its assembly space that have survived and are still in use. From the architectural perspective, the Tomb of Askia is an eminent example of Sudano-Sahelian style, characterized by rounded forms resulting in the regular renewal of the layer of plaster eroded each winter by the rare but violent rains. The pyramidal form of the tomb, its function as central minaret as well as the length and shape of the pieces of wood comprising the permanent scaffolding, give the Tomb of Askia its distinctive and unique architectural characteristics. Criterion (ii) : The Tomb of Askia reflects the way the local building traditions, in response to Islamic needs, absorbed influences from North Africa to create a unique architectural style across the West African Sahel. Criterion (iii): The Tomb of Askia is an important vestige of the Songhai Empire, which once dominated the Sahel lands of West Africa and controlled the lucrative trans-Saharan trade. Criterion (iv): The Tomb of Askia reflects the distinctive architectural tradition of the West African Sahel and in particular the way buildings evolve over centuries through regular, traditional maintenance practices. Integrity The integrity of the site is fully intact with regard to all its components which remain visually, socially and culturally associated, first in the town of Gao where its elements are integrated into the architectural traditions and in the associated sites (Saneye, Gounzourey, Koima, Kankou Moussa Mosque), important elements for its interpretation. Authenticity The monument reflects the constructive culture of the local populations as regards earthen architecture, even if the necessary repairs regularly carried out have engendered some minor alterations. Reversible, these alterations (tin water spouts, cement stairways, other wooden scaffolding than the hasu – Maerua crassifolia) do not however detract from the authenticity of the site. Protection and management requirements The site belongs to the State. It was inscribed in 2003 on the National Heritage List of Mali and the buffer zone is officially recognized by municipal decree. The management of the site is the responsibility of an association created by the Prefect of Gao in 2002 and comprises representatives of all the principal stakeholders. The Conservation and Management Plan of 2002-2007 was prepared in the framework of the Africa 2009 Programme, in cooperation with two experts from CRAterre-ENSAG (International Centre for Earthen Construction, Grenoble, France). Its implementation has enabled the improvement of the state of conservation and authenticity of the site, and the maintenance of its harmony with the urban fabric of Gao. The long-term specific objectives for the conservation of the Tomb of Askia are the following: redevelop the surrounding wall to include the entire prayer area and assure a better visibility of the site from the Askia Avenue and the prayer area; gradually improve the state of conservation and authenticity of the site while continuing traditional maintenance practices; assure the promotion of the site and its improved use as an educative and tourism resource."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 4.24,
+          "square_km": 0.04,
+          "square_miles": 0.017,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2012",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e63c1c02662fe646dee3ec7d8aaa61bd",
+          "filename": "site_1139_0004-500-0-20151105122446.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115258/site_1139_0004.jpg",
+            "https://whc.unesco.org/document/123772/site_1139_0015.jpg",
+            "https://whc.unesco.org/document/123773/site_1139_0016.jpg",
+            "https://whc.unesco.org/document/123774/site_1139_0017.jpg",
+            "https://whc.unesco.org/document/123775/site_1139_0018.jpg",
+            "https://whc.unesco.org/document/123778/site_1139_0021.jpg",
+            "https://whc.unesco.org/document/123779/site_1139_0022.jpg",
+            "https://whc.unesco.org/document/123780/site_1139_0023.jpg",
+            "https://whc.unesco.org/document/127629/site_1139_0024.jpg",
+            "https://whc.unesco.org/document/127630/site_1139_0025.jpg",
+            "https://whc.unesco.org/document/133120/site_1139_0026.jpg",
+            "https://whc.unesco.org/document/133121/site_1139_0027.jpg",
+            "https://whc.unesco.org/document/133123/site_1139_0029.jpg",
+            "https://whc.unesco.org/document/133124/site_1139_0030.jpg",
+            "https://whc.unesco.org/document/133125/site_1139_0031.jpg",
+            "https://whc.unesco.org/document/133126/site_1139_0032.jpg",
+            "https://whc.unesco.org/document/133127/site_1139_0033.jpg",
+            "https://whc.unesco.org/document/133128/site_1139_0034.jpg",
+            "https://whc.unesco.org/document/133129/site_1139_0035.jpg",
+            "https://whc.unesco.org/document/181133/site_1139_0036.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Tomb of Askia",
+            "ref": "1139",
+            "latitude": 16.2898,
+            "longitude": -0.04456
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1139",
+        "unesco_documents": "https://whc.unesco.org/en/list/1139/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1139/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1139/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Tomb of Askia The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire. The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire. Mali Africa Cultural"
+    },
+    {
+      "site_key": "timbuktu",
+      "uuid": "2f7f397c-b462-587a-bd4d-585513a825c5",
+      "unesco_id": "119",
+      "names": {
+        "en": "Timbuktu",
+        "fr": "Tombouctou",
+        "es": "Tombuctú",
+        "ru": "Исторический город Томбукту",
+        "ar": "تمبوكتو",
+        "zh": "廷巴克图"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLI": {
+            "name": "Mali",
+            "iso2": "ML",
+            "iso3": "MLI"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Home of the prestigious Koranic Sankore University and other madrasas, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification.",
+          "fr": "Dotée de la prestigieuse université coranique de Sankoré et d'autres medersa, Tombouctou était aux XVe et XVIe siècles une capitale intellectuelle et spirituelle et un centre de propagation de l'islam en Afrique. Ses trois grandes mosquées (Djingareyber, Sankoré et Sidi Yahia) témoignent de son âge d'or. Bien que restaurés au XVIe siècle, ces monuments sont aujourd'hui menacés par l'avancée du sable.",
+          "es": "Sede de la prestigiosa universidad coránica de Sankoré y varias madrazas, Tombuctú fue durante los siglos XV y XVI una de las capitales intelectuales y espirituales del Islam y un foco de propagación de esta religión en África. Las tres grandes mezquitas de Djingareyber, Sankoré y Sidi Yahia son testigos de su edad de oro pasada. Pese a los continuos trabajos de restauración realizados, estos monumentos se ven amenazados hoy en día por el avance de la arena.",
+          "ru": "Томбукту, место нахождения престижного университета Кораник-Санкоре и других медресе, являлся интеллектуальной, духовной столицей и центром распространения ислама в Африке в XV-XVI вв. Его три больших мечети – Джингеребер, Санкоре и Сиди Яхья – напоминают о «золотом веке» Томбукту. Несмотря на постоянно осуществляемые работы по консервации, эти памятники находятся сегодня в угрожающем положении из-за наступления пустыни.",
+          "ar": "كانت تمبوكتو التي تتميّز بالمسجد الجامعي المدهش الواقع في سانكوري وبمدارسَ أخرى، في القرنَيْن الخامس عشر والسادس عشر، عاصمةً فكريّةً وروحيّةً ومركزًا لنشر الاسلام في أفريقيا. فمساجدها الثلاثة (جينقري بير وسانكوري وسيدي يحي) تشهد على عصرها الذهبي. وبالرغم من ترميمها في القرن السادس عشر، تُعتبَر هذه النصب الأثريّة مُهدّدةً اليوم بفعل تقدّم الرمال.",
+          "zh": "这里是声名显赫的科兰尼克·桑科雷大学的所在地。廷巴克图在公元15世纪至16世纪成为了宗教文化中心，同时也是伊斯兰文化向非洲传播的中心。津加里贝尔、桑科尔和西迪·牙希亚这三座雄伟的清真寺反映了廷巴克图的黄金年代。尽管这些建筑不断地被修复，但是今天它们仍然受到风沙侵蚀的威胁。"
+        },
+        "full": "Home of the prestigious Koranic Sankore University and other madrasas, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification.",
+        "justification": "Brief synthesis Located at the gateway to the Sahara desert, within the confines of the fertile zone of the Sudan and in an exceptionally propitious site near to the river, Timbuktu is one of the cities of Africa whose name is the most heavily charged with history. Founded in the 5th century, the economic and cultural apogee of Timbuktu came about during the15th and 16th centuries. It was an important centre for the diffusion of Islamic culture with the University of Sankore, with 180 Koranic schools and 25,000 students. It was also a crossroads and an important market place where the trading of manuscripts was negotiated, and salt from Teghaza in the north, gold was sold, and cattle and grain from the south. The Djingareyber Mosque, the initial construction of which dates back to Sultan Kankan Moussa, returning from a pilgrimage to Mecca, was rebuilt and enlarged between 1570 and 1583 by the Imam Al Aqib, the Qadi of Timbuktu, who added all the southern part and the wall surrounding the cemetery located to the west. The central minaret dominates the city and is one of the most visible landmarks of the urban landscape of Timbuktu. Built in the 14th century, the Sankore Mosque was, like the Djingareyber Mosque, restored by the Imam Al Aqib between 1578 and 1582. He had the sanctuary demolished and rebuilt according to the dimensions of the Kaaba of the Mecca. The Sidi Yahia Mosque, to the south of the Sankore Mosque, was built around 1400 by the marabout Sheik El Moktar Hamalla in anticipation of a holy man who appeared forty years later in the person of Cherif Sidi Yahia, who was then chosen as Imam. The mosque was restored in 1577-1578 by the Imam Al Aqib. The three big Mosques of Djingareyber, Sankore and Sidi Yahia, sixteen mausoleums and holy public places, still bear witness to this prestigious past. The mosques are exceptional examples of earthen architecture and of traditional maintenance techniques, which continue to the present time. Criterion (ii): The mosques and holy places of Timbuktu have played an essential role in the spread of Islam in Africa at an early period. Criterion (iv): The three great mosques of Timbuktu, restored by the Qadi Al Aqib in the 16th century, bear witness to the golden age of the intellectual and spiritual capital at the end of the Askia dynasty. Criterion (v): The three mosques and mausoleums are outstanding witnesses to the urban establishment of Timbuktu, its important role of commercial, spiritual and cultural centre on the southern trans-Saharan trading route, and its traditional characteristic construction techniques. Their environment has now become very vulnerable under the impact of irreversible change. Integrity The three mosques and the sixteen mausoleums comprising the property are a cliché of the former great city of Timbuktu that, in the 16th century, numbered 100,000 inhabitants. The vestiges of urban fabric are essential for their context. However, as indicated at the time of inscription of the property, rampant urbanization which is rife in Timbuktu, as in Djenne, is particularly threatening to the architecture, and the large public squares and markets. Contemporary structures have made irretrievable breaches in the original parcelling and obviously exceed the scale of the traditional buildings. This process is ongoing and most recently a new very large institute was built on one of the public squares, compromising the integrity of the Sankore Mosque. Urban development pressures, associated with the lack of maintenance and flooding, resulting from the heavy rains, threaten the coherence and integrity of the urban fabric and its relation to the property. The three mosques are stable but the mausoleums require maintenance, as they are fragile and vulnerable in the face of irreversible changes in the climate and urban fabric. Authenticity The three mosques retain their value in architectural terms, traditional construction techniques associated to present-day maintenance, and their use. However, the Sankore Mosque has lost a part of the public square that was associated with it following the construction of the new Ahmed Baba Centre. Following this construction, the status of the mosque in the urban context and part of its signification have been compromised and require review and reconsideration. Overall, because of the threat from the fundamental changes to the traditional architecture and the vestiges of the old city, the mosques and mausoleums risk losing their capacity to dominate their environment and to stand as witnesses to the once prestigious past of Timbuktu. Protection and management requirements The site of Timbuktu has three fundamental management tools: a Revitalization and Safeguarding Plan of the Old Town (2005), and a Strategic Sanitary Plan (2005), that are being implemented despite certain difficulties; and a Conservation and Management Plan (2006-2010) is being implemented and which shall be reassessed shortly. The management system of the property is globally appropriate as its legal protection is jointly assured by the community of Timbuktu through management committees of the mosques, the cultural Mission of Timbuktu and the Management and Conservation Committee of the Old Town of Timbuktu. This mechanism is strengthened by two practical functioning modalities, initiated in consultation with the World Heritage Centre: the Town Planning Regulation and the Conservation Manual. The specific long-term objectives are the extension of the buffer zone by approximately 500 m to assure the protection of the inscribed property ; the development of the historic square of Sankore to integrate corrective measures proposed by the Committee at its 33rd session and by the reactive monitoring mission of March 2010 ; the extension of the inscribed property to include the entire Timbuktu Medina ; the development of an integrated conservation and sustainable and harmonious management project for the site, in the wider framework of development of the urban commune and in close cooperation with the elected members of the Territorial Communities of Timbuktu and the development partners ; the active conservation of the mausoleums."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4,
+            5
+          ],
+          "display": "(ii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2012",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b6d4988a02a560fa02fc898e658447ff",
+          "filename": "site_0119_0002.jpg",
+          "dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107959/site_0119_0002.jpg",
+            "https://whc.unesco.org/document/107962/site_0119_0003.jpg",
+            "https://whc.unesco.org/document/107963/site_0119_0004.jpg",
+            "https://whc.unesco.org/document/107965/site_0119_0005.jpg",
+            "https://whc.unesco.org/document/107967/site_0119_0006.jpg",
+            "https://whc.unesco.org/document/107969/site_0119_0007.jpg",
+            "https://whc.unesco.org/document/107971/site_0119_0008.jpg",
+            "https://whc.unesco.org/document/107973/site_0119_0009.jpg",
+            "https://whc.unesco.org/document/107975/site_0119_0010.jpg",
+            "https://whc.unesco.org/document/107977/site_0119_0011.jpg",
+            "https://whc.unesco.org/document/107979/site_0119_0012.jpg",
+            "https://whc.unesco.org/document/107981/site_0119_0013.jpg",
+            "https://whc.unesco.org/document/121786/site_0119_0020.jpg",
+            "https://whc.unesco.org/document/133054/site_0119_0030.jpg",
+            "https://whc.unesco.org/document/133055/site_0119_0031.jpg",
+            "https://whc.unesco.org/document/133056/site_0119_0032.jpg",
+            "https://whc.unesco.org/document/133058/site_0119_0034.jpg",
+            "https://whc.unesco.org/document/133060/site_0119_0036.jpg",
+            "https://whc.unesco.org/document/133062/site_0119_0038.jpg",
+            "https://whc.unesco.org/document/139068/site_0119_0039.jpg",
+            "https://whc.unesco.org/document/139069/site_0119_0040.jpg",
+            "https://whc.unesco.org/document/139070/site_0119_0041.jpg",
+            "https://whc.unesco.org/document/139071/site_0119_0042.jpg",
+            "https://whc.unesco.org/document/139073/site_0119_0044.jpg",
+            "https://whc.unesco.org/document/139075/site_0119_0046.jpg",
+            "https://whc.unesco.org/document/139076/site_0119_0047.jpg",
+            "https://whc.unesco.org/document/139077/site_0119_0048.jpg",
+            "https://whc.unesco.org/document/139078/site_0119_0049.jpg",
+            "https://whc.unesco.org/document/139079/site_0119_0050.jpg",
+            "https://whc.unesco.org/document/139080/site_0119_0051.jpg",
+            "https://whc.unesco.org/document/139081/site_0119_0052.jpg",
+            "https://whc.unesco.org/document/139082/site_0119_0053.jpg",
+            "https://whc.unesco.org/document/139083/site_0119_0054.jpg",
+            "https://whc.unesco.org/document/139084/site_0119_0055.jpg",
+            "https://whc.unesco.org/document/139085/site_0119_0056.jpg",
+            "https://whc.unesco.org/document/139086/site_0119_0057.jpg",
+            "https://whc.unesco.org/document/139087/site_0119_0058.jpg",
+            "https://whc.unesco.org/document/139088/site_0119_0059.jpg",
+            "https://whc.unesco.org/document/181134/site_0119_0060.jpg",
+            "https://whc.unesco.org/document/107957/site_0119_0001.jpg",
+            "https://whc.unesco.org/document/107983/site_0119_0014.jpg",
+            "https://whc.unesco.org/document/123766/site_0119_0021.jpg",
+            "https://whc.unesco.org/document/123768/site_0119_0023.jpg",
+            "https://whc.unesco.org/document/123770/site_0119_0025.jpg",
+            "https://whc.unesco.org/document/123771/site_0119_0026.jpg",
+            "https://whc.unesco.org/document/125389/site_0119_0027.jpg",
+            "https://whc.unesco.org/document/125390/site_0119_0028.jpg"
+          ],
+          "count": 47
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Timbuktu",
+            "ref": "119rev",
+            "latitude": 16.77333333,
+            "longitude": -2.999444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/119",
+        "unesco_documents": "https://whc.unesco.org/en/list/119/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/119/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/119/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Timbuktu Home of the prestigious Koranic Sankore University and other madrasas, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification. Home of the prestigious Koranic Sankore University and other madrasas, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification. Mali Africa Cultural"
+    },
+    {
+      "site_key": "cliff_of_bandiagara_land_of_the_dogons",
+      "uuid": "5484672c-25d8-551c-84ea-da06f3929bc2",
+      "unesco_id": "516",
+      "names": {
+        "en": "Cliff of Bandiagara (Land of the Dogons)",
+        "fr": "Falaises de Bandiagara (pays dogon)",
+        "es": "Farallones de Bandiagara (País de los dogones)",
+        "ru": "Нагорье Бандиагара (земля догонов)",
+        "ar": "صخور باندياغارا (بلاد الدوغون)",
+        "zh": "邦贾加拉悬崖(多贡斯土地)"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLI": {
+            "name": "Mali",
+            "iso2": "ML",
+            "iso3": "MLI"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na, or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites.",
+          "fr": "En plus de ses paysages exceptionnels de falaises et de plateau gréseux intégrant de très belles architectures (habitations, greniers, autels, sanctuaires et toguna – abris des hommes), le site de la région de Bandiagara possède des traditions sociales prestigieuses encore vivantes (masques, fêtes rituelles et populaires, cultes périodiquement rendus aux ancêtres à travers plusieurs cérémonies). Par ses caractéristiques géologiques, archéologiques et ethnologiques et ses paysages, le plateau de Bandiagara est l'un des sites les plus imposants d'Afrique de l'Ouest.",
+          "es": "Además de sus excepcionales paisajes de farallones y mesetas de arenisca con hermosas realizaciones arquitectónicas –viviendas, graneros, altares, santuarios y lugares de reunión o “togunas”–, la meseta de Bandiagara conserva toda una serie de tradiciones sociales ancestrales como la confección de máscaras y la celebración de fiestas populares y rituales, o ceremonias de culto a los antepasados. El paisaje y las características geológicas, arqueológicas y etnológicas de esta meseta hacen de ella uno los sitios más impresionantes del África Occidental.",
+          "ru": "Бандиагара – это своеобразный ландшафт обрывистого песчаникового плато с уникальной скальной архитектурой (жилища, зернохранилища, алтари, святилища и места для общественных собраний). В этой местности еще сохраняются старинные народные традиции догонов (маскарады, празднества, различные ритуалы, в т.ч. связанные с культом предков). Археологическая и этнографическая ценность, наряду с уникальным ландшафтом, делает нагорье Бандиагара одним из наиболее экзотичных мест во всей Западной Африке.",
+          "ar": "يملك موقع باندياغارا، بالإضافة إلى مناظره الطبيعية الخلابة المؤلّفة من الصخور والهضبات الرمليّة التي تتميّز بالهندسات الجميلة (كالبيوت ومخازن الغلال والمعابد والملاجئ)، تقاليدَ اجتماعيّةً مدهشةً لا تزال تُمارَس حتى اليوم (كالأقنعة والاحتفالات الدينيّة والشعبيّة والشعائر الدينيّة التي تُقام بصورةٍ دوريّةٍ للأجداد في مناسباتٍ عديدة). وتُعتبر هضبة باندياغارا أحد أهم المواقع في غرب أفريقيا ويعود ذلك إلى صفاتها الجيولوجيّة والأثريّة وتنوّع الشعوب التي سكنتها ومناظرها الطبيعيّة.",
+          "zh": "邦贾加拉的突出地形是悬崖和沙土高原，悬崖上建有大型建筑（房屋、粮仓、圣坛、神殿和集会厅）。这里现在仍然保留着许多悠久的传统（面纱、集会、祭祀仪式等）。正是这些建筑学、考古学和人类学的价值，以及优美的风景，使邦贾加拉高地成为最具西非地质地貌特征的地方之一。"
+        },
+        "full": "The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na, or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites.",
+        "justification": "Brief synthesis The Cliff of Bandiagara, Land of the Dogons, is a vast cultural landscape covering 400,000 ha and includes 289 villages scattered between the three natural regions: sandstone plateau, escarpment, plains (more than two-thirds of the listed perimeter are covered by plateau and cliffs). The communities at the site are essentially the Dogon, and have a very close relationship with their environment expressed in their sacred rituals and traditions. The site of the Land of the Dogons is an impressive region of exceptional geological and environmental features. Human settlements in the region, since Palaeolithic times, have enabled the development and harmonious integration into the landscape of rich and dense tangible and intangible cultures, the best known of which are those of the Tellem, that are thought to live in the caves, and the Dogon. This hostile milieu and difficult access has been, since the 15th century, a natural refuge that corresponded to the need for defence of the Dogons in the face of formidable invaders. Entrenched on the plateau and hanging to cliff faces, the Dogon were able to conserve their centuries-old culture and traditions, thanks to this defensive shelter. The architecture of the Dogon land has been adapted to benefit from the physical constraints of the place. Whether on the high plateau, the cliff-faces, or on the plain, the Dogon have exploited all the elements available to build their villages that reflect their ingenuity and their philosophy of life and death. In certain cultural areas, the Dogon villages comprise numerous granaries, for the most part square with a thatched tapering roof. The gin’na, or large family house, is generally built on two levels. Its facade built from banco, is windowless but has a series of niches and doors, often decorated with sculptured motifs: rows of male and female characters which symbolize the couple’s successive generations. One of the most characteristic forms of the Land of the Dogon is that of the togu-na, the large shelter, a long construction that provides shelter under a roof of branches supported by roughly-shaped wooden poles, for a platform with benches for the men. The totemic sanctuaries (binu), privileged places, are of a great variety: some, in caves, keep alive the cult places of the Tellem; others, built of banco, resemble houses. The most venerated are the responsibility of the Hogon, the priest of one or several villages living alone, his source of inspiration being the snake, Lèbe, whose totem is often sculpted near the door of his dwelling. The irruption of new « written religions » (Islam and Christianity) since at least the 18th century has contributed to the vulnerability of the heritage that today has suffered from the negative effects of globalization linked to the increasing development of cultural tourism and the phenomena of rural exodus, consequence of the drought of the last decades. Criterion (v): The Land of the Dogon is the outstanding manifestation of a system of thinking linked to traditional religion that has integrated harmoniously with architectural heritage, very remarkably in a natural landscape of rocky scree and impressive geological features. The intrusion of new written religions (Islam and Christianity) since at least the 18th century has contributed towards the vulnerability of the heritage that today suffers from adverse effects of globalization. Criterion (vii): The cliff and its rocky scree constitute a natural area of unique and exceptional beauty in West Africa. The diversity of geomorphological features (plateau, cliffs and plains) of the site are characterized by the presence of natural monuments (caves, secondary dunes and rock shelters) that bear witness to the continued influence of the different erosion phenomena. It is also in the natural environment that the endemic plant Acridocarpus monodii is found, its growth area being limited to the cliffs, and specific medicinal plants used by the Dogon therapists and healers. These plants suffer from gradual decline due to climate change (drought and desertification) and logging. The relationship of the Dogon people with their environment is also expressed in the sacred rituals associating spiritually the pale fox, the jackal and the crocodile. Integrity Due to the socio-economic phenomena (exodus, scholarization, infrastructure development), human activities and the degradation of the environment (climate change causing droughts, desertification or also torrential rains; demographic pressure), the populations are leaving the villages located on the steep escarpments for the plain. Some intangible cultural practices undergo mutation linked to contact with other imported value systems (religions, cultural tourism...). The integrity of this very extensive property is, consequently, threatened as several sectors no longer contain all the attributes of the Outstanding Universal Value. Authenticity The social and cultural traditions of the Dogon are among the best preserved of sub-saharan Africa, despite certain important irreversible socio-economic mutations. The villages and their inhabitants are faithful to the ancestral values linked to an original life style. The harmonious integration of cultural elements (architecture) in the natural landscape remains authentic, outstanding and unique. Nevertheless, the traditional practices associated to the living quarters and the building constructions have become vulnerable, and in places the relationship between the material attributes and the Outstanding Universal Value are fragile. Protection and management requirements The property is listed in national heritage by Decree No 89 – 428 P-RM of 28 December 1989 as a natural and cultural sanctuary. The Law regulating forestry exploitation (No.68-8/AN-RN of February 1968) as well as the Ordinance No. 60/CMLN of 11 November 1969 concerning hunting are also applicable. The Ministry of Culture of Mali, the overall body responsible for the protection of the property, has delegated the management to the Cultural Mission of Bandiagara. The Cultural Mission of Bandiagara has prepared a management and conservation plan for the site (2006-2010). This plan requires the implementation of activities relating to integrated conservation programmes. It highlights the improvement of living conditions of the communities, bearers of the heritage values of the site. For a sustainable and effective management of the site, priority is given to the implementation of programmes inscribed in the management and conservation plan of the site. This plan calls for the correlation of the management of heritage and development of the local economy. The Land of the Dogon is a living site, but fragile, and certain important values can only be preserved by taking into consideration the well-being of the local communities, translated by the implementation of targeted development and infrastructural projects (for example, the provision of water to high-perched sites and the economic enhancement of heritage resources). It is essential to assess the implementation of the management plan to better pinpoint the concerns of the populations and those responsible bodies of the decentralized territorial communities. Another concern is the need to revise the listing of the site. Any revision of the boundaries should reflect the vulnerabilities of certain parts of the property in terms of authenticity and integrity."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [
+            7
+          ],
+          "all": [
+            5,
+            7
+          ],
+          "display": "(v)(vii)",
+          "count": 2,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 327390,
+          "square_km": 3273.9,
+          "square_miles": 1324.902,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1989,
+          "all_dates": [
+            1989
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1989,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f3a1c7cddf5d9f19d4171fc0a7252aeb",
+          "filename": "site_0516_0001.jpg",
+          "dimensions": {
+            "width": 532,
+            "height": 800
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110589/site_0516_0001.jpg",
+            "https://whc.unesco.org/document/110591/site_0516_0002.jpg",
+            "https://whc.unesco.org/document/110593/site_0516_0003.jpg",
+            "https://whc.unesco.org/document/110595/site_0516_0004.jpg",
+            "https://whc.unesco.org/document/110597/site_0516_0005.jpg",
+            "https://whc.unesco.org/document/110599/site_0516_0006.jpg",
+            "https://whc.unesco.org/document/125404/site_0516_0019.jpg",
+            "https://whc.unesco.org/document/125405/site_0516_0020.jpg",
+            "https://whc.unesco.org/document/125406/site_0516_0021.jpg",
+            "https://whc.unesco.org/document/126638/site_0516_0022.jpg",
+            "https://whc.unesco.org/document/126639/site_0516_0023.jpg",
+            "https://whc.unesco.org/document/126640/site_0516_0024.jpg",
+            "https://whc.unesco.org/document/126641/site_0516_0025.jpg",
+            "https://whc.unesco.org/document/126642/site_0516_0026.jpg",
+            "https://whc.unesco.org/document/126643/site_0516_0027.jpg",
+            "https://whc.unesco.org/document/133083/site_0516_0030.jpg",
+            "https://whc.unesco.org/document/133085/site_0516_0032.jpg",
+            "https://whc.unesco.org/document/133087/site_0516_0034.jpg",
+            "https://whc.unesco.org/document/133088/site_0516_0035.jpg",
+            "https://whc.unesco.org/document/133089/site_0516_0036.jpg",
+            "https://whc.unesco.org/document/133090/site_0516_0037.jpg",
+            "https://whc.unesco.org/document/133092/site_0516_0039.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Village de Songo",
+            "ref": "516-002",
+            "latitude": 14.4049575002,
+            "longitude": -3.6986554779
+          },
+          {
+            "name": "La Falaise de Bandiagara",
+            "ref": "516-001",
+            "latitude": 14.4282089188,
+            "longitude": -3.3235957961
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/516",
+        "unesco_documents": "https://whc.unesco.org/en/list/516/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/516/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/516/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 36,
+        "inscription_year": 1989
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cliff of Bandiagara (Land of the Dogons) The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na, or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites. The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na, or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites. Mali Africa Mixed"
+    },
+    {
+      "site_key": "old_towns_of_djenne",
+      "uuid": "93be6874-cdd7-55d4-93e2-4ff4a8e90e87",
+      "unesco_id": "116",
+      "names": {
+        "en": "Old Towns of Djenné",
+        "fr": "Villes anciennes de Djenné",
+        "es": "Ciudades antiguas de Djenné",
+        "ru": "Старые города Дженне",
+        "ar": "مدن جنّة القديمة",
+        "zh": "杰内古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLI": {
+            "name": "Mali",
+            "iso2": "ML",
+            "iso3": "MLI"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (toguere) as protection from the seasonal floods.",
+          "fr": "Habité depuis 250 av. J.-C., le site de Djenné s'est développé pour devenir un marché et une ville importante pour le commerce transsaharien de l'or. Aux XVe et XVIe siècles, la ville a été un foyer de diffusion de l'islam. Ses maisons traditionnelles, dont près de 2 000 ont été préservées, sont bâties sur des petites collines toguere et adaptées aux inondations saisonnières.",
+          "es": "Poblado desde el año 250 a.C., el sitio de Djenné llegó a ser un centro mercantil importante y un eslabón de la ruta transahariana del oro. En los siglos XV y XVI fue un foco de propagación del Islam. Sus viviendas tradicionales –de las que se conservan unas 2.000 aproximadamente– se construyeron en pequeños altozanos (toguere) para protegerlas contra las inundaciones estacionales.",
+          "ru": "Обитаемый с 250 г. до н.э., Дженне был рыночным центром и важным звеном транссахарской золототорговли. В XV-XVI вв. город стал одним из мест, откуда распространялся ислам. В городе сохранилось около 2 тыс. традиционных жилищ, построенных на небольших холмиках – «тогуере» - для защиты от сезонных наводнений.",
+          "ar": "تطوّر موقع جنة المأهول منذ العام 250 ق.م.، ليصبح سوقًا ومدينةً مهمَّيْن لتجارة الذهب عبر الصحراء. وفي القرنَيْن الخامس عشر والسادس عشر، كانت المدينة مركزًا لنشر الاسلام. وأُنشئت منازلها التقليديّة التي لم يتبقّ سوى ألفَيْن منها على تلالٍ صغيرةٍ تمّ تكييفها حتى تتصدّى للفياضانات الموسميّة.",
+          "zh": "杰内自公元前250年开始有人居住，后来发展成一个市场中心和撒哈拉黄金贸易的重要中心。15世纪到16世纪间杰内成为伊斯兰教义传播的中心。城内的古建筑约有2 000座被完好地保存下来。这些建筑为防止季节性洪水，房屋建在了小丘之上 。"
+        },
+        "full": "Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (toguere) as protection from the seasonal floods.",
+        "justification": "Brief synthesis Djenné, chief town of the Djenné Circle, located 130 km south-west of Mopti (the regional capital) and roughly 570 km north-east of Bamako (the national capital), is one of the oldest towns of sub-Saharan Africa. The cultural property “Old Towns of Djenné” is a serial property comprising four archaeological sites, namely Djenné-Djeno, Hambarkétolo, Kaniana and Tonomba, along with the old fabric of the present town of Djenné covering an area of 48.5 ha and divided into ten districts. The property is an ensemble that over many years has symbolised the typical African city. It is also particularly representative of Islamic architecture in sub-Saharan Africa. The property is characterised by the intensive and remarkable use of earth specifically in its architecture. The outstanding mosque of great monumental and religious value is an outstanding example of this. The town is renowned for its civic constructions, with the distinctive style of verticality and buttresses as well as the elegant monumental houses with intricate facades. Excavations carried out in 1977, 1981, 1996 and 1997, revealed an extraordinary page of human history dating back to the 3rd century B.C. They have brought to light an archaeological ensemble which bears witness to a pre-Islamic urban structure with a wealth of circular or rectangular constructions in djenné ferey and numerous archaeological remains(funerary jars, pottery, millstones, grinders, metal scoria etc.). The property « Old Towns of Djenné » comprises the town of Djenné, characterised by a remarkable architecture and its urban fabric, of rare harmony, and four (4) archaeological sites bearing witness to a long-gone pre-Islamic civilization. The property « Old Towns of Djenné » still retains the values which justified its outstanding universal value at its inscription on the UNESCO World Heritage List. First and foremost, the archaeological, historic, religious and architectural values should be mentioned. Criterion (iii): Djenné-Djeno, along with Hambarketolo, Tonomba and Kaniana bears exceptional witness to the pre-Islamic civilizations on the inland Delta of the Niger. The discovery of many dwellings on the site of Djenné-Djeno (remains of traditional brick structures (djénné ferey), funerary jars) as well as a wealth of terra cotta artifacts and metal make this a major archaeological site for the study of the evolution of dwellings, industrial and craft techniques. Criterion (iv): The ancient fabric of Djenné is an outstanding example of an architectural group of buildings illustrating a significant historic period. Influenced by Moroccan architecture (1591), and later marked by the Toucouleur Empire in 1862, the architecture of Djenné is characterized by its verticality, its buttresses punctuating the facades of the two-storey houses whose entrances are always given special attention. The reconstruction of the Mosque (1906-1907) resulted in the creation of a monument representing local religious architecture. Integrity The vestiges of the four inscribed archaeological sites remain intact (pottery shards, funerary jars, remains of walls and circular or rectangular dwellings of traditional round mud bricks (djénné ferey), statuettes and mud bricks, metal scoria, millstones, grinders and Islamic burial grounds). The marshes where the small islands are located ensure a relative physical integrity. However, these inscribed archaeological sites are vulnerable to very serious threats such as leaching, erosion and gullying by inclement weather and uncontrolled urbanization. In addition to its prestigious mosque, Djenné still retains its elegant monumental houses of rigorous composition with façades sometimes decorated by a porch, and supporting pilasters with, in the centre, “the potige”, a decorative motif indicating the position of the front door. This earthen architecture, one of the criteria for inscription of the property on the World Heritage List, has for several decades undergone modifications altering its aesthetic values, for example: the introduction of modern materials, namely cement, fired bricks and metal doors and windows; the disappearance of decorative features on the façades, characteristic of the earthen architecture of Djenné. Authenticity The authenticity of the site, in particular the inscribed ancient fabric, is testified by the use of little-modified construction materials: earth is the overall privileged material. The transmission of construction techniques is entrusted to the Barey Corporation, stone masons from generation to generation. Finally, through spirit, wisdom, welcome and the Great Mosque, Djenné is and remains the “pious town”. Protection and management requirements The town of Djenné benefits from legal protection through national heritage listing of the property and the creation of a cultural mission for its conservation. The Great Mosque, the Koranic schools and the Tombs of the Saints benefit from customary protection through the establishment of a management committee for the Mosque, the association for Koranic schools and supervision by the village chief, its Council and district chiefs. The site possesses a “conservation and management plan” for a five (5)-year duration, 2008-2012, which has been prepared in cooperation with the communities following a participatory approach. Possible problems could occur with an increase in the population and building speculation. The boundaries of the protection zone are vague. An urban regulation which is under preparation could assist in defining the said boundaries and contribute towards sustainable development of the town and respect the heritage values. The Cultural Mission requires the provision of human and material resources to ensure the control of the property against looting and other threats to the cultural heritage."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/72de1bc4311d9e249d19a67ca4750524",
+          "filename": "site_0116_0001.jpg",
+          "dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107919/site_0116_0001.jpg",
+            "https://whc.unesco.org/document/107921/site_0116_0002.jpg",
+            "https://whc.unesco.org/document/107923/site_0116_0003.jpg",
+            "https://whc.unesco.org/document/107925/site_0116_0004.jpg",
+            "https://whc.unesco.org/document/107927/site_0116_0005.jpg",
+            "https://whc.unesco.org/document/107929/site_0116_0006.jpg",
+            "https://whc.unesco.org/document/107931/site_0116_0007.jpg",
+            "https://whc.unesco.org/document/107934/site_0116_0008.jpg",
+            "https://whc.unesco.org/document/107935/site_0116_0009.jpg",
+            "https://whc.unesco.org/document/107937/site_0116_0010.jpg",
+            "https://whc.unesco.org/document/107939/site_0116_0011.jpg",
+            "https://whc.unesco.org/document/107941/site_0116_0012.jpg",
+            "https://whc.unesco.org/document/107943/site_0116_0013.jpg",
+            "https://whc.unesco.org/document/107945/site_0116_0014.jpg",
+            "https://whc.unesco.org/document/107948/site_0116_0015.jpg",
+            "https://whc.unesco.org/document/107950/site_0116_0016.jpg",
+            "https://whc.unesco.org/document/107952/site_0116_0017.jpg",
+            "https://whc.unesco.org/document/125368/site_0116_0025.jpg",
+            "https://whc.unesco.org/document/125369/site_0116_0026.jpg",
+            "https://whc.unesco.org/document/129345/site_0116_0029.jpg",
+            "https://whc.unesco.org/document/133110/site_0116_0033.jpg",
+            "https://whc.unesco.org/document/133111/site_0116_0034.jpg",
+            "https://whc.unesco.org/document/133113/site_0116_0036.jpg",
+            "https://whc.unesco.org/document/133116/site_0116_0039.jpg",
+            "https://whc.unesco.org/document/133117/site_0116_0040.jpg",
+            "https://whc.unesco.org/document/133118/site_0116_0041.jpg",
+            "https://whc.unesco.org/document/133119/site_0116_0042.jpg"
+          ],
+          "count": 27
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Kaniana",
+            "ref": "116-002",
+            "latitude": 13.9124695918,
+            "longitude": -4.5692107589
+          },
+          {
+            "name": "Tonomba",
+            "ref": "116-003",
+            "latitude": 13.9066179617,
+            "longitude": -4.5477168217
+          },
+          {
+            "name": "Djenné",
+            "ref": "116-004",
+            "latitude": 13.9052660536,
+            "longitude": -4.5553714164
+          },
+          {
+            "name": "Hambarketolo",
+            "ref": "116-005",
+            "latitude": 13.8957696622,
+            "longitude": -4.5416879971
+          },
+          {
+            "name": "Djenné-Djeno (ancienne Djenné)",
+            "ref": "116-001",
+            "latitude": 13.8902549013,
+            "longitude": -4.5404433959
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/116",
+        "unesco_documents": "https://whc.unesco.org/en/list/116/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/116/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/116/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Towns of Djenné Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (toguere) as protection from the seasonal floods. Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (toguere) as protection from the seasonal floods. Mali Africa Cultural"
+    }
+  ]
+}

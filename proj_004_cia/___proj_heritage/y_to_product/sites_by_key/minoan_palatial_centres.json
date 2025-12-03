@@ -1,0 +1,194 @@
+{
+  "site_key": "minoan_palatial_centres",
+  "uuid": "3a65622f-fe03-585b-ad89-bf45b5095111",
+  "unesco_id": "1733",
+  "names": {
+    "en": "Minoan Palatial Centres",
+    "fr": "Centres palatiaux minoens",
+    "es": "Centros palaciegos minoicos",
+    "ru": "Минойские дворцовые центры",
+    "ar": "المراكز المينوسية المهيبة",
+    "zh": "米诺斯王宫中心"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "GRC": {
+        "name": "Greece",
+        "iso2": "GR",
+        "iso3": "GRC"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history.",
+      "fr": "Ce bien en série comprend six sites archéologiques situés en Crète, datant de 1 900 à 1 100 avant notre ère. Ces sites illustrent la civilisation minoenne, une importance société préhistorique de la Méditerranée. Les centres palatiaux remplissaient des fonctions administratives, économiques et religieuses, caractérisés par une architecture poussée, un urbanisme complexe et des fresques colorées. Ils révèlent des systèmes d’écriture précoces, des réseaux maritimes, des échanges culturels et mettent en évidence la sophistication de la société minoenne et son influence durable sur l’histoire méditerranéenne.",
+      "es": "Se trata de un conjunto de seis yacimientos arqueológicos en Creta que datan del 1900 al 1100 a.C. Estos lugares son representativos de la civilización minoica, una importante cultura prehistórica mediterránea. Los centros palaciegos funcionaban como centros administrativos, económicos y religiosos, se caracterizan por una arquitectura avanzada, planificación urbana y frescos vibrantes que revelan sistemas de escritura temprana, redes marítimas e intercambios culturales. El conjunto destaca la complejidad de la estructura social de los minoicos y su influencia perdurable en la historia mediterránea.",
+      "ru": "Этот серийный объект включает шесть археологических памятников на Крите, относящихся к периоду с 1900 по 1100 год до н. э. Памятники представляют минойскую цивилизацию — одну из ключевых первобытных культур Средиземноморья. Дворцовые центры выполняли административные, экономические и религиозные функции. Они отличаются развитой архитектурой, продуманной планировкой и яркими фресками. Здесь обнаружены ранние формы письменности, свидетельства развитых морских связей и межкультурных контактов. Объект отражает сложную социальную структуру минойцев и подчёркивает их значительное влияние на развитие Средиземноморья.",
+      "ar": "يضم هذا العنصر المتسلسل ستة مواقع أثرية في جزيرة كريت يعود تاريخها إلى الفترة الممتدة من عام 1900 إلى 1100 قبل الميلاد. وتمثّل هذه المواقع الحضارة المينوسية التي تندرج في عداد أبرز ثقافات عصر ما قبل التاريخ في منطقة البحر الأبيض المتوسط. كانت هذه المراكز المهيبة محاور إدارية واقتصادية ودينية، وتميّزت بهندستها المعمارية المتقدّمة وتخطيطها الحضري ولوحاتها الجدارية النابضة بالحياة. وتكشف هذه المراكز أيضاً نظم الكتابة القديمة والشبكات البحرية والتبادلات الثقافية. وتُبرز هذه المراكز أيضاً مدى تعقيد البنية الاجتماعية المينوسية وتأثيرها العميق والمستمر في تاريخ منطقة البحر الأبيض المتوسط.",
+      "zh": "该系列遗产包括克里特岛上6处公元前1900年-前1100年间的考古遗址，代表米诺斯文明这一重要史前地中海文明的发展脉络。米诺斯王宫中心曾经是行政、经济、宗教枢纽，以成熟的建筑设计、城市规划和鲜活的壁画艺术为特色，从中可窥见早期文字系统、海事网络及文化交流。遗产充分体现米诺斯社会的复杂结构及其对地中海历史的深远影响。"
+    },
+    "full": "This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        3,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        3,
+        4
+      ],
+      "display": "(ii)(iii)(iv)",
+      "count": 3,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 29.512,
+      "square_km": 0.3,
+      "square_miles": 0.119,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a05e1c1223514a17b4fbe2adc8257f8b",
+      "filename": "site_1733_0001.jpg",
+      "dimensions": {
+        "width": 2816,
+        "height": 1640
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/206426/site_1733_0001.jpg",
+        "https://whc.unesco.org/document/206427/site_1733_0002.jpg",
+        "https://whc.unesco.org/document/206428/site_1733_0003.jpg",
+        "https://whc.unesco.org/document/206429/site_1733_0004.jpg",
+        "https://whc.unesco.org/document/206430/site_1733_0005.jpg",
+        "https://whc.unesco.org/document/206431/site_1733_0006.jpg",
+        "https://whc.unesco.org/document/206433/site_1733_0008.jpg",
+        "https://whc.unesco.org/document/206434/site_1733_0009.jpg",
+        "https://whc.unesco.org/document/206435/site_1733_0010.jpg",
+        "https://whc.unesco.org/document/206436/site_1733_0011.jpg",
+        "https://whc.unesco.org/document/206437/site_1733_0012.jpg"
+      ],
+      "count": 11
+    }
+  },
+  "components": {
+    "count": 6,
+    "locations": [
+      {
+        "name": "Malia",
+        "ref": "1733-003",
+        "latitude": 35.2933333333,
+        "longitude": 25.4925
+      },
+      {
+        "name": "Zakros",
+        "ref": "1733-004",
+        "latitude": 35.0983333333,
+        "longitude": 26.2608333333
+      },
+      {
+        "name": "Knossos",
+        "ref": "1733-001",
+        "latitude": 35.2972222222,
+        "longitude": 25.1625
+      },
+      {
+        "name": "Kydonia",
+        "ref": "1733-006",
+        "latitude": 35.5172222223,
+        "longitude": 24.0197222223
+      },
+      {
+        "name": "Phaistos",
+        "ref": "1733-002",
+        "latitude": 35.0511111111,
+        "longitude": 24.8141666667
+      },
+      {
+        "name": "Zominthos",
+        "ref": "1733-005",
+        "latitude": 35.2486111111,
+        "longitude": 24.8872222222
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1733",
+    "unesco_documents": "https://whc.unesco.org/en/list/1733/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1733/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1733/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Urban",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Minoan Palatial Centres This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history. This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history. Greece Europe and North America Cultural"
+}

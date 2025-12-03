@@ -1,0 +1,820 @@
+{
+  "country": {
+    "code": "KGZ",
+    "name": "Kyrgyzstan"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "western_tien_shan",
+      "uuid": "7695dfdf-924f-59bc-bd7b-e1eb60e45c6c",
+      "unesco_id": "1490",
+      "names": {
+        "en": "Western Tien-Shan",
+        "fr": "Tien Shan occidental",
+        "es": "Tien-Shan occidental",
+        "ru": "Западный Тянь-Шань",
+        "ar": "موقع تيان شان الغربي",
+        "zh": "西部天山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          },
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+          "fr": "Ce bien transnational se trouve dans le système de montagnes du Tien Shan, l'une des plus grandes chaînes de montagnes du monde. Le Tien Shan occidental varie en altitude de 700 à 4 503 m. Ce site comprend une grande diversité de paysages qui abritent une biodiversité́ exceptionnellement riche. Il est important au plan mondial comme centre d’origine d’un certain nombre d’espèces d’arbres fruitiers cultivés, et pour sa grande diversité de types de forêts et d’associations uniques de communautés de plantes.",
+          "es": "Este sitio transnacional de Asia Central se encuentra en la cadena montañosa de Tien-Shan, una de las siete mayores del mundo. Los diferentes elementos de su sistema montañoso tienen altitudes que varían entre 700 y 4.503 metros. Se trata de un sitio con gran diversidad de paisajes que albergan una biodiversidad excepcionalmente rica. La región de Tien-Shan occidental es importante en el plano mundial como centro de origen de varias especies de árboles frutales cultivados así como por su gran diversidad de tipos de bosque y por sus asociaciones únicas de plantas.",
+          "ru": "Этот трансграничный объект является частью центрально-азиатской горной системы Тянь-Шань – одной из семи крупнейших горных цепей мира. Высота различных участков западного Тянь-Шаня варьирует от 700 до 4503 метров. Данный объект изобилует разнообразными ландшафтами, для которых характерно исключительно богатое биоразнообразие. Регион западного Тянь-Шаня имеет мировое значение, так как является местом происхождения ряда видов фруктовых деревьев и отличается большим разнообразием типов лесов и уникальным растительным миром.",
+          "ar": "يوجد هذا الموقع العابر للحدود الوطنيّة في سلسلة جبال تيان شان التي تعد واحدة من أكبر السلسلات الجبلية في العالم. ويقع هذا المكان بالتحديد على ارتفاع يتراوح بين 700 و 4503 متراً. ويحوي مجموعة من المناظر الطبيعيّة الخلابة التي تحتضن في طياتها تنوعاً بيولوجيا غنياً. وتعود أهمية هذا الموقع العالميّة لكونه مركزاً لمجموعة من محاصيل الفواكه ومجموعة متنوّعة من الغابات وجمعيات نباتيّة محليّة فريدة.",
+          "zh": "这处跨国境遗产地位于世界上最大的山脉之一，天山山脉。西部天山位于海拔700米至4503米地带，地貌多样，生物种群极其丰富。这里不仅以多种水果作物的发源地而拥有世界性的重要地位，而且还拥有多样的森林类型和独特的植物群落体系。"
+        },
+        "full": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 528177.6,
+          "square_km": 5281.78,
+          "square_miles": 2137.462,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f07f31e6a527c7c18dc513209e21ce88",
+          "filename": "site_1490_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/141995/site_1490_0001.jpg",
+            "https://whc.unesco.org/document/141997/site_1490_0003.jpg",
+            "https://whc.unesco.org/document/141998/site_1490_0004.jpg",
+            "https://whc.unesco.org/document/141999/site_1490_0005.jpg",
+            "https://whc.unesco.org/document/142000/site_1490_0006.jpg",
+            "https://whc.unesco.org/document/142001/site_1490_0007.jpg",
+            "https://whc.unesco.org/document/142002/site_1490_0008.jpg",
+            "https://whc.unesco.org/document/142003/site_1490_0009.jpg",
+            "https://whc.unesco.org/document/142004/site_1490_0010.jpg",
+            "https://whc.unesco.org/document/142005/site_1490_0011.jpg",
+            "https://whc.unesco.org/document/142006/site_1490_0012.jpg",
+            "https://whc.unesco.org/document/142007/site_1490_0013.jpg",
+            "https://whc.unesco.org/document/142008/site_1490_0014.jpg",
+            "https://whc.unesco.org/document/142009/site_1490_0015.jpg",
+            "https://whc.unesco.org/document/142010/site_1490_0016.jpg",
+            "https://whc.unesco.org/document/142011/site_1490_0017.jpg",
+            "https://whc.unesco.org/document/142012/site_1490_0018.jpg",
+            "https://whc.unesco.org/document/142013/site_1490_0019.jpg",
+            "https://whc.unesco.org/document/142014/site_1490_0020.jpg",
+            "https://whc.unesco.org/document/142015/site_1490_0021.jpg",
+            "https://whc.unesco.org/document/142016/site_1490_0022.jpg",
+            "https://whc.unesco.org/document/142017/site_1490_0023.jpg",
+            "https://whc.unesco.org/document/142018/site_1490_0024.jpg",
+            "https://whc.unesco.org/document/142019/site_1490_0025.jpg",
+            "https://whc.unesco.org/document/142020/site_1490_0026.jpg",
+            "https://whc.unesco.org/document/142021/site_1490_0027.jpg",
+            "https://whc.unesco.org/document/142022/site_1490_0028.jpg",
+            "https://whc.unesco.org/document/142023/site_1490_0029.jpg",
+            "https://whc.unesco.org/document/142024/site_1490_0030.jpg",
+            "https://whc.unesco.org/document/142025/site_1490_0031.jpg",
+            "https://whc.unesco.org/document/148461/site_1490_0032.jpg",
+            "https://whc.unesco.org/document/148462/site_1490_0033.jpg",
+            "https://whc.unesco.org/document/148463/site_1490_0034.jpg",
+            "https://whc.unesco.org/document/148464/site_1490_0035.jpg",
+            "https://whc.unesco.org/document/148465/site_1490_0036.jpg",
+            "https://whc.unesco.org/document/148466/site_1490_0037.jpg",
+            "https://whc.unesco.org/document/148467/site_1490_0038.jpg",
+            "https://whc.unesco.org/document/148468/site_1490_0039.jpg",
+            "https://whc.unesco.org/document/148469/site_1490_0040.jpg",
+            "https://whc.unesco.org/document/148470/site_1490_0041.jpg",
+            "https://whc.unesco.org/document/157050/site_1490_0042.jpg",
+            "https://whc.unesco.org/document/157051/site_1490_0043.jpg",
+            "https://whc.unesco.org/document/157052/site_1490_0044.jpg",
+            "https://whc.unesco.org/document/157053/site_1490_0045.jpg",
+            "https://whc.unesco.org/document/157054/site_1490_0046.jpg",
+            "https://whc.unesco.org/document/157055/site_1490_0047.jpg",
+            "https://whc.unesco.org/document/157056/site_1490_0048.jpg",
+            "https://whc.unesco.org/document/157057/site_1490_0049.jpg"
+          ],
+          "count": 48
+        }
+      },
+      "components": {
+        "count": 13,
+        "locations": [
+          {
+            "name": "Padysha-Ata State Nature Reserve",
+            "ref": "1490-011",
+            "latitude": 41.7244444444,
+            "longitude": 71.5783333333
+          },
+          {
+            "name": "Karatau State Nature Reserve (Kazakhstan)",
+            "ref": "1490-001",
+            "latitude": 43.7333333333,
+            "longitude": 68.6788888889
+          },
+          {
+            "name": "Sary-Chelek State Biosphere Nature Reserve",
+            "ref": "1490-008",
+            "latitude": 41.8736111111,
+            "longitude": 71.9372222222
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve – main part",
+            "ref": "1490-009",
+            "latitude": 41.5919444444,
+            "longitude": 70.4577777778
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – main part",
+            "ref": "1490-002",
+            "latitude": 42.2761111111,
+            "longitude": 70.6741666667
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve - Shandalash area",
+            "ref": "1490-010",
+            "latitude": 42.075,
+            "longitude": 71.3
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Boraldaitau area",
+            "ref": "1490-005",
+            "latitude": 41.957699,
+            "longitude": 70.013503
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Sairam-Ugam area",
+            "ref": "1490-007",
+            "latitude": 42.13801,
+            "longitude": 70.26977
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Irsu-Daubabin area",
+            "ref": "1490-006",
+            "latitude": 42.404225,
+            "longitude": 70.270334
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Maidantal area",
+            "ref": "1490-012",
+            "latitude": 41.3013888889,
+            "longitude": 70.255
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Aulie paleontological area",
+            "ref": "1490-004",
+            "latitude": 42.905,
+            "longitude": 70.0
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Bashkizilsay area",
+            "ref": "1490-013",
+            "latitude": 41.21,
+            "longitude": 69.9341666667
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Karabastau paleontological area",
+            "ref": "1490-003",
+            "latitude": 42.94,
+            "longitude": 69.915
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1490",
+        "unesco_documents": "https://whc.unesco.org/en/list/1490/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1490/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1490/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Western Tien-Shan The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. Kyrgyzstan Kazakhstan Uzbekistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "sulaiman_too_sacred_mountain",
+      "uuid": "8f8f5c06-738b-5391-b288-15b5bbf588d5",
+      "unesco_id": "1230",
+      "names": {
+        "en": "Sulaiman-Too Sacred Mountain",
+        "fr": "Montagne sacrée de Sulaiman-Too",
+        "es": "Montaña Sagrada de Sulaimain-Too",
+        "ru": "",
+        "ar": "سولاميْن ـ تو الجبل المقدس",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia.",
+          "fr": "La Montagne sacrée de Sulaiman-Too domine le paysage de la vallée du Fergana et forme l’arrière-plan de la ville d’Osh, au croisement d’importantes routes de la soie d’Asie centrale. Pendant plus d’un millénaire et demi, Sulaiman-Too a été un phare pour les voyageurs, une montagne sacrée révérée par tous. Ses cinq pics et ses flancs abritent de nombreux anciens lieux de culte et des grottes ornées de pétroglyphes, ainsi que deux mosquées plus tardives (XVIème siècle) et largement reconstruites. Sur le site, on a recensé 101 emplacements comportant des pétroglyphes représentant humains, animaux ou formes géométriques. On y trouve aussi de nombreux sites rituels dont 17 sont encore utilisés. Dispersés autour des pics, ils sont reliés par des sentiers et sont associés à des croyances : cures soignant la stérilité, les migraines, le mal de dos et accroissant la longévité. Ce lieu de vénération mélange croyances préislamiques et islamiques. Le site est considéré comme un parfait exemple de montagne sacrée d’Asie centrale, adorée à travers plusieurs millénaires.",
+          "es": "Este sitio domina el valle del río Fergana y forma el telón de fondo de la ciudad de Osh, en la encrucijada de importantes rutas de la seda del Asia Central. Durante más quince siglos, la montaña Sulamain-Too fue un verdadero faro los viajeros y un lugar sagrado y venerado como tal. Sus cinco picos y laderas albergan santuarios antiguos y cuevas con petroglifos, así como dos mezquitas del siglo XVI en gran parte reconstruidas. En el sitio se han localizado hasta la fecha 101 lugares con petroglifos que representan seres humanos, animales y formas geométricas. También cuenta con numerosos lugares de culto, en diecisiete de los cuales se siguen practicando todavía ceremonias rituales. Dispersos en torno a los picos de la montaña, están unidos entre sí por una red de senderos y, según las creencias, acudir a ellos puede propiciar la cura de la esterilidad, las migrañas y los dolores de espalda, o un aumento de la longevidad. En la veneración por esta montaña se mezclan las creencias religiosas preislámicas e islámicas. Este sitio se ha inscrito en la Lista del Patrimonio Mundial por ser el ejemplo más cabal de montaña sagrada de todo el Asia Central y un testimonio de la tradición plurimilenaria del culto rendido a las montañas.",
+          "ru": "",
+          "ar": "يُطل هذا الموقع على وادي فيرجانا، ويُشكل الجانب الخلفي لمدينة أوش، في مفترق مسالك رئيسية في طرق الحرير في وسط آسيا. وكان سولاميْن ـ تو، لفترة تجاوزت ألف وخمسمائة سنة، بمثابة منارة لإرشاد المسافرين، وموضع تبجيل باعتباره جبلاً مقدساً. وتشمل قمم هذا الجبل الخمس ومنحدراته العديد من أماكن العبادة القديمة وكهوفاً تحوي نقوشاً صخرية، فضلاً عن مسجدين من القرن السادس عشر تمت إعادة بناء معظم أجزائهما. وحتى تاريخه، تمت في الممتلك فهرسة مائة وواحد موقعاً تحوي نقوشاً صخرية تمثل كائنات بشرية وحيوانات وأشكالاً هندسية. ويشتمل الموقع على 17 مكاناً للعبادة ما زال قليل منها يُستخدم حتى الآن. وثمة ممرات للمشي تربط بين القمم المنتشرة حول الجبل. ووفقاً للمعتقدات السائدة هناك، فإن مواقع العبادة من شأنها توفير وسائل لمعالجة العُقم والصداع وآلام الظهر ونعمة طول العمر. وتمزج مشاعر التبجيل إزاء الجبل المقدس بين معتقدات ما قبل الإسلام والعقائد الإسلامية. وقد تم تسجيل الموقع باعتباره الجبل المقدس الوحيد الذي بقى بحالة جيدة إلى أقصى حد ممكن في آسيا الوسطى على الإطلاق، وكشاهد على تقاليد لعبادة الجبال استمرت على مدى عدة آلاف من السنين.",
+          "zh": ""
+        },
+        "full": "Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia.",
+        "justification": "Brief Synthesis Sulaiman-Too Mountain dominates the surrounding landscape of the Fergana Valley and forms the backdrop to the city of Osh. In mediaeval times Osh was one of the largest cities of the fertile Fergana valley at the crossroads of important routes on the Central Asian Silk Roads system, and Sulaiman-Too was a beacon for travellers. For at least a millennium and a half Sulaiman-Too has been revered as a sacred mountain. Its five peaks and slopes contain a large assembly of ancient cult places and caves with petroglyphs, all interconnected with a network of ancient paths, as well as later mosques. The mountain is an exceptional spiritual landscape reflecting both Islamic and pre-Islamic beliefs and particularly the cult of the horse. Sulaiman-Too corresponds closely to iconic images in the Universe of Avesta and Vedic traditions: a single mountain with a peak dominating four others, standing in the virtual centre of a vast river valley, and surrounded by and related to other mountains in the landscape system. Criterion (iii): The rich concentration of material evidence for cult practices preserved on Sulaiman-Too mountain from pre- and post-Islamic times, together with its ‘ideal’ form present the most complete picture of a sacred mountain anywhere in Central Asia. Criterion (vi): Sulaiman-Too presents exceptionally vivid evidence for strong traditions of mountain worship which have spanned several millennia and been absorbed successfully by Islam. It has had a profound effect over a wide part of Central Asia. Integrity and Authenticity The authenticity of the mountain, its cult places, uses and functions are without doubt, even given the numerous interventions over the past 50 years. However, since the sacred associations of the mountain are linked to its dramatic form rising from the surrounding plain, it is highly vulnerable to continuing new development on it and around its base. In order to protect its majesty, spirituality, visual coherence and setting and thus the full authenticity of the property, great vigilance will be needed in enforcing protection of its setting. The integrity of the mountain relies on protection of the cult places and their connecting paths as well as their visual linkages and views to and from the mountain. Management and protection requirements The management of the mountain and its setting is coordinated by a Site Management Council who oversees the implementation of the Management Plan and Action Plan. Its effective protection relies on approval of an agreed zoning arrangement within the Osh Master Plan. To protect the property and its buffer zone against modern developments during the period before the completion and final approval of the Legal Protection Zoning Document and the Osh Urban Master Plan, a map showing the agreed boundaries of the nominated area, of the buffer zone and its sub-zones have been distributed as a reference to the responsible agencies of the Osh oblast, Osh city, Karasu district and Kyzylkyshtak rural area."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 112,
+          "square_km": 1.12,
+          "square_miles": 0.453,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2009,
+          "all_dates": [
+            2009
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2009,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/02a3e604aa7930d6f0ea376190fbd582",
+          "filename": "site_1230_0002-500-0-20230113123926.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114055/site_1230_0002.jpg",
+            "https://whc.unesco.org/document/114059/site_1230_0004.jpg",
+            "https://whc.unesco.org/document/114057/site_1230_0003.jpg",
+            "https://whc.unesco.org/document/114061/site_1230_0005.jpg",
+            "https://whc.unesco.org/document/114062/site_1230_0006.jpg",
+            "https://whc.unesco.org/document/114064/site_1230_0007.jpg",
+            "https://whc.unesco.org/document/114066/site_1230_0008.jpg",
+            "https://whc.unesco.org/document/114068/site_1230_0009.jpg",
+            "https://whc.unesco.org/document/129133/site_1230_0010.jpg",
+            "https://whc.unesco.org/document/129134/site_1230_0011.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sulaiman-Too Sacred Mountain",
+            "ref": "1230rev",
+            "latitude": 40.5311111111,
+            "longitude": 72.7827777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1230",
+        "unesco_documents": "https://whc.unesco.org/en/list/1230/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1230/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1230/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 16,
+        "inscription_year": 2009
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sulaiman-Too Sacred Mountain Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia. Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia. Kyrgyzstan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "silk_roads_the_routes_network_of_chang_an_tianshan_corridor",
+      "uuid": "f497d3de-f8ca-5278-931c-1fd2a496c881",
+      "unesco_id": "1442",
+      "names": {
+        "en": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+        "fr": "Routes de la soie : le réseau de routes du corridor de Chang’an-Tian-shan",
+        "es": "Ruta de la Seda: red viaria del corredor Chang'an-Tianshan",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHN": {
+            "name": "China",
+            "iso2": "CN",
+            "iso3": "CHN"
+          },
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          },
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings.",
+          "fr": "Cette section des Routes de la soie s’étend sur 5 000 km, de Chang’an/Luoyang, capitale centrale de la Chine sous les dynasties Han et Tang, jusqu’à la région de Jetyssou, en Asie centrale. Ce corridor a pris forme entre le IIe siècle av. J.-C. et le Ier siècle apr. J.-C. ; il a été utilisé jusqu’au XVIe siècle, reliant de nombreuses civilisations et facilitant des échanges à longue distance en matière de commerce mais aussi de croyances religieuses, de connaissances scientifiques, d’innovations technologiques, de pratiques culturelles et artistiques. Parmi les 33 sites inclus dans la nomination figurent d’importants ensembles de villes/palais de différents empires ou royaumes de khans, des établissements de commerce, des temples de grottes bouddhistes, des voies antiques, des relais de poste, des cols, des tours balises, des parties de la Grand Muraille, des fortifications, des tombes et des édifices religieux.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings.",
+        "justification": "Brief synthesis The Silk Roads were an interconnected web of routes linking the ancient societies of Asia, the Subcontinent, Central Asia, Western Asia and the Near East, and contributed to the development of many of the world's great civilizations. They represent one of the world’s preeminent long-distance communication networks stretching as the crow flies to around 7,500 km but extending to in excess of 35,000 km along specific routes. While some of these routes had been in use for millennia, by the 2nd century BC the volume of exchange had increased substantially, as had the long distance trade between east and west in high value goods, and the political, social and cultural impacts of these movements had far-reaching consequences upon all the societies that encountered them. The routes served principally to transfer raw materials, foodstuffs, and luxury goods. Some areas had a monopoly on certain materials or goods: notably China, who supplied Central Asia, the Subcontinent, West Asia and the Mediterranean world with silk. Many of the high value trade goods were transported over vast distances – by pack animals and river craft – and probably by a string of different merchants. The Tian-shan corridor is one section or corridor of this extensive overall Silk Roads network. Extending across a distance of around 5,000 km, it encompassed a complex network of trade routes extending to some 8,700 km that developed to link Chang’an in central China with the heartland of Central Asia between the 2nd century BC and 1st century AD, when long distance trade in high value goods, particularly silk, started to expand between the Chinese and Roman Empires. It flourished between the 6th and 14th century AD and remained in use as a major trade route until the 16th century. The extremes of geography along the routes graphically illustrate the challenges of this long distance trade. Falling to 154 metres below sea level and rising to 7,400 metres above sea level, the routes touch great rivers, alpine lakes, crusty salt flats, vast deserts, snow-capped mountains and ‘fecund’ prairies. The climate varies from extreme drought to semi-humid; while vegetation covers temperate forests, temperate deserts, temperate steppes, alpine steppes and oases. Starting on the Loess plateau at Chang’an, the central capital of China in the Han and Tang Dynasties, the routes of the Tian-shan corridor passed westwards through the Hosi Corridor across the Qin and Qilian Mountains to the Yumen Pass of Dunhuang. From Loulan/Hami, they continued along the northern and southern flanks of the Tian-shan Mountain and then through passes to reach the Ili, Chuy and Talas valleys in the Zhetysu Region of Central Asia, linking two of the great power centres that drove the Silk Roads trade. Thirty-three sites along the corridor include capital cities palace complexes of various empires and Khan Kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of the Great Wall, fortifications, tombs and religious buildings. The formal system of posthouses and beacon towers provided by the Chinese Empire facilitated trade, as did the system of forts, caravanserai and way stations operated by states in the Zhetysu region. In and around Chang’an, a succession of palaces reflect the power centre of the Chinese Empire over 1,200 years; while the cities of the Chuy valley are witness to the power centre of the Zhetysu region from the 9th to the 14th centuries and their organisation of the long distance trade. The series of Buddhist pagodas and large, elaborate cave temples extending from Kucha (now Kuqa County) in the west to Luoyong in the east, record the eastward transmission of Buddhism from India via Karakorum, and demonstrate an evolution in the design of stupas as local ideas were absorbed. Their elaboration reflects the sponsorship of local authorities and the central Chinese imperial government as well as donations of wealthy merchants, and the influence of monks that travelled the routes, many of whose journeys were documented from 2nd century BC onwards. Other religious buildings reflect the co-existence of many religions (as well as many ethnic groups) along the corridor including Zoroastrianism, the main religion of the Sogdians of Zhetysu region, Manichaeism in the Chuy and Talas valleys and in Qocho city and Luoyong, Nestorian Christianity also in Qocho city, around Xinjiang and in Chang’an, and Islam in Burana. The massive scale of the trading activities fostered large, prosperous and thriving towns and cities that also reflect the interface between settled and nomadic communities in a variety of ways: the mutual inter-dependence of nomads and farmers and different peoples such as between Turks and Sogdians in the Zhetysu region; the transformation of nomadic communities to settled communities in the Tian-shan mountains, resulting in highly distinctive construction and planning such as semi-underground buildings; and in the Hosi corridor the planned agricultural expansion of the 1,000 mile corridor after the 1st century BC as an agricultural garrison and its transformation to settled agricultural communities. Diverse and large scale water management systems were essential to facilitate the growth of towns, trading settlements, forts, and caravanserai and the agriculture necessary to support them, such as the extensive Karez underground water channels of the extremely arid Turpan basin, many still in use, that supplied water to Qocho city, and were supplemented by deep wells inside Yar city; the grand scale of the network of open canals and ditches along the Hosi corridor that drew river water to the settlements, 90 km of which survive around Suoyang city; and in the Zhetsyu region, river water distribution through canals and pipes and collection in reservoirs. As well as conduits for goods and people, the routes allowed the exceptional flow of ideas, beliefs and technological innovations such as those related to architecture and town planning that shaped the urban spaces and peoples’ lives in many fundamental ways. Criterion (ii): The vastness of the continental routes networks, the ultra-long duration of use, the diversity of heritage remains and their dynamic interlinks, the richness of the cultural exchange they facilitated, the varied geographical environments they connected and crossed, clearly demonstrates the extensive interaction that took place within various cultural regions, especially the nomadic steppe and settled agrarian/oasis/pastoral civilizations, on the Eurasian continent between the 2nd century BC and the 16th century AD. These interaction and influences were profound in terms of developments in architecture and city planning, religions and beliefs, urban culture and habitation, merchandise trade and interethnic relations in all regions along the routes. The Tian-shan corridor is an extraordinary example in world history of how a dynamic channel linking civilizations and cultures across the Eurasian continent, realized the broadest and most long-lasting interchange among civilizations and cultures. Criterion (iii): The Tian-shan corridor bears an exceptional witness to traditions of communication and exchange in economy and culture, and to social development across the Eurasian continent between the 2nd century BC to the 16th century AD. Trade had a profound influence on the settlement structure of the landscape, through the development of towns and cities that brought together nomadic and settled communities, through water management systems that underpinned those settlements, through the extensive network of forts, beacon towers, way stations and caravanserai that accommodated travellers and ensured their safety, through the sequence of Buddhist shrines and cave temples, and through manifestations of other religions such as Zoroastrianism, Manichaeism, Nestorian Christianity and Islam that resulted from the cosmopolitan, multi-ethnic communities that organised and benefitted from the high value trade. Criterion (v): The Tian-shan corridor is an outstanding example of the way high value, long-distance trade prompted the growth of sizeable towns and cities, supported by elaborate, sophisticated water management systems that harvested water from rivers, wells and underground springs for residents, travellers and the irrigation of crops. Criterion (vi): The Tian-shan Corridor is directly associated with Zhang Qian’s diplomatic mission to the Western Regions, a milestone event in the history of human civilization and cultural interchange in the Eurasian Continent. It also reflects in a profound way the tangible impact of Buddhism into ancient China which had significant impact on cultures of East Asia, and the spread of Nestorian Christianity (which reached China in 500 AD), Manichaeism, Zoroastrianism and early Islam. Many of the towns and cities along the corridor also reflect in an exceptional way the impact of ideas that flowed along the routes related to harnessing water power, architecture and town planning. Integrity The nomination sets out clearly why the nominated series as a whole should be seen to have integrity and, through a detailed analysis, how each of the individual sites can also be seen to have integrity. The overall series adequately reflects the significant characteristics of the Tian-Shan corridor and the attributes of Outstanding Universal Value in terms the representation of towns and cities, smaller trading settlements, transport and defence facilities, religious sites and tombs and water management. The one area that could be strengthened is the ensemble of way stations, beacons, watch towers and caravanserai that facilitated regular trade and reflects the everyday use of the route. One watch tower has been nominated and one post house. Although these are significant, they do not fully demonstrate the extent of the formal support that was provided for trade and travellers. The numerous sites of beacon towers and forts that survive between the Hoxi corridor and the Tian-shan range need further survey and research in order to identify those that might be added to the series. Likewise formal structures in Zhetysu region also need further identification and research. In terms of individual sites, although it is recognised that some are vulnerable in the face of pressure including urban, rural development, infrastructural development, tourism or changes in agricultural practices, for the majority of these the pressures are adequately contained. There is a need to ensure that new interventions such as screen walls at some sites built in traditional style do not confuse the archaeological record. For some sites, in order to fully understand the relationship between urban areas and their surrounding desert landscapes, and in particular the trade routes, there is a need for further ground surveys or remote sensing of surrounding areas. The extensive, intact water management systems, necessary for their survival, are currently outside the boundaries of some sites and in some cases outside the buffer zones. Consideration needs to be given to assessing the way these water management systems contribute to the integrity of the sites and in places minor adjustments to the boundaries need to be considered. Authenticity The overall series includes adequate sites to fully convey the particular strengths and characteristics of this Tian-shan corridor. The authenticity of individual sites is mostly satisfactory. If the full value of these sites is to be clearly conveyed, then more surveys, research and explanation are needed to show how the sites relate to the routes to which they are linked and, in the case of settlements, to show how they survived in desert areas through the use of sophisticated water management techniques. In the Zhetysu region, all the eleven archaeological sites are backfilled and covered for protection and to control deterioration, which in the current absence of adequate means to stabilise exposed bricks is essential. Fully understanding the significance of the remains is difficult. There is a need to explore innovative ways of highlighting the scope and range of urban functions. There is also a need for more archaeological and academic research to clarify the functions particularly of urban sites and to link them more clearly through interpretation to the ancient routes to which they were associated. Protection and Management requirements An Intergovernmental Coordinating Committee for the overall Silk Roads was formed in 2009. This is a steering committee composed of representatives of all States Parties involved in the nominations of all Silk Roads corridors. The ICOMOS International Conservation Centre – Xi’an (IICC-X) is the Secretariat for Committee. The Committee oversees the development of trans-national serial nominations of corridors identified in the ICOMOS Silk Roads Thematic Study. In terms of management, this Committee aims to implement a coordinated management system based on mutual agreement and to provide guidelines on conservation principles, methods, and management. For the Tian-shan corridor, the formal agreement between all the participating States Parties in the Committee has been augmented with a specific agreement between the three States Parties, in particular for the coordinated management of the sites in the corridor. A first agreement between the three States Parties was signed in May 2012 and a further detailed agreement was signed in February 2014. These agreements set out the management mechanisms, and identify principles and rules of conservation management. They also set out suggestions for exchange and collaboration on conservation, interpretation, presentation and publicity. The Steering Committee for the corridor consists of Vice Ministers. There is also a Working Group consisting of two experts and one government official from each State Party, and a Secretariat - the ICOMOS International Conservation Centre in Xi’an (IICC-X). Regular meetings are held between the three States Parties. Collaboration is supported by the development of an on-line platform at the IICC-X. This is in three languages, English, Russian and Chinese. It collects and promotes information on the conservation initiatives along the Silk Roads. This international collaboration needs to be supported by national collaboration, particularly in Kazakhstan and Kyrgyzstan, if the many fragile archaeological sites are to share information on the most advanced techniques and conservation measures that are appropriate and beneficial for the sites. Within China, this management structure is well developed and appears effective. Within Kazakhstan and Kyrgyzstan this collaboration needs to be reinforced. Management Plans are in place for all the individual sites in China. For Kazakhstan a timetable for developing detailed management plans that would provide strategies for conservation and visitor management, including interpretation, for all sites had been approved and the work will be undertaken between 2014 and 2016. It is essential that these plans go beyond archaeological excavation to encompass on-going management, site surveillance, conservation, environment protection and tourism management. In Kyrgyzstan, all three sites have management plans for 2011 – 2015 that include proposals for improving the conservation of the sites, visitor facilities, and monitoring. Although the need for tourism plans is acknowledged in each of the three countries, and these have been put in place in China and are being implemented, and a plan has been approved for the Chuy Valley, there is an urgent need to tourism plans to be put in place for the remaining sites and implemented to ensure they are well prepared for an increase in visitors, who do not become the agents of their destruction. As the majority of the thirty-three nominated sites are archaeological sites, there is also need for good information that allows understanding of their layout, function and history, why they are of significance and particularly their relationship to the Silk Roads routes, to water and its management which was so crucial for survival, to trade and to each other. Many are associated with remarkable finds but these are often in museums some distance from the sites. And these museums do not always provide specific information about the Silk Roads and how they relate to the sites. Given the scale and scope of the Tian-shan corridor and the remoteness of some sites, there is a need for innovative techniques to provide the necessary information and interpretation. The magnitude of this Silk Roads corridor, the number of sites, the comparative fragility of many of them and the enormous distances between them, makes monitoring a formidable task. Nevertheless monitoring (combined with adequate physical protection) is a crucial tool. In China all sites have up to date monitoring equipment. How this data is analysed and used will be crucial and more capacity building for these tasks would seem to be required. In the more remote sites in Kazakhstan, regular monitoring by trained staff is unlikely to be totally adequate (or in places technically feasible) and needs to be augmented by other means. In this context, the involvement of local communities needs to be encouraged. As with It is also recommended that the latest approaches to remote sensing and video links are explored that might be used to support staff on the ground in both Kazakhstan and Kyrgyzstan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            5
+          ],
+          "display": "(ii)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 42668.16,
+          "square_km": 426.68,
+          "square_miles": 172.672,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f397dedbb99095760fbb933b9746cae1",
+          "filename": "site_1442_0021-500-0-20241025160718.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209135/site_1442_0021.jpg",
+            "https://whc.unesco.org/document/209136/site_1442_0022.jpg",
+            "https://whc.unesco.org/document/129557/site_1442_0001.jpg",
+            "https://whc.unesco.org/document/129558/site_1442_0002.jpg",
+            "https://whc.unesco.org/document/129559/site_1442_0003.jpg",
+            "https://whc.unesco.org/document/129560/site_1442_0004.jpg",
+            "https://whc.unesco.org/document/129561/site_1442_0005.jpg",
+            "https://whc.unesco.org/document/129562/site_1442_0006.jpg",
+            "https://whc.unesco.org/document/129563/site_1442_0007.jpg",
+            "https://whc.unesco.org/document/129564/site_1442_0008.jpg",
+            "https://whc.unesco.org/document/129565/site_1442_0009.jpg",
+            "https://whc.unesco.org/document/129566/site_1442_0010.jpg",
+            "https://whc.unesco.org/document/133515/site_1442_0012.jpg",
+            "https://whc.unesco.org/document/133517/site_1442_0013.jpg",
+            "https://whc.unesco.org/document/133519/site_1442_0015.jpg",
+            "https://whc.unesco.org/document/133523/site_1442_0018.jpg",
+            "https://whc.unesco.org/document/133527/site_1442_0020.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 33,
+        "locations": [
+          {
+            "name": "Site of Kulan",
+            "ref": "1442-014",
+            "latitude": 42.9144444444,
+            "longitude": 72.7494444444
+          },
+          {
+            "name": "Site of Ornek",
+            "ref": "1442-015",
+            "latitude": 42.8944444444,
+            "longitude": 72.1477777777
+          },
+          {
+            "name": "Site of Talgar",
+            "ref": "1442-012",
+            "latitude": 43.2777777778,
+            "longitude": 77.2222222223
+          },
+          {
+            "name": "Site of Aktobe",
+            "ref": "1442-013",
+            "latitude": 43.2261111111,
+            "longitude": 74.0336111111
+          },
+          {
+            "name": "Site of Kayalyk",
+            "ref": "1442-011",
+            "latitude": 45.6655555556,
+            "longitude": 80.2605555556
+          },
+          {
+            "name": "Site of Akyrtas",
+            "ref": "1442-016",
+            "latitude": 42.9536111111,
+            "longitude": 71.8027777778
+          },
+          {
+            "name": "Site of Kostobe",
+            "ref": "1442-017",
+            "latitude": 42.99,
+            "longitude": 71.5236111111
+          },
+          {
+            "name": "Site of Yar City",
+            "ref": "1442-006",
+            "latitude": 42.9525,
+            "longitude": 89.0616666667
+          },
+          {
+            "name": "Xingjiaosi Pagodas",
+            "ref": "1442-032",
+            "latitude": 34.0913888889,
+            "longitude": 109.034166667
+          },
+          {
+            "name": "Tomb of Zhang Qian",
+            "ref": "1442-033",
+            "latitude": 33.1588888889,
+            "longitude": 107.291111111
+          },
+          {
+            "name": "Site of Qocho City",
+            "ref": "1442-005",
+            "latitude": 42.8525,
+            "longitude": 89.5277777778
+          },
+          {
+            "name": "Site of Yumen Pass",
+            "ref": "1442-022",
+            "latitude": 40.3536111111,
+            "longitude": 93.8638888889
+          },
+          {
+            "name": "Site of Karamergen",
+            "ref": "1442-024",
+            "latitude": 45.9080555556,
+            "longitude": 75.6630555556
+          },
+          {
+            "name": "Site of Suoyang City",
+            "ref": "1442-020",
+            "latitude": 40.2466666666,
+            "longitude": 96.2030555556
+          },
+          {
+            "name": "Subash Buddhist Ruins",
+            "ref": "1442-026",
+            "latitude": 41.8558333333,
+            "longitude": 83.0511111111
+          },
+          {
+            "name": "Bin County Cave Temple",
+            "ref": "1442-029",
+            "latitude": 35.0733333334,
+            "longitude": 107.992222222
+          },
+          {
+            "name": "Site of Bashbaliq City",
+            "ref": "1442-007",
+            "latitude": 44.0969444444,
+            "longitude": 89.2075
+          },
+          {
+            "name": "Kizilgaha Beacon Tower",
+            "ref": "1442-023",
+            "latitude": 41.7902777777,
+            "longitude": 82.8986111111
+          },
+          {
+            "name": "Great Wild Goose Pagoda",
+            "ref": "1442-030",
+            "latitude": 34.2197222223,
+            "longitude": 108.959444444
+          },
+          {
+            "name": "Small Wild Goose Pagoda",
+            "ref": "1442-031",
+            "latitude": 34.2408333333,
+            "longitude": 108.937222222
+          },
+          {
+            "name": "Kizil Cave-Temple Complex",
+            "ref": "1442-025",
+            "latitude": 41.7838888889,
+            "longitude": 82.5055555556
+          },
+          {
+            "name": "Site of Xuanquan Posthouse",
+            "ref": "1442-021",
+            "latitude": 40.2647222222,
+            "longitude": 95.3294444445
+          },
+          {
+            "name": "Bingling Cave-Temple Complex",
+            "ref": "1442-027",
+            "latitude": 35.8078888889,
+            "longitude": 103.0468055556
+          },
+          {
+            "name": "Maijishan Cave-Temple Complex",
+            "ref": "1442-028",
+            "latitude": 34.3508333333,
+            "longitude": 106.002777778
+          },
+          {
+            "name": "City of Suyab (Site of Ak-Beshim)",
+            "ref": "1442-008",
+            "latitude": 42.8019444444,
+            "longitude": 75.2033333333
+          },
+          {
+            "name": "City of Balasagun (Site of Burana)",
+            "ref": "1442-009",
+            "latitude": 42.7466666666,
+            "longitude": 75.2502777778
+          },
+          {
+            "name": "City of Nevaket (Site of Krasnaya Rechka)",
+            "ref": "1442-010",
+            "latitude": 42.9122222222,
+            "longitude": 75.015
+          },
+          {
+            "name": "Site of Shihao Section of Xiaohan Ancient Route",
+            "ref": "1442-019",
+            "latitude": 34.7186111111,
+            "longitude": 111.509444444
+          },
+          {
+            "name": "Site of Han’gu Pass of Han Dynasty in Xin’an County",
+            "ref": "1442-018",
+            "latitude": 34.7205555556,
+            "longitude": 112.165833333
+          },
+          {
+            "name": "Site of Daming Palace in Chang’an City of Tang Dynasty",
+            "ref": "1442-003",
+            "latitude": 34.2958333333,
+            "longitude": 108.958333333
+          },
+          {
+            "name": "Site of Luoyang City from the Eastern Han to Northern Wei Dynasty",
+            "ref": "1442-002",
+            "latitude": 34.7311111111,
+            "longitude": 112.621388889
+          },
+          {
+            "name": "Site of Weiyang Palace in Chang’an City of the Western Han Dynasty",
+            "ref": "1442-001",
+            "latitude": 34.3044444444,
+            "longitude": 108.8572222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1442",
+        "unesco_documents": "https://whc.unesco.org/en/list/1442/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1442/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1442/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings. This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings. China Kyrgyzstan Kazakhstan Asia and the Pacific Cultural"
+    }
+  ]
+}

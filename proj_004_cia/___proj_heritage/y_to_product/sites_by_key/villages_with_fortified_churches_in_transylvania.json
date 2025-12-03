@@ -1,0 +1,207 @@
+{
+  "site_key": "villages_with_fortified_churches_in_transylvania",
+  "uuid": "0b6e634a-9c28-5ca6-88f0-6b972fbc07bc",
+  "unesco_id": "596",
+  "names": {
+    "en": "Villages with Fortified Churches in Transylvania",
+    "fr": "Sites villageois avec églises fortifiées de Transylvanie",
+    "es": "Aldeas con iglesias fortificadas de Transilvania",
+    "ru": "Деревни с укрепленными церквями в Трансильвании",
+    "ar": "المواقع القروية والكنائس المحصنة في ترانسلفانيا",
+    "zh": "特兰西瓦尼亚村落及其设防的教堂"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "ROU": {
+        "name": "Romania",
+        "iso2": "RO",
+        "iso3": "ROU"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century.",
+      "fr": "Ces sites villageois et leurs églises fortifiées donnent une image vivante du paysage culturel du sud de la Transylvanie. Les sept villages classés, fondés par les Saxons de Transylvanie, se caractérisent par leur système particulier d'aménagement du territoire, le schéma des foyers de peuplement et l'organisation des unités agricoles familiales préservée au cours des siècles depuis la fin du Moyen Âge. Les villages sont dominés par leurs églises fortifiées qui illustrent les périodes de construction du XIIIe au XVIe siècle.",
+      "es": "Las siete aldeas con iglesias fortificadas inscritas en la Lista del Patrimonio Mundial son una vívida ilustración del paisaje cultural de la Transilvania meridional. Fundadas por los sajones transilvanos, estas aldeas se caracterizan por haber conservado desde finales de la Edad Media una ordenación territorial, una distribución de los edificios de las granjas familiares y un esquema de poblamiento sumamente peculiares. Las iglesias fortificadas que dominan estas aldeas son ilustrativas de los sucesivos estilos arquitectónicos imperantes entre los siglos XIII y XVI.",
+      "ru": "Эти трансильванские деревни с укрепленными церквями дают яркое представление о культурном ландшафте южной Трансильвании. Для семи входящих в объект деревень, основанных трансильванскими немцами «саксонцами», характерны специфическая система землепользования, структура поселений и организация семейных ферм, сохранившихся со времен позднего средневековья. Доминантами этих селений являются укрепленные церкви, которые отражают стили строительства XIII-XVI вв.",
+      "ar": "تعطي هذه المواقع القروية بكنائسها المحصنة صورة حية عن المنظر الثقافي الخاص بجنوب ترانسلفانيا. وتتميز القرى السبع التي أنشأها الساكسونيون في ترانسلفانيا بنظام خاص لتنظيم الأراضي وبمخطط نقاط التجمع السكاني وبتنظيم الوحدات الزراعية العائلية التي تم الحفاظ عليها على مر العصور منذ القرون الوسطى. وتشرف على القرى كنائسها المحصنة التي تجسد مراحل البناء من القرن الثالث عشر الى القرن السادس عشر.",
+      "zh": "特兰西瓦尼亚村落和它的防御教堂，展现出了一幅生动的图画，为南部特兰西瓦尼亚的文化景观增色不少。这些村落有着自己独特的土地利用制度、居住方式以及农庄的家庭组织单位，这些特点使特兰西瓦尼亚村落独具特色，自中世纪后期以来，村落及其设防的教堂一直完好保存下来，是13世纪至16世纪建筑史上重要的插曲。"
+    },
+    "full": "These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        4
+      ],
+      "natural": [],
+      "all": [
+        4
+      ],
+      "display": "(iv)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 553,
+      "square_km": 5.53,
+      "square_miles": 2.238,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1993,
+      "all_dates": [
+        1993,
+        1999
+      ],
+      "extensions": [
+        1999
+      ],
+      "timeline": [
+        {
+          "year": 1993,
+          "event": "Inscribed"
+        },
+        {
+          "year": 1999,
+          "event": "Extended"
+        }
+      ],
+      "extension_count": 1
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/240066f90c0754524678aaee5c36b390",
+      "filename": "site_0596_0001-500-0-20080603105809.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 332
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/111372/site_0596_0001.jpg",
+        "https://whc.unesco.org/document/111375/site_0596_0002.jpg",
+        "https://whc.unesco.org/document/111376/site_0596_0003.jpg",
+        "https://whc.unesco.org/document/111379/site_0596_0004.jpg",
+        "https://whc.unesco.org/document/111381/site_0596_0005.jpg",
+        "https://whc.unesco.org/document/111383/site_0596_0006.jpg",
+        "https://whc.unesco.org/document/111385/site_0596_0007.jpg",
+        "https://whc.unesco.org/document/111388/site_0596_0008.jpg",
+        "https://whc.unesco.org/document/133428/site_0596_0009.jpg",
+        "https://whc.unesco.org/document/133429/site_0596_0010.jpg",
+        "https://whc.unesco.org/document/133430/site_0596_0011.jpg",
+        "https://whc.unesco.org/document/133431/site_0596_0012.jpg",
+        "https://whc.unesco.org/document/133432/site_0596_0013.jpg",
+        "https://whc.unesco.org/document/133433/site_0596_0014.jpg",
+        "https://whc.unesco.org/document/133434/site_0596_0015.jpg"
+      ],
+      "count": 15
+    }
+  },
+  "components": {
+    "count": 7,
+    "locations": [
+      {
+        "name": "Village of Viscri",
+        "ref": "596bis-003",
+        "latitude": 46.0552777778,
+        "longitude": 25.0902777778
+      },
+      {
+        "name": "Village of Dârjiu",
+        "ref": "596bis-004",
+        "latitude": 46.2038888889,
+        "longitude": 25.2008333333
+      },
+      {
+        "name": "Village of Câlnic",
+        "ref": "596bis-006",
+        "latitude": 45.8852777778,
+        "longitude": 23.6577777778
+      },
+      {
+        "name": "Village of Biertan",
+        "ref": "596bis-001",
+        "latitude": 46.1358333333,
+        "longitude": 24.7730555556
+      },
+      {
+        "name": "Village of Valea Viilor",
+        "ref": "596bis-007",
+        "latitude": 46.0833333333,
+        "longitude": 24.2786111111
+      },
+      {
+        "name": "Village of Saschiz-Keisd",
+        "ref": "596bis-005",
+        "latitude": 46.1947222222,
+        "longitude": 24.9561111111
+      },
+      {
+        "name": "Village of Prejmer-Tartlau",
+        "ref": "596bis-002",
+        "latitude": 45.7225,
+        "longitude": 25.7755555556
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/596",
+    "unesco_documents": "https://whc.unesco.org/en/list/596/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/596/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/596/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Cultural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 32,
+    "inscription_year": 1993
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Villages with Fortified Churches in Transylvania These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century. These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century. Romania Europe and North America Cultural"
+}

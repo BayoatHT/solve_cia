@@ -1,0 +1,158 @@
+{
+  "site_key": "rock_shelters_of_bhimbetka",
+  "uuid": "92a226dc-9523-5815-9ae8-84d7472cf5e9",
+  "unesco_id": "925",
+  "names": {
+    "en": "Rock Shelters of Bhimbetka",
+    "fr": "Abris sous-roche du Bhimbetka",
+    "es": "Refugios rupestres de Bhimbetka",
+    "ru": "Скальные жилища Бхимбетка",
+    "ar": "ملاجئ بيمبتكا الصخرية",
+    "zh": "温迪亚山脉的比莫贝卡特石窟"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "IND": {
+        "name": "India",
+        "iso2": "IN",
+        "iso3": "IND"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on the southern edge of the central Indian plateau. Within massive sandstone outcrops, above comparatively dense forest, are five clusters of natural rock shelters, displaying paintings that appear to date from the Mesolithic Period right through to the historical period. The cultural traditions of the inhabitants of the twenty-one villages adjacent to the site bear a strong resemblance to those represented in the rock paintings.",
+      "fr": "Les abris sous roche du Bhimbetka se trouvent au pied des monts Vindhyan, au sud du plateau de l’Inde centrale. Cinq groupes d’abris sous roche naturels sont situés au sein d’énormes affleurements de grès, au-dessus d’une forêt relativement dense, et contiennent des peintures qui paraissent commencer au mésolithique et se poursuivre sans interruption jusqu’à l’époque historique. Dans les vingt et un villages qui entourent le site, vivent des populations dont les traditions culturelles contemporaines rappellent celles dépeintes dans les peintures rupestres.",
+      "es": "Los refugios rupestres naturales de Bhimbetka están situados al pie de los montes Vindhyan, al sur de la meseta central de la India. Cinco conjuntos de esos refugios están situados dentro de enormes afloramientos de arenisca que emergen en el suelo de un bosque relativamente espeso. Todos ellos contienen pinturas de épocas sucesivas, que se escalonan sin interrupción desde el Periodo Mesolítico hasta los tiempos históricos. En las 21 aldeas que circundan el sitio viven poblaciones cuyas costumbres se asemejan a las representadas en las pinturas rupestres.",
+      "ru": "Скальные жилища Бхимбетка находятся у подножья гор Виндхья в южной части Центрального Индийского плато. В массивных известняковых скалах, возвышающихся над довольно густым лесом, располагаются пять групп естественных скальных укрытий. Там имеются росписи, представляющие период от мезолита до конца доисторического времени. Культурные традиции жителей 21 деревни, которые расположены вблизи этого объекта, имеют большое сходство с сюжетами, представленными на скальных изображениях.",
+      "ar": "تتواجد ملاجئ بيمبتكا الصخرية عند أسفل جبال فندهيان الواقعة جنوب هضبة الهند الوسطى. وتقع خمس مجموعات من الملاجئ الصخرية في عقر نتوءات ضخمة من الآجرّ فوق غابة كثيفة نسبياً، وتحتوي على رسومات يبدو أنها بدأت في العصر الحجري الأوسط واستمرّت بلا انقطاع حتى الحقبة التاريخية. وتعيش في القرى الحادية والعشرين المحيطة بالموقع شعوب ذات تقاليد ثقافية معاصرة تُعيد إلى الذاكرة تلك المصوّرة في الرسوم الصخرية.",
+      "zh": "比莫贝卡特石窟位于印度高原心脏地区南部边缘的温迪亚山脉丘陵地带。在相对密集的森林之上是大量的沙石岩，有五组天然石窟，里面岩画的历史从中石器时代一直延续到文明历史时代。21个毗邻石窟遗址的村庄居民的文化传统，与石窟岩画中所描绘的内容有极大的相似之处。"
+    },
+    "full": "The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on the southern edge of the central Indian plateau. Within massive sandstone outcrops, above comparatively dense forest, are five clusters of natural rock shelters, displaying paintings that appear to date from the Mesolithic Period right through to the historical period. The cultural traditions of the inhabitants of the twenty-one villages adjacent to the site bear a strong resemblance to those represented in the rock paintings.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        3,
+        5
+      ],
+      "natural": [],
+      "all": [
+        3,
+        5
+      ],
+      "display": "(iii)(v)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 1893,
+      "square_km": 18.93,
+      "square_miles": 7.661,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2003,
+      "all_dates": [
+        2003
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2003,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/544e9bc29f4b7924f98c28a4d6275f6f",
+      "filename": "site_0925_0001-500-0-20090918194407.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 358
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113402/site_0925_0001.jpg"
+      ],
+      "count": 1
+    }
+  },
+  "components": {
+    "count": 2,
+    "locations": [
+      {
+        "name": "Larger group",
+        "ref": "925-001",
+        "latitude": 22.9388888889,
+        "longitude": 77.6033333333
+      },
+      {
+        "name": "Smaller group",
+        "ref": "925-002",
+        "latitude": 22.9452777778,
+        "longitude": 77.6472222222
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/925",
+    "unesco_documents": "https://whc.unesco.org/en/list/925/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/925/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/925/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 22,
+    "inscription_year": 2003
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Rock Shelters of Bhimbetka The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on the southern edge of the central Indian plateau. Within massive sandstone outcrops, above comparatively dense forest, are five clusters of natural rock shelters, displaying paintings that appear to date from the Mesolithic Period right through to the historical period. The cultural traditions of the inhabitants of the twenty-one villages adjacent to the site bear a strong resemblance to those represented in the rock paintings. The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on the southern edge of the central Indian plateau. Within massive sandstone outcrops, above comparatively dense forest, are five clusters of natural rock shelters, displaying paintings that appear to date from the Mesolithic Period right through to the historical period. The cultural traditions of the inhabitants of the twenty-one villages adjacent to the site bear a strong resemblance to those represented in the rock paintings. India Asia and the Pacific Cultural"
+}

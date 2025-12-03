@@ -1,0 +1,187 @@
+{
+  "country": {
+    "code": "GIN",
+    "name": "Guinea"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "mount_nimba_strict_nature_reserve",
+      "uuid": "362c1737-ad33-5fc0-ac56-cd3b4d6fb869",
+      "unesco_id": "155",
+      "names": {
+        "en": "Mount Nimba Strict Nature Reserve",
+        "fr": "Réserve naturelle intégrale du mont Nimba",
+        "es": "Reserva natural integral del Monte Nimba",
+        "ru": "Природный резерват Маунт-Нимба",
+        "ar": "محميّة جبل نيمبا الطبيعيّة المتكاملة",
+        "zh": "宁巴山自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GIN": {
+            "name": "Guinea",
+            "iso2": "GN",
+            "iso3": "GIN"
+          },
+          "CIV": {
+            "name": "Côte d'Ivoire",
+            "iso2": "CI",
+            "iso3": "CIV"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.",
+          "fr": "Situé aux confins de la Guinée, du Liberia et de la Côte d’Ivoire, le mont Nimba domine les savanes environnantes. Ses pentes, couvertes d’une forêt dense au pied d’alpages de graminées, recèlent une flore et une faune particulièrement riches, avec des espèces endémiques comme le crapaud vivipare ou les chimpanzés qui se servent de pierres comme d’outils.",
+          "es": "Situado en los confines de Guinea, Liberia y la Côte d’Ivoire, el monte Nimba domina un paisaje circundante de sabanas. Sus laderas, cubiertas por un bosque denso que crece al pie de praderas de gramíneas, albergan una flora y una fauna de especial riqueza, con especies endémicas como el sapo vivíparo o chimpancés que utilizan piedras como utensilios.",
+          "ru": "Гора Нимба, возвышающаяся над окружающими ее саваннами, располагается на границе Гвинеи, Кот-д`Ивуара и Либерии. Её склоны поросли густым лесом, а самые возвышенные участки заняты горными лугами. Местная фауна и флора очень богата, и включает ряд эндемиков, например живородящую жабу и западный подвид шимпанзе, замеченный в использовании камней в качестве орудий труда.",
+          "ar": "يقع جبل نيمبا عند تخوم غينيا وليبيريا وكوت ديفوار وهو يُطلّ على السافانا المحيطة به. ففي منحدراته المغطاة بغابة كثيفة عند قدم مراعٍ من النجيليّات حياةٌ نباتيّةٌ وحيوانيّةٌ غنيّةٌ، ناهيك عن أصناف مستوطنة مثل الضفدع الولود أو القردة التي تستخدم الحجارة على أنّها أدوات.",
+          "zh": "宁巴山位于几内亚、利比亚和科特迪瓦的边境，高高耸立在一片草原之上，草原高山的脚下覆盖着浓密的森林。这一地区拥有特别丰富的动植物，还有一些当地特有的动物，如胎生蟾蜍和以石头当工具的黑猩猩。"
+        },
+        "full": "Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.",
+        "justification": "Brief synthesis A veritable « water tower » with about fifty springs between the Côte d’Ivoire and Guinea, the Mount Nimba Strict Nature Reserve is dominated by a chain of mountains that culminate at 1,752 m altitude at Mount Nimba. The slopes, covered with dense forest at the lower levels, with grassy mountain pastures, overflow with particularly rich endemic flora and fauna. Extending over a total of area of 17,540 ha, with 12,540 ha in Guinea and 5,000 ha in Côte d’Ivoire, the property is integrated into the public domain of the two States. This Reserve contains original and diverse species of the most remarkable animal and plant populations, not only in West Africa, but also in the entire African continent; notably threatened species such as the Micropotamogale of Mount Nimba (Micropotamogale lamottei), the viviparous toad of Mount Nimba (Nimbaphrynoides occidentalis) and chimpanzees that use stones as tools. Criterion (ix): Part of the rare mountainous chains of West Africa, Mount Nimba rises abruptly to an altitude of 1,752 m above a rolling panorama and giving way to forested plains at the lower altitudes. It is an isolated refuge covered with montane forests, making the landscape of the Gulf of Guinea an exceptional site from the ecological perspective. Its geomorphological characteristics and its sub-equatorial montane climate of strong seasonal and altitudinal contrasts produce a rich variety of microclimates. This latter factor has contributed to the individualization of an insolite plant and fauna population, as well as a dynamic and exceptionally varied ecosystem. Criterion (x): Its unique geographical and climatic location combined with its biogeographical background provides the Nimba chain with one of the most remarkable diversities of the whole West African region. It is also one of the only sites of the Gulf of Guinea with a strong endemism potential. The wide range of habitats in the Reserve with its numerous niches enables the property to provide shelter to more than 317 vertebrate species, 107 of which are mammals, and, to more than 2,500 invertebrate species with a strong endemism level. The viviparous toad of Mount Nimba (Nimbaphrynoides occidentalis), critically threatened with extinction due to its very reduced breeding area, only lives in high altitude habitats. Another endemic species in danger of extinction is the micropotamogale of Mount Nimba (Micropotamogale lamottei), a small semi-aquatic insectivore. Several species of threatened primates are also present, including chimpanzees capable of using tools. The Reserve contains a very important plant population, with a dense forest covering the lower level of the massif up to 1,000 m altitude, replaced higher up by a montane forest rich in epiphytes. The massif of Nimba has summits that extend over 15 km in length and covered with montane savanna. More than 2,000 species of vascular plants, including several endemic or quasi-endemic plants have been recorded. Integrity The property includes almost the totality of the massif of Nimba located in Guinea and the Côte d’Ivoire. Today, the Reserve covers an area of about 17,540 ha of which 12,540 ha in Guinea and 5,000 ha in Côte d’Ivoire. The part of the massif located on the territory of Liberia is greatly degraded due to former mining activities. The property therefore includes the necessary sufficient habitats to sustain its integrity. In the Guinean part, an enclave where mining has occurred is directly adjacent to the property. Even if this exploitation is technically outside the property, it remains questionable as to whether it may be worked without affecting the integrity of this property. Protection and management requirements Since 1944, Mount Nimba enjoys the status of strict protection in its northern part – today shared between Guinea and Côte d’Ivoire. The Reserve is clearly delineated by its natural boundaries (water ways) recognized and respected by the neighbouring populations. In Côte d’Ivoire, its status has been strengthened by Law 2002-102 of 11 February 2002 that confers the quality of public domain inalienable to the State. All the land rights of the Reserve are now the exclusive property of the State and any installation of human activity is prohibited. In addition to the legal framework, the Ivorian State has established a reinforced institutional framework that decentralises certain administrative functions to the Ivorian Office of Parks and Reserves (OIPR) by decree No. 2002-359 of 24 July 2002 and to the Foundation for Parks and Reserves (FPRCI) to seek permanent funding. With regard to Guinea, the 1944 status remains the legal basis for protection. It is important that this protection is transcribed in Guinean law by means of a legal process. The administration of the Reserve is assured by a public establishment of administrative and scientific character (Centre for the Management of the Environment of Mount Nimba-Simandou (CEGENS)) under the responsibility of the Ministry of Environment, Water and Forests and Sustainable Development. The Guinean part was pronounced Biosphere Reserve in 1980. The massif is threatened by increased pressure adjacent to the boundaries of the site, caused by the neighbouring populations and increased demographic pressure. Although the natural forests that cover the slopes of Nimba have not suffered much damage, on the contrary, the fauna has been the subject of very intense poaching. The need for land for agriculture and cattle breeding has strengthened the traditional practice of clearing by fire. These anthropic fires occur regularly in the protected area, constituting an important administrative challenge. The participation of the neighbouring population in conservation measures is indispensible to remedy these problems. Surveillance of the property must be assured to dissuade the practices that damage its integrity. Also, the capacities of the management authorities must be reinforced both at the technical and human resource levels as well as the financial means."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 17540,
+          "square_km": 175.4,
+          "square_miles": 70.982,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981,
+            1982
+          ],
+          "extensions": [
+            1982
+          ],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1982,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1992",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/522e83b21de5e46d712b3112c9d26cda",
+          "filename": "site_0155_0008.jpg",
+          "dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/183873/site_0155_0008.jpg",
+            "https://whc.unesco.org/document/108445/site_0155_0002.jpg",
+            "https://whc.unesco.org/document/108442/site_0155_0001.JPG",
+            "https://whc.unesco.org/document/108447/site_0155_0003.JPG",
+            "https://whc.unesco.org/document/108448/site_0155_0004.JPG",
+            "https://whc.unesco.org/document/108450/site_0155_0005.JPG",
+            "https://whc.unesco.org/document/108453/site_0155_0006.JPG",
+            "https://whc.unesco.org/document/123989/site_0155_0007.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Mount Nimba Strict Nature Reserve",
+            "ref": "155bis",
+            "latitude": 7.60318,
+            "longitude": -8.39097
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/155",
+        "unesco_documents": "https://whc.unesco.org/en/list/155/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/155/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/155/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mount Nimba Strict Nature Reserve Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools. Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools. Guinea Côte d'Ivoire Africa Natural"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "site_key": "mir_castle_complex",
+  "uuid": "337768f8-9087-5e7b-b244-68c7da6c10ec",
+  "unesco_id": "625",
+  "names": {
+    "en": "Mir Castle Complex",
+    "fr": "Ensemble du château de Mir",
+    "es": "Conjunto del Castillo de Mir",
+    "ru": "Комплекс Мирского замка",
+    "ar": "مجمع قصر مير",
+    "zh": "米尔城堡群"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "BLR": {
+        "name": "Belarus",
+        "iso2": "BY",
+        "iso3": "BLR"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history.",
+      "fr": "La construction de ce château commence à la fin du XVe siècle en style gothique. Il sera agrandi et reconstruit par la suite, d'abord en style Renaissance, puis en style baroque. Après un siècle d'abandon et les graves dommages subis pendant la période napoléonienne, le château sera restauré à la fin du XIXe siècle. De nombreux éléments y seront rajoutés et le paysage environnant sera aménagé en parc. Sa forme actuelle est un témoignage vivant de son histoire souvent troublée.",
+      "es": "Este castillo se empezó a construir en las postrimerí­as del siglo XV en estilo gótico. Las partes añadidas y reconstruidas posteriormente son de estilo renacentista y barroco. Tras un siglo de abandono y los graves daños sufridos en la época napoleónica, el castillo fue restaurado a finales del siglo XIX, añadiéndosele entonces nuevos elementos y transformando el í¡rea circundante en parque. Su apariencia actual es un testimonio vivo de su turbulenta historia.",
+      "ru": "Мирский замок был возведен в самом начале XVI в. в готическом стиле. Затем он был существенно расширен и перестроен, сначала в стиле эпохи Возрождения, затем – барокко. Далее почти на протяжении столетия замок был заброшен, а во время войны 1812 г. он испытал серьезные разрушения. В конце XIX в. замок был восстановлен, в его архитектурный ансамбль были внесены новые элементы, а на прилегающей территории был разбит ландшафтный парк с водоемом. Современный облик замка – наглядное свидетельство его богатой и сложной истории.",
+      "ar": "بدأ بناء هذا القصر في نهاية القرن الخامس عشر على الطراز القوطي. بعد ذاك، تمّ تكبيره وإعادة تشييده لاحقاً، أولاً بحسب طراز النهضة ومن ثم بحسب الطراز الباروكي. بعد قرن من الإهمال والأضرار الكبيرة التي عاناها خلال فترة نابليون، تمّت إضافة عدد كبير من العناصر عليه وترتيب الأراضي المجاورة لتصبح منتزهاً. إن شكله الحالي شاهد على تاريخه المضطرب.",
+      "zh": "米尔城堡于十五世纪末动工建设，属于哥特式风格，后来在文艺复兴时期及其后的巴洛克风格盛行时期得到不断扩建和重建。城堡曾被遗弃了近一个世纪，后又在拿破仑一世时期受到严重破坏，但最终于19世纪末得到修复。在修复过程中，加入了许多其他要素，美化了周边景观，建成了一个公园。如今的面貌是其历经沧桑动荡的历史写照。"
+    },
+    "full": "The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        4
+      ],
+      "display": "(ii)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 27,
+      "square_km": 0.27,
+      "square_miles": 0.109,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2000,
+      "all_dates": [
+        2000
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2000,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/34e408389402e086c66d0468dfc31189",
+      "filename": "site_0625_0001-500-0-20090924150953.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 244
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/111885/site_0625_0001.jpg"
+      ],
+      "count": 1
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Mir Castle Complex",
+        "ref": "625",
+        "latitude": 53.45108333,
+        "longitude": 26.47272222
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/625",
+    "unesco_documents": "https://whc.unesco.org/en/list/625/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/625/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/625/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Cultural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 25,
+    "inscription_year": 2000
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Mir Castle Complex The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history. The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history. Belarus Europe and North America Cultural"
+}

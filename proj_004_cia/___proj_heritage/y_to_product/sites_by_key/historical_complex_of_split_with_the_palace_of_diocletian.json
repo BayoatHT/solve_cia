@@ -1,0 +1,186 @@
+{
+  "site_key": "historical_complex_of_split_with_the_palace_of_diocletian",
+  "uuid": "d40fc785-b9ef-52f3-bff6-f648fec2bb61",
+  "unesco_id": "97",
+  "names": {
+    "en": "Historical Complex of Split with the Palace of Diocletian",
+    "fr": "Noyau historique de Split avec le palais de Dioclétien",
+    "es": "Núcleo histórico de Split con el palacio de Diocleciano",
+    "ru": "Исторический центр города Сплит с дворцом Диоклетиана",
+    "ar": "نواة سبليت التاريخيّة وقصر دوكليشن",
+    "zh": "斯普利特古建筑群及戴克里先宫殿"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "HRV": {
+        "name": "Croatia",
+        "iso2": "HR",
+        "iso3": "HRV"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area.",
+      "fr": "Les ruines du palais de Dioclétien, construit entre la fin du IIIe siècle et le début du IVe siècle, subsistent dans toute la ville. La cathédrale a été édifiée au Moyen Âge à partir de l'ancien mausolée. Le reste de la partie classée de la ville comprend des églises romanes des XIIe et XIIIe siècles, des fortifications médiévales, des palais gothiques du XVe siècle et d'autres palais de la Renaissance et du baroque.",
+      "es": "Los vestigios del palacio de Diocleciano, construido entre finales del siglo III y comienzos del IV, están esparcidos por toda la ciudad. La catedral fue erigida en la Edad Media sobre el antiguo mausoleo imperial. El resto del núcleo protegido de Split comprende iglesias románicas de los siglos XII y XIII, fortificaciones medievales, palacios góticos del siglo XV y otras mansiones de de estilo renacentista y barroco.",
+      "ru": "В этом городе можно увидеть руины дворца Диоклетиана, построенного в конце III - начале IV вв. Кафедральный собор был сооружен в Средние века с использованием частей древнего мавзолея. В пределах охранной зоны также располагаются романские церкви XII-XIII вв., средневековые укрепления и дворцы в стиле готики XV в., Возрождения и барокко.",
+      "ar": "تنتشر في أنحاء المدينة قاطبةً آثار قصر دوكليشن المشيّد بين نهاية القرن الثالث ومطلع القرن الرابع. جرى تشييد الكاثدرائيّة في القرون الوسطى على أنقاض المعبد القديم. أمّا سائر أنحاء المدينة المصنّفة، فتضم كنائس رومانيّة من القرنين الثاني والثالث عشر وحصون ترقى إلى القرون الوسطى وقصور قوطيّة الطراز من القرن الخامس عشر وقصور أخرى من حقبة النهضة والباروك.",
+      "zh": "戴克里先宫殿建造于公元3世纪末到4世纪初，其废墟在城中随处可见。天主大教堂是中世纪时期在古代陵墓基础上建造的。12至13世纪的罗马式教堂、中世纪防御工事、15世纪的哥特式宫殿以及其他文艺复兴时期和巴洛克风格的宫殿构成了保护内区的其他景点。"
+    },
+    "full": "The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        3,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        3,
+        4
+      ],
+      "display": "(ii)(iii)(iv)",
+      "count": 3,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 20.8,
+      "square_km": 0.21,
+      "square_miles": 0.084,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1979,
+      "all_dates": [
+        1979
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1979,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/316fbcec87376f6850be585446d7e87e",
+      "filename": "site_0097_0024-500-0-20251022174807.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 750
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/120845/site_0097_0024.jpg",
+        "https://whc.unesco.org/document/120846/site_0097_0025.jpg",
+        "https://whc.unesco.org/document/120847/site_0097_0026.jpg",
+        "https://whc.unesco.org/document/120848/site_0097_0027.jpg",
+        "https://whc.unesco.org/document/120849/site_0097_0028.jpg",
+        "https://whc.unesco.org/document/120851/site_0097_0030.jpg",
+        "https://whc.unesco.org/document/120852/site_0097_0031.jpg",
+        "https://whc.unesco.org/document/120853/site_0097_0032.jpg",
+        "https://whc.unesco.org/document/120854/site_0097_0033.jpg",
+        "https://whc.unesco.org/document/120855/site_0097_0034.jpg",
+        "https://whc.unesco.org/document/108808/site_0097_0001.jpg",
+        "https://whc.unesco.org/document/108810/site_0097_0002.jpg",
+        "https://whc.unesco.org/document/108812/site_0097_0003.jpg",
+        "https://whc.unesco.org/document/108814/site_0097_0004.jpg",
+        "https://whc.unesco.org/document/108818/site_0097_0006.jpg",
+        "https://whc.unesco.org/document/108825/site_0097_0009.jpg",
+        "https://whc.unesco.org/document/108827/site_0097_0010.jpg",
+        "https://whc.unesco.org/document/108837/site_0097_0015.jpg",
+        "https://whc.unesco.org/document/108839/site_0097_0016.jpg",
+        "https://whc.unesco.org/document/108840/site_0097_0017.jpg",
+        "https://whc.unesco.org/document/108842/site_0097_0018.jpg",
+        "https://whc.unesco.org/document/108844/site_0097_0019.jpg",
+        "https://whc.unesco.org/document/124205/site_0097_0035.jpg",
+        "https://whc.unesco.org/document/124206/site_0097_0036.jpg",
+        "https://whc.unesco.org/document/124207/site_0097_0037.jpg",
+        "https://whc.unesco.org/document/124208/site_0097_0038.jpg",
+        "https://whc.unesco.org/document/124209/site_0097_0039.jpg",
+        "https://whc.unesco.org/document/124210/site_0097_0040.jpg",
+        "https://whc.unesco.org/document/131470/site_0097_0041.jpg",
+        "https://whc.unesco.org/document/131471/site_0097_0042.jpg",
+        "https://whc.unesco.org/document/131473/site_0097_0044.jpg",
+        "https://whc.unesco.org/document/131474/site_0097_0045.jpg",
+        "https://whc.unesco.org/document/131475/site_0097_0046.jpg"
+      ],
+      "count": 33
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Historical Complex of Split with the Palace of Diocletian",
+        "ref": "97",
+        "latitude": 43.5088888889,
+        "longitude": 16.4391666667
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/97",
+    "unesco_documents": "https://whc.unesco.org/en/list/97/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/97/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/97/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Urban",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1970s",
+    "era": "Early Heritage Period (1972-1979)",
+    "age_years": 46,
+    "inscription_year": 1979
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Historical Complex of Split with the Palace of Diocletian The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area. The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area. Croatia Europe and North America Cultural"
+}

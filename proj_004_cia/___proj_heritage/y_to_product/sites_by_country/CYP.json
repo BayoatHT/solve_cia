@@ -1,0 +1,624 @@
+{
+  "country": {
+    "code": "CYP",
+    "name": "Cyprus"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "paphos",
+      "uuid": "de16dd10-b473-5eee-8c83-7e5e33ee29e3",
+      "unesco_id": "79",
+      "names": {
+        "en": "Paphos",
+        "fr": "Paphos",
+        "es": "Pafos",
+        "ru": "Древний город Пафос",
+        "ar": "بافوس",
+        "zh": "帕福斯"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CYP": {
+            "name": "Cyprus",
+            "iso2": "CY",
+            "iso3": "CYP"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world.",
+          "fr": "Habité depuis les temps néolithiques, le site de Paphos fut un lieu de culte des divinités préhelléniques de la fertilité, puis d'Aphrodite elle-même, née selon la légende à Paphos. Le temple de la déesse, de construction mycénienne, remonte au XIIe siècle av. J.-C. Les vestiges de villas, palais, théâtres, forteresses et tombeaux confèrent au site un intérêt architectural et historique exceptionnel. Les mosaïques de Nea Paphos sont parmi les plus belles du monde.",
+          "es": "Habitado desde el Neolítico, el sitio de Pafos fue un lugar de culto a las deidades de la fertilidad en la época prehelénica. Luego, este culto sería reemplazado por el de Afrodita, nacida aquí según la mitología griega. El templo de esta diosa es una construcción micénica que data del siglo XII a.C. Los vestigios de villas, palacios, teatros, fortalezas y tumbas confieren a este sitio un excepcional valor arquitectónico e histórico. Los mosaicos de Nea Paphos figuran entre los más bellos del mundo.",
+          "ru": "Пафос обитаем со времен неолита. Он был центром поклонения Афродите и догреческим божествам плодородия. Согласно легенде, Афродита родилась на этом острове, где в XII в. до н.э. микенцы возвели в её честь храм. Развалины вилл, дворцов, театров, крепостей и гробниц придают этому объекту особую архитектурную и историческую ценность. Мозаики Неа-Пафоса – одни из самых удивительных в мире.",
+          "ar": "بدأ السكن في موقع بافوس منذ العصر الحجري وهو موقع عبادة آلهة الخصب في الحقبة ما قبل الإغريقيّة ومن ثمّ الإلهة أفروديت التي ولدت في بافوس بحسب الأسطورة. ويرقى معبد الإلهة المشيّد على النسق الميسيني إلى القرن الثاني عشر ق.م. وتمنح بقايا البيوت والقصور والمسارح والحصون والمقابر للموقع أهميّةً هندسيّةً وتاريخيّةً استثنائيّة. وتعدّ فسيفساء نيا بافوس من بين الأجمل في العالم.",
+          "zh": "帕福斯自新石器时代就有人类居住，是一个崇拜阿芙罗狄蒂(Aphrodite)和前希腊生育诸神的中心。传说阿芙罗狄蒂就诞生在这个岛上。公元前12世纪迈锡尼人在这里为她建造了庙宇。这里的别墅、宫殿、剧院、要塞和墓地遗迹都表明这个遗址具有非凡的建筑和历史价值。新帕福斯的马赛克图案是世界上最美丽的图案之一。"
+        },
+        "full": "Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world.",
+        "justification": "Brief synthesis Paphos, situated in the District of Paphos in western Cyprus, is a serial archaeological property consisting of three components at two sites: the town of Kato Paphos (Site I), and the village of Kouklia (Site II). Kato Paphos includes the remains of ancient Nea Paphos (Aphrodite’s Sacred City) and of the Kato Paphos necropolis known as Tafoi ton Vasileon (“Tombs of the Kings”), further to the north. The village of Kouklia includes the remains of the Temple of Aphrodite (Aphrodite’s Sanctuary) and Palaepaphos (Old Paphos). Because of their great antiquity, and because they are closely and directly related to the cult and legend of Aphrodite (Venus), who under the influence of Homeric poetry became the ideal of beauty and love, inspiring writers, poets, and artists throughout human history, these two sites can indeed be considered to be of outstanding universal value. Paphos, which has been inhabited since the Neolithic period, was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite’s legendary birthplace was on the island of Cyprus, where her temple was erected by the Myceneans in the 12th century BC and continued to be used until the Roman period. The site is a vast archaeological area, with remains of villas, palaces, theatres, fortresses and tombs. These illustrate Paphos’ exceptional architectural and historic value and contribute extensively to our understanding of ancient architecture, ways of life, and thinking. The villas are richly adorned with mosaic floors that are among the most beautiful in the world. These mosaics constitute an illuminated album of ancient Greek mythology, with representations of Greek gods, goddesses and heroes, as well as activities of everyday life. Criterion (iii): Cyprus was a place of worship of pre-Hellenic fertility deities since the Neolithic period (6th millennium BC). Many of the archaeological remains are of great antiquity; the Temple of Aphrodite itself dates from the 12th century BC, and bears witness to one of the oldest Mycenaean settlements. The mosaics of Nea Paphos are extremely rare and are considered amongst the finest specimens in the world; they cover the Hellenistic period to the Byzantine period. One of the keys to our knowledge of ancient architecture, the architectural remains of the villas, palaces, fortresses, and rock-hewn peristyle tombs of Paphos are of exceptional historical value. Criterion (vi): The religious and cultural importance of the cult of Venus, a local fertility goddess of Paphos that became widely recognized and celebrated as a symbol of love and beauty, contributes to the Outstanding Universal Value of this property. Integrity All the elements necessary to express the Outstanding Universal Value of Paphos are located within the boundaries of the 291 ha serial property, including the remains of villas, palaces, theatres, fortresses, and the rock-hewn necropolis known as the Tomb of the Kings, as well as mosaics. There is no buffer zone, though the national Antiquities Law provides for the establishment of “Controlled Areas” in the vicinity of the archaeological sites. The property does not suffer unduly from adverse effects of development and/or neglect. Development pressures in the surroundings of the property that threaten to alter the landscape and setting are being dealt with through cooperation with other governmental departments and the local authorities. The integrity of the property is related to the actions taken by the State Party to preserve the original condition of the ruins. Conservation work undertaken is oriented towards ensuring the structural safety of the ruins, while respecting the original material and its aesthetic value, without interfering with the integrity of the property. Special care is taken in the conservation of the mosaic floors, which benefited from a conservation project with the Getty Conservation Institute that ended in 2004. An extensive conservation programme for the mosaic floors was launched in 2011 by the Department of Antiquities to ensure their preservation. The aim is to continue efforts towards the scientific preservation of the archaeological remains and to further oppose development pressures in the environs of the property. Authenticity Paphos is authentic in terms of its locations and settings, forms and designs, as well as materials and substances. The key elements of the property, such as the archaeological remains associated with the cult of Aphrodite, the rare mosaics, and the remains of civil, military, and funerary architecture, retain a high degree of authenticity with regard to the built fabric. Protection and management requirements Paphos is protected and managed according to the provisions of the highly effective national Antiquities Law and the international treaties signed by the Republic of Cyprus. In accordance with the Antiquities Law, Ancient Monuments are categorized as being of the First Schedule (governmental ownership) or of the Second Schedule (private ownership). Paphos (both the town of Kato Paphos and the village of Kouklia) is for the most part under government ownership, due to the policy by the Department of Antiquities to gradually acquire land within the sites and their vicinity. Listed Ancient Monuments of the Second Schedule are gradually being acquired according to the provisions of Section 8 of the Antiquities Law. Furthermore, the Law provides for the establishment of “Controlled Areas” within the vicinity around the sites to control the height and architectural style of any proposed building; such areas are in place for both the town of Kato Paphos and the village of Kouklia. Paphos was given “enhanced protection” status in November 2010 by UNESCO’s Committee for the Protection of Cultural Property in the Event of Armed Conflict. Management of the property is under the direct supervision of the Curator of Ancient Monuments and the Director of the Department of Antiquities. The District Archaeological Officer of Paphos is responsible for supervising the property, under the direction of the Curator of Ancient Monuments. The property has sufficient funding, which is provided by the Department of Antiquities from the yearly government budget. A Master Plan for Kato Paphos (Site I) was implemented from 1991 onwards. The second phase of this Master Plan, concerning the creation of shelters for the mosaic floors, is in progress. A Master Plan for Palaepaphos (Site II) has also been prepared and is under progressive implementation. The creation of a management plan for Paphos that addresses the conservation, promotion, and preservation needs of the property is one of the objectives set by the Department of Antiquities for all listed Cypriot World Heritage properties. Sustaining the Outstanding Universal Value of the property over time will require completing, approving, and implementing a management plan for Paphos, aiming at the conservation, promotion, and preservation of the property’s unique values for future generations. It will also reinforce efforts undertaken within the framework of the national legislation to minimise dangers of encroachment and the erection of inappropriate buildings in this favoured tourist area."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 162.0171,
+          "square_km": 1.62,
+          "square_miles": 0.656,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/cdf084dee307fdfacf1048496da95d55",
+          "filename": "site_0079_0001-500-0-20151104165016.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108158/site_0079_0001.jpg",
+            "https://whc.unesco.org/document/108160/site_0079_0002.jpg",
+            "https://whc.unesco.org/document/108162/site_0079_0003.jpg",
+            "https://whc.unesco.org/document/108164/site_0079_0004.jpg",
+            "https://whc.unesco.org/document/108166/site_0079_0005.jpg",
+            "https://whc.unesco.org/document/108168/site_0079_0006.jpg",
+            "https://whc.unesco.org/document/108170/site_0079_0007.jpg",
+            "https://whc.unesco.org/document/108172/site_0079_0008.jpg",
+            "https://whc.unesco.org/document/108174/site_0079_0009.jpg",
+            "https://whc.unesco.org/document/108176/site_0079_0010.jpg",
+            "https://whc.unesco.org/document/108178/site_0079_0011.jpg",
+            "https://whc.unesco.org/document/108180/site_0079_0012.jpg",
+            "https://whc.unesco.org/document/139258/site_0079_0013.jpg",
+            "https://whc.unesco.org/document/139259/site_0079_0014.jpg",
+            "https://whc.unesco.org/document/139260/site_0079_0015.jpg",
+            "https://whc.unesco.org/document/139262/site_0079_0016.jpg",
+            "https://whc.unesco.org/document/139263/site_0079_0017.jpg",
+            "https://whc.unesco.org/document/139264/site_0079_0018.jpg",
+            "https://whc.unesco.org/document/139265/site_0079_0019.jpg",
+            "https://whc.unesco.org/document/139266/site_0079_0020.jpg",
+            "https://whc.unesco.org/document/139267/site_0079_0021.jpg",
+            "https://whc.unesco.org/document/139268/site_0079_0022.jpg",
+            "https://whc.unesco.org/document/139269/site_0079_0023.jpg",
+            "https://whc.unesco.org/document/139270/site_0079_0024.jpg",
+            "https://whc.unesco.org/document/139271/site_0079_0025.jpg",
+            "https://whc.unesco.org/document/139272/site_0079_0026.jpg",
+            "https://whc.unesco.org/document/139273/site_0079_0027.jpg",
+            "https://whc.unesco.org/document/139274/site_0079_0028.jpg",
+            "https://whc.unesco.org/document/139275/site_0079_0029.jpg",
+            "https://whc.unesco.org/document/139276/site_0079_0030.jpg",
+            "https://whc.unesco.org/document/139277/site_0079_0031.jpg",
+            "https://whc.unesco.org/document/139278/site_0079_0032.jpg",
+            "https://whc.unesco.org/document/143668/site_0079_0033.jpg",
+            "https://whc.unesco.org/document/143669/site_0079_0034.jpg",
+            "https://whc.unesco.org/document/143670/site_0079_0035.jpg",
+            "https://whc.unesco.org/document/143671/site_0079_0036.jpg",
+            "https://whc.unesco.org/document/143672/site_0079_0037.jpg",
+            "https://whc.unesco.org/document/143673/site_0079_0038.jpg",
+            "https://whc.unesco.org/document/143674/site_0079_0039.jpg",
+            "https://whc.unesco.org/document/143675/site_0079_0040.jpg",
+            "https://whc.unesco.org/document/143676/site_0079_0041.jpg",
+            "https://whc.unesco.org/document/143677/site_0079_0042.jpg",
+            "https://whc.unesco.org/document/156615/site_0079_0043.jpg",
+            "https://whc.unesco.org/document/156616/site_0079_0044.jpg",
+            "https://whc.unesco.org/document/156617/site_0079_0045.jpg",
+            "https://whc.unesco.org/document/156618/site_0079_0046.jpg",
+            "https://whc.unesco.org/document/156619/site_0079_0047.jpg"
+          ],
+          "count": 47
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Aphrodite's Sacred City at Kato Paphos Town",
+            "ref": "79-001",
+            "latitude": 34.7583333333,
+            "longitude": 32.4055555556
+          },
+          {
+            "name": "Kato Paphos necropolis (Tafoi ton Vasileon)",
+            "ref": "79-002",
+            "latitude": 34.775,
+            "longitude": 32.4069444444
+          },
+          {
+            "name": "Aphrodite's Sanctuary at Kouklia village (\\Palaepaphos\\ or Old Pahpos)",
+            "ref": "79-003",
+            "latitude": 34.7086111111,
+            "longitude": 32.5733333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/79",
+        "unesco_documents": "https://whc.unesco.org/en/list/79/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/79/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/79/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Paphos Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world. Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world. Cyprus Europe and North America Cultural"
+    },
+    {
+      "site_key": "choirokoitia",
+      "uuid": "dd6c2d74-28fb-5f08-b520-98db3fb566a5",
+      "unesco_id": "848",
+      "names": {
+        "en": "Choirokoitia",
+        "fr": "Choirokoitia",
+        "es": "Choirokoitia",
+        "ru": "Поселение неолита Хирокития",
+        "ar": "شويروكويتا",
+        "zh": "乔伊鲁科蒂亚"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CYP": {
+            "name": "Cyprus",
+            "iso2": "CY",
+            "iso3": "CYP"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Neolithic settlement of Choirokoitia, occupied from the 7th to the 4th millennium B.C., is one of the most important prehistoric sites in the eastern Mediterranean. Its remains and the finds from the excavations there have thrown much light on the evolution of human society in this key region. Since only part of the site has been excavated, it forms an exceptional archaeological reserve for future study.",
+          "fr": "Le site néolithique de Choirokoitia, occupé du VIIe au IVe millénaire av. J.-C., est l'un des sites préhistoriques les plus importants de la partie orientale de la Méditerranée. Les vestiges retrouvés lors des fouilles ont permis d'en savoir plus sur l'évolution de la société humaine dans cette région si importante à cet égard. Le site n'a été que partiellement fouillé, et constitue donc une réserve archéologique exceptionnelle pour les recherches futures.",
+          "es": "El asentamiento neolí­tico de Choirokoitia, ocupado desde el séptimo hasta el cuarto milenio antes de nuestra era, es uno de los sitios prehistóricos mí¡s importantes del Mediterrí¡neo Oriental. Los vestigios encontrados en las excavaciones han permitido conocer mejor la evolución de la sociedad humana en esta región clave. El sitio, que sólo ha sido excavado en parte, constituye una reserva arqueológica excepcional para futuras investigaciones.",
+          "ru": "Обитаемое с 7-го по 4-е тысячелетия до н.э. поселение периода неолита Хирокития – одно из самых ценных доисторических объектов в Восточном Средиземноморье. Его руины и археологические находки, обнаруженные при раскопках, пролили свет на развитие человеческих сообществ в этом исторически значимом регионе. Поскольку только часть объекта раскопана, он обладает исключительным археологическим потенциалом для будущих исследований.",
+          "ar": "يُعتبر موقع شويروكويتا الذي يرقى إلى العصر الحجري والمأهول منذ القرن السابع والسادس ق.م أحد أهم المواقع التاريخيّة التي تعود الى العصر الحجري في الجزء الشرقي من المتوسط. ولقد سمحت الآثار التي تمّ اكتشافها أثناء التنقيب بالتعرّف إلى تطوّر المجتمع الإنساني في هذه المنطقة. ولم يتم التنقيب في الموقع إلاّ بصورة جزئية وهو يُشكّل بالتالي خزّاناً تراثيّاًً استثنائيّاًً لأعمال البحث المستقبليّة.",
+          "zh": "公元前7000至公元前4000年，乔伊鲁科蒂亚新石器时代人类聚落是地中海东部地区最重要的史前遗址之一。这里的遗迹和出土文物证明了人类社会在这一重要地区的演进。遗址仅挖掘了一部分，还有很多非凡古迹有待将来研究。"
+        },
+        "full": "The Neolithic settlement of Choirokoitia, occupied from the 7th to the 4th millennium B.C., is one of the most important prehistoric sites in the eastern Mediterranean. Its remains and the finds from the excavations there have thrown much light on the evolution of human society in this key region. Since only part of the site has been excavated, it forms an exceptional archaeological reserve for future study.",
+        "justification": "Brief synthesis Located in the District of Larnaka, about 6 km from the southern coast of Cyprus, the Neolithic settlement of Choirokoitia lies on the slopes of a hill partly enclosed in a loop of the Maroni River. Occupied from the 7th to the 5th millennium B.C., the village covers an area of approximately 3 ha at its maximum extent and is one of the most important prehistoric sites in the eastern Mediterranean. It represents the Aceramic Neolithic of Cyprus at its peak, that is the success of the first human occupation of the island by farmers coming from the Near East mainland around the beginning of 9th millennium. Excavations have shown that the settlement consisted of circular houses built from mudbrick and stone with flat roofs and that it was protected by successive walls. A complex architectural system providing access to the village has been uncovered on the top of the hill. The achievement of such an impressive construction, built according to a preconceived plan, expresses an important collective effort, with few known parallels in the Near East, and suggests a structured social organisation able to construct and maintain works of a large scale for the common good. A house consisted of several circular buildings equipped with hearths and basins arranged around a small courtyard where domestic activities took place. The houses belonged to the living, as well as to the dead who were buried in pits beneath the rammed earthen floors. Among the finds such as flint tools, bone tools, stone vessels, vegetal and animal remains, noteworthy are the anthropomorphic figurines in stone (one in clay), which point, together with funerary rituals, to the existence of elaborate beliefs. Since only part of the site has been excavated, it forms an exceptional archaeological reserve for future study. Criterion (ii): In the prehistoric period, Cyprus played a key role in the transmission of culture from the Near East to the European world. Criterion (iii): Choirokoitia is an exceptionally well-preserved archaeological site that has provided, and will continue to provide, scientific data of great importance relating to the spread of civilization from Asia to the Mediterranean world. Criterion (iv): Both the excavated remains and the untouched part of Choirokoitia demonstrate clearly the origins of proto-urban settlement in the Mediterranean region and beyond. Integrity The excavated site is intact and includes all attributes that express Outstanding Universal Value. A significant part of the settlement’s environs are within the property boundary. The wholeness or intactness of the property is a result of the actions taken by the State to preserve the original condition of the ruins and of the scientific work undertaken by the French archaeological mission of the National Centre for Scientific Research (CNRS), who have been excavating in Choirokoitia since 1976. Conservation works carried out on the site itself are confined to consolidation of the construction materials to ensure the structural safety of the ruins without interfering with the integrity of the site. Electromagnetic survey and excavations conducted on the entire hill by the French archaeological mission have clarified the limits of the built environment, which is delineated by strong enclosure walls. Development pressures on the site are being dealt with through land expropriation and the creation of a buffer zone, which is the Controlled Area surrounding the Neolithic Settlement of Choirokoitia. Authenticity The key elements of the site consist mostly of the exceptionally well-preserved archaeological remains. These together with excavated artefacts and human remains, truthfully and credibly express the value of the property as the most important Neolithic archaeological site in Cyprus and of exceptional significance in studying and understanding the evolution of human culture in this key area of the eastern Mediterranean. Excavations since the site was discovered have revealed only a small proportion of the total area, constituting the site as a precious archaeological reserve for future generations. Conservation works carried out on the site have been confined to the consolidation of the construction materials. The remains therefore retain their authenticity in terms of form, materials, location and setting. Temporary shelters have been constructed for the protection of the excavated remains. There has been no attempt at reconstruction on site. The reconstruction of five houses and a section of the defence wall have been erected off site, based on excavation evidence to make the site more comprehensible to visitors. Protection and management requirements The management of the site is under the direct supervision of the Curator of Ancient Monuments and the Director of the Department of Antiquities. Cultural and archaeological heritage in Cyprus is protected and managed according to the provisions of the national legislation, i.e the Antiquities Law and the International Treaties signed by the Republic of Cyprus. In accordance with the Antiquities Law, Ancient Monuments are categorized as of the First Schedule (governmental ownership) and of the Second Schedule (private ownership). Choirokoitia site is of government property. A large area directly to the west of the site has been listed as an Ancient Monument of the Second Schedule to enable control over development. Thus, listed Ancient Monuments of the Second Schedule are gradually being acquired according to the provisions of section 8 of the Antiquities Law, under which the Director of the Department of Antiquities has the power to reject or modify a project concerning the development of any plot declared as a monument of the Second Schedule. Furthermore, the Law provides, under Section II article 11, for the establishment of “Controlled Areas” within the vicinity of the sites. According to article 11, the Director of the Department of Antiquities controls the height and architectural style of any building proposed for erection within the Controlled Area, in order to safeguard the historic and archaeological character, the amenities and the environment surrounding an Ancient Monument. Choirokoitia Controlled Area will be extended further to the north, east and south of the site to facilitate better control over development pressures. The aim is to protect both the Neolithic settlement, as well as the surrounding natural landscape, which constitutes an integral part of the site. The surrounding area of the site has already been considerably improved by cleaning and tree planting on the riverbanks. Information panels have been provided. The site is open to the public on a daily basis and works have been undertaken to facilitate the visit to the site. The site is adequately funded by the Department of Antiquities from the yearly government budget. A Management Plan has been prepared for Choirokoitia, aimed at the conservation, promotion and preservation of the site’s unique value for future generations, through the production of basic guidelines and policies for all the parties involved. The Plan embraces both physical characteristics of the site and its landscape, as well as its cultural and historical significance. Actions proposed include the improvement of visitor facilities at the site, the development of an emergency evacuation plan, landscaping of the site and the development of educational programmes and activities. Choirokoitia was given enhanced protection status by the Committee for the Protection of Cultural Property in the Event of Armed Conflict in November 2010."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 6.2,
+          "square_km": 0.06,
+          "square_miles": 0.025,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1998,
+          "all_dates": [
+            1998
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1998,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e2661638b03f44a7d66c6bf2dc0fc103",
+          "filename": "site_0848_0001-500-0-20151104164854.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 332
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112549/site_0848_0001.jpg",
+            "https://whc.unesco.org/document/112551/site_0848_0002.jpg",
+            "https://whc.unesco.org/document/139203/site_0848_0003.jpg",
+            "https://whc.unesco.org/document/139204/site_0848_0004.jpg",
+            "https://whc.unesco.org/document/139205/site_0848_0005.jpg",
+            "https://whc.unesco.org/document/139206/site_0848_0006.jpg",
+            "https://whc.unesco.org/document/139207/site_0848_0007.jpg",
+            "https://whc.unesco.org/document/139208/site_0848_0008.jpg",
+            "https://whc.unesco.org/document/139209/site_0848_0009.jpg",
+            "https://whc.unesco.org/document/139210/site_0848_0010.jpg",
+            "https://whc.unesco.org/document/139211/site_0848_0011.jpg",
+            "https://whc.unesco.org/document/139212/site_0848_0012.jpg",
+            "https://whc.unesco.org/document/143689/site_0848_0013.jpg",
+            "https://whc.unesco.org/document/143690/site_0848_0014.jpg",
+            "https://whc.unesco.org/document/143691/site_0848_0015.jpg",
+            "https://whc.unesco.org/document/143692/site_0848_0016.jpg",
+            "https://whc.unesco.org/document/143693/site_0848_0017.jpg",
+            "https://whc.unesco.org/document/143694/site_0848_0018.jpg",
+            "https://whc.unesco.org/document/143695/site_0848_0019.jpg",
+            "https://whc.unesco.org/document/143696/site_0848_0020.jpg",
+            "https://whc.unesco.org/document/143697/site_0848_0021.jpg",
+            "https://whc.unesco.org/document/143698/site_0848_0022.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Choirokoitia",
+            "ref": "848bis",
+            "latitude": 34.7967406661,
+            "longitude": 33.3439431453
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/848",
+        "unesco_documents": "https://whc.unesco.org/en/list/848/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/848/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/848/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 27,
+        "inscription_year": 1998
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Choirokoitia The Neolithic settlement of Choirokoitia, occupied from the 7th to the 4th millennium B.C., is one of the most important prehistoric sites in the eastern Mediterranean. Its remains and the finds from the excavations there have thrown much light on the evolution of human society in this key region. Since only part of the site has been excavated, it forms an exceptional archaeological reserve for future study. The Neolithic settlement of Choirokoitia, occupied from the 7th to the 4th millennium B.C., is one of the most important prehistoric sites in the eastern Mediterranean. Its remains and the finds from the excavations there have thrown much light on the evolution of human society in this key region. Since only part of the site has been excavated, it forms an exceptional archaeological reserve for future study. Cyprus Europe and North America Cultural"
+    },
+    {
+      "site_key": "painted_churches_in_the_troodos_region",
+      "uuid": "92fd7540-66d1-5628-8ea7-0ea669330810",
+      "unesco_id": "351",
+      "names": {
+        "en": "Painted Churches in the Troodos Region",
+        "fr": "Églises peintes de la région de Troodos",
+        "es": "Iglesias pintadas de la región de Troodos",
+        "ru": "Церкви с росписями в районе Троодос",
+        "ar": "الكنائس المزيّنة في منطقة ترودوس",
+        "zh": "特罗多斯地区的彩绘教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CYP": {
+            "name": "Cyprus",
+            "iso2": "CY",
+            "iso3": "CYP"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This region is characterized by one of the largest groups of churches and monasteries of the former Byzantine Empire. The complex of 10 monuments included on the World Heritage List, all richly decorated with murals, provides an overview of Byzantine and post-Byzantine painting in Cyprus. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis.",
+          "fr": "La région de Troodos abrite l'une des plus fortes concentrations d'églises et de monastères de tout l'ancien Empire byzantin. Les dix monuments choisis pour être inscrits sur la Liste du patrimoine mondial, depuis de petites églises rurales dont l'architecture rustique contraste avec le raffinement du décor jusqu'à des monastères comme Saint-Jean Lampadistis, sont tous richement décorés de peintures murales qui offrent un panorama de l'histoire de la peinture byzantine à Chypre.",
+          "es": "En esta región se encuentra una de las mayores concentraciones de iglesias y monasterios construidos en tiempos del Imperio Bizantino. Los diez monumentos inscritos en la Lista del Patrimonio Mundial comprenden desde pequeñas iglesias rurales, cuyo estilo arquitectónico rural contrasta con el refinamiento de su decoración, hasta monasterios importantes como el de San Juan Lampadistis. Todas las iglesias están ricamente ornamentadas con murales que ofrecen una perspectiva excepcional de la pintura bizantina y posbizantina en Chipre.",
+          "ru": "Этот район знаменит одной из крупнейших групп византийских церквей и монастырей. Комплекс из девяти памятников, внесенных в Список всемирного наследия и щедро украшенных стенными росписями, дает общее представление о византийской и поствизантийской живописи на Кипре. Эти памятники очень разные – от маленьких церквушек, деревенский архитектурный стиль которых сильно контрастирует с их изысканной отделкой, до больших монастырей, таких как монастырь Св. Иоанна Лампадистиса.",
+          "ar": "تضم منطقة ترودوس أحد أكبر تجمّعات الكنائس والمعابد في الإمبراطوريّة البيزنطيّة القديمة. وتضمّ التحف العشرة التي وقع عليها الاختيار لتُدرج على قائمة التراث العالمي كنائس ريفية صغيرة تتعارض هندستها القديمة مع تكلّف الزينة وأديرة مثل دير القديس يوحنا لامباديستيس، وكلّها مزيّنة بجداريّات غنيّة تشكّل خير تمثيلٍ لتاريخ الرسم البيزنطي في قبرص.",
+          "zh": "这个地区是拜占庭帝国最大的教堂和修道院群落之一。列入《世界遗产名录》10个建筑全都饰有大量的壁画，全面展示了塞浦路斯的拜占庭式和后拜占庭式绘画。建筑物的类型从小教堂到圣约翰拉姆帕迪斯提斯这样的修道院，应有尽有。小教堂的田园建筑风格与其精美装饰形成了鲜明对比。"
+        },
+        "full": "This region is characterized by one of the largest groups of churches and monasteries of the former Byzantine Empire. The complex of 10 monuments included on the World Heritage List, all richly decorated with murals, provides an overview of Byzantine and post-Byzantine painting in Cyprus. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis.",
+        "justification": "Brief synthesis The Troodos mountain region of Cyprus contains one of the largest groups of churches and monasteries of the former Byzantine Empire. The ten monuments included on the World Heritage List, all richly decorated with murals, provide an overview of Byzantine and post-Byzantine painting in Cyprus and bear testimony to the variety of artistic influences affecting Cyprus over a period of 500 years. The structures display elements that were specific to Cyprus and were determined by its geography, history and climate, including steep-pitched wooden roofs with flat hooked tiles, in some cases providing a second roof over Byzantine masonry domes and vaulted forms, while exhibiting Byzantine metropolitan art of the highest quality. The architecture of these churches is unique, confined to the Troodos range and almost certainly of indigenous origin. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis. They also contain a wealth of dated inscriptions, an uncommon feature in the Eastern Mediterranean during the Middle Ages, which makes them particularly important for recording the chronology of Byzantine painting. Important examples of the 11th century iconography survive in the churches of St. Nicholas of the Roof and Panagia Phorbiotissa of Nikitari. Within Panagia tou Arakou in Lagoudera and St. Nicholas of the Roof are found important wall paintings from the Comnenian era, with the first being of exceptional artistic quality attributed to Constantinopolitan masters. The 13th century, the early period of Latin (western) rule in Cyprus, is well represented in the wall paintings of St. John Lampadistis in Kalopanagiotis and in Panagia in Moutoulla, which reflect the continuing Byzantine tradition and new external influences. The 14th century wall paintings at Panagia Phorbiotissa, Timios Stavros at Pelendri and St. John Lampadistis also display both local and Western influences, and to a certain degree, the revived art of Paleologan Constantinople. In the late 15th century iconography at Timios Stavros Agiasmati and Archangelos Michael, Pedoulas exhibits once again the harmonious combination of Byzantine art with local painting tradition, as well as some elements of Western influence, which are different, however, from the earlier series of St. John Lampadistis that was painted by a refugee from Constantinople. The Venetian rule, which began in 1489 was reflected in the development of the Italo-Byzantine school, and the most sophisticated examples can be found in Panagia Podhithou and the north chapel of St. John Lampadistis, both successful examples of Italian Renaissance art and Byzantine art fusion. Finally, the wall paintings of the Church of the Transfiguration of the Savior in Palaichori form part of the Cretan school of the 16th century. The ten churches included in the serial inscription are: Ayios Nikolaos tis Stegis (St. Nicholas of the Roof), Kakopetria; Ayios Ioannis (St. John) Lambadhistis Monastery, Kalopanayiotis; Panayia (The Virgin) Phorviotissa (Asinou), Nikitari; Panayia (The Virgin) tou Arakou, Lagoudhera; Panayia (The Virgin), Moutoullas; Archangelos Michael (Archangel Michael), Pedhoulas; Timios Stavros (Holy Cross), Pelendria; Panayia (The Virgin) Podhithou, Galata; Stavros (Holy Cross) Ayiasmati, Platanistasa, and the Church of Ayia Sotira (Transfiguration of the Savior), Palaichori. Of the ten churches nine are situated in the District of Nicosia and one, Timios Stavros (Holy Cross), Pelendria is in the District of Limassol. Criterion (ii): Although the existence of any direct influence cannot be confirmed, very close relationships existed, during the 12th century, between painting in Cyprus and Western Christian art (stylistic relationships in the case of Nikitari paintings; iconographical relationships in the case of the paintings of Lagoudera). Thus, there do exist some answers to the very complex question of ties between the two Christianities. These answers take the form of Cypriot monuments, which precede the constitution of the Frankish Lusignan Kingdom, which was a fundamental link in the chain of East-West artistic exchanges. Criterion (iii): The paintings of the Troodos Region bear an outstanding testimony to the Byzantine civilization at the time of the Comnenes, thanks to the Nikitari and Lagoudera ensembles. It should be noted that the former, where the name Alexis Comnene is mentioned in a dedication, was probably executed by artists from Constantinople and the latter was painted at the very time of the fall of Isaac Comnene and the sale of Cyprus to Guy de Lusignan. Criterion (iv): The churches of the Troodos Region are a well conserved example of rural religious architecture during the Byzantine period. The refinement of their décor provides a contrast with their simple structure. The latest post-Byzantine painters alone, with their “rustic” style, are at times in harmony with this vernacular architecture. Integrity The wholeness or intactness of the site is related to the fact that all ten churches of the property are living monuments and continue to be used as places of worship and for other religious practices, thus preserving their original function. They individually retain their architectural fabric and their rich decoration, which separately form a whole assemblage and together complete a set that exhibit Byzantine and post-Byzantine painting in Cyprus. Their surroundings, which in most cases consist of rural countryside, augment their rural exterior in contrast to their décor. Their good state of preservation is directly related to the actions taken by the state, as conservation works are carried out on a yearly basis to the buildings, the wall paintings and wooden furniture, as well as the surrounding areas of the churches. An issue affecting the site is the increasing number of visitors, which occasionally results in pressure from the local church authorities for new facilities incompatible with the character and value of the monuments. In addition, an increase in criminal activities such as robberies has been observed in the past years, enabled by the rural location. Natural disasters and environmental pressures are also associated with the geography of the site, while development pressures arise occasionally. Measures have been implemented to mitigate these threats. Authenticity The key elements of the property – the design, materials, execution and function of the churches – retain a high degree of authenticity. The works undertaken for conservation of the structures and the wall paintings are implemented in a manner that respects the original material and its aesthetic value, without compromising the authenticity of the monuments. The religious functions, the environmental, cultural and historical factors that shaped the site are still evident today and through the collective efforts of the Department of Antiquities, the local communities and the church authorities, their preservation is pursued. Protection and management requirements The management of the site is under the direct supervision of the Curator of Ancient Monuments and the Director of the Department of Antiquities. Cultural and archaeological heritage in Cyprus is protected and managed according to the provisions of the national legislation, i.e. the Antiquities Law and the International Treaties signed by the Republic of Cyprus. In accordance with the Antiquities Law, Ancient Monuments are categorized as of the First Schedule (governmental ownership) and of the Second Schedule (private ownership). The churches included in the site “Painted Churches of the Troodos Region” are listed as Ancient Monuments of the Second Schedule and their legal owner is the Church of Cyprus. The national legislation, with regard to monuments listed as of the Second Schedule, requires written authorization from the competent authority, i.e. the Department of Antiquities, before any intervention may take place. In this framework, the responsibility for the protection of the churches is shared between the State and the various church authorities. However, the inscription of these monuments on the UNESCO World Heritage List led the State to undertake the management of the site in order to avoid any arbitrary interventions on the monuments. The entire cost of conservation works is now funded by the Department of Antiquities from the annual budget. Furthermore, the Law provides, under Section II article 11, for the establishment of Controlled Areas within the vicinity of the sites. According to article 11, the Director of the Department of Antiquities controls the height and architectural style of any building proposed for erection within the Controlled Area, in order to safeguard the historic and the archaeological character, the amenities and the environment surrounding an Ancient Monument. Such Controlled Areas have been defined for the churches included in the serial property. The ten churches continue to be used as places of worship and for religious practices. The continuous use of all the churches for religious ceremonies is a decisive factor for delivering social benefits. At the same time, the churches constitute important visitor attractions and are open to the public for no entrance fee. Local people are fully involved in the management of the site as these churches are the property of the local church authorities and the responsibility for making the monuments accessible to visitors is vested in them. Pressures on the property are being addressed through increased monitoring by the Department of Antiquities and installation of theft and fire alarm systems in the ten churches, together with the creation of Controlled Areas and further expropriation of lands in the vicinity of the churches. Once finalised and agreed upon, the Management Plan prepared by the Department of Antiquities shall address the conservation, promotion and preservation needs of the serial property, and will aim for the preservation of its unique value for future generations by producing basic guidelines and policies for all the parties involved. The serial property Painted Churches in the Troodos Region was given enhanced protection status by the Committee for the Protection of Cultural Property in the Event of Armed Conflict in November 2010."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3.693,
+          "square_km": 0.04,
+          "square_miles": 0.015,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985,
+            2001
+          ],
+          "extensions": [
+            2001
+          ],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2001,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7d02222a7aff94dac7094dc29cbf1861",
+          "filename": "site_0351_0002-500-0-20151104164936.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 506
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110681/site_0351_0002.jpg",
+            "https://whc.unesco.org/document/143678/site_0351_0003.jpg",
+            "https://whc.unesco.org/document/143679/site_0351_0004.jpg",
+            "https://whc.unesco.org/document/143681/site_0351_0005.jpg",
+            "https://whc.unesco.org/document/143682/site_0351_0006.jpg",
+            "https://whc.unesco.org/document/143683/site_0351_0007.jpg",
+            "https://whc.unesco.org/document/143684/site_0351_0008.jpg",
+            "https://whc.unesco.org/document/143685/site_0351_0009.jpg",
+            "https://whc.unesco.org/document/143686/site_0351_0010.jpg",
+            "https://whc.unesco.org/document/143687/site_0351_0011.jpg",
+            "https://whc.unesco.org/document/143688/site_0351_0012.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 10,
+        "locations": [
+          {
+            "name": "Church of Ayia Sotira (of the Transfiguration of the Savior) tou Soteros",
+            "ref": "351bis-010",
+            "latitude": 34.9202777778,
+            "longitude": 33.0958333333
+          },
+          {
+            "name": "Church of Panayia (The Virgin)",
+            "ref": "351-005",
+            "latitude": 35.0,
+            "longitude": 32.8333333333
+          },
+          {
+            "name": "Church of Timios Stavros (Holy Cross)",
+            "ref": "351-007",
+            "latitude": 34.8833333333,
+            "longitude": 32.9666666667
+          },
+          {
+            "name": "Church of Panayia (The Virgin) Podhithou",
+            "ref": "351-008",
+            "latitude": 35.0,
+            "longitude": 32.8833333333
+          },
+          {
+            "name": "Church of Stavros (Holy Cross) Ayiasmati",
+            "ref": "351-009",
+            "latitude": 34.9666666667,
+            "longitude": 33.0333333333
+          },
+          {
+            "name": "Church of Panayia (The Virgin) tou Arakou",
+            "ref": "351-004",
+            "latitude": 34.9666666667,
+            "longitude": 33.0
+          },
+          {
+            "name": "Ayios Ionannis (St. John) Lambadhistis Monastery",
+            "ref": "351-002",
+            "latitude": 34.9833333333,
+            "longitude": 32.8166666667
+          },
+          {
+            "name": "Church of Archangelos Michael (Archangel Michael)",
+            "ref": "351-006",
+            "latitude": 34.9666666667,
+            "longitude": 32.8166666667
+          },
+          {
+            "name": "Church of Ayios Nikolaos (St. Nicholas) tis Steyis",
+            "ref": "351-001",
+            "latitude": 34.9666666667,
+            "longitude": 32.8833333333
+          },
+          {
+            "name": "Church of Panayia (The Virgin) Phorviotissa (Asinou)",
+            "ref": "351-003",
+            "latitude": 35.0333333333,
+            "longitude": 32.9666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/351",
+        "unesco_documents": "https://whc.unesco.org/en/list/351/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/351/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/351/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Painted Churches in the Troodos Region This region is characterized by one of the largest groups of churches and monasteries of the former Byzantine Empire. The complex of 10 monuments included on the World Heritage List, all richly decorated with murals, provides an overview of Byzantine and post-Byzantine painting in Cyprus. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis. This region is characterized by one of the largest groups of churches and monasteries of the former Byzantine Empire. The complex of 10 monuments included on the World Heritage List, all richly decorated with murals, provides an overview of Byzantine and post-Byzantine painting in Cyprus. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis. Cyprus Europe and North America Cultural"
+    }
+  ]
+}

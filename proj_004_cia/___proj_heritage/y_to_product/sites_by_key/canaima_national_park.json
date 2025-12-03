@@ -1,0 +1,173 @@
+{
+  "site_key": "canaima_national_park",
+  "uuid": "5b3437f1-afe9-5b1e-b2ce-1209f34160b8",
+  "unesco_id": "701",
+  "names": {
+    "en": "Canaima National Park",
+    "fr": "Parc national de Canaima",
+    "es": "Parque Nacional de Canaima",
+    "ru": "Национальный парк Канайма",
+    "ar": "منتزه كانايما الوطني",
+    "zh": "卡奈依马国家公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "VEN": {
+        "name": "Venezuela",
+        "iso2": "VE",
+        "iso3": "VEN"
+      }
+    },
+    "region": {
+      "name": "Latin America and the Caribbean",
+      "code": "LAC"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape.",
+      "fr": "Le parc national de Canaima s'étend sur 3 millions d'hectares dans le sud-est du Venezuela, jouxtant les frontières du Guyana et du Brésil. Environ 65 % du parc sont occupés par des montagnes tabulaires tepuis . Elles constituent un milieu biologique unique et présentent un très grand intérêt géologique. Leurs falaises escarpées et leurs cascades (dont la chute d'eau la plus élevée du monde, à 1 000 m) forment des paysages spectaculaires.",
+      "es": "Situado al sudeste de Venezuela, el territorio de este parque, que linda con las fronteras de Guyana y Brasil, abarca tres millones de hectáreas cubiertas en un 65% por tepuyes, montañas tabulares con características biogeológicas únicas que presentan un gran interés para la geología. Sus escarpados farallones y cascadas –entre las que figura la más alta del mundo, con 1.000 metros de caída– forman espectaculares paisajes.",
+      "ru": "Национальный парк Канайма, площадью 3 млн. га, находится на юго-востоке Венесуэлы на границе с Гайаной и Бразилией. Примерно 65% территории парка занято столообразными горами, которые называются «тепуи» и представляют особенный интерес, как с геологической, так и биологической точек зрения. Крутые обрывы и водопады, включая Анхель - самый высокий в мире (около 1000 м) - придают этому ландшафту исключительную живописность.",
+      "ar": "يمتد منتزه كانايما الوطني على ثلاثة ملايين هكتار جنوب شرق فنزويلا بمحاذاة الحدود مع غوايانا والبرازيل. ويشغل نحو 65% منه جبال مسطحة تؤلف محيطاً بيولوجياً فريداً وتتسم بأهمية جيولوجية فائقة. أما شواطئها الصخرية المنحدرة وشلالاتها (التي تضم أعلى شلال في العالم بارتفاع 1000 متر)، فتؤلف منظراً مذهلاً.",
+      "zh": "卡奈依马国家公园占地面积达300万公顷，绵延于圭亚那和巴西边界线之间的委内瑞拉东南部。公园约65%的土地由石板山覆盖，这些生物地质学的实体构成的石板山极具地质学价值。陡峭的悬崖和高达一千米的世界上最高的瀑布，构成了卡奈依马国家公园的独特景观。"
+    },
+    "full": "Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "all": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "display": "(vii)(viii)(ix)(x)",
+      "count": 4,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 3000000,
+      "square_km": 30000.0,
+      "square_miles": 12140.588,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1994,
+      "all_dates": [
+        1994
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1994,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0064cdfd48c9c1a54c0f481e645c69fe",
+      "filename": "site_0701_0001-500-0-20151105162803.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/112579/site_0701_0001.jpg",
+        "https://whc.unesco.org/document/112581/site_0701_0002.jpg",
+        "https://whc.unesco.org/document/112583/site_0701_0003.jpg",
+        "https://whc.unesco.org/document/112586/site_0701_0004.jpg",
+        "https://whc.unesco.org/document/112587/site_0701_0005.jpg",
+        "https://whc.unesco.org/document/112589/site_0701_0006.jpg",
+        "https://whc.unesco.org/document/112591/site_0701_0007.jpg",
+        "https://whc.unesco.org/document/112593/site_0701_0008.jpg",
+        "https://whc.unesco.org/document/112595/site_0701_0009.jpg",
+        "https://whc.unesco.org/document/112597/site_0701_0010.jpg",
+        "https://whc.unesco.org/document/112599/site_0701_0011.jpg",
+        "https://whc.unesco.org/document/112601/site_0701_0012.jpg",
+        "https://whc.unesco.org/document/112603/site_0701_0013.jpg",
+        "https://whc.unesco.org/document/112605/site_0701_0014.jpg",
+        "https://whc.unesco.org/document/112607/site_0701_0015.jpg",
+        "https://whc.unesco.org/document/112609/site_0701_0016.jpg",
+        "https://whc.unesco.org/document/112611/site_0701_0017.jpg",
+        "https://whc.unesco.org/document/112612/site_0701_0018.jpg"
+      ],
+      "count": 18
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Canaima National Park",
+        "ref": "701",
+        "latitude": 5.337994,
+        "longitude": -62.037883
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/701",
+    "unesco_documents": "https://whc.unesco.org/en/list/701/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/701/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/701/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Americas",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 31,
+    "inscription_year": 1994
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Canaima National Park Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape. Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape. Venezuela Latin America and the Caribbean Natural"
+}

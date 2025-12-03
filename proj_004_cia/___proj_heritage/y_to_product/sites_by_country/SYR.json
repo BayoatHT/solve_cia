@@ -1,0 +1,1303 @@
+{
+  "country": {
+    "code": "SYR",
+    "name": "Syria"
+  },
+  "total_sites": 6,
+  "sites_by_category": {
+    "Cultural": 6,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 6,
+  "sites": [
+    {
+      "site_key": "ancient_city_of_aleppo",
+      "uuid": "c315d45d-15bf-504b-b018-53ff2f84083f",
+      "unesco_id": "21",
+      "names": {
+        "en": "Ancient City of Aleppo",
+        "fr": "Ancienne ville d'Alep",
+        "es": "Ciudad vieja de Alepo",
+        "ru": "Старый город в Халебе",
+        "ar": "مدينة حلب القديمة",
+        "zh": "阿勒颇古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation.",
+          "fr": "Au carrefour de plusieurs routes commerciales depuis le IIe millénaire av. J.-C., Alep a successivement subi la domination des Hittites, des Assyriens, des Arabes, des Mongols, des Mamelouks et des Ottomans. Sa citadelle du XIIIe siècle, sa Grande Mosquée du XIIe siècle et plusieurs medersa, palais, caravansérails et hammams du XVIIe siècle donnent au tissu urbain d'Alep un caractère harmonieux et unique, maintenant menacé par la surpopulation.",
+          "es": "Situada en la encrucijada de varias rutas comerciales desde el segundo milenio antes de nuestra era, Alepo estuvo sucesivamente bajo la dominación de hititas, asirios, árabes, mongoles, mamelucos y otomanos. La gran mezquita del siglo XII, la ciudadela del siglo XIII y sus madrazas, palacios, caravasares y baños de vapor (hammam) del siglo XVII forman parte de un tejido urbano armonioso y único en su género, que hoy en día corre peligro a causa de la superpoblación.",
+          "ru": "Халеб, расположенный на пересечении нескольких торговых путей, начиная со 2-го тысячелетия до н.э. последовательно находился под властью хеттов, ассирийцев, арабов, монголов, мамлюков и турок. Цитадель XIII в., Большая Мечеть XII в., а также разнообразные медресе, дворцы, караван-сараи, бани-«хаммамы» XVII в. составляют часть взаимосвязанной уникальной городской застройки, которой ныне угрожает перенаселенность.",
+          "ar": "خضعت حلب على التوالي لسيطرة الحثيين والأشوريين والعرب والمغول والمماليك والعثمانيين لوقوعها على مفترق طرق تجارية متعددة منذ الألفية الثانية قبل الميلاد. فقلعتها التي ترقى الى القرن الثالث عشر ومسجدها الكبير الذي بني في القرن الثاني عشر ومدارسها وقصورها وخانات القوافل وحماماتها المبنية في القرن السابع عشر تضفي على نسيجها المدني طابعاً متناسقاً وفريداً يتهدده اليوم الاكتظاظ السكاني.",
+          "zh": "阿勒颇从公元前2000年起就处于几条商道的交汇处，相继由希泰人、亚述人、阿拉伯人、蒙古人、马穆鲁克人和土耳其人统治过。古城内13世纪的城堡、12世纪的大清真寺和17世纪的穆斯林学校、宫殿、沙漠旅店及浴室，构成了城市独特的建筑结构。阿勒颇现今面临人口过盛的困境。"
+        },
+        "full": "Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation.",
+        "justification": "Brief synthesis Located at the crossroads of several trade routes since the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Akkadians, Greeks, Romans, Umayyads, Ayyubids, Mameluks and Ottomans who left their stamp on the city. The Citadel, the 12th-century Great Mosque and various 16th and 17th-centuries madrasas, residences, khans and public baths, all form part of the city's cohesive, unique urban fabric. The monumental Citadel of Aleppo, rising above the suqs, mosques and madrasas of the old walled city, is testament to Arab military might from the 12th to the 14th centuries. With evidence of past occupation by civilizations dating back to the 10th century B.C., the citadel contains the remains of mosques, palace and bath buildings. The walled city that grew up around the citadel bears evidence of the early Graeco-Roman street layout and contains remnants of 6th century Christian buildings, medieval walls and gates, mosques and madrasas relating to the Ayyubid and Mameluke development of the city, and later mosques and palaces of the Ottoman period. Outside the walls, the Bab al-Faraj quarter to the North-West, the Jdeide area to the north and other areas to the south and west, contemporary with these periods of occupation of the walled city contain important religious buildings and residences. Fundamental changes to parts of the city took place in the 30 years before inscription, including the destruction of buildings, and the development of tall new buildings and widened roads. Nonetheless the surviving ensemble of major buildings as well as the coherence of the urban character of the suqs and residential streets and lanes all contribute to the Outstanding Universal Value. Criterion (iii): The old city of Aleppo reflects the rich and diverse cultures of its successive occupants. Many periods of history have left their influence in the architectural fabric of the city. Remains of Hittite, Hellenistic, Roman, Byzantine and Ayyubid structures and elements are incorporated in the massive surviving Citadel. The diverse mixture of buildings including the Great Mosque founded under the Umayyads and rebuilt in the 12th century; the 12th century Madrasa Halawiye, which incorporates remains of Aleppo's Christian cathedral, together with other mosques and madrasas, suqs and khans represents an exceptional reflection of the social, cultural and economic aspects of what was once one of the richest cities of all humanity. Criterion (iv): Aleppo is an outstanding example of an Ayyubid 12th century city with its military fortifications constructed as its focal point following the success of Salah El-Din against the Crusaders. The encircling ditch and defensive wall above a massive, sloping, stone-faced glacis, and the great gateway with its machicolations comprise a major ensemble of military architecture at the height of Arab dominance. Works of the 13th-14th centuries including the great towers and the stone entry bridge reinforce the architectural quality of this ensemble. Surrounding the citadel within the city are numerous mosques from the same period including the Madrasah al Firdows, constructed by Daifa Khatoun in 1235. Integrity The boundary of the property follows the line of the walls of the old city and three extra-muros areas: North, Northeast and East suburbs. Some attributes exist beyond the boundary and need protection by a buffer zone. Although the Citadel still dominates the city, the eight storey hotel development in the Bab al-Faraj area has had a detrimental impact on its visual integrity, as have other interventions before inscription. The remaining coherence of the urban fabric needs to be respected and the vulnerabilities of fabric and archaeological remains, though lack of conservation, need to be addressed on an on-going basis. Authenticity Since inscription, the layout of the old city in relation to the dominant Citadel has remained basically unchanged. Conservation efforts within the old city have largely preserved the attributes of the Oustanding Universal Value. However the setting is distinctly vulnerable due to the lack of control mechanisms in the planning administration, including the absence of a buffer zone. The historic and traditional handicraft and commercial activities continue as a vital component of the city sustaining its traditional urban life. Protection and management requirements The property is protected by the Antiquities Law administered by the Directorate of Antiquities and Museums (DGAM). In 1992, the Project for the Rehabilitation of Old Aleppo was set up under the Municipality of Aleppo in cooperation with international agencies. In 1999, the Directorate of the Old City was established under the Municipality of Aleppo to guide the rehabilitation of the old city with three departments covering studies and planning; permits and monitoring, and implementation and maintenance. A comprehensive plan for the evolution of the city is being prepared by the Old City Directorate office. The city's development is being considered under the 'Programme for Sustainable Urban Development in Syria' (UDP), a joint undertaking between international agencies, the Syrian Ministry for Local Administration and Environment, and several other Syrian partner institutions. The programme promotes capacities for sustainable urban management and development at the national and municipal level, and includes further support to the rehabilitation of the Old City. There is an on-going need to foster traditional approaches to conservation, restoration, repair and maintenance of building fabric. There is also a need for an overall conservation management plan to include planning rules for heights and density of new developments in specific neighbourhoods, and for policies for the protection of archaeological remains uncovered during infrastructure and development works. There is also a need for an approved buffer zone with appropriate planning constraints."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 364,
+          "square_km": 3.64,
+          "square_miles": 1.473,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c49e0c6c45361bda0e821a2984ea5a23",
+          "filename": "site_0021_0001.jpg",
+          "dimensions": {
+            "width": 2000,
+            "height": 3008
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107638/site_0021_0001.jpg",
+            "https://whc.unesco.org/document/107639/site_0021_0002.jpg",
+            "https://whc.unesco.org/document/107640/site_0021_0003.jpg",
+            "https://whc.unesco.org/document/107641/site_0021_0004.jpg",
+            "https://whc.unesco.org/document/107642/site_0021_0005.jpg",
+            "https://whc.unesco.org/document/107643/site_0021_0006.jpg",
+            "https://whc.unesco.org/document/107644/site_0021_0007.jpg",
+            "https://whc.unesco.org/document/107645/site_0021_0008.jpg",
+            "https://whc.unesco.org/document/107646/site_0021_0009.jpg",
+            "https://whc.unesco.org/document/107647/site_0021_0010.jpg",
+            "https://whc.unesco.org/document/107648/site_0021_0011.jpg",
+            "https://whc.unesco.org/document/107649/site_0021_0012.jpg",
+            "https://whc.unesco.org/document/107650/site_0021_0013.jpg",
+            "https://whc.unesco.org/document/107651/site_0021_0014.jpg",
+            "https://whc.unesco.org/document/107652/site_0021_0015.jpg",
+            "https://whc.unesco.org/document/107653/site_0021_0016.jpg",
+            "https://whc.unesco.org/document/107654/site_0021_0017.jpg",
+            "https://whc.unesco.org/document/107655/site_0021_0018.jpg",
+            "https://whc.unesco.org/document/107656/site_0021_0019.jpg",
+            "https://whc.unesco.org/document/107657/site_0021_0020.jpg",
+            "https://whc.unesco.org/document/107658/site_0021_0021.jpg",
+            "https://whc.unesco.org/document/107659/site_0021_0022.jpg",
+            "https://whc.unesco.org/document/107660/site_0021_0023.jpg",
+            "https://whc.unesco.org/document/107661/site_0021_0024.jpg",
+            "https://whc.unesco.org/document/107662/site_0021_0025.jpg",
+            "https://whc.unesco.org/document/107664/site_0021_0027.jpg",
+            "https://whc.unesco.org/document/107665/site_0021_0028.jpg",
+            "https://whc.unesco.org/document/107666/site_0021_0029.jpg",
+            "https://whc.unesco.org/document/107668/site_0021_0031.jpg",
+            "https://whc.unesco.org/document/107669/site_0021_0032.jpg",
+            "https://whc.unesco.org/document/107670/site_0021_0033.jpg",
+            "https://whc.unesco.org/document/107671/site_0021_0034.jpg",
+            "https://whc.unesco.org/document/107672/site_0021_0035.jpg",
+            "https://whc.unesco.org/document/107673/site_0021_0036.jpg",
+            "https://whc.unesco.org/document/107674/site_0021_0037.jpg",
+            "https://whc.unesco.org/document/107675/site_0021_0038.jpg",
+            "https://whc.unesco.org/document/107676/site_0021_0039.jpg",
+            "https://whc.unesco.org/document/120411/site_0021_0040.jpg",
+            "https://whc.unesco.org/document/120412/site_0021_0041.jpg",
+            "https://whc.unesco.org/document/120413/site_0021_0042.jpg",
+            "https://whc.unesco.org/document/120417/site_0021_0043.jpg",
+            "https://whc.unesco.org/document/120418/site_0021_0044.jpg",
+            "https://whc.unesco.org/document/132622/site_0021_0045.jpg",
+            "https://whc.unesco.org/document/132623/site_0021_0046.jpg",
+            "https://whc.unesco.org/document/132624/site_0021_0047.jpg",
+            "https://whc.unesco.org/document/132625/site_0021_0048.jpg",
+            "https://whc.unesco.org/document/132626/site_0021_0049.jpg",
+            "https://whc.unesco.org/document/132627/site_0021_0050.jpg",
+            "https://whc.unesco.org/document/132628/site_0021_0051.jpg",
+            "https://whc.unesco.org/document/132629/site_0021_0052.jpg",
+            "https://whc.unesco.org/document/132630/site_0021_0053.jpg",
+            "https://whc.unesco.org/document/132631/site_0021_0054.jpg",
+            "https://whc.unesco.org/document/132653/site_0021_0055.jpg",
+            "https://whc.unesco.org/document/132654/site_0021_0056.jpg",
+            "https://whc.unesco.org/document/132655/site_0021_0057.jpg",
+            "https://whc.unesco.org/document/132656/site_0021_0058.jpg",
+            "https://whc.unesco.org/document/132657/site_0021_0059.jpg",
+            "https://whc.unesco.org/document/132658/site_0021_0060.jpg",
+            "https://whc.unesco.org/document/132659/site_0021_0061.jpg",
+            "https://whc.unesco.org/document/132660/site_0021_0062.jpg",
+            "https://whc.unesco.org/document/132661/site_0021_0063.jpg",
+            "https://whc.unesco.org/document/132662/site_0021_0064.jpg",
+            "https://whc.unesco.org/document/132663/site_0021_0065.jpg",
+            "https://whc.unesco.org/document/132664/site_0021_0066.jpg",
+            "https://whc.unesco.org/document/132665/site_0021_0067.jpg",
+            "https://whc.unesco.org/document/132666/site_0021_0068.jpg",
+            "https://whc.unesco.org/document/132667/site_0021_0069.jpg",
+            "https://whc.unesco.org/document/132668/site_0021_0070.jpg",
+            "https://whc.unesco.org/document/132669/site_0021_0071.jpg",
+            "https://whc.unesco.org/document/132670/site_0021_0072.jpg",
+            "https://whc.unesco.org/document/132671/site_0021_0073.jpg",
+            "https://whc.unesco.org/document/132672/site_0021_0074.jpg",
+            "https://whc.unesco.org/document/132673/site_0021_0075.jpg",
+            "https://whc.unesco.org/document/132674/site_0021_0076.jpg"
+          ],
+          "count": 74
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient City of Aleppo",
+            "ref": "21",
+            "latitude": 36.1991666667,
+            "longitude": 37.1627777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/21",
+        "unesco_documents": "https://whc.unesco.org/en/list/21/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/21/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/21/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Aleppo Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation. Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation. Syria Arab States Cultural"
+    },
+    {
+      "site_key": "ancient_villages_of_northern_syria",
+      "uuid": "477994ed-510b-5004-91b5-dc3691e96526",
+      "unesco_id": "1348",
+      "names": {
+        "en": "Ancient Villages of Northern Syria",
+        "fr": "Villages antiques du Nord de la Syrie",
+        "es": "Aldeas antiguas del norte de Siria",
+        "ru": "Древние деревни Северной Сирии",
+        "ar": "القرى القديمة في شمال سوريا",
+        "zh": "叙利亚北部古村落群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Some 40 villages grouped in eight parks situated in north-western Syria provide remarkable testimony to rural life in late Antiquity and during the Byzantine period. Abandoned in the 8th to 10th centuries, the villages, which date from the 1st to 7th centuries, feature a remarkably well preserved landscape and the architectural remains of dwellings, pagan temples, churches, cisterns, bathhouses etc. The relict cultural landscape of the villages also constitutes an important illustration of the transition from the ancient pagan world of the Roman Empire to Byzantine Christianity. Vestiges illustrating hydraulic techniques, protective walls and Roman agricultural plot plans furthermore offer testimony to the inhabitants' mastery of agricultural production.",
+          "fr": "Situés au nord-ouest de la Syrie, une quarantaine de villages, regroupés au sein de huit parcs, offrent un témoignage remarquable des modes de vie ruraux et villageois de l'Antiquité tardive et de l'époque byzantine. Abandonnés au cours des VIII-Xe siècles, ces villages, qui datent du Ier au VIIe siècles, offrent un paysage et des vestiges particulièrement bien conservés : maisons d'habitation, temples païens, églises, citernes collectives, thermes, etc. Ces paysages culturels reliques constituent une illustration importante de la transition entre le monde antique païen de l'Empire romain et le christianisme byzantin. Les vestiges témoignant des techniques hydrauliques, des murets de protection et du parcellaire romain nous montrent à quel point les habitants maîtrisaient la production agricole.",
+          "es": "Este sitio, que comprende cuarenta aldeas del noroeste de Siria agrupadas en ocho parques arqueológicos, constituye un notable testimonio de la vida rural en el periodo de la Antigüedad tardía y la época bizantina. Construidas desde el siglo I hasta el VII y abandonadas entre los siglos VIII y X, esas aldeas se caracterizan por el buen estado de conservación de su paisaje cultural y de los vestigios arquitectónicos de viviendas, templos paganos, iglesias, cisternas, baños termales y otros edificios. El paisaje cultural subsistente de las aldeas ilustra de modo notable la transición del mundo antiguo pagano del Imperio Romano al cristianismo bizantino. Los vestigios de técnicas hidráulicas, de muros de protección y de planes de parcelación agraria de la época romana muestran también el dominio de la agricultura que tenían los habitantes de esas aldeas.",
+          "ru": "В восьми парках, расположенных на северо-западе Сирии, насчитывается около сорока деревень. Они хранят замечательные свидетельства сельской жизни эпохи поздней античности и византийского периода. Но в период между 8 и 10 веками жители покинули эти поселения, создававшиеся с 1 по 7 века н.э. До наших дней дошли прекрасно сохранившийся культурный ландшафт и архитектурные памятники - остатки жилищ, языческих храмов, церквей, водосборников, бань и т.д. Реликтовый культурный ландшафт деревень является ценным хранилищем сведений о переходном периоде от древнего языческого мира Римской империи к византийскому христианству. Развалины, дающие представление о создававшихся в те времена гидравлических устройствах, защитные стены и планировка сельскохозяйственных угодий, применявшаяся римлянами, - все это является убедительным свидетельством мастерства их жителей в организации сельскохозяйственного производства.",
+          "ar": "يشمل هذا الموقع نحو أربعين قرية موزعة على ثمانية مجمعات في شمال غرب سوريا و شهادة مميزة على الحياة الريفية في أواخر العصور القديمة وخلال الحقبة البيزنطية. وتتميز هذه القرى التي بُنيت بين القرن الأول والقرن السابع والتي هجرها أهلها في الفترة الممتدة من القرن الثامن إلى القرن العاشر بمناظر حافظت على الكثير من خصائصها على مدى السنين، وتشمل معالم أثرية لعدد من المساكن والمعابد الوثنية والكنائس والأحواض والحمامات العمومية، وما إلى ذلك. وتُعتبر المناظر الثقافية العتيقة لهذه القرى دليلاً مهماً على الانتقال من التاريخ الوثني للإمبراطورية الرومانية إلى الحقبة المسيحية في العصر البيزنطي. أما البقايا الأثرية التي تدل على التقنيات الهيدرولية والجدران الوقائية والمخطوطات الزراعية في الحقبة الرومانية، فتشهد على مدى إتقان سكان هذه القرى لأساليب الإنتاج الزراعي.",
+          "zh": "阿拉伯叙利亚共和国）由位于叙利亚西北部8座公园中的约40多个村庄所组成，是古代晚期至拜占庭时期乡村生活的不可多得的见证。这些村庄建于公元1至7世纪，后于8至10世纪遭到废弃，但这里的景观保存依然保存完好，民居、寺庙、教堂、蓄水池、澡堂等建筑遗存依然可见。村落文化景观遗存对于展现古罗马帝国的非基督教时代向拜占庭基督教时代的转变具有重要的价值。一些遗迹还表明这里曾使用过水利技术、防护墙以及古罗马农业规划手段，进一步展示了当地居民对农业生产技术的驾驭。"
+        },
+        "full": "Some 40 villages grouped in eight parks situated in north-western Syria provide remarkable testimony to rural life in late Antiquity and during the Byzantine period. Abandoned in the 8th to 10th centuries, the villages, which date from the 1st to 7th centuries, feature a remarkably well preserved landscape and the architectural remains of dwellings, pagan temples, churches, cisterns, bathhouses etc. The relict cultural landscape of the villages also constitutes an important illustration of the transition from the ancient pagan world of the Roman Empire to Byzantine Christianity. Vestiges illustrating hydraulic techniques, protective walls and Roman agricultural plot plans furthermore offer testimony to the inhabitants' mastery of agricultural production.",
+        "justification": "Brief synthesis Located in a vast Limestone Massif, in the northwest of Syria, some forty ancient villages provide a coherent and exceptionally broad insight into rural and village lifestyles in late Antiquity and the Byzantine Period. Abandoned in the 8th-10th centuries, they still retain a large part of their original monuments and buildings, in a remarkable state of preservation: dwellings, pagan temples, churches and Christian sanctuaries, funerary monuments, bathhouses, public buildings, buildings with economic or artisanal purposes, etc. It is also an exceptional illustration of the development of Christianity in the East, in village communities. Grouped in eight archaeological parks, the ensemble forms a series of unique and exceptional relict cultural landscapes. Criterion (iii): The Ancient Villages of Northern Syria and their relict landscapes provide exceptional testimony to the lifestyles and cultural traditions of the rural civilisations that developed in the Middle East, in the context of a Mediterranean climate in mid-altitude limestone mountains from the 1st to the 7th centuries. Criterion (iv): The Ancient Villages of Northern Syria and their relict landscapes provide exceptional testimony to the architecture of the rural house and civilian and religious community buildings at the end of the Classical era and in the Byzantine Period. Their association in villages and places of worship forms relict landscapes characteristic of the transition between the ancient pagan world and Byzantine Christianity. Criterion (v): The Ancient Villages of Northern Syria and their relict landscapes provide an eminent example of a sustainable rural settlement from the 1st to the 7th centuries, based on the careful use of the soil, water and limestone, and the mastery of production of valuable agricultural crops. The economic functionality of the habitat, hydraulic engineering, low protective walls and the Roman agricultural plot plan inscribed on the relict landscapes are testimony to this. Integrity The architectural integrity is expressed adequately. The sites are sufficiently extensive; they encompass a large number of villages, places of worship, and monumental and archaeological testimonies to adequately express the Outstanding Universal Value. The number and quality of the relict landscapes are also adequate and essential to the expression of this value. Nonetheless, the recent trend of an agricultural re-settlement of the Limestone Massif could affect the built integrity of certain villages and the associated landscapes. Authenticity As a result of the absence of human occupation for a thousand years, the absence of any re-use of the stones and the absence of restoration/reconstruction campaigns in the 20th century, the property and its landscapes have retained a very high degree of authenticity. However, recent rural relocation could affect the conditions of authenticity, although replanting respectful of the ancient agricultural plot plan should contribute to revitalising the landscape without affecting its authenticity. Protection and management requirements The dynamic of the legal protection is heading in the right direction, notably following the decrees creating the parks, and to control farming and urban development compatible with the archaeological, monumental and landscape values of the sites. This must be reinforced by a revision of the Antiquities Law to improve the protection of the relict cultural landscapes. The property is currently (2010) managed by the Directorate General of Antiquities and Museums (DGAM), but on a transitional basis. The final management structure for the property will include eight parks set up for each of the sites, two management centres and the Maison du patrimoine to manage the ensemble overall and coordinate conservation, under the control of the DGAM, the Ministry of Tourism and the provincial governors. These bodies are currently being set up and are essential. In liaison with the municipalities, they will be tasked with overseeing successful economic, social and tourism development compatible with the conservation and expression of the property's Outstanding Universal Value."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 12290,
+          "square_km": 122.9,
+          "square_miles": 49.736,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/47a999119b7c29c07db89a93f63c9686",
+          "filename": "site_1348_0001-500-0-20230221171111.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 244
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115065/site_1348_0001.jpg",
+            "https://whc.unesco.org/document/115077/site_1348_0007.jpg",
+            "https://whc.unesco.org/document/115067/site_1348_0002.jpg",
+            "https://whc.unesco.org/document/115069/site_1348_0003.jpg",
+            "https://whc.unesco.org/document/115071/site_1348_0004.jpg",
+            "https://whc.unesco.org/document/115073/site_1348_0005.jpg",
+            "https://whc.unesco.org/document/115074/site_1348_0006.jpg",
+            "https://whc.unesco.org/document/115079/site_1348_0008.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 8,
+        "locations": [
+          {
+            "name": "Jebel Barisha Deirouné",
+            "ref": "1348-007",
+            "latitude": 36.2105555556,
+            "longitude": 36.6597222222
+          },
+          {
+            "name": "Jebel Sem’an 3 Sinkhar",
+            "ref": "1348-003",
+            "latitude": 36.2975,
+            "longitude": 36.9080555556
+          },
+          {
+            "name": "Jebel Zawiyé 1 Ba’uda",
+            "ref": "1348-004",
+            "latitude": 35.6697222222,
+            "longitude": 36.5686111111
+          },
+          {
+            "name": "Jebelal-A’la QalbLozé",
+            "ref": "1348-006",
+            "latitude": 36.1691666667,
+            "longitude": 36.5808333333
+          },
+          {
+            "name": "Jebel Sem’an 2 KafrNabo",
+            "ref": "1348-002",
+            "latitude": 36.36,
+            "longitude": 36.9080555556
+          },
+          {
+            "name": "Jebel Zawiyé 2 Rouweiha",
+            "ref": "1348-005",
+            "latitude": 35.7383333333,
+            "longitude": 36.6952777778
+          },
+          {
+            "name": "Jebel Wastani Kafr Aqareb",
+            "ref": "1348-008",
+            "latitude": 36.0341666667,
+            "longitude": 36.4405555556
+          },
+          {
+            "name": "Jebel Sem’an 1 Qal’atSem’an",
+            "ref": "1348-001",
+            "latitude": 36.3341666667,
+            "longitude": 36.8441666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1348",
+        "unesco_documents": "https://whc.unesco.org/en/list/1348/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1348/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1348/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient Villages of Northern Syria Some 40 villages grouped in eight parks situated in north-western Syria provide remarkable testimony to rural life in late Antiquity and during the Byzantine period. Abandoned in the 8th to 10th centuries, the villages, which date from the 1st to 7th centuries, feature a remarkably well preserved landscape and the architectural remains of dwellings, pagan temples, churches, cisterns, bathhouses etc. The relict cultural landscape of the villages also constitutes an important illustration of the transition from the ancient pagan world of the Roman Empire to Byzantine Christianity. Vestiges illustrating hydraulic techniques, protective walls and Roman agricultural plot plans furthermore offer testimony to the inhabitants' mastery of agricultural production. Some 40 villages grouped in eight parks situated in north-western Syria provide remarkable testimony to rural life in late Antiquity and during the Byzantine period. Abandoned in the 8th to 10th centuries, the villages, which date from the 1st to 7th centuries, feature a remarkably well preserved landscape and the architectural remains of dwellings, pagan temples, churches, cisterns, bathhouses etc. The relict cultural landscape of the villages also constitutes an important illustration of the transition from the ancient pagan world of the Roman Empire to Byzantine Christianity. Vestiges illustrating hydraulic techniques, protective walls and Roman agricultural plot plans furthermore offer testimony to the inhabitants' mastery of agricultural production. Syria Arab States Cultural"
+    },
+    {
+      "site_key": "ancient_city_of_bosra",
+      "uuid": "11d4d70c-42fe-5774-9767-ad0fa0bc580f",
+      "unesco_id": "22",
+      "names": {
+        "en": "Ancient City of Bosra",
+        "fr": "Ancienne ville de Bosra",
+        "es": "Ciudad vieja de Bosra",
+        "ru": "Старый город в Босре",
+        "ar": "مدينة بصرى القديمة",
+        "zh": "布斯拉古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls.",
+          "fr": "Jadis capitale de la province romaine d'Arabie et importante étape sur l'ancienne route caravanière de La Mecque, Bosra conserve, enserrées dans ses épaisses murailles, un magnifique théâtre romain du IIe siècle, des ruines paléochrétiennes et plusieurs mosquées.",
+          "es": "Antigua capital de la provincia romana de Arabia e importante etapa de la ruta de las caravanas que conducía a La Meca, Bosra conserva en el recinto de sus sólidas murallas un magnífico teatro romano del siglo II, vestigios arqueológicos paleocristianos y varias mezquitas.",
+          "ru": "Босра, бывшая одно время столицей древнеримской провинции Аравия, служила важным местом остановок караванов на древнем пути в Мекку. Внутри кольца его протяженных стен обнаружены великолепный древнеримский театр II в., руины раннехристианских памятников и несколько мечетей.",
+          "ar": "شكّلت هذه المدينة قديماً عاصمة المقاطعة الرومانية العربية ومحطة هامة في طريق القوافل القديمة الى مكة. وقد حافظت داخل أسوارها السميكة على مدرّج روماني رائع يعود الى القرن الثاني، ناهيك عن آثار من المسيحية الأولى وعدد من المساجد.",
+          "zh": "布斯拉古城曾是古罗马阿拉伯省的首府，是通往麦加的沙漠商队路线上一个重要的中途站。在布斯拉城墙中保存着一座公元2世纪的富丽堂皇的古罗马剧场、早期基督教的遗迹和几座清真寺。"
+        },
+        "full": "Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls.",
+        "justification": "Brief synthesis The name of Bosra occurs in the precious Tell el-Amarna tablets in Egypt, which date from the 14th century B.C. and represent royal correspondence between the Pharaohs and the Phoenician and Amorite kings. It became the northern capital of the Nabataean kingdom. In the year of 106 A.D, a new era began for Bosra when it was incorporated into the Roman Empire. Alexander Severus gave it the title Colonian Bostra and Philip the Arab minted currency especially for it. During Byzantine times, Bosra was a major frontier market where Arab caravans came to stock up and its bishops took part in the Council of Antioch. Bosra was the first Byzantine city which the Arabs entered in 634 in the phase of Islamic expansion. Today, Bosra is a major archaeological site, containing ruins from Roman, Byzantine, and Muslim times. Further, Nabataean and Roman monuments, Christian churches, mosques and Madrasas are present within the city. Its main feature is the second century Roman Theatre, constructed probably under Trajan, which has been integrally preserved. It was fortified between 481 and 1251 AD. Al-Omari Mosque is one of the oldest surviving mosques in Islamic history, and the Madrasah Mabrak al-Naqua is one of the oldest and most celebrated of Islam. The Cathedral of Bosra is also a building of considerable importance in the annals of early Christian architecture. Bosra survived about 2500 years inhabited and almost intact. The Nabataeans, Romans, Byzantines and Umayyad, all left traces in the city, which is an open museum associated with significant episodes in the history of ideas and beliefs. Criterion (i): The incorporation of the exceptionally intact 2nd century Roman theatre, complete with its upper gallery, into later fortifications to create a strong citadel guarding the road to Damascus represents a unique architectural achievement. The remains of the 6th century basilica of the martyrs Sergios, Bacchos and Leontios, the cathedral of Bosra, represent an extremely significant example of the centrally planned churches in terms of the evolution of early church architectural forms. The Mosque of Omar, restored in 1950, is one of the rare constructions of the 1st century of the Hegira preserved in Syria. The Madrasa Jâmi' Mabrak an-Nâqua is one of the oldest and most celebrated of Islam. Criterion (iii): Of the city which once counted 80,000 inhabitants there remain today extensive ruins of Nabataean, Roman, Byzantine and Umayyad buildings. These ruins, including the major monuments mentioned under Criterion (i) above bear exceptional testimony to the past civilizations that created them. Criterion (vi): In Islam, Bosra is associated with a significant episode in the life of the Prophet Mohammed, who is believed to have visited Bosra twice. At the end of his first visit, it is said that Monk Baheira indicated that Muhammad was to become a prophet. Integrity (2009) The Ancient city of Bosra is an inhabited archaeological site whose ruins had suffered greatly in the late 19th century. However, the large amount of surviving original fabric, including monuments of the Nabataean, Roman, Byzantine and Umayyad periods gives the site a high degree of integrity. The inhabitants of the village that has grown up amongst the ruins are being resettled outside the property. There is a need to define and manage a buffer zone to protect the setting. Authenticity (2009) The key surviving monuments of Bosra reflect the Outstanding Universal Value of the site. However, their setting is problematic in that a modern village had grown up among the ruins. A resettlement policy of the Directorate of Antiquities and Museums (DGAM) is allowing most families to move to new houses outside the precincts of the old town. Ultimately the old town will be abandoned again, to be turned into a dead city revitalized as an open air museum. Protection and management requirements (2009) The property is protected under the Antiquities Law 222 as amended in 1999. There is no management plan for the site and there are problems with conservation due to community issues, lack of funds and technical resources, and a lack of skilled labour. The Directorate of Antiquities and Museums is attempting to overcome these problems with the help of national and international institutions and foreign experts. Recently the Syrian Government instigated a Master Plan project to recognize the importance of the site and to guide future use of Bosra city. A Protection Committee was established in 2007 to guide the project. The DGAM is preparing terms of reference for implementing GIS system in the site; this project will start during 2009 and will continue for 1 year. There is a need to protect the setting of the property through an agreed and approved buffer zone."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 116.2,
+          "square_km": 1.16,
+          "square_miles": 0.47,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6bbb4d9512bb45c7e1423456617c4ab7",
+          "filename": "site_0022_0001-500-0-20151104162109.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 504
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107677/site_0022_0001.jpg",
+            "https://whc.unesco.org/document/107678/site_0022_0002.jpg",
+            "https://whc.unesco.org/document/107679/site_0022_0003.jpg",
+            "https://whc.unesco.org/document/107680/site_0022_0004.jpg",
+            "https://whc.unesco.org/document/107681/site_0022_0005.jpg",
+            "https://whc.unesco.org/document/107682/site_0022_0006.jpg",
+            "https://whc.unesco.org/document/107683/site_0022_0007.jpg",
+            "https://whc.unesco.org/document/107684/site_0022_0008.jpg",
+            "https://whc.unesco.org/document/107685/site_0022_0009.jpg",
+            "https://whc.unesco.org/document/107686/site_0022_0010.jpg",
+            "https://whc.unesco.org/document/107687/site_0022_0011.jpg",
+            "https://whc.unesco.org/document/107688/site_0022_0012.jpg",
+            "https://whc.unesco.org/document/107689/site_0022_0013.jpg",
+            "https://whc.unesco.org/document/107690/site_0022_0014.jpg",
+            "https://whc.unesco.org/document/107691/site_0022_0015.jpg",
+            "https://whc.unesco.org/document/107692/site_0022_0016.jpg",
+            "https://whc.unesco.org/document/107693/site_0022_0017.jpg",
+            "https://whc.unesco.org/document/107694/site_0022_0018.jpg",
+            "https://whc.unesco.org/document/107695/site_0022_0019.jpg",
+            "https://whc.unesco.org/document/107696/site_0022_0020.jpg",
+            "https://whc.unesco.org/document/107697/site_0022_0021.jpg",
+            "https://whc.unesco.org/document/107698/site_0022_0022.jpg",
+            "https://whc.unesco.org/document/107699/site_0022_0023.jpg",
+            "https://whc.unesco.org/document/107700/site_0022_0024.jpg",
+            "https://whc.unesco.org/document/107701/site_0022_0025.jpg",
+            "https://whc.unesco.org/document/107702/site_0022_0026.jpg",
+            "https://whc.unesco.org/document/107703/site_0022_0027.jpg",
+            "https://whc.unesco.org/document/107704/site_0022_0028.jpg",
+            "https://whc.unesco.org/document/107705/site_0022_0029.jpg",
+            "https://whc.unesco.org/document/107706/site_0022_0030.jpg",
+            "https://whc.unesco.org/document/107707/site_0022_0031.jpg",
+            "https://whc.unesco.org/document/107708/site_0022_0032.jpg",
+            "https://whc.unesco.org/document/107709/site_0022_0033.jpg",
+            "https://whc.unesco.org/document/107710/site_0022_0034.jpg",
+            "https://whc.unesco.org/document/132602/site_0022_0035.jpg",
+            "https://whc.unesco.org/document/132603/site_0022_0036.jpg",
+            "https://whc.unesco.org/document/132604/site_0022_0037.jpg",
+            "https://whc.unesco.org/document/132607/site_0022_0040.jpg",
+            "https://whc.unesco.org/document/132610/site_0022_0043.jpg",
+            "https://whc.unesco.org/document/132676/site_0022_0046.jpg",
+            "https://whc.unesco.org/document/132677/site_0022_0047.jpg",
+            "https://whc.unesco.org/document/132681/site_0022_0051.jpg",
+            "https://whc.unesco.org/document/132685/site_0022_0055.jpg",
+            "https://whc.unesco.org/document/132686/site_0022_0056.jpg",
+            "https://whc.unesco.org/document/132691/site_0022_0061.jpg"
+          ],
+          "count": 45
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Area 1",
+            "ref": "22bis-001",
+            "latitude": 32.5169444445,
+            "longitude": 36.4680555556
+          },
+          {
+            "name": "Area 2",
+            "ref": "22bis-002",
+            "latitude": 32.520425,
+            "longitude": 36.49125
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/22",
+        "unesco_documents": "https://whc.unesco.org/en/list/22/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/22/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/22/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Bosra Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls. Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls. Syria Arab States Cultural"
+    },
+    {
+      "site_key": "crac_des_chevaliers_and_qalat_salah_el_din",
+      "uuid": "48189f9d-7f51-53b4-8b37-09e65f8b9903",
+      "unesco_id": "1229",
+      "names": {
+        "en": "Crac des Chevaliers and Qal’at Salah El-Din",
+        "fr": "Crac des Chevaliers et Qal’at Salah El-Din",
+        "es": "Crac de los Caballeros y Qal’at Salah Al Din",
+        "ru": "Замки Крак-де-Шевалье и Калъат-Салах-ад-Дин",
+        "ar": "قلعة الفرسان وقلعة صلاح الدين",
+        "zh": "武士堡和萨拉丁堡"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the time of the Crusades (11th - 13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal’at Salah El-Din (Fortress of Saladin), even though partly in ruins, represents an outstanding example of this type of fortification, both in terms of the quality of construction and the survival of historical stratigraphy. It retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century).",
+          "fr": "Ces deux châteaux illustrent l’échange d’influences culturelles et le développement de l’architecture militaire au Proche-Orient à l’époque des Croisades, du XIe au XIIIe siècles. Le Crac des Chevaliers a été construit par l’ordre des Hospitaliers de Saint-Jean de Jérusalem de 1142 à 1271. Une deuxième vague de travaux a été le fait des Mamelouks à la fin du XIIIe siècle. Il figure parmi les châteaux des Croisades les mieux préservés. Bien que partiellement en ruines, le Qal’at Salah El-Din (Forteresse de Saladin) constitue un autre exemple remarquable de ce type de forteresse, tant en terme de qualité de la construction que de survie de la stratigraphie historique, avec des éléments de l’époque byzantine au Xe siècle, les transformations réalisées par les Francs à la fin du XIIe siècle et les défenses ajoutées par les Ayyoubides (fin du XIIe et XIIIe siècles).",
+          "es": "Estas dos fortalezas son ejemplos sumamente significativos del intercambio de influencias culturales y de la evolución de la arquitectura militar en el Cercano Oriente en tiempos de las Cruzadas (siglos XI al XIII). El Crac de los Caballeros fue construido por la Orden Militar y Hospitalaria de San Juan de Jerusalén entre 1142 y 1271. A finales del siglo XIII los mamelucos hicieron más obras en esta fortaleza, que es uno de los castillos de la época de las Cruzadas en mejor estado de conservación. Por su parte, el Castillo de Saladino (Qal’at Salah Al Din), aunque está parcialmente en ruinas, es otro ejemplo excepcional de este tipo de edificaciones militares, tanto en lo que se refiere a la calidad de su construcción como a la estratigrafía histórica subsistente. Esta última muestra los elementos bizantinos primigenios del siglo X, las transformaciones efectuadas por los francos a finales del siglo XII y las fortificaciones añadidas por la dinastía de los ayubidas (finales del siglo XII a mediados del XIII).",
+          "ru": "Два замка являются наиболее значительными примерами, демонстрирующими взаимообмен влияний и эволюцию крепостной архитектуры на Ближнем Востоке во времена крестовых походов (ХI-ХIII вв.). Замок Крак-де-Шевалье был построен Орденом Госпитальеров Св. Иоанна Иерусалимского в 1142-1271 гг. С добавлениями, сделанными мамелюками в конце ХIII в., он относится к наиболее хорошо сохранившимся замкам крестоносцев. Это образец средневекового орденского замка, включающий восемь круглых башен, построенных госпитальерами, и массивную квадратную башню, добавленную мамелюками. Замок Калъат-Салах-ад-Дин (крепость Саладина), хотя и находится частично в руинах, все еще представляет собой выдающийся пример укреплений данного типа, как с точки зрения качества конструкций, так и сохранности исторической стратиграфии. Он хранит характерные свидетельства своего основания византийцами в Х в., перестроек франками-крестоносцами в конце ХII в., и укреплений, добавленных правителями династии Эйюбидов (конец ХII – середина ХIII вв.).",
+          "ar": "يجسّد هذان القصران التأثير الثقافي المتبادل وتطور الهندسة العسكرية في الشرق الأوسط طوال مرحلة الحروب الصليبية من القرن الحادي عشر ولغاية القرن الثالث عشر. وقد تم بناء قلعة الفرسان على يد أخوية فرسان القديس يوحنا المعروفة بفرسان المشفى من عام 1142 الى عام 1271، فيما أنجزت المرحلة الثانية من الأعمال على يد المماليك في نهاية القرن الثالث عشر. وتعدّ قلعة الفرسان من قصور الحروب الصليبية التي حظيت بأعلى درجة من الحماية. أما قلعة صلاح الدين، فتشكل رغم الدمار الجزئي الذي حلّ بها مثالاً هاماً آخر لهذا النمط من القلاع، سواء على مستوى نوعية البناء أو على مستوى البصمات التاريخية المتتالية التي تحملها، وهي تتضمن عناصر من العصر البيزنطي من القرن العاشر وتغييرات أدخلها الإفرنج في نهاية القرن الثاني عشر وتحصينات أضافها الأيوبيون (في نهاية القرنين الثاني عشر والثالث عشر).",
+          "zh": "这两座堡垒最能体现不同势力的相互影响，它们记载了十字军东征时期（11世纪至13世纪）近东防御工事的演变。1142年至1271年期间，耶路撒冷的圣•约翰骑士修道会修建了武士堡，13世纪末时，马穆鲁克又进一步进行了修建。武士堡是迄今保存最完好的十字军东征时的堡垒之一。它是中世纪堡垒，尤其是军界堡垒的典型，包括修道会建造的八个圆形城堡和之后马穆鲁克建造的一个方形堡垒。同样，不论从建筑质量还是从对不同地层的保存来看，萨拉丁堡都是此类堡垒中的杰出代表，尽管它的一部分已经成为废墟。萨拉丁堡保留了10世纪拜占庭早期的建筑特征、12世纪晚期法兰克人的改建以及12世纪晚期到13世纪中期艾优卜王朝新建的防御工事。"
+        },
+        "full": "These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the time of the Crusades (11th - 13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal’at Salah El-Din (Fortress of Saladin), even though partly in ruins, represents an outstanding example of this type of fortification, both in terms of the quality of construction and the survival of historical stratigraphy. It retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century).",
+        "justification": "Brief synthesis These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the Byzantine, Crusader and Islamic periods. The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal'at Salah El-Din, even though partly in ruins, retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century). Both castles are located on high ridges that were key defensive positions. Dominating their surrounding landscapes, the two castles of Crac des Chevaliers and Qal'at Salah El-Din are outstanding examples of fortified architecture relating to the Crusader period. Their quality of construction and the survival of historical stratigraphy demonstrate the interchange of defensive technology through features of each phase of military occupation. Criterion (ii): The castles represent a significant development in the fortification systems, which substantially differed from the European rather more passive defence systems, and which also contributed to the development of the castles in the Levant. Within the castles that have survived in the Near East, the property represents one of the most significant examples illustrating the exchange of influences and documenting the evolution in this field, which had an impact both in the East and in the West. Criterion (iv): In the history of architecture, the Crac des Chevaliers is taken as the best preserved example of the castles of the Crusader period, and it is also seen as an archetype of a medieval castle particularly in the context of the military orders. Similarly, the Qal'at Salah El-Din, even though partly in ruins, still represents an outstanding example of this type of fortification, both in terms of its quality of construction and the survival of its historical stratigraphy. Integrity (2009) Both castles are located on hill tops dominating visually the surrounding landscape. Apart from some undesirable interventions in the buffer zones, the integrity of the surroundings is well preserved. The illegal constructions (some houses, restaurants and hotels) that have been built near the castles will be demolished. There are also plans for cable cars and an open-air theatre, which would not be in harmony with the integrity of the landscape. Authenticity (2009) The Crac des Chevaliers was subject to some limited restoration during the French mandate, while the relatively recent additions by local villagers were removed. The medieval structures were liberated of accumulated soil. As a whole it has well retained its authenticity. The Qal'at Salah El-Din is located in an isolated region and was not subject to any changes in recent centuries. It has partly fallen in ruins, and is now an archaeological site. It has been subject some restoration. For example, the main gate of the Ayyubid palace was restored in 1936, imitating the original structure. This type of restoration has now been abandoned, and the main emphasis is on consolidation and conservation. As a whole, the fortress has retained its historic condition and authenticity. Protection and management requirements (2009) The property is protected by the Syrian Antiquities Law (no. 222, revised in 1999) and by the Law of the Ministry of Local Administration (15/1971). The Ministry of Local Administration contributes to its protection in coordination with the Directorate of Antiquities and Museums (DGAM) and the local authorities. The DGAM is the agency responsible for the protection of heritage sites and the funds for the maintenance and care of the castles are guaranteed from its annual budget. Each castle has a separate management system, organized jointly by the DGAM in collaboration with the local authorities. In the case of Crac des Chevaliers, the management system involves the village of al-Hosn, and in the case of the Qal'at Salah El-Din, the DGAM collaborates with the department located in the regional capital of Latakieh. At the time of inscription, the DGAM was in the process of adopting a new administrative structure with new regulations that would be integrated so as to allow for a unified management system for the Castles of Syria. There is an on-going need to protect the eastern slopes of the Crac de Chevaliers from the development of the nearby modern city. The necessary administrative procedures have started to ensure the removal of irregular buildings near the castles."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 8.87,
+          "square_km": 0.09,
+          "square_miles": 0.036,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2006,
+          "all_dates": [
+            2006
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2006,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/04859e73d9b560a4200f3a8e0e739a4f",
+          "filename": "site_1229_0001.jpg",
+          "dimensions": {
+            "width": 5281,
+            "height": 3430
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113996/site_1229_0001.jpg",
+            "https://whc.unesco.org/document/113998/site_1229_0002.jpg",
+            "https://whc.unesco.org/document/114000/site_1229_0003.jpg",
+            "https://whc.unesco.org/document/114004/site_1229_0005.jpg",
+            "https://whc.unesco.org/document/114006/site_1229_0006.jpg",
+            "https://whc.unesco.org/document/114008/site_1229_0007.jpg",
+            "https://whc.unesco.org/document/114010/site_1229_0008.jpg",
+            "https://whc.unesco.org/document/114012/site_1229_0009.jpg",
+            "https://whc.unesco.org/document/114014/site_1229_0010.jpg",
+            "https://whc.unesco.org/document/114016/site_1229_0011.jpg",
+            "https://whc.unesco.org/document/114019/site_1229_0012.jpg",
+            "https://whc.unesco.org/document/114021/site_1229_0013.jpg",
+            "https://whc.unesco.org/document/114023/site_1229_0014.jpg",
+            "https://whc.unesco.org/document/114025/site_1229_0015.jpg",
+            "https://whc.unesco.org/document/114027/site_1229_0016.jpg",
+            "https://whc.unesco.org/document/114029/site_1229_0017.jpg",
+            "https://whc.unesco.org/document/114033/site_1229_0019.jpg",
+            "https://whc.unesco.org/document/114035/site_1229_0020.jpg",
+            "https://whc.unesco.org/document/114037/site_1229_0021.jpg",
+            "https://whc.unesco.org/document/114039/site_1229_0022.jpg",
+            "https://whc.unesco.org/document/114041/site_1229_0023.jpg",
+            "https://whc.unesco.org/document/114043/site_1229_0024.jpg",
+            "https://whc.unesco.org/document/114045/site_1229_0025.jpg",
+            "https://whc.unesco.org/document/114047/site_1229_0026.jpg",
+            "https://whc.unesco.org/document/114049/site_1229_0027.jpg",
+            "https://whc.unesco.org/document/114051/site_1229_0028.jpg",
+            "https://whc.unesco.org/document/120394/site_1229_0029.jpg",
+            "https://whc.unesco.org/document/120396/site_1229_0031.jpg",
+            "https://whc.unesco.org/document/120397/site_1229_0032.jpg",
+            "https://whc.unesco.org/document/120398/site_1229_0033.jpg",
+            "https://whc.unesco.org/document/131286/site_1229_0034.jpg",
+            "https://whc.unesco.org/document/131287/site_1229_0035.jpg",
+            "https://whc.unesco.org/document/131288/site_1229_0036.jpg",
+            "https://whc.unesco.org/document/131289/site_1229_0037.jpg",
+            "https://whc.unesco.org/document/131290/site_1229_0038.jpg",
+            "https://whc.unesco.org/document/131291/site_1229_0039.jpg",
+            "https://whc.unesco.org/document/131292/site_1229_0040.jpg",
+            "https://whc.unesco.org/document/131293/site_1229_0041.jpg",
+            "https://whc.unesco.org/document/131294/site_1229_0042.jpg",
+            "https://whc.unesco.org/document/131295/site_1229_0043.jpg",
+            "https://whc.unesco.org/document/131296/site_1229_0044.jpg",
+            "https://whc.unesco.org/document/131297/site_1229_0045.jpg",
+            "https://whc.unesco.org/document/132632/site_1229_0046.jpg",
+            "https://whc.unesco.org/document/132633/site_1229_0047.jpg",
+            "https://whc.unesco.org/document/132635/site_1229_0049.jpg",
+            "https://whc.unesco.org/document/132637/site_1229_0051.jpg",
+            "https://whc.unesco.org/document/132638/site_1229_0052.jpg",
+            "https://whc.unesco.org/document/132640/site_1229_0054.jpg",
+            "https://whc.unesco.org/document/132693/site_1229_0057.jpg",
+            "https://whc.unesco.org/document/132697/site_1229_0061.jpg",
+            "https://whc.unesco.org/document/132699/site_1229_0063.jpg"
+          ],
+          "count": 51
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Crac des Chevaliers",
+            "ref": "1229-001",
+            "latitude": 34.7566666667,
+            "longitude": 36.2944444444
+          },
+          {
+            "name": "Qal’at Salah El-Din",
+            "ref": "1229-002",
+            "latitude": 35.5955555555,
+            "longitude": 36.0569444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1229",
+        "unesco_documents": "https://whc.unesco.org/en/list/1229/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1229/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1229/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 19,
+        "inscription_year": 2006
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Crac des Chevaliers and Qal’at Salah El-Din These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the time of the Crusades (11th - 13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal’at Salah El-Din (Fortress of Saladin), even though partly in ruins, represents an outstanding example of this type of fortification, both in terms of the quality of construction and the survival of historical stratigraphy. It retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century). These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the time of the Crusades (11th - 13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal’at Salah El-Din (Fortress of Saladin), even though partly in ruins, represents an outstanding example of this type of fortification, both in terms of the quality of construction and the survival of historical stratigraphy. It retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century). Syria Arab States Cultural"
+    },
+    {
+      "site_key": "ancient_city_of_damascus",
+      "uuid": "4bc7f52f-1ada-5be5-8bfd-df68696c447f",
+      "unesco_id": "20",
+      "names": {
+        "en": "Ancient City of Damascus",
+        "fr": "Ancienne ville de Damas",
+        "es": "Ciudad vieja de Damasco",
+        "ru": "Старый город в Дамаске",
+        "ar": "مدينة دمشق القديمة",
+        "zh": "大马士革古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary.",
+          "fr": "Fondée au IIIe millénaire av. J.-C., c'est l'une des plus anciennes villes du Moyen-Orient. Au Moyen Âge, Damas était le centre d'une industrie artisanale florissante (sabres et dentelles). Parmi les 125 monuments des différentes périodes de son histoire, la Grande Mosquée des Omeyyades du VIIIe siècle, édifiée sur le site d'un sanctuaire assyrien, est l'un des plus spectaculaires.",
+          "es": "Fundada en el tercer milenio a.C., Damasco es una de las ciudades más antiguas del Oriente Medio. En la Edad Media fue el centro de una próspera industria artesanal especializada en la fabricación de espadas y encajes. De los 125 monumentos que conserva de los distintos períodos de su historia, uno de los más espectaculares es la gran mezquita de los omeyas, construida el siglo VIII en el emplazamiento de un santuario asirio.",
+          "ru": "Основанный в 3-м тысячелетии до н.э., Дамаск является одним из старейших городов на Ближнем Востоке. В средневековье это был центр процветающих ремесел, прославившийся своими клинками и кружевами. В городе находится около 125 памятников, относящихся к разным периодам его истории. Один из самых значительных – Большая мечеть Омейядов, построенная в VIII в. на месте ассирийского святилища.",
+          "ar": "تم تأسيس هذه المدينة في الألفية الثالثة قبل الميلاد، ما يجعل منها إحدى أقدم المدن في الشرق الأوسط. وكانت دمشق في القرون الوسطى مركزاً لصناعة حرفية مزدهرة (سيوف وقماش الدنتلاّ)، أما الجامع الأموي الكبير الذي شيد في القرن الثامن في موقع محراب أشوري فيعتبر الأروع بين 125 نصباً ترقى الى مراحل تاريخية مختلفة.",
+          "zh": "大马士革古城建于公元前3000年，是中东地区最古老的城市之一。中世纪时期，大马士革是繁荣的手工业中心，专门于刀剑和饰带的制作。在它源于不同历史时期的125个纪念性建筑物中，以公元8世纪即倭马亚王朝哈里发时期的大清真寺最为壮观，大清真寺建在亚述国的一块圣地上。"
+        },
+        "full": "Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary.",
+        "justification": "Brief synthesis Founded in the 3rd millennium B.C., Damascus was an important cultural and commercial centre, by virtue of its geographical position at the crossroads of the orient and the occident, between Africa and Asia. The old city of Damascus is considered to be among the oldest continually inhabited cities in the world. Excavations at Tell Ramad on the outskirts of the city have demonstrated that Damascus was inhabited as early as 8,000 to 10,000 BC. However, it is not documented as an important city until the arrival of the Aramaeans. In the Medieval period, it was the centre of a flourishing craft industry, with different areas of the city specializing in particular trades or crafts. The city exhibits outstanding evidence of the civilizations which created it - Hellenistic, Roman, Byzantine and Islamic. In particular, the Umayyad caliphate created Damascus as its capital, setting the scene for the city's ongoing development as a living Muslim, Arab city, upon which each succeeding dynasty has left and continues to leave its mark. In spite of Islam's prevailing influence, traces of earlier cultures particularly the Roman and Byzantine continue to be seen in the city. Thus the city today is based on a Roman plan and maintains the aspect and the orientation of the Greek city, in that all its streets are oriented north-south or east-west and is a key example of urban planning. The earliest visible physical evidence dates to the Roman period - the extensive remains of the Temple of Jupiter, the remains of various gates and an impressive section of the Roman city walls. The city was the capital of the Umayyad Caliphate. However, apart from the incomparable Great Mosque, built on the site of a Roman temple and over-laying a Christian basilica, there is little visible dating from this important era of the city's history. The present city walls, the Citadel, some mosques and tombs survive from the Middle Ages, but the greatest part of the built heritage of the city dates from after the Ottoman conquest of the early 16th century. Criterion (i): Damascus testifies to the unique aesthetic achievement of the civilizations which created it. The Great Mosque is a masterpiece of Umayyad architecture, which together with other major monuments of different periods such as the Citadel, the Azem Palace, madrasas, khans, public baths and private residences demonstrates this achievement. Criterion (ii): Damascus, as capital of the Umayyad caliphate - the first Islamic caliphate - was of key importance in the development of subsequent Arab cities. With its Great Mosque at the heart of an urban plan deriving from the Graeco-Roman grid, the city provided the exemplary model for the Arab Muslim world. Criterion (iii): Historical and archaeological sources testify to origins in the third millennium BC, and Damascus is widely known as among the oldest continually inhabited cities in the world. The incomparable Great Mosque is a rare and extremely significant monument of the Umayyads. The present city walls, the Citadel, some mosques and tombs survive from the Medieval period, and a large part of the built heritage of the city including palaces and private houses dates from after the Ottoman conquest of the early 16th century. Criterion (iv): The Umayyad Great Mosque, also known as the Grand Mosque of Damascus, is one of the largest mosques in the world, and one of the oldest sites of continuous prayer since the rise of Islam. As such it constitutes an important cultural, social and artistic development. Criterion (vi): The city is closely linked with important historical events, ideas, traditions, especially from the Islamic period. These have helped to shape the image of the city and impact of Islamic history and culture. Integrity (2009) The line of the walls of the old city forms the boundary of the property. Although areas outside the walls that represent the expansion of the city from the 13th century, are considered related to the old city in terms of historical significance, and provide its setting and context, the key attributes of Outstanding Universal Value lie within the boundary. These include the plan of the city and its dense urban fabric, city walls and gates, as well as its 125 protected monuments including the Umayyad Mosque, madrasas, khans, the Citadel and private houses. The attributes are vulnerable to erosion from a lack of traditional approaches to maintenance and conservation, and use of traditional materials, while its setting and context are threatened by lack of conservation policy for the historical zones outside the walled city and by regional planning projects. Authenticity (2009) Since the inscription of the property, the morphological layout and the spatial pattern of the historic fabric have remained basically unchanged and the key discrete attributes survive. However commercial and semi-industrial activities are spreading into the residential area of the walled city and its suburbs, in places eroding the value of the attributes relating to the urban fabric and their inter-relationships. Protection and management requirements (2009) Responsibilities for planning control over the old city and its management are in the hands of two government departments (the Commission for Safeguarding the Old Town and the General Directorate for Antiquities and Museums (DGAM). Technical Cooperation for projects and programmes to enhance the city is undertaken by the Ministry of Local Administration and Environment with support from international organizations. The effectiveness of the conservation policy relies on full participation of various interests within the city such as public/private partnerships, all levels of government, the financial community, and citizens. Legal protection is provided by the Antiquities law 222 amended in 1999 in addition to the Ministerial order no. 192 of 1976 designating the walled city as part of the cultural and historical heritage of Syria. Parliamentary Act N° 826 for the Restoration and Reconstruction/Rebuilding the city within the walls has been reviewed in light of changed conditions, needs and opportunities, and aims at establishing new conditions for the walled city. A Committee for the Protection and Development of Old Damascus has been established, with representatives of the different bodies to coordinate the planning and building activities in addition to being responsible for the strategic planning for the Old City. The draft of the Integrated Urban Plan of the old city had been formally approved by Ministerial decision N° 37/A of 2010. A buffer zone has also been delineated but not yet formally approved. There is a need for the plan, once approved and implemented, to clarify the different levels of protection to be applied to the different parts of the urban fabric, to set out the appropriate interventions"
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "display": "(i)(ii)(iii)(iv)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 86.12,
+          "square_km": 0.86,
+          "square_miles": 0.349,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/bc0aed560ca4f5710f6c9202f9e80f0d",
+          "filename": "site_0020_0001-500-0-20121026111508.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107596/site_0020_0001.jpg",
+            "https://whc.unesco.org/document/107597/site_0020_0002.jpg",
+            "https://whc.unesco.org/document/107598/site_0020_0003.jpg",
+            "https://whc.unesco.org/document/107599/site_0020_0004.jpg",
+            "https://whc.unesco.org/document/107600/site_0020_0005.jpg",
+            "https://whc.unesco.org/document/107601/site_0020_0006.jpg",
+            "https://whc.unesco.org/document/107602/site_0020_0007.jpg",
+            "https://whc.unesco.org/document/107603/site_0020_0008.jpg",
+            "https://whc.unesco.org/document/107604/site_0020_0009.jpg",
+            "https://whc.unesco.org/document/107605/site_0020_0010.jpg",
+            "https://whc.unesco.org/document/107606/site_0020_0011.jpg",
+            "https://whc.unesco.org/document/107607/site_0020_0012.jpg",
+            "https://whc.unesco.org/document/107608/site_0020_0013.jpg",
+            "https://whc.unesco.org/document/107610/site_0020_0016.jpg",
+            "https://whc.unesco.org/document/107612/site_0020_0018.jpg",
+            "https://whc.unesco.org/document/107613/site_0020_0019.jpg",
+            "https://whc.unesco.org/document/107614/site_0020_0020.jpg",
+            "https://whc.unesco.org/document/107615/site_0020_0021.jpg",
+            "https://whc.unesco.org/document/107616/site_0020_0022.jpg",
+            "https://whc.unesco.org/document/107617/site_0020_0023.jpg",
+            "https://whc.unesco.org/document/107618/site_0020_0024.jpg",
+            "https://whc.unesco.org/document/107619/site_0020_0025.jpg",
+            "https://whc.unesco.org/document/107620/site_0020_0026.jpg",
+            "https://whc.unesco.org/document/107621/site_0020_0027.jpg",
+            "https://whc.unesco.org/document/107622/site_0020_0028.jpg",
+            "https://whc.unesco.org/document/107623/site_0020_0029.jpg",
+            "https://whc.unesco.org/document/107624/site_0020_0030.jpg",
+            "https://whc.unesco.org/document/107625/site_0020_0031.jpg",
+            "https://whc.unesco.org/document/107626/site_0020_0032.jpg",
+            "https://whc.unesco.org/document/107627/site_0020_0033.jpg",
+            "https://whc.unesco.org/document/107628/site_0020_0034.jpg",
+            "https://whc.unesco.org/document/107629/site_0020_0035.jpg",
+            "https://whc.unesco.org/document/107630/site_0020_0036.jpg",
+            "https://whc.unesco.org/document/107631/site_0020_0037.jpg",
+            "https://whc.unesco.org/document/107632/site_0020_0038.jpg",
+            "https://whc.unesco.org/document/107633/site_0020_0039.jpg",
+            "https://whc.unesco.org/document/107634/site_0020_0040.jpg",
+            "https://whc.unesco.org/document/107635/site_0020_0041.jpg",
+            "https://whc.unesco.org/document/107636/site_0020_0042.jpg",
+            "https://whc.unesco.org/document/107637/site_0020_0043.jpg",
+            "https://whc.unesco.org/document/127893/site_0020_0046.jpg",
+            "https://whc.unesco.org/document/127894/site_0020_0047.jpg",
+            "https://whc.unesco.org/document/127895/site_0020_0048.jpg",
+            "https://whc.unesco.org/document/127896/site_0020_0049.jpg",
+            "https://whc.unesco.org/document/127897/site_0020_0050.jpg",
+            "https://whc.unesco.org/document/127898/site_0020_0051.jpg",
+            "https://whc.unesco.org/document/127899/site_0020_0052.jpg",
+            "https://whc.unesco.org/document/127900/site_0020_0053.jpg",
+            "https://whc.unesco.org/document/127902/site_0020_0055.jpg",
+            "https://whc.unesco.org/document/130640/site_0020_0056.jpg",
+            "https://whc.unesco.org/document/130641/site_0020_0057.jpg",
+            "https://whc.unesco.org/document/130642/site_0020_0058.jpg",
+            "https://whc.unesco.org/document/130643/site_0020_0059.jpg",
+            "https://whc.unesco.org/document/130645/site_0020_0060.jpg",
+            "https://whc.unesco.org/document/130646/site_0020_0061.jpg",
+            "https://whc.unesco.org/document/132592/site_0020_0062.jpg",
+            "https://whc.unesco.org/document/132593/site_0020_0063.jpg",
+            "https://whc.unesco.org/document/132594/site_0020_0064.jpg",
+            "https://whc.unesco.org/document/132595/site_0020_0065.jpg",
+            "https://whc.unesco.org/document/132596/site_0020_0066.jpg",
+            "https://whc.unesco.org/document/132597/site_0020_0067.jpg",
+            "https://whc.unesco.org/document/132598/site_0020_0068.jpg",
+            "https://whc.unesco.org/document/132599/site_0020_0069.jpg",
+            "https://whc.unesco.org/document/132705/site_0020_0073.jpg",
+            "https://whc.unesco.org/document/132707/site_0020_0075.jpg",
+            "https://whc.unesco.org/document/132708/site_0020_0076.jpg",
+            "https://whc.unesco.org/document/132709/site_0020_0077.jpg",
+            "https://whc.unesco.org/document/132710/site_0020_0078.jpg"
+          ],
+          "count": 68
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient City of Damascus",
+            "ref": "20bis",
+            "latitude": 33.5108333333,
+            "longitude": 36.3097222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/20",
+        "unesco_documents": "https://whc.unesco.org/en/list/20/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/20/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/20/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Damascus Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary. Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary. Syria Arab States Cultural"
+    },
+    {
+      "site_key": "site_of_palmyra",
+      "uuid": "751fbbed-0a06-5549-964b-5d9815d21cf2",
+      "unesco_id": "23",
+      "names": {
+        "en": "Site of Palmyra",
+        "fr": "Site de Palmyre",
+        "es": "Sitio de Palmira",
+        "ru": "Археологические памятники Пальмиры",
+        "ar": "موقع تدمر",
+        "zh": "帕尔米拉古城遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SYR": {
+            "name": "Syria",
+            "iso2": "SY",
+            "iso3": "SYR"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences.",
+          "fr": "Oasis du désert de Syrie au nord-est de Damas, Palmyre abrite les ruines monumentales d'une grande ville qui fut l'un des plus importants foyers culturels du monde antique. Au carrefour de plusieurs civilisations, l'art et l'architecture de Palmyre unirent aux Ier et IIe siècles les techniques gréco-romaines aux traditions locales et aux influences de la Perse.",
+          "es": "Situado al nordeste de Damasco, en el desierto de Siria, el oasis de Palmira alberga las ruinas monumentales de una gran ciudad que fue uno de los centros culturales más importantes de la Antigüedad. Sometidas a la influencia de diversas civilizaciones, la arquitectura y las artes de Palmira fusionaron en los siglos I y II las técnicas grecorromanas con las tradiciones artísticas autóctonas y persas.",
+          "ru": "В этом оазисе, расположенном в Сирийской пустыне к северо-востоку от Дамаска, находятся монументальные руины большого города, который был одним из важнейших культурных центров древнего мира. В I-II вв. искусство и архитектура Пальмиры, находящейся в месте, где соприкасались несколько цивилизаций, сочетали в себе греко-римские приемы, местные традиции и персидские влияния.",
+          "ar": "تحتضن هذه الواحة الواقعة في الصحراء السورية شمال شرق دمشق آثاراً ضخمة لمدينة كبيرة شكلت أحد أهم المراكز الثقافية في العالم القديم. ونظراً لوقوعها عند ملتقى حضارات عدة، دمجت تدمر في فنها وهندستها طوال القرنين الاول والثاني بين التقنيات اليونانية الرومانية والتقاليد المحلية وتأثيرات بلاد فارس.",
+          "zh": "帕尔米拉堪称叙利亚沙漠中的一片绿洲，它位于大马士革的东北方，是古代最重要的文化中心之一，城内现仍保存有当时的许多纪念性建筑。公元1世纪至2世纪，帕尔米拉处于几种文明的交汇处，所以其艺术和建筑能够将古希腊罗马的技艺与本地的传统及波斯的影响巧妙地融合在一起。"
+        },
+        "full": "An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences.",
+        "justification": "Brief synthesis An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences. First mentioned in the archives of Mari in the 2nd millennium BC, Palmyra was an established caravan oasis when it came under Roman control in the mid-first century AD as part of the Roman province of Syria. It grew steadily in importance as a city on the trade route linking Persia, India and China with the Roman Empire, marking the crossroads of several civilisations in the ancient world. A grand, colonnaded street of 1100 metres' length forms the monumental axis of the city, which together with secondary colonnaded cross streets links the major public monuments including the Temple of Ba'al, Diocletian's Camp, the Agora, Theatre, other temples and urban quarters. Architectural ornament including unique examples of funerary sculpture unites the forms of Greco-roman art with indigenous elements and Persian influences in a strongly original style. Outside the city's walls are remains of a Roman aqueduct and immense necropolises. Discovery of the ruined city by travellers in the 17th and 18th centuries resulted in its subsequent influence on architectural styles. Criterion (i): The splendour of the ruins of Palmyra, rising out of the Syrian desert north-east of Damascus is testament to the unique aesthetic achievement of a wealthy caravan oasis intermittently under the rule of Rome from the Ier to the 3rd century AD. The grand colonnade constitutes a characteristic example of a type of structure which represents a major artistic development. Criterion (ii): Recognition of the splendour of the ruins of Palmyra by travellers in the 17th and 18th centuries contributed greatly to the subsequent revival of classical architectural styles and urban design in the West. Criterion (iv): The grand monumental colonnaded street, open in the centre with covered side passages, and subsidiary cross streets of similar design together with the major public buildings, form an outstanding illustration of architecture and urban layout at the peak of Rome's expansion in and engagement with the East. The great temple of Ba'al is considered one of the most important religious buildings of the 1st century AD in the East and of unique design. The carved sculptural treatment of the monumental archway through which the city is approached from the great temple is an outstanding example of Palmyrene art. The large scale funerary monuments outside the city walls in the area known as the Valley of the Tombs display distinctive decoration and construction methods. Integrity (2009) All the key attributes, including the main colonnaded street, major public buildings and funerary monuments, lie within the boundary. The tower tombs and the citadel are vulnerable to minor earthquakes and lack of conservation. Since the time of inscription, the population of the adjacent town has increased and is encroaching on the archaeological zone. Although traffic has increased, the main road that passed through the site has been diverted. Increased tourism has brought pressure for facilities within the property. Authenticity (2009) The key attributes display well their grandeur and splendour. However the setting is vulnerable to the encroachment of the adjacent town that could impact adversely on the way the ruins are perceived as an oasis closely related to their desert surroundings. Protection and management requirements (2009) The site was designated a national monument and is now protected by the National Antiquities law 222 as amended in 1999. A buffer zone was established in 2007 but has not yet been submitted to the World Heritage Committee. The regional strategic action plan currently under preparation is expected to provide guidelines to expand and redefine the site as a cultural landscape, with respect to the transitional zones around the archaeological site, the oasis and the city. There is an on-going need for a conservation and restoration plan to be developed that addresses fully the complex issues associated with this extensive multiple site and will allow for coordinated management, clear priorities and a cultural tourism strategy and address the issues of expansion of the nearby town."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            4
+          ],
+          "display": "(i)(ii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1640,
+          "square_km": 16.4,
+          "square_miles": 6.637,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2013",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d7410ad54603c7f045e35daf8bda14d2",
+          "filename": "site_0023_0001.jpg",
+          "dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107711/site_0023_0001.jpg",
+            "https://whc.unesco.org/document/107712/site_0023_0002.jpg",
+            "https://whc.unesco.org/document/107714/site_0023_0004.jpg",
+            "https://whc.unesco.org/document/107715/site_0023_0005.jpg",
+            "https://whc.unesco.org/document/107716/site_0023_0006.jpg",
+            "https://whc.unesco.org/document/107717/site_0023_0007.jpg",
+            "https://whc.unesco.org/document/107718/site_0023_0008.jpg",
+            "https://whc.unesco.org/document/107719/site_0023_0009.jpg",
+            "https://whc.unesco.org/document/107720/site_0023_0010.jpg",
+            "https://whc.unesco.org/document/107724/site_0023_0015.jpg",
+            "https://whc.unesco.org/document/107725/site_0023_0016.jpg",
+            "https://whc.unesco.org/document/107726/site_0023_0017.jpg",
+            "https://whc.unesco.org/document/107727/site_0023_0018.jpg",
+            "https://whc.unesco.org/document/107728/site_0023_0019.jpg",
+            "https://whc.unesco.org/document/107729/site_0023_0020.jpg",
+            "https://whc.unesco.org/document/107730/site_0023_0021.jpg",
+            "https://whc.unesco.org/document/107731/site_0023_0022.jpg",
+            "https://whc.unesco.org/document/107732/site_0023_0023.jpg",
+            "https://whc.unesco.org/document/107734/site_0023_0025.jpg",
+            "https://whc.unesco.org/document/107735/site_0023_0026.jpg",
+            "https://whc.unesco.org/document/107736/site_0023_0027.jpg",
+            "https://whc.unesco.org/document/107737/site_0023_0028.jpg",
+            "https://whc.unesco.org/document/107738/site_0023_0029.jpg",
+            "https://whc.unesco.org/document/107739/site_0023_0030.jpg",
+            "https://whc.unesco.org/document/107740/site_0023_0031.jpg",
+            "https://whc.unesco.org/document/107741/site_0023_0032.jpg",
+            "https://whc.unesco.org/document/107742/site_0023_0033.jpg",
+            "https://whc.unesco.org/document/107743/site_0023_0034.jpg",
+            "https://whc.unesco.org/document/107744/site_0023_0035.jpg",
+            "https://whc.unesco.org/document/107745/site_0023_0036.jpg",
+            "https://whc.unesco.org/document/107746/site_0023_0037.jpg",
+            "https://whc.unesco.org/document/107747/site_0023_0038.jpg",
+            "https://whc.unesco.org/document/107748/site_0023_0039.jpg",
+            "https://whc.unesco.org/document/107750/site_0023_0041.jpg",
+            "https://whc.unesco.org/document/107751/site_0023_0042.jpg",
+            "https://whc.unesco.org/document/107752/site_0023_0043.jpg",
+            "https://whc.unesco.org/document/107753/site_0023_0044.jpg",
+            "https://whc.unesco.org/document/107754/site_0023_0045.jpg",
+            "https://whc.unesco.org/document/107757/site_0023_0048.jpg",
+            "https://whc.unesco.org/document/107758/site_0023_0049.jpg",
+            "https://whc.unesco.org/document/107759/site_0023_0050.jpg",
+            "https://whc.unesco.org/document/107760/site_0023_0051.jpg",
+            "https://whc.unesco.org/document/107762/site_0023_0053.jpg",
+            "https://whc.unesco.org/document/107763/site_0023_0054.jpg",
+            "https://whc.unesco.org/document/107764/site_0023_0055.jpg",
+            "https://whc.unesco.org/document/107765/site_0023_0056.jpg",
+            "https://whc.unesco.org/document/107766/site_0023_0057.jpg",
+            "https://whc.unesco.org/document/120400/site_0023_0058.jpg",
+            "https://whc.unesco.org/document/120401/site_0023_0059.jpg",
+            "https://whc.unesco.org/document/120402/site_0023_0060.jpg",
+            "https://whc.unesco.org/document/120403/site_0023_0061.jpg",
+            "https://whc.unesco.org/document/120404/site_0023_0062.jpg",
+            "https://whc.unesco.org/document/120405/site_0023_0063.jpg",
+            "https://whc.unesco.org/document/120406/site_0023_0064.jpg",
+            "https://whc.unesco.org/document/120407/site_0023_0065.jpg",
+            "https://whc.unesco.org/document/132612/site_0023_0066.jpg",
+            "https://whc.unesco.org/document/132613/site_0023_0067.jpg",
+            "https://whc.unesco.org/document/132614/site_0023_0068.jpg",
+            "https://whc.unesco.org/document/132615/site_0023_0069.jpg",
+            "https://whc.unesco.org/document/132616/site_0023_0070.jpg",
+            "https://whc.unesco.org/document/132617/site_0023_0071.jpg",
+            "https://whc.unesco.org/document/132618/site_0023_0072.jpg",
+            "https://whc.unesco.org/document/132619/site_0023_0073.jpg",
+            "https://whc.unesco.org/document/132620/site_0023_0074.jpg",
+            "https://whc.unesco.org/document/132621/site_0023_0075.jpg",
+            "https://whc.unesco.org/document/139588/site_0023_0076.jpg",
+            "https://whc.unesco.org/document/139589/site_0023_0077.jpg",
+            "https://whc.unesco.org/document/139590/site_0023_0078.jpg",
+            "https://whc.unesco.org/document/139591/site_0023_0079.jpg",
+            "https://whc.unesco.org/document/139592/site_0023_0080.jpg",
+            "https://whc.unesco.org/document/139593/site_0023_0081.jpg",
+            "https://whc.unesco.org/document/139594/site_0023_0082.jpg",
+            "https://whc.unesco.org/document/139595/site_0023_0083.jpg"
+          ],
+          "count": 73
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Site of Palmyra",
+            "ref": "23bis",
+            "latitude": 34.5541666667,
+            "longitude": 38.2666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/23",
+        "unesco_documents": "https://whc.unesco.org/en/list/23/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/23/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/23/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Site of Palmyra An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences. An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences. Syria Arab States Cultural"
+    }
+  ]
+}

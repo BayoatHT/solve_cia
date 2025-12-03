@@ -1,0 +1,365 @@
+{
+  "country": {
+    "code": "CAF",
+    "name": "Central African Republic"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "sangha_trinational",
+      "uuid": "1eb05807-650a-5802-ae72-a475b988cee9",
+      "unesco_id": "1380",
+      "names": {
+        "en": "Sangha Trinational",
+        "fr": "Trinational de la Sangha",
+        "es": "Sitio trinacional de Sangha",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COG": {
+            "name": "Congo",
+            "iso2": "CG",
+            "iso3": "COG"
+          },
+          "CMR": {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "iso3": "CMR"
+          },
+          "CAF": {
+            "name": "Central African Republic",
+            "iso2": "CF",
+            "iso3": "CAF"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+          "fr": "Situé dans le nord-ouest du bassin du Congo, au point de rencontre du Cameroun, du Congo et de la République centrafricaine, le site comprend trois parcs nationaux contigus, couvrant une superficie totale de 750 000 hectares, très peu affectés par l’activité humaine. On y trouve l’ensemble du spectre des écosystèmes de forêts tropicales humides. Les riches faune et flore comprennent notamment des crocodiles du Nil et des poissons-tigres Goliath, grands prédateurs. Les clairières offrent des espèces herbacées et la Sangha abrite des populations considérables d’éléphants de forêt, ainsi que des gorilles des plaines de l’ouest (en danger critique d’extinction) et des chimpanzés (en danger). L’environnement du site a permis la poursuite des processus écologiques et évolutionnaires sur une large échelle, ainsi que le maintien d’une grande biodiversité, comprenant de nombreuses espèces en danger.",
+          "es": "Situado en la cuenca noroccidental del río Congo, en el punto de confluencia de las fronteras del Camerún, la República del Congo y la República Centroafricana, este sitio abarca tres parques nacionales contiguos que totalizan una superficie de más de 750.000 hectáreas, donde las actividades humanas apenas han alterado la naturaleza. El sitio cuenta con una vasta gama de ecosistemas de bosque tropical húmedo, y también con una flora y fauna muy ricas. Esta última comprende especies como el cocodrilo del Nilo y un gran predador: el pez tigre Goliat. En los claros de bosque crecen especies herbáceas, y la región de Sangha alberga una población considerable de elefantes de bosque, así como gorilas de las planicies occidentales (en grave peligro de extinción) y chimpancés (una especie también amenazada). El entorno del sitio ha permitido una continuidad de los procesos ecológicos y evolutivos a gran escala, así como la preservación de una gran biodiversidad que abarca numerosas especies animales en peligro de extinción.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+        "justification": "Brief synthesis Sangha Trinational (TNS) is a transboundary conservation complex in the North-western Congo Basin where Cameroon, the Central African Republic and the Republic of Congo meet. TNS encompasses three contiguous national parks totalling a legally defined area of 746,309 hectares. These are Lobéké National Park in Cameroon, Dzanga-Ndoki National Park in the Central African Republic and Nouabalé-Ndoki National Park in the Republic of Congo. Dzanga-Ndoki National Park is comprised of two distinct units. The parks are embedded in a much larger forest landscape, sometimes referred to as the TNS Landscape. A buffer zone of 1,787,950 hectares has been established in recognition of the importance of the broader landscape and its inhabitants for the future of the property. The buffer zone inlcudes Dzanga-Sanga Forest Reserve in the Central African Republic, which connects the two units of Dzanga-Ndoki National Park. Natural values and features include the ongoing ecological and evolutionary processes in a mostly intact forest landscape at a very large scale. Numerous and diverse habitats such as tropical forests comprised of deciduous and evergreen species, a great diversity of wetland types, including swamp forests and periodically flooded forests and many types of forest clearings of major conservation importance continue to be connected at a landscape level. This mosaic of ecosystems harbours viable populations of complete faunal and floral assemblages, including top predators and rare and endangered species, such as Forest Elephants, Gorillas, Chimpanzees, and several antelope species, such as the Sitatunga and the emblematic Bongo. Criterion (ix): The property is characterised by its large size, further supported by the very large buffer zone, minimal disturbance over long periods and intactness thereby enabling the continuation of ecological and evolutionary processes at a huge scale. This includes the continuous presence of viable populations and natural densities of wildlife, including top predators and large mammals which are often affected by hunting and poaching elsewhere. There is a fully connected mosaic of very diverse habitats, including numerous types of ecologically remarkable forest clearings attracting major wildlife aggregations and countless plant species otherwise not found in the forest landscape. Unlike many other forest protected areas, the property is not a remaining fragment but continues to be part of a much larger intact and landscape with good conservation prospects. This is increasingly rare and significant at a global scale. Criterion (x): The property represents a wide spectrum of the species-rich humid tropical forests in Central Africa’s Congo Basin, and provides protection for a range of endangered species. The flora is enriched by species occurring exclusively in the many types of forest clearings. TNS protects a large number of tree species which are heavily commercially exploited elsewhere, such as the critically endangered Mukulungu. In addition to viable populations of forest elephants, significant populations of the critically endangered Western Lowland Gorilla and the endangered Chimpanzee occur both in and around the property, together with several endangered antelope species, such as the Sitatunga and the emblematic Bongo. Integrity The boundaries of the property coincide with the boundaries of three existing national parks thereby forming a large and contiguous protected area in the heart of the broader TNS Landscape. The entire property is surrounded by a large buffer zone in all three countries which responds to the intricate ecological linkages between the property and its surroundings. This approach provides an umbrella for land-use planning and for integrating the legitimate livelihood needs of local and indigenous communities with nature conservation within the broader TNS landscape. Logging and hunting is banned in the national parks. In addition, the remoteness of TNS adds a natural layer of protection from resource exploitation. It will be essential to ensure that the future activities in the buffer zones, including forest and wildlife management, tourism, agriculture and infrastructure are fully compatible with the conservation objectives for TNS so the surrounding landscape will satisfy the needs of local and indigenous communities while indeed serving as a “buffer” for the property. Protection and management requirements There is strong and committed joint management of the property bringing together all three States Parties, an indispensable permanent requirement. The three national parks that make up the property all have management and administrative staff provided by governments and if needed complemented through international support from non-governmental organizations, as well as multi-lateral and bi-lateral agencies. Management, law enforcement, research, monitoring and tourism all require coordination across the national boundaries. There is a Trinational Monitoring and Action Committee (Comité Trinational de Suivi et d'Action), bringing together the three countries at the ministerial level. A Trinational Monitoring Committee unites the three countries at the level of regional administrations. These mechanisms are effective in providing a joint protection and management approach to the property, and will need to be maintained and built upon. The rights and traditional livelihoods of local and indigenous peoples, such as the BaAkas, are a fundamental and increasingly recognised element in the management of the property. Whereas in Lobéké National Park (Cameroon) there are use zones within the park, in the Central African Republic and the Republic of Congo, local resource use, including indigenous hunting and gathering, is not permitted in the protected areas thereby affecting local livelihoods and creating the potential for conflict. This illustrates the crucial importance of finding an overall balance between nature conservation and local resource use in the broader landscape. The significantly enlarged buffer zone presents an opportunity to better understand and integrate the livelihood needs but also the knowledge of local and indigenous communities under the umbrella of a living TNS landscape. The inscription on the World Heritage List presents a concrete opportunity for the States Parties to translate a range of different commitments of the States Parties regarding the rights of local and indigenous people into action on the ground. Maintaining the ecological values of the property will not only depend on law enforcement but eventually both on the standards of commercial resource extraction in the buffer zone and the acceptance and support of parks by the local and indigenous communities in the surrounding landscape."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 746309,
+          "square_km": 7463.09,
+          "square_miles": 3020.21,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6e3a6857a4d692c70b6e9c0739557d60",
+          "filename": "site_1380_0001-500-0-20200604183311.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115221/site_1380_0001.jpg",
+            "https://whc.unesco.org/document/117156/site_1380_0002.jpg",
+            "https://whc.unesco.org/document/117157/site_1380_0003.jpg",
+            "https://whc.unesco.org/document/117158/site_1380_0004.jpg",
+            "https://whc.unesco.org/document/117159/site_1380_0005.jpg",
+            "https://whc.unesco.org/document/117160/site_1380_0006.jpg",
+            "https://whc.unesco.org/document/117162/site_1380_0008.jpg",
+            "https://whc.unesco.org/document/117163/site_1380_0009.jpg",
+            "https://whc.unesco.org/document/117164/site_1380_0010.jpg",
+            "https://whc.unesco.org/document/131982/site_1380_0011.jpg",
+            "https://whc.unesco.org/document/131983/site_1380_0012.jpg",
+            "https://whc.unesco.org/document/131984/site_1380_0013.jpg",
+            "https://whc.unesco.org/document/131985/site_1380_0014.jpg",
+            "https://whc.unesco.org/document/131986/site_1380_0015.jpg",
+            "https://whc.unesco.org/document/131987/site_1380_0016.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Parc National de Lobeké - Cameroon",
+            "ref": "1380rev-002",
+            "latitude": 2.3672222223,
+            "longitude": 15.8141666667
+          },
+          {
+            "name": "Parc National de Dzanga-Ndoki – CAR",
+            "ref": "1380rev-003",
+            "latitude": 2.9166666667,
+            "longitude": 16.4241666667
+          },
+          {
+            "name": "Parc National de Nouabalé-Ndoki - Congo",
+            "ref": "1380rev-001",
+            "latitude": 2.6094444444,
+            "longitude": 16.5541666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1380",
+        "unesco_documents": "https://whc.unesco.org/en/list/1380/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1380/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1380/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sangha Trinational Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Congo Cameroon Central African Republic Africa Natural"
+    },
+    {
+      "site_key": "manovo_gounda_st_floris_national_park",
+      "uuid": "4b51948e-1062-5272-af73-ee4c089a9baf",
+      "unesco_id": "475",
+      "names": {
+        "en": "Manovo-Gounda St Floris National Park",
+        "fr": "Parc national du Manovo-Gounda St Floris",
+        "es": "Parque nacional del Manovo-Gounda St.Floris",
+        "ru": "Национальный парк Маново-Гоунда–Сен-Флорис",
+        "ar": "منتزه مانوفو غوندا سانت فلوريس",
+        "zh": "马诺沃贡达圣绅罗里斯国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CAF": {
+            "name": "Central African Republic",
+            "iso2": "CF",
+            "iso3": "CAF"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains.",
+          "fr": "L'importance de ce parc tient à la richesse de sa flore et de sa faune. Ses vastes savanes abritent des espèces de mammifères très variées : rhinocéros noirs, éléphants, guépards, léopards, chiens sauvages, gazelles à front roux, buffles, et différents types d'oiseaux aquatiques qui trouvent un habitat dans les plaines d'inondation du Nord.",
+          "es": "La importancia de este parque se debe a la riqueza de su flora y fauna. Sus vastas sabanas ofrecen refugio a una gran variedad de mamíferos –rinocerontes negros, elefantes, leopardos, onzas, perros salvajes, gacelas frentirrojas y búfalos– y las llanuras inundables de la zona norte albergan diferentes tipos de aves acuáticas.",
+          "ru": "Ценность этого парка связана с его богатой флорой и фауной. Обширные саванны служат местообитанием для самых разных животных: черных носорогов, слонов, гепардов, леопардов, гиеновых собак, краснолобых газелей, буйволов. А влажная местность на севере привлекает массу водоплавающих птиц.",
+          "ar": "تعود أهمية هذا المنتزه الى غنى ثروته النباتية والحيوانية. فسهول السافانا الشاسعة التي يتألف منها تأوي أصنافاً فائقة التنوع من الثدييات كوحيد القرن الأسود والفيلة وفهد الغيبار وفهد الليوبار والكلاب البرية والغزلان الصهباء الجبين والجواميس ومختلف أصناف الطيور المائية التي تجد لنفسها مسكناً في سهول الفيضانات الشمالية.",
+          "zh": "这个国家公园的重要性在于其丰富的动植物物种。公园广阔的大草原是许多物种的家园：黑犀牛、大象、印度豹、美洲豹、野狗、瞪羚、野牛等，而在公园北部的沼泽地则栖息着各种各样的水禽。"
+        },
+        "full": "The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains.",
+        "justification": "Brief synthesis With an area of 1,740,000 ha, Manovo-Gounda St Floris is the largest park in the Central African savannas. Straddling the two ecological zones, Manovo-Gounda St Floris National Park owes its importance to its rich flora and fauna. It is home to many endangered species including the black rhino, elephant, hippopotamus and red-fronted gazelle as well as large concentrations of herbivores. This Park is an interesting example of a “crossroads” where the species from savanna communities of East and West Africa, as well as those of the forest communities of the South, cross paths. The Park is a valuable area for the study of environmental changes occurring throughout the Sahel and Sudan under pressure from drought and overgrazing. Criterion (ix): The Manovo Gounda St Floris National Park contains extraordinary natural formations. The Park straddles the Sudano-Sahelian and Sudano-Guinean biogeographical zones. This results in a variety of habitats from grassy plains in the north to savannas with gallery forests in the south. The property encompasses the entire watershed of three major rivers (Manovo, Koumbala and Gounda) with grassy floodplains and wetlands. The plains are interspersed with small granitary inselbergs with, to the south, the rugged sandstone massif of the Bongos. This vast Park, surrounded by hunting areas and with a functional corridor to the National Park of Bamingui-Bangoran, protects the largest savanna of Central Africa. It represents a unique example of this type of ecosystem, home to viable populations of different species typical of this part of Africa and others from East and West Africa. Criterion (x): The Park’s wildlife reflects its transitional position between East and West Africa, the Sahel and the rainforests. It contains the richest fauna of the country including about 57 species of mammals that have been well protected in the past. In this respect, it resembles the rich savannas of East Africa. Several important large mammal species in terms of conservation live in the Park, such as black rhino, elephant, hippopotamus, red-fronted gazelle (here at the southern limit of its range), lion, leopard, cheetah and wild dog. There are large concentrations of herbivores, including buffalo, Buffon’s kob, waterbuck, and red hartebeest. Some 320 species of birds have been recorded in the Park, of which at least 25 species of raptors. Flood plains to the north of the Park are largely adequate for water birds, and the shoebill has been observed in the Park. Integrity With a total area of 1,740,000 ha, the Park is almost completely surrounded by the game reserves of Ouandija-Vakaga and Aouk-Aoukalé (480,000 ha and 330,000 ha respectively), which provide effective protection against threats to the property from surrounding areas. Other hunting areas and reserves are also connected with the property, resulting in a contiguous area of 80,000 km2 of protected areas. The property is large enough to ensure species viability. Nevertheless, the integrity of the Park is a cause for concern because of the numerous threats, poaching in particular (notably of rhinoceros, elephant and giraffe) and grazing. The lack of protection and land management measures was also noted at the time of inscription of the property. Protection and management requirements The site has National Park status. It is governed by the 1984 Wildlife Protection Code on which the national legislation on the management of protected areas is based. At the time of inscription, the Park was managed by a private company (Manova SA) which benefited from a governmental contract to manage the site. The Park was then regarded as the best-managed protected area of the country. Today, conservation is under the authority of the Ministry of Water and Forests, Hunting and Fishing, with a structure consisting of the Chief of Staff, the Director-General of Water, Forests, Hunting and Fishing, the Director of Wildlife and Protected Areas, the regional directors, site managers and national conservators. Two bases (Manova and Gordil) are situated alongside the Park, to the east and west, but only the former is truly functional. Anti-poaching actions are primarily organised from these bases, limited by the lack of personnel, means of transport and the prevailing insecurity in the Park. The region is sparsely populated. However, nomad pastoralists from the Sudanese region of Nyala and from Chad, with 30 – 40,000 head of cattle, enter the Park every winter – the dry season grazing halt on their traditional seasonal migration routes. There is also dispersed and limited agricultural activity in the environs of the Park. The pressures of poaching and grazing highlight the need for a functional management or development plan for the Park. This plan should take into account the zoning of the Park and its relationship with the Village Hunting Zones in the periphery, with participative management and a Development Plan for the entire north-east territory (grazing areas and redefinition of the seasonal migration corridors). The creation of a transborder “Zakouma National Park (Chad) –Manovo Gounda St Floris National Park” protected area is also desirable."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1740000,
+          "square_km": 17400.0,
+          "square_miles": 7041.541,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1997",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e985ffbd828b27426c139e8e11ec74e1",
+          "filename": "site_0475_0001-500-0-20151104163513.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 344
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110104/site_0475_0001.jpg",
+            "https://whc.unesco.org/document/110106/site_0475_0002.jpg",
+            "https://whc.unesco.org/document/110108/site_0475_0003.jpg",
+            "https://whc.unesco.org/document/110110/site_0475_0004.jpg",
+            "https://whc.unesco.org/document/110112/site_0475_0005.jpg",
+            "https://whc.unesco.org/document/110114/site_0475_0006.jpg",
+            "https://whc.unesco.org/document/110116/site_0475_0008.jpg",
+            "https://whc.unesco.org/document/110118/site_0475_0009.jpg",
+            "https://whc.unesco.org/document/110120/site_0475_0010.jpg",
+            "https://whc.unesco.org/document/110122/site_0475_0011.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Manovo-Gounda St Floris National Park",
+            "ref": "475",
+            "latitude": 9.0,
+            "longitude": 21.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/475",
+        "unesco_documents": "https://whc.unesco.org/en/list/475/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/475/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/475/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Manovo-Gounda St Floris National Park The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains. The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains. Central African Republic Africa Natural"
+    }
+  ]
+}

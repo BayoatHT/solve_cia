@@ -1,0 +1,175 @@
+{
+  "site_key": "archaeological_site_of_cyrene",
+  "uuid": "edfa8770-71dc-5c5b-a683-48c8b3e7a975",
+  "unesco_id": "190",
+  "names": {
+    "en": "Archaeological Site of Cyrene",
+    "fr": "Site archéologique de Cyrène",
+    "es": "Sitio arqueológico de Cirene",
+    "ru": "Археологические памятники Кирены",
+    "ar": "موقع شحات (قورينة) الأثري",
+    "zh": "昔兰尼考古遗址"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "LBY": {
+        "name": "Libya",
+        "iso2": "LY",
+        "iso3": "LBY"
+      }
+    },
+    "region": {
+      "name": "Arab States",
+      "code": "ARB"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+      "fr": "Colonie des Grecs de Théra, Cyrène fut l'une des principales villes du monde hellénique. Romanisée, elle resta une grande capitale jusqu'au tremblement de terre de 365. Un millénaire d'histoire est inscrit dans ses ruines, célèbres depuis le XVIIIe siècle.",
+      "es": "Colonia de los griegos de Thera, Cirene fue una de las principales ciudades del mundo helénico. Posteriormente romanizada, continuó siendo una gran ciudad hasta el terremoto sobrevenido el año 365. En sus ruinas, célebres desde el siglo XVIII, está escrito un milenio de historia.",
+      "ru": "Основанная как колония греками-выходцами из Тиры, Кирена была одним из главных городов древнегреческого мира. Она перешла к древним римлянам и оставалась столичным городом до землетрясения 365 г. В ее руинах, обнаруженных в ХVIII в., отражается история целого тысячелетия.",
+      "ar": "موقع شحات (قورينة) الأثري كانت شحات مستعمرة للإغريق في جزيرة ثيرا وكانت إحدى مدن العالم الهلّيني الأساسية. وإذ تحولت إلى مدينة رومانية ظلت عاصمة كبيرة حتى زلزال العام 365. وفي ثنايا آثارها التي اشتهرت منذ القرن الثامن عشر يختبئ ألف عام من التاريخ.",
+      "zh": "昔兰尼是锡拉岛希腊人的殖民地，是希腊最主要的城市之一，当时已经罗马化。公元365年发生地震之前，它一直都是一个强大繁荣的都市。现在，这片废墟自18世纪以来一直都很有名，它向人们展示着昔兰尼几千年的历史。"
+    },
+    "full": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        3
+      ],
+      "natural": [],
+      "all": [
+        2,
+        3
+      ],
+      "display": "(ii)(iii)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 131.675,
+      "square_km": 1.32,
+      "square_miles": 0.533,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1982,
+      "all_dates": [
+        1982
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1982,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": true,
+      "details": "Y 2016",
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6eff8770be7ac74c7b7173fd639ccfce",
+      "filename": "site_0190_0001.jpg",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/109021/site_0190_0001.jpg",
+        "https://whc.unesco.org/document/109022/site_0190_0002.jpg",
+        "https://whc.unesco.org/document/109023/site_0190_0003.jpg",
+        "https://whc.unesco.org/document/109024/site_0190_0004.jpg",
+        "https://whc.unesco.org/document/109025/site_0190_0005.jpg",
+        "https://whc.unesco.org/document/109026/site_0190_0006.jpg",
+        "https://whc.unesco.org/document/109027/site_0190_0007.jpg",
+        "https://whc.unesco.org/document/109028/site_0190_0008.jpg",
+        "https://whc.unesco.org/document/109029/site_0190_0009.jpg",
+        "https://whc.unesco.org/document/109030/site_0190_0010.jpg",
+        "https://whc.unesco.org/document/109031/site_0190_0011.jpg",
+        "https://whc.unesco.org/document/109032/site_0190_0012.jpg",
+        "https://whc.unesco.org/document/109033/site_0190_0014.jpg",
+        "https://whc.unesco.org/document/109034/site_0190_0015.jpg",
+        "https://whc.unesco.org/document/109035/site_0190_0016.jpg",
+        "https://whc.unesco.org/document/109036/site_0190_0017.jpg",
+        "https://whc.unesco.org/document/109037/site_0190_0018.jpg",
+        "https://whc.unesco.org/document/125217/site_0190_0020.jpg",
+        "https://whc.unesco.org/document/125218/site_0190_0021.jpg",
+        "https://whc.unesco.org/document/125219/site_0190_0022.jpg",
+        "https://whc.unesco.org/document/125220/site_0190_0023.jpg",
+        "https://whc.unesco.org/document/125222/site_0190_0025.jpg",
+        "https://whc.unesco.org/document/125224/site_0190_0027.jpg",
+        "https://whc.unesco.org/document/125225/site_0190_0028.jpg"
+      ],
+      "count": 24
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Archaeological Site of Cyrene",
+        "ref": "190",
+        "latitude": 32.825,
+        "longitude": 21.85833
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/190",
+    "unesco_documents": "https://whc.unesco.org/en/list/190/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/190/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/190/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Asia",
+    "geographic_type": "Cultural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 43,
+    "inscription_year": 1982
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Archaeological Site of Cyrene A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century. A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century. Libya Arab States Cultural"
+}

@@ -1,0 +1,421 @@
+{
+  "country": {
+    "code": "MDA",
+    "name": "Moldova"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "struve_geodetic_arc",
+      "uuid": "f28bf2c5-4fac-5919-9d2f-f446432386bd",
+      "unesco_id": "1187",
+      "names": {
+        "en": "Struve Geodetic Arc",
+        "fr": "Arc géodésique de Struve",
+        "es": "Arco geodésico de Struve",
+        "ru": "Геодезическая дуга Струве",
+        "ar": "قوس ستروف الجيوديزي",
+        "zh": "斯特鲁维地理探测弧线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          },
+          "NOR": {
+            "name": "Norway",
+            "iso2": "NO",
+            "iso3": "NOR"
+          },
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          },
+          "EST": {
+            "name": "Estonia",
+            "iso2": "EE",
+            "iso3": "EST"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "MDA": {
+            "name": "Moldova",
+            "iso2": "MD",
+            "iso3": "MDA"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 10
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+          "fr": "L’arc de Struve est un réseau de triangulations qui s’étend de Hammerfest en Norvège jusqu’à la mer Noire et traverse 10 pays sur plus de 2 820 km. L’arc est formé par les points d’une triangulation réalisée entre 1816 et 1855 par l’astronome Friedrich Georg Wilhelm Struve et représentant la première mesure exacte d’un long segment de méridien. Cette triangulation a contribué à définir et mesurer la taille et la forme exactes de la Terre ; elle a joué un rôle essentiel dans le développement des sciences de la Terre et l’établissement de cartes topographiques précises. C’est un formidable exemple de collaboration scientifique entre chercheurs de différents pays et de coopération entre des monarques pour une cause scientifique. À l’origine, l’arc était constitué de 258 triangles principaux et de 265 points fixes principaux. Le site inscrit sur la liste comprend 34 des points fixes d’origine, avec différents marquages – trous percés dans la roche, croix en fer, cairns ou obélisques.",
+          "es": "El arco geodésico de Struve es un conjunto de triangulaciones que se extiende por diez países, a lo largo de 2.820 km, desde Hammerfest (Noruega) hasta el Mar Negro. Compuesto por los puntos de la triangulación realizada entre 1816 y 1855 por el astrónomo Friedrich Georg Wilhelm Struve, este arco permitió realizar la primera medición precisa de un largo segmento del meridiano terrestre. Esta triangulación contribuyó a definir y medir la forma exacta de la Tierra y desempeñó un papel importante en el adelanto de las ciencias geológicas y la realización de mapas topográficos precisos. Es una muestra extraordinaria de la colaboración científica entre sabios de distintos países, así como un ejemplo de cooperación entre varios monarcas europeos en pro del progreso científico. El arco primigenio estaba constituido por 258 triángulos y 265 puntos fijos principales. El sitio inscrito en la Lista del Patrimonio Mundial comprende 34 de los puntos fijos originales señalados por medios diferentes: perforaciones en rocas, cruces de hierro, túmulos y obeliscos.",
+          "ru": "«Дуга Струве» – это цепь триангуляционных пунктов, протянувшаяся на 2820 км по территории десяти европейских стран от Хаммерфеста в Норвегии до Черного моря. Эти опорные точки наблюдений были заложены в период 1816-1855 гг. астрономом Фридрихом Георгом Вильгельмом Струве (он же – Василий Яковлевич Струве), который произвел таким образом первое достоверное измерение большого сегмента дуги земного меридиана. Это позволило точно установить размер и форму нашей планеты, что стало важным шагом в развитии наук о Земле и топографического картирования. Это был исключительный пример сотрудничества в научной сфере между учеными разных стран и между правящими монархами. Первоначально «дуга» состояла из 258 геодезических «треугольников» (полигонов) с 265 основными триангуляционными пунктами. В объект всемирного наследия вошли 34 таких пункта (наиболее хорошо уцелевших к настоящему времени), которые маркированы на местности самым разным образом, как то: выдолбленные в скалах углубления, железные кресты, пирамиды из камней или специально установленные обелиски.",
+          "ar": "إن قوس ستروف هو شبكة تثليثات تمتد من هامرفست في النروج حتى البحر الأسود وتعبر 10 بلدان على أكثر من 2820 كيلومترا. يتألف القوس من نقاط التثليث التي تمّ انجازها بين 1816 و 1855على يد عالم الفلك فريدريش جيورج ويلهلم ستروف وتمثّل أول قياس دقيق لجزء من خط التصنيف. لقد ساهمت هذه الصيغة التثليثية في تحديد قياس الأرض وشكلها الدقيقين وأدّت دوراً أساسياً في تطوير علوم الأرض ورسم خرائط طوبوغرافية دقيقة. إنه مثال ممتاز للتعاون العلمي بين باحثين من دول مختلفة والتعاون بين الملوك من أجل قضية علمية. في البدء، كان القوس يتألف من 258 مثلثاً اساسياً و 265 نقطة ثابتة رئيسة. يشمل الموقع المسجّل على القائمة 34 نقطة ثابتة أصليّة وعلامات مختلفة مثل الثقوب المحفورة في الصخور والصلبان الحديدية وركام الحجارة كعلامة أو المسلات.",
+          "zh": "斯特鲁维地理探测弧线是一个三角测量链，北起挪威哈默菲斯特(Hammerfest)，南至黑海，弧线穿越十个国家，长2820公里。弧线是天文学家弗里德理西·格奥尔格·威廉·斯特鲁维(Friedrich Georg Wilhelm Struve)于1816至1855年期间进行测量的测量点，代表着人类首次对子午线长短的精确测量。这一测量帮助人类掌握了地球的确切大小和形状，是地球科学和地形绘图学发展中的重要一步。这个弧线不仅是多国科学家通力合作的一个特例，也是多国君主为科学事业联袂协作的一个特例。原始弧线包含258个主要三角形和265个测量站点。列入世界遗产名录的弧有34个原始测量站点，带有各种不同标记，如岩石钻孔、铁十字、堆石标或方尖石碑。"
+        },
+        "full": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+        "justification": "Brief synthesis The determination of the size and shape of the world was one of the most important problems of natural philosophy since at least the 4th century B.C. The development, in the 16th century, of a measurement system called “triangulation” improved the ability to determine the size and shape of the world. In this system, long chains of triangles were measured, creating arcs that stretched along hundreds and thousands of kilometres. The Struve Geodetic Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through ten countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by several scientists (surveyors) under leadership of the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of our planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of the development of sciences and of collaboration among scientists from different countries, as well as monarchs, for a common scientific cause. Prior to the Struve Geodetic Arc, an arc of about 2,400 km had been measured in India by Lambton and Everest (completed in 1845), and a shorter arc in Lithuania by Carl Tenner. Struve, who was working at the Dorpat University (currently University of Tartu in Estonia), decided that he would establish an arc following a line of longitude (meridian) passing through the observatory of the university. The new long arc, later to be known as the Struve Geodetic Arc, was eventually created by connecting earlier, shorter arcs to the southern one measured by Tenner, and their extension to the north and south. The arc thus covered a line connecting Fuglenæs, near Hammerfest at the Arctic Ocean, with Staro-Nekrassowka, near Ismail, on the Black Sea shores, along more than 2,800 km. The original arc consisted of 258 main triangles with 265 main station points. The inscribed property includes 34 of the original station points established by Struve and his colleagues between 1816 and 1851 – four points in Norway, four in Sweden, six in Finland, two in Russia, three in Estonia, two in Latvia, three in Lithuania, five in Belarus, one in Moldova and four in Ukraine. Other preserved sites of the Arc are protected nationally. These marks take different forms: small holes drilled in rock surfaces, and sometimes filled with lead; cross-shaped engraved marks on rock surfaces; solid stone or brick with a marker inset; rock structures (cairns) with a central stone or brick marked by a drilled hole; individual bricks; as well as especially constructed 'monuments' to commemorate the point and the arc. The Struve Geodetic Arc is an extraordinary example of the interchange of human values in the form of international scientific collaboration, as well as an outstanding example of a technological ensemble. Criterion (ii): The first accurate measuring of a long segment of a meridian, helping in the establishment of the exact size and shape of the world exhibits an important step in the development of earth sciences. It is also an extraordinary example for interchange of human values in the form of scientific collaboration among scientists from different countries. It is at the same time an example for collaboration between monarchs of different powers, for a scientific cause. Criterion (iv): The Struve Geodetic Arc is undoubtedly an outstanding example of a technological ensemble - presenting the triangulation points of the measuring of the meridian, being the non-movable and non-tangible part of the measuring technology. Criterion (vi): The measuring of the arc and its results are directly associated with humans wondering about their world, its shape and size. It is linked with Sir Isaac Newton’s theory that the world is not an exact sphere. Integrity The inscribed property consists of 34 components, which in total comprise an area of 0.6 ha, with buffer zones amounting to a total of 11 ha. All components of the Struve Geodetic Arc are linked to one chain and a number of the Arc sites belong to national state geodetic reference networks that confer integrity even with the geodetic measurements processed today. Authenticity The inscribed components of the property have special characteristics and significance on a technological and scientific level. All points are maintained in their original location and changes are limited to some later constructions marking the locations. Protection and management requirements For the inscription of the Struve Geodetic Arc, the ten countries involved collaborated in locating and investigating the sites of historical measurements by using available geodetic observation data and by means of the recent measurement methods as well as satellite geodesy. Upon identification of the component parts, each State Party provided legal protection in accordance with its national frameworks, which in practice entails that some points are covered by laws protecting geodetic points and also by laws for the protection of cultural heritage. At the national level, each State authority, usually the national mapping authority with the involvement of local administrative authorities, is responsible for the conservation and management of the Struve Geodetic Arc. At the international level, management is the responsibility of the Coordinating Committee, which meets every other year and is run according to management mechanisms agreed upon by all ten countries. Based on the resolutions of the Coordinating Committee, national representative organizations actively promote the Struve Geodetic Arc via different tasks, such as the producing post stamps and envelopes (completed by Belarus, Estonia, Finland, Latvia, Lithuania, Moldova, Sweden, Ukraine); making promotional movies and educational leaflets, books and articles; preparing exhibitions; translating documentation; restoring geodetic instruments and other materials, and even minting commemorative coins for the Struve Geodetic Arc (Belarus, Moldova)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d6bc240c3066919489d7c5191c4833e5",
+          "filename": "site_1187_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113656/site_1187_0001.jpg",
+            "https://whc.unesco.org/document/113658/site_1187_0002.jpg",
+            "https://whc.unesco.org/document/113660/site_1187_0003.jpg",
+            "https://whc.unesco.org/document/113662/site_1187_0004.jpg",
+            "https://whc.unesco.org/document/113664/site_1187_0005.jpg",
+            "https://whc.unesco.org/document/113666/site_1187_0006.jpg",
+            "https://whc.unesco.org/document/113668/site_1187_0007.jpg",
+            "https://whc.unesco.org/document/138129/site_1187_0008.jpg",
+            "https://whc.unesco.org/document/138130/site_1187_0009.jpg",
+            "https://whc.unesco.org/document/138131/site_1187_0010.jpg",
+            "https://whc.unesco.org/document/138132/site_1187_0011.jpg",
+            "https://whc.unesco.org/document/138133/site_1187_0012.jpg",
+            "https://whc.unesco.org/document/143845/site_1187_0013.jpg",
+            "https://whc.unesco.org/document/143846/site_1187_0014.jpg",
+            "https://whc.unesco.org/document/143847/site_1187_0015.jpg",
+            "https://whc.unesco.org/document/143848/site_1187_0016.jpg",
+            "https://whc.unesco.org/document/143849/site_1187_0017.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "RUDY Rudi",
+            "ref": "1187-030",
+            "latitude": 48.3188888889,
+            "longitude": 27.8766666667
+          },
+          {
+            "name": "KATKO Simuna",
+            "ref": "1187-018",
+            "latitude": 59.0483333333,
+            "longitude": 26.4141666667
+          },
+          {
+            "name": "LOPATI Lopaty",
+            "ref": "1187-026",
+            "latitude": 53.5605555556,
+            "longitude": 24.8697222222
+          },
+          {
+            "name": "PULLINKI Pullinki",
+            "ref": "1187-007",
+            "latitude": 66.6463888889,
+            "longitude": 23.7819444444
+          },
+          {
+            "name": "WOIBIFER Võivere",
+            "ref": "1187-017",
+            "latitude": 59.0577777778,
+            "longitude": 26.3377777778
+          },
+          {
+            "name": "FUGLENAES Fuglenes",
+            "ref": "1187-001",
+            "latitude": 70.67,
+            "longitude": 23.6633333333
+          },
+          {
+            "name": "AVASAKSA Aavasaksa",
+            "ref": "1187-010",
+            "latitude": 66.3977777778,
+            "longitude": 23.7252777778
+          },
+          {
+            "name": "SESTU-KALNS Ziestu",
+            "ref": "1187-020",
+            "latitude": 56.84,
+            "longitude": 25.6366666667
+          },
+          {
+            "name": "TUPISCHKI Tupishki",
+            "ref": "1187-025",
+            "latitude": 54.2916666667,
+            "longitude": 26.0452777778
+          },
+          {
+            "name": "TCHEKUTSK Chekutsk",
+            "ref": "1187-028",
+            "latitude": 52.2077777778,
+            "longitude": 25.5563888889
+          },
+          {
+            "name": "LILLE-REIPAS Raipas",
+            "ref": "1187-002",
+            "latitude": 69.9386111111,
+            "longitude": 23.3602777778
+          },
+          {
+            "name": "PUOLAKKA Oravivuori",
+            "ref": "1187-012",
+            "latitude": 61.9266666667,
+            "longitude": 25.5336111111
+          },
+          {
+            "name": "FELSCHTIN Felschtin",
+            "ref": "1187-032",
+            "latitude": 49.33,
+            "longitude": 26.6819444444
+          },
+          {
+            "name": "BARANOWKA Baranowka",
+            "ref": "1187-033",
+            "latitude": 49.1486111111,
+            "longitude": 26.9916666667
+          },
+          {
+            "name": "KERROJUPUKKA Jupukka",
+            "ref": "1187-006",
+            "latitude": 67.2766666667,
+            "longitude": 23.2430555556
+          },
+          {
+            "name": "SVARTVIRA Mustaviiri",
+            "ref": "1187-014",
+            "latitude": 60.2763888889,
+            "longitude": 26.6033333333
+          },
+          {
+            "name": "JACOBSTADT Jekabpils",
+            "ref": "1187-021",
+            "latitude": 56.5013888889,
+            "longitude": 25.8566666667
+          },
+          {
+            "name": "KARISCHKI Gireišiai",
+            "ref": "1187-022",
+            "latitude": 55.9025,
+            "longitude": 25.4366666667
+          },
+          {
+            "name": "MESCHKANZI Meškonys",
+            "ref": "1187-023",
+            "latitude": 54.9308333333,
+            "longitude": 25.3166666667
+          },
+          {
+            "name": "PORLOM II Tornikallio",
+            "ref": "1187-013",
+            "latitude": 60.7047222222,
+            "longitude": 26.0033333333
+          },
+          {
+            "name": "OSSOWNITZA Ossovnitsa",
+            "ref": "1187-027",
+            "latitude": 52.2894444444,
+            "longitude": 25.6494444444
+          },
+          {
+            "name": "PERRA-VAARA Perävaara",
+            "ref": "1187-008",
+            "latitude": 66.0180555556,
+            "longitude": 23.9225
+          },
+          {
+            "name": "BERESNÄKI Paliepiukai",
+            "ref": "1187-024",
+            "latitude": 54.6344444444,
+            "longitude": 25.4291666667
+          },
+          {
+            "name": "LESKOWITSCHI Leskovichi",
+            "ref": "1187-029",
+            "latitude": 52.1608333333,
+            "longitude": 25.5713888889
+          },
+          {
+            "name": "KATERINOWKA Katerinowka",
+            "ref": "1187-031",
+            "latitude": 49.5658333333,
+            "longitude": 26.7561111111
+          },
+          {
+            "name": "PAJTAS-VAARA Tynnyrilaki",
+            "ref": "1187-005",
+            "latitude": 68.255,
+            "longitude": 22.9830555556
+          },
+          {
+            "name": "TORNEA Alatornion kirkko",
+            "ref": "1187-011",
+            "latitude": 65.83,
+            "longitude": 24.1572222222
+          },
+          {
+            "name": "DORPAT Tartu Observatory",
+            "ref": "1187-019",
+            "latitude": 58.3788888889,
+            "longitude": 26.72
+          },
+          {
+            "name": "LOHDIZHJOKKI Luvdiidcohkka",
+            "ref": "1187-003",
+            "latitude": 69.6644444444,
+            "longitude": 23.6022222222
+          },
+          {
+            "name": "STUOR-OIVI Stuorrahanoaivi",
+            "ref": "1187-009",
+            "latitude": 68.6825,
+            "longitude": 22.7458333333
+          },
+          {
+            "name": "MÄKI-PÄÄLYS Mäkipällys",
+            "ref": "1187-015",
+            "latitude": 60.0741666667,
+            "longitude": 26.9697222222
+          },
+          {
+            "name": "BÄLJATZ-VAARA Baelljasvarri",
+            "ref": "1187-004",
+            "latitude": 69.0286111111,
+            "longitude": 23.3052777778
+          },
+          {
+            "name": "STARO-NEKRASSOWKA Stara Nekrasivka",
+            "ref": "1187-034",
+            "latitude": 45.3325962,
+            "longitude": 28.9278807
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1187",
+        "unesco_documents": "https://whc.unesco.org/en/list/1187/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1187/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1187/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Struve Geodetic Arc The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. Latvia Norway Sweden Belarus Estonia Finland Ukraine Lithuania Moldova Russia Europe and North America Cultural"
+    }
+  ]
+}

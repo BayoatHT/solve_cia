@@ -1,0 +1,164 @@
+{
+  "site_key": "group_of_monuments_at_pattadakal",
+  "uuid": "f87d962a-3736-5382-a11e-ffc35d63e034",
+  "unesco_id": "239",
+  "names": {
+    "en": "Group of Monuments at Pattadakal",
+    "fr": "Ensemble de monuments de Pattadakal",
+    "es": "Conjunto monumental de Pattadakal",
+    "ru": "Памятники Паттадакала",
+    "ar": "مجمّع نصب باتاداكال",
+    "zh": "帕塔达卡尔建筑群"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "IND": {
+        "name": "India",
+        "iso2": "IN",
+        "iso3": "IND"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South.",
+      "fr": "Pattadakal, dans l'État du Karnâtaka, illustre l'apogée d'un art éclectique qui, aux VIIe et VIIIe siècles, sous l'égide de la dynastie des Châlukya, sut réaliser une heureuse synthèse des formes architecturales du nord et du sud de l'Inde. On y trouve une imposante série de neuf temples hindouistes, ainsi qu'un sanctuaire jaïn. Dans ce groupe se détache un pur chef-d'œuvre, le temple de Virûpâksha, élevé vers 740 par la reine Lokamahadevi pour commémorer la victoire de son époux sur les souverains du Sud.",
+      "es": "Situado en el Estado de Karnataka, el sitio de Pattadakal ilustra el apogeo del arte ecléctico que logró sintetizar armónicamente las formas arquitectónicas del norte y el sur de la India en los siglos VII y VIII, bajo la dinastía de los Châlukya. El sitio comprende un conjunto impresionante de nueve templos hinduistas y un santuario jainista. Dentro del conjunto destaca una obra maestra excepcional, el templo de Virûpâksha, que fue erigido hacia el año 740 por la reina Lokamahadevi para conmemorar la victoria de su esposo en una batalla contra los soberanos de los reinos meridionales.",
+      "ru": "Эти памятники, расположенные в штате Карнатака, представляют собой яркий пример эклектичного искусства, которое в VII-VIII вв., при династии Чалукьев, достигло гармоничного сочетания архитектурных форм, свойственных северной и южной Индии. Здесь можно увидеть группу из девяти индуистских храмов, а также джайнское святилище. Одно святилище стоит отдельно от других – это храм Вирупакши, сооруженный в 740 г. царицей Локамахадеви, в честь победы ее мужа над правителями южной Индии.",
+      "ar": "تجسد مدينة باتاداكال الواقعة في ولاية قرناتاكا ذروة فنّ انتقائي عرف في القرنين السابع والثامن في عهد سلالة شالوكيا أن يحقّق توليفاً متناغماً للأشكال الهندسية في شمال الهند وجنوبها. وتتواجد في المدينة سلسلة ضخمة من المعابد الهندوسية بالإضافة إلى مزار جانيّ وتبرز في هذه المجموعة تُحفة بامتياز هي معبد فيروباكشا الذي شيّدته عام 740 الملكة لوكاماهاديفي بهدف تخليد ذكرى النصر الذي حقّقه زوجها على الحكام في الجنوب.",
+      "zh": "位于卡纳塔克邦的帕塔达卡尔建筑群，代表了公元7世纪至8世纪遮娄其王朝时期折衷艺术的顶峰。这些折衷艺术建筑风格把印度南北方的建筑形式综合协调。在那里可见到9座令人印象深刻的印度教庙宇和1座耆那教神殿。最为突出的维鲁巴克沙寺庙建于公元740年，是罗卡玛哈德维王后为纪念她的丈夫战胜南方的国王们而建的。"
+    },
+    "full": "Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        3,
+        4
+      ],
+      "natural": [],
+      "all": [
+        3,
+        4
+      ],
+      "display": "(iii)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 5.56,
+      "square_km": 0.06,
+      "square_miles": 0.023,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1987,
+      "all_dates": [
+        1987
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1987,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/620040f5f566878910380793e2f8fa3b",
+      "filename": "site_0239_0001-500-0-20090918174041.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 374
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/109281/site_0239_0001.jpg"
+      ],
+      "count": 1
+    }
+  },
+  "components": {
+    "count": 3,
+    "locations": [
+      {
+        "name": "Temple Area",
+        "ref": "239rev-001",
+        "latitude": 15.950194,
+        "longitude": 75.815611
+      },
+      {
+        "name": "Jaina Temple",
+        "ref": "239rev-003",
+        "latitude": 15.949694,
+        "longitude": 75.808078
+      },
+      {
+        "name": "Papanatha Temple",
+        "ref": "239rev-002",
+        "latitude": 15.947861,
+        "longitude": 75.817194
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/239",
+    "unesco_documents": "https://whc.unesco.org/en/list/239/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/239/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/239/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Cultural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 38,
+    "inscription_year": 1987
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Group of Monuments at Pattadakal Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South. Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South. India Asia and the Pacific Cultural"
+}

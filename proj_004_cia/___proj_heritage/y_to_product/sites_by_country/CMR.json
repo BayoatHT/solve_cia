@@ -1,0 +1,520 @@
+{
+  "country": {
+    "code": "CMR",
+    "name": "Cameroon"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "diy_gid_biy_cultural_landscape_of_the_mandara_mountains",
+      "uuid": "3fd25b7b-a037-5c62-8441-75fff5f5d5e7",
+      "unesco_id": "1745",
+      "names": {
+        "en": "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains",
+        "fr": "Paysage Culturel Diy-Gid-Biy des Monts Mandara",
+        "es": "Paisaje cultural de Diy-Gid-Biy de las montañas Mandara",
+        "ru": "Культурный ландшафт Дий-Гид-Бий в горах Мандара",
+        "ar": "لمنظر الطبيعي الثقافي دي-جيد-بي في جبال ماندارا",
+        "zh": "曼达拉山脉的迪吉比文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CMR": {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "iso3": "CMR"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in the Far North Region of Cameroon, the property includes sixteen archaeological sites across seven villages. Known as Diy-Gid-Biy (meaning “Ruin of the Chief’s Residence” in the Mafa language), these dry-stone architectural structures were likely built between the 12th and 17th centuries. While their original builders remain unknown, the area has been inhabited by the Mafa people since the 15th century. The surrounding landscape features agricultural terraces, homes, tombs, places of worship, and artisan activities, reflecting a long-standing cultural and spiritual connection between the people and their environment.",
+          "fr": "Situé dans la région de l’Extrême-Nord du Cameroun, ce bien comprend seize sites archéologiques répartis dans sept villages. Connu sous le nom de Diy-Gid-Biy, qui signifie « Ruine de la demeure du Chef » en langue mafa, ces structures architecturales en pierres sèches ont vraisemblablement été aménagées entre les XIIe et XVIIe siècles. L’identité des constructeurs demeure inconnue, mais la région est habitée par les Mafa depuis le XVe siècle. Le paysage alentour comprend des terrasses agricoles, des habitations, des tombes, des lieux de culte et de nombreuses activités artisanales, illustrant les liens culturels et spirituels durables entre les communautés et leur environnement.",
+          "es": "Situada en la región del extremo norte de Camerún, la zona incluye dieciséis sitios arqueológicos repartidos en siete pueblos. Conocidas como Diy-Gid-Biy (que significa «ruinas de la residencia del jefe» en el idioma mafa), estas estructuras arquitectónicas de piedra seca probablemente fueron construidas entre los siglos XII y XVII. Aunque aún se desconoce quiénes fueron sus constructores originales, la región ha sido habitada por el pueblo mafa desde el siglo XV. El paisaje circundante está compuesto por terrazas agrícolas, casas, tumbas, lugares de culto y actividades artesanales, reflejo de una conexión cultural y espiritual ancestral entre las personas y su entorno.",
+          "ru": "Этот объект находится в Крайнесеверном регионе Камеруна и включает шестнадцать археологических памятников, расположенных в семи деревнях. Название «Дий-Гид-Бий» на языке мафа означает «руины резиденции вождя». Эти сооружения из сухой кладки, по всей видимости, были возведены между XII и XVII веками. Точные сведения о строителях этих сооружений отсутствуют, однако известно, что народ мафа населяет эту территорию с XV века. Окружающий ландшафт включает сельскохозяйственные террасы, жилые дома, гробницы, места поклонения и мастерские, отражающие давнюю культурную и духовную связь между людьми и местом их проживания.",
+          "ar": "يقع هذا المنظر الطبيعي الثقافي في أقصى شمال الكاميرون، ويضم 16 موقعاً أثرياً موزعاً على سبع قرى. ويرجّح أنّ هذه الهياكل المعمارية المبنية باستخدام الأحجار الجافة، وهي معروفة باسم بي دي-جيد-بي، أي أنقاض مسكن شيخ القبيلة بلغة المافا، كانت قد شُيّدت بين القرنين الثاني عشر والسابع عشر. وبينما يظل بناؤوها الأصليون مجهولين، سكن شعب المافا المنطقة منذ القرن الخامس. وتحتوي المناظر الطبيعية المحيطة على مدرجات زراعية، وبيوت، وأضرحة، وأماكن للعبادة، وأنشطة حِرفية، جميعها تجسّد الرابط الثقافي والروحي الراسخ بين الإنسان والبيئة.",
+          "zh": "该遗产位于喀麦隆极北区，包括散布在7个村庄的16处考古遗址。这里的干砌石建筑结构约建于12-17世纪，在玛法（Mafa）语中被称作“迪吉比”（Diy-Gid-Biy），意为“酋长府邸遗迹”。其最初建造者身份迄今未知，玛法族自15世纪起定居于此。周围景观包括农耕梯田、居所、墓葬、祭祀场所与手工业活动遗迹，生动展现了人与环境之间悠久的文化与精神连结。"
+        },
+        "full": "Located in the Far North Region of Cameroon, the property includes sixteen archaeological sites across seven villages. Known as Diy-Gid-Biy (meaning “Ruin of the Chief’s Residence” in the Mafa language), these dry-stone architectural structures were likely built between the 12th and 17th centuries. While their original builders remain unknown, the area has been inhabited by the Mafa people since the 15th century. The surrounding landscape features agricultural terraces, homes, tombs, places of worship, and artisan activities, reflecting a long-standing cultural and spiritual connection between the people and their environment.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2500,
+          "square_km": 25.0,
+          "square_miles": 10.117,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0d2d550f622aa40dbdc6101c5c8f1af4",
+          "filename": "site_1745_0001.jpg",
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/220558/site_1745_0001.jpg",
+            "https://whc.unesco.org/document/220559/site_1745_0002.jpg",
+            "https://whc.unesco.org/document/220560/site_1745_0003.jpg",
+            "https://whc.unesco.org/document/220561/site_1745_0004.jpg",
+            "https://whc.unesco.org/document/220562/site_1745_0005.jpg",
+            "https://whc.unesco.org/document/220563/site_1745_0006.jpg",
+            "https://whc.unesco.org/document/220564/site_1745_0007.jpg",
+            "https://whc.unesco.org/document/220565/site_1745_0008.jpg",
+            "https://whc.unesco.org/document/220566/site_1745_0009.jpg",
+            "https://whc.unesco.org/document/220567/site_1745_0010.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains",
+            "ref": "1745",
+            "latitude": 10.9033333333,
+            "longitude": 13.7955555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1745",
+        "unesco_documents": "https://whc.unesco.org/en/list/1745/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1745/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1745/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains Located in the Far North Region of Cameroon, the property includes sixteen archaeological sites across seven villages. Known as Diy-Gid-Biy (meaning “Ruin of the Chief’s Residence” in the Mafa language), these dry-stone architectural structures were likely built between the 12th and 17th centuries. While their original builders remain unknown, the area has been inhabited by the Mafa people since the 15th century. The surrounding landscape features agricultural terraces, homes, tombs, places of worship, and artisan activities, reflecting a long-standing cultural and spiritual connection between the people and their environment. Located in the Far North Region of Cameroon, the property includes sixteen archaeological sites across seven villages. Known as Diy-Gid-Biy (meaning “Ruin of the Chief’s Residence” in the Mafa language), these dry-stone architectural structures were likely built between the 12th and 17th centuries. While their original builders remain unknown, the area has been inhabited by the Mafa people since the 15th century. The surrounding landscape features agricultural terraces, homes, tombs, places of worship, and artisan activities, reflecting a long-standing cultural and spiritual connection between the people and their environment. Cameroon Africa Cultural"
+    },
+    {
+      "site_key": "sangha_trinational",
+      "uuid": "1eb05807-650a-5802-ae72-a475b988cee9",
+      "unesco_id": "1380",
+      "names": {
+        "en": "Sangha Trinational",
+        "fr": "Trinational de la Sangha",
+        "es": "Sitio trinacional de Sangha",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COG": {
+            "name": "Congo",
+            "iso2": "CG",
+            "iso3": "COG"
+          },
+          "CMR": {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "iso3": "CMR"
+          },
+          "CAF": {
+            "name": "Central African Republic",
+            "iso2": "CF",
+            "iso3": "CAF"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+          "fr": "Situé dans le nord-ouest du bassin du Congo, au point de rencontre du Cameroun, du Congo et de la République centrafricaine, le site comprend trois parcs nationaux contigus, couvrant une superficie totale de 750 000 hectares, très peu affectés par l’activité humaine. On y trouve l’ensemble du spectre des écosystèmes de forêts tropicales humides. Les riches faune et flore comprennent notamment des crocodiles du Nil et des poissons-tigres Goliath, grands prédateurs. Les clairières offrent des espèces herbacées et la Sangha abrite des populations considérables d’éléphants de forêt, ainsi que des gorilles des plaines de l’ouest (en danger critique d’extinction) et des chimpanzés (en danger). L’environnement du site a permis la poursuite des processus écologiques et évolutionnaires sur une large échelle, ainsi que le maintien d’une grande biodiversité, comprenant de nombreuses espèces en danger.",
+          "es": "Situado en la cuenca noroccidental del río Congo, en el punto de confluencia de las fronteras del Camerún, la República del Congo y la República Centroafricana, este sitio abarca tres parques nacionales contiguos que totalizan una superficie de más de 750.000 hectáreas, donde las actividades humanas apenas han alterado la naturaleza. El sitio cuenta con una vasta gama de ecosistemas de bosque tropical húmedo, y también con una flora y fauna muy ricas. Esta última comprende especies como el cocodrilo del Nilo y un gran predador: el pez tigre Goliat. En los claros de bosque crecen especies herbáceas, y la región de Sangha alberga una población considerable de elefantes de bosque, así como gorilas de las planicies occidentales (en grave peligro de extinción) y chimpancés (una especie también amenazada). El entorno del sitio ha permitido una continuidad de los procesos ecológicos y evolutivos a gran escala, así como la preservación de una gran biodiversidad que abarca numerosas especies animales en peligro de extinción.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+        "justification": "Brief synthesis Sangha Trinational (TNS) is a transboundary conservation complex in the North-western Congo Basin where Cameroon, the Central African Republic and the Republic of Congo meet. TNS encompasses three contiguous national parks totalling a legally defined area of 746,309 hectares. These are Lobéké National Park in Cameroon, Dzanga-Ndoki National Park in the Central African Republic and Nouabalé-Ndoki National Park in the Republic of Congo. Dzanga-Ndoki National Park is comprised of two distinct units. The parks are embedded in a much larger forest landscape, sometimes referred to as the TNS Landscape. A buffer zone of 1,787,950 hectares has been established in recognition of the importance of the broader landscape and its inhabitants for the future of the property. The buffer zone inlcudes Dzanga-Sanga Forest Reserve in the Central African Republic, which connects the two units of Dzanga-Ndoki National Park. Natural values and features include the ongoing ecological and evolutionary processes in a mostly intact forest landscape at a very large scale. Numerous and diverse habitats such as tropical forests comprised of deciduous and evergreen species, a great diversity of wetland types, including swamp forests and periodically flooded forests and many types of forest clearings of major conservation importance continue to be connected at a landscape level. This mosaic of ecosystems harbours viable populations of complete faunal and floral assemblages, including top predators and rare and endangered species, such as Forest Elephants, Gorillas, Chimpanzees, and several antelope species, such as the Sitatunga and the emblematic Bongo. Criterion (ix): The property is characterised by its large size, further supported by the very large buffer zone, minimal disturbance over long periods and intactness thereby enabling the continuation of ecological and evolutionary processes at a huge scale. This includes the continuous presence of viable populations and natural densities of wildlife, including top predators and large mammals which are often affected by hunting and poaching elsewhere. There is a fully connected mosaic of very diverse habitats, including numerous types of ecologically remarkable forest clearings attracting major wildlife aggregations and countless plant species otherwise not found in the forest landscape. Unlike many other forest protected areas, the property is not a remaining fragment but continues to be part of a much larger intact and landscape with good conservation prospects. This is increasingly rare and significant at a global scale. Criterion (x): The property represents a wide spectrum of the species-rich humid tropical forests in Central Africa’s Congo Basin, and provides protection for a range of endangered species. The flora is enriched by species occurring exclusively in the many types of forest clearings. TNS protects a large number of tree species which are heavily commercially exploited elsewhere, such as the critically endangered Mukulungu. In addition to viable populations of forest elephants, significant populations of the critically endangered Western Lowland Gorilla and the endangered Chimpanzee occur both in and around the property, together with several endangered antelope species, such as the Sitatunga and the emblematic Bongo. Integrity The boundaries of the property coincide with the boundaries of three existing national parks thereby forming a large and contiguous protected area in the heart of the broader TNS Landscape. The entire property is surrounded by a large buffer zone in all three countries which responds to the intricate ecological linkages between the property and its surroundings. This approach provides an umbrella for land-use planning and for integrating the legitimate livelihood needs of local and indigenous communities with nature conservation within the broader TNS landscape. Logging and hunting is banned in the national parks. In addition, the remoteness of TNS adds a natural layer of protection from resource exploitation. It will be essential to ensure that the future activities in the buffer zones, including forest and wildlife management, tourism, agriculture and infrastructure are fully compatible with the conservation objectives for TNS so the surrounding landscape will satisfy the needs of local and indigenous communities while indeed serving as a “buffer” for the property. Protection and management requirements There is strong and committed joint management of the property bringing together all three States Parties, an indispensable permanent requirement. The three national parks that make up the property all have management and administrative staff provided by governments and if needed complemented through international support from non-governmental organizations, as well as multi-lateral and bi-lateral agencies. Management, law enforcement, research, monitoring and tourism all require coordination across the national boundaries. There is a Trinational Monitoring and Action Committee (Comité Trinational de Suivi et d'Action), bringing together the three countries at the ministerial level. A Trinational Monitoring Committee unites the three countries at the level of regional administrations. These mechanisms are effective in providing a joint protection and management approach to the property, and will need to be maintained and built upon. The rights and traditional livelihoods of local and indigenous peoples, such as the BaAkas, are a fundamental and increasingly recognised element in the management of the property. Whereas in Lobéké National Park (Cameroon) there are use zones within the park, in the Central African Republic and the Republic of Congo, local resource use, including indigenous hunting and gathering, is not permitted in the protected areas thereby affecting local livelihoods and creating the potential for conflict. This illustrates the crucial importance of finding an overall balance between nature conservation and local resource use in the broader landscape. The significantly enlarged buffer zone presents an opportunity to better understand and integrate the livelihood needs but also the knowledge of local and indigenous communities under the umbrella of a living TNS landscape. The inscription on the World Heritage List presents a concrete opportunity for the States Parties to translate a range of different commitments of the States Parties regarding the rights of local and indigenous people into action on the ground. Maintaining the ecological values of the property will not only depend on law enforcement but eventually both on the standards of commercial resource extraction in the buffer zone and the acceptance and support of parks by the local and indigenous communities in the surrounding landscape."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 746309,
+          "square_km": 7463.09,
+          "square_miles": 3020.21,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6e3a6857a4d692c70b6e9c0739557d60",
+          "filename": "site_1380_0001-500-0-20200604183311.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115221/site_1380_0001.jpg",
+            "https://whc.unesco.org/document/117156/site_1380_0002.jpg",
+            "https://whc.unesco.org/document/117157/site_1380_0003.jpg",
+            "https://whc.unesco.org/document/117158/site_1380_0004.jpg",
+            "https://whc.unesco.org/document/117159/site_1380_0005.jpg",
+            "https://whc.unesco.org/document/117160/site_1380_0006.jpg",
+            "https://whc.unesco.org/document/117162/site_1380_0008.jpg",
+            "https://whc.unesco.org/document/117163/site_1380_0009.jpg",
+            "https://whc.unesco.org/document/117164/site_1380_0010.jpg",
+            "https://whc.unesco.org/document/131982/site_1380_0011.jpg",
+            "https://whc.unesco.org/document/131983/site_1380_0012.jpg",
+            "https://whc.unesco.org/document/131984/site_1380_0013.jpg",
+            "https://whc.unesco.org/document/131985/site_1380_0014.jpg",
+            "https://whc.unesco.org/document/131986/site_1380_0015.jpg",
+            "https://whc.unesco.org/document/131987/site_1380_0016.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Parc National de Lobeké - Cameroon",
+            "ref": "1380rev-002",
+            "latitude": 2.3672222223,
+            "longitude": 15.8141666667
+          },
+          {
+            "name": "Parc National de Dzanga-Ndoki – CAR",
+            "ref": "1380rev-003",
+            "latitude": 2.9166666667,
+            "longitude": 16.4241666667
+          },
+          {
+            "name": "Parc National de Nouabalé-Ndoki - Congo",
+            "ref": "1380rev-001",
+            "latitude": 2.6094444444,
+            "longitude": 16.5541666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1380",
+        "unesco_documents": "https://whc.unesco.org/en/list/1380/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1380/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1380/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sangha Trinational Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Congo Cameroon Central African Republic Africa Natural"
+    },
+    {
+      "site_key": "dja_faunal_reserve",
+      "uuid": "eb1b353b-9841-53ff-ad23-85f3e3d42e7d",
+      "unesco_id": "407",
+      "names": {
+        "en": "Dja Faunal Reserve",
+        "fr": "Réserve de faune du Dja",
+        "es": "Reserva de fauna de Dja",
+        "ru": "Фаунистический резерват Джа",
+        "ar": "محمية الحيوانات في دجا",
+        "zh": "德贾动物保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CMR": {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "iso3": "CMR"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened.",
+          "fr": "C’est l’une des forêts humides d’Afrique les plus vastes et les mieux protégées, 90 % de sa superficie restant inviolée. Pratiquement encerclée par le fleuve Dja, qui en forme la limite naturelle, la réserve est surtout remarquable pour sa biodiversité et pour la très grande variété des primates qui y vivent. Elle abrite 107 espèces de mammifères, dont cinq sont menacées.",
+          "es": "Esta reserva es uno de los bosques húmedos más vastos y mejor conservados de África, ya que el 90% de su superficie no ha sido perturbada por la presencia humana. Cercada casi en su totalidad por el río Dja, una de sus fronteras naturales, la reserva es excepcional por su rica biodiversidad y la gran variedad de primates que viven en ella. Alberga 107 especies de mamíferos, de las cuales cinco se hallan en peligro de extinción.",
+          "ru": "Это один из крупнейших и наиболее сохранных массивов экваториального леса в Африке, примерно 90% площади которого остается в нетронутом состоянии. Резерват, почти со всех сторон окруженный рекой Джа, которая служит ему естественной границей, известен благодаря своему высокому биоразнообразию, а также тому, что здесь обитают самые различные приматы. Из 107 видов млекопитающих пять признаны редкими и исчезающими.",
+          "ar": "تُعتبر محمية الحيوانات في دجا إحدى أوسع وأهم الغابات الرطبة المحافظ عليها في أفريقيا، إذ لا تزال عذراء بنسبة 90% من مساحتها. يحيط بها نهر دجا من كافات الجهات تقريباً بحيث يشكّل حدودها الطبيعية الوحيدة وهي تتميّز بشكل خاص بتنوعها البيولوجي وبفصيلة الرئيسات المتنوعة لتي تقطنها. كما تأوي هذه المحمية 107 أجناس من الثدييات، خمس منها مهدد بالإنقراض.",
+          "zh": "德贾动物保护区是非洲最大、保存最为完好的热带雨林之一，保护区内90%的区域尚未受到人类活动干扰。德贾河几乎把保护区团团围住，构成了保护区的天然边界。保护区因其物种的多样性和众多的灵长类动物而尤为著名。保护区内生存着107种哺乳动物，其中有5种濒临灭绝。"
+        },
+        "full": "This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened.",
+        "justification": "Brief synthesis Founded in 1950, the Dja Faunal Reserve is an integral part of the dense rain forests that form the Congo Basin. This vast range is one of the largest and best-protected of the African rainforests: 90% of its area remains undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the Reserve is especially noted for its biodiversity and a wide variety of primates. Covering an area estimated at around 526,000 ha, the Reserve is home to many animal and plant species, several of which are globally threatened (western lowland gorilla, chimpanzee, forest elephant). Criterion (ix): The primary forest of the Dja Reserve is interesting for its diversity of species and its unique pristine condition. With its topographical diversity and its three biogeographical and geological influences, it has a rich and varied ecosystem that reflects the ecological evolution in progress in this type of environment. It belongs to the forest block considered to be the largest in Africa for the maintenance of biological diversity. Criterion (x): The Dja Reserve is one of Africa's most species-rich rainforests. It includes the habitat of numerous remarkable animal and plant species, many of which are globally threatened. It has over 100 species of mammals, of which at least 14 primates (including several endangered species such as the western lowland gorilla, chimpanzee, white-collared mangabey, mandrill and drill). In addition, flagship species are found in the Reserve, such as the endangered forest elephant, and the nearly extinct African gray parrot, bongo and leopard. Integrity The Dja Reserve is one of Africa's largest and best-protected rainforests. At the time of World Heritage listing in 1987, 90% of the area was considered intact and human pressure was low. The Reserve has a population of Baka pygmies who live in a relatively traditional manner and confer a recognized cultural value to the site. Agriculture and commercial hunting are prohibited, but the Pygmies are allowed to hunt traditionally. At the time of inscription on the World Heritage List, thousands of people were already living on the outskirts of the Reserve. Traditional agriculture remains their main economic activity and hunting their main source of animal protein supply. Mining and forestry prospecting were also underway in the region. No deposits have yet been discovered inside the property, but mining activities in the periphery could be harmful to its integrity. The harvesting of timber remains a possibility, but the legal constraints and the inaccessibility of the region make it unlikely. The protection of the property against this type of activity as well as against other threats outside the boundaries of the property is essential. Protection and management requirements At the institutional level, the Dja Faunal Reserve is managed by the Dja Conservation Services (DCS), headed by a conservator. The management of the Reserve receives significant support from international cooperation partners of Cameroon through many projects. Sustained funding for the Dja Faunal Reserve is critical to move towards financial autonomy and ensure an adequate staff and management of resources. At the operational level, the natural resources affected by high pressure have been identified and a local anti-poaching strategy has been developed. There are regular patrols in the forest and on the road in and around the Reserve, and a cooperative framework with the forestry operators for continuous monitoring of their concessions is in place. The strengthening of education and communication is vital to the management of the property, including increased awareness of local populations and the general public. The DCS is strongly committed to this work, and the establishment of a collaboration with 19 village vigilance committees is an important priority. The main areas of work include priority issues such as anti-poaching, collection of forest data, and the code of laws and procedures. A legal toolbox is also available and the optimal use of management effectiveness assessments to guide future management of the property, including its links with neighbouring areas is part of the process."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 526000,
+          "square_km": 5260.0,
+          "square_miles": 2128.65,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1987,
+          "all_dates": [
+            1987
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1987,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/593c5b0a673b236d7284922b68b4cb76",
+          "filename": "site_0407_0001.jpg",
+          "dimensions": {
+            "width": 2592,
+            "height": 1944
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109434/site_0407_0001.jpg",
+            "https://whc.unesco.org/document/109435/site_0407_0002.jpg",
+            "https://whc.unesco.org/document/109438/site_0407_0003.jpg",
+            "https://whc.unesco.org/document/109439/site_0407_0004.jpg",
+            "https://whc.unesco.org/document/109441/site_0407_0005.jpg",
+            "https://whc.unesco.org/document/109444/site_0407_0006.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Dja Faunal Reserve",
+            "ref": "407",
+            "latitude": 3.125,
+            "longitude": 12.983
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/407",
+        "unesco_documents": "https://whc.unesco.org/en/list/407/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/407/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/407/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 38,
+        "inscription_year": 1987
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Dja Faunal Reserve This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened. This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened. Cameroon Africa Natural"
+    }
+  ]
+}

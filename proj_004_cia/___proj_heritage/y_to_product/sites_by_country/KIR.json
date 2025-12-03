@@ -1,0 +1,187 @@
+{
+  "country": {
+    "code": "KIR",
+    "name": "Kiribati"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "phoenix_islands_protected_area",
+      "uuid": "56e7e9ec-a017-53eb-a62e-5cb4ab4c6673",
+      "unesco_id": "1325",
+      "names": {
+        "en": "Phoenix Islands Protected Area",
+        "fr": "Aire protégée des îles Phoenix",
+        "es": "Zona protegida de las Islas Fénix",
+        "ru": "Заповедная территория островов Феникса",
+        "ar": "المنطقة المحمية في جزر فينيكس",
+        "zh": "菲尼克斯群岛保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KIR": {
+            "name": "Kiribati",
+            "iso2": "KI",
+            "iso3": "KIR"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Phoenix Island Protected Area (PIPA) is a 408,250 sq.km expanse of marine and terrestrial habitats in the Southern Pacific Ocean. The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated Marine Protected Area in the world. PIPA conserves one of the world's largest intact oceanic coral archipelago ecosystems, together with 14 known underwater sea mounts (presumed to be extinct volcanoes) and other deep-sea habitats. The area contains approximately 800 known species of fauna, including about 200 coral species, 500 fish species, 18 marine mammals and 44 bird species. The structure and functioning of PIPA's ecosystems illustrates its pristine nature and importance as a migration route and reservoir. This is the first site in Kiribati to be inscribed on the World Heritage List.",
+          "fr": "L'Aire protégée des îles Phoenix (APIP) est composées d'habitats marins et terrestres qui s'étendent sur 408250 km2 dans l'océan Pacifique sud. Le bien inscrit comprend le groupe des îles Phoenix, un des trois groupes d'îles formant Kiribati. Il s'agit de la plus grande aire marine protégée au monde. L'APIP conserve l'un des derniers écosystèmes intacts d'archipel corallien océanique de la planète, avec ses 14 des monts sous-marins (probablement des volcans éteints) et autres habitats d'eaux profondes. La zone abrite environ 800 espèces connues de la faune, dont près de 200 espèces de coraux, 500 espèces de poissons, 18 mammifères marins et 44 espèces d'oiseaux. La structure et le fonctionnement des écosystèmes de l'APIP illustrent sa nature vierge et son importance en tant que voie de migration et de réservoir. C'est le premier site des îles Kiribati à être inscrit sur la Liste du patrimoine mondial.",
+          "es": "La Zona Protegida de las Islas Fénix (PIPA) es una extensión de 408.250 km2 terrestres y marinos situados en el Pacífico Sur. El sitio rodea el grupo de las islas Fénix –uno de los tres grupos de islas de Kiribati– y es la mayor área marina protegida del mundo. La PIPA conserva uno de los mayores ecosistemas coralinos intactos del mundo, así como 14 montañas sumergidas (presumiblemente volcanes extinguidos) y otros hábitats submarinos. El área alberga aproximadamente 800 especies conocidas de fauna, entre ellas 200 de coral, 500 de peces, 18 de mamíferos marinos y 44 de aves. La estructura y el funcionamiento de los ecosistemas de la PIPA ilustra su naturaleza prístina y su importancia como ruta de migración y reserva. Se trata del primer sitio de Kiribati inscrito en la Lista del Patrimonio Mundial.",
+          "ru": "Заповедная территория островов Феникса (PIPA) – эта пространство площадью 408250 кв. км, включающее морскую и наземную среды обитания, расположенное в Южной части Тихого океана. Объект включает в себя группу островов Феникса - одну из трех островных групп в Кирибати - и является крупнейшим из объявленных морскими заповедниками районов мира. Здесь сохранилась одна из крупнейших нетронутых в мире океанических экосистем коралловых островов, расположены 14 известных подводных скал, (предположительно потухшие вулканы) и другие глубоководные местообитания. На его территории зарегистрировано около 800 известных видов фауны, в том числе около 200 видов кораллов, 500 видов рыб, 18 морских млекопитающих и 44 видов птиц. Структура и функционирование экосистем PIPA отражают первозданность его природы и его значение как миграционного пункта и места концентрации видов. Это первый объект в Кирибати, который был включен в Список всемирного наследия ЮНЕСКО.",
+          "ar": "تتألف المنطقة المحمية في جزر فينيكس من مساكن بحرية وأرضية تمتد على مساحة 408250 كلم2 جنوب المحيط الهادي. ويضم هذا الممتلك الذي أُدرج في قائمة التراث العالمي مجموعة جزر فينيكس، وهي إحدى مجموعات الجزر الثلاث التي تتألف منها كيريباتي. ويمثل هذا الموقع أكبر منطقة بحرية محمية في العالم. ومن الجدير بالذكر أن المنطقة المحمية في جزر فينيكس أحد آخر النظم الإيكولوجية السليمة في العالم لأرخبيل مرجاني وسط المحيط، مع 14 جبلاً تحت سطح البحر (تشكل هذه الجبال على الأرجح براكين منطفئة) وغيرها من المساكن في أعماق البحر. وتضم هذه المنطقة حوالى 800 نوع معروف من الحيوانات، منها 200 نوع من المراجين، و500 نوع من الأسماك، و18 نوعاً من الثدييات البحرية، و44 نوعاً من الطيور. وتتجلى في بنية النظم الإيكولوجية للمنطقة المحمية في جزر فينيكس وطريقة عملها الطبيعة البكر لهذه المنطقة وأهميتها كوجهة لهجرة الحيوانات وكخزّان طبيعي. وتجدر الإشارة إلى أن المنطقة المحمية في جزر فينيكس هي أول موقع في جزر كيريباتي يُدرج في قائمة التراث العالمي.",
+          "zh": "面积达40万8250平方公里的菲尼克斯群岛保护区，是南太平洋上海洋和陆地生物的栖息地。这一遗产由基里巴斯三座群岛中的菲尼克斯群岛组成，是世界上最大的指定海洋保护区。保护区内拥有保存完好的海洋珊瑚群岛生态系统，其规模为世界最大之一。此外，区内还包括已知的14座海底山峰（据推测为死火山）和其他深海栖息地。该地区已知的动物物种有大约800个，其中包括约200种珊瑚，500种鱼类，18种海洋哺乳动物和44种鸟类。保护区生态系统的结构和功能显示了其原生态的本质，以及作为物种迁移路线与储藏库的重要性。菲尼克斯群岛保护区是基里巴斯首个列入世界遗产名录的遗址。"
+        },
+        "full": "The Phoenix Island Protected Area (PIPA) is a 408,250 sq.km expanse of marine and terrestrial habitats in the Southern Pacific Ocean. The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated Marine Protected Area in the world. PIPA conserves one of the world's largest intact oceanic coral archipelago ecosystems, together with 14 known underwater sea mounts (presumed to be extinct volcanoes) and other deep-sea habitats. The area contains approximately 800 known species of fauna, including about 200 coral species, 500 fish species, 18 marine mammals and 44 bird species. The structure and functioning of PIPA's ecosystems illustrates its pristine nature and importance as a migration route and reservoir. This is the first site in Kiribati to be inscribed on the World Heritage List.",
+        "justification": "Brief Synthesis As a vast expanse of largely pristine mid-ocean environment, replete with a suite of largely intact uninhabited atolls, truly an oceanic wilderness, the Phoenix Islands Protected Area (408,250 sq km), the largest marine protected area in the Pacific, is globally exceptional and as such is a superlative natural phenomenon of global importance. Phoenix Islands Protected Area contains an outstanding collection of large submerged volcanoes, presumed extinct, rising direct from the extensive deep sea floor with an average depth of more than 4,500 metres and a maximum depth of over 6,000 metres. Included are no less than 14 recognised seamounts, submerged mountains that don't penetrate to the surface. The collection of atolls and reef islands represent coral reef capping on 8 other volcanic mountains that approach the surface. The large bathymetric range of the submerged seamount landscape provides depth defined habitat types fully representative of Pacific mid oceanic biota. Due to its great isolation, Phoenix Islands Protected Area occupies a unique position in the biogeography of the Pacific as a critical stepping stone habitat for migratory and pelagic/planktonic species and for ocean currents in the region. Phoenix Islands Protected Area embraces the full range of marine environments in this area and displays high levels of marine abundance as well as the full spectrum of age and size cohorts, increasingly rare in the tropics, and especially in the case of apex predator sharks fish, sea turtles, sea birds, corals, giant clams, and coconut crabs, many of which have been depleted elsewhere. The overall marine tropic dynamics for these island communities across this archipelago are better functioning (relatively intact) compared with other island systems where human habitation and exploitation has significantly altered the environment. The complete representation of ocean and island environments and their connectivity, the remoteness and naturalness are important attributes which contribute to the outstanding universal value. Criterion (vii): Phoenix Islands Protected Area, an oceanic wilderness, is sufficiently remote and inhospitable to human colonisation as to be exceptional in terms of the minimal evidence of the impacts of human activities both on the atolls and in the adjacent seas. The Phoenix Islands Protected Area is a very large protected area, a vast wilderness domain where nature prevails and man is but an occasional visitor. The property is distinguished by containing a large suite of seamounts complete with a broad expanse of contextual abyssal plain with a natural phenomenon of global significance. The essentially pristine environment, outstanding underwater clarity, the spectacle of large groups of charismatic aquatic animals (e.g. bumphead parrotfish, Napolean wrasse, surgeonfishes, parrotfishes, groupers, maori wrasse, sharks, turtles, dolphins, manta rays, giant clams) in quantities rarely found elsewhere in the world, aesthetically outstanding coral reef features (e.g. giant clams, large coral heads) together with the spectacle of huge concentrations of seabirds on remote atolls, makes of this property a truly kaleidoscopic natural oceanscape exhibiting exceptional natural beauty of global significance. Criterion (ix): With its rich biota, as a known breeding site for numerous nomadic, migratory and pelagic marine and terrestrial species, and the known and predicted high level of biodiversity and endemicity associated with these isolated mid-ocean atolls, submerged reefs and seamounts, Phoenix Islands Protected Area makes an outstanding contribution to ongoing ecological and biological processes in the evolution and development of global marine ecosystems and communities of plants and animals. Phoenix Islands Protected Area has exceptional value as a natural laboratory for the study and understanding of the significant ongoing ecological and biological processes in the evolution and development of marine ecosystems of the Pacific, the world's largest ocean, indeed all oceans. This property is of crucial scientific importance in identifying and monitoring the processes of sea level change, growth rates and age of reefs and reef builders, (both geologically and historically) and in evaluating effects from climate change. Integrity Phoenix Islands Protected Area's boundaries are clearly defined. The boundaries are mostly straight lines with some adjustments to the boundaries to align with the Exclusive Economic Zone (200NM) of Kiribati. There are various clearly delimited zones within Phoenix Islands Protected Area as described in the Management Plan. Phoenix Islands Protected Area's large size and full inclusion of oceanic and island habitats in this area and coverage of numerous examples of key habitats (coral reefs, islands, seamounts) together with its predominantly natural state give exceptional conservation importance. The integrity of the property and oceanic ecosystems processes at scale are globally significant for island archipelagos and most other tropical marine environments found worldwide. However, human impacts such as fishing, deep sea mining and invasive species should be closely monitored for the maintenance of the integrity of the property. Protection and Management requirements Phoenix Islands Protected Area is a protected area legally established under the Phoenix Islands Protected Area Regulations 2008.These regulations clearly delineate the boundaries of the Phoenix Islands Protected Area, establish the Phoenix Islands Protected Area Management Committee and seek to ensure that a Management Plan is in place for the property. The full establishment of management capacity is an essential requirement, and Kiribati is committed to a whole of government approach with partners to ensure a management system that is sustainable and suitable to the circumstances of a small developing state. Of particular note is the importance of sustained success in capture and fining of illegal fishing vessels and in the removal of invasive species from globally important islands for seabird conservation. It is essential to strengthen the management framework for fisheries, including the extension of no-take areas, measures to prevent degradation of seamounts and concrete timelines for the phasing out of tuna fishing. For long term sustainability Kiribati and its partners are committed to a Phoenix Islands Protected Area Trust Fund. The Fund's legislation, the Board and by-laws are essential foundations for the property and partners, including Conservation International and the New England Aquarium are committed to ensure the establishment, full funding and operation of the endowment fund to support the property. Kiribati is committed to further build management capacity, particularly for surveillance and enforcement, including through site, national, regional and bilateral partnerships. The link to the Nauru Agreement (8 Pacific Island States) to manage tuna fishing in the region is important and provides, through license provisions, a long-term active linkage to management of the neighbouring high seas for the Phoenix Islands Protected Area World Heritage site. Kiribati licenses for fishing in the Kiribati Exclusive Economic Zone, including Phoenix Islands Protected Area, are only allowable if the licensee agrees not to fish in the adjacent high seas. This is enforceable through the mandatory 100% observer coverage."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9
+          ],
+          "all": [
+            7,
+            9
+          ],
+          "display": "(vii)(ix)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 40825000,
+          "square_km": 408250.0,
+          "square_miles": 165213.168,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2010,
+          "all_dates": [
+            2010
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2010,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/72b73ad83f3727e979234bb44a1c6507",
+          "filename": "site_1325_0011.jpg",
+          "dimensions": {
+            "width": 4416,
+            "height": 3312
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114879/site_1325_0011.jpg",
+            "https://whc.unesco.org/document/114886/site_1325_0015.jpg",
+            "https://whc.unesco.org/document/114862/site_1325_0002.jpg",
+            "https://whc.unesco.org/document/114864/site_1325_0003.jpg",
+            "https://whc.unesco.org/document/114868/site_1325_0006.jpg",
+            "https://whc.unesco.org/document/114870/site_1325_0007.jpg",
+            "https://whc.unesco.org/document/114872/site_1325_0008.jpg",
+            "https://whc.unesco.org/document/114875/site_1325_0009.jpg",
+            "https://whc.unesco.org/document/114877/site_1325_0010.jpg",
+            "https://whc.unesco.org/document/114880/site_1325_0012.jpg",
+            "https://whc.unesco.org/document/114883/site_1325_0013.jpg",
+            "https://whc.unesco.org/document/114885/site_1325_0014.jpg",
+            "https://whc.unesco.org/document/114888/site_1325_0016.jpg",
+            "https://whc.unesco.org/document/114890/site_1325_0017.jpg",
+            "https://whc.unesco.org/document/114892/site_1325_0018.jpg",
+            "https://whc.unesco.org/document/167585/site_1325_0019.jpg",
+            "https://whc.unesco.org/document/167586/site_1325_0020.jpg",
+            "https://whc.unesco.org/document/167587/site_1325_0021.jpg",
+            "https://whc.unesco.org/document/167588/site_1325_0022.jpg",
+            "https://whc.unesco.org/document/167589/site_1325_0023.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Phoenix Islands Protected Area",
+            "ref": "1325",
+            "latitude": -3.864454,
+            "longitude": -172.650203
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1325",
+        "unesco_documents": "https://whc.unesco.org/en/list/1325/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1325/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1325/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 15,
+        "inscription_year": 2010
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Phoenix Islands Protected Area The Phoenix Island Protected Area (PIPA) is a 408,250 sq.km expanse of marine and terrestrial habitats in the Southern Pacific Ocean. The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated Marine Protected Area in the world. PIPA conserves one of the world's largest intact oceanic coral archipelago ecosystems, together with 14 known underwater sea mounts (presumed to be extinct volcanoes) and other deep-sea habitats. The area contains approximately 800 known species of fauna, including about 200 coral species, 500 fish species, 18 marine mammals and 44 bird species. The structure and functioning of PIPA's ecosystems illustrates its pristine nature and importance as a migration route and reservoir. This is the first site in Kiribati to be inscribed on the World Heritage List. The Phoenix Island Protected Area (PIPA) is a 408,250 sq.km expanse of marine and terrestrial habitats in the Southern Pacific Ocean. The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated Marine Protected Area in the world. PIPA conserves one of the world's largest intact oceanic coral archipelago ecosystems, together with 14 known underwater sea mounts (presumed to be extinct volcanoes) and other deep-sea habitats. The area contains approximately 800 known species of fauna, including about 200 coral species, 500 fish species, 18 marine mammals and 44 bird species. The structure and functioning of PIPA's ecosystems illustrates its pristine nature and importance as a migration route and reservoir. This is the first site in Kiribati to be inscribed on the World Heritage List. Kiribati Asia and the Pacific Natural"
+    }
+  ]
+}

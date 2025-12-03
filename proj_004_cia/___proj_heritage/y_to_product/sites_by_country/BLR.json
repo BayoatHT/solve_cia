@@ -1,0 +1,955 @@
+{
+  "country": {
+    "code": "BLR",
+    "name": "Belarus"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "bialowieza_forest",
+      "uuid": "ba47f5ee-4e9a-5453-963a-941aaf75d38b",
+      "unesco_id": "33",
+      "names": {
+        "en": "Białowieża Forest",
+        "fr": "Forêt Bialowieza",
+        "es": "Bosque de Bialowieża",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "POL": {
+            "name": "Poland",
+            "iso2": "PL",
+            "iso3": "POL"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison.",
+          "fr": "Le site du patrimoine mondial de la Forêt Bialowieża, sur la frontière entre la Pologne et la Bélarusse, est un vaste massif de forêt ancienne comprenant à la fois des conifères et des feuillus d’une superficie totale de 141 885 ha. Situé sur la ligne de partage des eaux entre la mer Baltique et la mer Noire, ce bien transfrontalier apparaît comme une région irremplaçable pour la conservation de la biodiversité. On y trouve la plus grande population de bisons d’Europe, l’espèce emblématique du bien.",
+          "es": "El sitio del patrimonio mundial del Bosque de Bialowieża, situado en la frontera entre Polonia y Belarrús, abarca una vasta extensión de bosques arcaicos de hoja perenne y caduca de una superficie total de 141.885 hectáreas. Situado en la divisoria entre las cuencas de los ríos que van a parar al Báltico y el Mar Negro, este sitio transfronterizo es único en su género para la conservación de la biodiversidad. Alberga la mayor población existente de bisonte europeo, especie animal emblemática de la región.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison.",
+        "justification": "Brief synthesis Bialowieza Forest is a large forest complex located on the border between Poland and Belarus. Thanks to several ages of protection the Forest had survived in its natural state to this day. The Bialowieza National Park, Poland, was inscribed on the World Heritage List in 1979 and extended to include Belovezhskaya Pushcha, Belarus, in 1992. A large extension of the property in 2014 results in a property of 141,885 ha with a buffer zone of 166,708 ha. This property includes a complex of lowland forests that are characteristics of the Central European mixed forests terrestrial ecoregion. The area has exceptionally conservation significance due to the scale of its old growth forests, which include extensive undisturbed areas where natural processes are on-going. A consequence is the richness in dead wood, standing and on the ground, and consequently a high diversity of fungi and saproxylic invertebrates. The property protects a diverse and rich wildlife of which 59 mammal species, over 250 bird, 13 amphibian, 7 reptile and over 12,000 invertebrate species. The iconic symbol of the property is the European Bison: approximately 900 individuals in the whole property which make almost 25% of the total world’s population and over 30% of free-living animals. Criterion (ix): Bialowieza Forest conserves a diverse complex of protected forest ecosystems which exemplify the Central European mixed forests terrestrial ecoregion, and a range of associated non-forest habitats, including wet meadows, river valleys and other wetlands. The area has an exceptionally high nature conservation value, including extensive old-growth forests. The large and integral forest area supports complete food webs including viable populations of large mammals and large carnivores (wolf, lynx and otter) amongst other. The richness in dead wood, standing and on the ground, leads to a consequent high diversity of fungi and saproxylic invertebrates. The long tradition of research on the little disturbed forest ecosystem and the numerous publications, including description of new species, also contributes significantly to the values of the nominated property. Criterion (x): Bialowieza Forest is an irreplaceable area for biodiversity conservation, due in particular to its size, protection status, and substantially undisturbed nature. The property is home to the largest free-roaming population of European Bison, which is the iconic species of this property. However the biodiversity conservation values are extensive, and include protection for 59 mammal species, over 250 bird species, 13 amphibians, 7 reptiles, and over 12,000 invertebrates. The flora is diverse and regionally significant, and the property also is notable for conservation of fungi. Several new species have been described here and many threatened species are still well represented. Integrity The property is a large, coherent area conserved via a range of protective designations representing the full range of forest ecosystems of the region, and providing habitat for large mammals. The presence of extensive undisturbed areas is crucial to its nature conservation values. Some of the ecosystems represented in the property (wet meadows, wetlands, river corridors) require maintenance through active management, due to the decrease of water flow and absence of agriculture (hay cutting). The buffer zone that has been proposed by both State Parties appears sufficient to provide effective protection of the integrity of the property from threats from outside its boundaries. There are some connectivity challenges, from barriers inside the property, and its relative isolation within surrounding agricultural landscapes, that require continued management and monitoring. Protection and management requirements The property benefits from legal and institutional protection in both States Parties, through a variety of protected area designations. Protection and management requires strong and effective cooperation between the States Parties, and also between institutions in each State Party. The Bialowieza National Park (Poland), the Polish Forestry Administration and the Belovezhskaya Pushcha National Park authorities have entered into an agreement regarding preparation and implementation of an integrated management plan for the nominated property, and to establish a transboundary steering group. In addition the State Party of Poland has developed an agreement establishing a Steering Committee between the National Park and the Forest Administration aiming to achieve a coordinated approach to integrated management. It is essential to ensure the effective functioning of this Steering Committee, including through regular meetings, and its input to transboundary coordination and management. It is essential that the national parks of both States Parties maintain effective and legally adopted management plans, and an adopted management plan for the Bialowieza National Park (Poland), to support its inclusion in the property, is an essential and long-term requirement. It is essential to ensure that the integrated management plan for the property addresses all key issues concerning the effective management of this property, particularly forest, meadows and wetlands management, and that it is adequately funded on a long term basis to ensure its effective implementation. Effective and well-resourced conservation management is the main long-term requirement to secure the property, and maintain the necessary management interventions that sustain its natural values. Threats that require long-term attention via monitoring and continued management programmes include fire management, the impacts of barriers to connectivity, including roads, firebreaks and the border fence. There is also scope to continually improve aspects of the management of the property, including in relation to ensuring connectivity within the property, and in its wider landscape, and to also secure enhanced community engagement."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 141885,
+          "square_km": 1418.85,
+          "square_miles": 574.189,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979,
+            1992,
+            2014
+          ],
+          "extensions": [
+            1992,
+            2014
+          ],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1992,
+              "event": "Extended"
+            },
+            {
+              "year": 2014,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 2
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4db89461df322933c7f1be84418f155c",
+          "filename": "site_0033_0001-500-0-20151104154911.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107837/site_0033_0001.jpg",
+            "https://whc.unesco.org/document/107838/site_0033_0002.jpg",
+            "https://whc.unesco.org/document/107839/site_0033_0003.jpg",
+            "https://whc.unesco.org/document/107840/site_0033_0004.jpg",
+            "https://whc.unesco.org/document/107841/site_0033_0005.jpg",
+            "https://whc.unesco.org/document/128357/site_0033_0006.jpg",
+            "https://whc.unesco.org/document/128360/site_0033_0007.jpg",
+            "https://whc.unesco.org/document/128361/site_0033_0008.jpg",
+            "https://whc.unesco.org/document/128363/site_0033_0009.jpg",
+            "https://whc.unesco.org/document/128364/site_0033_0010.jpg",
+            "https://whc.unesco.org/document/128365/site_0033_0011.jpg",
+            "https://whc.unesco.org/document/128366/site_0033_0012.jpg",
+            "https://whc.unesco.org/document/137238/site_0033_0013.jpg",
+            "https://whc.unesco.org/document/137239/site_0033_0014.jpg",
+            "https://whc.unesco.org/document/137240/site_0033_0015.jpg",
+            "https://whc.unesco.org/document/137241/site_0033_0016.jpg",
+            "https://whc.unesco.org/document/137242/site_0033_0017.jpg",
+            "https://whc.unesco.org/document/137243/site_0033_0018.jpg",
+            "https://whc.unesco.org/document/137244/site_0033_0019.jpg",
+            "https://whc.unesco.org/document/137245/site_0033_0020.jpg",
+            "https://whc.unesco.org/document/137246/site_0033_0021.jpg",
+            "https://whc.unesco.org/document/137247/site_0033_0022.jpg",
+            "https://whc.unesco.org/document/137248/site_0033_0023.jpg",
+            "https://whc.unesco.org/document/137249/site_0033_0024.jpg",
+            "https://whc.unesco.org/document/137250/site_0033_0025.jpg",
+            "https://whc.unesco.org/document/137251/site_0033_0026.jpg",
+            "https://whc.unesco.org/document/137252/site_0033_0027.jpg",
+            "https://whc.unesco.org/document/137253/site_0033_0028.jpg",
+            "https://whc.unesco.org/document/137254/site_0033_0029.jpg",
+            "https://whc.unesco.org/document/137255/site_0033_0030.jpg",
+            "https://whc.unesco.org/document/137256/site_0033_0031.jpg",
+            "https://whc.unesco.org/document/137257/site_0033_0032.jpg",
+            "https://whc.unesco.org/document/137258/site_0033_0033.jpg",
+            "https://whc.unesco.org/document/137259/site_0033_0034.jpg",
+            "https://whc.unesco.org/document/137260/site_0033_0035.jpg",
+            "https://whc.unesco.org/document/137261/site_0033_0036.jpg",
+            "https://whc.unesco.org/document/139642/site_0033_0037.jpg",
+            "https://whc.unesco.org/document/139643/site_0033_0038.jpg",
+            "https://whc.unesco.org/document/139644/site_0033_0039.jpg",
+            "https://whc.unesco.org/document/139647/site_0033_0040.jpg",
+            "https://whc.unesco.org/document/139648/site_0033_0041.jpg",
+            "https://whc.unesco.org/document/139649/site_0033_0042.jpg",
+            "https://whc.unesco.org/document/139650/site_0033_0043.jpg",
+            "https://whc.unesco.org/document/139651/site_0033_0044.jpg",
+            "https://whc.unesco.org/document/139652/site_0033_0045.jpg",
+            "https://whc.unesco.org/document/139653/site_0033_0046.jpg",
+            "https://whc.unesco.org/document/139654/site_0033_0047.jpg",
+            "https://whc.unesco.org/document/139717/site_0033_0048.jpg",
+            "https://whc.unesco.org/document/139718/site_0033_0049.jpg",
+            "https://whc.unesco.org/document/139719/site_0033_0050.jpg",
+            "https://whc.unesco.org/document/139720/site_0033_0051.jpg",
+            "https://whc.unesco.org/document/139721/site_0033_0052.jpg",
+            "https://whc.unesco.org/document/139722/site_0033_0053.jpg",
+            "https://whc.unesco.org/document/139723/site_0033_0054.jpg",
+            "https://whc.unesco.org/document/139724/site_0033_0055.jpg",
+            "https://whc.unesco.org/document/139725/site_0033_0056.jpg",
+            "https://whc.unesco.org/document/139726/site_0033_0057.jpg"
+          ],
+          "count": 57
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Bialowieza Forest",
+            "ref": "33ter-001",
+            "latitude": 52.7275,
+            "longitude": 23.9811111111
+          },
+          {
+            "name": "Bialowieza Forest",
+            "ref": "33ter-002",
+            "latitude": 52.7275,
+            "longitude": 23.8991666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/33",
+        "unesco_documents": "https://whc.unesco.org/en/list/33/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/33/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/33/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Białowieża Forest The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison. The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison. Poland Belarus Europe and North America Natural"
+    },
+    {
+      "site_key": "struve_geodetic_arc",
+      "uuid": "f28bf2c5-4fac-5919-9d2f-f446432386bd",
+      "unesco_id": "1187",
+      "names": {
+        "en": "Struve Geodetic Arc",
+        "fr": "Arc géodésique de Struve",
+        "es": "Arco geodésico de Struve",
+        "ru": "Геодезическая дуга Струве",
+        "ar": "قوس ستروف الجيوديزي",
+        "zh": "斯特鲁维地理探测弧线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          },
+          "NOR": {
+            "name": "Norway",
+            "iso2": "NO",
+            "iso3": "NOR"
+          },
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          },
+          "EST": {
+            "name": "Estonia",
+            "iso2": "EE",
+            "iso3": "EST"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "MDA": {
+            "name": "Moldova",
+            "iso2": "MD",
+            "iso3": "MDA"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 10
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+          "fr": "L’arc de Struve est un réseau de triangulations qui s’étend de Hammerfest en Norvège jusqu’à la mer Noire et traverse 10 pays sur plus de 2 820 km. L’arc est formé par les points d’une triangulation réalisée entre 1816 et 1855 par l’astronome Friedrich Georg Wilhelm Struve et représentant la première mesure exacte d’un long segment de méridien. Cette triangulation a contribué à définir et mesurer la taille et la forme exactes de la Terre ; elle a joué un rôle essentiel dans le développement des sciences de la Terre et l’établissement de cartes topographiques précises. C’est un formidable exemple de collaboration scientifique entre chercheurs de différents pays et de coopération entre des monarques pour une cause scientifique. À l’origine, l’arc était constitué de 258 triangles principaux et de 265 points fixes principaux. Le site inscrit sur la liste comprend 34 des points fixes d’origine, avec différents marquages – trous percés dans la roche, croix en fer, cairns ou obélisques.",
+          "es": "El arco geodésico de Struve es un conjunto de triangulaciones que se extiende por diez países, a lo largo de 2.820 km, desde Hammerfest (Noruega) hasta el Mar Negro. Compuesto por los puntos de la triangulación realizada entre 1816 y 1855 por el astrónomo Friedrich Georg Wilhelm Struve, este arco permitió realizar la primera medición precisa de un largo segmento del meridiano terrestre. Esta triangulación contribuyó a definir y medir la forma exacta de la Tierra y desempeñó un papel importante en el adelanto de las ciencias geológicas y la realización de mapas topográficos precisos. Es una muestra extraordinaria de la colaboración científica entre sabios de distintos países, así como un ejemplo de cooperación entre varios monarcas europeos en pro del progreso científico. El arco primigenio estaba constituido por 258 triángulos y 265 puntos fijos principales. El sitio inscrito en la Lista del Patrimonio Mundial comprende 34 de los puntos fijos originales señalados por medios diferentes: perforaciones en rocas, cruces de hierro, túmulos y obeliscos.",
+          "ru": "«Дуга Струве» – это цепь триангуляционных пунктов, протянувшаяся на 2820 км по территории десяти европейских стран от Хаммерфеста в Норвегии до Черного моря. Эти опорные точки наблюдений были заложены в период 1816-1855 гг. астрономом Фридрихом Георгом Вильгельмом Струве (он же – Василий Яковлевич Струве), который произвел таким образом первое достоверное измерение большого сегмента дуги земного меридиана. Это позволило точно установить размер и форму нашей планеты, что стало важным шагом в развитии наук о Земле и топографического картирования. Это был исключительный пример сотрудничества в научной сфере между учеными разных стран и между правящими монархами. Первоначально «дуга» состояла из 258 геодезических «треугольников» (полигонов) с 265 основными триангуляционными пунктами. В объект всемирного наследия вошли 34 таких пункта (наиболее хорошо уцелевших к настоящему времени), которые маркированы на местности самым разным образом, как то: выдолбленные в скалах углубления, железные кресты, пирамиды из камней или специально установленные обелиски.",
+          "ar": "إن قوس ستروف هو شبكة تثليثات تمتد من هامرفست في النروج حتى البحر الأسود وتعبر 10 بلدان على أكثر من 2820 كيلومترا. يتألف القوس من نقاط التثليث التي تمّ انجازها بين 1816 و 1855على يد عالم الفلك فريدريش جيورج ويلهلم ستروف وتمثّل أول قياس دقيق لجزء من خط التصنيف. لقد ساهمت هذه الصيغة التثليثية في تحديد قياس الأرض وشكلها الدقيقين وأدّت دوراً أساسياً في تطوير علوم الأرض ورسم خرائط طوبوغرافية دقيقة. إنه مثال ممتاز للتعاون العلمي بين باحثين من دول مختلفة والتعاون بين الملوك من أجل قضية علمية. في البدء، كان القوس يتألف من 258 مثلثاً اساسياً و 265 نقطة ثابتة رئيسة. يشمل الموقع المسجّل على القائمة 34 نقطة ثابتة أصليّة وعلامات مختلفة مثل الثقوب المحفورة في الصخور والصلبان الحديدية وركام الحجارة كعلامة أو المسلات.",
+          "zh": "斯特鲁维地理探测弧线是一个三角测量链，北起挪威哈默菲斯特(Hammerfest)，南至黑海，弧线穿越十个国家，长2820公里。弧线是天文学家弗里德理西·格奥尔格·威廉·斯特鲁维(Friedrich Georg Wilhelm Struve)于1816至1855年期间进行测量的测量点，代表着人类首次对子午线长短的精确测量。这一测量帮助人类掌握了地球的确切大小和形状，是地球科学和地形绘图学发展中的重要一步。这个弧线不仅是多国科学家通力合作的一个特例，也是多国君主为科学事业联袂协作的一个特例。原始弧线包含258个主要三角形和265个测量站点。列入世界遗产名录的弧有34个原始测量站点，带有各种不同标记，如岩石钻孔、铁十字、堆石标或方尖石碑。"
+        },
+        "full": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+        "justification": "Brief synthesis The determination of the size and shape of the world was one of the most important problems of natural philosophy since at least the 4th century B.C. The development, in the 16th century, of a measurement system called “triangulation” improved the ability to determine the size and shape of the world. In this system, long chains of triangles were measured, creating arcs that stretched along hundreds and thousands of kilometres. The Struve Geodetic Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through ten countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by several scientists (surveyors) under leadership of the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of our planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of the development of sciences and of collaboration among scientists from different countries, as well as monarchs, for a common scientific cause. Prior to the Struve Geodetic Arc, an arc of about 2,400 km had been measured in India by Lambton and Everest (completed in 1845), and a shorter arc in Lithuania by Carl Tenner. Struve, who was working at the Dorpat University (currently University of Tartu in Estonia), decided that he would establish an arc following a line of longitude (meridian) passing through the observatory of the university. The new long arc, later to be known as the Struve Geodetic Arc, was eventually created by connecting earlier, shorter arcs to the southern one measured by Tenner, and their extension to the north and south. The arc thus covered a line connecting Fuglenæs, near Hammerfest at the Arctic Ocean, with Staro-Nekrassowka, near Ismail, on the Black Sea shores, along more than 2,800 km. The original arc consisted of 258 main triangles with 265 main station points. The inscribed property includes 34 of the original station points established by Struve and his colleagues between 1816 and 1851 – four points in Norway, four in Sweden, six in Finland, two in Russia, three in Estonia, two in Latvia, three in Lithuania, five in Belarus, one in Moldova and four in Ukraine. Other preserved sites of the Arc are protected nationally. These marks take different forms: small holes drilled in rock surfaces, and sometimes filled with lead; cross-shaped engraved marks on rock surfaces; solid stone or brick with a marker inset; rock structures (cairns) with a central stone or brick marked by a drilled hole; individual bricks; as well as especially constructed 'monuments' to commemorate the point and the arc. The Struve Geodetic Arc is an extraordinary example of the interchange of human values in the form of international scientific collaboration, as well as an outstanding example of a technological ensemble. Criterion (ii): The first accurate measuring of a long segment of a meridian, helping in the establishment of the exact size and shape of the world exhibits an important step in the development of earth sciences. It is also an extraordinary example for interchange of human values in the form of scientific collaboration among scientists from different countries. It is at the same time an example for collaboration between monarchs of different powers, for a scientific cause. Criterion (iv): The Struve Geodetic Arc is undoubtedly an outstanding example of a technological ensemble - presenting the triangulation points of the measuring of the meridian, being the non-movable and non-tangible part of the measuring technology. Criterion (vi): The measuring of the arc and its results are directly associated with humans wondering about their world, its shape and size. It is linked with Sir Isaac Newton’s theory that the world is not an exact sphere. Integrity The inscribed property consists of 34 components, which in total comprise an area of 0.6 ha, with buffer zones amounting to a total of 11 ha. All components of the Struve Geodetic Arc are linked to one chain and a number of the Arc sites belong to national state geodetic reference networks that confer integrity even with the geodetic measurements processed today. Authenticity The inscribed components of the property have special characteristics and significance on a technological and scientific level. All points are maintained in their original location and changes are limited to some later constructions marking the locations. Protection and management requirements For the inscription of the Struve Geodetic Arc, the ten countries involved collaborated in locating and investigating the sites of historical measurements by using available geodetic observation data and by means of the recent measurement methods as well as satellite geodesy. Upon identification of the component parts, each State Party provided legal protection in accordance with its national frameworks, which in practice entails that some points are covered by laws protecting geodetic points and also by laws for the protection of cultural heritage. At the national level, each State authority, usually the national mapping authority with the involvement of local administrative authorities, is responsible for the conservation and management of the Struve Geodetic Arc. At the international level, management is the responsibility of the Coordinating Committee, which meets every other year and is run according to management mechanisms agreed upon by all ten countries. Based on the resolutions of the Coordinating Committee, national representative organizations actively promote the Struve Geodetic Arc via different tasks, such as the producing post stamps and envelopes (completed by Belarus, Estonia, Finland, Latvia, Lithuania, Moldova, Sweden, Ukraine); making promotional movies and educational leaflets, books and articles; preparing exhibitions; translating documentation; restoring geodetic instruments and other materials, and even minting commemorative coins for the Struve Geodetic Arc (Belarus, Moldova)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d6bc240c3066919489d7c5191c4833e5",
+          "filename": "site_1187_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113656/site_1187_0001.jpg",
+            "https://whc.unesco.org/document/113658/site_1187_0002.jpg",
+            "https://whc.unesco.org/document/113660/site_1187_0003.jpg",
+            "https://whc.unesco.org/document/113662/site_1187_0004.jpg",
+            "https://whc.unesco.org/document/113664/site_1187_0005.jpg",
+            "https://whc.unesco.org/document/113666/site_1187_0006.jpg",
+            "https://whc.unesco.org/document/113668/site_1187_0007.jpg",
+            "https://whc.unesco.org/document/138129/site_1187_0008.jpg",
+            "https://whc.unesco.org/document/138130/site_1187_0009.jpg",
+            "https://whc.unesco.org/document/138131/site_1187_0010.jpg",
+            "https://whc.unesco.org/document/138132/site_1187_0011.jpg",
+            "https://whc.unesco.org/document/138133/site_1187_0012.jpg",
+            "https://whc.unesco.org/document/143845/site_1187_0013.jpg",
+            "https://whc.unesco.org/document/143846/site_1187_0014.jpg",
+            "https://whc.unesco.org/document/143847/site_1187_0015.jpg",
+            "https://whc.unesco.org/document/143848/site_1187_0016.jpg",
+            "https://whc.unesco.org/document/143849/site_1187_0017.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "RUDY Rudi",
+            "ref": "1187-030",
+            "latitude": 48.3188888889,
+            "longitude": 27.8766666667
+          },
+          {
+            "name": "KATKO Simuna",
+            "ref": "1187-018",
+            "latitude": 59.0483333333,
+            "longitude": 26.4141666667
+          },
+          {
+            "name": "LOPATI Lopaty",
+            "ref": "1187-026",
+            "latitude": 53.5605555556,
+            "longitude": 24.8697222222
+          },
+          {
+            "name": "PULLINKI Pullinki",
+            "ref": "1187-007",
+            "latitude": 66.6463888889,
+            "longitude": 23.7819444444
+          },
+          {
+            "name": "WOIBIFER Võivere",
+            "ref": "1187-017",
+            "latitude": 59.0577777778,
+            "longitude": 26.3377777778
+          },
+          {
+            "name": "FUGLENAES Fuglenes",
+            "ref": "1187-001",
+            "latitude": 70.67,
+            "longitude": 23.6633333333
+          },
+          {
+            "name": "AVASAKSA Aavasaksa",
+            "ref": "1187-010",
+            "latitude": 66.3977777778,
+            "longitude": 23.7252777778
+          },
+          {
+            "name": "SESTU-KALNS Ziestu",
+            "ref": "1187-020",
+            "latitude": 56.84,
+            "longitude": 25.6366666667
+          },
+          {
+            "name": "TUPISCHKI Tupishki",
+            "ref": "1187-025",
+            "latitude": 54.2916666667,
+            "longitude": 26.0452777778
+          },
+          {
+            "name": "TCHEKUTSK Chekutsk",
+            "ref": "1187-028",
+            "latitude": 52.2077777778,
+            "longitude": 25.5563888889
+          },
+          {
+            "name": "LILLE-REIPAS Raipas",
+            "ref": "1187-002",
+            "latitude": 69.9386111111,
+            "longitude": 23.3602777778
+          },
+          {
+            "name": "PUOLAKKA Oravivuori",
+            "ref": "1187-012",
+            "latitude": 61.9266666667,
+            "longitude": 25.5336111111
+          },
+          {
+            "name": "FELSCHTIN Felschtin",
+            "ref": "1187-032",
+            "latitude": 49.33,
+            "longitude": 26.6819444444
+          },
+          {
+            "name": "BARANOWKA Baranowka",
+            "ref": "1187-033",
+            "latitude": 49.1486111111,
+            "longitude": 26.9916666667
+          },
+          {
+            "name": "KERROJUPUKKA Jupukka",
+            "ref": "1187-006",
+            "latitude": 67.2766666667,
+            "longitude": 23.2430555556
+          },
+          {
+            "name": "SVARTVIRA Mustaviiri",
+            "ref": "1187-014",
+            "latitude": 60.2763888889,
+            "longitude": 26.6033333333
+          },
+          {
+            "name": "JACOBSTADT Jekabpils",
+            "ref": "1187-021",
+            "latitude": 56.5013888889,
+            "longitude": 25.8566666667
+          },
+          {
+            "name": "KARISCHKI Gireišiai",
+            "ref": "1187-022",
+            "latitude": 55.9025,
+            "longitude": 25.4366666667
+          },
+          {
+            "name": "MESCHKANZI Meškonys",
+            "ref": "1187-023",
+            "latitude": 54.9308333333,
+            "longitude": 25.3166666667
+          },
+          {
+            "name": "PORLOM II Tornikallio",
+            "ref": "1187-013",
+            "latitude": 60.7047222222,
+            "longitude": 26.0033333333
+          },
+          {
+            "name": "OSSOWNITZA Ossovnitsa",
+            "ref": "1187-027",
+            "latitude": 52.2894444444,
+            "longitude": 25.6494444444
+          },
+          {
+            "name": "PERRA-VAARA Perävaara",
+            "ref": "1187-008",
+            "latitude": 66.0180555556,
+            "longitude": 23.9225
+          },
+          {
+            "name": "BERESNÄKI Paliepiukai",
+            "ref": "1187-024",
+            "latitude": 54.6344444444,
+            "longitude": 25.4291666667
+          },
+          {
+            "name": "LESKOWITSCHI Leskovichi",
+            "ref": "1187-029",
+            "latitude": 52.1608333333,
+            "longitude": 25.5713888889
+          },
+          {
+            "name": "KATERINOWKA Katerinowka",
+            "ref": "1187-031",
+            "latitude": 49.5658333333,
+            "longitude": 26.7561111111
+          },
+          {
+            "name": "PAJTAS-VAARA Tynnyrilaki",
+            "ref": "1187-005",
+            "latitude": 68.255,
+            "longitude": 22.9830555556
+          },
+          {
+            "name": "TORNEA Alatornion kirkko",
+            "ref": "1187-011",
+            "latitude": 65.83,
+            "longitude": 24.1572222222
+          },
+          {
+            "name": "DORPAT Tartu Observatory",
+            "ref": "1187-019",
+            "latitude": 58.3788888889,
+            "longitude": 26.72
+          },
+          {
+            "name": "LOHDIZHJOKKI Luvdiidcohkka",
+            "ref": "1187-003",
+            "latitude": 69.6644444444,
+            "longitude": 23.6022222222
+          },
+          {
+            "name": "STUOR-OIVI Stuorrahanoaivi",
+            "ref": "1187-009",
+            "latitude": 68.6825,
+            "longitude": 22.7458333333
+          },
+          {
+            "name": "MÄKI-PÄÄLYS Mäkipällys",
+            "ref": "1187-015",
+            "latitude": 60.0741666667,
+            "longitude": 26.9697222222
+          },
+          {
+            "name": "BÄLJATZ-VAARA Baelljasvarri",
+            "ref": "1187-004",
+            "latitude": 69.0286111111,
+            "longitude": 23.3052777778
+          },
+          {
+            "name": "STARO-NEKRASSOWKA Stara Nekrasivka",
+            "ref": "1187-034",
+            "latitude": 45.3325962,
+            "longitude": 28.9278807
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1187",
+        "unesco_documents": "https://whc.unesco.org/en/list/1187/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1187/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1187/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Struve Geodetic Arc The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. Latvia Norway Sweden Belarus Estonia Finland Ukraine Lithuania Moldova Russia Europe and North America Cultural"
+    },
+    {
+      "site_key": "mir_castle_complex",
+      "uuid": "337768f8-9087-5e7b-b244-68c7da6c10ec",
+      "unesco_id": "625",
+      "names": {
+        "en": "Mir Castle Complex",
+        "fr": "Ensemble du château de Mir",
+        "es": "Conjunto del Castillo de Mir",
+        "ru": "Комплекс Мирского замка",
+        "ar": "مجمع قصر مير",
+        "zh": "米尔城堡群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history.",
+          "fr": "La construction de ce château commence à la fin du XVe siècle en style gothique. Il sera agrandi et reconstruit par la suite, d'abord en style Renaissance, puis en style baroque. Après un siècle d'abandon et les graves dommages subis pendant la période napoléonienne, le château sera restauré à la fin du XIXe siècle. De nombreux éléments y seront rajoutés et le paysage environnant sera aménagé en parc. Sa forme actuelle est un témoignage vivant de son histoire souvent troublée.",
+          "es": "Este castillo se empezó a construir en las postrimerí­as del siglo XV en estilo gótico. Las partes añadidas y reconstruidas posteriormente son de estilo renacentista y barroco. Tras un siglo de abandono y los graves daños sufridos en la época napoleónica, el castillo fue restaurado a finales del siglo XIX, añadiéndosele entonces nuevos elementos y transformando el í¡rea circundante en parque. Su apariencia actual es un testimonio vivo de su turbulenta historia.",
+          "ru": "Мирский замок был возведен в самом начале XVI в. в готическом стиле. Затем он был существенно расширен и перестроен, сначала в стиле эпохи Возрождения, затем – барокко. Далее почти на протяжении столетия замок был заброшен, а во время войны 1812 г. он испытал серьезные разрушения. В конце XIX в. замок был восстановлен, в его архитектурный ансамбль были внесены новые элементы, а на прилегающей территории был разбит ландшафтный парк с водоемом. Современный облик замка – наглядное свидетельство его богатой и сложной истории.",
+          "ar": "بدأ بناء هذا القصر في نهاية القرن الخامس عشر على الطراز القوطي. بعد ذاك، تمّ تكبيره وإعادة تشييده لاحقاً، أولاً بحسب طراز النهضة ومن ثم بحسب الطراز الباروكي. بعد قرن من الإهمال والأضرار الكبيرة التي عاناها خلال فترة نابليون، تمّت إضافة عدد كبير من العناصر عليه وترتيب الأراضي المجاورة لتصبح منتزهاً. إن شكله الحالي شاهد على تاريخه المضطرب.",
+          "zh": "米尔城堡于十五世纪末动工建设，属于哥特式风格，后来在文艺复兴时期及其后的巴洛克风格盛行时期得到不断扩建和重建。城堡曾被遗弃了近一个世纪，后又在拿破仑一世时期受到严重破坏，但最终于19世纪末得到修复。在修复过程中，加入了许多其他要素，美化了周边景观，建成了一个公园。如今的面貌是其历经沧桑动荡的历史写照。"
+        },
+        "full": "The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 27,
+          "square_km": 0.27,
+          "square_miles": 0.109,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/34e408389402e086c66d0468dfc31189",
+          "filename": "site_0625_0001-500-0-20090924150953.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 244
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111885/site_0625_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Mir Castle Complex",
+            "ref": "625",
+            "latitude": 53.45108333,
+            "longitude": 26.47272222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/625",
+        "unesco_documents": "https://whc.unesco.org/en/list/625/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/625/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/625/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mir Castle Complex The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history. The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history. Belarus Europe and North America Cultural"
+    },
+    {
+      "site_key": "architectural_residential_and_cultural_complex_of_the_radziwill_family_at_nesvizh",
+      "uuid": "6e0d4d36-6756-588c-8732-a3639b5e555d",
+      "unesco_id": "1196",
+      "names": {
+        "en": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+        "fr": "Ensemble architectural, résidentiel et culturel de la famille Radziwill à Nesvizh",
+        "es": "Conjunto arquitectónico, residencial y cultural de la familia Radziwill en Nesvizh",
+        "ru": "Архитектурный, жилой и культурный комплекс рода Радзивиллов в городе Несвиж",
+        "ar": "المجمّع الهندسي والسكني والثقافي لعائلة رادزيفيل في نيسفيز",
+        "zh": "涅斯维日的拉济维乌家族城堡建筑群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh is located in central Belarus. The Radziwill dynasty, who built and kept the ensemble from the 16th century until 1939, gave birth to some of the most important personalities in European history and culture. Due to their efforts, the town of Nesvizh came to exercise great influence in the sciences, arts, crafts and architecture. The complex consists of the residential castle and the mausoleum Church of Corpus Christi with their setting. The castle has ten interconnected buildings, which developed as an architectural whole around a six-sided courtyard. The palaces and church became important prototypes marking the development of architecture throughout Central Europe and Russia.",
+          "fr": "L’ensemble architectural, résidentiel et culturel de la famille Radziwill à Nesvizh se trouve en Bélarus central. De la dynastie Radziwill, qui construisit et conserva cet ensemble du XVIe siècle à 1939, sont issues certaines des plus importantes personnalités de l’histoire et de la culture de l’Europe. Grâce à leurs efforts, Nesvizh devint un lieu crucial d’influence dans les différents domaines de la culture, des sciences, des arts, de l’artisanat et de l’architecture. Cet ensemble se compose d’un palais et de l’église mausolée du Corpus Christi. Le château est constitué de dix bâtiments mitoyens, qui ont évolué comme un seul et même ensemble architectural autour d’une cour hexagonale. Les palais, ainsi que l’église du Corpus Christi, sont devenus d’importants modèles qui ont marqué le développement de l’architecture dans toute l’Europe centrale et la Russie.",
+          "es": "El conjunto arquitectónico, residencial y cultural de Nesvizh, antaño perteneciente a la familia Radziwill, se halla en el centro de Belarrús. De la familia de los Radziwill, que construyó este conjunto en el siglo XVI y lo conservó hasta 1939, proceden algunas personalidades eminentes de la historia y la cultura del Viejo Continente. Bajo su impulso, la ciudad de Nesvizh ejerció una gran influencia en las bellas artes, la artesaní­a y la arquitectura. El conjunto comprende el palacio y la iglesia del Corpus Christi, mausoleo de la familia. El primero se compone de diez edificios distintos adosados que han llegado a constituir un solo conjunto arquitectónico, dispuesto en torno a un patio hexagonal. Las mansiones que integran ese conjunto y la iglesia del Corpus Christi fueron modelos que influyeron en la arquitectura de toda Europa Central y Rusia.",
+          "ru": "Архитектурный, жилой и культурный комплекс Радзивиллов в Несвиже находится в центральной части Беларуси. Род Радзивиллов, представители которого выстроили и сохранили этот ансамбль с ХVI в. до 1939 г., известен рядом крупнейших деятелей европейской истории и культуры. Благодаря их усилиям, Несвиж оказал большое влияние на развитие науки, искусств, ремесел и архитектуры. Комплекс включает замок-резиденцию, Фарный (приходской) костел Наисвятейшего Божиего Тела и окружающие их постройки. Замок состоит из десяти взаимосвязанных зданий, которые образуют единое архитектурное целое вокруг шестигранного двора. Постройки этого замка и костел стали прототипами, оказавшими большое влияние на развитие архитектуры в этой части Европы и в России.",
+          "ar": "يقع المجمّع الهندسي والسكني والثقافي لعائلة رادزيفيل في نيسفيز، في بيلاروسيا الوسطى. ومن سلالة رادزيفيل التي بنت وحافظت على هذا المجمع العائد إلى القرن السادس عشر حتى 1939 يتحدّر بعض أهم الشخصيات في التاريخ والثقافة الأوروبية. وبفضل جهودهم، أصبحت نيسفيز مكاناً مهماً للتأثير في مجالات الثقافة المختلفة والمجالات العلمية والفنية والحرفية والهندسية. تتألف المجموعة من قصر وكنيسة جسد المسيح (كوربوس كريستي). ويتألف القصر بدوره من عشرة مبانِ مشتركة تطوّرت كمجموعة هندسية واحدة من حول فناء سداسي الشكل. وقد أصبحت القصور وكنيسة جسد المسيح (كوربوس كريستي) نماذج مهمة أثّرت على تطوّر الهندسة المعمارية في كل أوروبا الوسطى وروسيا.",
+          "zh": "涅斯维日的拉济维乌家族城堡建筑群位于白俄罗斯中部，由拉济维乌王朝(the Radziwill dynasty)从16世纪开始建造，到1939年完工。拉济维乌王朝诞生了许多欧洲历史和文化领域的重要人物，由于他们的努力，涅斯维日在科学、艺术、工艺和建筑方面产生了巨大影响。建筑群包括寝宫、基督圣体教堂及相应的环境景观，宫殿内有10座相连的建筑，形成一个六边形庭院建筑体系。宫殿和基督圣体教堂这样意义非凡的建筑原型，显示了整个欧洲中部和俄罗斯的建筑发展。"
+        },
+        "full": "The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh is located in central Belarus. The Radziwill dynasty, who built and kept the ensemble from the 16th century until 1939, gave birth to some of the most important personalities in European history and culture. Due to their efforts, the town of Nesvizh came to exercise great influence in the sciences, arts, crafts and architecture. The complex consists of the residential castle and the mausoleum Church of Corpus Christi with their setting. The castle has ten interconnected buildings, which developed as an architectural whole around a six-sided courtyard. The palaces and church became important prototypes marking the development of architecture throughout Central Europe and Russia.",
+        "justification": "Brief synthesis The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh in central Belarus exercised great influence in the sciences, arts, crafts and architecture of Central and Eastern Europe. The efforts of the Radziwill dynasty, which built and kept this ensemble of buildings and their associated landscape from 1583 until 1939 and which included some of the most notable personalities in European history and culture who introduced novel concepts based on a synthesis of Western traditions, led to the establishment of a new Central European school of architecture. The Radziwill family complex - and in particular the domed basilica Corpus Christi mausoleum-church represents an important stage in the development of building typology in 16th and 17th century Central European architecture. The Radziwill family complex consists of a residential castle and the Corpus Christi mausoleum-church, along with their landscaped setting. The compact castle has ten interconnected buildings, including a palace, galleries, residence, family archive and arsenal, all of which were developed as a single architectural ensemble around a six-sided courtyard. The buildings are set within the remains of 16th century fortifications comprised of four bastions and four curtain walls in a rectangular plan, surrounded by a moat. An earthen dam with a stone bridge connects the castle to Corpus Christi Church in the adjacent urban area of Nesvizh. The ensemble of buildings, interspersed by artificial reservoirs and canals of the river Usha, is in a picturesque 100 ha landscape that includes a series of thematic parks and ponds. Over the centuries the Radziwills supported activities in various spheres of science and culture, and also invited important cultural personalities, architects, artists and craftspersons to the small town of Nesvizh. These interactions introduced the latest architectural innovations from Southern and Western Europe and became seminal in synthesizing and transmitting these trends to Central and Eastern Europe. An architectural school emerged here that consisted of artists from Belarus, Poland, Italy, and Germany who developed sophisticated construction and building techniques. The buildings of the Radziwill family complex became important prototypes in Central Europe, and exercised considerable influence in this region. Criterion (ii): The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh was the cradle for the introduction of new concepts based on the synthesis of Western traditions, leading to the establishment of a new architectural school in Central Europe. Criterion (iv): The Radziwill complex represents an important stage in the development of new a building typology and in the history of Central European architecture during the 16th and 17th centuries. In particular, this concerns Corpus Christi Church with its domed basilica typology. Criterion (vi): The Radziwill family was particularly significant for its association with the interpretation of influences from Southern and Western Europe and the transmission of ideas within Central and Eastern Europe. Integrity All the elements that sustain the Outstanding Universal Value of the Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh are located within the boundaries of the 120 ha property, including the residential castle, the Corpus Christi church-mausoleum, and the landscaped parks and ponds. The property is therefore of adequate size to ensure the complete representation of the features and processes that convey its significance. There is also a 292 ha buffer zone. The state of conservation of the interrelated elements is good. Authenticity The overall historical authenticity of the property has been maintained regarding its location and setting, form and design, and materials and substance. The territory of the castle complex and the surrounding natural landscape have largely been preserved. Drawings and maps of Nesvizh from the 16th to the 18th centuries reveal a high degree of authenticity in the design of the complex. The castle and the church-mausoleum include construction materials, structures and craft, dating from the 16th to 18th centuries. The fortifications were destroyed in the 17th century, and more recently there has been some reconstruction (e.g. the bell tower). The landscaped park, with its romantic features dating mainly from the 19th century, has suffered from neglect, though it has been subject to some clearing and replanting in recent decades. As a whole, the landscape has maintained all its essential components, especially in the immediate surroundings of the castle and the Corpus Christi Church. The castle's Eastern Gallery was demolished and rebuilt in 2006-2010 and a heating system has been planned for the mausoleum-church, both without benefit of an overall conservation plan. Some concerns have been raised about these and other recent rehabilitation and modernization works, and in general about the balance between repair and renewal. Protection and management requirements The castle, the church-mausoleum and the causeway that links them are in state ownership. The church-mausoleum, which has a religious function, is managed by the Ecclesiastical Council, while the causeway is under the management of the Nesvizh Region Executive Committee. The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh, which is a Property of National Significance, is administered by the National Historical and Cultural Museum-Reserve Nyasvizh, formed in 1996 in accordance with a Decree of the Cabinet of Ministers of the Republic of Belarus. In general, all activities related to the protection of the property are coordinated by the Department for the Protection of Historical and Cultural Heritage and Restoration in the Ministry of Culture of the Republic of Belarus. The Nesvizh General Plan (2007) controls the central part of the town and insures that the scale of development and the adaptation of buildings respect the character of the historic buildings. There is a Management Commission for the property established in 2005, and a Management Plan adopted by the decision of the Methodological Council on Historical and Cultural Heritage of the Ministry of Culture in 2006, and modified in 2010. The Management Plan seeks to organize the collective work for the protection of the Nesvizh urban landscape and the visual impact of interventions on the integrity of the urban environment within the property's buffer zone. The Management Plan for the property requires revision to respond to a very significant increase in the number of visits to the property and other pressures. Sustaining the Outstanding Universal Value of the Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh over time will require revising the Management Plan to address the significant increase in visits to the property and to clearly set out approaches for conservation, restoration and renewal, in particular concerning rehabilitation and modernization works, as well as to ensure that appropriate planning measures (such as a conservation plan) are in place and adopted in order to prevent interventions that could have a negative impact on the values, authenticity and integrity of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/751e81aa88adb1e4b072bfb8a46a9e43",
+          "filename": "site_1196_0003-500-0-20130916102532.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 681
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/124288/site_1196_0003.jpg",
+            "https://whc.unesco.org/document/124289/site_1196_0004.jpg",
+            "https://whc.unesco.org/document/124290/site_1196_0005.jpg",
+            "https://whc.unesco.org/document/124291/site_1196_0006.jpg",
+            "https://whc.unesco.org/document/124292/site_1196_0007.jpg",
+            "https://whc.unesco.org/document/124293/site_1196_0008.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1196",
+        "unesco_documents": "https://whc.unesco.org/en/list/1196/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1196/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1196/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh is located in central Belarus. The Radziwill dynasty, who built and kept the ensemble from the 16th century until 1939, gave birth to some of the most important personalities in European history and culture. Due to their efforts, the town of Nesvizh came to exercise great influence in the sciences, arts, crafts and architecture. The complex consists of the residential castle and the mausoleum Church of Corpus Christi with their setting. The castle has ten interconnected buildings, which developed as an architectural whole around a six-sided courtyard. The palaces and church became important prototypes marking the development of architecture throughout Central Europe and Russia. The Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh is located in central Belarus. The Radziwill dynasty, who built and kept the ensemble from the 16th century until 1939, gave birth to some of the most important personalities in European history and culture. Due to their efforts, the town of Nesvizh came to exercise great influence in the sciences, arts, crafts and architecture. The complex consists of the residential castle and the mausoleum Church of Corpus Christi with their setting. The castle has ten interconnected buildings, which developed as an architectural whole around a six-sided courtyard. The palaces and church became important prototypes marking the development of architecture throughout Central Europe and Russia. Belarus Europe and North America Cultural"
+    }
+  ]
+}

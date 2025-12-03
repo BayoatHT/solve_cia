@@ -1,0 +1,181 @@
+{
+  "site_key": "megaliths_of_carnac_and_of_the_shores_of_morbihan",
+  "uuid": "ceeeb346-1be9-57e0-9858-45bbbb021ab5",
+  "unesco_id": "1725",
+  "names": {
+    "en": "Megaliths of Carnac and of the shores of Morbihan",
+    "fr": "Mégalithes de Carnac et des rives du Morbihan",
+    "es": "Megalitos de Carnac y de las costas de Morbihan",
+    "ru": "Мегалиты Карнака и побережья Морбиана",
+    "ar": "الآثار الصخرية في كارناك وعلى سواحل موربيهان",
+    "zh": "卡纳克和莫尔比昂海岸巨石林"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "FRA": {
+        "name": "France",
+        "iso2": "FR",
+        "iso3": "FRA"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast.",
+      "fr": "Situé en Bretagne (France), ce bien en série comprend une forte densité de structures mégalithiques érigées durant la période néolithique – entre 5000 et 2300 avant notre ère, en tenant compte des spécificités géomorphologiques du territoire. Ces structures monumentales en pierre, alignées selon la topographie et l’hydrographie locales, témoignent d’une compréhension fine du milieu environnant. Le riche répertoire de gravures et d’objets précieux témoignent de l’occupation de la côte atlantique européenne par des sociétés qui ont développé une relation complexe avec leur environnement naturel.",
+      "es": "Esta zona de Bretaña, Francia, alberga una densa concentración de estructuras megalíticas construidas durante el Neolítico (c. 5000-2300 a.C.) cuidadosamente alineadas con la geomorfología única de la zona. Estas monumentales construcciones de piedra, dispuestas en relación entre sí y con elementos naturales como el terreno y los cursos de agua, reflejan una sofisticada comprensión del entorno. Ricos grabados y artefactos asociados ilustran además la complejidad cultural de las sociedades que habitaron esta parte de la costa atlántica europea.",
+      "ru": "Этот объект, расположенный в Бретани, Франция, представляет собой плотное скопление мегалитических сооружений, возведенных в период неолита (около 5000–2300 гг. до н.э.). Эти монументальные каменные постройки тщательно ориентированы с учетом уникальной геоморфологии местности. Их расположение — как друг относительно друга, так и относительно таких природных элементов, как ландшафт и водные пути, — свидетельствует о глубоком понимании окружающей среды теми, кто их создал. Многочисленные гравировки и артефакты дополнительно подчеркивают культурную сложность обществ, населявших эту часть Атлантического побережья Европы.",
+      "ar": "يضم هذا العنصر المتسلسل الواقع في منطقة بريتاني بفرنسا عدداً كبيراً من الهياكل الصخرية الضخمة التي شُيّدت خلال العصر الحجري الحديث (من 5000 إلى 2300 عاماً قبل الميلاد) بصورة تتماشى بعناية مع الخصائص الفريدة لعلم شكل الأرض في المنطقة. هذه الهياكل الحجرية الضخمة، المصطفة بصورة تراعي مختلف الهياكل وكذلك العناصر الطبيعية من تضاريس ومجاري مائية، مرآةٌ لفهم البيئة فهماً عميقاً. وتوضّح النقوش والآثار ذات الصلة بصورة مستفيضة مدى تعقيد وعمق ثقافة المجتمعات التي استوطنت هذا الجزء من الساحل الأطلسي الأوروبي.",
+      "zh": "这处位于法国布列塔尼大区的系列遗产，集中分布着大量造于新石器时代（约公元前5000-前2300年）的巨石遗迹，其布局与当地独特的地貌巧妙呼应。这些宏伟石构建筑既彼此协调排列，又呼应地形走势或水道流向，体现出先民对环境的深刻认知。遗址中丰富的刻纹及器物进一步展示了欧洲大西洋沿岸这一地区的社会文化复杂性。"
+    },
+    "full": "This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        1,
+        4
+      ],
+      "natural": [],
+      "all": [
+        1,
+        4
+      ],
+      "display": "(i)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 19598,
+      "square_km": 195.98,
+      "square_miles": 79.31,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/87bb0030a6b6245598bcb2874480ae6a",
+      "filename": "site_1725_0002.jpg",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/220206/site_1725_0002.jpg",
+        "https://whc.unesco.org/document/220207/site_1725_0003.jpg",
+        "https://whc.unesco.org/document/220208/site_1725_0004.jpg",
+        "https://whc.unesco.org/document/220209/site_1725_0005.jpg",
+        "https://whc.unesco.org/document/220210/site_1725_0006.jpg",
+        "https://whc.unesco.org/document/220211/site_1725_0007.jpg",
+        "https://whc.unesco.org/document/220212/site_1725_0008.jpg",
+        "https://whc.unesco.org/document/220213/site_1725_0009.jpg",
+        "https://whc.unesco.org/document/220214/site_1725_0010.jpg",
+        "https://whc.unesco.org/document/220215/site_1725_0011.jpg",
+        "https://whc.unesco.org/document/220839/site_1725_0012.jpg",
+        "https://whc.unesco.org/document/220841/site_1725_0013.jpg"
+      ],
+      "count": 12
+    }
+  },
+  "components": {
+    "count": 4,
+    "locations": [
+      {
+        "name": "Confluence des trois rivières (Aire 3)",
+        "ref": "1725-003",
+        "latitude": 47.5663888889,
+        "longitude": -2.8875
+      },
+      {
+        "name": "Plateau de Carnac - Bassin du Gouyanzeur (Aire 1)",
+        "ref": "1725-001",
+        "latitude": 47.6161111111,
+        "longitude": -3.0872222222
+      },
+      {
+        "name": "Confluence des rivières du Bono et d'Auray (Aire 4)",
+        "ref": "1725-004",
+        "latitude": 47.6388888889,
+        "longitude": -2.9677777778
+      },
+      {
+        "name": "Presqu'île de Quiberon - Bassin de Kerboulevin (Aire 2)",
+        "ref": "1725-002",
+        "latitude": 47.5044444444,
+        "longitude": -3.1297222223
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1725",
+    "unesco_documents": "https://whc.unesco.org/en/list/1725/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1725/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1725/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Megaliths of Carnac and of the shores of Morbihan This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast. This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast. France Europe and North America Cultural"
+}

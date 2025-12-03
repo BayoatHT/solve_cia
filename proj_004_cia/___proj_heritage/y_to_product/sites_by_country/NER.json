@@ -1,0 +1,597 @@
+{
+  "country": {
+    "code": "NER",
+    "name": "Niger"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "w_arly_pendjari_complex",
+      "uuid": "54781160-1361-500f-b4a6-7301e4bbc2fe",
+      "unesco_id": "749",
+      "names": {
+        "en": "W-Arly-Pendjari Complex",
+        "fr": "Complexe W-Arly-Pendjari",
+        "es": "Conjunto de la W, Arly y Pendjari",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BEN": {
+            "name": "Benin",
+            "iso2": "BJ",
+            "iso3": "BEN"
+          },
+          "NER": {
+            "name": "Niger",
+            "iso2": "NE",
+            "iso3": "NER"
+          },
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+          "fr": "Cette extension transnationale (Bénin, Burkina Faso) au Parc national du W au Niger, inscrit en 1996 sur la Liste du patrimoine mondial, couvre une vaste étendue de savane soudano-sahélienne intacte, avec des types de végétation comme les prairies, les brousses arbustives, les savanes boisées ou les vastes forêts-galeries. Il s’agit du plus grand et du plus important continuum d’écosystèmes terrestres, semi-aquatiques et aquatiques de la ceinture de savanes d’Afrique de l’Ouest. Le bien sert de refuge à des espèces animales qui ont disparu ailleurs en Afrique de l’Ouest ou sont très menacées. Il accueille notamment la plus grande population d’éléphants d’Afrique de l’Ouest et la plupart des grands mammifères typiques de la région, comme le lamantin d’Afrique, le guépard, le lion ou le léopard. Il abrite aussi la seule population viable de lions de la région.",
+          "es": "Esta extensión transnacional del Parque Nacional de la W del Níger, inscrito en 1996, abarca terrenos pertenecientes a Benin y Burkina Faso. El sitio es una vasta sabana intacta de tipo sudanés-saheliano con diversas clases de formaciones vegetales: praderas, malezas arbustivas, sabanas boscosas y bosques abiertos. Constituye el conjunto más vasto y continuo de ecosistemas de sabana terrestres, acuáticos y semiacuáticos del África Occidental. Su territorio no sólo sirve de refugio a especies animales amenazadas o en peligro de extinción, sino que además alberga la mayor población de elefantes y la única población viable de leones del África Occidental, y también una gran mayoría de los grandes mamíferos característicos de esta región, como manatíes, gatopardos y leopardos.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+        "justification": "Brief synthesis The W-Arly-Pendjari Complex is a transnational property shared between the Republic of Niger, Burkina Faso and the Republic of Benin in West Africa. Located in the transition zone between the savannas of the Sudanese region and the forested Guinean region, the W-Arly-Pendjari Complex lies at the heart of the most extensive protected area block in the West African Woodlands/Savanna Biogeographical Province and includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. The property encompasses 1,714,831 ha and is a contiguous mosaic of nine protected areas. It includes the trinational complex of W Regional Park (shared between Benin, Burkina Faso and Niger), Arly National Park (Burkina Faso), Pendjari National Park (Benin) and the hunting zones of Koakrana and Kourtiagou (Burkina Faso) and Konkombri and Mékrou (Benin). Criterion (ix): Stretching across three countries, W-Arly-Pendjari Complex is the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. Situated within the Volta River basin it comprises a dynamic system, where the ebb and flow of water with alternating wet and dry seasons creates a rich variety of plant communities and associated fauna. The Complex is a major expanse of intact Sudano-Sahelian savanna, with numerous and diverse types of vegetation such as grassland, shrub, wooded savannah, open forests and extensive gallery and riparian forests as well as the rare semi-deciduous forest of Bondjagou within Pendjari National Park. The long-term effects of fire linked to human occupation, perhaps dating back some 50,000 years, have shaped the vegetation of the property, and the continued traditional use of fire maintains the diversity of vegetation types, which in turn provide habitat for the property’s characteristic wildlife. Criterion (x): The property and the broader landscape are a refuge for species of fauna that have disappeared or are highly threatened in most of the rest of West Africa. The W-Arly-Pendjari Complex is particularly crucial to the conservation of the last healthy populations of mammals belonging to the Sahelian and Sudanian domains. The Complex includes the largest and most ecologically secure elephant population in West Africa, representing 85% of the region's savanna elephants. It also protects almost the complete assemblage of characteristic flora and fauna, providing crucial habitat for most of the large mammal species typical of West Africa, such as African Manatee, Cheetah, Lion, Leopard, African Wild Dog and Topi Antelope. It harbours the only viable population of lion in the area and probably the only population of cheetah in West Africa. The site exhibits particularly high levels of endemism among fish species and is home to seven of the nine endemic fish species reported in the Volta Basin. Integrity The W-Arly-Pendjari Complex is of sufficient size to permit unimpeded ecological function and the overall integrity of the system is good amongst protected areas in West Africa, many of which have suffered significant degradation from anthropogenic pressures. Covering a comparatively large area of 1,714,831 ha, the trinational property contains a representative suite of Sudano-Sahelian ecosystems that are in good condition. It includes a large variety of habitats indispensable for the survival of characteristic species and is large enough to support the healthy populations of large mammal species such as elephant and lion which range over wide territories. The W National Park and the Arly-Pendjari Regional Park complexes are connected through the four hunting reserves, allowing for connectivity across the property and free movements of animals in the complex. Hunting within the hunting reserves has, to date, been sustainably managed and these reserves include natural systems and habitat that are regarded as being of a similar quality to that within the national parks, thereby enhancing resilience. The hunting reserves would be considered equivalent to IUCN Category VI and the activity, at the time of inscription, does not appear to be negatively impacting on the property’s Outstanding Universal Value as a whole. The buffer zone of W-Arly-Pendjari Complex consists of areas of different protection status (hunting reserves, wildlife reserves, and special legally designated buffer zones) all established by national laws and covers a total area of 1,332,147 ha. The buffer zones are designed to strengthen integrity and are managed as to mitigate impacts from surrounding human activities. Protection and management requirements The property benefits from long-term legal protection through national laws and receives financial and technical support from the States and some development partners. Five of the protected areas making up the W-Arly-Pendjari Complex are protected as national parks (managed as IUCN Category II). The four hunting reserves within Benin and Burkina Faso are also managed under the same regime as national parks, noting that sustainable hunting is permitted. The hunting in these reserves is regulated through annual quotas, closely monitored and aimed at generating benefits for local communities and conservation of nature. Although the boundaries of the property are clearly defined, known by the surrounding population and regulated, there are threats such as poaching, illegal grazing and encroachment of agricultural land which persist. Adequate measures must be undertaken to address these threats including working closely with agricultural development sectors to regulate, incentivize and raise awareness among communities surrounding the property. Monitoring of the scale of transhumance activities, which are a long-standing use, is important to ensure so that it remains sustainable in relation to the property’s Outstanding Universal Value. The property is managed in Benin by the Centre National de Gestion des Réserves de Faune (CENAGREF); in Burkina Faso, Arly National Park is managed by the Office National des Aires Protégées (OFINAP) and W National Park, Burkina Faso is managed by the Direction Générale des Eaux et Forêts (DGEF). The W National Park, Niger is managed by the Direction Générale des Eaux et Forêts (DGEF) / Ministère de l'Environnement et du Développement Durable (MEDD). The multi-agency responsibilities across the three States Parties require considerable and sustained effort to ensure effective coordination and harmonization of protected area policies and practice. All national parks in the Complex have a 10-year management plan all following a joint “Schéma Directeur d’Aménagement du complexe” to foster coordination. A workable system of transboundary governance is in place under a tripartite management agreement (now quadripartite with the integration of the State Party of Togo). However, ongoing efforts are needed to improve the levels of transnational cooperation for the property. Ongoing attention is needed to ensure that the traditional application of fire continues to support fire regimes which maintain Outstanding Universal Value, particularly under the influence of climate change. Similarly the three States Parties should work cooperatively with UEMOA (Union Economique et Monétaire Ouest Africaine) to plan, monitor and act such that transhumance movements taking place in the property and its buffer zones do not adversely impact on the Outstanding Universal Value. There is also a need to sustain long-term adequate funding for the W-Arly-Pendjari Complex. The States Parties should ensure that adequate government funding is provided to manage the Complex and the necessary coordination. The West African Savannah Foundation (FSOA) created in 2012 is an endowment fund which requires further investment to ensure sustainability. It is critical that the FSOA becomes a source of funding for the entire Complex and continues to be supported and grow. Furthermore, it is important that all protected areas within the Complex are eligible to access this endowment fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1714831,
+          "square_km": 17148.31,
+          "square_miles": 6939.686,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996,
+            2017
+          ],
+          "extensions": [
+            2017
+          ],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3d04dea2d10f98ec9e8cf54015fd790c",
+          "filename": "site_0749_0001.jpg",
+          "dimensions": {
+            "width": 8100,
+            "height": 4147
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113111/site_0749_0001.jpg",
+            "https://whc.unesco.org/document/135503/site_0749_0002.jpg",
+            "https://whc.unesco.org/document/135504/site_0749_0003.jpg",
+            "https://whc.unesco.org/document/135505/site_0749_0004.jpg",
+            "https://whc.unesco.org/document/135506/site_0749_0005.jpg",
+            "https://whc.unesco.org/document/135508/site_0749_0007.jpg",
+            "https://whc.unesco.org/document/135509/site_0749_0008.jpg",
+            "https://whc.unesco.org/document/135510/site_0749_0009.jpg",
+            "https://whc.unesco.org/document/135511/site_0749_0010.jpg",
+            "https://whc.unesco.org/document/135512/site_0749_0011.jpg",
+            "https://whc.unesco.org/document/135513/site_0749_0012.jpg",
+            "https://whc.unesco.org/document/135514/site_0749_0013.jpg",
+            "https://whc.unesco.org/document/135515/site_0749_0014.jpg",
+            "https://whc.unesco.org/document/135516/site_0749_0015.jpg",
+            "https://whc.unesco.org/document/135517/site_0749_0016.jpg",
+            "https://whc.unesco.org/document/135518/site_0749_0017.jpg",
+            "https://whc.unesco.org/document/135519/site_0749_0018.jpg",
+            "https://whc.unesco.org/document/135520/site_0749_0019.jpg",
+            "https://whc.unesco.org/document/135521/site_0749_0020.jpg",
+            "https://whc.unesco.org/document/135522/site_0749_0021.jpg",
+            "https://whc.unesco.org/document/135523/site_0749_0022.jpg",
+            "https://whc.unesco.org/document/135524/site_0749_0023.jpg",
+            "https://whc.unesco.org/document/135525/site_0749_0024.jpg",
+            "https://whc.unesco.org/document/135526/site_0749_0025.jpg",
+            "https://whc.unesco.org/document/135527/site_0749_0026.jpg",
+            "https://whc.unesco.org/document/135528/site_0749_0027.jpg",
+            "https://whc.unesco.org/document/135529/site_0749_0028.jpg",
+            "https://whc.unesco.org/document/135530/site_0749_0029.jpg",
+            "https://whc.unesco.org/document/135531/site_0749_0030.jpg",
+            "https://whc.unesco.org/document/135532/site_0749_0031.jpg",
+            "https://whc.unesco.org/document/147408/site_0749_0032.jpg",
+            "https://whc.unesco.org/document/147409/site_0749_0033.jpg",
+            "https://whc.unesco.org/document/147410/site_0749_0034.jpg",
+            "https://whc.unesco.org/document/147411/site_0749_0035.jpg",
+            "https://whc.unesco.org/document/147412/site_0749_0036.jpg",
+            "https://whc.unesco.org/document/147413/site_0749_0037.jpg",
+            "https://whc.unesco.org/document/147414/site_0749_0038.jpg",
+            "https://whc.unesco.org/document/147415/site_0749_0039.jpg",
+            "https://whc.unesco.org/document/147416/site_0749_0040.jpg",
+            "https://whc.unesco.org/document/147417/site_0749_0041.jpg",
+            "https://whc.unesco.org/document/147418/site_0749_0042.jpg",
+            "https://whc.unesco.org/document/147419/site_0749_0043.jpg",
+            "https://whc.unesco.org/document/147420/site_0749_0044.jpg",
+            "https://whc.unesco.org/document/147421/site_0749_0045.jpg",
+            "https://whc.unesco.org/document/147422/site_0749_0046.jpg",
+            "https://whc.unesco.org/document/147423/site_0749_0047.jpg",
+            "https://whc.unesco.org/document/147424/site_0749_0048.jpg",
+            "https://whc.unesco.org/document/147425/site_0749_0049.jpg",
+            "https://whc.unesco.org/document/147426/site_0749_0050.jpg",
+            "https://whc.unesco.org/document/147427/site_0749_0051.jpg",
+            "https://whc.unesco.org/document/147428/site_0749_0052.jpg",
+            "https://whc.unesco.org/document/147429/site_0749_0053.jpg",
+            "https://whc.unesco.org/document/147430/site_0749_0054.jpg",
+            "https://whc.unesco.org/document/147431/site_0749_0055.jpg",
+            "https://whc.unesco.org/document/147432/site_0749_0056.jpg",
+            "https://whc.unesco.org/document/147433/site_0749_0057.jpg",
+            "https://whc.unesco.org/document/147434/site_0749_0058.jpg",
+            "https://whc.unesco.org/document/147435/site_0749_0059.jpg",
+            "https://whc.unesco.org/document/147436/site_0749_0060.jpg",
+            "https://whc.unesco.org/document/147437/site_0749_0061.jpg",
+            "https://whc.unesco.org/document/147438/site_0749_0062.jpg",
+            "https://whc.unesco.org/document/147439/site_0749_0063.jpg",
+            "https://whc.unesco.org/document/147440/site_0749_0064.jpg",
+            "https://whc.unesco.org/document/147441/site_0749_0065.jpg",
+            "https://whc.unesco.org/document/147442/site_0749_0066.jpg",
+            "https://whc.unesco.org/document/147443/site_0749_0067.jpg",
+            "https://whc.unesco.org/document/147444/site_0749_0068.jpg",
+            "https://whc.unesco.org/document/147445/site_0749_0069.jpg",
+            "https://whc.unesco.org/document/147446/site_0749_0070.jpg",
+            "https://whc.unesco.org/document/147447/site_0749_0071.jpg",
+            "https://whc.unesco.org/document/147448/site_0749_0072.jpg",
+            "https://whc.unesco.org/document/147449/site_0749_0073.jpg",
+            "https://whc.unesco.org/document/147450/site_0749_0074.jpg",
+            "https://whc.unesco.org/document/147451/site_0749_0075.jpg",
+            "https://whc.unesco.org/document/147452/site_0749_0076.jpg",
+            "https://whc.unesco.org/document/147453/site_0749_0077.jpg",
+            "https://whc.unesco.org/document/147454/site_0749_0078.jpg",
+            "https://whc.unesco.org/document/147455/site_0749_0079.jpg"
+          ],
+          "count": 78
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.8841666667,
+            "longitude": 2.6544444444
+          },
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.9,
+            "longitude": 2.1616666667
+          },
+          {
+            "name": "W National Park of Niger",
+            "ref": "749ter-001",
+            "latitude": 12.317,
+            "longitude": 2.272
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/749",
+        "unesco_documents": "https://whc.unesco.org/en/list/749/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/749/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/749/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "W-Arly-Pendjari Complex This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. Benin Niger Burkina Faso Africa Natural"
+    },
+    {
+      "site_key": "air_and_tenere_natural_reserves",
+      "uuid": "35a49bcd-bfee-5409-9f0b-af0964dc0d6c",
+      "unesco_id": "573",
+      "names": {
+        "en": "Air and Ténéré Natural Reserves",
+        "fr": "Réserves naturelles de l'Aïr et du Ténéré",
+        "es": "Reservas naturales del Air y el Teneré",
+        "ru": "Природные резерваты Аир и Тенере",
+        "ar": "محميتا الأيير والتينيري الطبيعيتَيْن",
+        "zh": "阿德尔和泰内雷自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NER": {
+            "name": "Niger",
+            "iso2": "NE",
+            "iso3": "NER"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.",
+          "fr": "C'est la plus grande aire protégée d'Afrique, avec 7,7 millions d'hectares. La zone considérée comme sanctuaire protégé n'en représente que le sixième. Elle comprend le massif éruptif de l'Aïr, îlot sahélien isolé dans le désert saharien du Ténéré par son climat, sa flore et sa faune. Les réserves possèdent un ensemble exceptionnel de paysages, d'espèces végétales et d'animaux sauvages.",
+          "es": "Estas reservas se extienden por una superficie de 7.700.000 hectáreas y forman la zona natural protegida más vasta de toda África, aunque el santuario propiamente dicho sólo abarca una sexta parte de esa extensión. El sitio comprende el macizo volcánico del Air, islote saheliano situado en medio del desierto sahariano del Teneré, con un clima, flora y fauna totalmente singulares. La variedad de los paisajes y las especies vegetales y animales de las reservas es excepcional.",
+          "ru": "Это самая крупная охраняемая территория во всей Африке, площадью около 7,7 млн. га. При этом зона наиболее строгой охраны (местообитание исчезающей антилопы аддакс) занимает примерно 1/6 часть указанной площади. Резерваты включают два участка: гористый массив вулканического происхождения Аир, с более влажным климатом, разнообразными ландшафтами, и весьма богатой флорой и фауной, а также Тенере – песчаный участок пустыни Сахара.",
+          "ar": "إنّها أكبر مساحة محميّة في أفريقيا تبلغ 7.7 مليون هكتار. فالمنطقة التي تُعتبر كمعبد محمي لا تمثل سوى السُّدس. وهي تتضمَّن كتلة الايير البركانية، وهي جزيرة صغيرة سهلانيّة منزويّة في صحراء تينيري المتميّزة بمناخها وبتشكيلة النباتات ومجموعة الحيوانات فيها. إذ تملك المحميّتان مجموعةً فريدةً من المناظر الطبيعيّة وأنواع النباتات والحيوانات البريّة.",
+          "zh": "阿德尔和泰内雷自然保护区是非洲最大的自然保护区，占地约770万公顷，但整个区域只有约占面积六分之一的地区被认为真正具有保护意义。该地区包括阿德尔火山断层和小萨赫勒地区，该地区虽然位于泰内雷的撒哈拉沙漠，但是那里的气候、动物和植物却与周围地区明显不同。阿德尔和泰内雷自然保护区以拥有各异的环境、多样化的植物和野生动物而著称。"
+        },
+        "full": "This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.",
+        "justification": "Brief synthesis The Aïr and Ténéré Natural Reserves is one of the largest protected areas in Africa, covering 7,736,000 hectares. It is the last bastion of Saharo-Sahelian wildlife in Niger. It comprises two main zones : the mountain massifs of Aïr rising up to 2000 m in altitude and the vast plain of the Ténéré desert. In the heart of a desert environment, the Aïr represents a small pocket of Sahelian plant life with Sudanese and Saharo-Mediterranean elements. Criterion (vii): The Aïr constitutes a Sahelian enclave surrounded by a Saharian desert, thus forming a remarkable assemblage of relict ecosystems combined with mountain and plain landscapes of outstanding esthetic value and interest. The live dunes of the Ténéré rapidly modify the landscape through displacement and deposition of sand. The region contains the blue marble mountains that represent an exceptional aesthetic interest. Criterion (ix): The Reserve of Aïr and Ténéré is the last bastion of Saharo-Sahlien wildlife in Niger. The isolation of the Aïr and the very minor human presence are the reasons for the survival in this region of numerous wildlife species that have been eliminated from other regions of the Sahara and the Sahel. The property contains a wide variety of habitats (living dunes, fixed dunes, stoney gravel desert, cliff valleys, canyons, high plateaus, water holes, etc.) necessary for the conservation of the Saharo Sahelian biological diversity. Criterion (x): The property contains important natural habitats for the survival of the three antelopes of the Sahara Desert on IUCN's Red List of threatened species: the Dorcus gazelle (Gazella dorcas dorcas); the Leptocere gazelle (Gazella leptoceros); and the Addax (screwhorn antelope) (Addax nasomaculatus). About a sixth of the Reserve benefits from the statute of sanctuary for the protection of the Addax. The property contains important populations of species of ungulates of the Sahara and species of carnivore such as the fennec fox, Rüppells fox, and the cheetah. The massif of the Aïr also constitutes a transit zone for a large number of afrotropical and palaearctic migratory birds. In total, 40 species of mammals, 165 species of birds, 18 species of reptiles and one amphibian species have been identified in the Reserve. As concerns the flora, the steppe contains species of Acacia ehrenbergiana, Acacia raddiana, Balanites aegyptiaca, Maerua crassifolia, and at lower altitudes species of Panicum turgidum and Stipagrostis vulnerans. In the larger valleys where water in the alluvial reservoirs is plentiful, a very specific habitat has developed associating a dense ligneous stratum of doum palms, date palms, Acacia nilotica, Acacia raddiana, Boscia senegalensis, Salvadora persica, and a herbaceous stratum with among others, Stipagrostis vulnerans. Integrity The property is one of the largest protected areas in Africa covering a surface of 7,736,000 ha. Its central part (1,280,500ha) is listed as a strict reserve (Addax Sanctuary). As the desert species are found in very low densities, this large size is essential for their survival. In the boundaries of the Aïr mountains and the Ténéré desert, the boundaries are marked at all the principal entry points. An extension in the south-west to include a site for wildlife under certain rainfall conditions and to take into account a migration of Addax south-east to the Mt Termit region is under consideration. Protection and management requirements The property was inscribed on the List of World Heritage in Danger in 1992 due to political instability and dissention among the populations. The property benefits from legal protection and satisfactory management, with technical and financial support from the State and development partners. It does not have a management plan. Hunting and exploitation of wood products are forbidden in the Reserve; and access to the Addax Sanctuary is also strictly forbidden. Poaching and illegal grazing are the main threats that endanger the property. These threats are finding the beginnings of a solution with surveillance and awareness raising activities but much remains to be done to completely eliminate them. To minimize these problems, the physical presence of the management authorities in the Reserve needs to be strengthened; the respective land-use rights and access to resources by the local populations requires clarification, monitoring and surveillance of the property needs to be improved to combat the problems of poaching and the illegal extraction of natural resources and halt the collection of wood and haulm in the property for commercial purposes. The sustainable development and conservation of this property requires the strengthening of financial and technical support from the State and the development partners, in order to establish a development and management plan for the site, for efficient implementation a framework for inter-communal concertation, and to agree on the co-management of the natural resources of the property by the State and the concerned communities."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 7736000,
+          "square_km": 77360.0,
+          "square_miles": 31306.53,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1991,
+          "all_dates": [
+            1991
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1991,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1992",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3948a6d1485c0d854f5ec5f23f851c75",
+          "filename": "site_0573_0001-500-0-20091005134412.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 324
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111208/site_0573_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Air and Ténéré Natural Reserves",
+            "ref": "573",
+            "latitude": 19.0761926358,
+            "longitude": 9.6619999976
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/573",
+        "unesco_documents": "https://whc.unesco.org/en/list/573/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/573/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/573/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 34,
+        "inscription_year": 1991
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Air and Ténéré Natural Reserves This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals. This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals. Niger Africa Natural"
+    },
+    {
+      "site_key": "historic_centre_of_agadez",
+      "uuid": "72e73ec8-e3ee-5b57-840a-3345518dadc1",
+      "unesco_id": "1268",
+      "names": {
+        "en": "Historic Centre of Agadez",
+        "fr": "Centre historique d’Agadez",
+        "es": "Centro histórico de la ciudad de Agadez",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NER": {
+            "name": "Niger",
+            "iso2": "NE",
+            "iso3": "NER"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Known as the gateway to the desert, Agadez, on the southern edge of the Sahara desert, developed in the 15th and 16th centuries when the Sultanate of Aïr was established and Touareg tribes were sedentarized in the city, respecting the boundaries of old encampments, which gave rise to a street pattern still in place today. The historic centre of the city, an important crossroads of the caravan trade, is divided into 11 quarters with irregular shapes. They contain numerous earthen dwellings and a well-preserved group of palatial and religious buildings including a 27m high minaret made entirely of mud brick, the highest such structure in the world. The site is marked by ancestral cultural, commercial and handicraft traditions still practiced today and presents exceptional and sophisticated examples of earthen architecture.",
+          "fr": "Considérée comme la « porte du désert », la cité d’Agadez, sur les franges sud-est du désert du Sahara, remonte aux 15e et 16e siècles. Le sultanat de l’Aïr s’y installe à cette époque ; il favorise le regroupement de tribus touarègues tout en respectant les anciens campements, ce qui conduit à une trame viaire originale et toujours respectée. Le centre historique, importante étape du commerce caravanier, est divisé en onze quartiers aux formes irrégulières. Ils abritent de nombreuses habitations en terre (banco) et un ensemble palatial et religieux bien conservé, avec notamment un minaret d’adobe de 27 mètres qui est le plus haut jamais construit en terre crue. Le site a développé jusqu’à aujourd’hui sa tradition culturelle, commerciale et artisanale et il offre des exemples particulièrement sophistiqués d’architecture en terre.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Known as the gateway to the desert, Agadez, on the southern edge of the Sahara desert, developed in the 15th and 16th centuries when the Sultanate of Aïr was established and Touareg tribes were sedentarized in the city, respecting the boundaries of old encampments, which gave rise to a street pattern still in place today. The historic centre of the city, an important crossroads of the caravan trade, is divided into 11 quarters with irregular shapes. They contain numerous earthen dwellings and a well-preserved group of palatial and religious buildings including a 27m high minaret made entirely of mud brick, the highest such structure in the world. The site is marked by ancestral cultural, commercial and handicraft traditions still practiced today and presents exceptional and sophisticated examples of earthen architecture.",
+        "justification": "Brief synthesis The historic centre of Agadez dates back to the 15th and 16th centuries, when the Sultanate of Aïr established itself there, encouraging the consolidation of Tuareg tribes and the development of trans-Saharan economic and cultural exchanges. Sedentarisation took place based around the former encampments, which led to an original street plan, which is still respected today. The historic centre includes a large amount of housing, and a well preserved palatial and religious ensemble, including a tall minaret made entirely of mudbrick. The old town is characterised by mudbrick architecture and a decorative style that are specific to the Aïr region. The traditional sultanate system is still in place, ensuring social unity and economic prosperity. It is a living historic centre inhabited by about 20,000 people. Criterion (ii): From the 15th century, Agadez, “the gateway to the desert”, became an exceptional crossroads for the caravan trade. It bears witness to an early historic town, forming a major centre for trans-Saharan cultural interchanges. Its architecture embodies a synthesis of stylistic influences in an original urban ensemble, made entirely of mudbrick and which is specific to the Aïr region. Criterion (iii): The historic town and its outstanding monumental ensemble, including the Grand Mosque, with its minaret, the tallest ever constructed in mudbrick, and the Sultan’s Palace, bear witness to an exceptional architectural tradition, based on sophisticated use of mudbrick. For more than five centuries, the city has developed a cultural, commercial and handicraft tradition, based on the continuity of the Sultanate of Aïr, up to the present day. Integrity The boundaries of the nominated property are those of the historic centre. The overall urban fabric is well preserved, and is spatially organised around the politico-religious monuments linked to the Sultanate of Aïr. A significant number of houses (easily a majority) have been preserved, which allows the satisfactory expression of the specific values linked to the mudbrick architecture and decoration specific to the Aïr region. The nominated property has good visual unity from many observation points, and gives the visitor the sense of being in an historic town of great integrity. There are however some significant local alterations: inappropriate buildings made of breeze blocks, the use of corrugated iron for roofs, an overhead electricity cable network which is particularly visible and unsightly, and the appearance of large advertisements painted on walls. Authenticity The authenticity of the component parts of the property is generally satisfactory, particularly for the monuments and palaces, except for the window and door frames, which have often been renewed using non-traditional materials. The authenticity of the housing is good, but it is also threatened by the use of modern materials which do not respect tradition: breeze blocks, cement-based plasters, metal elements and corrugated metal, and the appearance of painted advertisements in aggressive colours. Management and protection requirements The property is in a good general state of conservation. The religious monuments and palaces are well maintained, under the responsibility of the sultan and of the neighbourhood chiefs. In the case of the houses, the situation is more variable. The property is protected by national legislation and by the traditional local power of the sultanate, with its system of neighbourhood chiefs and committees. Town planning regulations were recently instituted for the property inside the protected perimeter; the building permit regulations must however be implemented in a way that is both homogeneous and educational, so that the population is informed about the values of the property and the maintenance efforts required for its conservation. The putting in place of the Property Conservation and Management Unit must be completed, and the Unit must be provided with sufficient staffing and material resources to carry out its missions. The definition and organisation of the monitoring of the property must be specifically stated."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 77.6,
+          "square_km": 0.78,
+          "square_miles": 0.314,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2013,
+          "all_dates": [
+            2013
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2013,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/175717c6af5f45aae7c72570e52199b7",
+          "filename": "site_1268_0019-500-0-20221130121443.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 760
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/124086/site_1268_0019.jpg",
+            "https://whc.unesco.org/document/124087/site_1268_0020.jpg",
+            "https://whc.unesco.org/document/123299/site_1268_0002.jpg",
+            "https://whc.unesco.org/document/124071/site_1268_0004.jpg",
+            "https://whc.unesco.org/document/124072/site_1268_0005.jpg",
+            "https://whc.unesco.org/document/124073/site_1268_0006.jpg",
+            "https://whc.unesco.org/document/124074/site_1268_0007.jpg",
+            "https://whc.unesco.org/document/124075/site_1268_0008.jpg",
+            "https://whc.unesco.org/document/124076/site_1268_0009.jpg",
+            "https://whc.unesco.org/document/124077/site_1268_0010.jpg",
+            "https://whc.unesco.org/document/124078/site_1268_0011.jpg",
+            "https://whc.unesco.org/document/124079/site_1268_0012.jpg",
+            "https://whc.unesco.org/document/124081/site_1268_0014.jpg",
+            "https://whc.unesco.org/document/124082/site_1268_0015.jpg",
+            "https://whc.unesco.org/document/124083/site_1268_0016.jpg",
+            "https://whc.unesco.org/document/124084/site_1268_0017.jpg",
+            "https://whc.unesco.org/document/124088/site_1268_0021.jpg",
+            "https://whc.unesco.org/document/124089/site_1268_0022.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Agadez",
+            "ref": "1268",
+            "latitude": 16.9736111111,
+            "longitude": 7.9913888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1268",
+        "unesco_documents": "https://whc.unesco.org/en/list/1268/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1268/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1268/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 12,
+        "inscription_year": 2013
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Agadez Known as the gateway to the desert, Agadez, on the southern edge of the Sahara desert, developed in the 15th and 16th centuries when the Sultanate of Aïr was established and Touareg tribes were sedentarized in the city, respecting the boundaries of old encampments, which gave rise to a street pattern still in place today. The historic centre of the city, an important crossroads of the caravan trade, is divided into 11 quarters with irregular shapes. They contain numerous earthen dwellings and a well-preserved group of palatial and religious buildings including a 27m high minaret made entirely of mud brick, the highest such structure in the world. The site is marked by ancestral cultural, commercial and handicraft traditions still practiced today and presents exceptional and sophisticated examples of earthen architecture. Known as the gateway to the desert, Agadez, on the southern edge of the Sahara desert, developed in the 15th and 16th centuries when the Sultanate of Aïr was established and Touareg tribes were sedentarized in the city, respecting the boundaries of old encampments, which gave rise to a street pattern still in place today. The historic centre of the city, an important crossroads of the caravan trade, is divided into 11 quarters with irregular shapes. They contain numerous earthen dwellings and a well-preserved group of palatial and religious buildings including a 27m high minaret made entirely of mud brick, the highest such structure in the world. The site is marked by ancestral cultural, commercial and handicraft traditions still practiced today and presents exceptional and sophisticated examples of earthen architecture. Niger Africa Cultural"
+    }
+  ]
+}

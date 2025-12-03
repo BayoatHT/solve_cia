@@ -1,0 +1,1111 @@
+{
+  "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "curonian_spit",
+      "uuid": "e0ccdf0b-16c7-5703-9e0b-8bc4da563bf2",
+      "unesco_id": "994",
+      "names": {
+        "en": "Curonian Spit",
+        "fr": "Isthme de Courlande",
+        "es": "Istmo de Curlandia",
+        "ru": "Куршская коса",
+        "ar": "برزخ كورلاند",
+        "zh": "库尔斯沙嘴"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects.",
+          "fr": "L'occupation humaine de cette étroite péninsule de dunes de sable, longue de 98 km et large de 0,4 à 4 km, remonte aux temps préhistoriques. Depuis cette période, elle a été sous la menace des forces naturelles du vent et des vagues. Elle ne doit sa préservation actuelle qu'aux efforts incessants des habitants pour combattre l'érosion de l'isthme, efforts remarquablement illustrés par les projets continus de stabilisation et de reboisement.",
+          "es": "La ocupación humana de esta estrecha península de dunas de arena –de 98 km. de largo y 0,4 a 4 km de ancho– data de los tiempos prehistóricos. Sometido a los continuos embates del viento y las olas, el istmo debe su estado de conservación actual a los denodados esfuerzos realizados por sus habitantes para contrarrestar la erosión. Esta labor incesante la ilustran los continuos proyectos de estabilización y repoblación forestal que se llevan a cabo.",
+          "ru": "Освоение человеком этого узкого песчаного полуострова, имеющего протяженность 98 км и ширину от 400 м до 4 км, началось еще в доисторические времена. Коса подвергалась также воздействию природных сил – ветра и морских волн. Сохранение этого уникального культурного ландшафта до наших дней стало возможным только благодаря непрекращающейся борьбе человека с процессами эрозии (закрепление дюн, лесопосадки).",
+          "ar": "يرقى الوجود البشري في شبه الجزيرة الضيّقة هذه المكوّنة من كثبان الرمل على طول 98 كيلومترا وعرض 0.4 إلى 4 أمتار إلى حقبة ما قبل التاريخ وهي تعرّضت مذ ذاك لأهواء الطبيعة من هواء وأمواج. وهي تدين بوضعها الحالي لجهود السكان المتتابعة لمكافحة تعرية البرزخ وهي جهود جسّدتها مشاريع مستمّرة لإرساء الاستقرار وإعادة التشجير.",
+          "zh": "这个延伸出来的沙丘半岛长98公里，宽0.4-4公里，史前时代就有人类居住。自古以来，这里受到了海风、潮汐等自然力量的威胁，由于一代又一代的人通过不断的造林固沙工程与沙嘴的侵蚀进行搏斗，使遗址如今得以存在。"
+        },
+        "full": "Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects.",
+        "justification": "Brief synthesis The Curonian Spit is a unique and vulnerable, sandy and wooded cultural landscape on a coastal spit which features small Curonian lagoon settlements. The Spit was formed by the sea, wind and human activity and continues to be shaped by them. Rich with an abundance of unique natural and cultural features, it has retained its social and cultural importance. Local communities adapted to the changes in the natural environment in order to survive. This interaction between humans and nature shaped the Curonian Spit cultural landscape. The history of the Curonian Spit is dramatic: 5,000 years ago, a narrow peninsula (98 km in length and 0.4-3.8 km in width), the Great Dune Ridge separating the Baltic Sea from the Curonian Lagoon, was formed on moraine islands from sand transported by currents, and later covered by forest. After intensive logging in the 17th and 18th centuries, the dunes began moving towards the Curonian Lagoon, burying the oldest settlements. At the turn of the 19th century, it became evident that human habitation would no longer be possible in the area without immediate action. Dune stabilisation work began, and has continued ever since. By the end of the 19th century, a protective dune ridge was formed along the seashore to prevent inland sand migration, and the Great Dune Ridge was reinforced using trees and brushwood hedges. Currently, forests and sands dominate the Curonian Spit. Urbanised areas (eight small settlements) cover just about 6% of the land. The most valuable elements and qualities of the Curonian Spit cultural landscape are its unique size and general spatial structure, demonstrating the harmonious coexistence between humans and nature; the characteristic panoramas and the silhouette of the Curonian lagoon; cultural elements including the remains of postal tracks, trade villages from the 10th and 11th centuries, traditional fishermen villages and other archaeological heritage covered by sand; the spatial-planned structure and architecture of ancient fishermen villages turned into resort settlements (ancient wooden fishermen houses, professionally designed buildings of the 19th century, including lighthouses, piers, churches, schools, villas); and elements of marine cultural heritage; natural and human-made elements including the distinctive Great Dune Ridge and individual dunes, relics of ancient parabolic dunes; a human-made protective coastal dune ridge; relics of moraine islands, seacoast and littoral forests and littoral capes; ancient forests, mountain pine forests and other unique sand flora and fauna including a bird migration path; and the social-cultural traditions, spirituality, and the social perception of the area, which reflect the local lifestyle formerly centred on fishermen, artists, scientists, yachtsmen and gliders, travellers and other visitors. Criterion (v): The Curonian Spit is an outstanding example of a landscape of sand dunes that is under constant threat from natural forces (wind and tide). After disastrous human interventions that menaced its survival, the Spit was reclaimed by massive protection and stabilization works that began in the 19th century and are still continuing to the present day. Integrity The entire area of the Curonian Spit cultural landscape reflects valuable qualities and underlying processes, retains historical functions and specific sustainable land use methods related to the peculiarities of the natural environment, and reflects the unique spiritual bond between humans and nature. The boundaries of the World Heritage property are sufficient to express all the attributes of its Outstanding Universal Value. Some of these attributes, such as the fishermen houses, need careful maintenance. In general, these attributes are particularly sensitive to pressures such as climate change, severe weather events, fire, excessive development and tourism. Because of the continuous evolution and development of the cultural landscape, it is very important to regulate the number of visitors to the property. New developments and other economic activities must be regulated to avoid any irreversible changes that may threaten the Outstanding Universal Value. The most vulnerable elements of the Curonian Spit cultural landscape are the oldest wooden fishermen’s houses, the wooden decor of professionally designed buildings, and the human-made protective coastal dune ridge, which is influenced by the natural coastal processes under the influence of global climate change. Authenticity The Curonian Spit showcases high landscape values. It is an example of a special landform subjected to human intervention and natural phenomena such as climatic variations. The former has been both catastrophic, as with the drastic deforestation in the 16th century, and beneficial, as demonstrated in the 19th century with the creation of artificial barriers against further incursions by the sea. The cultural, natural and human-made elements of the Curonian Spit cultural landscape illustrate the most important features of its formation through their shapes, volumes, materials, and functions. The authenticity of the landscape is reflected by the tangible and spiritual values of the different historical periods that shaped its identity. The vitality, spirituality and special mood of the cultural landscape and its unique characteristics is further highlighted by authentic forms of local intangible heritage. These include the marine cultural heritage; traditional trades, folklore and artistic traditions; the ethnographic elements of the fishermen’s lifestyles; unique methods of protective coast and dune ridge management and forest maintenance; sustainable recreational activities and a cultural leisure tradition dating back to the 19th century. Protection and management requirements The Curonian Spit is situated in the Curonian Spit National Park in Lithuania and the Kurshskaya National Park of the Russian Federation. The status of these National Parks guarantees the protection of the cultural landscape. Both National Parks have the common goal of preserving the natural and cultural attributes that express the Outstanding Universal Value of the property. A very important prerequisite for the protection of the Outstanding Universal Value is state land ownership by the National Parks. The governments of both states are responsible for the conservation of the Curonian Spit: in the Republic of Lithuania through the Ministry of Environment and authorised agencies, and in the Russian Federation through the Ministry of Natural Resources and Environment. The protection of immovable cultural heritage is the responsibility of the cultural Heritage Department under the Ministry of Culture of the Republic of Lithuania and the State Service for Protection of cultural Heritage of the Kaliningrad region of the Russian Federation. The Governments have created the National Parks authorities, who play a key role in the conservation of the property, forest and coastal management. The territory of the Curonian Spit is administered by Neringa and Klaipėda City municipalities of the Republic of Lithuania and by the Federal State corporation National Park Kurshskaja kosa, along with the municipal unit of Kurshskaja kosa of the Zelenogradsk area of the Kaliningrad region of the Russian Federation. The local authorities in the Republic of Lithuania determine the main trends of socio-economic development, manage and plan settlements, and generally take care of the protection and management of the territory by implementing territorial planning documents in the Lithuanian part of the Curonian Spit. The local community is directly involved in the conservation of the property’s tangible heritage and also carries the region’s intangible heritage. For the effective management and protection of the property’s Outstanding Universal Value, closer collaboration of all institutions and stakeholders is needed within and between States. In the Republic of Lithuania, any activity posing a threat to the Outstanding Universal Value of the Curonian Spit is prohibited by the Law on Protected Areas (2001), and Protection Regulation of the Curonian Spit National Park (2002). In the Russian Federation, the relevant laws are the Federal Law of Specially Protected Nature Territories of the Russian Federation (1995) and the Law on Federal State Enterprise (FSBA, 2012), implemented through territorial planning documents. Different attributes of the property require different protection regimes and management activities. Therefore, different zones have been established in the National Parks for various specific purposes, such as strict reserves, reserves, recreational, residential and other zones. All these measures are outlined in the territorial planning documents. The main territorial planning documents in the Republic of Lithuania are the Special Management Plan of the Curonian Spit (a territorial planning document adopted by the government in 2012), and the National Park Borders Plan (adopted by Parliament in 2010). Klaipėda’s municipal General Plan has been in place since 2007, while Neringa’s General Plan was adopted by the municipality in 2012. The preparation of a single territorial planning document for the management of the area, aiming to ensure the preservation of the property’s Outstanding Universal Value in Lithuania is foreseen. The main territorial planning document in the Russian Federation is the Development Plan for the National Park Kurshskaja Kosa for 2009-2013. The coordination of actions between the States is necessary to protect the Outstanding Universal Value of the property. Once finalised and agreed upon, an integrated Curonian Spit Management Plan covering the whole property will be implemented in order to ensure the conservation of the Outstanding Universal Value, to improve cooperation between all institutions in both States, and to reach joint agreements on future activities. The preparation of this Management Plan is an essential step in the appropriate management of the property and particular attention should be paid to including a Tourism Management Plan and addressing the other major pressures potentially affecting the property. The implementation of territorial planning documents and the safeguarding of the implementation of existing legislation are high priorities."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 33021,
+          "square_km": 330.21,
+          "square_miles": 133.631,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0e92322abaed7e4cba13c2ca21dd938f",
+          "filename": "site_0994_0001-500-0-20130314111330.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/122004/site_0994_0001.jpg",
+            "https://whc.unesco.org/document/122006/site_0994_0003.jpg",
+            "https://whc.unesco.org/document/122007/site_0994_0004.jpg",
+            "https://whc.unesco.org/document/122008/site_0994_0005.jpg",
+            "https://whc.unesco.org/document/122009/site_0994_0006.jpg",
+            "https://whc.unesco.org/document/122014/site_0994_0007.jpg",
+            "https://whc.unesco.org/document/122015/site_0994_0008.jpg",
+            "https://whc.unesco.org/document/122016/site_0994_0009.jpg",
+            "https://whc.unesco.org/document/122017/site_0994_0010.jpg",
+            "https://whc.unesco.org/document/122018/site_0994_0011.jpg",
+            "https://whc.unesco.org/document/122019/site_0994_0012.jpg",
+            "https://whc.unesco.org/document/122020/site_0994_0013.jpg",
+            "https://whc.unesco.org/document/122021/site_0994_0014.jpg",
+            "https://whc.unesco.org/document/122022/site_0994_0015.jpg",
+            "https://whc.unesco.org/document/122023/site_0994_0016.jpg",
+            "https://whc.unesco.org/document/159235/site_0994_0017.jpg",
+            "https://whc.unesco.org/document/159236/site_0994_0018.jpg",
+            "https://whc.unesco.org/document/159237/site_0994_0019.jpg",
+            "https://whc.unesco.org/document/159238/site_0994_0020.jpg",
+            "https://whc.unesco.org/document/159239/site_0994_0021.jpg",
+            "https://whc.unesco.org/document/159240/site_0994_0022.jpg",
+            "https://whc.unesco.org/document/159241/site_0994_0023.jpg",
+            "https://whc.unesco.org/document/159242/site_0994_0024.jpg",
+            "https://whc.unesco.org/document/159243/site_0994_0025.jpg",
+            "https://whc.unesco.org/document/159244/site_0994_0026.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Curonian Spit",
+            "ref": "994",
+            "latitude": 55.27458,
+            "longitude": 20.96239
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/994",
+        "unesco_documents": "https://whc.unesco.org/en/list/994/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/994/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/994/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Curonian Spit Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects. Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects. Lithuania Russia Europe and North America Cultural"
+    },
+    {
+      "site_key": "vilnius_historic_centre",
+      "uuid": "2d253781-d046-52f4-82f3-2ee043c95f30",
+      "unesco_id": "541",
+      "names": {
+        "en": "Vilnius Historic Centre",
+        "fr": "Centre historique de Vilnius",
+        "es": "Centro histórico de Vilna",
+        "ru": "Исторический центр Вильнюса",
+        "ar": "الوسط التاريخي في فيلنيوس",
+        "zh": "维尔纽斯历史中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting.",
+          "fr": "Centre politique du grand-duché de Lituanie du XIIIe siècle jusqu'à la fin du XVIIIe siècle, Vilnius a exercé une profonde influence sur le développement culturel et architectural d'une grande partie de l'Europe orientale. Malgré invasions et destructions, elle a conservé un ensemble imposant de bâtiments historiques de styles gothique, Renaissance, baroque et classique, ainsi que sa structure urbaine avec ses espaces historiques et son environnement de verdure.",
+          "es": "Capital del Gran Ducado de Lituania desde el siglo XIII hasta finales del XVIII, Vilna tuvo una gran influencia en el desarrollo cultural y arquitectónico de una gran parte de Europa Oriental. Pese a las invasiones y destrucciones de que fue víctima, la ciudad ha conservado un impresionante conjunto de edificios góticos, renacentistas, barrocos y neoclásicos, así como su trazado medieval y el paisaje natural circundante.",
+          "ru": "Будучи политическим центром Великого княжества Литовского в период с XIV до конца ХVIII вв., Вильнюс оказывал глубокое влияние на развитие культуры и архитектуры во многих странах Восточной Европы. Несмотря на вражеские вторжения и частичные разрушения, здесь уцелел впечатляющий комплекс зданий, построенных в стиле готики, Возрождения, барокко и классицизма. Сохранилась средневековая планировка, а также природная среда.",
+          "ar": "كانت فيلنيوس المركز السياسي لدوقيّة ليتوانيا الكبرى من القرن الثالث عشر حتى نهاية القرن الثامن عشر. فقد أثّرت تأثيرًا كبيرًا على التطوّر الثقافي والهندسي لجزءٍ كبيرٍ من أوروبا الشرقيّة. كما حافظت، بالرغم من كل ما تعرّضت له من اجتياحات وتدمير، على مجموعةٍ كبيرةٍ من المباني التاريخية التي تتميّز بأسلوبها القوطي والباروكي والتقليدي والأسلوب الذي يعود إلى عصر النهضة، بالإضافة إلى البنية الحضرية بمساحاتها التاريخيّة وبيئتها الخضراء.",
+          "zh": "维尔纽斯是从13世纪到18世纪末期立陶宛大公国的政治中心，在文化和建筑发展上对许多东欧国家有着深远的影响。尽管遭到入侵和部分的破坏，它仍然给人留下深刻的印象，保留了哥特式、 文艺复兴时期、巴洛克式和古典的建筑及其中世纪的布局和自然景致。"
+        },
+        "full": "Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting.",
+        "justification": "Brief synthesis The Vilnius Historic Centre began its history on the glacial hills that had been intermittently occupied from the Neolithic period; a wooden castle was built around 1000 AD to fortify Gedimino Hill, at the confluence of the Neris and Vilnia rivers. The settlement did not develop as a town until the 13th century, during the struggles of the Baltic peoples against their German invaders. By 1323, when the first written reference to Vilnia occured, it was the capital of the Grand Duchy of Lithuania. At this time, some brick structures had apparently been erected on a small island formed when the Vilnia changed its course. By the 15th century, the Grand Duchy of Lithuania, with its capital Vilnius, had become the largest country in Europe, stretching from the Baltic Sea in the North to the Black Sea in the South. The historic centre comprises the areas of the three castles (Upper, Lower and Curved) and the area that was encircled by a wall in the Middle Ages. The plan is basically circular, radiating out from the original castle site. The street pattern is typically medieval, with small streets dividing it into irregular blocks, but with large squares inserted in later periods. The historic buildings are in Gothic, Renaissance, Baroque and Classical styles and have a distinct appearance, spatial composition, and elements of internal and external finishes. They constitute a townscape of great diversity and yet at the same time demonstrating an overarching harmony. The townscape is characterised by the general pattern of the town plan, the network of streets, squares and the boundaries of the plots. The elements of the urban pattern in relation to its natural setting also determine the specific silhouettes, panoramas and vistas that are preserved today. Together with the Lithuanians, other nations of Grand Duchy of Lithuania with their languages, religions and cultures, shaped the development of Vilnius as an outstanding, multicultural city, in which the influences of the West and the East were merged. Christianity, dominating since the Middle Ages, and the growing importance of Judaism led to exemplary material manifestations of these religious communities which include the churches of St Michael, St Stephen, St Casimir, All Saints, and St Theresa. The successive reconstructions, resulting from different disasters, gave the town many buildings of special character, including the cathedral, town hall, arsenal, and the Tyzenhauzai, Rensai, Pacai and Masalskiai palaces. Many of the surviving earlier buildings were rebuilt or refurbished in the School of Vilnius Baroque style, which later left an imprint in the large area of the Grand Duchy of Lithuania. The identity of Vilnius has always been open to influences enhancing the social, economic and cultural activities of the thriving communities. These influences materialised in the works of Gothic, Renaissance and Baroque, placed furthest eastward in Europe. Criterion (ii): Vilnius is an outstanding example of a medieval foundation which exercised a profound influence on architectural and cultural developments in a wide area of Eastern Europe over several centuries. Criterion (iv): In the townscape and the rich diversity of buildings that it preserves, Vilnius is an exceptional illustration of a Central European town which evolved organically over a period of five centuries. Integrity The inscribed property has an extension of 352 ha and contains all the attributes that convey its Outstanding Universal Value. The Vilnius Historic Centre has maintained a radial street pattern that dates back to the Middle Ages. Its spatial structure reflects both the evolution from changes in style and the political and natural calamities that have struck the area. The property maintains exceptional attributes such as the 16th-century University ensemble, a Town Hall with its square, temples of all religious denominations and the complete street pattern without any significant gap. Only a few places show the damage occurred during occupations and wars, including the Cathedral square that covers the foundations of the Lower Castle, demolished after the 3rd partition of the Commonwealth of the Two Nations in 1795, the empty place of the Great Synagogue, demolished after World War II, and the nearby attempted fragment of a broad avenue on the side of Vokiečių street (Deutsche Gasse), and some squares or modern buildings that replaced elements demolished at the same period. Those features gone and changed remain in the sources of history, diligent archaeological and historical research reports, the fine and applied arts, living traditions of music, theatre and hospitality. Some spaces, uses and activities have naturally changed with developing social and economic needs, yet the formulated significance of the property remains readily recognisable. Vilnius has retained its political role and economic and cultural importance in the country and the region, and its current shape represents its complex history excellently. Authenticity The current shape of the city retains its authentic qualities in the material attributes and continuous processes, traditions of the arts and life witnessing the often stormy history of the city and country and their political, economic and cultural evolution throughout the centuries. The spatial pattern of the city within its setting and a vast majority of the buildings filling the pattern remain authentic in their shape, materials, and building technique. Many of the buildings retain material layers from several periods, as with the introduction of new styles, the buildings have been rebuilt, incorporating the old buildings into the new ones. Buildings that suffered from the consequences of wars and fires, notably from World War II, were reconstructed using technical solutions typical for that time, whilst the traditional methods of restoration were used only for monuments and outstanding details. On the whole, the authentic attributes remain in the pattern of plots, structure and internal spatial arrangements of the buildings, distinctive elements of internal decorations and equipment, surfaces of the external walls and various decorations of the facades, doors, windows and roofs, pavements of the streets and squares, and details of the engineering and transport infrastructure, along with the surviving intangible heritage expressed through arts and traditions. Protection and management requirements The protection of the Vilnius Historic Centre is ensured by the specific provisions stipulated by the Laws on National Security, on Protection of Immovable Cultural Heritage, on State Commission of Cultural Heritage, on Territorial Planning on Protected areas, and other legal acts. The attributes of the property are protected by the Vilnius Strategic Plan, the Vilnius Official Plan, the Regulation on the Protection of the Old Town and the actions taken by the annual Old Town revitalisation programme. The Minister of Culture of the Republic of Lithuania is responsible for safeguarding the Old Town. Notwithstanding this important regulatory framework, precise regulations concerning the construction of high-rise buildings, beyond the proposed buffer zone, need to be developed and strongly enforced to ensure the conservation of the visual integrity of the property and its setting. These need to complement the provisions made in the Vilnius Official Plan to ensure the retention of visual relationship among protected areas, valuable views, panoramas and silhouettes. This should be complemented with a strategy for heritage impact assessments to make certain that large constructions, regardless of their location, do not impact the Outstanding Universal Value, Authenticity or Integrity of the property. The safeguarding of the property is based on 4 principles: (i) territorial unity of management; (ii) lateral interaction of inter-institutional multidisciplinary teams with regards to management, therefore involving, besides the heritage protection, other sectors such as territorial planning as well as social, economic and other issues; (iii) vertical integration and coordination of responsibilities and decision-making on state and local governance levels; (iv) interaction of the institutions of the state, local government and civil society through an inter-institutional commission and civil society audit. The multinational community of the city that developed in history is more homogeneous today; hence the manifestations of a multicultural city must be especially treasured, safeguarded and exposed. Exceptional attention needs to be given to the remaining authentic elements, to the preservation of historic techniques and their interpretation to be complemented with references to the forgone socioeconomic and cultural processes and other intangible heritage. These principles are to be implemented through the Coordination and Management Commission, which is also responsible for developing a clear set of conservation objectives and procedures, in order to ensure that effective decision-making mechanisms are in place to emphasize the protection of the Outstanding Universal Value of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 352.09,
+          "square_km": 3.52,
+          "square_miles": 1.425,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1994,
+          "all_dates": [
+            1994
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1994,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3ee6f7a70c0080e9c5202cf1d0f7e736",
+          "filename": "site_0541_0001.jpg",
+          "dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110892/site_0541_0001.jpg",
+            "https://whc.unesco.org/document/110894/site_0541_0002.jpg",
+            "https://whc.unesco.org/document/110896/site_0541_0003.jpg",
+            "https://whc.unesco.org/document/110898/site_0541_0004.jpg",
+            "https://whc.unesco.org/document/110900/site_0541_0005.jpg",
+            "https://whc.unesco.org/document/110902/site_0541_0006.jpg",
+            "https://whc.unesco.org/document/110904/site_0541_0007.jpg",
+            "https://whc.unesco.org/document/110906/site_0541_0008.jpg",
+            "https://whc.unesco.org/document/110908/site_0541_0009.jpg",
+            "https://whc.unesco.org/document/110910/site_0541_0010.jpg",
+            "https://whc.unesco.org/document/110912/site_0541_0011.jpg",
+            "https://whc.unesco.org/document/122024/site_0541_0013.jpg",
+            "https://whc.unesco.org/document/122025/site_0541_0014.jpg",
+            "https://whc.unesco.org/document/122026/site_0541_0015.jpg",
+            "https://whc.unesco.org/document/122027/site_0541_0016.jpg",
+            "https://whc.unesco.org/document/122028/site_0541_0017.jpg",
+            "https://whc.unesco.org/document/122029/site_0541_0018.jpg",
+            "https://whc.unesco.org/document/122030/site_0541_0019.jpg",
+            "https://whc.unesco.org/document/122031/site_0541_0020.jpg",
+            "https://whc.unesco.org/document/122032/site_0541_0021.jpg",
+            "https://whc.unesco.org/document/122033/site_0541_0022.jpg",
+            "https://whc.unesco.org/document/122034/site_0541_0023.jpg",
+            "https://whc.unesco.org/document/122036/site_0541_0025.jpg",
+            "https://whc.unesco.org/document/125865/site_0541_0026.jpg",
+            "https://whc.unesco.org/document/125866/site_0541_0027.jpg",
+            "https://whc.unesco.org/document/125867/site_0541_0028.jpg",
+            "https://whc.unesco.org/document/125868/site_0541_0029.jpg",
+            "https://whc.unesco.org/document/125869/site_0541_0030.jpg",
+            "https://whc.unesco.org/document/125870/site_0541_0031.jpg",
+            "https://whc.unesco.org/document/155465/site_0541_0032.jpg",
+            "https://whc.unesco.org/document/155466/site_0541_0033.jpg",
+            "https://whc.unesco.org/document/155467/site_0541_0034.jpg",
+            "https://whc.unesco.org/document/155468/site_0541_0035.jpg",
+            "https://whc.unesco.org/document/155473/site_0541_0040.jpg",
+            "https://whc.unesco.org/document/155474/site_0541_0041.jpg"
+          ],
+          "count": 35
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Vilnius Historic Centre",
+            "ref": "541bis",
+            "latitude": 54.68667,
+            "longitude": 25.29306
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/541",
+        "unesco_documents": "https://whc.unesco.org/en/list/541/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/541/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/541/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 31,
+        "inscription_year": 1994
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Vilnius Historic Centre Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting. Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting. Lithuania Europe and North America Cultural"
+    },
+    {
+      "site_key": "struve_geodetic_arc",
+      "uuid": "f28bf2c5-4fac-5919-9d2f-f446432386bd",
+      "unesco_id": "1187",
+      "names": {
+        "en": "Struve Geodetic Arc",
+        "fr": "Arc géodésique de Struve",
+        "es": "Arco geodésico de Struve",
+        "ru": "Геодезическая дуга Струве",
+        "ar": "قوس ستروف الجيوديزي",
+        "zh": "斯特鲁维地理探测弧线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          },
+          "NOR": {
+            "name": "Norway",
+            "iso2": "NO",
+            "iso3": "NOR"
+          },
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          },
+          "EST": {
+            "name": "Estonia",
+            "iso2": "EE",
+            "iso3": "EST"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "MDA": {
+            "name": "Moldova",
+            "iso2": "MD",
+            "iso3": "MDA"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 10
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+          "fr": "L’arc de Struve est un réseau de triangulations qui s’étend de Hammerfest en Norvège jusqu’à la mer Noire et traverse 10 pays sur plus de 2 820 km. L’arc est formé par les points d’une triangulation réalisée entre 1816 et 1855 par l’astronome Friedrich Georg Wilhelm Struve et représentant la première mesure exacte d’un long segment de méridien. Cette triangulation a contribué à définir et mesurer la taille et la forme exactes de la Terre ; elle a joué un rôle essentiel dans le développement des sciences de la Terre et l’établissement de cartes topographiques précises. C’est un formidable exemple de collaboration scientifique entre chercheurs de différents pays et de coopération entre des monarques pour une cause scientifique. À l’origine, l’arc était constitué de 258 triangles principaux et de 265 points fixes principaux. Le site inscrit sur la liste comprend 34 des points fixes d’origine, avec différents marquages – trous percés dans la roche, croix en fer, cairns ou obélisques.",
+          "es": "El arco geodésico de Struve es un conjunto de triangulaciones que se extiende por diez países, a lo largo de 2.820 km, desde Hammerfest (Noruega) hasta el Mar Negro. Compuesto por los puntos de la triangulación realizada entre 1816 y 1855 por el astrónomo Friedrich Georg Wilhelm Struve, este arco permitió realizar la primera medición precisa de un largo segmento del meridiano terrestre. Esta triangulación contribuyó a definir y medir la forma exacta de la Tierra y desempeñó un papel importante en el adelanto de las ciencias geológicas y la realización de mapas topográficos precisos. Es una muestra extraordinaria de la colaboración científica entre sabios de distintos países, así como un ejemplo de cooperación entre varios monarcas europeos en pro del progreso científico. El arco primigenio estaba constituido por 258 triángulos y 265 puntos fijos principales. El sitio inscrito en la Lista del Patrimonio Mundial comprende 34 de los puntos fijos originales señalados por medios diferentes: perforaciones en rocas, cruces de hierro, túmulos y obeliscos.",
+          "ru": "«Дуга Струве» – это цепь триангуляционных пунктов, протянувшаяся на 2820 км по территории десяти европейских стран от Хаммерфеста в Норвегии до Черного моря. Эти опорные точки наблюдений были заложены в период 1816-1855 гг. астрономом Фридрихом Георгом Вильгельмом Струве (он же – Василий Яковлевич Струве), который произвел таким образом первое достоверное измерение большого сегмента дуги земного меридиана. Это позволило точно установить размер и форму нашей планеты, что стало важным шагом в развитии наук о Земле и топографического картирования. Это был исключительный пример сотрудничества в научной сфере между учеными разных стран и между правящими монархами. Первоначально «дуга» состояла из 258 геодезических «треугольников» (полигонов) с 265 основными триангуляционными пунктами. В объект всемирного наследия вошли 34 таких пункта (наиболее хорошо уцелевших к настоящему времени), которые маркированы на местности самым разным образом, как то: выдолбленные в скалах углубления, железные кресты, пирамиды из камней или специально установленные обелиски.",
+          "ar": "إن قوس ستروف هو شبكة تثليثات تمتد من هامرفست في النروج حتى البحر الأسود وتعبر 10 بلدان على أكثر من 2820 كيلومترا. يتألف القوس من نقاط التثليث التي تمّ انجازها بين 1816 و 1855على يد عالم الفلك فريدريش جيورج ويلهلم ستروف وتمثّل أول قياس دقيق لجزء من خط التصنيف. لقد ساهمت هذه الصيغة التثليثية في تحديد قياس الأرض وشكلها الدقيقين وأدّت دوراً أساسياً في تطوير علوم الأرض ورسم خرائط طوبوغرافية دقيقة. إنه مثال ممتاز للتعاون العلمي بين باحثين من دول مختلفة والتعاون بين الملوك من أجل قضية علمية. في البدء، كان القوس يتألف من 258 مثلثاً اساسياً و 265 نقطة ثابتة رئيسة. يشمل الموقع المسجّل على القائمة 34 نقطة ثابتة أصليّة وعلامات مختلفة مثل الثقوب المحفورة في الصخور والصلبان الحديدية وركام الحجارة كعلامة أو المسلات.",
+          "zh": "斯特鲁维地理探测弧线是一个三角测量链，北起挪威哈默菲斯特(Hammerfest)，南至黑海，弧线穿越十个国家，长2820公里。弧线是天文学家弗里德理西·格奥尔格·威廉·斯特鲁维(Friedrich Georg Wilhelm Struve)于1816至1855年期间进行测量的测量点，代表着人类首次对子午线长短的精确测量。这一测量帮助人类掌握了地球的确切大小和形状，是地球科学和地形绘图学发展中的重要一步。这个弧线不仅是多国科学家通力合作的一个特例，也是多国君主为科学事业联袂协作的一个特例。原始弧线包含258个主要三角形和265个测量站点。列入世界遗产名录的弧有34个原始测量站点，带有各种不同标记，如岩石钻孔、铁十字、堆石标或方尖石碑。"
+        },
+        "full": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+        "justification": "Brief synthesis The determination of the size and shape of the world was one of the most important problems of natural philosophy since at least the 4th century B.C. The development, in the 16th century, of a measurement system called “triangulation” improved the ability to determine the size and shape of the world. In this system, long chains of triangles were measured, creating arcs that stretched along hundreds and thousands of kilometres. The Struve Geodetic Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through ten countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by several scientists (surveyors) under leadership of the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of our planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of the development of sciences and of collaboration among scientists from different countries, as well as monarchs, for a common scientific cause. Prior to the Struve Geodetic Arc, an arc of about 2,400 km had been measured in India by Lambton and Everest (completed in 1845), and a shorter arc in Lithuania by Carl Tenner. Struve, who was working at the Dorpat University (currently University of Tartu in Estonia), decided that he would establish an arc following a line of longitude (meridian) passing through the observatory of the university. The new long arc, later to be known as the Struve Geodetic Arc, was eventually created by connecting earlier, shorter arcs to the southern one measured by Tenner, and their extension to the north and south. The arc thus covered a line connecting Fuglenæs, near Hammerfest at the Arctic Ocean, with Staro-Nekrassowka, near Ismail, on the Black Sea shores, along more than 2,800 km. The original arc consisted of 258 main triangles with 265 main station points. The inscribed property includes 34 of the original station points established by Struve and his colleagues between 1816 and 1851 – four points in Norway, four in Sweden, six in Finland, two in Russia, three in Estonia, two in Latvia, three in Lithuania, five in Belarus, one in Moldova and four in Ukraine. Other preserved sites of the Arc are protected nationally. These marks take different forms: small holes drilled in rock surfaces, and sometimes filled with lead; cross-shaped engraved marks on rock surfaces; solid stone or brick with a marker inset; rock structures (cairns) with a central stone or brick marked by a drilled hole; individual bricks; as well as especially constructed 'monuments' to commemorate the point and the arc. The Struve Geodetic Arc is an extraordinary example of the interchange of human values in the form of international scientific collaboration, as well as an outstanding example of a technological ensemble. Criterion (ii): The first accurate measuring of a long segment of a meridian, helping in the establishment of the exact size and shape of the world exhibits an important step in the development of earth sciences. It is also an extraordinary example for interchange of human values in the form of scientific collaboration among scientists from different countries. It is at the same time an example for collaboration between monarchs of different powers, for a scientific cause. Criterion (iv): The Struve Geodetic Arc is undoubtedly an outstanding example of a technological ensemble - presenting the triangulation points of the measuring of the meridian, being the non-movable and non-tangible part of the measuring technology. Criterion (vi): The measuring of the arc and its results are directly associated with humans wondering about their world, its shape and size. It is linked with Sir Isaac Newton’s theory that the world is not an exact sphere. Integrity The inscribed property consists of 34 components, which in total comprise an area of 0.6 ha, with buffer zones amounting to a total of 11 ha. All components of the Struve Geodetic Arc are linked to one chain and a number of the Arc sites belong to national state geodetic reference networks that confer integrity even with the geodetic measurements processed today. Authenticity The inscribed components of the property have special characteristics and significance on a technological and scientific level. All points are maintained in their original location and changes are limited to some later constructions marking the locations. Protection and management requirements For the inscription of the Struve Geodetic Arc, the ten countries involved collaborated in locating and investigating the sites of historical measurements by using available geodetic observation data and by means of the recent measurement methods as well as satellite geodesy. Upon identification of the component parts, each State Party provided legal protection in accordance with its national frameworks, which in practice entails that some points are covered by laws protecting geodetic points and also by laws for the protection of cultural heritage. At the national level, each State authority, usually the national mapping authority with the involvement of local administrative authorities, is responsible for the conservation and management of the Struve Geodetic Arc. At the international level, management is the responsibility of the Coordinating Committee, which meets every other year and is run according to management mechanisms agreed upon by all ten countries. Based on the resolutions of the Coordinating Committee, national representative organizations actively promote the Struve Geodetic Arc via different tasks, such as the producing post stamps and envelopes (completed by Belarus, Estonia, Finland, Latvia, Lithuania, Moldova, Sweden, Ukraine); making promotional movies and educational leaflets, books and articles; preparing exhibitions; translating documentation; restoring geodetic instruments and other materials, and even minting commemorative coins for the Struve Geodetic Arc (Belarus, Moldova)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d6bc240c3066919489d7c5191c4833e5",
+          "filename": "site_1187_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113656/site_1187_0001.jpg",
+            "https://whc.unesco.org/document/113658/site_1187_0002.jpg",
+            "https://whc.unesco.org/document/113660/site_1187_0003.jpg",
+            "https://whc.unesco.org/document/113662/site_1187_0004.jpg",
+            "https://whc.unesco.org/document/113664/site_1187_0005.jpg",
+            "https://whc.unesco.org/document/113666/site_1187_0006.jpg",
+            "https://whc.unesco.org/document/113668/site_1187_0007.jpg",
+            "https://whc.unesco.org/document/138129/site_1187_0008.jpg",
+            "https://whc.unesco.org/document/138130/site_1187_0009.jpg",
+            "https://whc.unesco.org/document/138131/site_1187_0010.jpg",
+            "https://whc.unesco.org/document/138132/site_1187_0011.jpg",
+            "https://whc.unesco.org/document/138133/site_1187_0012.jpg",
+            "https://whc.unesco.org/document/143845/site_1187_0013.jpg",
+            "https://whc.unesco.org/document/143846/site_1187_0014.jpg",
+            "https://whc.unesco.org/document/143847/site_1187_0015.jpg",
+            "https://whc.unesco.org/document/143848/site_1187_0016.jpg",
+            "https://whc.unesco.org/document/143849/site_1187_0017.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "RUDY Rudi",
+            "ref": "1187-030",
+            "latitude": 48.3188888889,
+            "longitude": 27.8766666667
+          },
+          {
+            "name": "KATKO Simuna",
+            "ref": "1187-018",
+            "latitude": 59.0483333333,
+            "longitude": 26.4141666667
+          },
+          {
+            "name": "LOPATI Lopaty",
+            "ref": "1187-026",
+            "latitude": 53.5605555556,
+            "longitude": 24.8697222222
+          },
+          {
+            "name": "PULLINKI Pullinki",
+            "ref": "1187-007",
+            "latitude": 66.6463888889,
+            "longitude": 23.7819444444
+          },
+          {
+            "name": "WOIBIFER Võivere",
+            "ref": "1187-017",
+            "latitude": 59.0577777778,
+            "longitude": 26.3377777778
+          },
+          {
+            "name": "FUGLENAES Fuglenes",
+            "ref": "1187-001",
+            "latitude": 70.67,
+            "longitude": 23.6633333333
+          },
+          {
+            "name": "AVASAKSA Aavasaksa",
+            "ref": "1187-010",
+            "latitude": 66.3977777778,
+            "longitude": 23.7252777778
+          },
+          {
+            "name": "SESTU-KALNS Ziestu",
+            "ref": "1187-020",
+            "latitude": 56.84,
+            "longitude": 25.6366666667
+          },
+          {
+            "name": "TUPISCHKI Tupishki",
+            "ref": "1187-025",
+            "latitude": 54.2916666667,
+            "longitude": 26.0452777778
+          },
+          {
+            "name": "TCHEKUTSK Chekutsk",
+            "ref": "1187-028",
+            "latitude": 52.2077777778,
+            "longitude": 25.5563888889
+          },
+          {
+            "name": "LILLE-REIPAS Raipas",
+            "ref": "1187-002",
+            "latitude": 69.9386111111,
+            "longitude": 23.3602777778
+          },
+          {
+            "name": "PUOLAKKA Oravivuori",
+            "ref": "1187-012",
+            "latitude": 61.9266666667,
+            "longitude": 25.5336111111
+          },
+          {
+            "name": "FELSCHTIN Felschtin",
+            "ref": "1187-032",
+            "latitude": 49.33,
+            "longitude": 26.6819444444
+          },
+          {
+            "name": "BARANOWKA Baranowka",
+            "ref": "1187-033",
+            "latitude": 49.1486111111,
+            "longitude": 26.9916666667
+          },
+          {
+            "name": "KERROJUPUKKA Jupukka",
+            "ref": "1187-006",
+            "latitude": 67.2766666667,
+            "longitude": 23.2430555556
+          },
+          {
+            "name": "SVARTVIRA Mustaviiri",
+            "ref": "1187-014",
+            "latitude": 60.2763888889,
+            "longitude": 26.6033333333
+          },
+          {
+            "name": "JACOBSTADT Jekabpils",
+            "ref": "1187-021",
+            "latitude": 56.5013888889,
+            "longitude": 25.8566666667
+          },
+          {
+            "name": "KARISCHKI Gireišiai",
+            "ref": "1187-022",
+            "latitude": 55.9025,
+            "longitude": 25.4366666667
+          },
+          {
+            "name": "MESCHKANZI Meškonys",
+            "ref": "1187-023",
+            "latitude": 54.9308333333,
+            "longitude": 25.3166666667
+          },
+          {
+            "name": "PORLOM II Tornikallio",
+            "ref": "1187-013",
+            "latitude": 60.7047222222,
+            "longitude": 26.0033333333
+          },
+          {
+            "name": "OSSOWNITZA Ossovnitsa",
+            "ref": "1187-027",
+            "latitude": 52.2894444444,
+            "longitude": 25.6494444444
+          },
+          {
+            "name": "PERRA-VAARA Perävaara",
+            "ref": "1187-008",
+            "latitude": 66.0180555556,
+            "longitude": 23.9225
+          },
+          {
+            "name": "BERESNÄKI Paliepiukai",
+            "ref": "1187-024",
+            "latitude": 54.6344444444,
+            "longitude": 25.4291666667
+          },
+          {
+            "name": "LESKOWITSCHI Leskovichi",
+            "ref": "1187-029",
+            "latitude": 52.1608333333,
+            "longitude": 25.5713888889
+          },
+          {
+            "name": "KATERINOWKA Katerinowka",
+            "ref": "1187-031",
+            "latitude": 49.5658333333,
+            "longitude": 26.7561111111
+          },
+          {
+            "name": "PAJTAS-VAARA Tynnyrilaki",
+            "ref": "1187-005",
+            "latitude": 68.255,
+            "longitude": 22.9830555556
+          },
+          {
+            "name": "TORNEA Alatornion kirkko",
+            "ref": "1187-011",
+            "latitude": 65.83,
+            "longitude": 24.1572222222
+          },
+          {
+            "name": "DORPAT Tartu Observatory",
+            "ref": "1187-019",
+            "latitude": 58.3788888889,
+            "longitude": 26.72
+          },
+          {
+            "name": "LOHDIZHJOKKI Luvdiidcohkka",
+            "ref": "1187-003",
+            "latitude": 69.6644444444,
+            "longitude": 23.6022222222
+          },
+          {
+            "name": "STUOR-OIVI Stuorrahanoaivi",
+            "ref": "1187-009",
+            "latitude": 68.6825,
+            "longitude": 22.7458333333
+          },
+          {
+            "name": "MÄKI-PÄÄLYS Mäkipällys",
+            "ref": "1187-015",
+            "latitude": 60.0741666667,
+            "longitude": 26.9697222222
+          },
+          {
+            "name": "BÄLJATZ-VAARA Baelljasvarri",
+            "ref": "1187-004",
+            "latitude": 69.0286111111,
+            "longitude": 23.3052777778
+          },
+          {
+            "name": "STARO-NEKRASSOWKA Stara Nekrasivka",
+            "ref": "1187-034",
+            "latitude": 45.3325962,
+            "longitude": 28.9278807
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1187",
+        "unesco_documents": "https://whc.unesco.org/en/list/1187/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1187/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1187/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Struve Geodetic Arc The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. Latvia Norway Sweden Belarus Estonia Finland Ukraine Lithuania Moldova Russia Europe and North America Cultural"
+    },
+    {
+      "site_key": "modernist_kaunas_architecture_of_optimism_1919_1939",
+      "uuid": "7e0ae2a7-4335-5105-bfcd-0ea6e7c870c7",
+      "unesco_id": "1661",
+      "names": {
+        "en": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+        "fr": "Kaunas, ville moderniste : une architecture de l’optimisme, 1919-1939",
+        "es": "Kaunas, ciudad modernista: una arquitectura del optimismo (1919-1939)",
+        "ru": "Модернистский Каунас: Архитектура оптимизма, 1919-1939 гг.",
+        "ar": "كاوناس الحديثة: الهندسة المعمارية التفاؤلية، 1919-1939",
+        "zh": "现代主义的考纳斯：1919-1939年的乐观主义建筑"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property testifies to the rapid urbanization that transformed the provincial town of Kaunas into a modern city that became Lithuania’s provisional capital between the First and Second World Wars. Its community-driven transformation of an urban landscape was adapted from an earlier town layout. The quality of modern Kaunas was manifested through the spatial organization of the Naujamiestis (New Town) and Žaliakalnis (Green Hill) areas, and in public buildings, urban spaces and residences constructed during the interwar period that demonstrate a variety of styles in which the Modern Movement found architectural expression in the city.",
+          "fr": "Ce bien témoigne de l’urbanisation rapide qui a transformé la ville provinciale de Kaunas en une ville moderne qui fut la capitale provisoire de la Lituanie entre la Première et la Seconde Guerre mondiale. Sa transformation d’un paysage urbain à l’initiative de la communauté est l’adaptation d’un plan de ville antérieur. La qualité de la ville moderne de Kaunas s’est manifestée par l’organisation spatiale des quartiers Naujamiestis (la ville nouvelle) et Žaliakalnis (la colline verte), ainsi que par les bâtiments publics, les espaces urbains et les résidences construits pendant l’entre-deux-guerres qui démontrent une variété de styles à travers lesquels le Mouvement moderne trouva son expression architecturale dans la ville.",
+          "es": "Este sitio atestigua la rápida urbanización que transformó la ciudad provincial de Kaunas en una ciudad moderna que se convirtió en la capital provisional de Lituania entre la Primera y la Segunda Guerra Mundial. La transformación de su paisaje urbano impulsada por la comunidad se adaptó a partir de un trazado urbano anterior. La calidad de la Kaunas moderna se manifestó a través de la organización espacial de las zonas de Naujamiestis (Ciudad Nueva) y Žaliakalnis (Colina Verde), y en edificios públicos, espacios urbanos y residencias construidos durante el periodo de entreguerras que muestran una variedad de estilos en los que el Movimiento Moderno encontró su expresión arquitectónica en la ciudad.",
+          "ru": "Этот объект свидетельствует о стремительной урбанизации, превратившей провинциальный город Каунас в современный город, ставший временной столицей Литвы в период между Первой и Второй мировыми войнами. В ходе преобразования городского ландшафта под руководством местных жителей была адаптирована более ранняя планировка города. Качество современного Каунаса проявилось в пространственной организации районов Науяместис (Новый город) и Жалякальнис (Зеленый гора), а также в общественных зданиях, городских пространствах и жилых домах, построенных в межвоенный период, которые демонстрируют разнообразие стилей, в которых движение модерн нашло свое архитектурное воплощение в городе.",
+          "ar": "يقف هذا العنصر شاهداً على سرعة التوسع الحضري الذي جعل من بلدة كاوناس الريفية مدينةً عصرية باتت عاصمة ليتوانيا المؤقتة بين الحربين العالميتين الأولى والثانية. وقادت المجتمعات المحلية تحول المدينة الحضري المُستوحى من مخطط مدينة سابقة. تكمن جودة كاوناس الحديثة في التنظيم المكاني في منطقتي نايجامياستيس (المدينة الجديدة) وجالياكلنيس (التلة الخضراء)، وكذلك في المباني العامة، والأماكن الحضرية، والوحدات السكنية التي شُيدت خلال فترة ما بين الحربين العالميتين والتي تشهد على طيف متنوع من الأنماط التي جسّدت فيها الحركة الحديثة أشكال التعبير المعماري في المدينة.",
+          "zh": "这处遗产地见证了考纳斯的迅速城市化，从区域城市转变为现代都市，并在一战和二战之间担当立陶宛的临时首都。其城市景观改造以城镇原始布局为基础，以社区为推动单元。现代考纳斯的品质体现在新城区和青山区的空间布局，以及在战间期建造的公共建筑、城市空间和住宅。后者是现代运动在城市建筑领域的表达，呈现多样化的风格。"
+        },
+        "full": "This property testifies to the rapid urbanization that transformed the provincial town of Kaunas into a modern city that became Lithuania’s provisional capital between the First and Second World Wars. Its community-driven transformation of an urban landscape was adapted from an earlier town layout. The quality of modern Kaunas was manifested through the spatial organization of the Naujamiestis (New Town) and Žaliakalnis (Green Hill) areas, and in public buildings, urban spaces and residences constructed during the interwar period that demonstrate a variety of styles in which the Modern Movement found architectural expression in the city.",
+        "justification": "Brief synthesis Modernist Kaunas: Architecture of Optimism, 1919-1939 is situated in the centre of the city of Kaunas, in central Lithuania, at the confluence of two major rivers: the Nemunas and the Neris. The area within the property was planned and developed from the mid-19th century, and saw rapid urbanisation and modernisation in 1919–1939 when, after the declaration of an independent Republic of Lithuania in 1918, Kaunas served as the provisional capital of the state. The status of provisional capital was crucial for the city’s unprecedented growth and architectural development, resulting in a seven-fold increase in Kaunas’ area and a substantial population growth. In less than twenty years, under the auspices of the new national government and civic initiative, Kaunas was transformed into a modern city based on the adaptation of an earlier town layout and integration of modernist urban planning solutions and architecture with the pre-existing surrounding natural environment. Modernist Kaunas bears exceptional testimony to a multifaceted modernism as a process of transformation born out of local political and cultural exigencies, and evolutionary urbanisation in the interwar period responding to pre-existing human-made and natural features, the result of which illustrates a local version of the global project of modernity. The property comprises two areas: Naujamiestis and Žaliakalnis. Naujamiestis (New Town), with an orthogonal grid planned in 1847, is attached to the eastern edge of the Old Town and extends eastwards along the valley of the Nemunas River. Naujamiestis was intensively developed in 1919–1939 and became the administrative centre of Kaunas. It demonstrates well the integration of natural topography into the urban fabric. Encircling Naujamiestis to the north and east is Žaliakalnis (Green Hill), a natural plateau developed as a garden city residential suburb in the interwar period according to a 1923 master plan of Kaunas. A rich architectural heritage of emerging local inflection of modernism overlaid on the 19th century urban grid and a new garden suburb, all integrated with the surrounding natural environment, created an exceptional ensemble of two complimentary urban landscapes that reflect Lithuania’s response to the encounter with modernity. Circa 1500 of the 6000 remaining buildings erected in Kaunas in 1919–1939 are concentrated in the World Heritage area and represent a local version of early 20th century Eastern and Central European modernism, bearing an exceptional testimony to the process of transformation of an industrial and fortress city into a modern capital of a newly-formed state. The façades, streetscapes, and natural features incorporated into the pre-existing urban and geomorphological setting create a distinctive sense of place exhibited through broad panoramas, open urban and natural spaces, and varied topography. Unlike many experiences of urban and architectural modernity, Kaunas reflects an evolutionary rather than revolutionary process of and response to urbanisation and modernisation in early 20th-century Europe, driven by post-war optimism and civic initiative. Criterion (iv): Modernist Kaunas is an outstanding example of a historic city centre, subject to rapid urbanisation and modernisation while serving as a provisional capital (1919-1939), that encapsulates diverse expressions of the values and aspirations of the local population to create a modern city driven by post-war optimistic belief in an independent future amid the turbulence of the early 20th-century in Europe, when national borders were changing. As a result of civic initiative, the gradual urban development of Kaunas, carried out with respect to the pre-existing urban context and natural environment, produced a distinctive urban landscape and local modern architectural language that served the needs of a growing population and reflected the modernisation of urban life in the 20th century. It is an exceptional testament to people’s faith in the future and their ability to be creative under difficult political and economic conditions. Integrity Modernist Kaunas consists of sections of Naujamiestis and Žaliakalnis, two adjacent districts of the city of Kaunas, that have been preserved sufficiently to reflect the historic urban fabric and urban morphology of the city during the interwar period. The significant architectural structures and the original urban layout, including the characteristic sloping natural and human-made terrain, public spaces and historic parks, have been retained. However, new developments that have been taking place in different parts of the city affecting both physical and visual aspects of the property. Of 6000 surviving buildings constructed in Kaunas in 1919–1939, circa 1500 structures of administrative, public, industrial, and residential functions, including wooden buildings, testifying to the speed and diversity of development undertaken in the spirit of modernity are located within the property, constituting the greatest concentration of significant modernist architecture in the city. The buffer zone contains areas dating to earlier periods of development of Kaunas, as well as groups of buildings of importance and some elements of the natural environment that strengthen the character of the property. Kaunas lost its status as Lithuania’s provisional capital in 1939. Under the Soviet rule, which lasted from 1944-1990, the physical state of interwar modernist buildings was not deliberately neglected, since the superior quality of the architecture was put to pragmatic use. Intermittent development of the area continued with the construction of many buildings that, although new, were compatible with the interwar period designs by being restrained in volume and form. Construction during this era did not alter in a significant manner the established street grid and squares, but it did see the addition of large modernist buildings that ignored the existing historic urban morphology. The more recent growth of Kaunas and development pressures, especially in the industrial part of Naujamiestis, resulted in partial damage to the urban fabric of this river-side section of the property, including several large structures erected along Karalius Mindaugas avenue (Karaliaus Mindaugo Prospektas). Authenticity Because the historically evolved areas of Naujamiestis and Žaliakalnis have changed relatively little, Modernist Kaunas is truly a time capsule of the 1919–1939 period. The location and setting, form and design, material and substance as well as use and function of the property all represent a historic modernist city of the interwar period that evolved harmoniously, integrating the natural and historic settings, producing a diverse legacy of architectural modernism. The area of Naujamiestis is home to the largest concentration of landmark modernist buildings that were part of the formation of a new administrative, cultural, and social core of the Lithuanian state in 1919–1939. Residential areas of Naujamiestis constitute an architectural background for the landmark buildings, creating a harmonious cityscape. The biggest changes can be observed in the southern section of Naujamiestis, whose industrial function has been changing, buildings gradually being converted to commercial and residential purposes. The recreational function of Žaliakalnis area with Ąžuolynas Park has been retained and is protected by law. Developed as a garden city residential suburb, the key elements of Žaliakalnis designed in 1923 survived to this day and reflect the local interpretation of the garden city urban planning concepts of the time, adjusted to suit pre-existing natural, topographical, and human-made features. The Soviet era policies, however, contributed to alterations of the interiors and communal spaces with the garden city residential suburb, distorting the plot structure in some sections. Subdividing land plots within the listed cultural heritage areas is currently prohibited and density is controlled. Protection and management requirements Modernist Kaunas includes a group of areas and buildings in the central part of the city of Kaunas that are legally protected on the national and local level under the Law on the Protection of Immovable Cultural Heritage, which applies to cultural properties listed in the National Register of Cultural Heritage. The Law on Protected Areas, the Law on Territorial Planning, the Law on Construction, the Law on Green Areas, and the Law on Environmental Protection supplement this legislation. The property is covered by protection assigned to seven sites and complexes listed in the National Register of Cultural Heritage: Naujamiestis, a historic district of Kaunas (National Register of the Cultural Heritage No. 22149); Žaliakalnis 2, a historic district of Kaunas (National Register of the Cultural Heritage No. 22148); Žaliakalnis 1, a historic district of Kaunas (National Register of the Cultural Heritage No. 31280); Kaunas Ąžuolynas Park Complex (National Register of the Cultural Heritage No. 44581); the Kaunas Ąžuolynas Sports Complex (National Register of the Cultural Heritage No. 31618); the Research Laboratory Complex (National Register of the Cultural Heritage No. 28567) and Christ’s Resurrection Church (National Register of the Cultural Heritage No. 16005). Management instruments should be strengthened to protect privately-owned buildings and structures within the property and support the owners in maintaining their properties. The cultural significance of Modernist Kaunas is integrated into the General Plan of the Territory of Kaunas City, which regulates spatial development in the city and defines urban management issues. The General Plan stipulates restrictions on building activities and traffic flows. The Cultural Strategy approved by the Kaunas City Municipality aims to establish an integrated approach toward the protection of the interwar period heritage of Kaunas. The management plan for the property is regularly revised and approved by the Kaunas City Municipal Council and is well integrated into municipal legislative system as a strategic planning document. The management plan should ensure protection of the full range of attributes that express the Outstanding Universal Value, and set out the conditions for the Heritage Impact Assessment of new development projects and activities that are planned for implantation within or around the property. The preparation of an integrated conservation plan would ensure the conservation of all attributes supporting the Outstanding Universal Value, including wooden architecture."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 455.3,
+          "square_km": 4.55,
+          "square_miles": 1.843,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ea9f4e1ee5aba6ba18e1fcb208e8e367",
+          "filename": "site_1661_0001.jpg",
+          "dimensions": {
+            "width": 3783,
+            "height": 2835
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/187233/site_1661_0001.jpg",
+            "https://whc.unesco.org/document/187234/site_1661_0002.jpg",
+            "https://whc.unesco.org/document/187235/site_1661_0003.jpg",
+            "https://whc.unesco.org/document/187236/site_1661_0004.jpg",
+            "https://whc.unesco.org/document/187237/site_1661_0005.jpg",
+            "https://whc.unesco.org/document/187238/site_1661_0006.jpg",
+            "https://whc.unesco.org/document/187239/site_1661_0007.jpg",
+            "https://whc.unesco.org/document/187240/site_1661_0008.jpg",
+            "https://whc.unesco.org/document/187241/site_1661_0009.jpg",
+            "https://whc.unesco.org/document/187242/site_1661_0010.jpg",
+            "https://whc.unesco.org/document/187243/site_1661_0011.jpg",
+            "https://whc.unesco.org/document/192565/site_1661_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1661",
+        "unesco_documents": "https://whc.unesco.org/en/list/1661/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1661/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1661/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Modernist Kaunas: Architecture of Optimism, 1919-1939 This property testifies to the rapid urbanization that transformed the provincial town of Kaunas into a modern city that became Lithuania’s provisional capital between the First and Second World Wars. Its community-driven transformation of an urban landscape was adapted from an earlier town layout. The quality of modern Kaunas was manifested through the spatial organization of the Naujamiestis (New Town) and Žaliakalnis (Green Hill) areas, and in public buildings, urban spaces and residences constructed during the interwar period that demonstrate a variety of styles in which the Modern Movement found architectural expression in the city. This property testifies to the rapid urbanization that transformed the provincial town of Kaunas into a modern city that became Lithuania’s provisional capital between the First and Second World Wars. Its community-driven transformation of an urban landscape was adapted from an earlier town layout. The quality of modern Kaunas was manifested through the spatial organization of the Naujamiestis (New Town) and Žaliakalnis (Green Hill) areas, and in public buildings, urban spaces and residences constructed during the interwar period that demonstrate a variety of styles in which the Modern Movement found architectural expression in the city. Lithuania Europe and North America Cultural"
+    },
+    {
+      "site_key": "kernave_archaeological_site_cultural_reserve_of_kernave",
+      "uuid": "35ba6d20-533d-58d7-a97d-c1ae9cf63f90",
+      "unesco_id": "1137",
+      "names": {
+        "en": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+        "fr": "Site archéologique de Kernavė (Réserve culturelle de Kernavė)",
+        "es": "Sitio arqueológico de Kernavė (Reserva cultural de Kernavė)",
+        "ru": "Археологические памятники культурного резервата Кярнаве",
+        "ar": "الموقع الأثري في كيرنافي (المحمية الثقافية في كيرنافي)",
+        "zh": "克拿维考古遗址（克拿维文化保护区）"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Kernavė Archaeological site, about 35 km north-west of Vilnius in eastern Lithuania, represents an exceptional testimony to some 10 millennia of human settlements in this region. Situated in the valley of the River Neris, the site is a complex ensemble of archaeological properties, encompassing the town of Kernavė, forts, some unfortified settlements, burial sites and other archaeological, historical and cultural monuments from the late Palaeolithic Period to the Middle Ages. The site of 194,4 ha has preserved the traces of ancient land-use, as well as remains of five impressive hill forts, part of an exceptionally large defence system. Kernavė was an important feudal town in the Middle Ages. The town was destroyed by the Teutonic Order in the late 14th century, however the site remained in use until modern times.",
+          "fr": "Le site de Kernavė, dans l’est de la Lituanie à 35 km environ de Vilnius, représente le témoignage exceptionnel d’établissements humains dans la région sur une période de 10 000 ans. Situé dans la vallée de la Neris, le site est un ensemble complexe de biens archéologiques, historiques et culturels englobant la ville de Kernavė, des forts, des installations non fortifiées, des sites funéraires et d’autres monuments archéologiques depuis la fin du paléolithique jusqu’au Moyen Âge. Ce site de 194,4 ha conserve les traces d’anciennes occupations des sols ainsi que les vestiges de cinq collines fortifiées qui faisaient partie d’un système de défense d’une envergure exceptionnelle. Au Moyen Âge, Kernavė était une ville féodale importante. Elle fut détruite par l’ordre Teutonique à la fin du XIVe siècle, mais le site est resté en activité jusqu’à l’époque moderne.",
+          "es": "El sitio arqueológico de Kernavė se halla en la parte oriental de Lituania, a unos 35 kilómetros al noroeste de Vilna, y constituye un testimonio excepcional de los asentamientos humanos en la región a lo largo de un periodo de diez mil años. Emplazado en el valle del río Neris, este sitio está integrado por un conjunto de vestigios arqueológicos, históricos y culturales, entre los que figuran: la ciudad de Kernavė, una serie de fortificaciones, varios asentamientos no fortificados, diversos centros funerarios y otros monumentos arqueológicos cuya datación va del Paleolítico hasta la Edad Media. El sitio se extiende por una superficie de 194,5 hectáreas y conserva huellas de poblamientos muy antiguos, así como los restos de cinco colinas fortificadas que formaban parte de un sistema de defensa de envergadura excepcional. Kernavė fue una ciudad feudal de gran importancia en la Edad Media y siguió siendo escenario de actividades hasta la época moderna, a pesar de que fue destruida por la Orden Teutónica a finales del siglo XIV.",
+          "ru": "Этот комплексный объект, расположенный в долине реки Нярис, включает археологические остатки древнего города Кярнаве, фортов, нескольких неукрепленных поселений, а также захоронений и иных памятников, относящихся к периоду времени от позднего палеолита до средневековья. Здесь можно наблюдать следы древнего землепользования, а также остатки пяти древних укрепленных городищ, являющихся частью мощной оборонительной системы. Кярнаве был важным феодальным городом в Средние века. И хотя город был разрушен рыцарями Тевтонского Ордена в конце XIV в., это место еще было населено на протяжении длительного времени.",
+          "ar": "يمثّل موقع كيرنافي الذي يقع في شرق ليتوانيا والذي يبعد 35 كيلومترًا تقريبًا عن فيلنيوس، الشاهد بامتياز على المنشآت التي قام بها الإنسان في المنطقة على مدار 10000 سنة. فهذا الموقع الذي يقع في وادي نيريس هو مجموعة مركبة من الثروات الأثريّة والتاريخيّة والثقافيّة التي تتضمَّن مدينة كيرنافي وعدة قلاع وإمدادات غير محصّنة ومواقع مأتميّة ونصب أثرية أخرى منذ نهاية العصر الحجري حتى العصور الوسطى. وقد حافظ هذا الموقع الذي تصل مساحته إلى 194.4 هكتار على آثار احتلالات الأراضي القديمة، بالإضافة إلى آثار خمس تلال محصنة كانت جزءًا من نظام الدفاع الواسع النطاق. في العصور الوسطى، كانت كيرنافي مدينةً إقطاعيّةً مهمّةً دمّرها النظام التوتوني في نهاية القرن الرابع عشر، ولكن الموقع تابع نشاطه حتى العصر الحديث.",
+          "zh": "克拿维考古遗址位于立陶宛东部，在维尔纽斯西北约35公里处，是该地区人类居住约10 000年历史的特别例证。遗址群坐落在涅里斯河谷地，包括克拿维城、堡垒、一些未设防的居住地、墓地和从旧石器时代晚期到中世纪时其他的考古、历史和文化遗迹。该遗址面积为194.4公顷，保留有古代土地使用的遗迹，还有五个山上堡垒（大型防御系统的一部分）的残留部分。克拿维是中世纪一个重要的封建城镇。 虽然该城在14世纪晚期受到条顿骑士团规约的破坏，但是直到现代还在继续使用中。"
+        },
+        "full": "The Kernavė Archaeological site, about 35 km north-west of Vilnius in eastern Lithuania, represents an exceptional testimony to some 10 millennia of human settlements in this region. Situated in the valley of the River Neris, the site is a complex ensemble of archaeological properties, encompassing the town of Kernavė, forts, some unfortified settlements, burial sites and other archaeological, historical and cultural monuments from the late Palaeolithic Period to the Middle Ages. The site of 194,4 ha has preserved the traces of ancient land-use, as well as remains of five impressive hill forts, part of an exceptionally large defence system. Kernavė was an important feudal town in the Middle Ages. The town was destroyed by the Teutonic Order in the late 14th century, however the site remained in use until modern times.",
+        "justification": "Brief synthesis Kernavė Archaeological Site, situated in the valley of the River Neris in eastern Lithuania, provides evidence of human settlements spanning some 10 millennia. Covering an area of 194.4 ha, the property contains archaeological evidence of ancient land use from the late Palaeolithic Period to the Middle Ages. It comprises a complex ensemble of archaeological elements, including the town of Kernavė, a unique complex of impressive hill forts, unfortified settlements, burial sites and other archaeological, historical and cultural monuments. The property contains an extraordinarily rich concentration of archaeological evidence, encompassing natural processes of glacial retreat within a long and continuous period of human occupation and activity. The earliest evidence of human occupation between the 9th and 8th millennia B.C., and subsequent permanent inhabitation until the Late Middle Ages, can be found in several cultural layers and burial sites. The spectacular complex of five hill forts dates back to the 13th century, when Kernavė was an important feudal town of craftsmen and merchants who required the protection of such a complex defence system. The town of Kernavė was destroyed by the Teutonic Order in the late 14th century, but the site continued to be used until modern times. Criterion (iii): The archaeological site of Kernavė presents an exceptional testimony to the evolution of human settlements in the Baltic region over the period of some ten millennia. The property has exceptional evidence of pantheistic and Christian funeral traditions. Criterion (iv): The settlement patterns and the impressive hill-forts represent outstanding examples of the development of such types of structures and the history of their use in the pre-Christian era. Integrity Kernavė Archaeological Site (Cultural Reserve of Kernavė) encompasses complex archaeological and historical sites and providing evidence of many settlement stages. The property incorporates all elements that demonstrate the 11,000 years of continuous human use that underpins its Outstanding Universal Value. There are 15 archaeological and 3 historical monuments in the territory of the Cultural Reserve of Kernavė, including the ancient settlements of Kernavė; Kernavė cemetery; the complex of 5 mounds and ancient settlements of the old town of Kernavė and numerous other monuments up to the 20th century. All the archaeological research material (movable cultural property) is stored and displayed in the Archaeological Site Museum of Kernavė. The Management Plan includes a buffer zone comprising an additional 2455.2 ha, divided into two subsections which make provisions for the physical and visual protection of the property and aim to isolate the Cultural Reserve and associated elements from any negative impacts of activities outside of the Cultural Reserve. Prior to the establishment of the Cultural Reserve in 1989, the lower terrace was used for economic activities such as land cultivation, small-scale developments, pasturages for cattle and traffic). These activities are now prohibited and the remaining settlement is maintained in accordance with the restrictions of heritage protection. Authenticity Kernavė Archaeological Site has a high degree of authenticity with regard to its location, its individual elements and the rich archaeological evidence found within the property. The prehistoric and medieval cultural elements of the Kernavė Archaeological Site remain intact because most of the area was abandoned at the end of the 14th century, with later settlements established to the north. This resulted in the natural preservation of the authenticity of the cultural elements, materials and landscape of the Kernavė Archaeological Site. The systematic and extensive archaeological investigations carried out on site since 1979 have significantly added to knowledge about the property, and provide exemplary scientific evidence of its unique qualities as a site of continuous human adaptation and use since the prehistoric times. The associated excavated materials and movable cultural heritage objects are kept in the archaeological museum, further presenting the authenticity of both Kernavė’s movable and immovable heritage. Potential impacts on the property’s authenticity may arise from the increase of cultural tourism in the region. Archaeological research performed from 1979 examined only about 2% of the territory of the Cultural Reserve of Kernavė and had no negative impact on the authenticity of the monuments. In accordance with the methods on protection and management of immovable valuables, various preventive actions were taken since 1985 at the archaeological site. Protection and management requirements Kernavė Archaeological Site (Cultural Reserve of Kernavė) – hereinafter: the Cultural Reserve – was established as a protected territory, with the highest protection status under a decree of the Seimas (Parliament) of the Republic of Lithuania. There are 15 archaeological and 3 historical monuments in the territory of the Cultural Reserve of Kernavė that are included in the Register of Cultural Property of Lithuania. The entire Cultural Reserve is in the exclusive ownership of the State, which is managed and used by the Administration of the State Cultural Reserve of Kernavė (hereinafter: – the Administration) under trust. Business activities are prohibited within the territory, except for works related to scientific research or adaptation of the site for visiting purposes. The activities within the Cultural Reserve are regulated by a range of legal acts that make provision for heritage protection. These include the Republic of Lithuania Law on Protected Territories, Law on Immovable Cultural Heritage Protection, the Laws on the Land, on Construction, on Territory Planning, and the Cultural Reserve Statute approved by the Government of the Republic of Lithuania. The Administration is a State Cultural institution financed from the State budget, and administered by the Ministry of Culture of the Republic of Lithuania. It is responsible for the protection of the Cultural Reserve and the maintenance of the Outstanding Universal Value of the World Heritage property. The Administration organises activities and implements its goals in accordance with the Statute approved by the Minister of Culture. The Head of the Administration (Site Manager) is advised by an Advisory Council appointed by the Minister of Culture, and benefits from their input on matters including the protection and maintenance of the Cultural Reserve, scientific and archaeological research programmes, the development of visitor infrastructure and the activities within the Cultural Reserve and its buffer zone. The Cultural Reserve buffer zone and its territory were approved by resolution of the Seimas (Parliament) of the Republic of Lithuania. The buffer zone was established in order to shield the cultural values of the Cultural Reserve from the physical, visual or social impacts and assure the general ecological balance. In 2005, the Minister of Culture approved an individual protection regulation for the Cultural Reserve buffer zone, which established the requirements for natural and legal entities engaged in business activities and construction. The regulations make provision for the Administration, in cooperation with the State and municipality institutions that administer the territories, to coordinate and control the implementation of all projects that take place in the buffer zone of the Cultural Reserve. In 2009, a Special Plan of the Cultural Reserve was approved by the Government of the Republic of Lithuania. This strategic document outlines the management and long-term maintenance measures for the Archaeological Site of Kernavė to safeguard the Outstanding Universal Value of the World Heritage property. In 2011, the Cultural Reserve has been given enhanced protection status which is one of the features of the 1999 Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 194.4,
+          "square_km": 1.94,
+          "square_miles": 0.787,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7c01690712a421d26574000ff45cc769",
+          "filename": "site_1137_0001.jpg",
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115249/site_1137_0001.jpg",
+            "https://whc.unesco.org/document/115250/site_1137_0002.jpg",
+            "https://whc.unesco.org/document/122037/site_1137_0008.jpg",
+            "https://whc.unesco.org/document/122038/site_1137_0009.jpg",
+            "https://whc.unesco.org/document/122039/site_1137_0010.jpg",
+            "https://whc.unesco.org/document/122040/site_1137_0011.jpg",
+            "https://whc.unesco.org/document/122041/site_1137_0012.jpg",
+            "https://whc.unesco.org/document/122042/site_1137_0013.jpg",
+            "https://whc.unesco.org/document/122043/site_1137_0014.jpg",
+            "https://whc.unesco.org/document/122044/site_1137_0015.jpg",
+            "https://whc.unesco.org/document/159245/site_1137_0016.jpg",
+            "https://whc.unesco.org/document/159246/site_1137_0017.jpg",
+            "https://whc.unesco.org/document/159247/site_1137_0018.jpg",
+            "https://whc.unesco.org/document/159248/site_1137_0019.jpg",
+            "https://whc.unesco.org/document/159249/site_1137_0020.jpg",
+            "https://whc.unesco.org/document/159250/site_1137_0021.jpg",
+            "https://whc.unesco.org/document/159251/site_1137_0022.jpg",
+            "https://whc.unesco.org/document/159252/site_1137_0023.jpg",
+            "https://whc.unesco.org/document/159253/site_1137_0024.jpg",
+            "https://whc.unesco.org/document/159254/site_1137_0025.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+            "ref": "1137",
+            "latitude": 54.879,
+            "longitude": 24.853
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1137",
+        "unesco_documents": "https://whc.unesco.org/en/list/1137/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1137/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1137/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kernavė Archaeological Site (Cultural Reserve of Kernavė) The Kernavė Archaeological site, about 35 km north-west of Vilnius in eastern Lithuania, represents an exceptional testimony to some 10 millennia of human settlements in this region. Situated in the valley of the River Neris, the site is a complex ensemble of archaeological properties, encompassing the town of Kernavė, forts, some unfortified settlements, burial sites and other archaeological, historical and cultural monuments from the late Palaeolithic Period to the Middle Ages. The site of 194,4 ha has preserved the traces of ancient land-use, as well as remains of five impressive hill forts, part of an exceptionally large defence system. Kernavė was an important feudal town in the Middle Ages. The town was destroyed by the Teutonic Order in the late 14th century, however the site remained in use until modern times. The Kernavė Archaeological site, about 35 km north-west of Vilnius in eastern Lithuania, represents an exceptional testimony to some 10 millennia of human settlements in this region. Situated in the valley of the River Neris, the site is a complex ensemble of archaeological properties, encompassing the town of Kernavė, forts, some unfortified settlements, burial sites and other archaeological, historical and cultural monuments from the late Palaeolithic Period to the Middle Ages. The site of 194,4 ha has preserved the traces of ancient land-use, as well as remains of five impressive hill forts, part of an exceptionally large defence system. Kernavė was an important feudal town in the Middle Ages. The town was destroyed by the Teutonic Order in the late 14th century, however the site remained in use until modern times. Lithuania Europe and North America Cultural"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "country": {
+    "code": "MLT",
+    "name": "Malta"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "megalithic_temples_of_malta",
+      "uuid": "552696a0-600e-513b-b7e2-9133e2fb9d21",
+      "unesco_id": "132",
+      "names": {
+        "en": "Megalithic Temples of Malta",
+        "fr": "Temples mégalithiques de Malte",
+        "es": "Templos megalíticos de Malta",
+        "ru": "Мегалитические храмы Мальты",
+        "ar": "معابد مالطا المبنيّة من الأحجار الضخمة المستعملة في عصور ما قبل التاريخ",
+        "zh": "马耳他巨石庙"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLT": {
+            "name": "Malta",
+            "iso2": "MT",
+            "iso3": "MLT"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta.",
+          "fr": "Les îles de Malte et de Gozo abritent sept temples mégalithiques, chacun témoignant d'un développement distinct. À Gozo, les deux temples de Ggantija sont remarquables pour leur réalisations gigantesques de l'âge de bronze. Dans l'île de Malte, les temples de Hagar Qim, Mnajdra et Tarxien sont des chefs-d'œuvre architecturaux uniques étant donné les ressources très limitées dont disposaient leurs constructeurs. Les ensembles de Ta'Hagrat et de Skorba témoignent de la façon dont la tradition des temples s'est perpétuée à Malte.",
+          "es": "Las islas de Malta y Gozo albergan un total de siete templos megalíticos con características individuales propias bien diferenciadas. En Gozo, los dos templos de Ggantija se destacan por sus gigantescas estructuras de la Edad del Bronce. En Malta, los templos de Hagar Qinn Mnajdra y Tarxien son obras maestras arquitectónicas únicas en su género, habida cuenta de los recursos extremadamente limitados de que dispusieron sus constructores. Los conjuntos de T'Hagrat y de Skorba atestiguan la perdurabilidad de la tradición de construcción de templos en Malta.",
+          "ru": "На островах Мальта и Гоцо найдены семь мегалитических святилищ, каждое из которых имеет свою историю. Два святилища Джгантии на острове Гоцо замечательны своими гигантскими сооружениями, относящимися к бронзовому веку. Святилища Хаджьяр-Им, Мнайдра и Таршьен на острове Мальта – это уникальные архитектурные сооружения, воздвигнутые древними строителями, в распоряжении которых были весьма ограниченные ресурсы. Комплексы Та-Хаграт и Скорба демонстрируют процесс формирования на Мальте традиций сооружения храмов-святилищ.",
+          "ar": "في جزيرتي مالطا وغوزو سبعة معابدَ مبنيّة من الأحجار الضّخمة المستعملة في عصور ما قبل التاريخ، يشهد كلُّ معبدٍ منها على تطوّرٍ مميّز. فغوزو تضمّ معبدَي غانتيا الفريدَيْن بسبب بنائهما الهائل الذي يعود الى العصر البرونزي. أما في جزيرة مالطا، فتُعتبر معابد هاغاركين ومونيادري وتركسيان تحفًا هندسية فريدة نظراً للمصادر المحدودة جدًا التي كانت متوفرةً في ذلك الوقت لمعمرّيها. كما تشهد مجموعة تاهاغراط وسكوربا على الطريقة التي أتاحت لتقاليد المعابد أن تدوم في مالطا.",
+          "zh": "在马耳他岛和戈佐岛上发现了七个巨石庙，其中每一个都是独立发展的结果。戈佐岛上的两座詹蒂亚寺庙以其巨大的青铜时代建筑而最引人注目。对当时的建筑者来说，资源非常有限，考虑到这一点，马耳他岛屿上的哈贾尔基姆、姆纳耶德拉和塔克西恩也可以看作是举世无双的建筑精品了。Ta'Hagrat 和 Skorba 建筑表现了马耳他寺庙建筑传统的流传方式。"
+        },
+        "full": "Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta.",
+        "justification": "Brief synthesis The Megalithic Temples of Malta (Ġgantija, Ħaġar Qim, Mnajdra, Skorba, Ta’ Ħaġrat and Tarxien) are prehistoric monumental buildings constructed during the 4th millennium BC and the 3rd millennium BC. They rank amongst the earliest free-standing stone buildings in the world and are remarkable for their diversity of form and decoration. Each complex is a unique architectural masterpiece and a witness to an exceptional prehistoric culture renowned for its remarkable architectural, artistic and technological achievements. Each monument is different in plan, articulation and construction technique. They are usually approached from an elliptical forecourt in front of a concave façade. The façade and internal walls consist of upright stone slabs, known as orthostats, surmounted by horizontal blocks. The surviving horizontal masonry courses indicate that the monuments had corbelled roofs, probably capped by horizontal beams. This method of construction was a remarkably sophisticated solution for its time. The external walls are usually constructed in larger blocks set alternately face out and edge out, tying the wall securely into the rest of the building. The space between the external wall and the walls of the inner chambers is filled with stones and earth, binding the whole structure together. Typically, the entrance to the building is found in the centre of the façade, leading through a monumental passageway onto a paved court. The interiors of the buildings are formed of semi-circular chambers usually referred to as apses, symmetrically arranged on either side of the main axis. The number of apses varies from building to building; some have three apses opening off the central court, whilst others have successive courts with four, five, and in one case even six apses. The temple builders used locally available stone of which they had a thorough knowledge. They used hard coralline limestone for external walls and the softer globigerina limestone for the more sheltered interiors and decorated elements. Decorated features found within the buildings bear witness to a high level of craftsmanship. These elements consist mainly of panels decorated with drilled holes and bas-relief panels depicting spiral motifs, trees, plants and various animals. The form and layout of these buildings, as well as the artefacts found within them, suggest they were an important ritual focus of a highly organized society. Criterion (iv): The Megalithic Temples of Malta are remarkable not only because of their originality, complexity and striking massive proportions, but also because of the considerable technical skill required in their construction. Integrity All six components of the property are in a reasonably good state of conservation, although the Tarxien complex is less well preserved than the others. All their key attributes are within the boundaries of the property. Surviving vestiges attest to the techniques used in the building of these complex structures, and the knowledge and skill of the people who built them. However, the structures are vulnerable to both material and structural deterioration, so research continues to be conducted to identify preservation strategies for the buildings. Authenticity The six components of the property have a high level of authenticity. They consist of well-preserved remains of megalithic temples, with evidence of different phases of construction in Antiquity. The components have been recorded in travel accounts since Early Modern times, while photographic records of some components go back to the early 1900s. Various restoration interventions have been carried out on five of the six components since their excavation. These included moving decorated blocks indoors to protect them from weathering, and capping the surviving blocks with cement. Current conservation interventions are guided by international standards, guidelines and charters. Protection and management requirements All six temples are subject to the main legal instrument for the protection of cultural heritage resources in Malta, the Cultural Heritage Act (2002). This Act provides for and regulates national bodies for the protection and management of cultural heritage resources. Building development and land use are regulated by the Environment and Development Planning Act (2010) and subsequent amendments), which provides for and regulates the Malta Environment and Planning Authority. Since land use is a highly contested issue in the Maltese islands, the safeguarding of the Megalithic Temples and their buffer zone through the careful regulation of building development is therefore an issue of fundamental concern. Each temple is protected by a buffer zone. The components and their buffer zones are formally scheduled by the Malta Environment and Planning Authority as Grade A archaeological sites, which means they are subject to wide-ranging restrictions of building development. The application of these restrictions varies according to the local context. An important challenge is to establish more rigorous control aimed at mitigating visual impact caused by building development in the vicinity of the buffer zones. A Management Plan has been drawn up for the inscribed property, which covers each temple and its buffer zone. The physical conservation of the Megalithic Temples is an area of concern and is the subject of the 2006-2011 Conservation Plan, which established the general principles. The sites were excavated during the course of the 19th and 20th centuries, leaving them exposed to erosion by natural and human causes. Protective shelters are presently the most prudent and effective means available to slow down the deterioration processes that are eroding the monuments. Lightweight, removable protective covers have been implemented as an interim strategy to prolong the life of these buildings, while research continues to identify alternative long-term preservation strategies."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3.155,
+          "square_km": 0.03,
+          "square_miles": 0.013,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980,
+            1992
+          ],
+          "extensions": [
+            1992
+          ],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1992,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f35c866bbcf892957eae54a265ba650d",
+          "filename": "site_0132_0001-500-0-20201008160923.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108126/site_0132_0001.jpg",
+            "https://whc.unesco.org/document/108132/site_0132_0004.jpg",
+            "https://whc.unesco.org/document/108128/site_0132_0002.jpg",
+            "https://whc.unesco.org/document/108130/site_0132_0003.jpg",
+            "https://whc.unesco.org/document/108134/site_0132_0005.jpg",
+            "https://whc.unesco.org/document/108136/site_0132_0006.jpg",
+            "https://whc.unesco.org/document/108137/site_0132_0007.jpg",
+            "https://whc.unesco.org/document/108139/site_0132_0008.jpg",
+            "https://whc.unesco.org/document/108141/site_0132_0009.jpg",
+            "https://whc.unesco.org/document/108143/site_0132_0010.jpg",
+            "https://whc.unesco.org/document/108145/site_0132_0011.jpg",
+            "https://whc.unesco.org/document/108147/site_0132_0012.jpg",
+            "https://whc.unesco.org/document/108150/site_0132_0013.jpg",
+            "https://whc.unesco.org/document/108152/site_0132_0014.jpg",
+            "https://whc.unesco.org/document/108154/site_0132_0015.jpg",
+            "https://whc.unesco.org/document/108155/site_0132_0016.jpg",
+            "https://whc.unesco.org/document/108157/site_0132_0017.jpg",
+            "https://whc.unesco.org/document/108159/site_0132_0018.jpg",
+            "https://whc.unesco.org/document/116937/site_0132_0019.jpg",
+            "https://whc.unesco.org/document/116938/site_0132_0020.jpg",
+            "https://whc.unesco.org/document/116939/site_0132_0021.jpg",
+            "https://whc.unesco.org/document/116940/site_0132_0022.jpg",
+            "https://whc.unesco.org/document/116941/site_0132_0023.jpg",
+            "https://whc.unesco.org/document/116942/site_0132_0024.jpg",
+            "https://whc.unesco.org/document/116943/site_0132_0025.jpg",
+            "https://whc.unesco.org/document/116944/site_0132_0026.jpg",
+            "https://whc.unesco.org/document/116945/site_0132_0027.jpg",
+            "https://whc.unesco.org/document/116946/site_0132_0028.jpg",
+            "https://whc.unesco.org/document/116947/site_0132_0029.jpg",
+            "https://whc.unesco.org/document/116948/site_0132_0030.jpg",
+            "https://whc.unesco.org/document/116954/site_0132_0031.jpg",
+            "https://whc.unesco.org/document/116955/site_0132_0032.jpg",
+            "https://whc.unesco.org/document/116956/site_0132_0033.jpg",
+            "https://whc.unesco.org/document/116949/site_0132_0034.jpg",
+            "https://whc.unesco.org/document/116950/site_0132_0035.jpg",
+            "https://whc.unesco.org/document/116951/site_0132_0036.jpg",
+            "https://whc.unesco.org/document/116952/site_0132_0037.jpg",
+            "https://whc.unesco.org/document/116953/site_0132_0038.jpg",
+            "https://whc.unesco.org/document/139104/site_0132_0039.jpg",
+            "https://whc.unesco.org/document/139105/site_0132_0040.jpg",
+            "https://whc.unesco.org/document/139106/site_0132_0041.jpg",
+            "https://whc.unesco.org/document/139107/site_0132_0042.jpg",
+            "https://whc.unesco.org/document/139108/site_0132_0043.jpg",
+            "https://whc.unesco.org/document/139109/site_0132_0044.jpg",
+            "https://whc.unesco.org/document/147373/site_0132_0045.jpg",
+            "https://whc.unesco.org/document/147374/site_0132_0046.jpg",
+            "https://whc.unesco.org/document/147375/site_0132_0047.jpg",
+            "https://whc.unesco.org/document/147376/site_0132_0048.jpg",
+            "https://whc.unesco.org/document/147377/site_0132_0049.jpg",
+            "https://whc.unesco.org/document/147378/site_0132_0050.jpg",
+            "https://whc.unesco.org/document/147379/site_0132_0051.jpg",
+            "https://whc.unesco.org/document/147380/site_0132_0052.jpg",
+            "https://whc.unesco.org/document/147381/site_0132_0053.jpg",
+            "https://whc.unesco.org/document/147382/site_0132_0054.jpg"
+          ],
+          "count": 54
+        }
+      },
+      "components": {
+        "count": 6,
+        "locations": [
+          {
+            "name": "Skorba",
+            "ref": "132ter-005",
+            "latitude": 35.9209585002,
+            "longitude": 14.3777668843
+          },
+          {
+            "name": "Mnajdra",
+            "ref": "132ter-003",
+            "latitude": 35.826737653,
+            "longitude": 14.4367730611
+          },
+          {
+            "name": "Tarxien",
+            "ref": "132ter-006",
+            "latitude": 35.869301691,
+            "longitude": 14.5122119476
+          },
+          {
+            "name": "Ta' Hagrat",
+            "ref": "132ter-004",
+            "latitude": 35.9186333928,
+            "longitude": 14.3686989862
+          },
+          {
+            "name": "Ħaġar Qim",
+            "ref": "132ter-002",
+            "latitude": 35.8278277839,
+            "longitude": 14.4417878435
+          },
+          {
+            "name": "Ġgantija Temples",
+            "ref": "132ter-001",
+            "latitude": 36.0490314815,
+            "longitude": 14.2677526491
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/132",
+        "unesco_documents": "https://whc.unesco.org/en/list/132/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/132/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/132/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Megalithic Temples of Malta Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta. Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta. Malta Europe and North America Cultural"
+    },
+    {
+      "site_key": "hal_saflieni_hypogeum",
+      "uuid": "733cc294-3d6f-5da4-b1b8-e81489db77e4",
+      "unesco_id": "130",
+      "names": {
+        "en": "Ħal Saflieni Hypogeum",
+        "fr": "Ipogée de Ħal Saflieni",
+        "es": "Hipogeo de Hal Saflieni",
+        "ru": "Святилище Хал-Сафлиени",
+        "ar": "ناووس حال صافليني",
+        "zh": "哈尔•萨夫列尼地下宫殿"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLT": {
+            "name": "Malta",
+            "iso2": "MT",
+            "iso3": "MLT"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times.",
+          "fr": "Énorme structure creusée dans le sol vers 2500 av. J.-C et revêtue d'un appareil cyclopéen. avec de grandes dalles de calcaire corallien, l'hypogée, qui fut peut-être d'abord un sanctuaire, devint une nécropole dès les temps préhistoriques.",
+          "es": "Este hipogeo es una enorme estructura subterránea excavada hacia el año 2500 a.C., en la que se alzan bloques colosales de caliza coralina levantados con aparejos ciclópeos. Destinado probablemente en un principio a cumplir la función de santuario, se utilizó como necrópolis desde los tiempos prehistóricos.",
+          "ru": "Эти гигантские подземные катакомбы – «ипогей» - были вырыты в середине 3-го тысячелетия до н.э.. Для того, чтобы поднять огромные блоки кораллового известняка, при строительстве катакомб использовались особо мощные устройства. Возможно, первоначально эти постройки несли функцию святилища, однако позже оно превратилось в место захоронения – некрополь.",
+          "ar": "إن الناووس الذي كان على الأرجح معبدًا في البداية هو بناءٌ ضخمٌ شُيّد تحت الأرض حوالى 2500 ق.م. يغطّيه جهازٌ ضخمٌ مؤلّفٌ من بلاطاتٍ كبيرةٍ من الكلس المرجاني. وقد أصبح مقبرةً كبيرةً منذ عصور ما قبل التاريخ.",
+          "zh": "哈尔·萨夫列尼地下宫殿是一个巨大的地下建筑，建于约公元前2500年，它是利用大型的传动索运输巨石和珊瑚石灰石建造而成。这座地下宫殿可能曾是避难所，但从史前时期起便成为大墓地。"
+        },
+        "full": "The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times.",
+        "justification": "Brief synthesis The Ħal Saflieni Hypogeum (underground cemetery) was discovered in 1902 on a hill overlooking the innermost part of the Grand Harbour of Valletta, in the town of Paola. It is a unique prehistoric monument, which seems to have been conceived as an underground cemetery, originally containing the remains of about 7,000 individuals. The cemetery was in use throughout the Żebbuġ, Ġgantija and Tarxien Phases of Maltese Prehistory, spanning from around 4000 B.C. to 2500 B.C. Originally, one entered the Ħal Saflieni Hypogeum through a structure at ground level. Only a few blocks of this entrance building have been discovered, and its form and dimensions remain uncertain. The plan of the Hypogeum itself is a series of three superimposed levels of chambers cut into soft globigerina limestone, using only chert, flint and obsidian tools and antlers. The earliest of the three levels is the uppermost, scooped out of the brow of a hill. A number of openings and chambers for the burial of the dead were then cut into the sides of the cavity. The two lower levels were also hewn entirely out of the natural rock. Some natural daylight reached the middle level through a small opening from the upper level, but artificial lighting must have been used to navigate through some of the middle level chambers and the lowest level, which is 10.60 m below the present ground level. One of the most striking characteristics of the Ħal Saflieni Hypogeum is that some of the chambers appear to have been cut in imitation of the architecture of the contemporary, above-ground megalithic temples. Features include false bays, inspired by trilithon doorways, and windows. Most importantly, some of the chambers have ceilings with one ring of carved stone overhanging the one below to imitate a roof of corbelled masonry. This form echoes the way in which some of the masonry walls of the contemporary above-ground temple chambers are corbelled inwards, suggesting that they too were originally roofed over. Some of the walls and ceilings of the chambers were decorated with spiral and honey-comb designs in red ochre, a mineral pigment. These decorations are the only prehistoric wall paintings found on the Maltese Islands. In one of these decorated chambers, there is a small niche which echoes when someone speaks into it. While this effect may not have been created intentionally, it may well have been exploited as part of the rituals that took place within the chambers. Excavation of the Ħal Saflieni Hypogeum produced a wealth of archaeological material, including numerous human bones, which suggests that the burial ritual had more than one stage. It appears that bodies were probably left exposed until the flesh had decomposed and fallen off. The remaining bones and what appear to be some of the personal belongings were then gathered and buried within the chambers together with copious amounts of red ochre. The use of ochre seems to have been a part of the ritual, perhaps to infuse the bones with the colour of blood and life. Individuals were not buried separately, but piled onto each other. Artefacts recovered from the site include pottery vessels decorated in intricate designs, shell buttons, stone and clay beads and amulets, as well as little stone carved animals and birds that may have originally been worn as pendants. The most striking finds are stone and clay figurines depicting human figures. The most impressive of these figures is that showing a woman lying on a bed or ‘couch’, popularly known as the ‘Sleeping Lady’. This figure is a work of art in itself, demonstrating a keen eye for detail. Criterion (iii): The Ħal Saflieni Hypogeum is a unique monument of exceptional value. It is the only known European example of a subterranean ‘labyrinth’ from about 4,000 B.C. to 2,500 B.C. The quality of its architecture and its remarkable state of preservation make it an essential prehistoric monument. Integrity The Ħal Saflieni Hypogeum is one of the best preserved and most extensive environments that have survived from the Neolithic. With the exception of the fragmentary remains of the above-ground entrance, all the key attributes of the property, including the architectural details and painted wall decorations, have remained intact within the boundaries. The main threats to the preservation of the Ħal Saflieni Hypogeum are the fluctuating temperature and relative humidity levels within the site, as well as water infiltration and biological infestations. Authenticity The Ħal Saflieni Hypogeum is one of the two most important prehistoric burial sites in the Maltese islands and is very well preserved, unlike the fragmentary remains that usually survive from the above-ground structures of this period. The unusual preservation of the rock-cut chambers allows the study of a system of interconnecting spaces very much as they were conceived and experienced by a Neolithic mind. The imitation of the interior of a megalithic temple built above ground not only provides evidence on the corbelling system that was used to roof the temples, but is also important in terms of the development of human processes of cognition and representation. The Ħal Saflieni Hypogeum has also yielded several important artefacts of great artistic significance. Foremost amongst these is the so-called ‘Sleeping Lady’, a miniature ceramic figurine that is widely held to be one of the great masterpieces of prehistoric anthropomorphic representation. Protection and management requirements The principal legal instrument for the protection of cultural heritage resources in Malta is the Cultural Heritage Act (2002), which provides for and regulates national bodies for the protection and management of cultural heritage resources. Building development and land use is regulated by the Environment and Development Planning Act (2010 and subsequent amendments), which provides for and regulates the Malta Environment and Planning Authority. The Ħal Saflieni Hypogeum is protected by a buffer zone, and both the Ħal Saflieni Hypogeum and its buffer zone are formally designated by the Malta Environment and Planning Authority as a Grade A archaeological site, which means they are subject to wide-ranging restrictions of building development. A programme of monitoring and research, launched in order to understand the microclimate of the Hypogeum, was followed by a project for the conservation of the property, designed and implemented in the 1990s. Houses directly above the site were acquired and dismantled; light levels within the property are strictly controlled; and visitor numbers limited. These measures have helped to maintain stable temperature and humidity levels, which continue to be monitored closely."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.13,
+          "square_km": 0.0,
+          "square_miles": 0.001,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/bb6437d950da40a2441343226969b660",
+          "filename": "site_0130_0001-500-0-20090930155303.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 349
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108086/site_0130_0001.jpg",
+            "https://whc.unesco.org/document/147368/site_0130_0002.jpg",
+            "https://whc.unesco.org/document/147369/site_0130_0003.jpg",
+            "https://whc.unesco.org/document/147370/site_0130_0004.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ħal Saflieni Hypogeum",
+            "ref": "130",
+            "latitude": 35.8695900049,
+            "longitude": 14.5068833733
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/130",
+        "unesco_documents": "https://whc.unesco.org/en/list/130/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/130/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/130/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ħal Saflieni Hypogeum The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times. The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times. Malta Europe and North America Cultural"
+    },
+    {
+      "site_key": "city_of_valletta",
+      "uuid": "05abc780-75de-5e11-afa2-27931a67d207",
+      "unesco_id": "131",
+      "names": {
+        "en": "City of Valletta",
+        "fr": "Ville de La Valette",
+        "es": "Ciudad de La Valette",
+        "ru": "Город Валлетта",
+        "ar": "مدينة فاليتا",
+        "zh": "瓦莱塔古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MLT": {
+            "name": "Malta",
+            "iso2": "MT",
+            "iso3": "MLT"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world.",
+          "fr": "La capitale de la république de Malte est irrévocablement liée à l'histoire de l'ordre militaire et charitable de Saint-Jean-de-Jérusalem. La ville a été successivement dominée par les Phéniciens, les Grecs, les Carthaginois, les Romains, les Byzantins, les Arabes et l'ordre des chevaliers de Malte. Ses 320 monuments sur une superficie de 55 ha en font l'une des zones historiques les plus concentrées du monde.",
+          "es": "La historia de La Valette, capital de la República de Malta, está indisolublemente unida a la de la Orden Militar y Hospitalaria de San Juan de Jerusalén, conocida también por el nombre de Orden de los Caballeros de Malta. Antes de ser gobernada por los caballeros, la ciudad estuvo sucesivamente bajo la dominación de fenicios, griegos, cartagineses, romanos, bizantinos y árabes. Concentrados en una superficie de tan sólo 55 hectáreas, los 320 monumentos de La Valette hacen que su centro histórico sea uno de los más densos del mundo.",
+          "ru": "Столица Мальты неразрывно связана с историей военного и благотворительного ордена св. Иоанна Иерусалимского. Остров, на котором находится город, последовательно принадлежал финикийцам, грекам, карфагенянам, римлянам, византийцам, арабам и рыцарскому ордену св. Иоанна. Это один из наиболее насыщенных историческими достопримечательностями городов мира: на площади в 55 га сконцентрировано 320 памятников.",
+          "ar": "ترتبط عاصمة جمهورية مالطا ارتباطًا وثيقًا بتاريخ نظام القديس يوحنا الاورشليمي العسكري والخيري. وقد سيطر على هذه المدينة بالتتابع كل من الفينيقيّين واليونانيّين والقرطاجيّين والرومان والبيزنطيّين والعرب وفرقة فرسان مالطا. وقد جعلت النصب، التي يصل عددها إلى 320 والتي تنتشر على مساحة 55 هكتارا، من هذه المدينة إحدى أغنى المناطق تاريخياً في العالم.",
+          "zh": "马耳他共和国首都瓦莱塔与耶路撒冷的圣约翰骑士团的军事和宗教历史紧密联系在一起。瓦莱塔相继由腓尼基人、希腊人、迦太基人、罗马人、拜占庭人、阿拉伯人及圣约翰骑士团统治。在方圆55公顷的土地上耸立的320个历史遗迹使瓦莱塔成为世界上古迹最集中的历史文化区之一。"
+        },
+        "full": "The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world.",
+        "justification": "Brief synthesis Malta’s capital Valletta is a fortified city located on a hilly peninsula between two of the finest natural harbours in the Mediterranean. The Siege of Malta in 1565 captured the European imagination and mobilised the resources needed to create the new city of Valletta, founded soon after, in 1566. The Knights of St John, aided by the most respected European military engineers of the 16th century, conceived and planned the city as a single, holistic creation of the late Renaissance, with a uniform grid plan within fortified and bastioned city walls. Since its creation, the city has witnessed a number of rebuilding projects, yet those have not compromised the harmony between the dramatic topography and the Hippodamian grid. The fabric of the city includes a compact ensemble of 320 monuments that encapsulate every aspect of the civil, religious, artistic and military functions of its illustrious founders. These include the 16th century buildings relating to the founding of the Renaissance city, such as the cathedral of St John, the Palace of the Grand Master, the Auberge de Castile et Léon, the Auberge de Provence, the Auberge d’Italie, the Auberge d’Aragon and the Infirmary of the Order and the churches of Our Lady of Victory, St Catherine and il Gesù, as well as the improvements attributed to the military engineers and architects of the 18th century such as the Auberge de Bavière, the Church of the Shipwreck of St Paul, the Library and the Manoel Theatre. Criterion (i): The city is pre-eminently an ideal creation of the late Renaissance with its uniform urban plan, inspired by neo-platonic principles, its fortified and bastioned walls modelled around the natural site and the voluntary implantation of great monuments in well-chosen locations. Criterion (vi): The city is irrevocably affiliated with the history of the military and charitable Order of the Knights of St John of Jerusalem, which founded the city in 1566 and maintained it throughout two and a half centuries. Valletta is thus associated with the history of one of the greatest military and moral forces of modern Europe. Integrity The city is built on a narrow peninsula surrounded by water. As a result, the perimeter of the city has remained largely unchanged since the departure of the Knights of St John, unencumbered by more recent development. It is of sufficient size and includes all elements necessary to express its Outstanding Universal Value. In spite of some rebuilding projects during the 19th century and severe damage during World War II, a high proportion of the original monuments and the surrounding urban fabric has been preserved intact or carefully restored. The massing and materials used during these later interventions have blended homogenously with the earlier fabric, simultaneously respecting the original urban form. However, the Outstanding Universal Value of the property is vulnerable to impacts on its setting, form and fabric, deriving from the demands of a living city. Authenticity Despite the succession of eventful interludes that Valletta has witnessed since the departure of the Knights, resulting in frequent changes of use of many of the buildings they left behind, Valletta has remained the administrative and commercial epicentre of the island and is today Malta’s capital. The property essentially retains its skyline and form from the 16th century, reflecting the natural topography of the peninsula; however, this is vulnerable to development pressures resulting in the increase of building heights, which is not always consistent with the city’s historic profile. The original grid of the street plan has been respected and the most important public squares have been retained, although some key monuments were lost to 19th and 20th century re-development. Rebuilding and restoration necessitated by later war damage has respected the materials and proportions of the historic city. The property retains its authenticity in terms of form and design, materials, function, location and setting. Protection and management requirements Two laws governing heritage issues were enacted in the 1990s. The first was the Environment Protection Act (No V of 1991), the second The Environment and Planning Development Act (No 1 of 1992), which aims to regulate and establish modern planning procedures. The latter established critical principles of scheduling and grading of historic buildings, and introduced the concepts of urban conservation areas and protective zoning. Although these policies relate to the whole of Malta and Gozo, they have particular relevance to Valletta. The Grand Harbour Local Plan (realised by the Malta Environment and Planning Authority), in force since 2002, contains policies that specifically protect the World Heritage property. The Cultural Heritage Act (No VI of 2002, am. 2005) paved the way for the formation of three entities, namely the Superintendence of Cultural Heritage, Heritage Malta and the Malta Centre for Restoration (which was merged with Heritage Malta in 2005). The Act also provides for the creation of Religious Cultural Heritage Commissions, which have the same powers and responsibilities as the Superintendent of Cultural Heritage. However, the latter has no jurisdiction over Church property. From 1995, the most significant buildings, monuments and features of Valletta were afforded statutory protection individually and collectively by means of a scheduling scheme. In addition, the Maltese Government has established a number of national entities to ensure that its aims of conservation and rehabilitation of Valletta are achieved. Valletta is a living city. It is the nerve centre of the Maltese political, administrative and business sphere as well as a major tourist attraction. The day-to-day demands of a modern community exert heavy demands on the institutional bodies entrusted with safeguarding, conserving and enhancing national monuments which are in daily use. Equally heavy and persistent demands are made on the housing and business premises of the city. To sustain the Outstanding Universal Value of the property, a draft Management Plan for the city was prepared in 2012 and the consultation with stakeholders is ongoing. The adequate implementation of the Management Plan will require collaboration among key entities on large-scale developments within the walled city, as well as clear policies on height controls to protect the city’s skyline and streetscapes, on the extent of the control area for building heights and on view sheds outside the walled city."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1
+          ],
+          "natural": [],
+          "all": [
+            1
+          ],
+          "display": "(i)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 55.5,
+          "square_km": 0.56,
+          "square_miles": 0.225,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2cb86ea4e3b1fccb8b5657184747ed58",
+          "filename": "site_0131_0001.jpg",
+          "dimensions": {
+            "width": 2304,
+            "height": 3072
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108088/site_0131_0001.jpg",
+            "https://whc.unesco.org/document/222926/site_0131_0045.jpg",
+            "https://whc.unesco.org/document/222927/site_0131_0046.jpg",
+            "https://whc.unesco.org/document/222928/site_0131_0047.jpg",
+            "https://whc.unesco.org/document/222929/site_0131_0048.jpg",
+            "https://whc.unesco.org/document/222930/site_0131_0049.jpg",
+            "https://whc.unesco.org/document/222931/site_0131_0050.jpg",
+            "https://whc.unesco.org/document/222932/site_0131_0051.jpg",
+            "https://whc.unesco.org/document/222933/site_0131_0052.jpg",
+            "https://whc.unesco.org/document/222934/site_0131_0053.jpg",
+            "https://whc.unesco.org/document/222935/site_0131_0054.jpg",
+            "https://whc.unesco.org/document/222936/site_0131_0055.jpg",
+            "https://whc.unesco.org/document/222937/site_0131_0056.jpg",
+            "https://whc.unesco.org/document/222938/site_0131_0057.jpg",
+            "https://whc.unesco.org/document/108090/site_0131_0002.jpg",
+            "https://whc.unesco.org/document/108093/site_0131_0003.jpg",
+            "https://whc.unesco.org/document/108095/site_0131_0004.jpg",
+            "https://whc.unesco.org/document/108097/site_0131_0005.jpg",
+            "https://whc.unesco.org/document/108099/site_0131_0006.jpg",
+            "https://whc.unesco.org/document/108101/site_0131_0007.jpg",
+            "https://whc.unesco.org/document/108103/site_0131_0008.jpg",
+            "https://whc.unesco.org/document/108105/site_0131_0009.jpg",
+            "https://whc.unesco.org/document/108107/site_0131_0010.jpg",
+            "https://whc.unesco.org/document/108109/site_0131_0011.jpg",
+            "https://whc.unesco.org/document/108111/site_0131_0012.jpg",
+            "https://whc.unesco.org/document/108113/site_0131_0013.jpg",
+            "https://whc.unesco.org/document/108116/site_0131_0014.jpg",
+            "https://whc.unesco.org/document/108117/site_0131_0015.jpg",
+            "https://whc.unesco.org/document/108119/site_0131_0016.jpg",
+            "https://whc.unesco.org/document/108122/site_0131_0017.jpg",
+            "https://whc.unesco.org/document/108124/site_0131_0018.jpg",
+            "https://whc.unesco.org/document/116928/site_0131_0019.jpg",
+            "https://whc.unesco.org/document/116929/site_0131_0020.jpg",
+            "https://whc.unesco.org/document/116930/site_0131_0021.jpg",
+            "https://whc.unesco.org/document/116931/site_0131_0022.jpg",
+            "https://whc.unesco.org/document/116932/site_0131_0023.jpg",
+            "https://whc.unesco.org/document/116933/site_0131_0025.jpg",
+            "https://whc.unesco.org/document/116934/site_0131_0026.jpg",
+            "https://whc.unesco.org/document/116935/site_0131_0027.jpg",
+            "https://whc.unesco.org/document/116936/site_0131_0029.jpg",
+            "https://whc.unesco.org/document/139093/site_0131_0030.jpg",
+            "https://whc.unesco.org/document/139094/site_0131_0031.jpg",
+            "https://whc.unesco.org/document/139095/site_0131_0032.jpg",
+            "https://whc.unesco.org/document/139096/site_0131_0033.jpg",
+            "https://whc.unesco.org/document/139097/site_0131_0034.jpg",
+            "https://whc.unesco.org/document/147358/site_0131_0035.jpg",
+            "https://whc.unesco.org/document/147359/site_0131_0036.jpg",
+            "https://whc.unesco.org/document/147360/site_0131_0037.jpg",
+            "https://whc.unesco.org/document/147361/site_0131_0038.jpg",
+            "https://whc.unesco.org/document/147362/site_0131_0039.jpg",
+            "https://whc.unesco.org/document/147363/site_0131_0040.jpg",
+            "https://whc.unesco.org/document/147364/site_0131_0041.jpg",
+            "https://whc.unesco.org/document/147365/site_0131_0042.jpg",
+            "https://whc.unesco.org/document/147366/site_0131_0043.jpg",
+            "https://whc.unesco.org/document/147367/site_0131_0044.jpg"
+          ],
+          "count": 55
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "City of Valletta",
+            "ref": "131",
+            "latitude": 35.90056,
+            "longitude": 14.51444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/131",
+        "unesco_documents": "https://whc.unesco.org/en/list/131/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/131/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/131/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "City of Valletta The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world. The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world. Malta Europe and North America Cultural"
+    }
+  ]
+}

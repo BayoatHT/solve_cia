@@ -1,0 +1,1229 @@
+{
+  "country": {
+    "code": "SEN",
+    "name": "Senegal"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "stone_circles_of_senegambia",
+      "uuid": "236a8493-64b3-519b-a3f6-28cd018bc2a9",
+      "unesco_id": "1226",
+      "names": {
+        "en": "Stone Circles of Senegambia",
+        "fr": "Cercles mégalithiques de Sénégambie",
+        "es": "Círculos Megalíticos de Senegambia",
+        "ru": "Кольца камней-мегалитов в Сенегамбии",
+        "ar": "الدوائر المغليثية المتعلّقة بالآثار السابقة للتاريخ المبنية على الحجارة الضخمة في كونفدرالية السنغال وغامبيا",
+        "zh": "塞内冈比亚石圈"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GMB": {
+            "name": "Gambia",
+            "iso2": "GM",
+            "iso3": "GMB"
+          },
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.",
+          "fr": "Ces quatre grands groupes de cercles mégalithiques constituent une concentration extraordinaire - plus de 1 000 monuments - sur une bande de 100 km de large qui longe sur 350 km le fleuve Gambie. Les quatre groupes, Sine Ngayène, Wanar, Wassu et Kerbatch rassemblent 93 cercles et de nombreux tumuli, monticules funéraires. Certains ont été fouillés et ont révélé un matériel archéologique que l’on peut dater entre le IIIe siècle av. J.-C et le XVIe siècle de notre ère. Les cercles de pierres de latérite soigneusement taillées et leurs tumuli associés présentent un vaste paysage sacré qui s’est constitué sur plus de 1 500 ans et rendent compte d’une société prospère, pérenne et hautement organisée.",
+          "es": "El Sitio está compuesto por los cuatro vastos conjuntos megalíticos de Sine Ngayene, Wanar, Wassu y Kerbatch, que poseen una extraordinaria concentración de más de 1.000 monumentos diseminados en una faja de 100 km de anchura, a lo largo de 350 km del curso del Río Gambia. Los cuatro conjuntos comprenden 93 círculos de piedra y numerosos túmulos funerarios. Algunos de ellos han sido objeto de excavaciones que han permitido encontrar materiales cuya datación se extiende desde el siglo III a.C. hasta el siglo XVI d.C. Los círculos de piedra formados por pilares de laterita trabajados con esmero y los túmulos funerarios conexos componen un vasto paisaje sagrado que se ha ido creando a lo largo de más de 1.500 años. Ese paisaje atestigua la existencia de una sociedad próspera y dotada de un alto grado de organización, que perduró a través de los siglos.",
+          "ru": "Объект, составлен четырьмя большими группами колец камней. Четыре группы - Сине-Нгаене, Ваннар, Васса и Кербатч, включают 93 таких кольца, а также значительное число погребальных курганов-тумули, некоторые из которых были раскопаны, чтобы получить материал, позволивший отнести их к периоду от III в. до н.э. до ХVI в. н.э. Кольца латеритовых столбов и связанные с ними погребальные курганы составляют обширный сакральный ландшафт, сложившийся за более чем 1500 лет. Он отражает процветающее, хорошо организованное и длительно существовавшее общество. Камни были добыты с помощью металлических орудий и с тщательностью превращены в почти правильные цилиндрические или многогранные столбы весом в 7 тонн и высотой около 2 метров. Каждое кольцо содержит от 8 до 14 камней и имеет поперечник от 4 до 6 метров. Все они находятся вблизи погребальных курганов. Этот выдающийся объект является лишь частью обширной археологической области, включающей более 1000 мегалитических памятников. Она протягивается полосой на 350 км вдоль реки Гамбия, при ширине 100 км, и по своим размерам, насыщенности и комплексности не имеет аналогов в мире. Прекрасно обработанные столбы, свидетельствующие о высоком мастерстве их создателей, придают особое величие всему ландшафту.",
+          "ar": "تشكّل المجموعات الأربعة الكبيرة لهذه الدوائر المغليثية تجمّعاً رائعاً إذ تضمّ أكثر من ألف نُصب تذكاري على رقعة نهر غامبيا بعرض 100 كيلومتر وطول 350 كيلومترا. تضمّ المجموعات الأربع المعروفة بأسماء سين نغايين ووانار وواسو وكرباتش 93 دائرة والعديد من الركام الترابي فوق القبر، والتلال الجنائزية. قد تمّ تنقيب بعضها، فأظهرت مادةً أثرية يمكن تأريخها بين القرن الثالث قبل الميلاد والقرن السادس عشر من حقبتنا هذه. وتشكّل دوائر حجارة الوعنة التي تمّ نحتُها بدقة ورُكامها الترابي منظراً طبيعياً شاسعاً مقدساً تكوّن على مدى أكثر من 1500 عام، وتعكس مجتمعاً مزدهراً مستقرا ومنظماً خير التنظيم.",
+          "zh": "在沿冈比亚河350公里长、100公里宽的地带集中了1000多座纪念碑，分成四个巨型石圈组。这四个石圈组包括Sine Ngayène、Wanar、Wassu和Kerbatch，涵盖93个石圈和无数古坟和墓冢，其中一些已经挖掘。出土实物证明，这些遗迹可追溯到公元前3世纪至公元16世纪。红土立柱构成的石圈与周围的墓冢展现了1500多年前盛大而神圣的景象，反映了一个繁荣、组织完备、持久的社会。这些石头是用铁制工具采得，被巧妙地雕琢成了大约七吨重、平均两米高、几乎完全一样的圆柱或多边形立柱。每一个石圈直径4到6米，有8到14根立柱。所有立柱均矗立在墓冢附近。这一杰出遗址代表了该地区更大范围的巨石带，不论是规模、一致性，还是复杂度在全世界都无与伦比。雕琢细致的独立石柱体现了精细、巧妙的雕刻技术，增强了整个石圈群的宏伟气势。"
+        },
+        "full": "The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.",
+        "justification": "Brief synthesis The inscribed site corresponds to four large groups of megalithic circles located in the extreme western part of West Africa, between the River Gambia and the River Senegal. These sites, Wassu, and Kerbatch in Gambia, and Wanar and Sine Ngayene in Senegal, represent an extraordinary concentration of more than 1,000 stone circles and related tumuli spread over a territory of 100 km wide and 350 km in length, along the River Gambia. Together, the four groups comprise 93 circles and associated sites, some of which have been excavated, some of which have revealed archaeological material and human burials, from pottery to iron instruments and ornamentation dating between the 1 st and 2nd millennia to our era. These four megalithic sites are the most dense concentration in the zone and have Outstanding Universal Value, representing a traditional monumental megalithic construction spread out over a vast area, with more than 1,000 stone circles scattered along one of the major rivers of Africa. The Sine Ngayene complex (Senegal) is the largest site in the area. It consists of 52 circles of standing stones, including one double circle. In all, there are 1102 carved stones on the site. Around 1km to the east, (outside the inscribed property) is the quarry from which the monoliths were extracted and where the sources of around 150 stones can be traced. The site was excavated around 1970, and more recently by Bocoum and Holl. The work established that the single burials appeared to precede in time the multiple burials associated with the stone circles. The Wanar complex (Senegal) consists of 21 circles including one double circle. The site contains 9 ‘lyre’ stones or bifed stones, sometimes with a cross piece strung between the two halves. The Wassu complex (Guinea) consists of 11 circles and their associated frontal stones. This site has the highest stones of the area. The most recent excavations conducted on these megalithic circles date to the Anglo-Gambian campaign led by Evans and Ozanne in 1964 and 1965. The finds of burials enabled the dating of the monuments between 927 and 1305 AD. The Kerbatch complex consists of 9 circles, including a double circle. The site possesses a ‘bifid’ stone, the only known one in the area. The stones forming the circles were extracted from nearby laterite quarries using iron tools and skilfully shaped into almost identical pillars, either cylindrical or polygonal, on average around 2 m in height and weighing up to 7 tons. Each circle contains between eight to fourteen standing stones having a diameter of four to six metres. The four megalithic sites inscribed bear witness to a prosperous and highly organized society with traditions of stone circle constructions, associated with burials, and persisting in certain areas over more than a millennium. Criterion (i): Individual stones finely carved bear witness to an exact and experienced technique and contribute to the organized and imposing size of the stone circle groups. Criterion (iii): The circles of stones proposed for inscription represent the totality of the megalithic area in which the presence of such a large number of circles is a unique manifestation of construction and funerary practices which persisted for over a millennium across a large geographical area and reflecting a sophisticated and productive society. Integrity The integrity of the four components of the site can only be evaluated as part of a much wider unified cultural complex. The complexes conserve their integrity in terms of spatial associations of the component circles, individual megaliths and tumuli. The spiritual beliefs associated to the stones by local communities help to protect their integrity. Authenticity The stone circles stand in a farmed landscape and there have been few interventions. A very small number of stones have been removed. Some burial sites have been excavated and subsequently back-filled. These disturbances remain minimal. The overall authenticity of the four sites is intact. Protection and management requirements In Gambia, management of the of the two sites (Wassu and Kerbath) fall under the responsibility of the National Centre for Arts and Culture (NCAC) in accordance with the law promulgated by the National Assembly (NCAC Law of 1989, amended in 2003). The NCAC is the dismantled technical section of the Ministry of Tourism and Culture. The daily management of the sites is under the responsibility of the Directorate for Cultural Heritage of the NCAC that employs, on a permanent basis, the caretakers and maintenance staff. Both sites have a management plan prepared during the nomination process with participatory cooperation of local communities and their representatives. The two sites are fenced and four thatched round buildings, built in the manner of traditional houses, serve as a museum, visitor reception facilities and lodgings for the caretaker. The NCAC has support from local management committees that ensure the interests of the community in the sites. Funding is principally provided by Government revenue from visitor entrance fees and other subventions. In Senegal, the two sites enjoy legal protection: Law No.71-12 of 25 January 1971, regulating the regime for historical sites and monuments and excavations and finds/ Decree 73-746 of 8 August 1973 promulgating the law. The Directorate of Cultural Heritage of the Ministry is responsible for the management of the sites. The communities also have extended powers through the Law on decentralization facilitating their involvement in the management of the sites. The funding sources are: the State budget, local communities and donor subventions. These funds have enabled the fencing of the two sites, the construction of a hall (Wanar) and a welcome space (Sine Ngayene), visitor sanitary facilities as well as the funding of two full-time caretakers. Good signposting was installed to access the two sites as well as an interpretation centre at Sine Ngayene. In the long-term, improvement to the access paths is foreseen in the presentation framework. The management plan was prepared in consultation with the Senegalese and Gambian stakeholders meeting in Wassu in Gambia and Ngayene in Senegal in December 2004. The long-term objective of this action plan is to render the site visible, accessible and ensure economic benefits for the local communities. Beyond the conservation and enhancement of the sites, the management envisages conducting in-depth research and enable the sites to be better adapted to the development objectives at the national level."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 9.85,
+          "square_km": 0.1,
+          "square_miles": 0.04,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2006,
+          "all_dates": [
+            2006
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2006,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aadd16d2cdafd68f146123c136056c2a",
+          "filename": "site_1226_0001-500-0-20090923154919.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 374
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113968/site_1226_0001.jpg",
+            "https://whc.unesco.org/document/131958/site_1226_0002.jpg",
+            "https://whc.unesco.org/document/131959/site_1226_0003.jpg",
+            "https://whc.unesco.org/document/131960/site_1226_0004.jpg",
+            "https://whc.unesco.org/document/131961/site_1226_0005.jpg",
+            "https://whc.unesco.org/document/131963/site_1226_0007.jpg",
+            "https://whc.unesco.org/document/159329/site_1226_0008.jpg",
+            "https://whc.unesco.org/document/159330/site_1226_0009.jpg",
+            "https://whc.unesco.org/document/159331/site_1226_0010.jpg",
+            "https://whc.unesco.org/document/159332/site_1226_0011.jpg",
+            "https://whc.unesco.org/document/159333/site_1226_0012.jpg",
+            "https://whc.unesco.org/document/159334/site_1226_0013.jpg",
+            "https://whc.unesco.org/document/159335/site_1226_0014.jpg",
+            "https://whc.unesco.org/document/159336/site_1226_0015.jpg",
+            "https://whc.unesco.org/document/159337/site_1226_0016.jpg",
+            "https://whc.unesco.org/document/159338/site_1226_0017.jpg",
+            "https://whc.unesco.org/document/159339/site_1226_0018.jpg",
+            "https://whc.unesco.org/document/159340/site_1226_0019.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Wassu",
+            "ref": "1226-002",
+            "latitude": 13.7,
+            "longitude": -14.8666666667
+          },
+          {
+            "name": "Wanar",
+            "ref": "1226-004",
+            "latitude": 13.7744444444,
+            "longitude": -15.5225
+          },
+          {
+            "name": "Kerbatch",
+            "ref": "1226-001",
+            "latitude": 13.75,
+            "longitude": -15.0
+          },
+          {
+            "name": "Sine Ngayène",
+            "ref": "1226-003",
+            "latitude": 13.6833333333,
+            "longitude": -15.5166666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1226",
+        "unesco_documents": "https://whc.unesco.org/en/list/1226/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1226/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1226/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 19,
+        "inscription_year": 2006
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stone Circles of Senegambia The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society. The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society. Gambia Senegal Africa Cultural"
+    },
+    {
+      "site_key": "island_of_saint_louis",
+      "uuid": "a49a9695-7338-5cba-ab6e-a22eca110a0d",
+      "unesco_id": "956",
+      "names": {
+        "en": "Island of Saint-Louis",
+        "fr": "Île de Saint-Louis",
+        "es": "Isla de San Luis",
+        "ru": "Город-остров Сен-Луи",
+        "ar": "جزيرة سانت لويس",
+        "zh": "圣路易斯岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity.",
+          "fr": "Fondée par les colons français au XVIIe siècle, Saint-Louis s'urbanisa au milieu du XIXe siècle. Elle fut la capitale du Sénégal de 1872 à 1957 et joua un rôle culturel et économique prépondérant dans l'ensemble de l'Afrique occidentale. La situation de la ville sur une île à l'embouchure du fleuve Sénégal, son plan urbain régulier, son système de quais et son architecture coloniale caractéristique confèrent à Saint-Louis sa qualité particulière et son identité.",
+          "es": "Fundada por colonos franceses en el siglo XVII y urbanizada a mediados del siglo XIX, San Luis fue la capital del Senegal desde 1872 hasta 1957 y desempeñó un importante papel cultural y económico en todo el África Occidental. La calidad e identidad singulares de esta ciudad se deben a su emplazamiento en una isla de la desembocadura del rio Senegal, así como a su trazado urbano regular, su complejo de muelles y su arquitectura típicamente colonial.",
+          "ru": "Основанный в XVII в. как французское колониальное поселение, Сен-Луи стал городом в середине XIХ в. Он был столицей Сенегала в 1872-1957 гг. и играл важную культурную и экономическую роль для всей Западной Африки. Размещение города на острове в устье реки Сенегал, его регулярная планировка, система набережных и характерная колониальная архитектура придают облику Сен-Луи целостность и неповторимые черты.",
+          "ar": "تأسست سانت لويس على يد المستعمرين الفرنسيين في القرن السابع عشر ثم تمدّنت في منتصف القرن التاسع عشر. وعندما كانت عاصمة السنغال من عام 1872 ولغاية 1957لعبت دوراً ثقافياً واقتصادياً بالغ الأهمية في مجمل أرجاء افريقيا الغربية. وتعود القيمة الخاصة التي تتسم بها هذه المدينة وهويتها الى موقعها الجغرافي في جزيرة عند مصب نهر السنغال والى تخطيطها المدني المنتظم ونظام الأرصفة وهندستها الاستعمارية المميزة.",
+          "zh": "17世纪时，法国殖民者在此建立定居点。到了19世纪中叶，圣路易斯岛发展成为一座城市。1872年到1957年期间，这里曾一度是塞内加尔的首府所在地，在整个西非地区发挥着重要的文化和经济作用。圣路易斯岛位于塞内加尔河的河口处，岛上正规的城市规划、众多的船埠码头和风格迥异的殖民地建筑，都使得圣路易斯城别具特色，独具一格。"
+        },
+        "full": "Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity.",
+        "justification": "Brief synthesis The Island of Saint-Louis, oceanic port of West Africa, constitutes a unique landscape. Indeed, this miniscule strip of land, today wedged between two arms of the mouth of the Senegal River, enjoys an exceptional environment – a subtle marriage between land and water. As the first French chartered company on the Atlantic coast of African in 1659, the Island of Saint-Louis became the hub for European traders travelling up the river year round in search of slaves but also gum arabic, gold, leather and other products. The little oceanic city was the political capital of the colony and French West Africa (FWA) up until 1902, and capital of Senegal and Mauritania up until 1957, before falling into decline due to the transfer of the capital to Dakar. The historic city of Saint-Louis exercised considerable influence in the parts of Africa under French dominion, and even further afield, in terms of architecture and also as regards education, culture, craftsmanship and services. In this respect, it was the first laboratory of this new, different society comprising a cultural mix and hybridisation, a crucible of development and diffusion of cultural syntheses and a call for citizenship for all of FWA, thus contributing to the birth of a new humanism. The designated property covers the entire area of the Island of Saint-Louis, including the banks and quays, as well as the Faidherbe Bridge. The Island is articulated in three parts: the North quarter, the South quarter and the Place Faidherbe with the Government Palace in the centre. The Island is surrounded by a system of quays that serve as a reference for all the streets in the east-west direction. With its military barrack style, the government seat (built on the ancient fort of the city) comprises the orthogonal centre of a perfectly regular urban plan. The magnificent « balconied houses », the « gallery houses » and beautiful Signares as well as the rare « Portuguese « maison basses » » give the city its aesthetic quality and identity. The majestic Faidherbe Bridge, the spans of which were imported from France in separate parts in 1897, has in no way modified the urban plan. Thanks to its regular layout, its system of quays and its high quality colonial architecture, the Island of Saint-Louis comprises a remarkable example of a colonial city with stylistic unity and urban homogeneity based on typologies and town planning principles inherited from the colonial administration. Criterion (ii): The historic town of Saint-Louis exhibits an important exchange of values and influences on the development of education and culture, architecture, craftsmanship, and services in a large part of West Africa. Criterion (iv): The Island of Saint-Louis, a former capital of West Africa, is an outstanding example of a colonial city, characterized by its particular natural setting, and it illustrates the development of colonial government in this region. Integrity The conceptual integrity is ensured by the fact that the entire Island is designated as World Heritage, including the beaches, quays and the Faidherbe Bridge. The extension of the buffer zone in 2007 has provided additional protection to the insular property. A strict application of the urban master plan for the development of the town should enable, in due course, the mitigation of negative effects of urban pressure which are evident in the area situated beyond the buffer zone. Furthermore, threats to the integrity of the property caused by the development of dams upriver, combined with flooding in recent years, have been countered thanks to the creation of a relay canal. These overall measures supported by robust initiatives in situ have enabled the preservation of the integrity of the Island of Saint-Louis. Authenticity The current face of Saint-Louis carries the mark of the vision of Governor Faidherbe who, more than anyone else, has imprinted his orthogonal urban grid that no other more recent urban development has been able to modify – not even the building of the majestic Faidherbe Bridge, inaugurated on 19 October 1897 by André Lebon and which has become the emblem of the city. This remarkable continuity has enabled the Island of Saint-Louis to preserve its authenticity in close correlation with a built environment that, although undergoing some important transformations, has entered into a stabilising phase since the promulgation of the decree for the implementation of the Safeguarding and Valorisation Plan for Saint-Louis, in 2008. Important training workshops that have provided instruction to more than 200 craftsmen in the different restoration disciplines have strengthened this dynamic by upgrading the traditional know-how, the use of original materials and the diffusion of best practices. Protection and management requirements Saint- Louis has always benefitted from special safeguarding measures that have contributed to a good management of the site. Indeed, since 1928, the town has a urban master plan. Several other plans have followed until the creation, in 2006, of the Safeguarding and Valorisation Plan for Saint-Louis, thanks to UNESCO support. Several legal texts have been created to strengthen this mechanism, in particular: Law 71-12 of 25 January 1971 for the protection of the historic sites and monuments and its Decree 73.746 of 1973 concerning the application of Law 71-12 of 25 January 1971; Order N° 012 771 of 17 November 1975 concerning the publication of the listed Historic Sites and Monuments and the Decree N° 2008-694 of 30 June 2008, concerning the application of the Safeguarding and Valorisation Plan for Saint-Louis. It must also be emphasized that a functional management system exists based on the concerted actions of diverse stakeholders. The ARCAS (Association for the Restoration and Conservation of Saint-Louis Architecture), the Tourism Office, the ICOMOS Section at Saint-Louis and the associations of the quarters are all involved in awareness raising, alert and pressure activities to support the action of the State and Town authorities. Their active participation may be noted in, among others, the creation of adapted signposting, the production of information posters on the best and bad practices, the organization of cultural activities (theatre, carnaval, etc.). This extraordinary mobilisation of the associations that fight daily for the safeguarding of Saint-Louis, shall soon be reinforced by a Committee for the Safeguarding of Saint-Louis which will be animated by the already appointed manager."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/174dcc73fcd95e0e0799f309cee9d4fc",
+          "filename": "site_0956_0001.jpg",
+          "dimensions": {
+            "width": 640,
+            "height": 436
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113789/site_0956_0001.jpg",
+            "https://whc.unesco.org/document/113791/site_0956_0002.jpg",
+            "https://whc.unesco.org/document/113793/site_0956_0003.jpg",
+            "https://whc.unesco.org/document/113795/site_0956_0004.jpg",
+            "https://whc.unesco.org/document/113797/site_0956_0005.jpg",
+            "https://whc.unesco.org/document/113799/site_0956_0006.jpg",
+            "https://whc.unesco.org/document/113801/site_0956_0007.jpg",
+            "https://whc.unesco.org/document/113803/site_0956_0008.jpg",
+            "https://whc.unesco.org/document/159315/site_0956_0009.jpg",
+            "https://whc.unesco.org/document/159316/site_0956_0010.jpg",
+            "https://whc.unesco.org/document/159317/site_0956_0011.jpg",
+            "https://whc.unesco.org/document/159318/site_0956_0012.jpg",
+            "https://whc.unesco.org/document/159319/site_0956_0013.jpg",
+            "https://whc.unesco.org/document/159320/site_0956_0014.jpg",
+            "https://whc.unesco.org/document/159321/site_0956_0015.jpg",
+            "https://whc.unesco.org/document/159322/site_0956_0016.jpg",
+            "https://whc.unesco.org/document/159323/site_0956_0017.jpg",
+            "https://whc.unesco.org/document/159324/site_0956_0018.jpg",
+            "https://whc.unesco.org/document/159325/site_0956_0019.jpg",
+            "https://whc.unesco.org/document/159326/site_0956_0020.jpg",
+            "https://whc.unesco.org/document/159327/site_0956_0021.jpg",
+            "https://whc.unesco.org/document/159328/site_0956_0022.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Island of Saint-Louis",
+            "ref": "956bis",
+            "latitude": 16.02778,
+            "longitude": -16.50444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/956",
+        "unesco_documents": "https://whc.unesco.org/en/list/956/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/956/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/956/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Island of Saint-Louis Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity. Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity. Senegal Africa Cultural"
+    },
+    {
+      "site_key": "djoudj_national_bird_sanctuary",
+      "uuid": "1abc36d3-0b59-5290-a2f7-c74cc665708b",
+      "unesco_id": "25",
+      "names": {
+        "en": "Djoudj National Bird Sanctuary",
+        "fr": "Parc national des oiseaux du Djoudj",
+        "es": "Santuario Nacional de Aves de Djudj",
+        "ru": "Орнитологический резерват Джудж",
+        "ar": "حديقة دجودج الوطنية للطيور",
+        "zh": "朱贾国家鸟类保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant.",
+          "fr": "Dans le delta du fleuve Sénégal, le parc est une zone humide de 16 000 ha comprenant un grand lac entouré de ruisseaux, d’étangs et de bras morts, qui constituent un sanctuaire vital, mais fragile, pour un million et demi d’oiseaux tels que le pélican blanc, le héron pourpre, la spatule africaine, la grande aigrette et le cormoran.",
+          "es": "Situado en el delta del río Senegal, este parque es un humedal de 16.000 hectáreas formado por un gran lago rodeado de arroyos, charcas y aguas estancadas, que constituye un santuario vital, aunque frágil, para un millón y medio de aves de diversas especies: pelícano blanco, garza púrpura, espátula africana, cormorán y garza real, entre otras.",
+          "ru": "Водно-болотные угодья в дельте реки Сенегал, занимающие площадь 16 тыс. га, состоят из большого озера, окруженного протоками и мелкими водоемами. Это очень важное, но уязвимое убежище для 1,5 млн. пернатых, таких как белый пеликан, рыжая и большая белая цапли, колпица и баклан.",
+          "ar": "تقع هذه الحديقة في دلتا نهر السنغاال، وهي عبارة عن منطقة رطبة تمتد على مساحة 16000 هكتاراً وتضم بحيرة كبيرة محاطة بالجداول والمستنقعات ومنعطفات النهر التي تشكل ملاذاً حيوياً لكن هشاً لمليون طير ونصف مثل البجع الأبيض ومالك الحزين الأرجواني وطائر أبو ملعقة الأفريقي والغوش الكبير وطيور الغاق.",
+          "zh": "朱贾国家鸟类保护区是一块占地面积约为16 000公顷的湿地，位处塞内加尔河三角洲地区。保护区内有一大型湖泊，湖泊四周分布着大大小小的溪流、池塘和水潭。这里生态环境不很稳定，但充满着生机。保护区里栖息着150多万种鸟类，有白鹈鹕、紫苍鹭、非洲篦鹭、大白鹭、鸬鹚等等。"
+        },
+        "full": "Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant.",
+        "justification": "Brief synthesisIn the Senegal River delta, the Djoudj National Park is a 16,000 ha wetland ecosystem that includes more than 1.5 million migratory birds. Comprised of lakes surrounded by streams, the property is a vital but fragile sanctuary for species such as the white pelican, African spoonbill, cormorant, pink flamingo and great egret.Criterion (vii): By its location, Djoudj National Park is more than a haven for Palaearctic migratory birds. It is an oasis in the desert consisting of a chain of lakes, backwaters, fords and sandbanks. It is the first migration stopover after crossing the Sahara for species of Palaearctic and Afrotropical birds. It should be noted that due to technical improvements to upgrade the conditions of migration reception (building nest boxes), species began to breed. With the annual renovation of these improvements and efforts to control the hydraulic system, the number of migratory as well as nesting species is increasing. Criterion (x): The property is a wetland of around 16,000 ha comprising a large lake surrounded by streams, ponds and backwaters. This habitat hosts more than 1.5 million birds of 365 species including over 120 species of Palaearctic migrants. The property is a vital sanctuary for nesting species such as the white pelican (Pelecanus onocrotalus), the purple heron (Ardea purpurea), the African spoonbill (Platalea alba), the great egret (Casmerodius albus), the night heron (Nycticorax nycticorax) and the cormorant (Phalacrocorax carbo). The property also contains large populations of crocodiles and manatees.Integrity The park boundaries are correctly defined, but the property faces significant threats: agricultural chemicals are a source of water pollution for the Senegal River, threatening the delicate balance of the food chain; and the construction of a downstream dam project could severely disrupt the hydrological equilibrium of the property. Following the start-up of the Diama dam, located downstream from the park, the water balance of the property was severely disrupted. This resulted in the proliferation of invasive aquatic plants (Pistia stratoites, Lavinia molesta, Typha australis, etc.), the reduced amplitude of water levels, and decrease and / or disappearance of some bird colonies. For these reasons, the property was inscribed on the List of World Heritage in Danger during the periods 1984-1988 and 2000-2006.Protection and management requirementsThe protection of the property is governed by various national laws, and a development and management plan has been developed. No manner of exploitation is permitted except for scientific purposes. The property is managed by a management administration under the direct supervision of the State through the Ministry of Environment and Sustainable Development and the National Parks Directorate. This administration works closely with an inter-village committee assisted by a team of eco guards involving local communities in solving management problems. With great effort, the State Party reduced the proliferation of invasive species representing such a threat that they must be completely eradicated. This effort is one of the management priorities of the property, even if the main concern is the restoration of the ecological characteristics of the property in the long term,rdea to ensure the return of the bird population to its previous levels."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            10
+          ],
+          "all": [
+            7,
+            10
+          ],
+          "display": "(vii)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 16000,
+          "square_km": 160.0,
+          "square_miles": 64.75,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/dccd68eade2059cc1deede5c42fae691",
+          "filename": "site_0025_0001-500-0-20151105152726.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107768/site_0025_0001.jpg",
+            "https://whc.unesco.org/document/107769/site_0025_0002.jpg",
+            "https://whc.unesco.org/document/107770/site_0025_0003.jpg",
+            "https://whc.unesco.org/document/107771/site_0025_0004.jpg",
+            "https://whc.unesco.org/document/107772/site_0025_0005.jpg",
+            "https://whc.unesco.org/document/107773/site_0025_0006.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Djoudj National Bird Sanctuary",
+            "ref": "25",
+            "latitude": 16.414602,
+            "longitude": -16.237906
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/25",
+        "unesco_documents": "https://whc.unesco.org/en/list/25/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/25/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/25/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Djoudj National Bird Sanctuary Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant. Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant. Senegal Africa Natural"
+    },
+    {
+      "site_key": "niokolo_koba_national_park",
+      "uuid": "9bf402d7-1d17-50c3-a20f-c3dbfdc5c43e",
+      "unesco_id": "153",
+      "names": {
+        "en": "Niokolo-Koba National Park",
+        "fr": "Parc national du Niokolo-Koba",
+        "es": "Parque Nacional de Niokolo-Koba",
+        "ru": "Национальный парк Ниоколо-Коба",
+        "ar": "منتزه نيوكولو كوبا الوطني",
+        "zh": "尼奥科罗-科巴国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians.",
+          "fr": "Situées dans une zone bien irriguée, le long des rives de la Gambie, les forêts-galeries et les savanes du Niokolo-Koba abritent une faune d'une grande richesse : l'élan de Derby (la plus grande des antilopes), des chimpanzés, des lions, des léopards, une importante population d'éléphants et de très nombreux oiseaux, reptiles et amphibiens.",
+          "es": "Situado en una zona de aguas abundantes, a lo largo de las orillas del río Gambia, este parque alberga en sus bosques de galería y sabanas un gran número de especies animales: alces de Derby –los antílopes más grandes del mundo–, chimpancés, leones, leopardos y una importante población de elefantes, así como un sinfín de aves, reptiles y anfíbios.",
+          "ru": "Расположенный в хорошо обводненной местности вдоль реки Гамбия, этот парк с галерейными лесами и саваннами служит местообитанием для разнообразных животных, включая самую крупную африканскую антилопу – канну, шимпанзе, льва, леопарда, а также крупную популяцию слонов, многочисленных птиц, рептилий и амфибий.",
+          "ar": "تشكل الغابات الممتدة على طول النهر وسهول سافانا نيوكولو كوبا الواقعة في منطقة مروية جيداً على ضفاف غامبيا موطناً لعدد كبير من الحيوانات كظبي دربي (وهو أكبر الظبية) والشيمبانزي والأسود وفهود الليوبارد وعدد كبير من الفيلة والطيور والزواحف والضفدعيات.",
+          "zh": "尼奥科罗-科巴国家公园位于赞比亚河沿岸一个多水地区。这里的长廊林和稀树大草原里生活着种类繁多的野生动物，其中有世界上最大的羚羊德比大羚羊，有黑猩猩、狮子、豹以及不计其数的大象，另外还有大量的鸟类、爬行动物和两栖动物在这里繁衍生息。"
+        },
+        "full": "Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians.",
+        "justification": "Brief synthesis Located in the Sudano-Guinean zone, Niokolo-Koba National Park is characterized by its group of ecosystems typical of this region, over an area of 913 000ha. Watered by large waterways (the Gambia, Sereko, Niokolo, Koulountou), it comprises gallery forests, savannah grass floodplains, ponds, dry forests -- dense or with clearings -- rocky slopes and hills and barren Bowés. This remarkable plant diversity justifies the presence of a rich fauna characterized by: the Derby Eland (the largest of African antelopes), chimpanzees, lions, leopards, a large population of elephants as well as many species of birds, reptiles and amphibians. Criterion (x): Niokolo-Koba National Park contains all the unique ecosystems of the Sudanese bioclimatic zone such as major waterways (the Gambia, Sereko, Niokolo, Koulountou), gallery-forests, herbaceous savanna floodplains, ponds, dry forests -- dense or with clearings-- rocky slopes and hills and barren Bowés. The property has a remarkable diversity of wildlife, unique in the sub-region. It counts more than 70 species of mammals, 329 species of birds, 36 species of reptiles, 20 species of amphibians and a large number of invertebrates. Lions, reputedly the largest in Africa, are a special attraction, as well as the Derby Eland, the largest antelope in existence. Other important species are also present, such as the elephant, leopard, African wild dog and chimpanzee. The wealth of habitats should be noted, along with the diversity of flora, with over 1,500 important plant species. Integrity Covering nearly one million hectares, the Niokolo-Koba National Park is sufficiently vast as to illustrate the major aspects of the Guinean savanna-type ecosystem, and to ensure the survival of species therein. However, reports indicate a considerable poaching of elephants. The proposed dams on the Gambia and the Niokolo-Koba are also a concern because they would have disastrous consequences for the ecological integrity of the property. Protection and management requirements The park is managed by a management administration under the direct supervision of the State through the Ministry of Environment and Nature Protection and the National Parks Directorate. In 2002, a development and management plan was elaborated. This Plan should be updated through regular revisions to strengthen the conservation of the property, and provided with adequate resources to ensure its effective implementation. The property, inscribed on the List of World Heritage in Danger in 2007, is subject to many pressures such as poaching, bush fires, the premature drying up of ponds and their invasion by plants. To this must be added population growth and poor soil in the surrounds, which has led to encroachment on agricultural land and livestock wandering in the park. The priorities for the protection and management of the property are thus to implement urgent measures to halt poaching, improve the park’s ecological monitoring programme, develop a plan for survival of endangered species, address premature drying up of the ponds and their invasion by plants or find alternative solutions, and minimize the illegal movement of livestock. It is also necessary to improve cross-border cooperation and measures to protect buffer zones and ecological corridors outside the park. For the long-term management, protection of the property should be a national policy, project and budgetary priority, with the assistance of development partners."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 913000,
+          "square_km": 9130.0,
+          "square_miles": 3694.786,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/03852dd42ac95cf641cea67aeceb4741",
+          "filename": "site_0153_0001-500-0-20151105161725.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108409/site_0153_0001.jpg",
+            "https://whc.unesco.org/document/108411/site_0153_0002.jpg",
+            "https://whc.unesco.org/document/108413/site_0153_0003.jpg",
+            "https://whc.unesco.org/document/108415/site_0153_0004.jpg",
+            "https://whc.unesco.org/document/108417/site_0153_0005.jpg",
+            "https://whc.unesco.org/document/120443/site_0153_0006.jpg",
+            "https://whc.unesco.org/document/120444/site_0153_0007.jpg",
+            "https://whc.unesco.org/document/120445/site_0153_0008.jpg",
+            "https://whc.unesco.org/document/131337/site_0153_0009.jpg",
+            "https://whc.unesco.org/document/131339/site_0153_0011.jpg",
+            "https://whc.unesco.org/document/131341/site_0153_0013.jpg",
+            "https://whc.unesco.org/document/131342/site_0153_0014.jpg",
+            "https://whc.unesco.org/document/131343/site_0153_0015.jpg",
+            "https://whc.unesco.org/document/131346/site_0153_0018.jpg",
+            "https://whc.unesco.org/document/131349/site_0153_0021.jpg",
+            "https://whc.unesco.org/document/131350/site_0153_0022.jpg",
+            "https://whc.unesco.org/document/131351/site_0153_0023.jpg",
+            "https://whc.unesco.org/document/131353/site_0153_0025.jpg",
+            "https://whc.unesco.org/document/131354/site_0153_0026.jpg",
+            "https://whc.unesco.org/document/131355/site_0153_0027.jpg",
+            "https://whc.unesco.org/document/131356/site_0153_0028.jpg",
+            "https://whc.unesco.org/document/131357/site_0153_0029.jpg",
+            "https://whc.unesco.org/document/131358/site_0153_0030.jpg",
+            "https://whc.unesco.org/document/131359/site_0153_0031.jpg",
+            "https://whc.unesco.org/document/131361/site_0153_0033.jpg",
+            "https://whc.unesco.org/document/131362/site_0153_0034.jpg"
+          ],
+          "count": 26
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Niokolo-Koba National Park",
+            "ref": "153",
+            "latitude": 13.011,
+            "longitude": -13.018
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/153",
+        "unesco_documents": "https://whc.unesco.org/en/list/153/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/153/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/153/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Niokolo-Koba National Park Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians. Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians. Senegal Africa Natural"
+    },
+    {
+      "site_key": "island_of_goree",
+      "uuid": "0a644261-5661-50fa-8285-8daa85cd1e52",
+      "unesco_id": "26",
+      "names": {
+        "en": "Island of Gorée",
+        "fr": "Île de Gorée",
+        "es": "Isla de Gorea",
+        "ru": "Остров Горе",
+        "ar": "جزيرة غوري",
+        "zh": "戈雷岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation.",
+          "fr": "Au large des côtes du Sénégal, en face de Dakar, Gorée a été du XVe au XIXe siècle le plus grand centre de commerce d'esclaves de la côte africaine. Tour à tour sous domination portugaise, néerlandaise, anglaise et française, son architecture est caractérisée par le contraste entre les sombres quartiers des esclaves et les élégantes maisons des marchands d'esclaves. L'île de Gorée reste encore aujourd'hui un symbole de l'exploitation humaine et un sanctuaire pour la réconciliation.",
+          "es": "Situada en las aguas litorales del Senegal, frente a la ciudad de Dakar, la isla de Gorea fue el centro de comercio de esclavos más importante de las costas africanas entre los siglos XV y XIX. Estuvo sucesivamente bajo la dominación de portugueses, holandeses, ingleses y franceses. La adusta arquitectura de los barrios destinados a los esclavos contrasta con la de las elegantes mansiones de los mercaderes que vivían de su tráfico. Hoy en día, Gorea es un lugar de memoria de la explotación del hombre por el hombre y un santuario para la reconciliación.",
+          "ru": "Остров Горе расположен вблизи берега Сенегала, напротив Дакара. В XV-XIX вв. он был крупнейшим центром работорговли на африканском побережье, находясь под властью сменявших друг друга португальцев, голландцев, англичан и французов. Для его архитектуры характерен контраст между мрачными кварталами для рабов и элегантными домами работорговцев. Сегодня остров продолжает служить напоминанием об эксплуатации человека и, вместе с тем, - символом примирения.",
+          "ar": "تمتد جزيرة غوري على عرض ساحل السنغال مقابل داكار، وقد شكلت من القرن الخامس عشر ولغاية القرن التاسع عشر المركز التجاري الأكبر لتجارة العبيد في الساحل الافريقي. وقد خضعت على التوالي لسيطرة البرتغال وهولندا وانكلترا وفرنسا، ما جعل هندستها تتميز بالتناقض بين أحياء العبيد المظلمة ومنازل تجار الرقيق الأنيقة. ولا تزال جزيرة غوري تجسّد حتى اليوم رمزاً للاستغلال البشري وموطناً للمصالحة.",
+          "zh": "戈雷岛位于塞内加尔海岸不远处，与达喀尔隔海相望。从15世纪到19世纪，戈雷岛一直都是非洲海岸最大的奴隶贸易中心，历史上这里曾先后被葡萄牙人、荷兰人、英国人和法国人占领过。在戈雷岛上，既能看到奴隶住的简陋屋子，也能找到奴隶贸易商居住的优雅庭院，两类建筑物形成鲜明对比。今天的戈雷岛，依然能使人们记起那段人剥削人的历史，这里同时也是人们消除历史积怨、求得和解的神圣殿堂。"
+        },
+        "full": "The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation.",
+        "justification": "Brief synthesisThe Island of Gorée testifies to an unprecedented human experience in the history of humanity. Indeed, for the universal conscience, this “memory island” is the symbol of the slave trade with its cortege of suffering, tears and death.The painful memories of the Atlantic slave trade are crystallized in this small island of 28 hectares lying 3.5 km off the coast from Dakar. Gorée owes its singular destiny to the extreme centrality of its geographical position between the North and the South, and to its excellent strategic position offering a safe haven for anchoring ships, hence the name “Good Rade”. Thus, since the 15th century it has been prized by various European nations that have successively used it as a stopover or slave market. First terminus of the “homeoducs” who drained the slaves from the hinterland, Gorée was at the centre of the rivalry between European nations for control of the slave trade. Until the abolition of the trade in the French colonies, the Island was a warehouse consisting of over a dozen slave houses. Amongst the tangible elements that reflect Gorée’s universal value are, notably, the Castle, a rocky plateau covered with fortifications which dominate the Island; the Relais de l’Espadon, former residence of the French governor; etc… The Island of Gorée is now a pilgrimage destination for the African diaspora, a foyer for contact between the West and Africa, and a space for exchange and dialogue between cultures through the confrontation of ideals of reconciliation and forgiveness. Criterion (vi): The Island of Goree is an exceptional testimony to one of the greatest tragedies in the history of human societies: the slave trade. The various elements of this “memory island” – fortresses, buildings, streets, squares, etc. – recount, each in its own way, the history of Gorée which, from the 15th to the 19th century, was the largest slave-trading centre of the African coast. IntegrityThe insular nature of Gorée and an arsenal of legal texts contribute to the physical integrity of the site. The Atlantic Ocean provides a natural buffer zone of nearly 4 km. AuthenticityListed as a historic site by the colonial administration in 1944, with specific safeguarding measures, Gorée has recorded no major construction since then that might adversely affect the authenticity of the site, the major components of which have remained almost intact. Moreover, the rehabilitations and restorations have been carried out essentially in accordance with the principles of the Convention. Protection and management requirements The Island of Goree was designated a historic site in 1944, with safeguarding measures in 1951 (under the colonial era). It was subsequently inscribed on the national heritage list in 1975 (Order No. 012771 of 17 November 1975) and on the World Heritage List in 1978. In 1979, a Safeguarding Committee was created by Order, comprising all the stakeholders, to monitor compliance with the Convention (conformity of the rehabilitation works, security of the property, etc.). An Order for the appointment of a site manager has been drafted and is currently in the process of aoption. The replica of the Gorée Memorial on the Castle is an eloquent example of what should be avoided when preserving the integrity of the site and, in agreement with UNESCO, a modification of this work will be undertaken."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [],
+          "all": [],
+          "display": "",
+          "count": 0,
+          "type": "Unknown"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1978,
+          "all_dates": [
+            1978
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1978,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4227f49f0c8aafdd467c0795bd10ed04",
+          "filename": "site_0026_0003-500-0-20121121150412.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/120440/site_0026_0003.jpg",
+            "https://whc.unesco.org/document/120441/site_0026_0004.jpg",
+            "https://whc.unesco.org/document/120442/site_0026_0005.jpg",
+            "https://whc.unesco.org/document/124358/site_0026_0006.jpg",
+            "https://whc.unesco.org/document/124359/site_0026_0007.jpg",
+            "https://whc.unesco.org/document/124360/site_0026_0008.jpg",
+            "https://whc.unesco.org/document/124362/site_0026_0010.jpg",
+            "https://whc.unesco.org/document/124363/site_0026_0011.jpg",
+            "https://whc.unesco.org/document/124364/site_0026_0012.jpg",
+            "https://whc.unesco.org/document/130547/site_0026_0013.jpg",
+            "https://whc.unesco.org/document/130548/site_0026_0014.jpg",
+            "https://whc.unesco.org/document/130549/site_0026_0015.jpg",
+            "https://whc.unesco.org/document/130550/site_0026_0016.jpg",
+            "https://whc.unesco.org/document/130551/site_0026_0017.jpg",
+            "https://whc.unesco.org/document/130552/site_0026_0018.jpg",
+            "https://whc.unesco.org/document/130553/site_0026_0019.jpg",
+            "https://whc.unesco.org/document/130554/site_0026_0020.jpg",
+            "https://whc.unesco.org/document/130555/site_0026_0021.jpg",
+            "https://whc.unesco.org/document/130556/site_0026_0022.jpg",
+            "https://whc.unesco.org/document/130557/site_0026_0023.jpg",
+            "https://whc.unesco.org/document/130558/site_0026_0024.jpg",
+            "https://whc.unesco.org/document/130559/site_0026_0025.jpg",
+            "https://whc.unesco.org/document/130560/site_0026_0026.jpg",
+            "https://whc.unesco.org/document/130561/site_0026_0027.jpg",
+            "https://whc.unesco.org/document/130562/site_0026_0028.jpg",
+            "https://whc.unesco.org/document/130563/site_0026_0029.jpg",
+            "https://whc.unesco.org/document/130564/site_0026_0030.jpg",
+            "https://whc.unesco.org/document/130565/site_0026_0031.jpg",
+            "https://whc.unesco.org/document/159297/site_0026_0032.jpg",
+            "https://whc.unesco.org/document/159298/site_0026_0033.jpg",
+            "https://whc.unesco.org/document/159299/site_0026_0034.jpg",
+            "https://whc.unesco.org/document/159300/site_0026_0035.jpg",
+            "https://whc.unesco.org/document/159301/site_0026_0036.jpg",
+            "https://whc.unesco.org/document/159302/site_0026_0037.jpg",
+            "https://whc.unesco.org/document/159303/site_0026_0038.jpg",
+            "https://whc.unesco.org/document/159304/site_0026_0039.jpg",
+            "https://whc.unesco.org/document/159305/site_0026_0040.jpg",
+            "https://whc.unesco.org/document/159306/site_0026_0041.jpg",
+            "https://whc.unesco.org/document/159307/site_0026_0042.jpg",
+            "https://whc.unesco.org/document/159308/site_0026_0043.jpg",
+            "https://whc.unesco.org/document/159309/site_0026_0044.jpg",
+            "https://whc.unesco.org/document/159310/site_0026_0045.jpg"
+          ],
+          "count": 42
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Island of Gorée",
+            "ref": "26",
+            "latitude": 14.66722,
+            "longitude": -17.40083
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/26",
+        "unesco_documents": "https://whc.unesco.org/en/list/26/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/26/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/26/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 47,
+        "inscription_year": 1978
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Island of Gorée The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation. The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation. Senegal Africa Cultural"
+    },
+    {
+      "site_key": "saloum_delta",
+      "uuid": "fb145640-457d-5e5d-b7cd-cba632cde063",
+      "unesco_id": "1359",
+      "names": {
+        "en": "Saloum Delta",
+        "fr": "Delta du Saloum",
+        "es": "Delta del Salum",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Fishing and shellfish gathering have sustained human life in the 5,000 km2 property, which is formed by the arms of three rivers. The site comprises brackish channels encompassing over 200 islands and islets, mangrove forest, an Atlantic marine environment, and dry forest. The site is marked by 218 shellfish mounds, some of them several hundreds metres long, produced by its human inhabitants over the ages. Burial sites on 28 of the mounds take the form of tumuli where remarkable artefacts have been found. They are important for our understanding of cultures from the various periods of the delta's occupation and testify to the history of human settlement along the coast of West Africa.",
+          "fr": "La pêche et la cueillette ont fourni des ressources vitales aux communautés humaines sur ce bien de 5000 km², formé par les bras de trois fleuves. Le site englobe des canaux d'eau saumâtre et près de 200 îles et îlots, des mangroves, un environnement maritime Atlantique et une zone boisée sèche. Le bien est marqué par 218 amas coquilliers, dont certains font plusieurs centaines de mètres de long, qui résultent de l'activité humaine au cours des millénaires. Sur ces amas coquilliers, on dénombre 28 sites funéraires en forme de tumulus. Des objets remarquables y ont été découverts, ce qui devrait permettre une meilleure compréhension des cultures associées aux différents âges de l'occupation du delta et témoigner sur l'histoire de l'occupation humaine le long des côtes de l'Afrique de l'Ouest.",
+          "es": "Durante milenios, la pesca y la recolección de moluscos han proporcionado medios de subsistencia al hombre en esta superficie de 5.000 km2. Formado por los brazos de tres ríos, el sitio comprende una red de canales de agua salobre con más de 200 islas e islotes, bosques de manglares, zonas costeras atlánticas y un bosque seco. Otra característica notable de la zona es la presencia de 218 montículos formados por valvas de moluscos como resultado de la actividad humana. Algunos alcanzan una longitud de varios centenares de metros. En 28 de esos montículos hay sitios funerarios en forma de túmulo, donde se han hallado objetos artesanales de factura notable. Estos objetos son importantes para un mejor conocimiento de las culturas correspondientes a los diferentes periodos de ocupación del delta por el hombre y constituyen un testimonio de la historia de los asentamientos humanos a lo largo de la costa del África Occidental.",
+          "ru": "На территории площадью в 5000 кв. сохранились следы человеческой деятельности – в основном, рыболовства и сбора моллюсков. Объект включает три рукава реки, солоноватые каналы, омывающие более 200 островов и островков, мангровый лес, атлантическую морскую среду и сухой лес. Территория замечательна своими скоплениями раковин моллюсков и останков ракообразных, некоторые из 218 холмов, образованных этими скоплениями, имеют протяжённость в несколько сот метров и возникли в результате человеческой жизнедеятельности в течение тысячелетий. Замечательные артефакты были найдены в 28 курганах, отмечающих места захоронения. Они имеют большое значение для лучшего понимания культуры, сложившейся в различные периоды обитания здесь людей, и свидетельствуют об истории человеческих поселений вдоль побережья Западной Африки.",
+          "ar": "",
+          "zh": "萨卢姆河三角洲（Saloum Delta，塞内加尔）是作为文化遗产列入名录的，占地5000平方公里，区内物种丰富的生态系统为生活在此的2000多人提供了生活的保障，他们的主要生活来源是捕鱼业和贝类采集。三角洲位于三条河流的河汊之间，由半咸水水道环绕着200多座大小岛屿、红树林、大西洋海洋环境及干树林所组成。 在三角洲内发现了由当地居民在数千年中建造的218座人工贝冢，有些贝冢长达几百米。在28座采取了古坟的形制的埋葬场所中，出土了不同寻常的人工制品，为我们了解三角洲不同时期文化提供了重要的依据，同时它们也是西非海岸人居历史的重要见证。"
+        },
+        "full": "Fishing and shellfish gathering have sustained human life in the 5,000 km2 property, which is formed by the arms of three rivers. The site comprises brackish channels encompassing over 200 islands and islets, mangrove forest, an Atlantic marine environment, and dry forest. The site is marked by 218 shellfish mounds, some of them several hundreds metres long, produced by its human inhabitants over the ages. Burial sites on 28 of the mounds take the form of tumuli where remarkable artefacts have been found. They are important for our understanding of cultures from the various periods of the delta's occupation and testify to the history of human settlement along the coast of West Africa.",
+        "justification": "Brief synthesis The region of the Saloum Delta is a remarkable testimony to the synergy between a natural environment with extensive biodiversity and a style of human development that is still present albeit fragile. Sustainable shellfish gathering and fishing practices in brackish water, and the processing of the harvest for its preservation and export was developed here. The shell mounds and the tumulus mounds form specific and exceptional cultural landscapes. The numerous shell mounds in the Saloum Delta are generally well-preserved and they sometimes have imposing dimensions. They are direct testimony of sustainable and very ancient socio-economic practices. Over the centuries, they have led to the formation of numerous man-made islets contributing to the stabilisation of the delta's land and channels. With their characteristic vegetation within the delta's natural environment, the shell mounds form typical cultural landscapes. Some mounds include tumuli; they form, with their baobab vegetation and their undulating forms, funerary sites with specific landscape features. Criterion (iii): With its numerous shell mounds, associated landscapes and the presence of a rare and well-preserved ensemble of funerary tumulus mounds, the Saloum Delta provides exceptional testimony to a coastal lifestyle, in a Sahelian subtropical environment, with brackish water rich in shellfish and fish. Criterion (iv): All the shell mounds built up over a 2,000 year-long cultural process have formed a physical structure of stable islets and reclaimed land within the Saloum Delta. The resultant cultural landscapes are exceptional and illustrate a long period of the history of human settlement along the West African coast. Criterion (v): The Saloum Delta is an eminent example of traditional human settlement. It represents a lifestyle and sustainable development based on the gathering of shellfish and fishing, in a considered interaction with a natural environment of extensive but fragile biodiversity. Integrity The conditions of cultural integrity of the Saloum Delta are in theory very adequate, even if some shell mounds have been damaged, but the integrity remains fragile. The shell mounds and the cultural landscapes and the biodiversity of the natural environment may be threatened by poorly controlled socio-economic behaviour. Authenticity The conditions of authenticity of the mounds, tumulus mounds and their landscapes are generally adequate. They are complemented by the anthropological authenticity of the shellfish gathering practices and to a lesser degree of the fishing practices. Protection and Management requirements The protection of the shell mounds and the tumuli mounds is ensured by adequate regulatory measures. However, the active protection of the cultural sites in the field is recent and must be extended to the property as a whole, and not just concern the National Park. Additionally, the general policy for the property's conservation is closely tied to the conservation of the natural environment and the sustainable development programmes for the delta as a whole. The property's management relies on numerous individuals in the field. Together they form an adequate management system for the property, with the key stakeholders and those in charge clearly identified, notably the National Park, the rural communities and the United Nations MDG-Fund. However, this management system is evolving and the multiplicity of programmes and stakeholders tends to make some situations somewhat confused. The overall management committee still has to be set up (2011), its resources confirmed, and the homogeneous handling of management and conservation for the entire property needs to be improved."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 145811,
+          "square_km": 1458.11,
+          "square_miles": 590.077,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/92cb7ddc9179afa129a81a8a65d406f5",
+          "filename": "site_1359_0001-500-0-20221130120629.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 749
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115095/site_1359_0001.jpg",
+            "https://whc.unesco.org/document/115097/site_1359_0002.jpg",
+            "https://whc.unesco.org/document/115099/site_1359_0003.jpg"
+          ],
+          "count": 3
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Saloum Delta",
+            "ref": "1359",
+            "latitude": 13.8352777778,
+            "longitude": -16.4986111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1359",
+        "unesco_documents": "https://whc.unesco.org/en/list/1359/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1359/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1359/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Saloum Delta Fishing and shellfish gathering have sustained human life in the 5,000 km2 property, which is formed by the arms of three rivers. The site comprises brackish channels encompassing over 200 islands and islets, mangrove forest, an Atlantic marine environment, and dry forest. The site is marked by 218 shellfish mounds, some of them several hundreds metres long, produced by its human inhabitants over the ages. Burial sites on 28 of the mounds take the form of tumuli where remarkable artefacts have been found. They are important for our understanding of cultures from the various periods of the delta's occupation and testify to the history of human settlement along the coast of West Africa. Fishing and shellfish gathering have sustained human life in the 5,000 km2 property, which is formed by the arms of three rivers. The site comprises brackish channels encompassing over 200 islands and islets, mangrove forest, an Atlantic marine environment, and dry forest. The site is marked by 218 shellfish mounds, some of them several hundreds metres long, produced by its human inhabitants over the ages. Burial sites on 28 of the mounds take the form of tumuli where remarkable artefacts have been found. They are important for our understanding of cultures from the various periods of the delta's occupation and testify to the history of human settlement along the coast of West Africa. Senegal Africa Cultural"
+    },
+    {
+      "site_key": "bassari_country_bassari_fula_and_bedik_cultural_landscapes",
+      "uuid": "8ce25c7b-f66f-5c1e-a5ee-e0f0b60ea857",
+      "unesco_id": "1407",
+      "names": {
+        "en": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",
+        "fr": "Pays Bassari : paysages culturels Bassari, Peul et Bédik",
+        "es": "El país bassari: paisajes culturales bassari, fula y bedik",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The site, located in south-east Senegal, includes three geographical areas: the Bassari–Salémata area, the Bedik–Bandafassi area and the Fula–Dindéfello area, each with its specific morphological traits. The Bassari, Fula and Bedik peoples settled from the 11th to the 19th centuries and developed specific cultures and habitats symbiotic with their surrounding natural environment. The Bassari landscape is marked by terraces and rice paddies, interspersed with villages, hamlets and archaeological sites. The Bedik villages are formed by dense groups of huts with steep thatched roofs. Their inhabitants’ cultural expressions are characterized by original traits of agro-pastoral, social, ritual and spiritual practices, which represent an original response to environmental constraints and human pressures. The site is a well-preserved multicultural landscape housing original and still vibrant local cultures.",
+          "fr": "Situé dans le sud-est du Sénégal, le bien comprend trois régions géographiques différentes : celle des Bassari – zone de Salémata –, celle des Bédik – zone de Bandafassi – et celle des Peuls – zone de Dindéfello, présentant chacune des traits morphologiques particuliers. Les peuples Bassari, Peul et Bédik se sont installés entre le XIe et le XIXe siècle et ont développé des cultures spécifiques, vivant en symbiose avec l’environnement naturel. Le paysage bassari est organisé en terrasses et en rizières, entrecoupées de villages et de hameaux. Les villages des Bédik sont formés de groupes denses de huttes aux toits de chaume pentus. Les expressions culturelles de ses habitants manifestent des traits originaux dans leurs pratiques agropastorales, sociales, rituelles et spirituelles et représentent une réponse exceptionnelle et originale aux contraintes imposées par l’environnement et aux pressions anthropiques. Le site est un paysage multiculturel extrêmement bien conservé abritant des cultures autochtones originales et toujours vivantes.",
+          "es": "está situado al sudeste del país e incluye tres áreas geográficas: la zona bassari-salemata, la zona bedik-bandafassi y la zona fula-dindéfello, cada una con características morfológicas específicas. Los pueblos bassari, fula y bedik se asentaron allí entre los siglos XI y XIX y desarrollaron culturas específicas simbióticas con el medioambiente natural de cada una de ellas. El paisaje bassari se caracteriza por sus terrazas y arrozales en las que se intercalan pueblos, aldeas y sitios arqueológicos. Los pueblos de los bedik son, en cambio, densos grupos de cabañas con empinados techos de paja. Las expresiones culturales de sus habitantes incluyen rasgos originales de prácticas agropastorales, sociales, rituales y espirituales y representan una respuesta excepcional y original a las dificultades naturales y a la presión humana. El sitio es un paisaje multicultural extraordinariamente bien preservado y presenta un hábitat humano original con culturas locales muy activas.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The site, located in south-east Senegal, includes three geographical areas: the Bassari–Salémata area, the Bedik–Bandafassi area and the Fula–Dindéfello area, each with its specific morphological traits. The Bassari, Fula and Bedik peoples settled from the 11th to the 19th centuries and developed specific cultures and habitats symbiotic with their surrounding natural environment. The Bassari landscape is marked by terraces and rice paddies, interspersed with villages, hamlets and archaeological sites. The Bedik villages are formed by dense groups of huts with steep thatched roofs. Their inhabitants’ cultural expressions are characterized by original traits of agro-pastoral, social, ritual and spiritual practices, which represent an original response to environmental constraints and human pressures. The site is a well-preserved multicultural landscape housing original and still vibrant local cultures.",
+        "justification": "Brief synthesis The cultural landscape of Bassari is located in south-eastern Senegal, close to the Mali and Guinean borders, in a hilly territory, formed by the northern foothills of the Fouta Djallon Massif. Two distinct geographic environments feature the region: the alluvial plain and the peneplain to the north and the mountains to the south. The former exhibit a mosaic of cultivated patches, pastures, bushes, the latter, relatively high and sheer, are dotted with several natural caves and have offered an environment particularly advantageous for the establishment of different cultural clusters and their defence. Archaeological evidences of early human occupation abound in the area. The property comprises three different geo-cultural areas: the Bassari – Salémata, the Bedik – Bandafassi and the Fula – Dindéfello areas, each exhibiting specific morphological and cultural traits. In this barely accessible region, but rich in natural resources and biodiversity, the Bassari, Fula and Bedik peoples settled and developed specific cultures, symbiotic with the surrounding natural environment. Until the last century, inhabited villages were grouped and located on rises, so as to control the plains, and consisted of round thatched huts congregated around a central space. Today dispersion and impermanence are the main traits of the Bassari settlements, the populations choosing to live close to the fields. Ancient villages are nowadays used only periodically for ritual ceremonies or festivals. The property and its associated cultural expressions bear outstanding witness to the cultural specificity and interaction between the Bassari/Beliyan, Bedik, and Fula people in agro-pastoral, social, ritual and spiritual practices, and represent an outstanding, original response to natural environmental constraints and anthropic pressures, so as to use wisely the limited resources of the area. Criterion (iii): The physical layout of the Bassari Cultural landscape bears an exceptional witness to the complex interactions among environmental factors, land-use practices, social rules, beliefs that altogether have concurred to shape a peculiar and remarkably preserved cultural landscape that outstandingly reflects the ability of make a respectful and sustainable use of the resources of the region. Criterion (v): The Bassari cultural landscape bears witness to peculiar uses of the land, including crop rotation and manuring, communal sowing, weeding and harvesting and commuting practices imposed by traditional agricultural systems and by the relative scarcity of resources, thus representing an outstanding example of human interaction with a vulnerable environment. Criterion (vi): The Pays Bassari as well as the sacred dimension that Bassari, Fula and Bedik people attach to it bear exceptional, tangible witness to the intertwined complex of practices, social rules, rites and beliefs that have helped the Bassari regulate the interaction between men and their living environment and have produced a cultural landscape shaped by and imbued with cultural traditions and spiritual meanings that persist in a lively dynamic of transmission. Integrity The serial property includes all elements necessary to make manifest its proposed Outstanding Universal Value. Each area contributes to make evident and to reinforce the value of the whole system and the profound cultural connections between humans and nature. Their individual and overall sizes are also convenient to represent adequately the cultural features and processes conveying the Outstanding Universal Value of the property. In the long term, the sustenance of the integrity of the property needs that measures be set up to safeguard the Bassari culture from the disrupting impact of an excessive exposure to alien cultural models. Authenticity The landscapes and their land-use and settlement pattern, along with the traditional architecture, the sacred forests, and the sanctuaries bear credible witness to a complex socio-economic cultural system in which peculiar agricultural and social practices, rituals, beliefs and traditional education have contributed to make possible and durable the human settlement through the respectful and sustainable use of the scarce resources of the region. Protection and management requirements The Bassari cultural landscape is covered by specific layers of formal protection according to the law in force. Forms of traditional protection and management continue to be implemented, complemented by the action of several national and local institutional bodies and NGOs. Overall the combination of legal, institutional and traditional protective measures is adequate to ensure the safeguard of the Outstanding Universal Value of the property. However its sustenance in the long term requires a strong coordination among all authorities, organisations and communities responsible at different levels for the protection and management of the Bassari region within a comprehensive management strategy that need to integrate all plans, measures and projects into one management system/plan. The joint management authority must be confirmed in its structures as well as in its means. Specific attention must also be paid to the control of economic development projects in the region, tourism within the property and potential mining or forestry projects in buffer zones. A strategy for the conservation of the property and its attributes must be attached to the Management Plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 50309,
+          "square_km": 503.09,
+          "square_miles": 203.594,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/86de7bc8c73c75b905e4e790a7a879e0",
+          "filename": "site_1407_0004-500-0-20230221161459.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/117169/site_1407_0004.jpg",
+            "https://whc.unesco.org/document/117171/site_1407_0006.jpg",
+            "https://whc.unesco.org/document/117165/site_1407_0001.jpg",
+            "https://whc.unesco.org/document/117167/site_1407_0003.jpg",
+            "https://whc.unesco.org/document/117170/site_1407_0005.jpg",
+            "https://whc.unesco.org/document/117172/site_1407_0007.jpg",
+            "https://whc.unesco.org/document/117173/site_1407_0008.jpg",
+            "https://whc.unesco.org/document/117174/site_1407_0009.jpg",
+            "https://whc.unesco.org/document/117175/site_1407_0010.jpg",
+            "https://whc.unesco.org/document/117176/site_1407_0011.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Peul Dindéfello",
+            "ref": "1407-003",
+            "latitude": 12.3638888889,
+            "longitude": -12.3386111111
+          },
+          {
+            "name": "Bassari Salémata",
+            "ref": "1407-001",
+            "latitude": 12.5933333333,
+            "longitude": -12.8458333333
+          },
+          {
+            "name": "Bédik Bandafassi",
+            "ref": "1407-002",
+            "latitude": 12.5658333333,
+            "longitude": -12.4330555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1407",
+        "unesco_documents": "https://whc.unesco.org/en/list/1407/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1407/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1407/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes The site, located in south-east Senegal, includes three geographical areas: the Bassari–Salémata area, the Bedik–Bandafassi area and the Fula–Dindéfello area, each with its specific morphological traits. The Bassari, Fula and Bedik peoples settled from the 11th to the 19th centuries and developed specific cultures and habitats symbiotic with their surrounding natural environment. The Bassari landscape is marked by terraces and rice paddies, interspersed with villages, hamlets and archaeological sites. The Bedik villages are formed by dense groups of huts with steep thatched roofs. Their inhabitants’ cultural expressions are characterized by original traits of agro-pastoral, social, ritual and spiritual practices, which represent an original response to environmental constraints and human pressures. The site is a well-preserved multicultural landscape housing original and still vibrant local cultures. The site, located in south-east Senegal, includes three geographical areas: the Bassari–Salémata area, the Bedik–Bandafassi area and the Fula–Dindéfello area, each with its specific morphological traits. The Bassari, Fula and Bedik peoples settled from the 11th to the 19th centuries and developed specific cultures and habitats symbiotic with their surrounding natural environment. The Bassari landscape is marked by terraces and rice paddies, interspersed with villages, hamlets and archaeological sites. The Bedik villages are formed by dense groups of huts with steep thatched roofs. Their inhabitants’ cultural expressions are characterized by original traits of agro-pastoral, social, ritual and spiritual practices, which represent an original response to environmental constraints and human pressures. The site is a well-preserved multicultural landscape housing original and still vibrant local cultures. Senegal Africa Cultural"
+    }
+  ]
+}
