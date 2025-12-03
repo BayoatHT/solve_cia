@@ -304,3 +304,140 @@ def get_dataset_statistics(sites: List[Dict]) -> Dict:
     }
 
     return stats
+
+
+if __name__ == "__main__":
+    """Test heritage data loading with statistics and validation."""
+
+    print("=" * 70)
+    print("HERITAGE DATA LOADER TEST")
+    print("=" * 70)
+
+    # Configuration
+    SHOW_SAMPLE_SITES = 5
+    SHOW_SAMPLE_FIELDS = True
+
+    # Test 1: Load data
+    print("\n1. LOAD HERITAGE DATA")
+    print("-" * 70)
+
+    try:
+        sites = load_heritage_data()
+        print(f"✓ Successfully loaded {len(sites)} sites")
+    except Exception as e:
+        print(f"✗ Error loading data: {e}")
+        exit(1)
+
+    # Test 2: Validate dataset
+    print("\n2. VALIDATE DATASET")
+    print("-" * 70)
+
+    validation = validate_dataset(sites)
+    print(f"Total sites:          {validation['total_sites']}")
+    print(f"Valid sites:          {validation['valid_sites']}")
+    print(f"Sites with warnings:  {validation['warnings']}")
+    print(f"\nValidation issues:")
+    print(f"  Missing fields:     {validation['missing_required_fields']}")
+    print(f"  Invalid data:       {validation['invalid_data']}")
+
+    if validation['valid_sites'] / validation['total_sites'] > 0.99:
+        print(f"\n✓ Dataset quality: EXCELLENT ({validation['valid_sites']}/{validation['total_sites']} valid)")
+    elif validation['valid_sites'] / validation['total_sites'] > 0.95:
+        print(f"\n✓ Dataset quality: GOOD ({validation['valid_sites']}/{validation['total_sites']} valid)")
+    else:
+        print(f"\n⚠ Dataset quality: NEEDS REVIEW ({validation['valid_sites']}/{validation['total_sites']} valid)")
+
+    # Test 3: Dataset statistics
+    print("\n3. DATASET STATISTICS")
+    print("-" * 70)
+
+    stats = get_dataset_statistics(sites)
+
+    print(f"Total sites: {stats['total_sites']}")
+    print(f"\nBy Category:")
+    for category, count in sorted(stats['by_category'].items()):
+        pct = (count / stats['total_sites']) * 100
+        print(f"  {category:15} {count:4} ({pct:5.1f}%)")
+
+    print(f"\nBy Region:")
+    for region, count in sorted(stats['by_region'].items()):
+        pct = (count / stats['total_sites']) * 100
+        print(f"  {region:15} {count:4} ({pct:5.1f}%)")
+
+    print(f"\nSpecial Collections:")
+    print(f"  Transboundary:      {stats['transboundary_count']}")
+    print(f"  Endangered:         {stats['endangered_count']}")
+
+    print(f"\nData Quality:")
+    print(f"  Missing coordinates: {stats['missing_coordinates']}")
+    print(f"  Missing area:        {stats['missing_area']}")
+    print(f"  Missing main image:  {stats['missing_main_image']}")
+
+    print(f"\nInscription Date Range:")
+    print(f"  Earliest:  {stats['date_range']['earliest']}")
+    print(f"  Latest:    {stats['date_range']['latest']}")
+    print(f"  Span:      {stats['date_range']['latest'] - stats['date_range']['earliest']} years")
+
+    # Test 4: Filter by category
+    print("\n4. FILTER BY CATEGORY")
+    print("-" * 70)
+
+    cultural = filter_sites_by_category(sites, 'Cultural')
+    natural = filter_sites_by_category(sites, 'Natural')
+    mixed = filter_sites_by_category(sites, 'Mixed')
+
+    print(f"Cultural sites: {len(cultural)}")
+    print(f"Natural sites:  {len(natural)}")
+    print(f"Mixed sites:    {len(mixed)}")
+    print(f"Total:          {len(cultural) + len(natural) + len(mixed)}")
+
+    # Test 5: Filter by region
+    print("\n5. FILTER BY REGION")
+    print("-" * 70)
+
+    regions = {'EUR': 'Europe', 'ASP': 'Asia/Pacific', 'LAC': 'Latin America', 
+               'AFR': 'Africa', 'ARB': 'Arab States'}
+
+    for code, name in regions.items():
+        region_sites = filter_sites_by_region(sites, code)
+        print(f"{name:20} ({code}): {len(region_sites):4} sites")
+
+    # Test 6: Sample sites
+    if SHOW_SAMPLE_SITES:
+        print(f"\n6. SAMPLE SITES (First {SHOW_SAMPLE_SITES})")
+        print("-" * 70)
+
+        for i, site in enumerate(sites[:SHOW_SAMPLE_SITES], 1):
+            print(f"\n{i}. {site.get('name_en', 'Unknown')}")
+            print(f"   Country:    {site.get('iso_codes', 'N/A')}")
+            print(f"   Category:   {site.get('category', 'N/A')}")
+            print(f"   Region:     {site.get('region_code', 'N/A')}")
+            print(f"   Inscribed:  {site.get('date_inscribed', 'N/A')}")
+            print(f"   ID:         {site.get('id_no', 'N/A')}")
+
+            if SHOW_SAMPLE_FIELDS:
+                coords = site.get('coordinates')
+                if coords:
+                    print(f"   Coords:     {coords.get('lat')}, {coords.get('lon')}")
+                area = site.get('area_hectares')
+                if area:
+                    print(f"   Area:       {area} hectares")
+
+    # Test 7: Get sites by country
+    print("\n7. GET SITES BY COUNTRY (Sample)")
+    print("-" * 70)
+
+    test_countries = ['IT', 'FR', 'CN', 'ES', 'DE']
+    for iso2 in test_countries:
+        country_sites = get_sites_by_country(sites, iso2)
+        if country_sites:
+            print(f"{iso2}: {len(country_sites)} sites")
+            # Show first site name
+            print(f"   Example: {country_sites[0].get('name_en', 'Unknown')}")
+
+    # Summary
+    print("\n" + "=" * 70)
+    print("✓ All heritage data loading tests completed!")
+    print(f"✓ Loaded {len(sites)} sites successfully")
+    print(f"✓ {validation['valid_sites']} sites validated")
+    print("=" * 70)

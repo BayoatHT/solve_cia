@@ -288,3 +288,148 @@ def handle_missing_image(main_image: Optional[dict], gallery_urls: str = None) -
         'available': False,
         'note': 'image_not_available'
     }
+
+
+if __name__ == "__main__":
+    """Test null value handling utilities."""
+
+    print("=" * 70)
+    print("NULL VALUE HANDLING UTILITIES TEST")
+    print("=" * 70)
+
+    # Test 1: Normalize empty
+    print("\n1. NORMALIZE EMPTY VALUES")
+    print("-" * 70)
+
+    normalize_tests = [
+        ("", "Empty string"),
+        ("null", "String 'null'"),
+        ("NULL", "String 'NULL'"),
+        ("actual value", "Real value"),
+        (None, "None"),
+        ("0", "Zero string"),
+    ]
+
+    for value, description in normalize_tests:
+        result = normalize_empty(value)
+        print(f"{description:20} Input: {repr(value):20} → Output: {repr(result)}")
+
+    # Test 2: Handle null with defaults
+    print("\n2. HANDLE NULL WITH DEFAULTS")
+    print("-" * 70)
+
+    handle_tests = [
+        (None, "Not available", "area_hectares", "Null with default"),
+        (150, "Not available", "area_hectares", "Valid value"),
+        ("", "Unknown", "name", "Empty string"),
+    ]
+
+    for value, default, field, description in handle_tests:
+        result = handle_null(value, default, field)
+        print(f"{description:25} Value: {repr(value):15} Default: {repr(default):20} → {repr(result)}")
+
+    # Test 3: Has value check
+    print("\n3. HAS VALUE CHECK")
+    print("-" * 70)
+
+    has_value_tests = [
+        (None, False, "None"),
+        ("", False, "Empty string"),
+        (0, True, "Zero (valid)"),
+        ([], False, "Empty list"),
+        ({}, False, "Empty dict"),
+        ("text", True, "Valid string"),
+        ([1, 2], True, "Valid list"),
+    ]
+
+    for value, expected, description in has_value_tests:
+        result = has_value(value)
+        status = "✓" if result == expected else "✗"
+        print(f"{status} {description:20} Value: {repr(value):15} Has value: {result}")
+
+    # Test 4: Safe get from dict
+    print("\n4. SAFE GET FROM DICTIONARY")
+    print("-" * 70)
+
+    test_dict = {
+        "name": "Butrint",
+        "area": None,
+        "description": ""
+    }
+
+    safe_get_tests = [
+        ("name", "Unknown", "Existing key"),
+        ("area", "Unknown", "Null value"),
+        ("description", "No description", "Empty string"),
+        ("missing", "Default", "Missing key"),
+    ]
+
+    for key, default, description in safe_get_tests:
+        result = safe_get(test_dict, key, default)
+        print(f"{description:20} Key: {key:15} Default: {default:20} → {repr(result)}")
+
+    # Test 5: Handle missing coordinates
+    print("\n5. HANDLE MISSING COORDINATES")
+    print("-" * 70)
+
+    coords_tests = [
+        ({'lat': 39.7, 'lon': 20.0}, "Valid coordinates"),
+        (None, "None value"),
+        ({'lat': None, 'lon': None}, "Null coordinates"),
+        ({}, "Empty dict"),
+    ]
+
+    for coords, description in coords_tests:
+        result = handle_missing_coordinates(coords, "Test Site")
+        print(f"\n{description}:")
+        print(f"  Input:     {coords}")
+        print(f"  Available: {result['available']}")
+        if result['available']:
+            print(f"  Lat/Lon:   {result['latitude']}, {result['longitude']}")
+        else:
+            print(f"  Note:      {result.get('note')}")
+
+    # Test 6: Handle missing area
+    print("\n6. HANDLE MISSING AREA")
+    print("-" * 70)
+
+    area_tests = [
+        (150.0, "Valid area"),
+        (None, "Missing area"),
+        (0.0, "Zero area (edge case)"),
+    ]
+
+    for area, description in area_tests:
+        result = handle_missing_area(area)
+        print(f"\n{description}: Input={area}")
+        if result['available']:
+            print(f"  Hectares:  {result['hectares']}")
+            print(f"  Sq km:     {result['square_km']}")
+            print(f"  Sq miles:  {result['square_miles']}")
+        else:
+            print(f"  Note:      {result.get('note')}")
+
+    # Test 7: Handle missing image
+    print("\n7. HANDLE MISSING IMAGE")
+    print("-" * 70)
+
+    image_tests = [
+        ({'url': 'https://example.com/image.jpg', 'width': 800, 'height': 600}, None, "Valid main image"),
+        (None, "https://gallery.com/img1.jpg,https://gallery.com/img2.jpg", "Gallery fallback"),
+        (None, None, "No images available"),
+    ]
+
+    for main_img, gallery, description in image_tests:
+        result = handle_missing_image(main_img, gallery)
+        print(f"\n{description}:")
+        print(f"  Available: {result['available']}")
+        if result['available']:
+            print(f"  URL:       {result['url']}")
+            print(f"  Source:    {result.get('source')}")
+        else:
+            print(f"  Note:      {result.get('note')}")
+
+    # Summary
+    print("\n" + "=" * 70)
+    print("✓ All null value handling tests completed!")
+    print("=" * 70)

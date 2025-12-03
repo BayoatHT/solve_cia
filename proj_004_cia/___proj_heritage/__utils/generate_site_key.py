@@ -140,3 +140,125 @@ def validate_site_key(key: str) -> bool:
         return False
 
     return True
+
+
+if __name__ == "__main__":
+    """Test site key generation with real UNESCO data examples."""
+
+    print("=" * 70)
+    print("SITE KEY GENERATION UTILITIES TEST")
+    print("=" * 70)
+
+    # Test 1: Basic site key generation
+    print("\n1. BASIC SITE KEY GENERATION")
+    print("-" * 70)
+
+    test_sites = [
+        ("Butrint", "AL", "570", "Simple name"),
+        ("Historic Centre of Prague", "CZ", "616", "Multi-word name"),
+        ("Al Qal'a of Beni Hammad", "DZ", "102", "Special characters"),
+        ("Alhambra, Generalife and Albayzín, Granada", "ES", "314", "Complex name"),
+        ("18th-Century Royal Palace at Caserta", "IT", "549", "Starting with number"),
+        ("Škocjan Caves", "SI", "390", "Unicode characters"),
+    ]
+
+    existing = set()
+    for name, iso2, id_no, description in test_sites:
+        key = generate_site_key(name, iso2, id_no, existing)
+        existing.add(key)
+        print(f"Site: {name}")
+        print(f"  → Key: {key}")
+        print(f"  → Valid: {validate_site_key(key)}")
+        print(f"  → Note: {description}")
+        print()
+
+    # Test 2: Collision handling
+    print("\n2. COLLISION HANDLING")
+    print("-" * 70)
+
+    existing_keys = set()
+
+    # First site with name "Abbey"
+    key1 = generate_site_key("Abbey of St Gall", "CH", "268", existing_keys)
+    existing_keys.add(key1)
+    print(f"First 'Abbey': {key1}")
+
+    # Second site - different abbey
+    key2 = generate_site_key("Abbey of Lorsch", "DE", "515", existing_keys)
+    existing_keys.add(key2)
+    print(f"Second 'Abbey': {key2}")
+
+    # Simulate exact duplicate (would use country code)
+    test_key = slugify("Abbey of St Gall", separator='_')
+    existing_keys.add(test_key)
+    key3 = generate_site_key("Abbey of St Gall", "FR", "999", existing_keys)
+    print(f"Same name, different country: {key3}")
+    print()
+
+    # Test 3: Multiple sites batch processing
+    print("\n3. BATCH KEY GENERATION")
+    print("-" * 70)
+
+    batch_sites = [
+        {"uuid": "uuid-1", "name_en": "Acropolis, Athens", "iso_codes": "GR", "id_no": "404"},
+        {"uuid": "uuid-2", "name_en": "Angkor", "iso_codes": "KH", "id_no": "668"},
+        {"uuid": "uuid-3", "name_en": "Machu Picchu", "iso_codes": "PE", "id_no": "274"},
+        {"uuid": "uuid-4", "name_en": "Petra", "iso_codes": "JO", "id_no": "326"},
+        {"uuid": "uuid-5", "name_en": "Taj Mahal", "iso_codes": "IN", "id_no": "252"},
+    ]
+
+    key_map = generate_all_site_keys(batch_sites)
+
+    print(f"Generated keys for {len(key_map)} sites:")
+    for site in batch_sites:
+        key = key_map[site['uuid']]
+        print(f"  {site['name_en']:30} → {key}")
+    print()
+
+    # Test 4: Key validation
+    print("\n4. KEY VALIDATION")
+    print("-" * 70)
+
+    validation_tests = [
+        ("butrint", True, "Valid key"),
+        ("historic_centre_of_prague", True, "Valid with underscores"),
+        ("abbey_123", True, "Valid with numbers"),
+        ("INVALID", False, "Uppercase not allowed"),
+        ("_leading", False, "Leading underscore"),
+        ("trailing_", False, "Trailing underscore"),
+        ("double__underscore", False, "Consecutive underscores"),
+        ("a", False, "Too short"),
+        ("site-name", False, "Hyphen not allowed"),
+        ("", False, "Empty string"),
+    ]
+
+    for key, expected, description in validation_tests:
+        valid = validate_site_key(key)
+        status = "✓" if valid == expected else "✗"
+        print(f"{status} {repr(key):35} Valid: {valid:5} ({description})")
+
+    # Test 5: Edge cases
+    print("\n5. EDGE CASES")
+    print("-" * 70)
+
+    edge_cases = [
+        ("São Paulo", "BR", "1000", "Portuguese characters"),
+        ("Tīwānaku", "BO", "567", "Macrons"),
+        ("Old City & Walls", "IL", "148", "Ampersand"),
+        ("Site (North)", "NO", "200", "Parentheses"),
+        ("1234 Numeric Site", "XX", "999", "Starting with numbers"),
+    ]
+
+    edge_existing = set()
+    for name, iso2, id_no, description in edge_cases:
+        key = generate_site_key(name, iso2, id_no, edge_existing)
+        edge_existing.add(key)
+        valid = validate_site_key(key)
+        print(f"{name:30} → {key:35} (Valid: {valid})")
+    print()
+
+    # Summary
+    print("=" * 70)
+    print("✓ All site key generation tests completed!")
+    print(f"✓ Generated {len(existing_keys) + len(edge_existing)} unique keys")
+    print("=" * 70)

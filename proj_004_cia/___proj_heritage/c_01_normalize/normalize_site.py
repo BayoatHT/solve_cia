@@ -280,3 +280,65 @@ def get_normalization_stats(normalized_sites: List[Dict]) -> Dict:
             stats['multi_component_count'] += 1
 
     return stats
+
+
+if __name__ == "__main__":
+    """Test site normalization with complete pipeline."""
+    from proj_004_cia.___proj_heritage.a_01_load import load_heritage_data
+    import json
+
+    print("=" * 70)
+    print("SITE NORMALIZATION TEST")
+    print("=" * 70)
+
+    # Configuration
+    TEST_SITES = 3
+    SAVE_SAMPLE_OUTPUT = True
+
+    # Load and normalize
+    print(f"\nLoading and normalizing {TEST_SITES} sites...")
+    sites = load_heritage_data()[:TEST_SITES]
+    normalized = normalize_all_sites(sites)
+
+    print(f"Successfully normalized {len(normalized)} sites")
+    print("-" * 70)
+
+    for i, site in enumerate(normalized, 1):
+        print(f"\n{i}. {site['names']['en']}")
+        print("   " + "=" * 65)
+
+        # Identity
+        print(f"   Key: {site['site_key']}")
+        print(f"   ID:  {site['uuid']}")
+
+        # Geography
+        print(f"\n   Geography:")
+        print(f"     Region: {site['geography']['region']['name']}")
+        print(f"     Countries: {list(site['geography']['countries'].keys())}")
+
+        # Classification
+        print(f"\n   Classification:")
+        print(f"     Category: {site['classification']['category']['name']}")
+        print(f"     Criteria: {site['classification']['criteria']['display']}")
+
+        # Temporal
+        print(f"\n   Temporal:")
+        print(f"     Inscribed: {site['temporal']['inscription']['primary_date']}")
+        print(f"     Extensions: {site['temporal']['inscription']['extension_count']}")
+
+        # Enhancements
+        print(f"\n   Enhancements:")
+        print(f"     UNESCO URL: {site['links']['unesco_official']}")
+        print(f"     Continent: {site['geographic_context']['continent']}")
+        print(f"     Era: {site['historical_context']['era']}")
+
+        # Save sample
+        if SAVE_SAMPLE_OUTPUT and i == 1:
+            output_file = Path(__file__).parent / f"_test_output_{site['site_key']}.json"
+            with open(output_file, 'w') as f:
+                json.dump(site, f, indent=2)
+            print(f"\n   ✓ Saved sample output to: {output_file.name}")
+
+    print("\n" + "=" * 70)
+    print("✓ Normalization test completed!")
+    print("=" * 70)

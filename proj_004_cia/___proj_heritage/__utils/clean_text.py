@@ -153,3 +153,106 @@ def extract_sentences(text: str, max_sentences: int = 3) -> str:
 
     # Take first N sentences
     return ' '.join(sentences[:max_sentences])
+
+
+if __name__ == "__main__":
+    """Test text cleaning utilities with various inputs."""
+
+    print("=" * 70)
+    print("TEXT CLEANING UTILITIES TEST")
+    print("=" * 70)
+
+    # Test 1: clean_text()
+    print("\n1. CLEAN TEXT FUNCTION")
+    print("-" * 70)
+
+    test_cases_clean = [
+        ("  Historic   Centre  ", "Multiple spaces"),
+        ("Text\nwith\nlinebreaks", "Line breaks"),
+        ("\tTabbed\t\tText\t", "Tabs"),
+        ("  Mixed   \n\n  whitespace  ", "Mixed whitespace"),
+        ("Ünëscö Hérïtägë", "Unicode characters"),
+        ("", "Empty string"),
+        (None, "None value")
+    ]
+
+    for text, description in test_cases_clean:
+        result = clean_text(text)
+        print(f"Input  ({description}): {repr(text)}")
+        print(f"Output: {repr(result)}")
+        print()
+
+    # Test 2: normalize_whitespace()
+    print("\n2. NORMALIZE WHITESPACE FUNCTION")
+    print("-" * 70)
+
+    test_cases_whitespace = [
+        ("Line 1\n\n\nLine 2", False, "Multiple newlines (collapsed)"),
+        ("Line 1\n\nLine 2", True, "Multiple newlines (preserved)"),
+        ("Word1    Word2   Word3", False, "Multiple spaces"),
+        ("Para 1\n\nPara 2\n\nPara 3", True, "Paragraphs (preserved)")
+    ]
+
+    for text, preserve, description in test_cases_whitespace:
+        result = normalize_whitespace(text, preserve_newlines=preserve)
+        print(f"Input  ({description}): {repr(text)}")
+        print(f"Preserve newlines: {preserve}")
+        print(f"Output: {repr(result)}")
+        print()
+
+    # Test 3: truncate_text()
+    print("\n3. TRUNCATE TEXT FUNCTION")
+    print("-" * 70)
+
+    long_text = "Inhabited since prehistoric times, Butrint has been the site of a Greek colony."
+
+    test_cases_truncate = [
+        (long_text, 30, "...", "Standard truncation"),
+        (long_text, 50, " [more]", "Custom suffix"),
+        ("Short text", 50, "...", "No truncation needed"),
+        (long_text, 20, "…", "Unicode ellipsis")
+    ]
+
+    for text, max_len, suffix, description in test_cases_truncate:
+        result = truncate_text(text, max_len, suffix)
+        print(f"Test: {description}")
+        print(f"Input:  {text}")
+        print(f"Length: {len(text)} → {max_len} chars (suffix: {repr(suffix)})")
+        print(f"Output: {result}")
+        print()
+
+    # Test 4: remove_html_tags()
+    print("\n4. REMOVE HTML TAGS FUNCTION")
+    print("-" * 70)
+
+    test_cases_html = [
+        ("<p>Hello <b>World</b></p>", "Basic HTML"),
+        ("<div class='test'>Content <span>here</span></div>", "HTML with attributes"),
+        ("Plain text without tags", "No HTML tags"),
+        ("<h1>Title</h1>\n<p>Paragraph</p>", "Multiple tags with newlines")
+    ]
+
+    for html, description in test_cases_html:
+        result = remove_html_tags(html)
+        print(f"Input  ({description}): {repr(html)}")
+        print(f"Output: {repr(result)}")
+        print()
+
+    # Test 5: extract_sentences()
+    print("\n5. EXTRACT SENTENCES FUNCTION")
+    print("-" * 70)
+
+    paragraph = ("First sentence here. Second sentence follows! Third sentence too? "
+                "Fourth sentence exists. Fifth one as well.")
+
+    for num in [1, 2, 3, 5, 10]:
+        result = extract_sentences(paragraph, num)
+        actual_sentences = len([s for s in result.split('.') if s.strip()])
+        print(f"Extract {num} sentences: Got {actual_sentences}")
+        print(f"Output: {result[:80]}{'...' if len(result) > 80 else ''}")
+        print()
+
+    # Summary
+    print("=" * 70)
+    print("✓ All text cleaning utility tests completed!")
+    print("=" * 70)

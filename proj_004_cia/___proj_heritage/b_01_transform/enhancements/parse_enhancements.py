@@ -214,3 +214,53 @@ def generate_search_text(normalized: Dict) -> str:
     # Concatenate and clean
     search_text = ' '.join(str(t) for t in texts if t)
     return ' '.join(search_text.split())  # Normalize whitespace
+
+
+if __name__ == "__main__":
+    """Test enhancements parser with normalized site data."""
+    import json
+    from pathlib import Path
+    from proj_004_cia.___proj_heritage.c_01_normalize import normalize_all_sites
+    from proj_004_cia.___proj_heritage.a_01_load import load_heritage_data
+
+    print("=" * 70)
+    print("ENHANCEMENTS PARSER TEST")
+    print("=" * 70)
+
+    # Load and normalize sample sites
+    print("\nLoading and normalizing sample sites...")
+    sites = load_heritage_data()[:5]  # First 5 sites
+    normalized = normalize_all_sites(sites)
+
+    print(f"Testing enhancements for {len(normalized)} sites:")
+    print("-" * 70)
+
+    for i, site in enumerate(normalized, 1):
+        print(f"\n{i}. {site['names']['en']}")
+        print("   " + "=" * 65)
+
+        # Links
+        print(f"   UNESCO URL: {site['links']['unesco_official']}")
+
+        # Geographic context
+        print(f"\n   Geographic Context:")
+        print(f"     Continent: {site['geographic_context']['continent']}")
+        print(f"     Type: {site['geographic_context']['geographic_type']}")
+
+        # Historical context
+        print(f"\n   Historical Context:")
+        print(f"     Era: {site['historical_context']['era']}")
+        print(f"     Age: {site['historical_context']['age_years']} years")
+
+        # Metadata
+        print(f"\n   Metadata:")
+        print(f"     Source: {site['metadata']['data_source']}")
+        print(f"     License: {site['metadata']['license']}")
+
+        # Search text
+        search_text = site['search_text'][:100]
+        print(f"\n   Search text: {search_text}...")
+
+    print("\n" + "=" * 70)
+    print("✓ Enhancements parser test completed!")
+    print("=" * 70)

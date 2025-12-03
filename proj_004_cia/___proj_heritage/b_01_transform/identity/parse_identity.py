@@ -50,3 +50,46 @@ def parse_identity(site: Dict, existing_keys: set = None) -> Dict:
         'unesco_id': site.get('id_no'),
         'names': names
     }
+
+
+if __name__ == "__main__":
+    """Test identity parser with real heritage site data."""
+    import json
+    from pathlib import Path
+
+    print("=" * 70)
+    print("IDENTITY PARSER TEST")
+    print("=" * 70)
+
+    # Load sample sites
+    data_file = Path(__file__).parents[2] / "_raw_data" / "json" / "all_world_heritage.json"
+    with open(data_file) as f:
+        sites = json.load(f)
+
+    # Test with first 3 sites
+    TEST_SITES = 3
+    existing_keys = set()
+
+    print(f"\nTesting with first {TEST_SITES} sites:")
+    print("-" * 70)
+
+    for i, site in enumerate(sites[:TEST_SITES], 1):
+        print(f"\n{i}. SITE: {site.get('name_en', 'Unknown')}")
+        print("   " + "=" * 65)
+
+        result = parse_identity(site, existing_keys)
+
+        print(f"   Key:        {result['site_key']}")
+        print(f"   UUID:       {result['uuid']}")
+        print(f"   UNESCO ID:  {result['unesco_id']}")
+
+        print(f"\n   Names (6 languages):")
+        for lang, name in result['names'].items():
+            print(f"     {lang}: {name[:60]}{'...' if len(name) > 60 else ''}")
+
+        existing_keys.add(result['site_key'])
+
+    print("\n" + "=" * 70)
+    print(f"✓ Identity parser test completed!")
+    print(f"✓ Generated {len(existing_keys)} unique site keys")
+    print("=" * 70)
