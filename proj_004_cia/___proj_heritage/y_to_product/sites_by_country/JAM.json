@@ -1,0 +1,357 @@
+{
+  "country": {
+    "code": "JAM",
+    "name": "Jamaica"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 0,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "the_archaeological_ensemble_of_17th_century_port_royal",
+      "uuid": "4ad2d48f-be57-5d22-964a-f914a6a91ea8",
+      "unesco_id": "1595",
+      "names": {
+        "en": "The Archaeological Ensemble of 17th Century Port Royal",
+        "fr": "L’ensemble archéologique de Port Royal au XVIIe siècle",
+        "es": "Conjunto arqueológico del siglo XVII Port Royal",
+        "ru": "Археологический ландшафт Порт-Ройала XVII века",
+        "ar": "المجمَّع الأثري لمدينة بورت رويال التي يعود تاريخها إلى القرن السابع عشر",
+        "zh": "皇家港17世纪考古景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "JAM": {
+            "name": "Jamaica",
+            "iso2": "JM",
+            "iso3": "JAM"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The town of Port Royal is located at the mouth of Kingston Harbour in southeastern Jamaica. It was a major 17th-century English port city. A devastating earthquake in 1692 submerged much of the town under water and sand. Today, its terrestrial and underwater remains offer rare insights into urban colonial life. Once a key hub for transatlantic trade—including the trade of enslaved Africans—Port Royal featured a deep-water port and six defensive forts, some now submerged. Archaeological evidence reveals a well-preserved layout of residential, religious, and administrative buildings, serving as a distinctive marker of British colonial presence in the Caribbean.",
+          "fr": "Située à l’entrée du port de Kingston, dans le sud-est de la Jamaïque, Port Royal fut une ville portuaire majeure de l’Empire britannique au XVIIe siècle. En 1692, un violent tremblement de terre submergea une grande partie de la ville sous l’eau et le sable. Actuellement, les vestiges terrestres et subaquatiques de la ville sont des témoins exceptionnels d’un établissement urbain colonial. Pôle commercial transatlantique majeur, y compris de la traite des Africains mis en esclavage, Port Royal possédait un port en eaux profondes et six forts défensifs, dont certains sont désormais immergés. Les traces archéologiques révèlent un plan urbain préservé, composé de bâtiments résidentiels, religieux et administratifs, qui témoigne de la présence coloniale britannique dans les Caraïbes.",
+          "es": "La ciudad de Port Royal se encuentra en la entrada del puerto de Kingston, en el sureste de Jamaica. Era una importante ciudad portuaria inglesa del siglo XVII. Un devastador terremoto en 1692 sumergió gran parte de la ciudad bajo el agua y la arena. En la actualidad, estos restos terrestres y submarinos aportan información valiosa sobre el desarrollo de la vida colonial urbana. Antaño centro clave del comercio transatlántico, incluido el comercio de esclavos africanos, Port Royal contó con un puerto de aguas profundas y seis fuertes defensivos, algunos ahora sumergidos. Los restos arqueológicos revelan un diseño bien conservado de edificios residenciales, religiosos y administrativos representativos de la presencia colonial británica en el Caribe.",
+          "ru": "Город Порт-Ройал расположен у входа в гавань Кингстон на юго-востоке Ямайки. В XVII веке он был важным английским портовым городом. Разрушительное землетрясение 1692 года затронуло большую часть города, скрыв его под водой и песком. Сегодня наземные и подводные останки Порт-Ройала предоставляют уникальные сведения о жизни в колониальном городе. Когда-то это был ключевой центр трансатлантической торговли, включая торговлю порабощёнными африканцами. В Порт-Ройале находился глубоководный порт и шесть оборонительных фортов, часть которых сейчас находится под водой. Археологические работы позволили восстановить хорошо сохранившуюся планировку жилых, религиозных и административных зданий, что делает Порт-Ройал уникальным свидетельством британского колониального присутствия в Карибском бассейне.",
+          "ar": "تقع مدينة بورت رويال عند مدخل ميناء كينغستون في جنوب شرق جامايكا، وكانت في القرن السابع عشر واحدة من أبرز المدن الساحلية التابعة للإنجليز. وأدى زلزال مدمّر وقع عام 1692 إلى غمر جزء كبير من المدينة بالمياه والرمال. وتُقدّم أطلال المدينة، سواء البرّية أو المغمورة بالمياه، رؤى نادرة عن الحياة الحضرية في الحقبة الاستعمارية، إذ كانت بورت رويال مركزاً محورياً في شبكة التجارة عبر المحيط الأطلسي، بما في ذلك تجارة الأفارقة المستَعبَدين. وكان يوجد في المدينة ميناء مياهه عميقة وستة حصون دفاعية، لا يزال بعضها مغموراً بالمياه. وتميط الأدلة الأثرية اللثام عن تخطيط عمراني محفوظ بشكل ملحوظ يشمل منشآت سكنية ودينية وإدارية، ما يجعل من بورت رويال شاهداً فريداً على الوجود الاستعماري البريطاني في منطقة البحر الكاريبي.",
+          "zh": "皇家港坐落于牙买加东南部、金斯敦港湾入海口，是17世纪英国在加勒比地区的重要港市。1692年，一场毁灭性的地震使其大部分没入海水与沙层之中，如今残存于陆上和水下的遗迹为了解殖民时期的城市生活风貌提供了罕见素材。作为曾经的跨大西洋贸易（包括非洲奴隶贸易）的一大枢纽，皇家港拥有1座深水港口与6座防御工事，部分现已淹没。考古证据呈现了保存完好的住宅、宗教与行政建筑格局，成为加勒比地区英国殖民史的独特标志。"
+        },
+        "full": "The town of Port Royal is located at the mouth of Kingston Harbour in southeastern Jamaica. It was a major 17th-century English port city. A devastating earthquake in 1692 submerged much of the town under water and sand. Today, its terrestrial and underwater remains offer rare insights into urban colonial life. Once a key hub for transatlantic trade—including the trade of enslaved Africans—Port Royal featured a deep-water port and six defensive forts, some now submerged. Archaeological evidence reveals a well-preserved layout of residential, religious, and administrative buildings, serving as a distinctive marker of British colonial presence in the Caribbean.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 27,
+          "square_km": 0.27,
+          "square_miles": 0.109,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9d656708e6c76f4919793309ce4f6da3",
+          "filename": "site_1595_0001.jpg",
+          "dimensions": {
+            "width": 4049,
+            "height": 4577
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/220240/site_1595_0001.jpg",
+            "https://whc.unesco.org/document/220241/site_1595_0002.jpg",
+            "https://whc.unesco.org/document/220242/site_1595_0003.jpg",
+            "https://whc.unesco.org/document/220243/site_1595_0004.jpg",
+            "https://whc.unesco.org/document/220247/site_1595_0008.jpg",
+            "https://whc.unesco.org/document/220248/site_1595_0009.jpg",
+            "https://whc.unesco.org/document/220251/site_1595_0012.jpg",
+            "https://whc.unesco.org/document/220252/site_1595_0013.jpg",
+            "https://whc.unesco.org/document/220254/site_1595_0015.jpg",
+            "https://whc.unesco.org/document/220731/site_1595_0016.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "The Archaeological Ensemble of 17th Century Port Royal",
+            "ref": "1595rev",
+            "latitude": 17.9386138889,
+            "longitude": -76.8433777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1595",
+        "unesco_documents": "https://whc.unesco.org/en/list/1595/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1595/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1595/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Archaeological Ensemble of 17th Century Port Royal The town of Port Royal is located at the mouth of Kingston Harbour in southeastern Jamaica. It was a major 17th-century English port city. A devastating earthquake in 1692 submerged much of the town under water and sand. Today, its terrestrial and underwater remains offer rare insights into urban colonial life. Once a key hub for transatlantic trade—including the trade of enslaved Africans—Port Royal featured a deep-water port and six defensive forts, some now submerged. Archaeological evidence reveals a well-preserved layout of residential, religious, and administrative buildings, serving as a distinctive marker of British colonial presence in the Caribbean. The town of Port Royal is located at the mouth of Kingston Harbour in southeastern Jamaica. It was a major 17th-century English port city. A devastating earthquake in 1692 submerged much of the town under water and sand. Today, its terrestrial and underwater remains offer rare insights into urban colonial life. Once a key hub for transatlantic trade—including the trade of enslaved Africans—Port Royal featured a deep-water port and six defensive forts, some now submerged. Archaeological evidence reveals a well-preserved layout of residential, religious, and administrative buildings, serving as a distinctive marker of British colonial presence in the Caribbean. Jamaica Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "blue_and_john_crow_mountains",
+      "uuid": "b530e85c-c4e0-5dbf-8048-eacbd6c72562",
+      "unesco_id": "1356",
+      "names": {
+        "en": "Blue and John Crow Mountains",
+        "fr": "Montagnes bleues et monts John Crow",
+        "es": "Montes Azules y de John Crow",
+        "ru": "Голубые горы и горы Джона Кроу",
+        "ar": "الجبال الزرقاء وجبال جون كرو",
+        "zh": "蓝山和约翰·克罗山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "JAM": {
+            "name": "Jamaica",
+            "iso2": "JM",
+            "iso3": "JAM"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants.",
+          "fr": "Le bien comprend une région montagneuse accidentée et très boisée au sud-est de la Jamaïque qui offrait un refuge aux marrons (anciens peuples esclaves), d’abord les Taïnos, peuple autochtone, puis les Africains réduits en esclavage. Ils résistèrent au système colonial européen dans cette région isolée en établissant un réseau de pistes, de repaires et d’établissements qui forment la Route du patrimoine de Nanny Town. Les forêts offraient aux marrons tout ce dont ils avaient besoin pour survivre. Ils ont développé de fortes associations spirituelles avec ces montagnes exprimées aujourd’hui encore au travers d’expressions culturelles immatérielles (rites religieux, médecine traditionnelle, danses…). Le site est également un point chaud de la biodiversité des îles Caraïbes, présentant un fort taux d’endémisme pour les plantes, notamment les lichens, les mousses et certaines plantes à fleur.",
+          "es": "Este sitio abarca una región montañosa del sudeste de Jamaica, sumamente accidentada y boscosa, donde se refugiaron primero los nativos taínos que huían de la esclavitud y más tarde los negros cimarrones. En esta región, los cimarrones resistieron al sistema esclavista colonial europeo creando toda una serie de senderos, refugios y asentamientos que forman hoy en día la llamada “Ruta del Patrimonio de Nanny Town”. Los bosques de la región ofrecían a los esclavos en fuga todo cuanto necesitaban para su supervivencia. De los estrechos vínculos espirituales que se forjaron entre los cimarrones y las montañas que les dieron acogida quedan todavía vestigios en diversas expresiones culturales de nuestros días: ritos religiosos, prácticas de medicina tradicional, danzas, etc. La región es también una de las zonas de biodiversidad vegetal más importantes de las Antillas, con un alto índice de endemismo de sus especies vegetales, especialmente en lo que se refiere a los líquenes, musgos y flores.",
+          "ru": "Объект, расположенный на юго-востоке Ямайки, представляет собой густо заросшую лесами пересеченную горную местность, которая служила пристанищем для маронов (беглых рабов), первоначально - людей коренной народности таино, позднее - порабощенных африканцев. В этом изолированном регионе им удавалось противостоять европейской колонизации благодаря разветвленной сети троп, укрытий и поселений, которые сформировали так называемый «маршрут наследия» города Нэнни-Таун. Леса обеспечивали беглых рабов всем необходимым для выживания. Маронов связывали с лесами и горами тесные духовные связи, которые и сегодня находят отражение в их нематериальном культурном наследии (религиозных обрядах, традиционной медицине, танцах и пр.). Данный объект также является «горячей точкой» биоразнообразия Карибских островов и отличается высоким уровнем эндемизма флоры, в частности лишайников, мхов и некоторых видов цветочных растений.",
+          "ar": "يشمل الموقع منطقة جبلية وعرة وكثيفة الأشجار في جنوب شرق جامايكا كان يحتمي فيها العبيد الآبقون، وكان أولهم أفراد جماعة تاينوس الأصلية وتلاهم الأفريقيون الذين فُرضت عليهم حياة العبودية. وقاوم هؤلاء النظام الاستعماري الأوروبي في هذه المنطقة النائية عن طريق إقامة شبكة من الممرات والمآوي والمنشآت، تُعرف باسم طريق تراث ناني تاون. وكانت الغابات توفر للعبيد الآبقين كل ما يحتاجون إليه للبقاء على قيد الحياة. ونشأت بينهم وبين هذه الجبال روابط روحانية قوية تتجلى حتى اليوم في مجموعة من أشكال التعبير الثقافي غير المادية (طقوس دينية، وطب تقليدي، ورقصات، وما إلى ذلك). ويُعتبر الموقع أيضاً منطقة ذات تنوع بيولوجي شديد في جزر الكاريبي، بحيث يتسم بنسب عالية من النباتات المستوطنة، ولا سيما الأشنات والطحالب وبعض النباتات المزهرة.",
+          "zh": "该遗产地位于于牙买加东南部的山区，这里丛林广茂，道路崎岖，曾为逃亡奴隶提供了一处庇护之所，这些人最初主要是当地土著泰诺人，后来则是非洲黑奴。他们在这个与世隔绝的区域建立起一个由小径、隐藏处和居留所构成的网络，藉此反抗欧洲殖民体系，这里成为南希镇的遗产之路。森林为黑奴提供了所有生存所需之必须。他们与大山之间建立起了强大的精神联系，今天我们在宗教仪式、传统医学和舞蹈等非物质文化遗产中仍可以看到这些痕迹。该遗址同样也是体现加勒比海岛屿生物多样性的热点地区，这里许多植物都是当地独有的，特别是地衣、苔藓以及一些开花植物。"
+        },
+        "full": "The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants.",
+        "justification": "Brief synthesis The cultural and natural heritage of the Blue and John Crow Mountains comprises 26,252 ha of tropical, montane rainforest within the larger Blue Mountain and John Crow Mountain ranges, located in the eastern part of Jamaica in the Caribbean. These two ranges cover approximately 20% of the island’s total landmass and are recognised for their biodiversity significance within the Caribbean Region. The property spans elevations from 850m to 2,256m asl and is surrounded by a buffer zone of some 28,494 ha. The high elevation, rugged landscape and the north and south-facing slopes of the mountains of the property have resulted in a wide variety of habitat types with nine ecological communities within the upper montane forest of the Blue Mountains (over 1,000m) and John Crow Mountains (over 600m). These include a unique Mor Ridge Forest characterised by a deep layer of acidic humus with bromeliads and endangered tree species. Above 1,800m, the vegetation of the Blue Mountains is more stunted with some species restricted to these altitudes. Above 2,000m the forest is known as Elfin Forest due to the stunted and gnarled appearance of the trees which are heavily coated with epiphytes including hanging mosses, ferns and tiny orchids. The Blue and John Crow Mountains property lies within the Jamaican Moist Forests Global 200 priority eco-region, and is part of one of the 78 most irreplaceable protected areas for the conservation of the world’s amphibian, bird and mammal species. Furthermore it coincides with a Centre of Plant Diversity; an Endemic Bird Area and contains two of Jamaica’s five Alliance for Zero Extinction sites. There is an exceptionally high proportion of endemic plant and animal species found in the property, Jamaica having evolved separately from other landmasses. In addition, the property hosts a number of globally endangered species, including several frog and bird species. The Blue and John Crow Mountains property offered refuge to Maroons (former enslaved peoples) and therefore preserves the tangible cultural heritage associated with the Maroon story. This includes settlements, trails, viewpoints, hiding places, etc. that form the Nanny Town Heritage Route. The forests and their rich natural resources provided everything the Maroons needed to survive, to fight for their freedom, and to nurture their culture. Maroon communities still hold strong spiritual associations with these mountains, expressed through exceptional intangible manifestations. Criterion (iii): The Blue and John Crow Mountains in combination with its cultural heritage, materialised by the Nanny Town Heritage Route and associated remains, i.e. secret trails, settlements, archaeological remains, look-outs, hiding places etc., bear exceptional witness to the phenomenon of grand marronage as characterized by Windward Maroon culture which, in the search for freedom from colonial enslavement, developed a profound knowledge of, and attachment to, their environment, that sustained and helped them to achieve autonomy and recognition. Criterion (vi): Blue and John Crow Mountains is directly associated with events that led to the liberation, and continuing freedom and survival, of groups of fugitive enslaved Africans that found their refuge in the Blue and John Crow Mountains. The property conveys outstandingly its association with living traditions, ideas and beliefs that have ensured that survival, and the specificity and uniqueness of which was recognised by UNESCO in 2008 through its inscription in the Representative List of Intangible Heritage. Criterion (x): The Blue and John Crow Mountains belongs to the Caribbean Islands biodiversity hotspot and is an important centre for plant endemism in the Caribbean displaying 50% endemicity in the flowering plants at elevations above 900-1000 m asl with between 30-40 % of these species found only within the property’s boundaries. One of two Centres of Plant Diversity in Jamaica, the property includes a reported 1,357 species of flowering plant of which approximately 294 are Jamaican endemics and 87 of these species are found only within the property. 61 species of liverwort and moss occur in the property as well as 11 species of lichen, all of which are endemic. Genera which are well represented in the endemic flora of the property include Pilea (12 spp); Lepanthes (12 spp); Psychotria (12 spp) and Eugenia (11 spp). The Blue and John Crow Mountains overlaps with one of the world’s most irreplaceable protected areas, based on its importance for amphibian, bird and mammal species. The property hosts globally significant populations of bird species and represents a key part of the Jamaican Endemic Bird Area. It is important for a number of restricted-range species as well as a large number of migratory birds such as the Petchary (Tyrannus domenciensis) Bicknell’s Thrush (Catharus bicknellii) and Swainson’s Warbler (Limnothlypis swainsonii). The property contains two of Jamaica’s five Alliance for Zero Extinction sites, hosting a significant number of globally endangered species, including the critically endangered plant species Podocarpus urbanii, Eugenia kellyana and Psychotria danceri. The property is also home to several endangered frog and bird species including the critically endangered Arntully Robber Frog, Eleutherodactylus orcutti and the Jamaican Peak Frog, E. alticola. Threatened bird species include Bicknell's Thrush C. bicknellii, the Jamaican Blackbird, Nesopsar nigerrimus, as well as the Yellow-billed Parrot, Amazona collaria and Black-billed Parrot, Amazona agilis. The only terrestrial non-flying mammal species found in the property is the threatened rodent Hutia, Geocapromys brownii with a population restricted to John Crow Mountains. Integrity The Blue and John Crow Mountains protects the most intact forests within the upper elevations of the Blue and John Crow Mountains. The more disturbed lower elevation areas are contained within the surrounding buffer zone. The property is legally well protected as it falls within the boundaries of the larger Blue and John Crow Mountains National Park and is aligned with the park’s Preservation Zone, providing the strictest levels of protection within the zoning system. The area is rugged, remote with limited access thereby providing additional security against some threats. The boundaries of the property are well designed to include the key attributes of its biodiversity values. Nevertheless there are a range of current and potential threats to the property, including from invasive alien species, encroachment, mining, fire and climate change. The majority of threats emanate from the interface between the higher elevation property and lowlands within the buffer zone. The Blue and John Crow Mountains encompass the core cultural properties, sites and vestiges that support their significance as the refuge of the Windward Maroons. Their physical fabric is in a fair condition. The relationships and dynamic functions present in the landscape and the living properties essential to its distinctive character are maintained but require strengthening. The effective protection of the buffer zone is essential in order to sustain the integrity of the property. Authenticity The cultural heritage of the Blue and John Crow Mountains related to the story of the Windward Maroons exhibits a high degree of authenticity in terms of location and setting. The rugged topography and the impenetrable vegetation convey the function as refuge played by the area. Continuity of names of specific places and stories associated with them contribute to sustaining their authenticity. However, the most important aspect of authenticity for this cultural heritage is the meaning and significance attributed by Maroons to their heritage, and the strength and depth of linkages established by them to it. The mountains are also home to Maroon ancestors' spirits and therefore provide a link for Maroons to their past and preceding generations. Protection and management requirements The property enjoys good levels of legal protection as it lies within the Blue and John Crow Mountains National Park. As such it is protected by a suite of legislation including the Natural Resources (National Park) Act (1993) and its regulations; the Forestry Act (1996); the Natural Resources Conservation Authority Act (1991) and the Protected National Heritage under Jamaica National Heritage Trust Act (1985). The property is also covered by a well-structured 5 year management plan. The Blue and John Crow Mountains is subject to a complex governance regime that ensures broader engagement but should strive for continually improved inter-organisational coordination and cooperation. The management of the property recognises the complex interplay between its natural and cultural values and the Maroon local communities are positively engaged with the site and its management. The integration in protection and management activities of Maroon community members helps sustain their links with their heritage and supports the state agencies in achieving their mandates for the safeguarding of the property. Protection of the natural values of the property is also dependent to large extent on the sympathetic management of the lower elevation buffer zone which has been subject to a history of deforestation, agricultural landuse and encroachment. Active and sustained management of the edge effects from surrounding lands will be critical to ensure issues such as buffer zone planning, development and land use do not impact on the property. It will be important to manage the potential impacts of invasive alien species, fire and encroachment from both small scale shifting agriculture and commercial coffee growing. Vigilance will be needed to ensure that mining exploration and/or operations are not permitted to overlap with the property, and legislation and policy should be tightened to protect the World Heritage site in perpetuity from mining, in line with the established position of the World Heritage Committee and leading industry bodies. Monitoring of climate change impact on the elevation sensitive ecology of the property will be important to ensure proactive planning and management of this threat. Adequate and increased capacity of staff and funding will be needed to manage the property in the face of the threats outlined above. Sustainable funding will be necessary in particular to strengthen management of the buffer zone and effectively address issues such as planning for sustainable development, support for livelihoods and enhanced community engagement. Stringent monitoring of activities carried out within the property and its buffer zone is also fundamental."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [
+            10
+          ],
+          "all": [
+            3,
+            10
+          ],
+          "display": "(iii)(x)",
+          "count": 2,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 26251.6,
+          "square_km": 262.52,
+          "square_miles": 106.237,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2015,
+          "all_dates": [
+            2015
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2015,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f7f379d9268b307f7cf8321b1dad621b",
+          "filename": "site_1356_0005.jpg",
+          "dimensions": {
+            "width": 3888,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/137151/site_1356_0005.jpg",
+            "https://whc.unesco.org/document/137152/site_1356_0006.jpg",
+            "https://whc.unesco.org/document/137155/site_1356_0009.jpg",
+            "https://whc.unesco.org/document/137173/site_1356_0023.jpg",
+            "https://whc.unesco.org/document/137174/site_1356_0024.jpg",
+            "https://whc.unesco.org/document/209272/site_1356_0026.jpg",
+            "https://whc.unesco.org/document/209274/site_1356_0027.jpg",
+            "https://whc.unesco.org/document/209276/site_1356_0028.jpg",
+            "https://whc.unesco.org/document/209278/site_1356_0029.jpg",
+            "https://whc.unesco.org/document/209280/site_1356_0030.jpg",
+            "https://whc.unesco.org/document/209283/site_1356_0031.jpg",
+            "https://whc.unesco.org/document/209284/site_1356_0032.jpg",
+            "https://whc.unesco.org/document/137147/site_1356_0001.jpg",
+            "https://whc.unesco.org/document/137148/site_1356_0002.jpg",
+            "https://whc.unesco.org/document/137149/site_1356_0003.jpg",
+            "https://whc.unesco.org/document/137150/site_1356_0004.jpg",
+            "https://whc.unesco.org/document/137153/site_1356_0007.jpg",
+            "https://whc.unesco.org/document/137154/site_1356_0008.jpg",
+            "https://whc.unesco.org/document/137158/site_1356_0010.jpg",
+            "https://whc.unesco.org/document/137159/site_1356_0011.jpg",
+            "https://whc.unesco.org/document/137160/site_1356_0012.jpg",
+            "https://whc.unesco.org/document/137161/site_1356_0013.jpg",
+            "https://whc.unesco.org/document/137162/site_1356_0014.jpg",
+            "https://whc.unesco.org/document/137163/site_1356_0015.jpg",
+            "https://whc.unesco.org/document/137164/site_1356_0016.jpg",
+            "https://whc.unesco.org/document/137165/site_1356_0017.jpg",
+            "https://whc.unesco.org/document/137166/site_1356_0018.jpg",
+            "https://whc.unesco.org/document/137167/site_1356_0019.jpg",
+            "https://whc.unesco.org/document/137170/site_1356_0020.jpg",
+            "https://whc.unesco.org/document/137172/site_1356_0022.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Blue and John Crow Mountains",
+            "ref": "1356rev",
+            "latitude": 18.0775,
+            "longitude": -76.5711111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1356",
+        "unesco_documents": "https://whc.unesco.org/en/list/1356/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1356/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1356/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 10,
+        "inscription_year": 2015
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Blue and John Crow Mountains The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants. The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants. Jamaica Latin America and the Caribbean Mixed"
+    }
+  ]
+}

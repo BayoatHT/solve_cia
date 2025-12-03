@@ -1,0 +1,158 @@
+{
+  "site_key": "monastery_of_horezu",
+  "uuid": "ed948ea0-9a86-5c71-8b0c-3b27ce7c093a",
+  "unesco_id": "597",
+  "names": {
+    "en": "Monastery of Horezu",
+    "fr": "Monastère de Horezu",
+    "es": "Monasterio de Horezu",
+    "ru": "Монастырь Хорезу",
+    "ar": "دير هوريزو",
+    "zh": "霍雷祖修道院"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "ROU": {
+        "name": "Romania",
+        "iso2": "RO",
+        "iso3": "ROU"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region.",
+      "fr": "Fondé en 1690 par le prince Constantin Brancovan, le monastère de Horezu, en Valachie, est un chef-d'œuvre de style « Brancovan », remarquable par la pureté et l'équilibre de son architecture, la richesse de ses éléments sculptés, ainsi que par ses compositions religieuses, ses portraits votifs et sa décoration peinte. L'école de peinture murale et d'icônes de Horezu fut très célèbre dans toute la région des Balkans au XVIIIe siècle.",
+      "es": "Fundado en 1690 por el príncipe Constantino Brancovan, este monasterio de Valaquia es una obra maestra del estilo “brancoviano”. El monasterio es célebre por la pureza y el equilibrio de su arquitectura, la riqueza de sus elementos esculpidos, el tratamiento de sus composiciones religiosas, sus retratos votivos y sus ornamentaciones pintadas. La escuela de pintura mural e iconos de Horezu gozó de una gran fama en toda la región de los Balcanes durante el siglo XVIII.",
+      "ru": "Основанный в 1690 г. князем Константином Брынковяну, монастырь Хорезу в Валахии считается шедевром «стиля Брынковяну». Он известен ясностью и пропорциональностью своей архитектуры, богатством скульптурных деталей, трактовкой религиозных композиций, родовыми портретами и живописными декорациями. Школа стенописцев и иконописцев, основанная в монастыре в XVIII в., была широко известна на Балканах.",
+      "ar": "يشكل دير هوريزو في فلاشي الذي بناه الامير قسطانطين برانكوفان عام 0961 تحفة من أسلوب برانكوفان المتميز بهندسته النقية المتوازنة وبغنى عناصره المنحوتة وتكويناته الدينية وصوره النذرية وعناصره التزيينية المرسومة. وقد اشتهرت مدرسة هوريزو للّوحات الجدارية والأيقونات في أرجاء منطقة البلقان طوال القرن الثامن عشر.",
+      "zh": "公元1690年，康斯坦丁•布兰科王子在瓦拉齐亚建立了霍雷祖修道院，修道院以其建筑的简洁和对称闻名于世，它的华美的雕塑、宗教艺术品、肖像画以及装饰画，成为布兰科艺术风格的典型代表。修道院的壁画及蚀刻画确立了霍雷祖修道院18世纪在巴尔干地区的绝对地位。"
+    },
+    "full": "Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2
+      ],
+      "natural": [],
+      "all": [
+        2
+      ],
+      "display": "(ii)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 22.48,
+      "square_km": 0.22,
+      "square_miles": 0.091,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1993,
+      "all_dates": [
+        1993
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1993,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9657d9596e7a61d8462c1529f248a479",
+      "filename": "site_0597_0001-500-0-20090915114042.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 667
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/111389/site_0597_0001.jpg",
+        "https://whc.unesco.org/document/133496/site_0597_0002.jpg",
+        "https://whc.unesco.org/document/133497/site_0597_0003.jpg",
+        "https://whc.unesco.org/document/133498/site_0597_0004.jpg",
+        "https://whc.unesco.org/document/133499/site_0597_0005.jpg",
+        "https://whc.unesco.org/document/133500/site_0597_0006.jpg",
+        "https://whc.unesco.org/document/133501/site_0597_0007.jpg",
+        "https://whc.unesco.org/document/133502/site_0597_0008.jpg",
+        "https://whc.unesco.org/document/133503/site_0597_0009.jpg"
+      ],
+      "count": 9
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Monastery of Horezu",
+        "ref": "597",
+        "latitude": 45.1697222222,
+        "longitude": 24.0072222222
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/597",
+    "unesco_documents": "https://whc.unesco.org/en/list/597/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/597/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/597/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Cultural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 32,
+    "inscription_year": 1993
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Monastery of Horezu Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region. Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region. Romania Europe and North America Cultural"
+}

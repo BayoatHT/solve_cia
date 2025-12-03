@@ -1,0 +1,394 @@
+{
+  "country": {
+    "code": "GMB",
+    "name": "Gambia"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "stone_circles_of_senegambia",
+      "uuid": "236a8493-64b3-519b-a3f6-28cd018bc2a9",
+      "unesco_id": "1226",
+      "names": {
+        "en": "Stone Circles of Senegambia",
+        "fr": "Cercles mégalithiques de Sénégambie",
+        "es": "Círculos Megalíticos de Senegambia",
+        "ru": "Кольца камней-мегалитов в Сенегамбии",
+        "ar": "الدوائر المغليثية المتعلّقة بالآثار السابقة للتاريخ المبنية على الحجارة الضخمة في كونفدرالية السنغال وغامبيا",
+        "zh": "塞内冈比亚石圈"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GMB": {
+            "name": "Gambia",
+            "iso2": "GM",
+            "iso3": "GMB"
+          },
+          "SEN": {
+            "name": "Senegal",
+            "iso2": "SN",
+            "iso3": "SEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.",
+          "fr": "Ces quatre grands groupes de cercles mégalithiques constituent une concentration extraordinaire - plus de 1 000 monuments - sur une bande de 100 km de large qui longe sur 350 km le fleuve Gambie. Les quatre groupes, Sine Ngayène, Wanar, Wassu et Kerbatch rassemblent 93 cercles et de nombreux tumuli, monticules funéraires. Certains ont été fouillés et ont révélé un matériel archéologique que l’on peut dater entre le IIIe siècle av. J.-C et le XVIe siècle de notre ère. Les cercles de pierres de latérite soigneusement taillées et leurs tumuli associés présentent un vaste paysage sacré qui s’est constitué sur plus de 1 500 ans et rendent compte d’une société prospère, pérenne et hautement organisée.",
+          "es": "El Sitio está compuesto por los cuatro vastos conjuntos megalíticos de Sine Ngayene, Wanar, Wassu y Kerbatch, que poseen una extraordinaria concentración de más de 1.000 monumentos diseminados en una faja de 100 km de anchura, a lo largo de 350 km del curso del Río Gambia. Los cuatro conjuntos comprenden 93 círculos de piedra y numerosos túmulos funerarios. Algunos de ellos han sido objeto de excavaciones que han permitido encontrar materiales cuya datación se extiende desde el siglo III a.C. hasta el siglo XVI d.C. Los círculos de piedra formados por pilares de laterita trabajados con esmero y los túmulos funerarios conexos componen un vasto paisaje sagrado que se ha ido creando a lo largo de más de 1.500 años. Ese paisaje atestigua la existencia de una sociedad próspera y dotada de un alto grado de organización, que perduró a través de los siglos.",
+          "ru": "Объект, составлен четырьмя большими группами колец камней. Четыре группы - Сине-Нгаене, Ваннар, Васса и Кербатч, включают 93 таких кольца, а также значительное число погребальных курганов-тумули, некоторые из которых были раскопаны, чтобы получить материал, позволивший отнести их к периоду от III в. до н.э. до ХVI в. н.э. Кольца латеритовых столбов и связанные с ними погребальные курганы составляют обширный сакральный ландшафт, сложившийся за более чем 1500 лет. Он отражает процветающее, хорошо организованное и длительно существовавшее общество. Камни были добыты с помощью металлических орудий и с тщательностью превращены в почти правильные цилиндрические или многогранные столбы весом в 7 тонн и высотой около 2 метров. Каждое кольцо содержит от 8 до 14 камней и имеет поперечник от 4 до 6 метров. Все они находятся вблизи погребальных курганов. Этот выдающийся объект является лишь частью обширной археологической области, включающей более 1000 мегалитических памятников. Она протягивается полосой на 350 км вдоль реки Гамбия, при ширине 100 км, и по своим размерам, насыщенности и комплексности не имеет аналогов в мире. Прекрасно обработанные столбы, свидетельствующие о высоком мастерстве их создателей, придают особое величие всему ландшафту.",
+          "ar": "تشكّل المجموعات الأربعة الكبيرة لهذه الدوائر المغليثية تجمّعاً رائعاً إذ تضمّ أكثر من ألف نُصب تذكاري على رقعة نهر غامبيا بعرض 100 كيلومتر وطول 350 كيلومترا. تضمّ المجموعات الأربع المعروفة بأسماء سين نغايين ووانار وواسو وكرباتش 93 دائرة والعديد من الركام الترابي فوق القبر، والتلال الجنائزية. قد تمّ تنقيب بعضها، فأظهرت مادةً أثرية يمكن تأريخها بين القرن الثالث قبل الميلاد والقرن السادس عشر من حقبتنا هذه. وتشكّل دوائر حجارة الوعنة التي تمّ نحتُها بدقة ورُكامها الترابي منظراً طبيعياً شاسعاً مقدساً تكوّن على مدى أكثر من 1500 عام، وتعكس مجتمعاً مزدهراً مستقرا ومنظماً خير التنظيم.",
+          "zh": "在沿冈比亚河350公里长、100公里宽的地带集中了1000多座纪念碑，分成四个巨型石圈组。这四个石圈组包括Sine Ngayène、Wanar、Wassu和Kerbatch，涵盖93个石圈和无数古坟和墓冢，其中一些已经挖掘。出土实物证明，这些遗迹可追溯到公元前3世纪至公元16世纪。红土立柱构成的石圈与周围的墓冢展现了1500多年前盛大而神圣的景象，反映了一个繁荣、组织完备、持久的社会。这些石头是用铁制工具采得，被巧妙地雕琢成了大约七吨重、平均两米高、几乎完全一样的圆柱或多边形立柱。每一个石圈直径4到6米，有8到14根立柱。所有立柱均矗立在墓冢附近。这一杰出遗址代表了该地区更大范围的巨石带，不论是规模、一致性，还是复杂度在全世界都无与伦比。雕琢细致的独立石柱体现了精细、巧妙的雕刻技术，增强了整个石圈群的宏伟气势。"
+        },
+        "full": "The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.",
+        "justification": "Brief synthesis The inscribed site corresponds to four large groups of megalithic circles located in the extreme western part of West Africa, between the River Gambia and the River Senegal. These sites, Wassu, and Kerbatch in Gambia, and Wanar and Sine Ngayene in Senegal, represent an extraordinary concentration of more than 1,000 stone circles and related tumuli spread over a territory of 100 km wide and 350 km in length, along the River Gambia. Together, the four groups comprise 93 circles and associated sites, some of which have been excavated, some of which have revealed archaeological material and human burials, from pottery to iron instruments and ornamentation dating between the 1 st and 2nd millennia to our era. These four megalithic sites are the most dense concentration in the zone and have Outstanding Universal Value, representing a traditional monumental megalithic construction spread out over a vast area, with more than 1,000 stone circles scattered along one of the major rivers of Africa. The Sine Ngayene complex (Senegal) is the largest site in the area. It consists of 52 circles of standing stones, including one double circle. In all, there are 1102 carved stones on the site. Around 1km to the east, (outside the inscribed property) is the quarry from which the monoliths were extracted and where the sources of around 150 stones can be traced. The site was excavated around 1970, and more recently by Bocoum and Holl. The work established that the single burials appeared to precede in time the multiple burials associated with the stone circles. The Wanar complex (Senegal) consists of 21 circles including one double circle. The site contains 9 ‘lyre’ stones or bifed stones, sometimes with a cross piece strung between the two halves. The Wassu complex (Guinea) consists of 11 circles and their associated frontal stones. This site has the highest stones of the area. The most recent excavations conducted on these megalithic circles date to the Anglo-Gambian campaign led by Evans and Ozanne in 1964 and 1965. The finds of burials enabled the dating of the monuments between 927 and 1305 AD. The Kerbatch complex consists of 9 circles, including a double circle. The site possesses a ‘bifid’ stone, the only known one in the area. The stones forming the circles were extracted from nearby laterite quarries using iron tools and skilfully shaped into almost identical pillars, either cylindrical or polygonal, on average around 2 m in height and weighing up to 7 tons. Each circle contains between eight to fourteen standing stones having a diameter of four to six metres. The four megalithic sites inscribed bear witness to a prosperous and highly organized society with traditions of stone circle constructions, associated with burials, and persisting in certain areas over more than a millennium. Criterion (i): Individual stones finely carved bear witness to an exact and experienced technique and contribute to the organized and imposing size of the stone circle groups. Criterion (iii): The circles of stones proposed for inscription represent the totality of the megalithic area in which the presence of such a large number of circles is a unique manifestation of construction and funerary practices which persisted for over a millennium across a large geographical area and reflecting a sophisticated and productive society. Integrity The integrity of the four components of the site can only be evaluated as part of a much wider unified cultural complex. The complexes conserve their integrity in terms of spatial associations of the component circles, individual megaliths and tumuli. The spiritual beliefs associated to the stones by local communities help to protect their integrity. Authenticity The stone circles stand in a farmed landscape and there have been few interventions. A very small number of stones have been removed. Some burial sites have been excavated and subsequently back-filled. These disturbances remain minimal. The overall authenticity of the four sites is intact. Protection and management requirements In Gambia, management of the of the two sites (Wassu and Kerbath) fall under the responsibility of the National Centre for Arts and Culture (NCAC) in accordance with the law promulgated by the National Assembly (NCAC Law of 1989, amended in 2003). The NCAC is the dismantled technical section of the Ministry of Tourism and Culture. The daily management of the sites is under the responsibility of the Directorate for Cultural Heritage of the NCAC that employs, on a permanent basis, the caretakers and maintenance staff. Both sites have a management plan prepared during the nomination process with participatory cooperation of local communities and their representatives. The two sites are fenced and four thatched round buildings, built in the manner of traditional houses, serve as a museum, visitor reception facilities and lodgings for the caretaker. The NCAC has support from local management committees that ensure the interests of the community in the sites. Funding is principally provided by Government revenue from visitor entrance fees and other subventions. In Senegal, the two sites enjoy legal protection: Law No.71-12 of 25 January 1971, regulating the regime for historical sites and monuments and excavations and finds/ Decree 73-746 of 8 August 1973 promulgating the law. The Directorate of Cultural Heritage of the Ministry is responsible for the management of the sites. The communities also have extended powers through the Law on decentralization facilitating their involvement in the management of the sites. The funding sources are: the State budget, local communities and donor subventions. These funds have enabled the fencing of the two sites, the construction of a hall (Wanar) and a welcome space (Sine Ngayene), visitor sanitary facilities as well as the funding of two full-time caretakers. Good signposting was installed to access the two sites as well as an interpretation centre at Sine Ngayene. In the long-term, improvement to the access paths is foreseen in the presentation framework. The management plan was prepared in consultation with the Senegalese and Gambian stakeholders meeting in Wassu in Gambia and Ngayene in Senegal in December 2004. The long-term objective of this action plan is to render the site visible, accessible and ensure economic benefits for the local communities. Beyond the conservation and enhancement of the sites, the management envisages conducting in-depth research and enable the sites to be better adapted to the development objectives at the national level."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 9.85,
+          "square_km": 0.1,
+          "square_miles": 0.04,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2006,
+          "all_dates": [
+            2006
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2006,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aadd16d2cdafd68f146123c136056c2a",
+          "filename": "site_1226_0001-500-0-20090923154919.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 374
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113968/site_1226_0001.jpg",
+            "https://whc.unesco.org/document/131958/site_1226_0002.jpg",
+            "https://whc.unesco.org/document/131959/site_1226_0003.jpg",
+            "https://whc.unesco.org/document/131960/site_1226_0004.jpg",
+            "https://whc.unesco.org/document/131961/site_1226_0005.jpg",
+            "https://whc.unesco.org/document/131963/site_1226_0007.jpg",
+            "https://whc.unesco.org/document/159329/site_1226_0008.jpg",
+            "https://whc.unesco.org/document/159330/site_1226_0009.jpg",
+            "https://whc.unesco.org/document/159331/site_1226_0010.jpg",
+            "https://whc.unesco.org/document/159332/site_1226_0011.jpg",
+            "https://whc.unesco.org/document/159333/site_1226_0012.jpg",
+            "https://whc.unesco.org/document/159334/site_1226_0013.jpg",
+            "https://whc.unesco.org/document/159335/site_1226_0014.jpg",
+            "https://whc.unesco.org/document/159336/site_1226_0015.jpg",
+            "https://whc.unesco.org/document/159337/site_1226_0016.jpg",
+            "https://whc.unesco.org/document/159338/site_1226_0017.jpg",
+            "https://whc.unesco.org/document/159339/site_1226_0018.jpg",
+            "https://whc.unesco.org/document/159340/site_1226_0019.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Wassu",
+            "ref": "1226-002",
+            "latitude": 13.7,
+            "longitude": -14.8666666667
+          },
+          {
+            "name": "Wanar",
+            "ref": "1226-004",
+            "latitude": 13.7744444444,
+            "longitude": -15.5225
+          },
+          {
+            "name": "Kerbatch",
+            "ref": "1226-001",
+            "latitude": 13.75,
+            "longitude": -15.0
+          },
+          {
+            "name": "Sine Ngayène",
+            "ref": "1226-003",
+            "latitude": 13.6833333333,
+            "longitude": -15.5166666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1226",
+        "unesco_documents": "https://whc.unesco.org/en/list/1226/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1226/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1226/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 19,
+        "inscription_year": 2006
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stone Circles of Senegambia The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society. The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society. Gambia Senegal Africa Cultural"
+    },
+    {
+      "site_key": "kunta_kinteh_island_and_related_sites",
+      "uuid": "60639724-221e-556e-a569-9a11eeb42754",
+      "unesco_id": "761",
+      "names": {
+        "en": "Kunta Kinteh Island and Related Sites",
+        "fr": "Île Kunta Kinteh et sites associés",
+        "es": "Isla James y sitios anejos",
+        "ru": "Остров Джеймс-Айленд и связанные с ним достопримечательности",
+        "ar": "جزيرة جيمس والمواقع المتّصلة بها",
+        "zh": "詹姆斯岛及附近区域"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GMB": {
+            "name": "Gambia",
+            "iso2": "GM",
+            "iso3": "GMB"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa.",
+          "fr": "L’île James et les sites associés témoignent des principales époques et aspects de la rencontre entre l’Afrique et l’Europe le long du fleuve Gambie, un continuum qui s’étend de la période pré-coloniale et pré-esclavagiste à l’indépendance. Ce site est d’une importance toute particulière pour son association tant avec les débuts du commerce d’esclaves qu’avec son abolition. Il témoigne aussi des premières voies ouvertes vers l’intérieur de l’Afrique.",
+          "es": "La Isla James y sus sitios conexos constituyen un testimonio de las principales épocas y facetas del encuentro entre África y Europa a lo largo del curso del río Gambia, desde el periodo anterior al esclavismo hasta la independencia del país, pasando por la época precolonial. El sitio posee un especial interés histórico por ser uno de los escenarios del inicio y la posterior abolición del comercio de esclavos, y debido a su papel de primera vía de acceso al interior del continente africano.",
+          "ru": "Остров Джеймс-Айленд и связанные с ним достопримечательности – свидетельства основных периодов и аспектов африкано-европейских взаимоотношений на территориях вдоль реки Гамбия. Этот непрерывный процесс охватывает период от доколониальных и дорабовладельческих времен до обретения независимости. Объект особенно значим своими связями с началом работорговли и ее отменой. Остров и его достопримечательности также являются документальными свидетельствами раннего этапа проникновения европейцев вглубь Африки.",
+          "ar": "تدلّ جزيرة جيمس والمواقع المتصلة بها على الحقبات الرئيسة وأوجه التقاء إفريقيا وأوروبا على طول نهر غامبيا، ما يشكّل مجموعةً متواصلة تمتدّ من الفترة التي سبقت الاستعمار والرقّ حتى الاستقلال. يرتدي هذا الموقع أهميةً خاصة لصلته ببدايات سوق الرقيق وبإلغائه في آن، وهو يشهد أيضاً على الطرق الأولى المؤدية إلى داخل إفريقيا.",
+          "zh": "詹姆斯岛及附近区域位于冈比亚河(the River Gambia)沿岸，为非洲与欧洲关系发展史提供了证据，其历史从前殖民地时代开始延续到前奴隶贸易时代，一直到冈比亚独立。这里与奴隶贸易的兴起及废除有着密切关系，同时还记录了早期伸向非洲大陆内陆的重要通道。"
+        },
+        "full": "James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa.",
+        "justification": "Brief synthesis Kunta Kinteh Island is a small island in the Gambia River which joins the Atlantic Ocean. Its location in the middle of the river made it a strategic place to control the waterway. Visited by explorers and merchants in their search for a sea route to India it became one of the first cultural exchange zones between Africa and Europe. By 1456 the Island had been acquired by Portugal from local rulers and the construction of a fort began. Kunta Kinteh Island and Related Sites form an exceptional testimony to the different facets and phases of the African-European encounter, from the 15th to the 19th centuries. The River Gambia was particularly important forming the first trade route to the inland of Africa. The site was already a contact point with Arabs and Phoenicians before the arrival of the Portuguese in the 15th century. The region forms a cultural landscape, where the historic elements are retained in their cultural and natural context. The properties illustrate all the main periods and facets of the various stages of the African-European encounter from its earliest moments in the 15th Century through the independence period. The specific location of Kunta Kinteh Island and its Related Sites, at the mouth of the Gambia River, is a tangible reminder of the story of the development of the Gambia River as one of the most important waterways for trade of all kinds from the interior to the Coast and beyond. The specific, important role of the site in the slave trade, both in its propagation and its conclusion, makes Kunta Kinteh Island and it Related Sites an outstanding memory of this important, although painful, period of human history. The property includes Kunta Kinteh Island Fort and a series of sites associated with the early European occupation of the African continent. The ensemble has seven separate locations: the whole of Kunta Kinteh Island, the remains of a Portuguese Chapeland of a colonial warehouse (CFAO Building) in the village of Albreda, the Maurel Frères Building in the village of Juffureh, the remains of the small Portuguese settlement of San Domingo, as well as Fort Bullen and the Six-Gun Battery. Fort Bullen and the Six-Gun Battery are at the mouth of the Gambia River, whilst Kunta Kinteh Island and the other sites are some 30 km upstream. The development of Kunta Kinteh Island differed greatly from the many other forts, castles, and trading posts found in other parts of West Africa in that the main focus of the Kunta Kinteh Island site was the control of the hinterland and its riches rather than control of the coast and the trade that passed along it. The Six-Gun Battery (1816) and Fort Bullen (1826), located on both sides of the mouth of the River Gambia came much later than Kunta Kinteh Island and were built for the specific intent of thwarting the trade in slaves once it had become illegal in the British Empire after the passing of the Abolition Act in 1807. They are the only known defensive structures in the region to have been built specifically to stop slaving interests. The other fortifications of the region (including Kunta Kinteh Island), were constructed as a means of enhancing and controlling the trade in slaves (and commodities) rather than stopping it. These two military positions allowed the British to take full control of the River Gambia, eventually paving the way for the establishment of colonial government, a period well-illustrated by many colonial buildings in Banjul and the Governor’s Rest House at Fort Bullen. Finally, Fort Bullen shows evidence of its re-use during the Second World War (1939-1945) as a strategic observatory and artillery post. This later period illustrates yet another European rivalry that spread to the African continent. Criterion (iii): Kunta Kinteh Island and related sites on the River Gambia provide an exceptional testimony to the different facets of the African-European encounter, from the 15th to 20th centuries. The river formed the first trade route to the inland of Africa, being also related to the slave trade. Criterion (vi): Kunta Kinteh Island and related sites, the villages, remains of European settlements, the forts and the batteries, were directly and tangibly associated with the beginning and the conclusion of the slave trade, retaining its memory related to the African Diaspora. Integrity The six parts of the serial nomination together present a testimony to the main periods and facets of the Afro-European encounter along the River Gambia, a continuum that stretched from pre-colonial and pre-slavery times to the period of independence and in particular to the beginning and the abolition of the slave trade, as well as documenting the functions of the early access route to the inland of Africa. The six sites encompass all the key remains. All the sites except the CFAO and Maurel Frères Buildings are ruins. The CFAO Building has been restored and provided with adequate sea defence. The Maurel Frères Building was restored in 1996 and is in a good state of conservation. The Portuguese chapel and San Domingo are in a state of ruins, but these have been stabilized, with the most endangered parts reinforced during 2000. The isolated position of Kunta Kinteh Island in the river has conserved its setting to the present day. Fort Bullen is also bordered by the river on one side and a large open tract of land on the other, naturally serving as a buffer zone and helping to preserve its setting. It is in a relatively good state of conservation, though the wall on the seaward side is suffering from sea erosion. Parts have collapsed and 20 metres were rebuilt in 2000. The Six-Gun Battery is in a good state of conservation. The ruined sites need on-going maintenance if they are not to deteriorate over time. Authenticity Kunta Kinteh Island Fort was subject to destruction on numerous occasions. Since the last time by the French, in 1779, it has remained a ruin with only minor attempt at consolidation and minimizing the effects of sea erosion. The Island is a landmark for all concerned with the slave trade, especially the local community and Africans in the Diaspora. Apart from a short period of re-use during the Second World War, Fort Bullen and the Six-Gun Battery were similarly abandoned in the late 19th century. At San Domingo there are very few visible remains, but the area has considerable potential for archaeological research. The ruins that convey the Outstanding Universal Value are extremely vulnerable to erosion. At the time of inscription the ruined sites were seen to be part of a wider cultural landscape that needed protection in order to protect the setting of the sites and to allow them to be understood. Protection and management requirements Kunta Kinteh Island, Fort Bullen and all the significant historic buildings in the Albreda-Juffureh complex are legally protected as National Monuments (1995) under the National Council for Arts and Culture Act, 1989 (revised 2003). The proclamation instrument also establishes a buffer zone for all the sites that should be kept free of incompatible developments with adverse effects on their setting. As National Monuments the historic structures are under the custodianship of the National Centre for Arts and Culture (NCAC) who are responsible for their conservation and upkeep. Day to day management rests with the Directorate of Cultural Heritage of the NCAC, who employ site attendants and caretakers. The Six-Gun Battery is located within the State House grounds and is protected by the Office of the President. The sites also have a 5-year management plan that sets out what is acceptable at the individual sites and at national level. This plan was prepared as a result of the joint effort of ten different national and local organisations, supported by the Africa 2009 programme. The financial resources required for the management and maintenance of the sites are relatively scarce, and come mainly from entrance fees. Every three months, the Head of the Museums and Monuments section of the NCAC performs a physical inspection of the sites. This condition assessment is carried out with a representative of the local stakeholders and, if possible, with a local guide. A brief report is prepared after each visit and these are summarized in an annual report. Since 1996 the Gambia Government, through its Department of State for Tourism and Culture, has instituted an annual event called the ‘International Roots Homecoming Festival’. Considered to be a “heritage week”, the main aim is to attract visitors from the African Diaspora. The festival usually devotes a daylong spiritual pilgrimage to Kunta Kinteh Island and the Albreda-Juffureh area. To the visitors the property has symbolic and emotional significance, as a visit to Kunta Kinteh Island is a pilgrimage to their roots. As a piece of historical evidence, much can be learnt from the Island, and it already forms part of the history and social studies syllabus in Gambian schools. The property contains very fragile ruins that need to be protected and conserved as the tangible elements that convey Outstanding Universal Value. There needs to be ongoing maintenance monitoring and conservation to allow these ruins to have the best chance of survival and be robust enough to withstand the onslaughts of nature."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 7.5981,
+          "square_km": 0.08,
+          "square_miles": 0.031,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/07a911b91c7f4556d7eaeb7e9654533b",
+          "filename": "site_0761_0001-500-0-20090911155903.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 263
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113270/site_0761_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Fort Bullen",
+            "ref": "761-003",
+            "latitude": 13.4854444444,
+            "longitude": -16.5488888889
+          },
+          {
+            "name": "James Island",
+            "ref": "761-001",
+            "latitude": 13.3176406821,
+            "longitude": -16.361352036
+          },
+          {
+            "name": "CFAO  Building",
+            "ref": "761-006",
+            "latitude": 13.3331944444,
+            "longitude": -16.3849722222
+          },
+          {
+            "name": "Six-Gun Battery",
+            "ref": "761-002",
+            "latitude": 13.4523333333,
+            "longitude": -16.5717777778
+          },
+          {
+            "name": "Ruins of San Domingo",
+            "ref": "761-004",
+            "latitude": 13.3363888889,
+            "longitude": -16.3794722222
+          },
+          {
+            "name": "Maurel Frères Building",
+            "ref": "761-007",
+            "latitude": 13.33631,
+            "longitude": -16.38236
+          },
+          {
+            "name": "Remains of Portuguese Chapel",
+            "ref": "761-005",
+            "latitude": 13.3327222222,
+            "longitude": -16.3872777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/761",
+        "unesco_documents": "https://whc.unesco.org/en/list/761/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/761/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/761/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kunta Kinteh Island and Related Sites James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa. James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa. Gambia Africa Cultural"
+    }
+  ]
+}

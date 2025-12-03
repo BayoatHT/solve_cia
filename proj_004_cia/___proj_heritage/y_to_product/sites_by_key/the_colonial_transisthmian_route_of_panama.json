@@ -1,0 +1,193 @@
+{
+  "site_key": "the_colonial_transisthmian_route_of_panama",
+  "uuid": "b6305ae6-1726-50d4-9c8b-38930eafdd33",
+  "unesco_id": "1582",
+  "names": {
+    "en": "The Colonial Transisthmian Route of Panamá",
+    "fr": "La route transisthmique coloniale du Panamá",
+    "es": "Ruta colonial transístmica de Panamá",
+    "ru": "Колониальный маршрут через Панамский перешеек",
+    "ar": "الطريق الاستعماري العابر لبرزخ بنما",
+    "zh": "殖民时期跨巴拿马地峡通道"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "PAN": {
+        "name": "Panama",
+        "iso2": "PA",
+        "iso3": "PAN"
+      }
+    },
+    "region": {
+      "name": "Latin America and the Caribbean",
+      "code": "LAC"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century.",
+      "fr": "À partir du XVIe siècle, l’isthme de Panama est devenu un atout stratégique mondial, facilitant le transport des biens et des personnes entre la péninsule Ibérique et les colonies du royaume d’Espagne en Amérique, l’archipel des Philippines et les îles Canaries. Ce bien en série témoigne de la traversée de l’isthme et notamment des établissements fortifiés, des villes historiques et des sites archéologiques et tronçons de routes qui reliaient la mer des Caraïbes à l’océan Pacifique jusqu’au milieu du XVIIIe siècle.",
+      "es": "A partir del siglo XVI, el istmo de Panamá se convirtió en un activo estratégico global que facilitaba el transporte de mercancías y personas entre la Península Ibérica y las colonias del Reino de España en América, el archipiélago de Filipinas y las Islas Canarias. La ruta es testimonio del cruce del istmo, con asentamientos fortificados estratégicos, ciudades históricas, sitios arqueológicos y carreteras utilizadas para conectar el Mar Caribe y el Océano Pacífico hasta mediados del siglo XVIII.",
+      "ru": "Начиная с XVI века, Панамский перешеек приобрёл глобальное стратегическое значение, обеспечивая перемещение товаров и людей между Иберийским полуостровом, американскими колониями Испанской короны, Филиппинским архипелагом и Канарскими островами. Этот маршрут включает укреплённые поселения, исторические города, археологические памятники и дороги, по которым осуществлялось пересечение перешейка между Карибским морем и Тихим океаном вплоть до середины XVIII века.",
+      "ar": "بات برزخ بنما اعتباراً من القرن السادس عشر أحد الأصول الاستراتيجية على مستوى العالم، كونه يسهّل نقل البضائع والأشخاص بين شبه الجزيرة الإيبيرية والمستعمرات الإسبانية في أمريكا، وأرخبيل الفلبين، وجزر الكناري. ويقف هذا العنصر المتسلسل شاهداً على عبور البرزخ، إذ يضم مستوطنات محصّنة استراتيجية، ومدناً تاريخية، ومواقع أثرية، وطرقاً كانت تُستخدم لربط البحر الكاريبي بالمحيط الهادئ حتى منتصف القرن الثامن عشر.",
+      "zh": "自16世纪起，巴拿马地峡成为全球战略要道，为伊比利亚半岛与西班牙王国美洲殖民地、菲律宾群岛、加那利群岛之间的货物和人员运输提供便利。该系列遗产见证了穿越地峡的历程，包括防御性据点、历史城镇、考古遗址与直至18世纪中叶仍在用于连接加勒比海与太平洋的路网。"
+    },
+    "full": "From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        4
+      ],
+      "display": "(ii)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 689.88,
+      "square_km": 6.9,
+      "square_miles": 2.792,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aff772069907f06a599834a0618c4dd1",
+      "filename": "site_1582_0001.jpg",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/219801/site_1582_0001.jpg",
+        "https://whc.unesco.org/document/219802/site_1582_0002.jpg",
+        "https://whc.unesco.org/document/219803/site_1582_0003.jpg",
+        "https://whc.unesco.org/document/219804/site_1582_0004.jpg",
+        "https://whc.unesco.org/document/219805/site_1582_0005.jpg",
+        "https://whc.unesco.org/document/219806/site_1582_0006.jpg",
+        "https://whc.unesco.org/document/219807/site_1582_0007.jpg",
+        "https://whc.unesco.org/document/219808/site_1582_0008.jpg",
+        "https://whc.unesco.org/document/219809/site_1582_0009.jpg",
+        "https://whc.unesco.org/document/219810/site_1582_0010.jpg",
+        "https://whc.unesco.org/document/219811/site_1582_0011.jpg",
+        "https://whc.unesco.org/document/219812/site_1582_0012.jpg"
+      ],
+      "count": 12
+    }
+  },
+  "components": {
+    "count": 6,
+    "locations": [
+      {
+        "name": "Castle of San Lorenzo",
+        "ref": "1582rev-001",
+        "latitude": 9.3231722223,
+        "longitude": -79.999775
+      },
+      {
+        "name": "Camino de Cruces Section 2",
+        "ref": "1582rev-003",
+        "latitude": 9.0844055555,
+        "longitude": -79.604625
+      },
+      {
+        "name": "Camino de Cruces Section 3",
+        "ref": "1582rev-004",
+        "latitude": 9.0156138889,
+        "longitude": -79.5758972223
+      },
+      {
+        "name": "Camino de Cruces Section 1",
+        "ref": "1582rev-002",
+        "latitude": 9.2949583333,
+        "longitude": -79.9716777778
+      },
+      {
+        "name": "Historic District of Panamá",
+        "ref": "1582rev-006",
+        "latitude": 8.9524305556,
+        "longitude": -79.5347416666
+      },
+      {
+        "name": "Archaeological Site of Panamá Viejo",
+        "ref": "1582rev-005",
+        "latitude": 9.0066583333,
+        "longitude": -79.4852722222
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1582",
+    "unesco_documents": "https://whc.unesco.org/en/list/1582/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1582/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1582/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Americas",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "The Colonial Transisthmian Route of Panamá From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century. From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century. Panama Latin America and the Caribbean Cultural"
+}

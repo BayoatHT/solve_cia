@@ -1,0 +1,164 @@
+{
+  "site_key": "isole_eolie_aeolian_islands",
+  "uuid": "e053168d-1806-523a-bce3-e59a56799327",
+  "unesco_id": "908",
+  "names": {
+    "en": "Isole Eolie (Aeolian Islands)",
+    "fr": "Isole Eolie (Îles Eoliennes)",
+    "es": "Isole Eolie (Islas Eólicas)",
+    "ru": "Эоловые (Липарские) острова",
+    "ar": "الجزر الهوائية (إيزولي إيوليه)",
+    "zh": "伊索莱约里（伊奥利亚群岛）"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "ITA": {
+        "name": "Italy",
+        "iso2": "IT",
+        "iso3": "ITA"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The Aeolian Islands provide an outstanding record of volcanic island-building and destruction, and ongoing volcanic phenomena. Studied since at least the 18th century, the islands have provided the science of vulcanology with examples of two types of eruption (Vulcanian and Strombolian) and thus have featured prominently in the education of geologists for more than 200 years. The site continues to enrich the field of vulcanology.",
+      "fr": "Les Iles Eoliennes, qui constituent un exemple exceptionnel de construction et de destruction d'îles par le volcanisme, sont toujours le théâtre de phénomènes volcaniques. Etudiées au moins depuis le XVIIIe siècle, ces îles qui ont fourni aux ouvrages de volcanologie la description de deux types d'éruption (vulcanienne et strombolienne) occupent, par conséquent, une place éminente dans la formation de tous les géologues depuis plus de 200 ans. Aujourd'hui encore, elles offrent un champ fécond d'étude pour la volcanologie.",
+      "es": "Escenario permanente de fenómenos volcánicos, este sitio constituye un ejemplo excepcional del papel desempeñado por los volcanes en el surgimiento y la destrucción de islas. Estudiadas por sabios y científicos desde el siglo XVIII por lo menos, las Islas Eólicas han permitido a la vulcanología describir dos tipos de erupción (el vulcaniano y el estromboliano) y han ocupado un lugar destacado en la formación de los geólogos desde hace más de 200 años. Hoy en día, siguen ofreciendo un campo de estudio fecundo a los especialistas en vulcanología.",
+      "ru": "Этот архипелаг ярко демонстрирует процессы возникновения и разрушения островов в результате вулканической деятельности, а также дает представление о современных вулканических процессах. Изучаемые, как минимум, с XVIII в., эти острова привнесли в науку о вулканах примеры двух разных типов извержений (вулканский и стромболианский) и на протяжении более чем 200 лет служат прекрасным геологическим полигоном. Острова и сейчас продолжают обогащать науку о вулканах.",
+      "ar": "تشكل الجزر الهوائية مثلاً استثنائيًا عن بناء جزر ودمارها بفعل الفوران البركاني ومسرحًا دائمًا للظواهر البركانية. وإذ خضعت هذه الجزر للدراسة منذ القرن الثامن عشر على الأقل ومنحت أعمال علم البراكين وصفًا لنوعَي الفوران (الفولكانيّ والاسترومبوليّ)، تحتلّ بالتالي مكانة بارزة في تكوين علماء الجيولوجيا جميعًا منذ أكثر من 200 عام. واليوم أيضًا، إنها تقدّم حقل دراسة خصبًا لعلم البراكين.",
+      "zh": "伊奥利亚群岛出色地记录了火山活动对岛屿形成、岛屿毁坏过程的影响以及持续进行的火山现象。至少从18世纪起，人们就开始研究这里的火山活动。群岛为火山学的研究提供了两种类型火山喷发（活火山喷发和斯特隆布利式火山喷发）的鲜活例子，因此，200多年来，这里对地质教育起了极其显著的作用。群岛继续为火山学领域的研究提供丰富的素材。"
+    },
+    "full": "The Aeolian Islands provide an outstanding record of volcanic island-building and destruction, and ongoing volcanic phenomena. Studied since at least the 18th century, the islands have provided the science of vulcanology with examples of two types of eruption (Vulcanian and Strombolian) and thus have featured prominently in the education of geologists for more than 200 years. The site continues to enrich the field of vulcanology.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        8
+      ],
+      "all": [
+        8
+      ],
+      "display": "(viii)",
+      "count": 1,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 1216,
+      "square_km": 12.16,
+      "square_miles": 4.921,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2000,
+      "all_dates": [
+        2000
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2000,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1bacb80c5d27dd0a885eb5d94599df2d",
+      "filename": "site_0908_0001-500-0-20151105112153.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113293/site_0908_0001.jpg",
+        "https://whc.unesco.org/document/113295/site_0908_0002.jpg",
+        "https://whc.unesco.org/document/113297/site_0908_0003.jpg",
+        "https://whc.unesco.org/document/113299/site_0908_0004.jpg",
+        "https://whc.unesco.org/document/113301/site_0908_0005.jpg",
+        "https://whc.unesco.org/document/137529/site_0908_0006.jpg",
+        "https://whc.unesco.org/document/137530/site_0908_0007.jpg",
+        "https://whc.unesco.org/document/137531/site_0908_0008.jpg",
+        "https://whc.unesco.org/document/137532/site_0908_0009.jpg",
+        "https://whc.unesco.org/document/137533/site_0908_0010.jpg",
+        "https://whc.unesco.org/document/137534/site_0908_0011.jpg",
+        "https://whc.unesco.org/document/137535/site_0908_0012.jpg",
+        "https://whc.unesco.org/document/137536/site_0908_0013.jpg",
+        "https://whc.unesco.org/document/137537/site_0908_0014.jpg",
+        "https://whc.unesco.org/document/137538/site_0908_0015.jpg"
+      ],
+      "count": 15
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Isole Eolie (Aeolian Islands)",
+        "ref": "908",
+        "latitude": 38.48786111,
+        "longitude": 14.94558333
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/908",
+    "unesco_documents": "https://whc.unesco.org/en/list/908/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/908/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/908/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 25,
+    "inscription_year": 2000
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Isole Eolie (Aeolian Islands) The Aeolian Islands provide an outstanding record of volcanic island-building and destruction, and ongoing volcanic phenomena. Studied since at least the 18th century, the islands have provided the science of vulcanology with examples of two types of eruption (Vulcanian and Strombolian) and thus have featured prominently in the education of geologists for more than 200 years. The site continues to enrich the field of vulcanology. The Aeolian Islands provide an outstanding record of volcanic island-building and destruction, and ongoing volcanic phenomena. Studied since at least the 18th century, the islands have provided the science of vulcanology with examples of two types of eruption (Vulcanian and Strombolian) and thus have featured prominently in the education of geologists for more than 200 years. The site continues to enrich the field of vulcanology. Italy Europe and North America Natural"
+}

@@ -1,0 +1,598 @@
+{
+  "country": {
+    "code": "PRK",
+    "name": "North Korea"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 0,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "complex_of_koguryo_tombs",
+      "uuid": "ce133cd1-e28e-55a6-bf09-8745085ab81b",
+      "unesco_id": "1091",
+      "names": {
+        "en": "Complex of Koguryo Tombs",
+        "fr": "Ensemble des tombes de Koguryo",
+        "es": "Conjunto de tumbas de Koguryo",
+        "ru": "Комплекс гробниц Когурё",
+        "ar": "مجموعة مقابر الكوغوريو",
+        "zh": "高句丽古墓群"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PRK": {
+            "name": "North Korea",
+            "iso2": "KP",
+            "iso3": "PRK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property includes several group and individual tombs - totalling about 30 individual tombs - from the later period of the Koguryo Kingdom, one of the strongest kingdoms in nowadays northeast China and half of the Korean peninsula between the 3rd century BC to 7th century AD. The tombs, many with beautiful wall paintings, are almost the only remains of this culture. Only about 90 out of more than 10,000 Koguryo tombs discovered in China and Korea so far, have wall paintings. Almost half of these tombs are located on this site and they are thought to have been made for the burial of kings, members of the royal family and the aristocracy. These paintings offer a unique testimony to daily life of this period.",
+          "fr": "Ce site comprend de nombreuses tombes, en groupes ou isolées (une trentaine), datant de la dernière période du royaume de Koguryo, l’un des royaumes les plus puissants de la Chine du nord-est et de la moitié de la péninsule coréenne entre le IIIe siècle av. J.-C. et le VIIe siècle apr. J.-C. Ces tombes, dont beaucoup sont ornées de splendides peintures murales, constituent presque les seuls vestiges laissés par cette culture. Sur les quelque 10 000 tombes de Koguryo découvertes jusqu’à présent en Chine et en Corée, 90 seulement comportent des peintures murales. Environ la moitié d’entre elles sont situées sur ce site ; on pense qu’elles étaient destinées aux rois ainsi qu’aux membres de la famille royale et de la noblesse. Ces peintures offrent un témoignage unique de la vie quotidienne de l’époque.",
+          "es": "Este sitio está integrado por un conjunto de 30 tumbas, agrupadas o aisladas, que datan de la época del Reino de Koguryo. El territorio de este reino, que fue uno de los más poderosos de la región entre los siglos III a. C. y VII a.C., se extendió por el nordeste de China y la mitad de la península coreana. Las tumbas son prácticamente los únicos vestigios de esta cultura y algunas de ellas poseen magníficas pinturas murales. De las 10.000 sepulturas del periodo koguryo descubiertas en China y Corea hasta la fecha, solamente 90 poseen pinturas murales. La mitad de las tumbas decoradas se hallan en este sitio y se cree que fueron construidas para albergar los despojos mortales de los soberanos, miembros de la familia real y personajes de la aristocracia koguryo. Las pinturas murales representan un testimonio excepcional de la vida cotidiana de la época.",
+          "ru": "В комплекс входит несколько групп гробниц и отдельные гробницы – всего порядка 30 захоронений, которые относятся к позднему периоду существования государства Когурё, являясь ценнейшими свидетельствами этой культуры. Только около 90 гробниц Когурё из более чем 10 тыс., обнаруженных в целом в Китае и Корее к настоящему времени, имеют настенные росписи. Почти половина таких гробниц находится в пределах данного комплекса. Гробницы, как полагают, были сооружены для захоронения царей, членов царских семей и аристократии.",
+          "ar": "يتضمن هذا الموقع عدداً من المقابر المجتمعة أو المنفردة (التي يبلغ عددها الثلاثين) العائدة الى المرحلة الأخيرة من مملكة كوغوريوالتي كانت تعتبر من أقوى ممالك شمال شرق الصين ونصف شبه الجزيرة الكورية بين القرن الثالث قبل الميلاد والسابع ميلادي. وتعدّ هذه المقابر التي تزيّن الكثير منها لوحات جدارية مذهلة الآثار الوحيدة المتبقية من هذه الثقافة. ومن بين 10000 قبر تم اكتشافه حتى اليوم في الصين وكوريا، 90 قبرا فقط تحوي لوحات جدارية يقبع نصفها في هذا الموقع وسط اعتقاد سائد بأنها كانت مخصصة للملوك وأعضاء الأسرة الملكية والنبلاء. وتمثل هذه اللوحات شاهداً فريداً على الحياة اليومية السائدة في تلك الحقبة.",
+          "zh": "墓群包括几组墓葬和一些独立的墓葬，共计约30座，是公元前3世纪至公元7世纪中国东北部和朝鲜半岛一半地区最强大的帝国之一——高句丽帝国后期的古墓，多以精美的壁画装饰，几乎是高句丽文化唯一的遗迹。迄今为止，在中国和朝鲜发现的10 000多座高句丽古墓中只有90座古墓绘有壁画。其中半数以上就在该遗址，被认为是高句丽帝王、皇室成员或贵族的墓葬。这些壁画以独特的方式反映了当时的日常生活。"
+        },
+        "full": "The property includes several group and individual tombs - totalling about 30 individual tombs - from the later period of the Koguryo Kingdom, one of the strongest kingdoms in nowadays northeast China and half of the Korean peninsula between the 3rd century BC to 7th century AD. The tombs, many with beautiful wall paintings, are almost the only remains of this culture. Only about 90 out of more than 10,000 Koguryo tombs discovered in China and Korea so far, have wall paintings. Almost half of these tombs are located on this site and they are thought to have been made for the burial of kings, members of the royal family and the aristocracy. These paintings offer a unique testimony to daily life of this period.",
+        "justification": "Brief synthesis Koguryo was one of the strongest kingdoms in northeast China and half of the Korean peninsula between the 3rd century BC and the 7th century AD. The best known cultural heritage remains of this kingdom are the tombs, built of stone and covered by stone or earthen mounds. These tombs, from the middle period of the kingdom, many with beautiful wall paintings, are the representative remains of this culture. About 100 out of more than 10,000 Koguryo tombs discovered in Democratic People’s Republic of Korea and China to date are decorated with wall paintings, some 80 of which are in the Democratic People’s Republic of Korea. Among the Koguryo tombs identified in Democratic People’s Republic of Korea, 63 individual tombs including 16 tombs with wall paintings are included in the inscribed property. The Complex of Koguryo Tombs is a serial property and includes several groups and individual tombs situated mainly at the foot of mountains and some in villages. Located in Pyongyang and surrounding provinces, the tombs are thought to have been made for the burial of kings, members of the royal family and the aristocracy. There are several types of tombs included in the property, based on the number of burial chambers – single chamber, two chambers, and multi-chambers with side chambers. They represent the full range of the Koguryo tomb typology and showcase the best examples of this construction technology. The tombs are monumental, stone-chambered earthen mounds that were skillfully constructed with ingenious ceiling designs to support the heavy weight above. The technology employed represented a unique, creative and long-sought engineering solution to the technical problems posed by underground tomb construction. The wall paintings constitute masterpieces of the art of wall painting. The subject matter of the wall paintings of the tombs offers unique evidence of the richness and complexity of the now-vanished Koguryo culture, portraying the costumes, food, residential life and burial customs, as well as religious practices and imagery associated with Buddhism, Taoism and the Four Deities. The Complex of Koguryo Tombs represents an exceptional testimony to the Koguryo culture, its burial customs, daily life and beliefs. The special burial customs of this culture had an important influence on other cultures in the region, including those of Japan. Criterion (i): The wall paintings of the Koguryo tombs are masterpieces of the culture and period of the Koguryo kingdom; the construction of the tombs demonstrates ingenious engineering solutions. Criterion (ii): The special burial customs of the Koguryo culture had an important influence on other cultures in the region, including Japan. Criterion (iii): The Koguryo tombs are an exceptional testimony of the Koguryo culture, its burial customs as well as its daily life and beliefs. Criterion (iv): The Complex of Koguryo Tombs is an important example of burial typology. Integrity The serial property, which is scattered across the northwest part of the Korean peninsula and grouped into four regions, comprises 63 individual tombs, 16 of which feature wall paintings. The tombs represent the full typology of Koguryo tombs from the later kingdom and together with the wall paintings represent among the only remains of the now-vanished Koguryo culture. Most of the known tombs suffered clandestine excavations in the last thousand years and few were scientifically excavated prior to such activity. Although some of the wall paintings in the tombs were damaged by looting and environmental factors, the architectural features remain largely intact and the wall paintings possess sufficient integrity to express their Outstanding Universal Value. The natural environment and setting of the tombs have not been substantially altered since the time the tombs were constructed, providing a clear understanding of the relationship between the tombs and their symbolic siting in the landscape. The attributes that express the Outstanding Universal Value of the property are not threatened by development or neglect. The wall paintings and the architectural structures are vulnerable to humidity, harmful bacteria and natural weathering. There is a risk of flooding in one of the tombs and an overall plan for the management of tourism is required. Authenticity The authenticity of the tombs has been well preserved, as has their relationship with their landscape setting. The tombs have remained largely unaltered since the time of their construction and still retain the evidence of outstanding architectural techniques. The wall paintings inside are authentic and untouched. Although parts of the wall paintings were damaged owing to looting and other factors, a significant proportion of all the attributes expressing their Outstanding Universal Value, for example, their subject matter, composition, layout, methods of portrayal, and types and texture of pigments, still remain in their original state, guaranteeing their truthfulness. New additions to the exterior of the tombs for the purposes of protection, presentation and interpretation of the sites can be read as contemporary features that neither mimic the authentic attributes of the property, nor compromise the cultural value of the tombs. Protection and management requirements The Complex of Koguryo Tombs is substantially protected under the Law of the Democratic People’s Republic of Korea on the Protection of Cultural Property. The on-site management bodies, under the guidance of the National Bureau for Cultural Property Conservation, are responsible for the conservation and management of these properties. The site management structure is adequate and staff well qualified. Buffer zones have been demarcated for all properties, and the overall state of conservation of the property is relatively good. Conservation and restoration projects for the wall paintings of the Koguryo tombs are being undertaken in collaboration with UNESCO, notably in the Susan-ri Tomb. The major problem in the management and conservation of the tombs is the damage to the wall paintings and architectural structures done by humidity, harmful bacteria and natural weathering. To address this, a remote interior monitoring system and temperature and humidity sensor and regulation system to monitor and regulate the interior of the tombs are being planned in collaboration with UNESCO, and will be installed within a few years. Long-term strategies have been developed to conserve and restore all tombs within the serial property. This will include preventative conservation to avoid the flaking off of paint, changes to the colour of the paintings and corrosion of the tomb structures. It will also aim to continue and strengthen scientific and technical research in relevant fields. The Management Plan is being revised in order to improve conservation, management and interpretation of the property and all the associated elements, including their surrounding natural environment."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "display": "(i)(ii)(iii)(iv)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 234.73,
+          "square_km": 2.35,
+          "square_miles": 0.95,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ad97950304a4f88a3bc6b2cd43ec7f2e",
+          "filename": "site_1091_0003-500-0-20131114114541.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/125760/site_1091_0003.jpg",
+            "https://whc.unesco.org/document/125761/site_1091_0004.jpg",
+            "https://whc.unesco.org/document/125762/site_1091_0005.jpg",
+            "https://whc.unesco.org/document/125763/site_1091_0006.jpg",
+            "https://whc.unesco.org/document/125764/site_1091_0007.jpg",
+            "https://whc.unesco.org/document/125765/site_1091_0008.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 12,
+        "locations": [
+          {
+            "name": "Yaksu-ri Tomb",
+            "ref": "1091-006",
+            "latitude": 38.9188888889,
+            "longitude": 125.413333333
+          },
+          {
+            "name": "Susan-ri Tomb",
+            "ref": "1091-007",
+            "latitude": 38.9205555556,
+            "longitude": 125.361388889
+          },
+          {
+            "name": "Tokhung-ri Tomb",
+            "ref": "1091-005",
+            "latitude": 38.9608333333,
+            "longitude": 125.446944444
+          },
+          {
+            "name": "Anak Tomb No. 1",
+            "ref": "1091-010",
+            "latitude": 38.4838888889,
+            "longitude": 125.543055556
+          },
+          {
+            "name": "Anak Tomb No. 2",
+            "ref": "1091-011",
+            "latitude": 38.4838888889,
+            "longitude": 125.543055556
+          },
+          {
+            "name": "Anak Tomb No. 3",
+            "ref": "1091-012",
+            "latitude": 38.4402777778,
+            "longitude": 125.5075
+          },
+          {
+            "name": "Twin-Column Tomb",
+            "ref": "1091-009",
+            "latitude": 38.8630555556,
+            "longitude": 125.415
+          },
+          {
+            "name": "Kangso Three Tombs",
+            "ref": "1091-004",
+            "latitude": 38.9647222222,
+            "longitude": 125.425
+          },
+          {
+            "name": "Ryonggang Great Tomb",
+            "ref": "1091-008",
+            "latitude": 38.8630555556,
+            "longitude": 125.415
+          },
+          {
+            "name": "Homam-ri Sasin (Four Deities) Tomb",
+            "ref": "1091-002",
+            "latitude": 39.0808333333,
+            "longitude": 125.9219444444
+          },
+          {
+            "name": "Tomb of King Tongmyong and Jinpha-ri group of tombs",
+            "ref": "1091-001",
+            "latitude": 38.8894444444,
+            "longitude": 125.929722222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1091",
+        "unesco_documents": "https://whc.unesco.org/en/list/1091/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1091/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1091/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Complex of Koguryo Tombs The property includes several group and individual tombs - totalling about 30 individual tombs - from the later period of the Koguryo Kingdom, one of the strongest kingdoms in nowadays northeast China and half of the Korean peninsula between the 3rd century BC to 7th century AD. The tombs, many with beautiful wall paintings, are almost the only remains of this culture. Only about 90 out of more than 10,000 Koguryo tombs discovered in China and Korea so far, have wall paintings. Almost half of these tombs are located on this site and they are thought to have been made for the burial of kings, members of the royal family and the aristocracy. These paintings offer a unique testimony to daily life of this period. The property includes several group and individual tombs - totalling about 30 individual tombs - from the later period of the Koguryo Kingdom, one of the strongest kingdoms in nowadays northeast China and half of the Korean peninsula between the 3rd century BC to 7th century AD. The tombs, many with beautiful wall paintings, are almost the only remains of this culture. Only about 90 out of more than 10,000 Koguryo tombs discovered in China and Korea so far, have wall paintings. Almost half of these tombs are located on this site and they are thought to have been made for the burial of kings, members of the royal family and the aristocracy. These paintings offer a unique testimony to daily life of this period. North Korea Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "historic_monuments_and_sites_in_kaesong",
+      "uuid": "05dfdbad-3855-5d86-be65-c9d0908c6e5b",
+      "unesco_id": "1278",
+      "names": {
+        "en": "Historic Monuments and Sites in Kaesong",
+        "fr": "Monuments et sites historiques de Kaesong",
+        "es": "Monumentos y sitios históricos de Kaesong",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PRK": {
+            "name": "North Korea",
+            "iso2": "KP",
+            "iso3": "PRK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in Kaesong city, in the south of the country, the site consists of 12 separate components, which together testify to the history and culture of the Koryo Dynasty from the 10th to 14th centuries. The geomantic layout of the former capital city of Kaesong, its palaces, institutions and tomb complex, defensive walls and gates embody the political, cultural, philosophical and spiritual values of a crucial era in the region’s history. The monuments inscribed also include an astronomical and meteorological observatory, two schools (including one dedicated to educating national officials) and commemorative steles. The site testifies to the transition from Buddhism to neo-Confucianism in East Asia and to the assimilation of the cultural spiritual and political values of the states that existed prior to Korea’s unification under the Koryo Dynasty. The integration of Buddhist, Confucian, Taoist and geomantic concepts is manifest in the planning of the site and the architecture of its monuments.",
+          "fr": "Situé dans la zone urbaine de Kaesong, au sud du pays, le site comprend douze biens qui témoignent de l’histoire et de la culture de la dynastie Koryo (918-1392). La configuration géomantique de l’ancienne capitale de Kaesong, ses palais, institutions, tombes, murailles et portes incarnent les valeurs politiques, culturelles, philosophiques et spirituelles d’une époque cruciale de l’histoire de la région. Les monuments inscrits comprennent aussi un observatoire astronomique et météorologique, deux écoles (dont une qui formait les fonctionnaires nationaux) et des stèles commémoratives. Le site témoigne de la transition des principes bouddhistes aux principes confucianistes de gouvernement et de l’assimilation des valeurs culturelles et politiques des Etats qui existaient avant l’unification menée par la dynastie Koryo. L’intégration de concepts géomantiques, bouddhistes, confucianistes et taoïstes est évidente dans la planification du site et l’architecture de ses monuments.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated in Kaesong city, in the south of the country, the site consists of 12 separate components, which together testify to the history and culture of the Koryo Dynasty from the 10th to 14th centuries. The geomantic layout of the former capital city of Kaesong, its palaces, institutions and tomb complex, defensive walls and gates embody the political, cultural, philosophical and spiritual values of a crucial era in the region’s history. The monuments inscribed also include an astronomical and meteorological observatory, two schools (including one dedicated to educating national officials) and commemorative steles. The site testifies to the transition from Buddhism to neo-Confucianism in East Asia and to the assimilation of the cultural spiritual and political values of the states that existed prior to Korea’s unification under the Koryo Dynasty. The integration of Buddhist, Confucian, Taoist and geomantic concepts is manifest in the planning of the site and the architecture of its monuments.",
+        "justification": "Brief synthesis Within the mountain-ringed basin of Kaesong City and extending into the foothills to the west, the Historic Monuments and Sites in Kaesong comprise an ensemble representing the ruling base of the Koryo dynasty (918-1392) with its associated tombs. The ensemble embodies the political, cultural, philosophical and spiritual values of the capital of the unified Koryo state as it transitioned from Buddhist to Confucian philosophy, through the geomantic layout of the city, palace and tomb complexes, the urban defence system of walls and gates, and educational institutions. The serial property consists of twelve separate property components, five of which are separate sections of the Kaesong City Walls forming parts of the triple-walled Koryo defence system. This included the innermost Palocham Wall of 896, within which the palace was later built; the Outer Wall built 1009-1029 to surround the city, connecting the mountains that protect it according to geomancy (Mt Songak, Mt Puhung, Tokam Peak, Mt Ryongsu and Mt Jine); and the Inner Wall of 1391-3. The other seven components are the Manwoldae Palace archaeological site and remains of the Kaesong Chomsongdae (an astronomical and meteorological observatory); the Kaesong Namdae Gate (the main southern city gate in the Inner Wall); Koryo Songgyungwan (a former high state education institute which educated Koryo national officials); Sungyang Sowon (a Confucian private school on the site of the former residence of Jong Mong Ju, 1337-1392, a Koryo minister whose assassination marked the overthrow of the Koryo); Sonjuk Bridge (where Jong Mong Ju was assassinated) and Phyochung Monuments (two stelae commemorating Jong Mong Ju); the Mausoleum of King Wang Kon with associated Seven Tombs Cluster and Myongrung Tombs Cluster; and the Mausoleum of King Kongmin. Criterion (ii): The Historic Monuments and Sites in Kaesong exhibit the assimilation of the cultural, spiritual and political values of the various states that existed on the Peninsula prior to the Koryo, and the interchange of such values with other neighbouring kingdoms over five centuries. Criterion (iii): The Historic Monuments and Sites in Kaesong are exceptional testimony to the unified Koryo civilisation as Buddhism gave way to neo-Confucianism in East Asia. Integrity The property components individually and together ensure the complete representation of the values of the Koryo state as it transitioned from Buddhism to neo-Confucianism and do not suffer from development or neglect. The excavated remains of Manwoldae Palace express credibly and truthfully its value in demonstrating the Buddhist foundation and geomantic beliefs of the Koryo dynasty and the property component is of sufficient size to include areas yet to be excavated which may contribute further to the understanding of the palace and observatory. Its natural environment has remained intact. The geomantic setting of the property is contained within the buffer zone, which encloses all the property components and covers the basin in which Kaesong City is sited including areas of traditional architecture, and the hilly areas to the west where the royal tombs are located. It includes the geomantic markers around the city: Mt Songak to the north, Mt Jine to the west, Mt Puhung and Tokam Peak to the east and Mt Ryongsu to the south. Strict management of the buffer zone will ensure that these elements that constitute the existence of this site and unite the property components as a reflection of the Koryo dynasty continue to dominate. Authenticity The authenticity of the individual nominated property components is retained in terms of form, design, materials, spirit and feeling, location and the overall geomantic setting of surrounding mountains. Management and protection requirements The serial property components are protected at the national level by the Law of the Democratic People’s Republic of Korea on the Protection of Cultural Property (1994) and its Regulations (2009), administered by the National Bureau for Cultural Property Conservation (NBCPC). All except the Seven Tombs Cluster and the Myongrung Tombs Cluster are designated as National Treasure Sites; these two are protected as Preservation Sites. The mountains and forests in the buffer zone are protected by the Law of the Democratic People’s Republic of Korea on Environmental Protection (1986) and the Forest Law of the Democratic People’s Republic of Korea (1992). The urban land within the buffer zone is administered under the Land Law of the DPR Korea (1977) and the Law of the DPR Korea on City Management (1992). The amended Law on Protection of Cultural Property, the Regulation for the Implementation of the Law on Protection of Cultural Property and the newly prepared Guidelines for Protection and Management of the Historic Monuments and Sites in Kaesong to be approved and implemented in September 2013 will ensure protection of the buffer zone as a contiguous property, and will cover specific protection of the area of traditional houses located immediately north-northwest of the Namdae Gate. Management of the serial property components as a whole is overseen by the Kaesong City Cultural Heritage Preservation Committee, which includes the head officials of the institutions that are involved in the implementation of national laws and polices related to the protection of cultural property in Kaesong. Individual property components are managed by the Cultural Preservation Department of the Kaesong People’s Committee, of which the Cultural Property Management Office and the Management Office for the Mausoleum of King Wang Kon are responsible for executing the Management Plan. Under these offices, site managers are assigned to each site, with their corresponding monitors and caretakers. The site managers oversee actions related to the daily maintenance of the sites, including restoration and repair works, as well as convening the communities who are engaged to assist in the regular activities and maintenance of the properties. The Management Plan for the property was prepared by the Korean Cultural Preservation Centre (KCPC) as authorised by the National Bureau for Cultural Property Conservation (NBCPC), and was approved by the Government of DPR Korea on 15 January 2011. The Management Plan has 5 and 10 year objectives and was drawn up in consultation with both the Kaesong City People’s Committee and the Kaesong City Cooperative Farm Management Committee. It will be supplemented by guidelines for development in the buffer zone and should be taken into account by the local government organs in framing and implementing their regional development plans. The guidelines will specify that heights will be controlled on the basis of sightlines between key elements of the nominated property components and natural features; the original alignment of ancient roads in Kaesong city will be preserved; the visual harmony in form and colour of buildings will be controlled; the layout of waterways and volume of water flowing in the vicinity of the historical sites will be controlled; new development will be prohibited in the surrounding natural landscape that shows the relationship of feng shui with individual historical sites, including Mt Songak, Mt Jine, Mt Ryongsu, Mt Puhung, Tokam peak, Mt Janam, Jujak hill, Mt Mansu and Acha peak; any unnecessary and obtrusive structures or facilities will be removed and the natural landscape recovered as much as possible by promoting forestation where appropriate, and factory construction will be prohibited in the urban area. Tourism management and interpretation plans are also required."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 494.2,
+          "square_km": 4.94,
+          "square_miles": 2.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2013,
+          "all_dates": [
+            2013
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2013,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ae897bc28d2cc1cca9f25c2779ccb7dc",
+          "filename": "site_1278_0001-500-0-20230223093749.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 329
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/123258/site_1278_0001.jpg",
+            "https://whc.unesco.org/document/123260/site_1278_0003.jpg",
+            "https://whc.unesco.org/document/123259/site_1278_0002.jpg",
+            "https://whc.unesco.org/document/123261/site_1278_0004.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 8,
+        "locations": [
+          {
+            "name": "Kaesong Walls",
+            "ref": "1278rev-002",
+            "latitude": 37.987202,
+            "longitude": 126.535313
+          },
+          {
+            "name": "Sungyang Sowon",
+            "ref": "1278rev-005",
+            "latitude": 37.974972,
+            "longitude": 126.561148
+          },
+          {
+            "name": "Koryo Songgyungwan",
+            "ref": "1278rev-004",
+            "latitude": 37.991994,
+            "longitude": 126.570723
+          },
+          {
+            "name": "Kaesong Namdae Gate",
+            "ref": "1278rev-003",
+            "latitude": 37.97178,
+            "longitude": 126.556484
+          },
+          {
+            "name": "Mausoleum of King Kongmin",
+            "ref": "1278rev-008",
+            "latitude": 37.982019,
+            "longitude": 126.473288
+          },
+          {
+            "name": "Manwoldae & Kaesong Chomsongdae",
+            "ref": "1278rev-001",
+            "latitude": 37.985911,
+            "longitude": 126.542443
+          },
+          {
+            "name": "Sonjuk Bridge and Phyochung Monuments",
+            "ref": "1278rev-006",
+            "latitude": 37.976941,
+            "longitude": 126.56612
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1278",
+        "unesco_documents": "https://whc.unesco.org/en/list/1278/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1278/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1278/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 12,
+        "inscription_year": 2013
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Monuments and Sites in Kaesong Situated in Kaesong city, in the south of the country, the site consists of 12 separate components, which together testify to the history and culture of the Koryo Dynasty from the 10th to 14th centuries. The geomantic layout of the former capital city of Kaesong, its palaces, institutions and tomb complex, defensive walls and gates embody the political, cultural, philosophical and spiritual values of a crucial era in the region’s history. The monuments inscribed also include an astronomical and meteorological observatory, two schools (including one dedicated to educating national officials) and commemorative steles. The site testifies to the transition from Buddhism to neo-Confucianism in East Asia and to the assimilation of the cultural spiritual and political values of the states that existed prior to Korea’s unification under the Koryo Dynasty. The integration of Buddhist, Confucian, Taoist and geomantic concepts is manifest in the planning of the site and the architecture of its monuments. Situated in Kaesong city, in the south of the country, the site consists of 12 separate components, which together testify to the history and culture of the Koryo Dynasty from the 10th to 14th centuries. The geomantic layout of the former capital city of Kaesong, its palaces, institutions and tomb complex, defensive walls and gates embody the political, cultural, philosophical and spiritual values of a crucial era in the region’s history. The monuments inscribed also include an astronomical and meteorological observatory, two schools (including one dedicated to educating national officials) and commemorative steles. The site testifies to the transition from Buddhism to neo-Confucianism in East Asia and to the assimilation of the cultural spiritual and political values of the states that existed prior to Korea’s unification under the Koryo Dynasty. The integration of Buddhist, Confucian, Taoist and geomantic concepts is manifest in the planning of the site and the architecture of its monuments. North Korea Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "mount_kumgang_diamond_mountain_from_the_sea",
+      "uuid": "e724b667-98fd-5c02-b98f-8c5bff4fb667",
+      "unesco_id": "1642",
+      "names": {
+        "en": "Mount Kumgang – Diamond Mountain from the Sea",
+        "fr": "Mont Kumgang – mont du Diamant de la mer",
+        "es": "Monte Kumgang – Montaña diamante desde el mar",
+        "ru": "Гора Кымгансан — Алмазная гора моря",
+        "ar": "جبل كومغانغ – جبل الألماس من البحر",
+        "zh": "金刚山——海上钻石山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PRK": {
+            "name": "North Korea",
+            "iso2": "KP",
+            "iso3": "PRK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned for its near-white granite peaks, deep valleys, waterfalls, and pristine ecosystems, rising to nearly 1,600 metres. The mountain’s dramatic impact is enhanced through constantly changing weather patterns of mists, rain, sunshine and clouds. This sacred mountain is a key site of mountain Buddhism, with traditions dating back to the 5th century. This cultural landscape is home to ancient hermitages, temples, stupas, and stone carvings, many located in the Outer and Inner Kumgang Area. Three temples remain active today and bear exceptional testimony to centuries of Buddhist practice, with tangible and intangible heritage deeply intertwined with the landscape.",
+          "fr": "Le Mont Kumgang est un lieu célébré de longue date pour sa beauté naturelle exceptionnelle, ses paysages de sommets de granite presque blanc, de vallées plongeantes, de chutes d’eau et d’écosystèmes intacts s'élevant à près de 1 600 mètres au-dessus du niveau de la mer. L’impact spectaculaire de la montagne est renforcé par les changements constants des conditions météorologiques, caractérisées par la brume, la pluie, le soleil et les nuages. Cette montagne sacrée constitue un témoignage des traditions du bouddhisme de montagne, du Ve siècle de notre ère à nos jours. Ce paysage culturel abrite des temples, les ermitages, des stupas et des gravures sur pierre, pour la plupart situés dans les zones du Kumgang extérieur et intérieur. Trois temples sont toujours en activité actuellement et constituent un témoignage exceptionnel de siècles des pratiques bouddhistes, dont le patrimoine matériel et immatériel est profondément ancré dans le paysage.",
+          "es": "El monte Kumgang, de cerca de 1600 metros de altitud, es un lugar de una excepcional belleza natural, famoso por sus picos de granito casi blanco, valles profundos, cascadas y ecosistemas prístinos. El impacto dramático de la montaña se ve acentuado por patrones climáticos muy cambiantes de nieblas, lluvia, sol y nubes. Esta montaña sagrada es un sitio clave del budismo de montaña con tradiciones que datan del siglo V. Este paisaje cultural alberga antiguas ermitas, templos, estupas y tallas de piedra, en su mayoría ubicados en las zonas exterior e interior de Kumgang. Tres templos permanecen activos hoy en día y ofrecen un testimonio excepcional de siglos de práctica budista con un patrimonio tangible e intangible profundamente entrelazado con el paisaje.",
+          "ru": "Гора Кымгансан издавна славится своей исключительной природной красотой: практически белыми гранитными вершинами, глубокими ущельями, водопадами и нетронутыми экосистемами на высоте до 1600 метров. Впечатление, которое производит гора, усиливается из-за постоянно сменяющих друг друга погодных явлений: туманов, дождей, солнечного света и облачности. Эта священная гора является важным местом для горного буддизма, традиции которого восходят к V веку. Культурный ландшафт горы включает древние скиты, храмы, ступы и каменные резные изображения, многие из которых расположены во Внешнем и Внутреннем Кымгансане. Три храма остаются действующими по сей день и являются исключительным свидетельством многовековой буддийской практики. Здесь материальное и нематериальное наследие тесно переплетены с природной средой.",
+          "ar": "اكتسب جبل كومغانغ شهرته منذ فترة طويلة بفضل جماله الطبيعي الاستثنائي، وهو معروف بقممه الغرانيتية شبه البيضاء وأوديته السحيقة وشلالاته ونظمه الإيكولوجية البكر، ويبلغ ارتفاعه 1600 متر. ويتعزز المنظر المذهل لهذا الجبل بفضل أنماط الطقس دائمة التغير من ضباب ومطر وغيوم وشمس مشرقة. ويعتبر هذا الجبل المقدس موقعاً رئيسياً بالنسبة إلى الديانة البوذية المنتشرة عليه، حيث تعود تقاليدها إلى القرن الخامس الميلادي. ويضمُّ هذا المنظر الثقافي صوامع قديمة للرهبان ومعابد وأضرحة بوذية مقببة (stupa) وحجارة منحوتة، ويقع العديد منها في المنطقتين الداخلية والخارجية من جبل كومغانغ. ولا يزال هناك ثلاثة معابد تُمارَس فيها طقوس العبادة حتى يومنا هذا، وهي تقف شاهدة استثنائية على قرون من الطقوس البوذية، حيث يتداخل التراث المادي وغير المادي مع المنظر الطبيعي.",
+          "zh": "金刚山历来因得天独厚的自然风光而为人称颂，其主峰海拔逾1600米。接近白色的花岗岩峰、深谷、飞瀑和原始生态系统久负盛名，雾、雨、晴、云变换不定的天气使山体景观更显磅礴。金刚山是山岳佛教的的重要圣地，相关历史可追溯至公元5世纪，留下诸多古代隐修所、寺庙、佛塔、石刻，多分布于外金刚、内金刚区域。3座至今仍在使用的寺庙，见证了几百年来的佛教实践，及其与当地景观深度融合的物质和非物质文化遗产。"
+        },
+        "full": "Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned for its near-white granite peaks, deep valleys, waterfalls, and pristine ecosystems, rising to nearly 1,600 metres. The mountain’s dramatic impact is enhanced through constantly changing weather patterns of mists, rain, sunshine and clouds. This sacred mountain is a key site of mountain Buddhism, with traditions dating back to the 5th century. This cultural landscape is home to ancient hermitages, temples, stupas, and stone carvings, many located in the Outer and Inner Kumgang Area. Three temples remain active today and bear exceptional testimony to centuries of Buddhist practice, with tangible and intangible heritage deeply intertwined with the landscape.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [
+            7
+          ],
+          "all": [
+            3,
+            7
+          ],
+          "display": "(iii)(vii)",
+          "count": 2,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 19827.86,
+          "square_km": 198.28,
+          "square_miles": 80.241,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/50128ec14c490e07dc123080de23b2c0",
+          "filename": "site_1642_0002.jpg",
+          "dimensions": {
+            "width": 3543,
+            "height": 1492
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/220936/site_1642_0002.jpg",
+            "https://whc.unesco.org/document/220937/site_1642_0003.jpg",
+            "https://whc.unesco.org/document/220940/site_1642_0006.jpg",
+            "https://whc.unesco.org/document/220941/site_1642_0007.jpg",
+            "https://whc.unesco.org/document/220943/site_1642_0009.jpg",
+            "https://whc.unesco.org/document/220945/site_1642_0011.jpg",
+            "https://whc.unesco.org/document/220946/site_1642_0012.jpg",
+            "https://whc.unesco.org/document/220947/site_1642_0013.jpg",
+            "https://whc.unesco.org/document/220948/site_1642_0014.jpg",
+            "https://whc.unesco.org/document/220950/site_1642_0015.jpg",
+            "https://whc.unesco.org/document/221271/site_1642_0016.jpg",
+            "https://whc.unesco.org/document/221272/site_1642_0017.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Outer Kumgang-Inner Kumgang Area",
+            "ref": "1642-001",
+            "latitude": 38.6602777778,
+            "longitude": 128.1375
+          },
+          {
+            "name": "Lagoon Samil Area in Sea Kumgang",
+            "ref": "1642-002",
+            "latitude": 38.6852777777,
+            "longitude": 128.301666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1642",
+        "unesco_documents": "https://whc.unesco.org/en/list/1642/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1642/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1642/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mount Kumgang – Diamond Mountain from the Sea Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned for its near-white granite peaks, deep valleys, waterfalls, and pristine ecosystems, rising to nearly 1,600 metres. The mountain’s dramatic impact is enhanced through constantly changing weather patterns of mists, rain, sunshine and clouds. This sacred mountain is a key site of mountain Buddhism, with traditions dating back to the 5th century. This cultural landscape is home to ancient hermitages, temples, stupas, and stone carvings, many located in the Outer and Inner Kumgang Area. Three temples remain active today and bear exceptional testimony to centuries of Buddhist practice, with tangible and intangible heritage deeply intertwined with the landscape. Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned for its near-white granite peaks, deep valleys, waterfalls, and pristine ecosystems, rising to nearly 1,600 metres. The mountain’s dramatic impact is enhanced through constantly changing weather patterns of mists, rain, sunshine and clouds. This sacred mountain is a key site of mountain Buddhism, with traditions dating back to the 5th century. This cultural landscape is home to ancient hermitages, temples, stupas, and stone carvings, many located in the Outer and Inner Kumgang Area. Three temples remain active today and bear exceptional testimony to centuries of Buddhist practice, with tangible and intangible heritage deeply intertwined with the landscape. North Korea Asia and the Pacific Mixed"
+    }
+  ]
+}

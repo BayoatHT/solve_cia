@@ -1,0 +1,176 @@
+{
+  "country": {
+    "code": "SMR",
+    "name": "San Marino"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "san_marino_historic_centre_and_mount_titano",
+      "uuid": "86a32d7f-6bed-5d07-81fd-a7992f5c9cd3",
+      "unesco_id": "1245",
+      "names": {
+        "en": "San Marino Historic Centre and Mount Titano",
+        "fr": "Centre historique de Saint-Marin et mont Titano",
+        "es": "Centro Histórico de San Marino y Monte Titano",
+        "ru": "Исторический центр Сан-Марино и гора Титано",
+        "ar": "المركز التاريخي لسانت ماران وجبل تيتانو",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SMR": {
+            "name": "San Marino",
+            "iso2": "SM",
+            "iso3": "SMR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "San Marino Historic Centre and Mount Titano covers 55 ha, including Mount Titano and the historic centre of the city which dates back to the foundation of the republic as a city-state in the 13th century. San Marino is inscribed as a testimony to the continuity of a free republic since the Middle Ages. The inscribed city centre includes fortification towers, walls, gates and bastions, as well as a neo-classical basilica of the 19th century, 14th and 16th century convents, and the Palazzo Publico of the 19th century, as well as the 18th century Titano Theatre. The property represents an historical centre still inhabited and preserving all its institutional functions. Thanks to its position on top of Mount Titano, it was not affected by the urban transformations that have occurred from the advent of the industrial era to today.",
+          "fr": "Le centre historique de Saint-Marin et mont Titano couvre 55 hectares et comprend le mont Titano et le centre historique de la cité de Saint-Marin qui remonte à la fondation de la république en tant que cité-État au XIIIème siècle. Saint-Marin est inscrite en tant que témoignage de la continuité d’une république indépendante depuis la période médiévale. Le site inscrit comprend des tours de fortification, des murs d’enceinte, portes et bastions, ainsi que la basilique néo-classique du XIXème siècle, des couvents du XIV et XVIème siècles, le Palazzo Pubblico du XIXème siècle et le théâtre Titano du XVIIIème siècle. Le bien constitue un exemple de centre historique encore habité et conservant toutes ses fonctions institutionnelles. Grâce à sa position au sommet du mont Titano, la cité n’a pas été affectée par les transformations urbaines intervenues depuis l’avènement de l’ère industrielle jusqu’à nos jours.",
+          "es": "El sitio cubre 55 hectáreas e incluye el monte Titano y el centro histórico de la ciudad, que data de la fundación de la república como ciudad-estado, en el siglo XIII. San Marino se inscribe en la Lista del Patrimonio Mundial como testimonio de la continuidad de una república libre desde la Edad Media. La zona inscrita incluye fortificaciones, torres, murallas, puertas y bastiones, así como una basílica neoclásica del siglo XIX, conventos de los siglos XIV y XVI, el Palazzo Publico del siglo XIX y el Teatro Titano, del siglo XVIII. El bien representa una centro histórico todavía habitado que preserva todas sus funciones institucionales. Gracias a su emplazamiento en la cima del monte Titano, la zona no se vio afectada por las transformaciones urbanas ocurridas desde el princpio de la era industrial hasta la actualidad.",
+          "ru": "Этот объект занимает площадь в 55 га, в которую входит гора Титано и исторический центр города Ман-Марино, относящийся к эпохе провозглашения республики в городе-государстве в XIII веке. Сан-Марино - свидетельство стойкости независимого республиканского режима, существующего со времен средневековья. В его центральной части сохранились оборонительные башни, крепостные стены, ворота и бастионы, а также неоклассическая базилика, возведенная в XIX веке, монастыри XIV и XVI веков, Палаццо Пубблико XIX века и театр Титано XVIII века. Объект представляет собой исторический населенный центр, где продолжают действовать все городские учреждения. Благодаря месторасположению города - на самой вершине горы Титано, его не коснулись городские перестройки, развернувшиеся с наступлением индустриальной эпохи и продолжающиеся в наши дни.",
+          "ar": "يغطي الموقع 55 هكتاراً ويشمل جبل تيتانو والمركز التاريخي لمدينة سانت ماران العائد إلى فترة تأسيس الجمهورية كمدينة دولة في القرن الثالث عشر. أدرجت سانت ماران كشهادة على استمرارية جمهورية مستقلة منذ فترة القرون الوسطى. ويشمل الموقع المسجَّل أبراجاً محصنة، ومجموعة من الأسوار والأبواب والمواقع المحصَّنة، علاوة على كاتدرائية مشيَّدة وفقاً للأسلوب الكلاسيكي الحديث للقرن التاسع عشر، وأديرة ترقى إلى القرنين الرابع عشر والسادس عشر، وقصر بوبليكو العائد إلى القرن التاسع عشر، ومسرح تيتانو العائد إلى القرن الثامن عشر. يوفر الموقع خير مثال عن مركز تاريخي ما زال مأهولاً ومحافظاً على كافة وظائفه المؤسسية. وبفضل موقعها القائم في أعلى جبل تيتانو، لم تتأثر هذه المدينة بالتحولات الحضرية الطارئة على المنطقة عموماً منذ بداية العصر الصناعي حتى اليوم.",
+          "zh": ""
+        },
+        "full": "San Marino Historic Centre and Mount Titano covers 55 ha, including Mount Titano and the historic centre of the city which dates back to the foundation of the republic as a city-state in the 13th century. San Marino is inscribed as a testimony to the continuity of a free republic since the Middle Ages. The inscribed city centre includes fortification towers, walls, gates and bastions, as well as a neo-classical basilica of the 19th century, 14th and 16th century convents, and the Palazzo Publico of the 19th century, as well as the 18th century Titano Theatre. The property represents an historical centre still inhabited and preserving all its institutional functions. Thanks to its position on top of Mount Titano, it was not affected by the urban transformations that have occurred from the advent of the industrial era to today.",
+        "justification": "San Marino is one of the world’s oldest republics and the only surviving Italian city-state, representing an important stage in the development of democratic models in Europe and worldwide. The tangible expressions of this long continuity as the capital of the Republic, its unchanged geo-political context and juridical and institutional functions, is found in the strategic position on the top of Mount Titano, the historic urban layout, urban spaces and many public monuments. San Marino has a widely recognised iconic status as a symbol of a free city-state, illustrated in political debate, literature and arts through the centuries. The defensive walls and the historic centre have undergone changes over time that include intensive restoration and reconstruction between the end of the 19th century and the first decades of the 20th century, a process that can be considered to be part of the history of the property and reflects changing approaches to conservation and presentation of heritage over time. Criterion (iii): San Marino and Mount Titano are an exceptional testimony of the establishment of a representative democracy based on civic autonomy and self-governance, with a unique, uninterrupted continuity as the capital of an independent republic since the 13th century. San Marino is an exceptional testimony to a living cultural tradition that has persisted over the last seven hundred years. The Historic Centre of San Marino on Mount Titano includes all the elements which constituted the foundations of this identity and during the medieval period of the Italian city-states. Many elements of the historic centre have been preserved or, if renewed, form part of a long tradition. The interventions carried out during the 20th century could be seen as affecting the integrity, but are also a part of the history of the property. There is a high degree of authenticity of the location and setting of the city of San Marino. With regard to functions and uses, there is a continuity related to the role of the historic city as capital of the small state. Restoration and reconstruction works carried out under the direction of Gino Zani may be considered as a part of the history of the property and an application of the theoretical principles stemming from the Romantic restoration movement. In this case, the idea of the “medievalisation” of the historic centre can be considered as an expression of national identity through the search for an idealised image of the historic centre. The protection of the property is adequate, although there are a considerable number of legal protective instruments and more specific legal instruments regarding protection of the built heritage and of the surrounding landscape are required. The historic centre has not been subject to major interventions after the 1930s and the public monuments and open spaces are in a good state of conservation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 55,
+          "square_km": 0.55,
+          "square_miles": 0.223,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/cc5d41d7b3f4a072083d6594eccaba0a",
+          "filename": "site_1245_0001-500-0-20231020130635.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114190/site_1245_0001.jpg",
+            "https://whc.unesco.org/document/143898/site_1245_0019.jpg",
+            "https://whc.unesco.org/document/143891/site_1245_0012.jpg",
+            "https://whc.unesco.org/document/143892/site_1245_0013.jpg",
+            "https://whc.unesco.org/document/143894/site_1245_0015.jpg",
+            "https://whc.unesco.org/document/143895/site_1245_0016.jpg",
+            "https://whc.unesco.org/document/143896/site_1245_0017.jpg",
+            "https://whc.unesco.org/document/143897/site_1245_0018.jpg",
+            "https://whc.unesco.org/document/143899/site_1245_0020.jpg",
+            "https://whc.unesco.org/document/143900/site_1245_0021.jpg",
+            "https://whc.unesco.org/document/143901/site_1245_0022.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "San Marino Historic Centre and Mount Titano",
+            "ref": "1245",
+            "latitude": 43.9327777778,
+            "longitude": 12.4519444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1245",
+        "unesco_documents": "https://whc.unesco.org/en/list/1245/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1245/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1245/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "San Marino Historic Centre and Mount Titano San Marino Historic Centre and Mount Titano covers 55 ha, including Mount Titano and the historic centre of the city which dates back to the foundation of the republic as a city-state in the 13th century. San Marino is inscribed as a testimony to the continuity of a free republic since the Middle Ages. The inscribed city centre includes fortification towers, walls, gates and bastions, as well as a neo-classical basilica of the 19th century, 14th and 16th century convents, and the Palazzo Publico of the 19th century, as well as the 18th century Titano Theatre. The property represents an historical centre still inhabited and preserving all its institutional functions. Thanks to its position on top of Mount Titano, it was not affected by the urban transformations that have occurred from the advent of the industrial era to today. San Marino Historic Centre and Mount Titano covers 55 ha, including Mount Titano and the historic centre of the city which dates back to the foundation of the republic as a city-state in the 13th century. San Marino is inscribed as a testimony to the continuity of a free republic since the Middle Ages. The inscribed city centre includes fortification towers, walls, gates and bastions, as well as a neo-classical basilica of the 19th century, 14th and 16th century convents, and the Palazzo Publico of the 19th century, as well as the 18th century Titano Theatre. The property represents an historical centre still inhabited and preserving all its institutional functions. Thanks to its position on top of Mount Titano, it was not affected by the urban transformations that have occurred from the advent of the industrial era to today. San Marino Europe and North America Cultural"
+    }
+  ]
+}

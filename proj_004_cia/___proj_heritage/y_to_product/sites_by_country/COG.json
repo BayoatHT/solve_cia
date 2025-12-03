@@ -1,0 +1,366 @@
+{
+  "country": {
+    "code": "COG",
+    "name": "Congo"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "sangha_trinational",
+      "uuid": "1eb05807-650a-5802-ae72-a475b988cee9",
+      "unesco_id": "1380",
+      "names": {
+        "en": "Sangha Trinational",
+        "fr": "Trinational de la Sangha",
+        "es": "Sitio trinacional de Sangha",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COG": {
+            "name": "Congo",
+            "iso2": "CG",
+            "iso3": "COG"
+          },
+          "CMR": {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "iso3": "CMR"
+          },
+          "CAF": {
+            "name": "Central African Republic",
+            "iso2": "CF",
+            "iso3": "CAF"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+          "fr": "Situé dans le nord-ouest du bassin du Congo, au point de rencontre du Cameroun, du Congo et de la République centrafricaine, le site comprend trois parcs nationaux contigus, couvrant une superficie totale de 750 000 hectares, très peu affectés par l’activité humaine. On y trouve l’ensemble du spectre des écosystèmes de forêts tropicales humides. Les riches faune et flore comprennent notamment des crocodiles du Nil et des poissons-tigres Goliath, grands prédateurs. Les clairières offrent des espèces herbacées et la Sangha abrite des populations considérables d’éléphants de forêt, ainsi que des gorilles des plaines de l’ouest (en danger critique d’extinction) et des chimpanzés (en danger). L’environnement du site a permis la poursuite des processus écologiques et évolutionnaires sur une large échelle, ainsi que le maintien d’une grande biodiversité, comprenant de nombreuses espèces en danger.",
+          "es": "Situado en la cuenca noroccidental del río Congo, en el punto de confluencia de las fronteras del Camerún, la República del Congo y la República Centroafricana, este sitio abarca tres parques nacionales contiguos que totalizan una superficie de más de 750.000 hectáreas, donde las actividades humanas apenas han alterado la naturaleza. El sitio cuenta con una vasta gama de ecosistemas de bosque tropical húmedo, y también con una flora y fauna muy ricas. Esta última comprende especies como el cocodrilo del Nilo y un gran predador: el pez tigre Goliat. En los claros de bosque crecen especies herbáceas, y la región de Sangha alberga una población considerable de elefantes de bosque, así como gorilas de las planicies occidentales (en grave peligro de extinción) y chimpancés (una especie también amenazada). El entorno del sitio ha permitido una continuidad de los procesos ecológicos y evolutivos a gran escala, así como la preservación de una gran biodiversidad que abarca numerosas especies animales en peligro de extinción.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+        "justification": "Brief synthesis Sangha Trinational (TNS) is a transboundary conservation complex in the North-western Congo Basin where Cameroon, the Central African Republic and the Republic of Congo meet. TNS encompasses three contiguous national parks totalling a legally defined area of 746,309 hectares. These are Lobéké National Park in Cameroon, Dzanga-Ndoki National Park in the Central African Republic and Nouabalé-Ndoki National Park in the Republic of Congo. Dzanga-Ndoki National Park is comprised of two distinct units. The parks are embedded in a much larger forest landscape, sometimes referred to as the TNS Landscape. A buffer zone of 1,787,950 hectares has been established in recognition of the importance of the broader landscape and its inhabitants for the future of the property. The buffer zone inlcudes Dzanga-Sanga Forest Reserve in the Central African Republic, which connects the two units of Dzanga-Ndoki National Park. Natural values and features include the ongoing ecological and evolutionary processes in a mostly intact forest landscape at a very large scale. Numerous and diverse habitats such as tropical forests comprised of deciduous and evergreen species, a great diversity of wetland types, including swamp forests and periodically flooded forests and many types of forest clearings of major conservation importance continue to be connected at a landscape level. This mosaic of ecosystems harbours viable populations of complete faunal and floral assemblages, including top predators and rare and endangered species, such as Forest Elephants, Gorillas, Chimpanzees, and several antelope species, such as the Sitatunga and the emblematic Bongo. Criterion (ix): The property is characterised by its large size, further supported by the very large buffer zone, minimal disturbance over long periods and intactness thereby enabling the continuation of ecological and evolutionary processes at a huge scale. This includes the continuous presence of viable populations and natural densities of wildlife, including top predators and large mammals which are often affected by hunting and poaching elsewhere. There is a fully connected mosaic of very diverse habitats, including numerous types of ecologically remarkable forest clearings attracting major wildlife aggregations and countless plant species otherwise not found in the forest landscape. Unlike many other forest protected areas, the property is not a remaining fragment but continues to be part of a much larger intact and landscape with good conservation prospects. This is increasingly rare and significant at a global scale. Criterion (x): The property represents a wide spectrum of the species-rich humid tropical forests in Central Africa’s Congo Basin, and provides protection for a range of endangered species. The flora is enriched by species occurring exclusively in the many types of forest clearings. TNS protects a large number of tree species which are heavily commercially exploited elsewhere, such as the critically endangered Mukulungu. In addition to viable populations of forest elephants, significant populations of the critically endangered Western Lowland Gorilla and the endangered Chimpanzee occur both in and around the property, together with several endangered antelope species, such as the Sitatunga and the emblematic Bongo. Integrity The boundaries of the property coincide with the boundaries of three existing national parks thereby forming a large and contiguous protected area in the heart of the broader TNS Landscape. The entire property is surrounded by a large buffer zone in all three countries which responds to the intricate ecological linkages between the property and its surroundings. This approach provides an umbrella for land-use planning and for integrating the legitimate livelihood needs of local and indigenous communities with nature conservation within the broader TNS landscape. Logging and hunting is banned in the national parks. In addition, the remoteness of TNS adds a natural layer of protection from resource exploitation. It will be essential to ensure that the future activities in the buffer zones, including forest and wildlife management, tourism, agriculture and infrastructure are fully compatible with the conservation objectives for TNS so the surrounding landscape will satisfy the needs of local and indigenous communities while indeed serving as a “buffer” for the property. Protection and management requirements There is strong and committed joint management of the property bringing together all three States Parties, an indispensable permanent requirement. The three national parks that make up the property all have management and administrative staff provided by governments and if needed complemented through international support from non-governmental organizations, as well as multi-lateral and bi-lateral agencies. Management, law enforcement, research, monitoring and tourism all require coordination across the national boundaries. There is a Trinational Monitoring and Action Committee (Comité Trinational de Suivi et d'Action), bringing together the three countries at the ministerial level. A Trinational Monitoring Committee unites the three countries at the level of regional administrations. These mechanisms are effective in providing a joint protection and management approach to the property, and will need to be maintained and built upon. The rights and traditional livelihoods of local and indigenous peoples, such as the BaAkas, are a fundamental and increasingly recognised element in the management of the property. Whereas in Lobéké National Park (Cameroon) there are use zones within the park, in the Central African Republic and the Republic of Congo, local resource use, including indigenous hunting and gathering, is not permitted in the protected areas thereby affecting local livelihoods and creating the potential for conflict. This illustrates the crucial importance of finding an overall balance between nature conservation and local resource use in the broader landscape. The significantly enlarged buffer zone presents an opportunity to better understand and integrate the livelihood needs but also the knowledge of local and indigenous communities under the umbrella of a living TNS landscape. The inscription on the World Heritage List presents a concrete opportunity for the States Parties to translate a range of different commitments of the States Parties regarding the rights of local and indigenous people into action on the ground. Maintaining the ecological values of the property will not only depend on law enforcement but eventually both on the standards of commercial resource extraction in the buffer zone and the acceptance and support of parks by the local and indigenous communities in the surrounding landscape."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 746309,
+          "square_km": 7463.09,
+          "square_miles": 3020.21,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6e3a6857a4d692c70b6e9c0739557d60",
+          "filename": "site_1380_0001-500-0-20200604183311.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115221/site_1380_0001.jpg",
+            "https://whc.unesco.org/document/117156/site_1380_0002.jpg",
+            "https://whc.unesco.org/document/117157/site_1380_0003.jpg",
+            "https://whc.unesco.org/document/117158/site_1380_0004.jpg",
+            "https://whc.unesco.org/document/117159/site_1380_0005.jpg",
+            "https://whc.unesco.org/document/117160/site_1380_0006.jpg",
+            "https://whc.unesco.org/document/117162/site_1380_0008.jpg",
+            "https://whc.unesco.org/document/117163/site_1380_0009.jpg",
+            "https://whc.unesco.org/document/117164/site_1380_0010.jpg",
+            "https://whc.unesco.org/document/131982/site_1380_0011.jpg",
+            "https://whc.unesco.org/document/131983/site_1380_0012.jpg",
+            "https://whc.unesco.org/document/131984/site_1380_0013.jpg",
+            "https://whc.unesco.org/document/131985/site_1380_0014.jpg",
+            "https://whc.unesco.org/document/131986/site_1380_0015.jpg",
+            "https://whc.unesco.org/document/131987/site_1380_0016.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Parc National de Lobeké - Cameroon",
+            "ref": "1380rev-002",
+            "latitude": 2.3672222223,
+            "longitude": 15.8141666667
+          },
+          {
+            "name": "Parc National de Dzanga-Ndoki – CAR",
+            "ref": "1380rev-003",
+            "latitude": 2.9166666667,
+            "longitude": 16.4241666667
+          },
+          {
+            "name": "Parc National de Nouabalé-Ndoki - Congo",
+            "ref": "1380rev-001",
+            "latitude": 2.6094444444,
+            "longitude": 16.5541666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1380",
+        "unesco_documents": "https://whc.unesco.org/en/list/1380/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1380/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1380/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sangha Trinational Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species. Congo Cameroon Central African Republic Africa Natural"
+    },
+    {
+      "site_key": "forest_massif_of_odzala_kokoua",
+      "uuid": "9bd7295f-78f4-51bb-b9a6-bc9afb56a083",
+      "unesco_id": "692",
+      "names": {
+        "en": "Forest Massif of Odzala-Kokoua",
+        "fr": "Massif Forestier d’Odzala-Kokoua",
+        "es": "Macizo forestal de Odzala-Kokua",
+        "ru": "Лесной массив Одзала-Кокуа",
+        "ar": "سلسلة غابات أودزالا-كوكوا",
+        "zh": "奥扎拉-科科阿森林高地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COG": {
+            "name": "Congo",
+            "iso2": "CG",
+            "iso3": "COG"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property is an excellent example, at an exceptionally large-scale, of the process of post-glacial forest recolonization of savanna ecosystems. It is therefore ecologically significant as a convergence point of multiple ecosystem types (Congolese Forest, Lower Guinean Forest and Savanna). The broad range of age classifications across the forest succession spectrum contributes to the park’s highly distinct ecology, incorporating a broad range of remarkable ecological processes. It is one of the most important strongholds for forest elephants in Central Africa, and is recognized as the park with the richest primate diversity in the region.",
+          "fr": "Ce bien représente un excellent exemple, à une échelle exceptionnellement vaste, du processus de reconquête postglaciaire de la forêt sur les écosystèmes de savane. Il est donc écologiquement important en tant que point de convergence de types d’écosystèmes multiples (forêt congolaise, forêt basse-guinéenne et savane). La vaste gamme des classes d’âge à travers le spectre de la succession forestière contribue à l’écologie très distincte du parc, intégrant un vaste éventail de processus écologiques remarquables. C’est l’un des bastions les plus importants des éléphants de forêt en Afrique centrale, et il est reconnu comme le parc ayant la diversité de primates la plus riche d’Afrique centrale.",
+          "es": "Este sitio es un excelente ejemplo, a una escala excepcional, del proceso de recolonización forestal postglaciar de los ecosistemas de sabana. Por lo tanto, es ecológicamente significativo como punto de convergencia entre múltiples tipos de ecosistemas (bosque congoleño, bosque de la Baja Guinea y sabana). La amplia gama de clasificaciones de edad a lo largo del espectro de sucesión forestal contribuye a la ecología altamente diferenciada del parque, que incorpora una amplia variedad de procesos ecológicos notables. Es uno de los reductos más importantes para los elefantes de bosque en África Central, y está reconocido como el parque con la diversidad de primates más rica de la región.",
+          "ru": "Этот объект является прекрасным примером исключительно масштабного процесса послеледниковой лесной реколонизации экосистем саванны. Поэтому он экологически значим как место слияния нескольких типов экосистем (Конголезский лес, Нижнегвинейский лес и Саванна). Широкий диапазон возрастных классификаций в сукцессионном ряде лесов обусловливает весьма своеобразную экологию парка, включающую широкий спектр удивительных экологических процессов. Он является одной из важнейших территорий для обитания лесных слонов в Центральной Африке и признан парком с самым богатым разнообразием приматов в регионе.",
+          "ar": "إنّ هذا الموقع الواسع النطاق خير مثال استثنائي على عملية إعادة انتشار نظم السافانا البيئية في الغابات بعد العصر الجليدي، الأمر الذي يكسبه أهمية بيئية باعتباره بوتقة تنصهر فيها أنواع متعددة من النظم البيئية (مثل الغابات الكونغولية وغابات غينيا السفلى والسافانا). تساهم المجموعة الواسعة من الحدود العمرية عبر طيف تعاقب الغابات في بلورة التنوع البيئي المميز الذي يكتنزه المنتزه، والذي يضم مجموعة واسعة من العمليات البيئية الرائعة. وهو واحد من أهم معاقل أفيال الغابات في وسط أفريقيا، ومعترف به كمنتزه يحتوي على أغنى تنوع من فصائل الرئيسيات في المنطقة.",
+          "zh": "这一遗产地是处规模极大的类别典型，展现了冰期后森林回迁形成稀树草原生态系统的进程。作为多个生态系统类型（刚果森林、下几内亚森林和稀树草原）的交汇点，它具有重要的生态意义。这里的森林广泛覆盖了演替过程中的众多年代，使公园呈现高度独特的生态环境，蕴含突出且多样的生态进程。该遗产地是森林象最重要的中非栖息地之一，也是本地区灵长类动物多样性最丰富的公园。"
+        },
+        "full": "This property is an excellent example, at an exceptionally large-scale, of the process of post-glacial forest recolonization of savanna ecosystems. It is therefore ecologically significant as a convergence point of multiple ecosystem types (Congolese Forest, Lower Guinean Forest and Savanna). The broad range of age classifications across the forest succession spectrum contributes to the park’s highly distinct ecology, incorporating a broad range of remarkable ecological processes. It is one of the most important strongholds for forest elephants in Central Africa, and is recognized as the park with the richest primate diversity in the region.",
+        "justification": "Brief synthesis The Forest Massif of Odzala-Kokoua (FMOK) is the largest protected area in the transition zone between the Atlantic or Lower Guinean region and the Congolese region (1,179,376 ha), with, however, a preponderance of Lower Guinean affinities. It is nestled in the heart of a vast forest ecosystem spanning 4.7 million hectares. The property constitutes an exceptional representation of the process of forest recolonization over savanna, with, in particular, vast areas of highly diverse Marantaceae forests with a preponderance of Lower Guinean affinities. Two-thirds of the property's habitats represent very different stages and ages of this recolonization process. In addition, the escarpment of Etokou is home to saxicolous and mist forests, ecosystems that are not known to occur elsewhere in northern Congo. The fauna within the property is virtually complete, and its forest ecosystem remains fully functional. Criterion (ix): The forest ecosystem is characterized by its great diversity of formations of very different ages over an enormous area. The property represents all stages of the savanna-to-forest succession process. Marantaceae forests cover around 60% of the property. These forests are highly diversified, representing both progressive succession stages, as seen in other sites in west-central Africa, and regressive stages where mature forests are invaded by the highly aggressive Marantaceae species Haumania liebrechtsiana. The forest dynamics within FMOK are driven by complex and still insufficiently understood ecological processes. The presence of more than 130 marshy clearings maintained by wildlife is not exceptional in itself, but contributes greatly to the significance of the property. These clearings function as vital exchange hubs for nutrients and play a critical role in determining the movements of elephants, which are essential agents of forest dynamics. Moreover, this forest ecosystem, with predominant Lower Guinean affinities, is highly representative of the forests within the Sangha interval and, more specifically, of the advancing front of Lower Guinean forests as they reclaim savanna areas. This virtually untouched forest ecosystem helps to preserve the integrity of the waters of the Mambili basin, and thus the vast interface between terrestrial and aquatic environments. Criterion (x): The FMOK's intact forest ecosystem is home to little-studied forest formations, including old-growth, saxicolous and mist forests. These mist forests are unique to northern Congo and the Sangha interval, and they provide habitat for at least 32 plant species that are not found elsewhere in the region, including one endemic species. In all, 1,150 plant species have been identified, of which four are endemic and 15 are classified as threatened to varying degrees. In terms of fauna, this ecosystem supports at least 120 species of mammals. These include 20 threatened species and 17 primate species, including 9 species endemic or sub-endemic to Lower Guinea. The populations of 6,246 forest elephants, 11,481 gorillas, and 2,240 chimpanzees represent significant strongholds for the conservation of these threatened species. Notably, the only known population of forest-dwelling spotted hyenas in the Congo Basin occurs within the property. In terms of avian diversity, 463 bird species have been recorded, including 64% of the 278 forest species restricted to the Guinean-Congolese region, or 88% of the Guineo-Congolian bird species documented in Congo, two of the six endemic species of Lower Guinea and four threatened species. The insect fauna includes at least 647 species of diurnal butterflies, featuring one locally endemic species, numerous sub-endemic species of Lower Guinea, and several species that appear to be confined to the region’s Marantaceae forests. Lastly, the FMOK is also home to significant populations of threatened long-snouted crocodiles, dwarf crocodiles and two endemic fish species. Integrity The FMOK forest ecosystem spans 1,179,376 ha, and is further safeguarded by a buffer zone, bringing the total area to 5,386,236 ha. The property itself is almost 100% intact. The buffer zone (4,206,860 ha) includes the eco-development zone of Odzala-Kokoua National Park (PNOK) (187,843 ha), forestry concessions on the immediate periphery of the park (3,640,514 ha), the Lossi Gorilla Sanctuary (35,000 ha), and a section of the Espace TRIDOM Interzone Congo (ETIC) (343,503 ha). The forests in this buffer zone are all sustainably managed or FSC-certified. These areas support a human population of around 40,000 inhabitants. Mining operations on the outskirts of the FMOK have resulted in mercury contamination of the Lékoli river. Extreme vigilance is therefore required in this area. However, due to its substantial size, slightly accentuated but present relief, dense hydrographic network, phytogeographic ecological gradients, and its large buffer zone, the FMOK ecosystem possesses the resilience needed to withstand future development projects in northern Congo, population expansion, and anticipated climate change impacts. Nevertheless, it is important to avoid potential threats stemming from large-scale development and resource extraction, which could compromise the property’s exceptional integrity. Protection and management requirements Apart from activities essential to management, research and tourism, no extractive activities are permitted. Rigorous surveillance measures must be implemented to prevent illegal mining and to require mining companies to perform the mandatory environmental impact assessments for any proposed industrial activities, while ensuring that no mining projects are authorized within the property. Poaching represents the most immediate and pressing threat to the property. Effective anti-poaching strategies, including targeted measures to combat ivory trafficking, are imperative. Alongside the anti-poaching campaign, regular monitoring of the actions taken, the results obtained, and the site’s conditions, is organised. Population estimates for elephants and great apes, as well as surveys of illegal human activities, are conducted at intervals of three to five years. All these activities are codified by law, mainly by the decree creating the PNOK, Law 37-2008 of November 28, 2008 on wildlife and protected areas, and the Forestry Code. These legal provisions incorporate considerations for peripheral local communities and Indigenous Peoples. In their recognition, a designated “community development zone” has been established, which is managed through participatory mapping initiatives. Guaranteeing the rights and livelihoods of local communities and Indigenous Peoples is a fundamental requirement for the protection and effective management of the property. The management of the property must be based on the principle of free, prior, and informed consent of Indigenous Peoples, in accordance with the Operational Guidelines. Finally, the FMOK is surrounded by a 4,206,860-ha buffer zone, comprising sustainably managed and certified forestry concessions. Agreements have been or must be established with these concessions to coordinate anti-poaching efforts. This vast buffer zone of forest concessions extends the forest habitats accessible to species with large home ranges, serves as a protective barrier that isolates the FMOK from various external pressures, and safeguards these forests from being exploited for other uses."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1179376,
+          "square_km": 11793.76,
+          "square_miles": 4772.773,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/28d94341fd7925cf7be31f2bd1c5eabe",
+          "filename": "site_0692_0001.jpg",
+          "dimensions": {
+            "width": 3253,
+            "height": 2169
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/192566/site_0692_0001.jpg",
+            "https://whc.unesco.org/document/192567/site_0692_0002.jpg",
+            "https://whc.unesco.org/document/192568/site_0692_0003.jpg",
+            "https://whc.unesco.org/document/192569/site_0692_0004.jpg",
+            "https://whc.unesco.org/document/192571/site_0692_0006.jpg",
+            "https://whc.unesco.org/document/192572/site_0692_0007.jpg",
+            "https://whc.unesco.org/document/192573/site_0692_0008.jpg",
+            "https://whc.unesco.org/document/192574/site_0692_0009.jpg",
+            "https://whc.unesco.org/document/192575/site_0692_0010.jpg",
+            "https://whc.unesco.org/document/192576/site_0692_0011.jpg",
+            "https://whc.unesco.org/document/192577/site_0692_0012.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Forest Massif of Odzala-Kokoua",
+            "ref": "692rev",
+            "latitude": 1.3355555556,
+            "longitude": 14.8602777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/692",
+        "unesco_documents": "https://whc.unesco.org/en/list/692/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/692/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/692/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Forest Massif of Odzala-Kokoua This property is an excellent example, at an exceptionally large-scale, of the process of post-glacial forest recolonization of savanna ecosystems. It is therefore ecologically significant as a convergence point of multiple ecosystem types (Congolese Forest, Lower Guinean Forest and Savanna). The broad range of age classifications across the forest succession spectrum contributes to the park’s highly distinct ecology, incorporating a broad range of remarkable ecological processes. It is one of the most important strongholds for forest elephants in Central Africa, and is recognized as the park with the richest primate diversity in the region. This property is an excellent example, at an exceptionally large-scale, of the process of post-glacial forest recolonization of savanna ecosystems. It is therefore ecologically significant as a convergence point of multiple ecosystem types (Congolese Forest, Lower Guinean Forest and Savanna). The broad range of age classifications across the forest succession spectrum contributes to the park’s highly distinct ecology, incorporating a broad range of remarkable ecological processes. It is one of the most important strongholds for forest elephants in Central Africa, and is recognized as the park with the richest primate diversity in the region. Congo Africa Natural"
+    }
+  ]
+}

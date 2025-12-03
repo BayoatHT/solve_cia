@@ -1,0 +1,185 @@
+{
+  "site_key": "agra_fort",
+  "uuid": "d1bd5311-c9ae-5940-9a63-ea23340c9fb6",
+  "unesco_id": "251",
+  "names": {
+    "en": "Agra Fort",
+    "fr": "Fort d'Agra",
+    "es": "Fuerte de Agra",
+    "ru": "Форт в городе Агра",
+    "ar": "قلعة أغرا",
+    "zh": "阿格拉古堡"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "IND": {
+        "name": "India",
+        "iso2": "IN",
+        "iso3": "IND"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+      "fr": "À proximité immédiate des jardins du Taj Mahal, le Fort rouge d'Agra, monument significatif du XVIIe siècle moghol, est une puissante citadelle de grès rouge enserrant dans son enceinte de 2,5 km de périmètre la ville impériale, avec un grand nombre de palais féeriques, comme le palais de Jahangir ou le Khas Mahal, bâti par Shah Jahan, des salles d'audience, comme le Diwan-i-Khas, et deux très belles mosquées.",
+      "es": "Situado cerca de los jardines del Taj Mahal, el Fuerte Rojo de Agra es un importante monumento mogol del siglo XVII. Construida con piedra arenisca roja, esta imponente ciudadela encierra en su recinto amurallado de 2,5 km de perímetro un gran número de palacios maravillosos, como el de Jahangir o el Khas Mahal, construido por Shah Jahan, edificios para audiencias, como el Diwan-i-Khas, y dos hermosas mezquitas.",
+      "ru": "Недалеко от садов мавзолея Тадж-Махал расположен важный памятник XVI в., относящийся ко времени Великих Моголов и известный как Красный форт Агры. Эта мощная крепость, построенная из красного песчаника, окружает своими стенами длиной 2,5 км столичный город могольских правителей. Здесь расположен целый ряд сказочно прекрасных сооружений, таких как дворец Джахангира и Кхас-Махал, построенный Шах-Джаханом, зал для аудиенций – Диван-и-Кхас, а также две очень красивых мечети.",
+      "ar": "بمحاذاة حدائق تاج محال تقع قلعة أغرا الحمراء وهي نُصب بالغ الأهمية يعود للقرن المغولي السابع عشر. وهي قلعة قوية شيّدت من الحجر الرملي الأحمر تضمّ في حرمها البالغة مساحته 2.5 كيلومتر المدينة الإمبريالية بعددها الكبير من القصور الخيالية كقصر جهانكير أو خاص محل الذي بناه شاه جهان وبصالات اجتماعاتها كالديوان الخاص، والمسجدين الرائعين.",
+      "zh": "与泰姬花园毗邻的红色阿格拉古堡，是16世纪重要的莫卧儿王朝纪念建筑。它是由红沙石建成的坚固堡垒，围墙长2.5公里，把莫卧儿统治者的皇宫围在中间。古堡里有许多宛如童话故事一样的宫殿，如沙贾汗修建的贾汗吉尔宫或称卡斯宫，有迪凡-伊-卡斯会客厅和两座非常秀丽的清真寺。"
+    },
+    "full": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        3
+      ],
+      "natural": [],
+      "all": [
+        3
+      ],
+      "display": "(iii)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 0,
+      "square_km": 0.0,
+      "square_miles": 0.0,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1983,
+      "all_dates": [
+        1983
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1983,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5dd62500600f54b4c6843b663716c862",
+      "filename": "site_0251_0010-500-0-20240807180746.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 333
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/116895/site_0251_0010.jpg",
+        "https://whc.unesco.org/document/116275/site_0251_0018.jpg",
+        "https://whc.unesco.org/document/109404/site_0251_0001.jpg",
+        "https://whc.unesco.org/document/109405/site_0251_0002.jpg",
+        "https://whc.unesco.org/document/109406/site_0251_0003.jpg",
+        "https://whc.unesco.org/document/109407/site_0251_0004.jpg",
+        "https://whc.unesco.org/document/109408/site_0251_0005.jpg",
+        "https://whc.unesco.org/document/109409/site_0251_0006.jpg",
+        "https://whc.unesco.org/document/116894/site_0251_0009.jpg",
+        "https://whc.unesco.org/document/116896/site_0251_0011.jpg",
+        "https://whc.unesco.org/document/116897/site_0251_0012.jpg",
+        "https://whc.unesco.org/document/116898/site_0251_0013.jpg",
+        "https://whc.unesco.org/document/116899/site_0251_0014.jpg",
+        "https://whc.unesco.org/document/116900/site_0251_0015.jpg",
+        "https://whc.unesco.org/document/116901/site_0251_0016.jpg",
+        "https://whc.unesco.org/document/116902/site_0251_0017.jpg",
+        "https://whc.unesco.org/document/118902/site_0251_0021.jpg",
+        "https://whc.unesco.org/document/118903/site_0251_0022.jpg",
+        "https://whc.unesco.org/document/118904/site_0251_0023.jpg",
+        "https://whc.unesco.org/document/118905/site_0251_0024.jpg",
+        "https://whc.unesco.org/document/125165/site_0251_0026.jpg",
+        "https://whc.unesco.org/document/125168/site_0251_0027.jpg",
+        "https://whc.unesco.org/document/125170/site_0251_0028.jpg",
+        "https://whc.unesco.org/document/125173/site_0251_0029.jpg",
+        "https://whc.unesco.org/document/125174/site_0251_0030.jpg",
+        "https://whc.unesco.org/document/125175/site_0251_0031.jpg",
+        "https://whc.unesco.org/document/136822/site_0251_0032.jpg",
+        "https://whc.unesco.org/document/136823/site_0251_0033.jpg",
+        "https://whc.unesco.org/document/136824/site_0251_0034.jpg",
+        "https://whc.unesco.org/document/136825/site_0251_0035.jpg",
+        "https://whc.unesco.org/document/136826/site_0251_0036.jpg",
+        "https://whc.unesco.org/document/136827/site_0251_0037.jpg",
+        "https://whc.unesco.org/document/136828/site_0251_0038.jpg",
+        "https://whc.unesco.org/document/136829/site_0251_0039.jpg",
+        "https://whc.unesco.org/document/136830/site_0251_0040.jpg",
+        "https://whc.unesco.org/document/136831/site_0251_0041.jpg"
+      ],
+      "count": 36
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Agra Fort",
+        "ref": "251",
+        "latitude": 27.179806,
+        "longitude": 78.021528
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/251",
+    "unesco_documents": "https://whc.unesco.org/en/list/251/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/251/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/251/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Urban",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 42,
+    "inscription_year": 1983
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Agra Fort Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques. Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques. India Asia and the Pacific Cultural"
+}

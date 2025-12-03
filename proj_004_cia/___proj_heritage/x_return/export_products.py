@@ -254,7 +254,7 @@ def export_complete_dataset(normalized_sites: List[Dict], aggregations: Dict, st
 
 def export_all_products(data: Dict) -> None:
     """
-    Export all data products.
+    Export all data products in multiple formats.
 
     Args:
         data: Output from extract_all_sites()
@@ -273,7 +273,7 @@ def export_all_products(data: Dict) -> None:
     aggregations = data['aggregations']
     stats = data['stats']
 
-    # Export all product types
+    # Export JSON products
     export_sites_by_key(normalized_sites, indexes)
     export_sites_by_country(aggregations, indexes)
     export_sites_by_region(aggregations, indexes)
@@ -281,6 +281,18 @@ def export_all_products(data: Dict) -> None:
     export_special_collections(aggregations, indexes)
     export_complete_dataset(normalized_sites, aggregations, stats)
 
+    # Export alternative formats
+    from .export_geojson import export_geojson, export_geojson_by_country
+    from .export_csv import export_csv, export_csv_summary
+    from .export_lightweight import export_lightweight, export_api_index
+
+    export_geojson(normalized_sites)
+    export_geojson_by_country(aggregations, indexes)
+    export_csv(normalized_sites)
+    export_csv_summary(normalized_sites)
+    export_lightweight(normalized_sites)
+    export_api_index(normalized_sites)
+
     app_logger.info("=" * 60)
-    app_logger.success("✓ ALL PRODUCTS EXPORTED")
+    app_logger.success("✓ ALL PRODUCTS EXPORTED (JSON, GeoJSON, CSV, Lightweight)")
     app_logger.info("=" * 60)

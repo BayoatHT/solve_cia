@@ -1,0 +1,1368 @@
+{
+  "country": {
+    "code": "LKA",
+    "name": "Sri Lanka"
+  },
+  "total_sites": 8,
+  "sites_by_category": {
+    "Cultural": 6,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "ancient_city_of_sigiriya",
+      "uuid": "70705268-856c-55cd-a266-16b5e449c12b",
+      "unesco_id": "202",
+      "names": {
+        "en": "Ancient City of Sigiriya",
+        "fr": "Ville ancienne de Sigiriya",
+        "es": "Antigua ciudad de Sigiriya",
+        "ru": "Древний город Сигирия",
+        "ar": "مدينة سيغيريا القديمة",
+        "zh": "锡吉里亚古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.",
+          "fr": "Sur les pentes abruptes et au sommet d'un rocher de pierre rouge haut de 180m, le « Rocher du Lion », qui domine la jungle de toutes parts, subsistent les ruines de la citadelle dont le roi parricide Kassyapa (477-495) fit sa capitale. Une série de galeries et d'escaliers qui débouchent dans la gueule d'un lion colossal construit en brique et en plâtre permettent d'accéder au site.",
+          "es": "En la cumbre y las abruptas laderas de la “Roca del León” –un peñasco granítico de 180 metros de altura desde el que se domina toda la jungla circundante– se hallan las ruinas de la ciudad en la que el rey parricida Kassapa I (477–495) asentó su capital. Al sitio se accede por una serie de galerías y escaleras que salen de las fauces de un colosal león construido con ladrillos y yeso.",
+          "ru": "Руины королевской резиденции, которую построил царь-отцеубийца Кассапа I (477-495 гг.), расположены на крутых склонах и на вершине гранитной скалы – это так называемая “Львиная скала”, возвышающаяся над окружающими джунглями на 180 м. Пройти в резиденцию можно было по лестнице, которая проходила через пасть гигантского льва, сооруженного из кирпича и покрытого штукатурным раствором.",
+          "ar": "لا تزال أنقاض القلعة التي جعل منها الملك كاسيابا الذي قتل والده (477 – 495) عاصمته قائمة على المنحدرات الوعرة وعلى قمة صخرة من الحجر الأحمر ترتفع الى 180 متراً وتعرف بصخرة الأسد المشرفة على الأدغال من الجهات كلها. ويمكن النفاذ الى هذا الموقع عبر مجموعة من الأروقة والأدراج التي تصب في فم أسد ضخم مصنوع من القرميد والجص.",
+          "zh": "锡吉里亚古城是弑亲的迦叶波一世（公元477-495年）时所建国都的遗址。锡吉里亚古城遗址位处陡峭的斜坡之上，位于高达180米的花岗岩山峰峰顶“狮子岩”上，这里人们可以从四面俯视整个丛林。用砖和灰泥修筑的长廊和台阶从巨狮口中延伸而出，通向锡吉里亚古城遗址 。"
+        },
+        "full": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/674a5d6d6a50affa5785f545e1e7bccf",
+          "filename": "site_0202_0002-500-0-20151105161019.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 334
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109082/site_0202_0002.jpg",
+            "https://whc.unesco.org/document/109083/site_0202_0003.jpg",
+            "https://whc.unesco.org/document/109084/site_0202_0004.jpg",
+            "https://whc.unesco.org/document/109085/site_0202_0005.jpg",
+            "https://whc.unesco.org/document/109086/site_0202_0006.jpg",
+            "https://whc.unesco.org/document/109087/site_0202_0007.jpg",
+            "https://whc.unesco.org/document/109088/site_0202_0008.jpg",
+            "https://whc.unesco.org/document/109089/site_0202_0009.jpg",
+            "https://whc.unesco.org/document/109090/site_0202_0010.jpg",
+            "https://whc.unesco.org/document/130131/site_0202_0019.jpg",
+            "https://whc.unesco.org/document/130132/site_0202_0020.jpg",
+            "https://whc.unesco.org/document/130133/site_0202_0021.jpg",
+            "https://whc.unesco.org/document/130134/site_0202_0022.jpg",
+            "https://whc.unesco.org/document/130135/site_0202_0023.jpg",
+            "https://whc.unesco.org/document/130136/site_0202_0024.jpg",
+            "https://whc.unesco.org/document/136730/site_0202_0025.jpg",
+            "https://whc.unesco.org/document/136731/site_0202_0026.jpg",
+            "https://whc.unesco.org/document/136732/site_0202_0027.jpg",
+            "https://whc.unesco.org/document/136733/site_0202_0028.jpg",
+            "https://whc.unesco.org/document/136734/site_0202_0029.jpg",
+            "https://whc.unesco.org/document/136735/site_0202_0030.jpg",
+            "https://whc.unesco.org/document/136736/site_0202_0031.jpg",
+            "https://whc.unesco.org/document/136737/site_0202_0032.jpg",
+            "https://whc.unesco.org/document/136739/site_0202_0033.jpg",
+            "https://whc.unesco.org/document/136741/site_0202_0034.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient City of Sigiriya",
+            "ref": "202",
+            "latitude": 7.95,
+            "longitude": 80.75
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/202",
+        "unesco_documents": "https://whc.unesco.org/en/list/202/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/202/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/202/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Sigiriya The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site. The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site. Sri Lanka Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "sacred_city_of_anuradhapura",
+      "uuid": "4decbfff-ea45-56f6-82f3-1043199b9711",
+      "unesco_id": "200",
+      "names": {
+        "en": "Sacred City of Anuradhapura",
+        "fr": "Ville sainte d'Anuradhapura",
+        "es": "Ciudad santa de Anuradhapura",
+        "ru": "Священный город Анурадхапура",
+        "ar": "مدينة أنوردابورا",
+        "zh": "阿努拉德普勒圣城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again.",
+          "fr": "Cette ville sacrée s'est établie autour d'une bouture de l'« arbre de l'éveil », le figuier de Bouddha, dont la bouture fut apportée au IIIe siècle av. J.-C. par Sanghamitta, fondatrice d'un ordre bouddhiste féminin. Anuradhapura, capitale politique et religieuse de Ceylan pendant 1 300 ans, a été abandonnée en 993 à la suite d'invasions. Longtemps ensevelie sous une jungle épaisse, la ville, avec ses palais, ses monastères et autres monuments, est de nouveau accessible dans son site admirable.",
+          "es": "Esta ciudad sagrada se estableció en torno a un retoño del “árbol de la iluminación” –la higuera de Buda– traído desde la India en el siglo III a.C. por Sanghamitta, fundadora de una orden de monjas budistas. Anuradhapura fue la capital política y religiosa de Sri Lanka por espacio de trece siglos, hasta su destrucción y abandono a raíz de una invasión sobrevenida el año 993. Oculto bajo la espesura de la jungla durante mucho tiempo, el espléndido sitio de la ciudad, con sus palacios, monasterios y monumentos, es de nuevo accesible.",
+          "ru": "Этот священный город был основан вокруг саженца-отростка от «дерева просветления» – фигового дерева Будды, завезенного сюда в III в. до н.э. Сангхамиттой, основательницей ордена буддийских монахинь. Город Анурадхапура являлся политической и религиозной столицей на острове Цейлон и процветал в течение 1300 лет, а затем был заброшен после вторжения в 993 г. армии государства Чола с континента. Будучи многие годы скрытым в густых джунглях, это замечательное место с дворцами, монастырями и памятниками сейчас снова доступно.",
+          "ar": "شيدت هذه المدينة حول غرسة لشجرة اليقظة أو شجرة التين المقدسة التي كان يجلس بوذا في ظلها والتي جاءت سانغاميتا (وهي مؤسسة رهبانية بوذية للإناث) بغرستها في القرن الثالث قبل الميلاد. اما مدينة أنورادابورا التي كانت العاصمة السياسية والدينية لسيلان (حاليا سريلانكا) طيلة 1300 عام فقد هجرت عام 993 إثر تعرضها للغزوات. وقد عادت الطريق اليها سالكة للتمتع بموقعها الرائع وقصورها واديرتها وسائر نصبها بعد أن قبعت دفينة لزمن طويل تحت الأدغال الكثيفة.",
+          "zh": "公元前3世纪，斯里兰卡佛教尼姑会的创始人桑哈米塔把一枝从佛教“启蒙树”无花果树上剪下的枝条带回到锡兰（今斯里兰卡），以这枝无花果枝条为中心人们建起了阿努拉德普勒圣城。阿努拉德普勒圣城曾是锡兰的政治和宗教中心，有一千三百多年的辉煌历史。公元993年时，因遭遇外敌入侵，这座圣城被人们遗弃。在茂密的丛林中隐藏了许多年后，这座古圣城的遗址又重新被人们发现，她那恢宏的宫殿，轩昂的庙宇向世人展示着阿努拉达普拉圣城曾经的辉煌。"
+        },
+        "full": "This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7d5db8759d863531900c1773d52fd835",
+          "filename": "site_0200_0001.jpg",
+          "dimensions": {
+            "width": 6700,
+            "height": 4472
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136482/site_0200_0001.jpg",
+            "https://whc.unesco.org/document/136483/site_0200_0002.jpg",
+            "https://whc.unesco.org/document/136484/site_0200_0003.jpg",
+            "https://whc.unesco.org/document/136485/site_0200_0004.jpg",
+            "https://whc.unesco.org/document/136486/site_0200_0005.jpg",
+            "https://whc.unesco.org/document/136487/site_0200_0006.jpg",
+            "https://whc.unesco.org/document/136488/site_0200_0007.jpg",
+            "https://whc.unesco.org/document/136489/site_0200_0008.jpg",
+            "https://whc.unesco.org/document/136490/site_0200_0009.jpg",
+            "https://whc.unesco.org/document/136491/site_0200_0010.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sacred City of Anuradhapura",
+            "ref": "200",
+            "latitude": 8.333333333,
+            "longitude": 80.38333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/200",
+        "unesco_documents": "https://whc.unesco.org/en/list/200/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/200/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/200/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sacred City of Anuradhapura This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again. This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again. Sri Lanka Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "sacred_city_of_kandy",
+      "uuid": "1aebc0da-d5a2-5d0c-a3c5-4a043c523eaa",
+      "unesco_id": "450",
+      "names": {
+        "en": "Sacred City of Kandy",
+        "fr": "Ville sacrée de Kandy",
+        "es": "Ciudad sagrada de Kandy",
+        "ru": "Священный город Канди",
+        "ar": "مدينة كاندي المقدسة",
+        "zh": "康提圣城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.",
+          "fr": "Ce site sacré du bouddhisme, communément appelé « ville de Senkadagalapura », a été la dernière capitale des rois de Sinhala dont le mécénat a permis à la culture de Dinahala de s'épanouir pendant plus de 2 500 ans, jusqu'à l'occupation de Sri Lanka par les Britanniques en 1815. C'est aussi le site du temple de la Dent du Bouddha, célèbre lieu de pèlerinage.",
+          "es": "Conocida comúnmente por el nombre de Senkadagalapura, esta ciudad sagrada del budismo fue la última capital de los reyes sinhalas. Gracias al mecenazgo de estos monarcas, la cultura cingalesa floreció durante más de 25 siglos, hasta la ocupación de Sri Lanka por los británicos en 1815. En Kandy está emplazado el Templo del Diente de Buda, célebre lugar de peregrinación.",
+          "ru": "Это священное для буддистов место широко известно как город Сенкадагалапура. Город был последней столицей сингальских царей, под чьим покровительством здесь в течение более чем 2,5 тыс. лет, вплоть до завоевания Шри-Ланки англичанами в 1815 г., процветала оригинальная культура. Также здесь находится «Храм Зуба Будды» – священное место паломничества.",
+          "ar": "شكل هذا الموقع المقدس بالنسبة الى الديانة البوذية المعروف بمدينة سينكاداغالابورا العاصمة الأخيرة لملوك سينهالا التي سمحت رعاية الآداب فيها بازدهار ثقافة دينهالا لأكثر من 2500 سنة حتى بدء الاحتلال البريطاني لسريلانكا عام 1815. ويحتوي هذا االموقع ايضاً على معبد السن (سن بوذا) الذي يعتبر محجة شهيرة.",
+          "zh": "康提古城是一个闻名遐迩的佛教圣地，这里曾是孕育了长达2500多年文化的辛哈拉王朝末期时的首府，1815年时，由于英国人的入侵，辛哈拉王朝灭亡。康提古城的佛牙寺里收存着佛祖的圣牙，是著名的佛教朝圣圣地。"
+        },
+        "full": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6bc6c47269e9953d8e8bd7100ed8a31b",
+          "filename": "site_0450_0016-500-0-20151105154015.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 282
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/130137/site_0450_0016.jpg",
+            "https://whc.unesco.org/document/130138/site_0450_0017.jpg",
+            "https://whc.unesco.org/document/130139/site_0450_0018.jpg",
+            "https://whc.unesco.org/document/130140/site_0450_0019.jpg",
+            "https://whc.unesco.org/document/130141/site_0450_0020.jpg",
+            "https://whc.unesco.org/document/130142/site_0450_0021.jpg",
+            "https://whc.unesco.org/document/136750/site_0450_0022.jpg",
+            "https://whc.unesco.org/document/136751/site_0450_0023.jpg",
+            "https://whc.unesco.org/document/136752/site_0450_0024.jpg",
+            "https://whc.unesco.org/document/136753/site_0450_0025.jpg",
+            "https://whc.unesco.org/document/136754/site_0450_0026.jpg",
+            "https://whc.unesco.org/document/136756/site_0450_0027.jpg",
+            "https://whc.unesco.org/document/136758/site_0450_0028.jpg",
+            "https://whc.unesco.org/document/136760/site_0450_0029.jpg",
+            "https://whc.unesco.org/document/136761/site_0450_0030.jpg",
+            "https://whc.unesco.org/document/136763/site_0450_0031.jpg"
+          ],
+          "count": 16
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sacred City of Kandy",
+            "ref": "450",
+            "latitude": 7.293611111,
+            "longitude": 80.64027778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/450",
+        "unesco_documents": "https://whc.unesco.org/en/list/450/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/450/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/450/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sacred City of Kandy This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site. This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site. Sri Lanka Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "old_town_of_galle_and_its_fortifications",
+      "uuid": "653abc81-87a9-57f1-a0b8-67c4a63ede98",
+      "unesco_id": "451",
+      "names": {
+        "en": "Old Town of Galle and its Fortifications",
+        "fr": "Vieille ville de Galle et ses fortifications",
+        "es": "Ciudad vieja de Galle y sus fortificaciones",
+        "ru": "Старая часть и укрепления города Галле",
+        "ar": "مدينة غال القديمة وتحصيناتها",
+        "zh": "加勒老城及其堡垒"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions.",
+          "fr": "Fondée au XVIe siècle par les Portugais, Galle a atteint son apogée au XVIIIe siècle, avant l'arrivée des Britanniques. C'est le meilleur exemple d'une ville fortifiée construite par les Européens en Asie du Sud et du Sud-Est qui illustre l'interaction entre l'architecture européenne et les traditions de l'Asie du Sud.",
+          "es": "Fundada por los portugueses en el siglo XVI, Galle alcanzó su apogeo en el siglo XVIII, antes de la llegada de los británicos. Es el mejor ejemplo de ciudad fortificada construida por los europeos en el Asia Meridional y Sudoriental, en la que se puede apreciar la interacción de la arquitectura europea y las tradiciones arquitectónicas y artísticas del sur de Asia.",
+          "ru": "Основанный в XVI в. португальцами, город достиг своего расцвета в XVIII в., перед тем, как перейти к англичанам. Это лучший пример укрепленного города, построенного европейцами в Южной и Юго-Восточной Азии, демонстрирующий взаимосвязь между архитектурными стилями Европы и традициями Южной Азии.",
+          "ar": "تأسست غال على يد البرتغاليين في القرن السادس عشر لكنها بلغت أوجها في القرن الثامن عشر قبل وصول البريطانيين إليها. وهي تشكل المثال الأفضل للمدن المحصنة التي بناها الاوروبيون في جنوب وجنوب شرق آسيا والتي تجسد التفاعل بين الهندسة الاوروبية وتقاليد جنوب آسيا.",
+          "zh": "加勒老城始建于16世纪，由葡萄牙人所建，在18世纪时达到鼎盛时期，在英国人入侵之后，开始逐渐衰败。加勒老城由南欧人和东南亚人共同修建，是一个融合了欧洲和南亚传统建筑风格的典型堡垒城市。"
+        },
+        "full": "Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions.",
+        "justification": "Brief synthesis Old Town of Galle and its Fortifications is situated on a small rocky promontory on the southwest coast of Sri Lanka. Founded in the 16th century by the Portuguese as a fortified town, Galle reached the height of its development in the 18th century under Dutch colonial rule. It is the best representation of a fortified city built by the Europeans in South Asia, showing the interaction between European planning principles and South Asian architectural traditions. Its street grid represents the typical Dutch tradition of parcelling out blocks with the purpose of creating clusters of buildings within a limited area. Rows of houses with their narrow sides facing the streets and verandas shaded by high overhanging roofs supported on slender columns create distinctive streetscapes. These characteristics, along with internal courtyards, are among the adopted South Asian elements that create the settlement’s unique character. The Old Town also consists of public and administrative buildings that reflect colonial architectural characteristics, but are composed in a manner that is sensitive to the rest of the architectural fabric. The monumental ramparts that fortify the town do not conform precisely to typical European geometric plans. Instead, they follow the existing morphology of the site, where rock outcrops are located within the promontory of Galle. Bastions located at strategic points both seaward and landward together with the ramparts reflect the fortification engineering knowledge developed by the Dutch in the unfamiliar South Asian terrain. Criterion (iv): Galle provides an outstanding example of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries during the period of European expansion in Asia. The most salient feature is the use of European models adapted by local craftspeople to the geological, climatic, historical, and cultural conditions of Sri Lanka. In the structure of the ramparts, coral is frequently used along with granite. In the ground layout, all the measures of length, width, and height conform to the regional metrology. The narrow streets are lined with houses, each with its own garden and an open veranda supported by columns, another sign of the acculturation of an architecture which is European only in its basic design. Among the characteristics that make this an urban ensemble of exceptional value is the original underground drainage system still in use from the 17th century, which is flushed by tidal sea water. Integrity Within the boundaries of Old Town of Galle and its Fortifications are elements and components related to town planning, fortification engineering, and architecture that are necessary to express the Outstanding Universal Value of the property. The fortifications on all sides, which define the property, ensure the complete representation of all features and convey the totality of the value. The physical fabric of these elements is in good condition and has been preserved to express the value. Authenticity The form and design of the original town plan, with its street grid, facades, and the scales of the streetscapes, truly reflect the value of the old town. The architectural form and design as well as the construction materials and techniques of the public and administrative buildings are well preserved. The military design and the construction technique and materials of the ramparts and bastions are also well preserved. The location and setting of the town and its fortifications in relation to its seascape and landscape are also well preserved. Although the original military function has ceased at present, the property still retains its original residential and public/ administrative uses. The property has therefore retained its authenticity. Protection and management requirements The fortifications and some of the public buildings are under the legal ownership of the Department of Archaeology of the Government of Sri Lanka, which administers the Antiquities Ordinance of 1948 (rev. 1998) at the national level. Some selected houses and other buildings are declared as protected monuments under the provision of the Antiquities Ordinance, while most houses remain as private properties. As per the Antiquities Ordinance, no interventions are allowed within 400 yards (366 metres) of a declared monument, and the whole extent of the fort is covered by this regulation. The Department of Archaeology therefore has control over the whole property. In addition, provisions of the Urban Development Authority Law are being applied for better planning control of the property. The Galle Heritage Foundation was created in 1994 under an Act of Parliament with a view to bring all the stakeholders and partners under one umbrella for effective conservation and management of the property. The long-term challenge is to sustain the Outstanding Universal Value of the property as a living city, providing for modern living standards and managing the demand for new uses without compromising the various aspects of its authenticity mentioned above; this is being handled carefully by the Galle Heritage Foundation whose Board of Management is comprised of all the stakeholders including the Department of Archaeology, Urban Development Authority, etc."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/8924f69ce66e8e0517ab7ddcda8ce5ec",
+          "filename": "site_0451_0001-500-0-20121129164600.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 369
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/120535/site_0451_0001.jpg",
+            "https://whc.unesco.org/document/120536/site_0451_0002.jpg",
+            "https://whc.unesco.org/document/120571/site_0451_0003.jpg",
+            "https://whc.unesco.org/document/120572/site_0451_0004.jpg",
+            "https://whc.unesco.org/document/120573/site_0451_0005.jpg",
+            "https://whc.unesco.org/document/120574/site_0451_0006.jpg",
+            "https://whc.unesco.org/document/120575/site_0451_0007.jpg",
+            "https://whc.unesco.org/document/120576/site_0451_0008.jpg",
+            "https://whc.unesco.org/document/120577/site_0451_0009.jpg",
+            "https://whc.unesco.org/document/122803/site_0451_0010.jpg",
+            "https://whc.unesco.org/document/122804/site_0451_0011.jpg",
+            "https://whc.unesco.org/document/136738/site_0451_0012.jpg",
+            "https://whc.unesco.org/document/136740/site_0451_0013.jpg",
+            "https://whc.unesco.org/document/136742/site_0451_0014.jpg",
+            "https://whc.unesco.org/document/136743/site_0451_0015.jpg",
+            "https://whc.unesco.org/document/136744/site_0451_0016.jpg",
+            "https://whc.unesco.org/document/136745/site_0451_0017.jpg",
+            "https://whc.unesco.org/document/136746/site_0451_0018.jpg",
+            "https://whc.unesco.org/document/136747/site_0451_0019.jpg",
+            "https://whc.unesco.org/document/136748/site_0451_0020.jpg",
+            "https://whc.unesco.org/document/136749/site_0451_0021.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old Town of Galle and its Fortifications",
+            "ref": "451",
+            "latitude": 6.028051,
+            "longitude": 80.216346
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/451",
+        "unesco_documents": "https://whc.unesco.org/en/list/451/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/451/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/451/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Town of Galle and its Fortifications Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions. Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions. Sri Lanka Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "sinharaja_forest_reserve",
+      "uuid": "b58f0175-1cda-593c-b625-5cb59ce04d0c",
+      "unesco_id": "405",
+      "names": {
+        "en": "Sinharaja Forest Reserve",
+        "fr": "Réserve forestière de Sinharaja",
+        "es": "Reserva forestal de Sinharaja",
+        "ru": "Лесной резерват Синхараджа",
+        "ar": "محمية سينهاراجا الحرجية",
+        "zh": "辛哈拉加森林保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
+          "fr": "Situé dans le sud-ouest de Sri Lanka, le Sinharaja est la dernière zone viable de forêt tropicale humide primaire du pays. Plus de 60 % des arbres sont endémiques et bon nombre d'entre eux sont considérés comme rares. La faune endémique est nombreuse, notamment les oiseaux et 50 % d'espèces de mammifères et de papillons, ainsi que beaucoup de sortes d'insectes, de reptiles et d'amphibiens rares.",
+          "es": "Situada al sudoeste de Sri Lanka, esta reserva es la última zona viable del primigenio bosque tropical húmedo del país. Más del 60% de sus árboles son endémicos y muchos de ellos pertenecen a especies poco comunes. Las especies endémicas de aves son particularmente numerosas. Además, la reserva alberga más del 50% de las especies endémicas de mamíferos y mariposas de Sri Lanka, así como muchas clases de insectos, reptiles y anfíbios poco comunes.",
+          "ru": "Расположенный в юго-западной части Шри-Ланки, Синхараджа представляет собой последний во всей стране массив девственного влажно-тропического леса. Более 60 % деревьев – это эндемики, причем многие из них признаны редкими. Среди представителей фауны также много эндемиков, особенно среди птиц; кроме того, здесь обитает свыше 50 % эндемичных для Шри-Ланки видов млекопитающих и бабочек; отмечено большое разнообразие насекомых, рептилий и амфибий.",
+          "ar": "تشكل محمية سينهاراجا الواقعة جنوب غرب سريلانكا النقطة الحية الأخيرة من الغابات المدارية الرطبة العذراء في البلاد. ويتألف 60% من هذه الغابات من أشجار مستوطنة، الى جانب عدد كبير من الأشجار التي تعتبر نادرة. اما الحيوانات المستوطنة فكثيرة وتتضمن بشكل خاص الطيور و50% من أصناف الثدييات والفراشات، ناهيك عن أصناف متعددة من الحشرات والزواحف والضفدعيات النادرة.",
+          "zh": "辛哈拉加森林保护区位于斯里兰卡西南部，是斯里兰卡唯一存活的一片原始热带雨林。这里60%以上的树木都是当地特有树种，其中许多属于珍稀树种。保护区里还生存着很多当地特有的野生动物，并以鸟类居多。保护区还是斯里兰卡50%以上的哺乳动物和蝴蝶生存的家园，也是种类繁多的各种昆虫、爬行动物和珍稀两栖动物繁衍生息的地方。"
+        },
+        "full": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
+        "justification": "Brief synthesis Encompassing the last extensive patch of primary lowland rainforest in Sri Lanka, Sinharaja Forest Reserve is situated in the south-west lowland wet zone of Sri Lanka. Covering an area of 8,864 ha and ranging from an altitude of 300 – 1,170 meters, it consists of 6,092 ha of Forest Reserve and 2,772 ha of Proposed Forest Reserve. This narrow strip of undulating terrain encompasses a series of ridges and valleys that are crisscrossed by an intricate network of streams. Draining to both the south and north, this detailed matrix of waterways flow into the Gin River on the southern boundary of the property and Kalu River via the Napola Dola, Koskulana Ganga and Kudawa Ganga on its northern boundary. Annual rainfall over the last 60 years has ranged from 3614 - 5006 mm with most of the precipitation during the south-west monsoon (May-July) and the north-east monsoon (November- January). Sri Lanka is home to 830 endemic species, of which 217 trees and woody climbers are found in the low land wet zone. Of these, 139 (64%) have been recorded in the reserve including 16 rare species. Faunal endemism is particularly high for birds with 19 (95%) of 20 species recorded in the property being endemic to Sri Lanka. Endemism among mammals and butterflies is also greater than 50%. A number of threatened, endangered and rare species occur within the reserve including: leopard (Panthera pardus), Indian elephant (Elephas maxiumus), endemic purple-faced Langur (Presbytis senex), Sri Lanka wood pigeon (Columba torringtoni), green-billed Coucal (Centropus chlororrhynchus), Sri Lanka white-headed starling (Sturnus senex), Sri Lanka blue magpie (Cissa ornate), ashy-headed babbler (Garrulax cinereifrons) and Sri Lanka broad-billed roller (Eurystomus orientalis irisi). Criterion (ix): Sinharaja is the last remaining relatively undisturbed remnant of tropical humid evergreen forest in Sri Lanka. The property’s flora is a relic of Gondwanaland and provides an important component to our scientific understanding of continental drift and an outstanding site for the study of the processes of biological evolution. A geological feature of considerable interest is the presence of the Sinharaja basic zone, with the reserve located within the transition zone of two important rock types characteristic of Sri Lanka; the south-western group and the highland group. Criterion (x): Endemism within the property is extremely high. Protecting the last viable remnant of Sri Lanka’s tropical lowland rainforest, Sinharaja is home to at least 139 endemic plant species within two main types of forest: remnants of Dipterocarpus in the valleys and on the lower slopes, and secondary forest and scrub where the original forest cover has been removed. Sixteen of the endemic plant species within the property are considered rare, including endemic palms Loxococcus rupicola and Atalantia rotundifolia. Faunal endemism is also high, particularly for mammals, birds and butterflies, exceeding 50%. Nineteen (95%) of Sri Lanka’s 20 endemic birds are present in the property, which is also home to leopard and Indian elephant, both of which are threatened species. Integrity Sinharaja Forest Reserve forms a sufficiently large conservation unit for the in-situ conservation of rare and endangered species while sustaining the on-going biological evolutionary processes for which it was inscribed. Surrounded by 13 other adjacent natural forest areas that provide an added layer of protection to the property the boundaries however, require further definition and demarcation. Efforts are also being made by the management agency to further enhance the conservation status of the reserve through regulation of land uses occurring in the area surrounding the property, which hopes to further reduce the impact of intensive land use on the values of Sinharaja. Illicit timber felling, gemming and poaching continue to be of concern with regards to the impacts on the values and integrity of the property, but the high level of public support for nature conservation and the large number of government bodies involved in regulation and proposal approval, results in strong opposition to resource exploitation proposals. Protection and management requirements Noted as a national heritage wilderness area on October 21st 1988, the majority of the area within the property was originally declared a forest reserve on May 3rd 1875, providing a long history of protection. The property is afforded the highest level of legal protection under the National Heritage and Wilderness Area Act of Sri Lanka and almost all the peripheral natural forests along the boundary have already been declared as conservation forests or reserved forests under the Forest Ordinance. The values encompassed by the property were further recognised when it was declared a Biosphere Reserve in April 1978 and subsequently inscribed on the World Heritage. Sinharaja World Heritage property is managed directly by the Divisional Forest Officer from the Forest Department, under the authority of the Ministry of Lands and Land Development. A National Steering Committee coordinates the institutions for Sinharaja as a National Wilderness Area, Biosphere Reserve and World Heritage site. Management practices and research are executed in accordance with the prescriptions of the respective management plans, prepared for the Sinharaja Conservation Area as well as the property’s peripheral natural forests, under the national forest policy directives. The management plans for the property, prepared in 1985/86 and 1992/94, emphasize conservation, scientific research, buffer zone management, benefit sharing, and community participation. Sinharaja is provided with the highest level of legal protection under the National Heritage Wilderness Area Act and a high level of environmental awareness of the local community is extremely helpful in implementing management plan prescriptions. Forest dependency of local communities is very low and maintaining this healthy partnership with local communities is the main strategy to ensure future protection of this property. Historically protected as a result of its inaccessibility and steep, hilly terrain, the Forest Department prioritizes protection of the reserve over development pressures and resource extraction. Visitor numbers remain low with entry by permit only. Threats to the values and integrity of the property primarily come from encroaching cultivation, particularly along the southern boundary. Development undertaken outside the property indirectly impacts the site through road developments which subsequently open up routes and entry points into the property, facilitating illegal logging and removal of resources, with illegal gem mining also posing a threat. The traditional use of forest products is now restricted to areas outside the boundaries. Low staffing levels hinder the policing of offences and a lack of funding is a barrier to the effective, long-term management of the area. The management agency, the Sri Lankan Forestry Department has designated the management of Sinharaja a high priority, allocating funds according to the priorities spelled out in the management plan and on-going management programmes.�"
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 8864,
+          "square_km": 88.64,
+          "square_miles": 35.871,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2cb8bed24f4650afdf04b2cdae4e34f6",
+          "filename": "site_0405_0001.jpg",
+          "dimensions": {
+            "width": 5400,
+            "height": 3600
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136492/site_0405_0001.jpg",
+            "https://whc.unesco.org/document/136493/site_0405_0002.jpg",
+            "https://whc.unesco.org/document/136494/site_0405_0003.jpg",
+            "https://whc.unesco.org/document/136496/site_0405_0004.jpg",
+            "https://whc.unesco.org/document/136497/site_0405_0005.jpg",
+            "https://whc.unesco.org/document/136498/site_0405_0006.jpg",
+            "https://whc.unesco.org/document/136499/site_0405_0007.jpg",
+            "https://whc.unesco.org/document/136500/site_0405_0008.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sinharaja Forest Reserve",
+            "ref": "405",
+            "latitude": 6.416666667,
+            "longitude": 80.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/405",
+        "unesco_documents": "https://whc.unesco.org/en/list/405/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/405/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/405/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sinharaja Forest Reserve Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians. Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians. Sri Lanka Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "ancient_city_of_polonnaruwa",
+      "uuid": "8ff4d840-cff8-5191-9d70-f272bc4676c0",
+      "unesco_id": "201",
+      "names": {
+        "en": "Ancient City of Polonnaruwa",
+        "fr": "Cité historique de Polonnaruwa",
+        "es": "Antigua ciudad de Polonnaruwa",
+        "ru": "Древний город Полоннарува",
+        "ar": "مدينة بولوناروا التاريخية",
+        "zh": "波隆纳鲁沃古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century.",
+          "fr": "Seconde capitale de Sri Lanka après la destruction d'Anuradhapura en 993, Polonnaruwa comprend, à côté des monuments brahmaniques élevés par les Cholas, les restes monumentaux de la fabuleuse cité-jardin créée au XIIe siècle par Parakramabahu le Grand.",
+          "es": "Segunda capital de Sri Lanka después de la destrucción de Anuradhapura en el año 993, la ciudad de Polonnaruwa posee una serie de monumentos brahmánicos edificados por la dinastía de los cholas, así los vestigios monumentales de la fabulosa ciudad-jardín creada en el siglo XII por Parakramabahu el Grande.",
+          "ru": "Полоннарува стала второй столицей Шри-Ланки после разрушения в 993 г. Анурадхапуры. Помимо памятников брахманизма, построенных государством Чола, здесь находятся внушительные руины удивительного города-сада, созданного в XII в. при правлении Паракрамабаху I.",
+          "ar": "تحتضن بولوناروا التي اصبحت العاصمة الثانية لسريلانكا بعد الدمار الذي لحق بأنوردابورا عام 399 أنقاضاً ضخمة للمدينة الجنائزية الخلابة التي أسسها الكبير في القرن الثاني عشر، الى جانب نصب برهمانية شيدتها سلالة الكولا.",
+          "zh": "公元933年，继阿努拉达普拉被毁灭后，波隆纳鲁沃城成为斯里兰卡的首府所在地。在波隆纳鲁沃古城里，不仅有考拉斯时期的婆罗门教遗址，还能看到帕拉克拉马一世于12世纪时修建的神话般花园城市的遗迹。"
+        },
+        "full": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3c55c85a182f4a5817f2ce02e3b28ed0",
+          "filename": "site_0201_0001-500-0-20151105153342.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109071/site_0201_0001.jpg",
+            "https://whc.unesco.org/document/109072/site_0201_0002.jpg",
+            "https://whc.unesco.org/document/109073/site_0201_0003.jpg",
+            "https://whc.unesco.org/document/109074/site_0201_0004.jpg",
+            "https://whc.unesco.org/document/109075/site_0201_0005.jpg",
+            "https://whc.unesco.org/document/109076/site_0201_0006.jpg",
+            "https://whc.unesco.org/document/109077/site_0201_0007.jpg",
+            "https://whc.unesco.org/document/109078/site_0201_0008.jpg",
+            "https://whc.unesco.org/document/109079/site_0201_0009.jpg",
+            "https://whc.unesco.org/document/109080/site_0201_0010.jpg",
+            "https://whc.unesco.org/document/137612/site_0201_0020.jpg",
+            "https://whc.unesco.org/document/137613/site_0201_0021.jpg",
+            "https://whc.unesco.org/document/137614/site_0201_0022.jpg",
+            "https://whc.unesco.org/document/137615/site_0201_0023.jpg",
+            "https://whc.unesco.org/document/137617/site_0201_0024.jpg",
+            "https://whc.unesco.org/document/137618/site_0201_0025.jpg",
+            "https://whc.unesco.org/document/137619/site_0201_0026.jpg",
+            "https://whc.unesco.org/document/137620/site_0201_0027.jpg",
+            "https://whc.unesco.org/document/137621/site_0201_0028.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient City of Polonnaruwa",
+            "ref": "201",
+            "latitude": 7.915833333,
+            "longitude": 81.00055556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/201",
+        "unesco_documents": "https://whc.unesco.org/en/list/201/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/201/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/201/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Polonnaruwa Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century. Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century. Sri Lanka Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "central_highlands_of_sri_lanka",
+      "uuid": "a3e1e539-7f34-560f-a8fa-abb597c73420",
+      "unesco_id": "1203",
+      "names": {
+        "en": "Central Highlands of Sri Lanka",
+        "fr": "Hauts plateaux du centre de Sri Lanka",
+        "es": "Mesetas centrales de Sri Lanka",
+        "ru": "Высокогорье в центральной части Шри Ланки",
+        "ar": "المرتفعات الوسطى في سري لانكا",
+        "zh": "斯里兰卡中央高地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.",
+          "fr": "Les Hauts plateaux du Sri Lanka sont situés dans le centre-sud de l'île. Le bien comprend l'Aire protégée de Peak Wilderness, le Parc national de Horton Plains et la forêt de conservation des Knuckles. Ces forêts de montagne, qui s'élèvent à plus de 2500 m au-dessus du niveau moyen de la mer, abritent une variété de flore et de faune extraordinaire, notamment plusieurs espèces en danger comme le semnopithèque à face pourpre, le loris grêle de Horton Plains et le léopard du Sri Lanka. La région est considérée comme un point chaud de la biodiversité du Sri Lanka.",
+          "es": "Las mesetas de Sri Lanka se sitúan en la parte central y meriodional de la isla. El sitio comprende el área protegida del Pico Wilderness, el Parque Nacional de las Llanuras de Horton y el Bosque de Conservación de Knuckles. Estos bosques montañosos, situados a alturas de hasta 2.500 metros sobre el nivel del mar, albergan una flora y fauna de una variedad extraordinaria, incluyendo varias especies amenazadas, como el langur de cara roja occidental (Semnopithecus vetulus nestor), el loris delgado de las llanuras de Horton (Loris tardigradus nyctoceboides) y el leopardo de Sri Lanka. Se considera a esta región un hotspot o punto caliente de diversidad biológica.",
+          "ru": "Высокогорье Шри Ланки расположено в южно-центральной части острова. Оно включает в себя охранную зону Пик Вайлдернесс (Wilderness), национальный парк Хортон Плейнс (Horton Plains) и заповедный лес Кнаклс (Knuckles). Эти горные леса на высоте до 2 500 метров над уровнем моря, являются средой обитания необыкновенной по своему разнообразию флоры и фауны, включая несколько видов, находящихся под угрозой исчезновения, таких как западный белобородый тонкотел, тонкий лори Хортон Плейнс и леопард Шри Ланки. Этот регион считается «горячей точкой» биологического разнообразия.",
+          "ar": "تقع المرتفعات الوسطى في سري لانكا في الجزء الجنوبي الأوسط من الجزيرة. ويضم هذا الممتلك المنطقة المحمية المعروفة باسم بيك وايلدرنس، ومرتع سهول هورتون الوطني، وغابة ناكلز كونسرفايشن. وتأوي هذه الغابات الجبلية التي ترتفع 2500 متر عن سطح البحر مجموعة استثنائية من النباتات والحيوانات، بما في ذلك عدد من الأنواع المهددة بالانقراض مثل اللنغور الغربي ذي الوجه الأرجواني، والقرد الرقيق في سهول هورتون، والنمر السري لانكي. وتُعتبر هذه المرتفعات منطقة مذهلة تتميز بتنوع بيولوجي كبير.",
+          "zh": "斯里兰卡高地坐落在斯岛中南部。遗址由维尔德尔内斯峰保护区（Peak Wilderness Protected Area），霍尔顿平原国家公园（Horton Plains National Park）和那科勒斯保护林地（Knuckles Conservation Forest）组成。这些山地林生长的地区海拔高达2500米，拥有十分丰富的动植物资源，包括西部紫脸叶猴（western-purple-faced langur）、灰瘠懒猴（Horton Plains slender loris）和斯里兰卡豹（Sri Lankan leopard）等濒危物种。该地区被认为是生物多样性的超级热点。"
+        },
+        "full": "Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.",
+        "justification": "Brief synthesis The Central Highlands of Sri Lanka is a serial property comprising three component parts: Peak Wilderness Protected Area, Horton Plains National Park and Knuckles Conservation Forest. Its forests are globally important and provide habitat for an exceptional number of endemic species of flora and fauna. The property includes the largest and least disturbed remaining areas of the submontane and montane rain forests of Sri Lanka, which are a global conservation priority on many accounts. They include areas of Sri Lankan montane rain forests considered as a super-hotspot within the Western Ghats and Sri Lanka biodiversity hotspot. More than half of Sri Lanka’s endemic vertebrates, half of the country’s endemic flowering plants and more than 34% of its endemic trees, shrubs, and herbs are restricted to these diverse montane rain forests and adjoining grassland areas. Criterion (ix): The property includes the largest and least disturbed remaining areas of the submontane and montane rain forests of Sri Lanka, which are a global conservation priority on many accounts. The component parts stretch across the Ceylonese rainforest and the Ceylonese monsoon forest. In the montane forests represented by the three serial properties, the faunal elements provide strong evidence of geological and biological processes in the evolution and development of taxa. The endemic purple-faced langur of Sri Lanka (Semnopithecus vetulus) has evolved into several morphologically different forms recognizable today. The Sri Lankan leopard, the only representative in the island of the genus Panthera, which diverged from other felids about 1.8 million years ago, is a unique sub-species (Panthera pardus kotiya). All three nominated properties provide habitat to this subspecies of leopard, endemic to Sri Lanka. Long isolation and the concomitant evolutionary processes have also resulted in a Sri Lankan molluscan fauna that is the most distinct in the South Asian region. Criterion (x): The montane forests in the three serial components contain the only habitats of many threatened plant and animal species and are therefore of prime importance for their in-situ conservation. The property features exceptionally high numbers of threatened species, extraordinary levels of endemism, and high levels of species richness in a number of taxonomic groups. Of the 408 species of vertebrates 83%of indigenous fresh water fishes and 81 % of the amphibians in Peak Wilderness Protected Area are endemic, 91 % of the amphibians and 89% of the reptiles in Horton Plains are endemic, and 64% of the amphibians and 51% of the reptiles in the Knuckles Conservation Forest are endemic. Integrity The small size of the components of the nominated property is a result of the limited extent of the most significant rain forest areas remaining on Sri Lanka. However, provided the property is effectively protected and managed, these areas are sufficient, especially since many of the plant and animal species have highly localized distributions. The boundary of the Peak Wilderness Protected Area includes a range of protected zones, and this component has a common boundary with the Horton Plains National Park. Effective arrangements to protect the properties from the impacts of surrounding land-use, as well as to address a range of threats are required, including via functioning buffer zones. Protection and management requirements The property has strong and effective legal protection through a combination of state ownership and a range of different protective legislation. The management of the three components of the nominated property is delivered by a number of different site specific management plans that need to be kept continually reviewed and updated, and made consistent with each other. An overall management system for the whole property is required, to ensure consistency of management, monitoring and presentation of the property, in addition to that provided by the individual management plans. Adequate and sustained budgets are required for the management of the property as a whole, and within each component. The nature and magnitude of existing and potential threats to the three nominated properties varies between the components, and includes a number of issues. In case of the Peak Wilderness Protected Area, the major human use is from around two million pilgrims who visit the Adam’s Peak annually and contribute to both forest and environmental degradation along the pilgrim trails leading up to the peak. Illicit gem mining is also a threat. Additional threats come from the spread of invasive species, forest die-back, occasional fires and vandalism and pressure for cultivation of cardamom. Effective action is required to ensure all of these threats do not impact on the Outstanding Universal Value of the property. A strong programme of engagement with the communities who live in the area surrounding the property is an essential requirement of its approach to management. In addition to the complimentarity between its different components, the property has a strong link with the Sinharaja Forest Reserve, a World Heritage Site in the southern part of Sri Lanka. Links between these two World Heritage properties should be encouraged as part of the management systems of both properties."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 56844,
+          "square_km": 568.44,
+          "square_miles": 230.04,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2010,
+          "all_dates": [
+            2010
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2010,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0294af760ba8215c434cf9785f9bc986",
+          "filename": "site_1203_0001.jpg",
+          "dimensions": {
+            "width": 3504,
+            "height": 2336
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113784/site_1203_0001.jpg",
+            "https://whc.unesco.org/document/113786/site_1203_0002.jpg",
+            "https://whc.unesco.org/document/113788/site_1203_0003.jpg",
+            "https://whc.unesco.org/document/113790/site_1203_0004.jpg",
+            "https://whc.unesco.org/document/113792/site_1203_0005.jpg",
+            "https://whc.unesco.org/document/113794/site_1203_0006.jpg",
+            "https://whc.unesco.org/document/203852/site_1203_0018.jpg",
+            "https://whc.unesco.org/document/136773/site_1203_0007.jpg",
+            "https://whc.unesco.org/document/136774/site_1203_0008.jpg",
+            "https://whc.unesco.org/document/136775/site_1203_0009.jpg",
+            "https://whc.unesco.org/document/136776/site_1203_0010.jpg",
+            "https://whc.unesco.org/document/136777/site_1203_0011.jpg",
+            "https://whc.unesco.org/document/136778/site_1203_0012.jpg",
+            "https://whc.unesco.org/document/136779/site_1203_0013.jpg",
+            "https://whc.unesco.org/document/136780/site_1203_0014.jpg",
+            "https://whc.unesco.org/document/136781/site_1203_0015.jpg",
+            "https://whc.unesco.org/document/136782/site_1203_0016.jpg",
+            "https://whc.unesco.org/document/167612/site_1203_0017.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Horton Plains National Park (HPNP)",
+            "ref": "1203-002",
+            "latitude": 6.8061305556,
+            "longitude": 80.7965416667
+          },
+          {
+            "name": "Knuckles Conservation Forest (KCF)",
+            "ref": "1203-003",
+            "latitude": 7.45245,
+            "longitude": 80.8021
+          },
+          {
+            "name": "Peak Wilderness Protected Area (PWPA)",
+            "ref": "1203-001",
+            "latitude": 6.817742,
+            "longitude": 80.489075
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1203",
+        "unesco_documents": "https://whc.unesco.org/en/list/1203/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1203/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1203/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 15,
+        "inscription_year": 2010
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Central Highlands of Sri Lanka Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot. Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot. Sri Lanka Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "rangiri_dambulla_cave_temple",
+      "uuid": "0c18d957-457b-549a-bc4b-77cdcc0a4870",
+      "unesco_id": "561",
+      "names": {
+        "en": "Rangiri Dambulla Cave Temple",
+        "fr": "Temple troglodyte de Rangiri Dambulla",
+        "es": "Templo de Oro de Dambulla",
+        "ru": "“Золотой храм” Дамбулла",
+        "ar": "المعبد الذهبي في دامبولا",
+        "zh": "丹布勒金寺"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LKA": {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "iso3": "LKA"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m2 ) are of particular importance, as are the 157 statues.",
+          "fr": "Haut lieu de pèlerinage de Sri Lanka depuis vingt-deux siècles, ce monastère rupestre, qui contient cinq sanctuaires, est l'ensemble le plus grand et le mieux conservé de temples-cavernes à Sri Lanka. Il est particulièrement remarquable par ses peintures murales bouddhiques couvrant une superficie de 2 100 m2 et par ses 157 statues.",
+          "es": "Importante lugar de peregrinación desde hace 2.200 años, este monasterio rupestre forma con sus cinco santuarios el conjunto más grande y mejor conservado de templos-caverna de Sri Lanka. Son especialmente notables sus 157 estatuas y las pinturas murales budistas que cubren una superficie de 2.100 m2.",
+          "ru": "Этот пещерный монастырь, служивший священным местом паломничества на протяжении 22-х столетий, является крупнейшим и наилучшим образом сохранившимся пещерным храмовым комплексом в Шри-Ланке. Буддийские настенные росписи, покрывающие площадь 2100 кв. м, и 157 статуй имеют особое культурное значение.",
+          "ar": "يشكل هذا الدير المنحوت في الصخر بأضرحته الخمسة محجة في سريلانكا منذ 22 قرناً، وهو المجمع الأكبر حجماً والأسلم حالاً بين المعابد الكهفية في سريلانكا، ويتميز خاصة بلوحاته الجدراية البوذية التي تغطي مساحة 2100 متر مربع وبتماثيل يبلغ عددها 157.",
+          "zh": "丹布勒金寺是一个享有22个世纪历史的朝圣圣地。丹布勒金寺里有五大圣堂，是斯里兰卡最大、保存最完整的洞穴庙宇群。这里珍藏着面积达2100平方米的壁画和157尊雕像，极为珍贵。"
+        },
+        "full": "A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m2 ) are of particular importance, as are the 157 statues.",
+        "justification": "Brief synthesis Located in central Sri Lanka, the Rangiri Dambulla Cave Temple is a living Buddhist site that is focused on a series of five cave shrines. Inhabited by forest-dwelling Buddhist monks since the 3rd century BCE, these natural caves have been transformed continuously throughout the historical period into one of the largest and most outstanding Buddhist complexes in the Southern and South Eastern Asian region, showcasing innovative approaches to interior layout and decoration. In keeping with a longstanding tradition associated with living Buddhist ritual practices and continuous royal patronage, the cave shrines underwent several renovation and refurbishing programmes before assuming their present interior forms in the 18th century. The vast internal spaces of the cave shrines are not compartmentalized, but are spatially differentiated by a deliberate and subtle arrangement of polychrome sculpture of exceptional craftsmanship and decorated with brilliant compositions of mural paintings. This spatial hierarchy and purposive interior layout devoid of physical divisions lead the devotees systematically through the spaces from one ritual function to the next. The site is remarkable in the Buddhist world for its association with the continuous tradition of living Buddhist ritual practices and pilgrimage for more than two millennia. Criterion (i): The monastic ensemble of Dambulla is an outstanding example of the religious art and expression of Sri Lanka and South and Southeast Asia. The cave shrine, their painted surfaces, and statuary are unique in scale and degree of preservation. The monastery includes significant masterpieces of 18th-century art in the Sri Lankan school of Kandy. Criterion (vi): Dambulla is an important shrine in the Buddhist religion in Sri Lanka, remarkable for its association with the long-standing and wide-spread tradition of living Buddhist ritual practices and pilgrimage for more than two millennia. Integrity The property includes all the elements and components related to different facets of creativity that are necessary to express the Outstanding Universal Value of the property, such as the polychrome statuary either moulded with stucco or clay or carved out of the living rock within the cave shrines, mural paintings, and interior layout. The physical fabric of these elements is in good condition and has been preserved to express this value. The property currently does not suffer from any adverse effects of development or other pressures. Authenticity The overall form and design as well as the materials and substance of the mural paintings that cover the interior surfaces of the cave shrines and the rock-cut and moulded statuary within the caves have been retained. No interventions have been carried out to change the overall form and design of the interior spaces of the caves, or the location and positioning of sculptures and paintings in relation to their interior layouts. The interior spaces are still being used by pilgrims for ritual Buddhist practices, thus maintaining the original use and function as well as the spirit and feeling of their interior spaces. Protection and management requirements The property, which is under the ownership of the Asgiriya Chapter of Buddhist monks, has been declared a Protected Monument under the legal protection of the Department of Archaeology of the Government of Sri Lanka, which administers the Antiquities Ordinance of 1940 (rev. 1998) at the national level. No interventions to the property are allowed without the permission of the Department of Archaeology. Conservation and monitoring of the paintings and polychrome objects are the responsibility of the Department of Archaeology. The monks conduct the daily rituals and are responsible for the general maintenance, protection, and upkeep of the property. Part of the gate collection from foreign tourists visiting the property is used by the monks for these purposes. The area extending up to the edge of entire rock outcrop has been designated a buffer zone under the purview of the Department of Archaeology. The religious character of the property is further safeguarded by the declaration of the whole area around the rock outcrop as a sacred area by the National Physical Planning Department. The main challenges ahead are conserving the paintings, dealing with the carrying capacity in view of increased pilgrimage mainly during religious festivities, and achieving better results in conservation and regular maintenance. Sustaining the Outstanding Universal Value of the property over time will require taking measures to enhance the management, conservation, and presentation of the property. These include preparing a heritage management framework, a master development plan, and a visitor management plan, and establishing a regular monitoring regime."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1
+          ],
+          "natural": [],
+          "all": [
+            1
+          ],
+          "display": "(i)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1991,
+          "all_dates": [
+            1991
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1991,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/cc3fe94e385a31c278d5f5e23493ef42",
+          "filename": "site_0561_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111101/site_0561_0001.jpg",
+            "https://whc.unesco.org/document/111103/site_0561_0002.jpg",
+            "https://whc.unesco.org/document/111105/site_0561_0003.jpg",
+            "https://whc.unesco.org/document/111107/site_0561_0004.jpg",
+            "https://whc.unesco.org/document/124999/site_0561_0016.jpg",
+            "https://whc.unesco.org/document/125000/site_0561_0017.jpg",
+            "https://whc.unesco.org/document/125001/site_0561_0018.jpg",
+            "https://whc.unesco.org/document/125002/site_0561_0019.jpg",
+            "https://whc.unesco.org/document/125003/site_0561_0020.jpg",
+            "https://whc.unesco.org/document/125004/site_0561_0021.jpg",
+            "https://whc.unesco.org/document/136755/site_0561_0022.jpg",
+            "https://whc.unesco.org/document/136757/site_0561_0023.jpg",
+            "https://whc.unesco.org/document/136759/site_0561_0024.jpg",
+            "https://whc.unesco.org/document/136762/site_0561_0025.jpg",
+            "https://whc.unesco.org/document/136764/site_0561_0026.jpg",
+            "https://whc.unesco.org/document/136765/site_0561_0027.jpg",
+            "https://whc.unesco.org/document/136766/site_0561_0028.jpg",
+            "https://whc.unesco.org/document/136767/site_0561_0029.jpg",
+            "https://whc.unesco.org/document/136768/site_0561_0030.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Rangiri Dambulla Cave Temple",
+            "ref": "561",
+            "latitude": 7.856666667,
+            "longitude": 80.64916667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/561",
+        "unesco_documents": "https://whc.unesco.org/en/list/561/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/561/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/561/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 34,
+        "inscription_year": 1991
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rangiri Dambulla Cave Temple A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m2 ) are of particular importance, as are the 157 statues. A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m2 ) are of particular importance, as are the 157 statues. Sri Lanka Asia and the Pacific Cultural"
+    }
+  ]
+}

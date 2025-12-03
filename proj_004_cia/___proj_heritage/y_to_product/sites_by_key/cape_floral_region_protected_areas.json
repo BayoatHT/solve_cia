@@ -1,0 +1,196 @@
+{
+  "site_key": "cape_floral_region_protected_areas",
+  "uuid": "05fb835b-3ce7-505b-bf00-c18e87f85be8",
+  "unesco_id": "1007",
+  "names": {
+    "en": "Cape Floral Region Protected Areas",
+    "fr": "Aires protégées de la Région Florale du Cap",
+    "es": "Áreas protegidas de la Región Floral de El Cabo",
+    "ru": "Охраняемые территории Капской флористической области",
+    "ar": "محمية الزهور في الكاب",
+    "zh": "开普植物保护区"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "ZAF": {
+        "name": "South Africa",
+        "iso2": "ZA",
+        "iso3": "ZAF"
+      }
+    },
+    "region": {
+      "name": "Africa",
+      "code": "AFR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region.",
+      "fr": "Le bien, inscrit en 2004 sur la Liste du patrimoine mondial, se trouve à l’extrémité sud-ouest de l’Afrique du Sud. Il s’agit de l'un des plus grands centres de la biodiversité terrestre mondiale. Le bien étendu comprend des parcs nationaux, des réserves naturelles, des zones de nature sauvage, des forêts d’Etat et des aires de bassins versants de montagne. Ces éléments ajoutent un nombre important d’espèces de plantes endémique associées à la végétation du Fynbos, une brousse sclérophylle au feuillage fin adaptée à la fois à un climat méditerranéen et à des incendies périodiques, qui est unique à la Région florale du Cap.",
+      "es": "Se trata de una extensión del sitio natural del mismo nombre, situado en el extremo sudoriental de este país, que se inscribió en la Lista del Patrimonio Mundial en 2004. El territorio del sitio natural ampliado es una de las zonas de biodiversidad vegetal más importantes de nuestro planeta, que abarca parques nacionales, reservas naturales, áreas silvestres, bosques estatales y cuencas hidrográficas montañosas. Todos estos elementos contribuyen a un gran incremento del número de especies vegetales endémicas del fynbos, un ecosistema de vegetación arbustiva esclerófila de hoja fina adaptada al clima mediterráneo y a los estallidos de incendios periódicos, que solamente se da en la Región Floral de El Cabo.",
+      "ru": "Объект, расположенный в юго-западной части Южной Африки, был включен в Список Всемирного наследия в 2004 году. Он является одним из крупнейших в мире центров биоразнообразия наземных экосистем. В рамках расширения Капской флористической области в её территорию были включены национальные парки, природные заповедники, зоны дикой природы, государственные леса и горные водосборные бассейны. Расширение существенно увеличивает число эндемичных видов растений, принадлежащих к особому типу кустарников с тонкими жесткими листьями. Такой тип растительности, получивший название «финбош» встречается исключительно в Капской флористической области, он адаптирован к средиземноморскому климату и периодическим пожарам.",
+      "ar": "يوجد هذا الموقع الذي أُدرج في قائمة التراث العالمي في عام 2004 في المنطقة الجنوبية الغربية من جنوب أفريقيا، وهو من أهم المناطق في العالم من حيث التنوع البيولوجي البري. ويشمل الموقع الموسَّع حدائق وطنية، ومحميات طبيعية، ومساحات من الطبيعة العذراء، وغابات وطنية، ومستجمعات للمياه الجبلية. وتضيف هذه العناصر إلى الموقع عدداً كبيراً من أنواع النباتات المستوطنة المرتبطة بنبتة الفينبوس ذات الورق المتين والمرن التي تنمو في المناخ المتوسطي وتقاوم الحرائق المتكررة في الوقت ذاته، وهي نبتة تتفرد بها محمية الزهور في الكاب.",
+      "zh": "该处遗产地位于南非最西南端，于2004年载入世界遗产名录。是世界陆上生态多样性最丰富的中心之一。该扩展遗产地包括国家公园、自然保护区、野生自然保护区、国家森林公园和山区汇水盆地。这些不同的地形为当地的细硬叶凡波斯灌木植被增添了适应地中海式气候和周期性火灾的特征，形成开普植物保护区独有的景观。"
+    },
+    "full": "Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region.",
+    "justification": "Brief synthesis The Cape Floral Region has been recognised as one of the most special places for plants in the world in terms of diversity, density and number of endemic species. The property is a highly distinctive phytogeographic unit which is regarded as one of the six Floral Kingdoms of the world and is by far the smallest and relatively the most diverse. It is recognised as one of the world’s ʻhottest hotspotsʼ for its diversity of endemic and threatened plants, and contains outstanding examples of significant ongoing ecological, biological and evolutionary processes. This extraordinary assemblage of plant life and its associated fauna is represented by a series of 13 protected area clusters covering an area of more than 1 million ha. These protected areas also conserve the outstanding ecological, biological and evolutionary processes associated with the beautiful and distinctive Fynbos vegetation, unique to the Cape Floral Region. Criterion (ix): The property is considered of Outstanding Universal Value for representing ongoing ecological and biological processes associated with the evolution of the unique Fynbos biome. These processes are represented generally within the Cape Floral Region and captured in the component areas that make up the 13 protected area clusters. Of particular scientific interest are the adaptations of the plants to fire and other natural disturbances; seed dispersal by ants and termites; the very high level of plant pollination by insects, mainly beetles and flies, birds and mammals; and high levels of adaptive radiation and speciation. The pollination biology and nutrient cycling are other distinctive ecological processes found in the site. The Cape Floral Region forms a centre of active speciation where interesting patterns of endemism and adaptive radiation are found in the flora. Criterion (x): The Cape Floral Region is one of the richest areas for plants when compared to any similar sized area in the world. It represents less than 0.5% of the area of Africa but is home to nearly 20% of the continent’s flora. The outstanding diversity, density and endemism of the flora are among the highest worldwide. Some 69% of the estimated 9,000 plant species in the region are endemic, with 1,736 plant species identified as threatened and with 3,087 species of conservation concern. The Cape Floral Region has been identified as one of the world’s 35 biodiversity hotspots. Integrity The originally inscribed Cape Floral Region Protected Areas serial property comprised eight protected areas covering a total area of 557,584 ha, and included a buffer zone of 1,315,000 ha. The extended Cape Floral Region Protected Areas property comprises 1,094,742 ha of protected areas and is surrounded by a buffer zone of 798,514 ha. The buffer zone is made up of privately owned, declared Mountain Catchment Areas and other protected areas, further supported by other buffering mechanisms that are together designed to facilitate functional connectivity and mitigate for the effects of global climate change and other anthropogenic influences. The collection of protected areas adds up in a synergistic manner to present the biological richness and evolutionary story of the Cape Floral Region. All the protected areas included in the property, except for some of the privately owned, declared Mountain Catchment Areas, have existing dedicated management plans, which have been revised, or are in the process of revision in terms of the National Environmental Management: Protected Areas Act. Mountain Catchment Areas are managed in terms of the Mountain Catchment Areas Act. Progress with increased protection through public awareness and social programmes to combat poverty, improved management of mountain catchment areas and stewardship programmes is being made. Protection and management requirements The serial World Heritage property and its component parts, all legally designated protected areas, are protected under the National Environmental Management: Protected Areas Act (57 of 2003). The property is surrounded by extensive buffer zones (made up of privately owned, declared Mountain Catchment Areas and other protected areas) and supported by various buffering mechanisms in the region. Together, these provide good connectivity and landscape integration for most of the protected area clusters, especially in the mountain areas. The protected areas that make up the property are managed by three authorities: South African National Parks (SANParks), Western Cape Nature Conservation Board (CapeNature) and Eastern Cape Parks and Tourism Agency. These authorities, together with the national Department of Environmental Affairs, make up the Joint Management Committee of the property. All of the sites are managed in accordance with agreed management plans, however, there is a recognised need for a property-wide management strategy in the form of an Environmental Management Framework. Knowledge management systems are being expanded to advise improved planning and management decision-making, thus facilitating the efficient use of limited, but increasing, resources relating in particular to the management of fire and invasive alien species. The provision of long-term, adequate funding to all of the agencies responsible for managing the property is essential to ensure effective management of the multiple components across this complex serial site. Invasive alien species and fire are the greatest management challenges facing the property at present. Longer-term threats include climate change and development pressures caused by a growing population, particularly in the Cape Peninsula and along some coastal areas. These threats are well understood and addressed in the planning and management of the protected areas and their buffer zones. Invasive species are being dealt with through manual control programmes that have been used as a reference for other parts of the world."
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        9,
+        10
+      ],
+      "all": [
+        9,
+        10
+      ],
+      "display": "(ix)(x)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": null,
+      "available": false,
+      "note": "area_not_reported"
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2004,
+      "all_dates": [
+        2004,
+        2015
+      ],
+      "extensions": [
+        2015
+      ],
+      "timeline": [
+        {
+          "year": 2004,
+          "event": "Inscribed"
+        },
+        {
+          "year": 2015,
+          "event": "Extended"
+        }
+      ],
+      "extension_count": 1
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2a45404add82b0a278b67eb257793473",
+      "filename": "site_1007_0001-500-0-20151105153754.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 371
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/114200/site_1007_0001.jpg",
+        "https://whc.unesco.org/document/114206/site_1007_0004.jpg",
+        "https://whc.unesco.org/document/114210/site_1007_0006.jpg",
+        "https://whc.unesco.org/document/114212/site_1007_0007.jpg",
+        "https://whc.unesco.org/document/114220/site_1007_0011.jpg",
+        "https://whc.unesco.org/document/114222/site_1007_0012.jpg",
+        "https://whc.unesco.org/document/114224/site_1007_0013.jpg",
+        "https://whc.unesco.org/document/114226/site_1007_0014.jpg",
+        "https://whc.unesco.org/document/114228/site_1007_0015.jpg",
+        "https://whc.unesco.org/document/114230/site_1007_0016.jpg",
+        "https://whc.unesco.org/document/114232/site_1007_0017.jpg",
+        "https://whc.unesco.org/document/114234/site_1007_0018.jpg",
+        "https://whc.unesco.org/document/114236/site_1007_0019.jpg",
+        "https://whc.unesco.org/document/114238/site_1007_0020.jpg",
+        "https://whc.unesco.org/document/114239/site_1007_0021.jpg",
+        "https://whc.unesco.org/document/114241/site_1007_0022.jpg",
+        "https://whc.unesco.org/document/120299/site_1007_0023.jpg",
+        "https://whc.unesco.org/document/120300/site_1007_0024.jpg",
+        "https://whc.unesco.org/document/120302/site_1007_0025.jpg",
+        "https://whc.unesco.org/document/120303/site_1007_0026.jpg",
+        "https://whc.unesco.org/document/120308/site_1007_0029.jpg",
+        "https://whc.unesco.org/document/120309/site_1007_0030.jpg",
+        "https://whc.unesco.org/document/120310/site_1007_0031.jpg",
+        "https://whc.unesco.org/document/120312/site_1007_0032.jpg",
+        "https://whc.unesco.org/document/120320/site_1007_0033.jpg",
+        "https://whc.unesco.org/document/125466/site_1007_0034.jpg",
+        "https://whc.unesco.org/document/125467/site_1007_0035.jpg",
+        "https://whc.unesco.org/document/125468/site_1007_0036.jpg",
+        "https://whc.unesco.org/document/125469/site_1007_0037.jpg",
+        "https://whc.unesco.org/document/125470/site_1007_0038.jpg",
+        "https://whc.unesco.org/document/125471/site_1007_0039.jpg",
+        "https://whc.unesco.org/document/126030/site_1007_0040.jpg",
+        "https://whc.unesco.org/document/126031/site_1007_0041.jpg",
+        "https://whc.unesco.org/document/126033/site_1007_0043.jpg",
+        "https://whc.unesco.org/document/126034/site_1007_0044.jpg",
+        "https://whc.unesco.org/document/126035/site_1007_0045.jpg",
+        "https://whc.unesco.org/document/126037/site_1007_0047.jpg",
+        "https://whc.unesco.org/document/126038/site_1007_0048.jpg",
+        "https://whc.unesco.org/document/126039/site_1007_0049.jpg"
+      ],
+      "count": 39
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Cape Floral Region Protected Areas",
+        "ref": "1007ter",
+        "latitude": -34.3558051153,
+        "longitude": 18.4750321846
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1007",
+    "unesco_documents": "https://whc.unesco.org/en/list/1007/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1007/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1007/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Africa",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 21,
+    "inscription_year": 2004
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Cape Floral Region Protected Areas Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region. Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region. South Africa Africa Natural"
+}

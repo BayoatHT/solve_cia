@@ -1,0 +1,202 @@
+{
+  "site_key": "wooden_churches_of_maramures",
+  "uuid": "1ac53f01-4645-5cfe-9301-7a4a9a81e441",
+  "unesco_id": "904",
+  "names": {
+    "en": "Wooden Churches of Maramureş",
+    "fr": "Ensemble « Églises en bois de Maramureş »",
+    "es": "Iglesias de madera de Maramureş",
+    "ru": "Деревянные церкви исторической области Марамуреш",
+    "ar": "مجموعة كنائس ماراموريس",
+    "zh": "马拉暮莱斯的木结构教堂"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "ROU": {
+        "name": "Romania",
+        "iso2": "RO",
+        "iso3": "ROU"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "These eight churches are outstanding examples of a range of architectural solutions from different periods and areas. They show the variety of designs and craftsmanship adopted in these narrow, high, timber constructions with their characteristic tall, slim clock towers at the western end of the building, either single- or double-roofed and covered by shingles. As such, they are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania.",
+      "fr": "L'ensemble « Églises en bois de Maramures » représentent une sélection de huit exemples remarquables de solutions architecturales issues de périodes et de régions différentes. Elles dessinent un portrait vivant de la diversité des conceptions et des compétences artisanales exprimées dans ces constructions de bois hautes et étroites, dotées du caractéristique clocher élancé du côté ouest du bâtiment et de toits simples ou doubles couverts de bardeaux. Il s'agit là d'une expression vernaculaire propre au paysage culturel de cette région montagneuse du nord de la Roumanie.",
+      "es": "Las ocho iglesias de madera que forman el conjunto de Maramureş constituyen otros tantos ejemplos notables de la adopción de soluciones arquitectónicas emanadas de períodos y regiones diferentes. Son una muestra de la diversidad de diseños y técnicas artesanales utilizados para realizar este tipo de construcciones altas y estrechas, que poseen un esbelto campanario en su lado oeste y están cubiertas con techumbres sencillas o dobles de tejas planas de madera. Estos templos son exponentes de una expresión artística autóctona, muy característica del paisaje cultural de la región montañosa del norte de Rumania en que se hallan.",
+      "ru": "Эти восемь церквей представляют собой выдающиеся примеры архитектурных решений, относящихся к разным периодам и районам. Они демонстрируют варианты подходов к проектированию и строительству подобных узких и высоких деревянных сооружений, имеющих одно- или двускатные крыши, покрытые дранкой, и характерные стройные часовые башни на западной стороне. Деревянные церкви придают культурному ландшафту этих горных районов на севере Румынии специфический народный характер.",
+      "ar": "تضم مجموعة كنائس ماراموريس الخشبية نخبة من ثمانية نماذج من التركيبات الهندسية المنبثقة عن مراحل ومناطق مختلفة. وهي تخطّ صورة حية لتنوع المفاهيم والمهارات الحرفية المتجلية في هذه الأبنية الخشبية المرتفعة والضيقة المزودة بقبة الجرس الشامخة من الجهة الغربية وبسقوف بسيطة أو مزدوجة مغطاة بألواح الغمو (وهي ألواح خشبية رقيقة). وتجسد هذه الكنائس تعبيراً محلياً خاصاً بالمنظر الثقافي الذي يميز المنطقة الجبلية الواقعة شمال رومانيا.",
+      "zh": "马拉暮莱斯的木结构教堂，展示了不同时期、不同地区的8个教堂建筑物的不同方面。它的设计灵活，具有多变性，工艺绝伦，极具个性。教堂西端有高耸的钟塔，单层和双层的屋顶铺盖着鹅卵石。马拉暮莱斯的木结构教堂是罗马尼亚北部地区重要的文化景观。"
+    },
+    "full": "These eight churches are outstanding examples of a range of architectural solutions from different periods and areas. They show the variety of designs and craftsmanship adopted in these narrow, high, timber constructions with their characteristic tall, slim clock towers at the western end of the building, either single- or double-roofed and covered by shingles. As such, they are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        4
+      ],
+      "natural": [],
+      "all": [
+        4
+      ],
+      "display": "(iv)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 0,
+      "square_km": 0.0,
+      "square_miles": 0.0,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1999,
+      "all_dates": [
+        1999
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1999,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2dd41f13bafa849c548c66c506a9c8d7",
+      "filename": "site_0904_0001-500-0-20080528173847.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 333
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113257/site_0904_0001.jpg",
+        "https://whc.unesco.org/document/113259/site_0904_0002.jpg",
+        "https://whc.unesco.org/document/113261/site_0904_0003.jpg",
+        "https://whc.unesco.org/document/113263/site_0904_0004.jpg",
+        "https://whc.unesco.org/document/113265/site_0904_0005.jpg",
+        "https://whc.unesco.org/document/113267/site_0904_0006.jpg",
+        "https://whc.unesco.org/document/121789/site_0904_0007.jpg",
+        "https://whc.unesco.org/document/121790/site_0904_0008.jpg",
+        "https://whc.unesco.org/document/121791/site_0904_0009.jpg",
+        "https://whc.unesco.org/document/121792/site_0904_0010.jpg",
+        "https://whc.unesco.org/document/121794/site_0904_0012.jpg"
+      ],
+      "count": 11
+    }
+  },
+  "components": {
+    "count": 8,
+    "locations": [
+      {
+        "name": "Church of Saint Nicholas",
+        "ref": "904-002",
+        "latitude": 47.7238888889,
+        "longitude": 23.9786111111
+      },
+      {
+        "name": "Church of the Holy Paraskeva",
+        "ref": "904-003",
+        "latitude": 47.7741666667,
+        "longitude": 23.8566666667
+      },
+      {
+        "name": "Church of the Holy Parasceve",
+        "ref": "904-006",
+        "latitude": 47.6988888889,
+        "longitude": 24.115
+      },
+      {
+        "name": "Church of the Holy Archangels",
+        "ref": "904-005",
+        "latitude": 47.5916666667,
+        "longitude": 23.6044444444
+      },
+      {
+        "name": "Church of the Holy Archangels",
+        "ref": "904-007",
+        "latitude": 47.47,
+        "longitude": 23.9283333333
+      },
+      {
+        "name": "Church of the Holy Archangels",
+        "ref": "904-008",
+        "latitude": 47.6066666667,
+        "longitude": 23.7566666667
+      },
+      {
+        "name": "Church of the Nativity of the Virgin",
+        "ref": "904-004",
+        "latitude": 47.6769444444,
+        "longitude": 24.2383333333
+      },
+      {
+        "name": "Church of the Presentation of the Virgin at the Temple",
+        "ref": "904-001",
+        "latitude": 47.8208333333,
+        "longitude": 24.0558333333
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/904",
+    "unesco_documents": "https://whc.unesco.org/en/list/904/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/904/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/904/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 26,
+    "inscription_year": 1999
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Wooden Churches of Maramureş These eight churches are outstanding examples of a range of architectural solutions from different periods and areas. They show the variety of designs and craftsmanship adopted in these narrow, high, timber constructions with their characteristic tall, slim clock towers at the western end of the building, either single- or double-roofed and covered by shingles. As such, they are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania. These eight churches are outstanding examples of a range of architectural solutions from different periods and areas. They show the variety of designs and craftsmanship adopted in these narrow, high, timber constructions with their characteristic tall, slim clock towers at the western end of the building, either single- or double-roofed and covered by shingles. As such, they are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania. Romania Europe and North America Cultural"
+}

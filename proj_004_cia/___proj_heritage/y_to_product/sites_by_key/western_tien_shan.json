@@ -1,0 +1,279 @@
+{
+  "site_key": "western_tien_shan",
+  "uuid": "7695dfdf-924f-59bc-bd7b-e1eb60e45c6c",
+  "unesco_id": "1490",
+  "names": {
+    "en": "Western Tien-Shan",
+    "fr": "Tien Shan occidental",
+    "es": "Tien-Shan occidental",
+    "ru": "Западный Тянь-Шань",
+    "ar": "موقع تيان شان الغربي",
+    "zh": "西部天山"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "KGZ": {
+        "name": "Kyrgyzstan",
+        "iso2": "KG",
+        "iso3": "KGZ"
+      },
+      "KAZ": {
+        "name": "Kazakhstan",
+        "iso2": "KZ",
+        "iso3": "KAZ"
+      },
+      "UZB": {
+        "name": "Uzbekistan",
+        "iso2": "UZ",
+        "iso3": "UZB"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": true,
+    "country_count": 3
+  },
+  "descriptions": {
+    "short": {
+      "en": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+      "fr": "Ce bien transnational se trouve dans le système de montagnes du Tien Shan, l'une des plus grandes chaînes de montagnes du monde. Le Tien Shan occidental varie en altitude de 700 à 4 503 m. Ce site comprend une grande diversité de paysages qui abritent une biodiversité́ exceptionnellement riche. Il est important au plan mondial comme centre d’origine d’un certain nombre d’espèces d’arbres fruitiers cultivés, et pour sa grande diversité de types de forêts et d’associations uniques de communautés de plantes.",
+      "es": "Este sitio transnacional de Asia Central se encuentra en la cadena montañosa de Tien-Shan, una de las siete mayores del mundo. Los diferentes elementos de su sistema montañoso tienen altitudes que varían entre 700 y 4.503 metros. Se trata de un sitio con gran diversidad de paisajes que albergan una biodiversidad excepcionalmente rica. La región de Tien-Shan occidental es importante en el plano mundial como centro de origen de varias especies de árboles frutales cultivados así como por su gran diversidad de tipos de bosque y por sus asociaciones únicas de plantas.",
+      "ru": "Этот трансграничный объект является частью центрально-азиатской горной системы Тянь-Шань – одной из семи крупнейших горных цепей мира. Высота различных участков западного Тянь-Шаня варьирует от 700 до 4503 метров. Данный объект изобилует разнообразными ландшафтами, для которых характерно исключительно богатое биоразнообразие. Регион западного Тянь-Шаня имеет мировое значение, так как является местом происхождения ряда видов фруктовых деревьев и отличается большим разнообразием типов лесов и уникальным растительным миром.",
+      "ar": "يوجد هذا الموقع العابر للحدود الوطنيّة في سلسلة جبال تيان شان التي تعد واحدة من أكبر السلسلات الجبلية في العالم. ويقع هذا المكان بالتحديد على ارتفاع يتراوح بين 700 و 4503 متراً. ويحوي مجموعة من المناظر الطبيعيّة الخلابة التي تحتضن في طياتها تنوعاً بيولوجيا غنياً. وتعود أهمية هذا الموقع العالميّة لكونه مركزاً لمجموعة من محاصيل الفواكه ومجموعة متنوّعة من الغابات وجمعيات نباتيّة محليّة فريدة.",
+      "zh": "这处跨国境遗产地位于世界上最大的山脉之一，天山山脉。西部天山位于海拔700米至4503米地带，地貌多样，生物种群极其丰富。这里不仅以多种水果作物的发源地而拥有世界性的重要地位，而且还拥有多样的森林类型和独特的植物群落体系。"
+    },
+    "full": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        10
+      ],
+      "all": [
+        10
+      ],
+      "display": "(x)",
+      "count": 1,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 528177.6,
+      "square_km": 5281.78,
+      "square_miles": 2137.462,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2016,
+      "all_dates": [
+        2016
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2016,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f07f31e6a527c7c18dc513209e21ce88",
+      "filename": "site_1490_0001.jpg",
+      "dimensions": {
+        "width": 3264,
+        "height": 2448
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/141995/site_1490_0001.jpg",
+        "https://whc.unesco.org/document/141997/site_1490_0003.jpg",
+        "https://whc.unesco.org/document/141998/site_1490_0004.jpg",
+        "https://whc.unesco.org/document/141999/site_1490_0005.jpg",
+        "https://whc.unesco.org/document/142000/site_1490_0006.jpg",
+        "https://whc.unesco.org/document/142001/site_1490_0007.jpg",
+        "https://whc.unesco.org/document/142002/site_1490_0008.jpg",
+        "https://whc.unesco.org/document/142003/site_1490_0009.jpg",
+        "https://whc.unesco.org/document/142004/site_1490_0010.jpg",
+        "https://whc.unesco.org/document/142005/site_1490_0011.jpg",
+        "https://whc.unesco.org/document/142006/site_1490_0012.jpg",
+        "https://whc.unesco.org/document/142007/site_1490_0013.jpg",
+        "https://whc.unesco.org/document/142008/site_1490_0014.jpg",
+        "https://whc.unesco.org/document/142009/site_1490_0015.jpg",
+        "https://whc.unesco.org/document/142010/site_1490_0016.jpg",
+        "https://whc.unesco.org/document/142011/site_1490_0017.jpg",
+        "https://whc.unesco.org/document/142012/site_1490_0018.jpg",
+        "https://whc.unesco.org/document/142013/site_1490_0019.jpg",
+        "https://whc.unesco.org/document/142014/site_1490_0020.jpg",
+        "https://whc.unesco.org/document/142015/site_1490_0021.jpg",
+        "https://whc.unesco.org/document/142016/site_1490_0022.jpg",
+        "https://whc.unesco.org/document/142017/site_1490_0023.jpg",
+        "https://whc.unesco.org/document/142018/site_1490_0024.jpg",
+        "https://whc.unesco.org/document/142019/site_1490_0025.jpg",
+        "https://whc.unesco.org/document/142020/site_1490_0026.jpg",
+        "https://whc.unesco.org/document/142021/site_1490_0027.jpg",
+        "https://whc.unesco.org/document/142022/site_1490_0028.jpg",
+        "https://whc.unesco.org/document/142023/site_1490_0029.jpg",
+        "https://whc.unesco.org/document/142024/site_1490_0030.jpg",
+        "https://whc.unesco.org/document/142025/site_1490_0031.jpg",
+        "https://whc.unesco.org/document/148461/site_1490_0032.jpg",
+        "https://whc.unesco.org/document/148462/site_1490_0033.jpg",
+        "https://whc.unesco.org/document/148463/site_1490_0034.jpg",
+        "https://whc.unesco.org/document/148464/site_1490_0035.jpg",
+        "https://whc.unesco.org/document/148465/site_1490_0036.jpg",
+        "https://whc.unesco.org/document/148466/site_1490_0037.jpg",
+        "https://whc.unesco.org/document/148467/site_1490_0038.jpg",
+        "https://whc.unesco.org/document/148468/site_1490_0039.jpg",
+        "https://whc.unesco.org/document/148469/site_1490_0040.jpg",
+        "https://whc.unesco.org/document/148470/site_1490_0041.jpg",
+        "https://whc.unesco.org/document/157050/site_1490_0042.jpg",
+        "https://whc.unesco.org/document/157051/site_1490_0043.jpg",
+        "https://whc.unesco.org/document/157052/site_1490_0044.jpg",
+        "https://whc.unesco.org/document/157053/site_1490_0045.jpg",
+        "https://whc.unesco.org/document/157054/site_1490_0046.jpg",
+        "https://whc.unesco.org/document/157055/site_1490_0047.jpg",
+        "https://whc.unesco.org/document/157056/site_1490_0048.jpg",
+        "https://whc.unesco.org/document/157057/site_1490_0049.jpg"
+      ],
+      "count": 48
+    }
+  },
+  "components": {
+    "count": 13,
+    "locations": [
+      {
+        "name": "Padysha-Ata State Nature Reserve",
+        "ref": "1490-011",
+        "latitude": 41.7244444444,
+        "longitude": 71.5783333333
+      },
+      {
+        "name": "Karatau State Nature Reserve (Kazakhstan)",
+        "ref": "1490-001",
+        "latitude": 43.7333333333,
+        "longitude": 68.6788888889
+      },
+      {
+        "name": "Sary-Chelek State Biosphere Nature Reserve",
+        "ref": "1490-008",
+        "latitude": 41.8736111111,
+        "longitude": 71.9372222222
+      },
+      {
+        "name": "Besh-Aral State Nature Reserve – main part",
+        "ref": "1490-009",
+        "latitude": 41.5919444444,
+        "longitude": 70.4577777778
+      },
+      {
+        "name": "Aksu-Jabagly State Nature Reserve – main part",
+        "ref": "1490-002",
+        "latitude": 42.2761111111,
+        "longitude": 70.6741666667
+      },
+      {
+        "name": "Besh-Aral State Nature Reserve - Shandalash area",
+        "ref": "1490-010",
+        "latitude": 42.075,
+        "longitude": 71.3
+      },
+      {
+        "name": "Sairam-Ugam State National Nature Park – Boraldaitau area",
+        "ref": "1490-005",
+        "latitude": 41.957699,
+        "longitude": 70.013503
+      },
+      {
+        "name": "Sairam-Ugam State National Nature Park – Sairam-Ugam area",
+        "ref": "1490-007",
+        "latitude": 42.13801,
+        "longitude": 70.26977
+      },
+      {
+        "name": "Sairam-Ugam State National Nature Park – Irsu-Daubabin area",
+        "ref": "1490-006",
+        "latitude": 42.404225,
+        "longitude": 70.270334
+      },
+      {
+        "name": "The Chatkal State Biosphere Nature Reserve – Maidantal area",
+        "ref": "1490-012",
+        "latitude": 41.3013888889,
+        "longitude": 70.255
+      },
+      {
+        "name": "Aksu-Jabagly State Nature Reserve – Aulie paleontological area",
+        "ref": "1490-004",
+        "latitude": 42.905,
+        "longitude": 70.0
+      },
+      {
+        "name": "The Chatkal State Biosphere Nature Reserve – Bashkizilsay area",
+        "ref": "1490-013",
+        "latitude": 41.21,
+        "longitude": 69.9341666667
+      },
+      {
+        "name": "Aksu-Jabagly State Nature Reserve – Karabastau paleontological area",
+        "ref": "1490-003",
+        "latitude": 42.94,
+        "longitude": 69.915
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1490",
+    "unesco_documents": "https://whc.unesco.org/en/list/1490/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1490/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1490/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2010s",
+    "era": "Contemporary Period (2010-2019)",
+    "age_years": 9,
+    "inscription_year": 2016
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Western Tien-Shan The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. Kyrgyzstan Kazakhstan Uzbekistan Asia and the Pacific Natural"
+}

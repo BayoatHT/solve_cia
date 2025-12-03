@@ -1,0 +1,886 @@
+{
+  "country": {
+    "code": "ZWE",
+    "name": "Zimbabwe"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "mosi_oa_tunya_victoria_falls",
+      "uuid": "2387209a-c4c0-5282-a0e6-8c3893917a9f",
+      "unesco_id": "509",
+      "names": {
+        "en": "Mosi-oa-Tunya / Victoria Falls",
+        "fr": "Mosi-oa-Tunya / Chutes Victoria",
+        "es": "Mosi-oa-Tunya – Cataratas Victoria",
+        "ru": "Моси-оа-Тунья/Водопад Виктория",
+        "ar": "موزي أوتامبرا /شلالات فكتوريا",
+        "zh": "莫西奥图尼亚瀑布（维多利亚瀑布）"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ZMB": {
+            "name": "Zambia",
+            "iso2": "ZM",
+            "iso3": "ZMB"
+          },
+          "ZWE": {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "iso3": "ZWE"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.",
+          "fr": "Elles figurent parmi les chutes d'eau les plus spectaculaires du monde. Le Zambèze, large de plus de 2 km à cet endroit, s'engouffre bruyamment dans une série de gorges de basalte, provoquant une brume irisée visible à plus de 20 km de distance.",
+          "es": "Estas cataratas figuran entre las más espectaculares del planeta. El río Zambeze, que tiene más de dos kilómetros de ancho en este lugar, se precipita con estruendo por una serie de desfiladeros basálticos, levantando una nube de rocío iridiscente que puede verse a más de 20 kilómetros de distancia.",
+          "ru": "Это один из самых великолепных водопадов мира. Он расположен на реке Замбези, ширина которой в данном месте превышает 2 км. Река с грохотом обрывается вниз в базальтовое ущелье, а облако водяных брызг можно видеть более чем за 20 км от водопада.",
+          "ar": "تعدّ هذه الشلالات الأروع في العالم، فشلال زامبيزي الذي يزيد عرضه على الكيلومترين في هذه النقطة يسقط هادراً في سلسلة من الفتحات المكوّنة من أحجار البازلت مخلفاً سحابة متقزحة بادية للعيان على بعد يفوق 20 كيلومتراً.",
+          "zh": "这是世界上最壮观的瀑布之一。赞比西河宽度超过2公里，瀑布奔入玄武岩峡谷，水雾形成的彩虹远隔20公里以外就能看到。"
+        },
+        "full": "These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.",
+        "justification": "Brief synthesis The Mosi-oa-Tunya/Victoria Falls is the world’s greatest sheet of falling water and significant worldwide for its exceptional geological and geomorphological features and active land formation processes with outstanding beauty attributed to the falls i.e. the spray, mist and rainbows. This transboundary property extends over 6860 ha and comprises 3779 ha of the Mosi-oa-Tunya National Park (Zambia), 2340 ha of Victoria Falls National Park (Zimbabwe), 741 ha of the riverine strip of Zambezi National Park (Zimbabwe). A riverine strip of the Zambezi National Park extending 9 km west along the right bank of the Zambezi and islands in the river are all within the Park as far as Palm and Kandahar Islands, with the Victoria Falls being one of the major attractions. The waterfall stands at an altitude of about 915 m above mean sea level (a.m.s.l.) and spans to about 1708 m wide with an average depth of 100 m and the deepest point being 108 m. Sprays from this giant waterfall can be seen from a distance of 30 km from the Lusaka road, Zambia and 50 km from Bulawayo road, Zimbabwe. Basalts have been cut by a river system producing a series of eight spectacular gorges that serve as breeding sites for four species of endangered birds. The basalts of the Victoria Falls World Heritage property are layered unlike those of the Giants Causeway World Heritage site which are vertical and columnar. Criterion (vii): The Mosi-oa-Tunya/Victoria Falls is the largest curtain of falling water in the world; it is 1708 m wide and with up to 500 million litres per minute descending at 61 m (Devil’s Cataract), 83 m (Main Falls), 99 m (Rainbow Falls), 98 m (Eastern Cataract). Eight spectacular gorges of igneous origin (i.e. comprising basalts) and several islands in the core zone serve as breeding sites for four endangered and migratory bird species, such as the Taita Falcon and Black Eagle. The riverine 'rainforest' within the waterfall splash zone is a fragile ecosystem of discontinuous forest on sandy alluvium, dependent upon maintenance of abundant water and high humidity resulting from the spray plume of about 500 m (at maximum height) that can be seen from a distance of 50 km and 30 km from Bulawayo and Lusaka roads respectively. A direct frontage viewing of the falls is possible from both Zambia and Zimbabwe. Criterion (viii): The Mosi-oa-Tunya/Victoria Falls and associated eight steep sided gorges have been formed through the changing waterfall positions over a geological time scale. The gorges are an outstanding example of river capture and the erosive forces of the water still continue to sculpture the hard basalts. These gorges take a zigzag course of a distance of about 150 km along the Zambezi River below the falls. Seven previous waterfalls occupied the seven gorges below the present falls, and the Devil's Cataract in Zimbabwe is the starting point for cutting back to a new waterfall. In addition, an aerial view of the falls shows possible future waterfall positions. Upstream are a spectacular series of riverine islands formed during the ongoing geological and geomorphological processes. The property is characterized by banded basalt of ancient lava flow, Kalahari sandstones and chalcedony out of which stone artefacts of Homo habilis dating three million years, stone tools of the middle Stone Age and weapons, adornments and digging tools of the late Stone Age that indicate occupation by hunter-gatherers. Integrity The transboundary property extends over 6860 ha, which is considered relatively intact and adequately sized to maintain the diverse natural processes, functions and interactions including the waterfall, gorges, riverine ecosystem, breeding ground, habitat or landing base for migratory endangered bird species making it an Important Bird Area (IBA), lava flows, ancient stone artefacts and tools for hunter-gatherers. It comprises 3779 ha of the Mosi-oa-Tunya National Park (Zambia), 2340 ha of the Victoria Falls National Park (Zimbabwe), and 741 ha of the riverine strip of Zambezi National Park (Zimbabwe). The boundary includes areas of the Zambezi River upstream of the waterfall both in Zimbabwe and in Zambia. The remaining area of these protected areas is considered as the buffer zone on either side of the Zambezi River in Southern Zambia and north‐western Zimbabwe. The Mosi‐oa‐Tunya National Park boundary follows the left bank between the Sinde River and the Songwe Gorge, bounded in the North by Dambwa Forest Reserve and the Maramba Township. On the right bank, the Victoria Falls National Park is bounded by the river from 6 km above to 12 km below the falls and by the town of Victoria Falls on the West. Sprays from this giant waterfall can be seen from a distance of 30 km from the Lusaka road, Zambia and 50 km from Bulawayo road, Zimbabwe. The system is directly bordered by three protected areas which serve as buffering system. Protection and management requirements The property is protected under the National Heritage Conservation Act (1998) and the Zambia Wildlife Act on the Zambia part and the Zimbabwe Parks and Wildlife Act Cap. 20. 14 of 2008 (revised) on the Zimbabwean side. This principal legislation provides for legal protection of the resources within the property. The property has a well-defined and buffered boundary which requires clean demarcation. It has a Joint Integrated Management Plan (JIMP) prepared in a participatory manner, approved by the State Parties in November 2007 and being implemented in a participatory manner. The Plan addresses specifically questions of transboundary coordination, management of urban and tourism facilities and funding schemes. It is divided into three administrative zones (High, Medium and Low Ecologically Sensitive Zones), each with specific prescriptions that best protect the specific resources and values found in each zone. These are surrounded by a buffer zone, and there is a challenge to ensure support for conservation within settlements in this area that pre-date the inscription of the property on the World Heritage List. The agreed institutional framework for the management of the property is at three levels: Joint Ministerial, Joint Technical and Joint Site Management Committees. The property requires continued maintenance and updating of its management plan, supported by adequate staffing and provision of financial resources. The falls being a major attraction, urban infrastructure developments, tourism facilities and services may impact the property’s integrity and therefore need to be carefully managed not to compromise the exceptional beauty and Outstanding Universal Value of the property. Effective and continued action is also required to tackle the current and potential impacts of alien species on the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            7,
+            8
+          ],
+          "display": "(vii)(viii)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 6860,
+          "square_km": 68.6,
+          "square_miles": 27.761,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1989,
+          "all_dates": [
+            1989
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1989,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d2cd6fbf6bb6ed88b827e625c45c3180",
+          "filename": "site_0509_0002-500-0-20151104125702.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110535/site_0509_0002.jpg",
+            "https://whc.unesco.org/document/110537/site_0509_0003.jpg",
+            "https://whc.unesco.org/document/110539/site_0509_0004.jpg",
+            "https://whc.unesco.org/document/110541/site_0509_0005.jpg",
+            "https://whc.unesco.org/document/110543/site_0509_0006.jpg",
+            "https://whc.unesco.org/document/110545/site_0509_0007.jpg",
+            "https://whc.unesco.org/document/110547/site_0509_0008.jpg",
+            "https://whc.unesco.org/document/110549/site_0509_0009.jpg",
+            "https://whc.unesco.org/document/110551/site_0509_0010.jpg",
+            "https://whc.unesco.org/document/110553/site_0509_0011.jpg",
+            "https://whc.unesco.org/document/110555/site_0509_0012.jpg",
+            "https://whc.unesco.org/document/120436/site_0509_0015.jpg",
+            "https://whc.unesco.org/document/120437/site_0509_0016.jpg",
+            "https://whc.unesco.org/document/120438/site_0509_0017.jpg",
+            "https://whc.unesco.org/document/120439/site_0509_0018.jpg",
+            "https://whc.unesco.org/document/122774/site_0509_0020.jpg",
+            "https://whc.unesco.org/document/122775/site_0509_0021.jpg",
+            "https://whc.unesco.org/document/122776/site_0509_0022.jpg",
+            "https://whc.unesco.org/document/122777/site_0509_0023.jpg",
+            "https://whc.unesco.org/document/122778/site_0509_0024.jpg",
+            "https://whc.unesco.org/document/122780/site_0509_0026.jpg",
+            "https://whc.unesco.org/document/122781/site_0509_0027.jpg",
+            "https://whc.unesco.org/document/131387/site_0509_0034.jpg",
+            "https://whc.unesco.org/document/131388/site_0509_0035.jpg",
+            "https://whc.unesco.org/document/131393/site_0509_0040.jpg",
+            "https://whc.unesco.org/document/131404/site_0509_0051.jpg",
+            "https://whc.unesco.org/document/131977/site_0509_0098.jpg",
+            "https://whc.unesco.org/document/131980/site_0509_0101.jpg",
+            "https://whc.unesco.org/document/131981/site_0509_0102.jpg",
+            "https://whc.unesco.org/document/133619/site_0509_0103.jpg",
+            "https://whc.unesco.org/document/133628/site_0509_0108.jpg",
+            "https://whc.unesco.org/document/133632/site_0509_0112.jpg",
+            "https://whc.unesco.org/document/133639/site_0509_0113.jpg",
+            "https://whc.unesco.org/document/133640/site_0509_0114.jpg",
+            "https://whc.unesco.org/document/133641/site_0509_0115.jpg",
+            "https://whc.unesco.org/document/133644/site_0509_0118.jpg",
+            "https://whc.unesco.org/document/133648/site_0509_0120.jpg",
+            "https://whc.unesco.org/document/133649/site_0509_0121.jpg"
+          ],
+          "count": 38
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Mosi-oa-Tunya / Victoria Falls",
+            "ref": "509",
+            "latitude": -17.92453,
+            "longitude": 25.85539
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/509",
+        "unesco_documents": "https://whc.unesco.org/en/list/509/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/509/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/509/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 36,
+        "inscription_year": 1989
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mosi-oa-Tunya / Victoria Falls These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away. These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away. Zambia Zimbabwe Africa Natural"
+    },
+    {
+      "site_key": "great_zimbabwe_national_monument",
+      "uuid": "9c332443-9a50-5e64-8982-0b1845ed7685",
+      "unesco_id": "364",
+      "names": {
+        "en": "Great Zimbabwe National Monument",
+        "fr": "Monument national du Grand Zimbabwe",
+        "es": "Monumento nacional del Gran Zimbabwe",
+        "ru": "Национальный памятник Великий Зимбабве",
+        "ar": "نصب زيمبابوي الكبرى الوطني",
+        "zh": "大津巴布韦国家纪念地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ZWE": {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "iso3": "ZWE"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards.",
+          "fr": "Les ruines du Grand Zimbabwe, qui, selon une légende séculaire, aurait été la capitale de la reine de Saba, sont un témoignage unique de la civilisation bantoue des Shona entre le XIe et le XVe siècle. La ville, d'une superficie de près de 80 ha fut un centre d'échanges important, renommé dès le Moyen Âge.",
+          "es": "Las ruinas del Gran Zimbabwe –capital de la reina de Saba, según una vieja leyenda– son un testimonio excepcional de lo que fue la civilización bantú de los shona entre los siglos XI y XV. La ciudad, que abarcaba una superficie de unas 80 hectáreas, fue un importante centro de intercambios comerciales, muy conocido desde la Edad Media.",
+          "ru": "Руины Великого Зимбабве, который, согласно древней легенде, был столицей царицы Савской, являются уникальными свидетельствами существования бантуязычной народности шона в период ХI-ХV вв. Этот город площадью около 80 га являлся важнейшим центром торговли и пользовался известностью с начала Средних веков.",
+          "ar": "تشكل انقاض زيمبابوي الكبرى التي كانت بحسب إحدى الأساطير العلمانية عاصمة ملكة سبأ شاهداً فريداً على حضارة البانتو الخاصة بقبائل شونا بين القرنين الحادي عشر والخامس عشر. وأصبحت المدينة الممتدة على مساحة تقارب 80 هكتاراً مركزاً هاماً للتبادل ذاعت شهرته منذ القرون الوسطى.",
+          "zh": "据一个古老的传说，大津巴布韦遗址是希巴皇后的首府，同时还是11世纪到15世纪期间绍纳城班图文明唯一的见证。这座城市面积将近80公顷，曾经是一个重要的贸易中心，自中世纪以来闻名于世。"
+        },
+        "full": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards.",
+        "justification": "Brief synthesis Great Zimbabwe National Monument is approximately 30 km from Masvingo and located in the lowveld at an altitude of some 1100 m in a sparsely populated region of the Bantu/Shona people. The property, built between 1100 and 1450 AD, extends over almost 800 ha and is divided into three groups: the Hill Ruins, the Great Enclosure and the Valley Ruins. The Hill Ruins, forming a huge granite mass atop a spur facing north-east/south-west, were continuously inhabited from the 11th to 15th centuries, and there are numerous layers of traces of human settlements. Rough granite rubble-stone blocks form distinct enclosures, accessed by narrow, partly covered, passageways. This acropolis is generally considered a 'royal city'; the west enclosure is thought to have been the residence of successive chiefs and the east enclosure, where six steatite upright posts topped with birds were found, considered to serve a ritual purpose. The Great Enclosure, which has the form of an ellipsis, is located to the south of the hills and dates to the 14th century. It was built of cut granite blocks, laid in regular courses, and contains a series of daga-hut living quarters, a community area, and a narrow passage leading to a high conical tower. The bricks (daga) were made from a mixture of granitic sand and clay. Huts were built within the stone enclosure walls; inside each community area other walls mark off each family's area, generally comprising a kitchen, two living huts and a court. The Valley Ruins are a series of living ensembles scattered throughout the valley which date to the 19th century. Each ensemble has similar characteristics: many constructions are in brick (huts, indoor flooring and benches, holders for recipients, basins, etc.) and dry stone masonry walls provide insulation for each ensemble. Resembling later developments of the Stone Age, the building work was carried out to a high standard of craftsmanship, incorporating an impressive display of chevron and chequered wall decorations. Scientific research has proved that Great Zimbabwe was founded in the 11th century on a site which had been sparsely inhabited in the prehistoric period, by a Bantu population of the Iron Age, the Shona. In the 14th century, it was the principal city of a major state extending over the gold-rich plateaux; its population exceeded 10,000 inhabitants. About 1450, the capital was abandoned because the hinterland could no longer furnish food for the overpopulated city and because of deforestation. The resulting migration benefited Khami, which became the most influential city in the region, but signaled waning political power. When in 1505 the Portuguese settled in Sofala, the region was divided between the rival powers of the kingdoms of Torwa and Mwene-Mutapa. Archaeological excavations have revealed glass beads and porcelain from China and Persia, and gold and Arab coins from Kilwa which testify to the extent of long-standing trade with the outer world. Other evidence, including potsherds and ironware, gives a further insight to the property’s socio-economic complexity and about farming and pastoral activities. A monumental granite cross, located at a traditionally revered and sacred spiritual site, also illustrates community contact with missionaries. Criterion (i): A unique artistic achievement, this great city has struck the imagination of African and European travellers since the Middle Ages, as evidenced by the persistent legends which attribute to it a Biblical origin. Criterion (iii): The ruins of Great Zimbabwe bear a unique testimony to the lost civilisation of the Shona between the 11th and 15th centuries. Criterion (vi): The entire Zimbabwe nation has identified with this historically symbolic ensemble and has adopted as its emblem the steatite bird, which may have been a royal totem. Integrity The property, extending to almost 800 ha, is considered relatively intact and of an appropriate size to maintain the diverse cultural needs, functions and interactions of the traditional and urban communities in an ongoing process. The boundaries and buffer zone have been delineated and are of sufficient size to contain the natural and aesthetic attributes of the property. It is well protected from modern environmental pressures and alternative land uses by surrounding cultural and traditional barriers, and by the traditional communities themselves. The natural environment within and around the Great Zimbabwe Estate is important for the survival of the archaeological remains and the understanding of the relationship between the built environment and its setting. Measures need to be continued so that this important attribute continues to be protected. The natural fauna has to a large extent been eliminated by poaching and other means. Although the flora is not much different from the surrounding areas, it needs to be kept under control, particularly from the invasive lantana camara. Authenticity The authenticity of the property is unquestionable, particularly the fossil localities which need to remain undisturbed. It is a non-functional sacred archaeological site that is still being used by contemporary communities for spiritual reasons. The method of construction is unique in African architecture and, although they are examples of similar work elsewhere, none are as distinguished and imposing as Great Zimbabwe. It is an edifice which emulates that of the prehistoric people and is unquestionably of Bantu origin. The Shona word Zimbabwe means the house in stone. The divine soapstone figurines, the Zimbabwe Birds, found within the ruins are testimony to the use of the site as place of worship spanning from the ancient past to the present day. Decay phenomena have occurred due to variations in temperature, soil moisture content, and tourism pressure, encroaching invasive vegetation and improper preservation methods. All of these factors need to be controlled through a sustained conservation and maintenance plan to maintain the conditions of authenticity. Particular attention needs to be put on the conservation techniques and materials employed as well as on the application of conservation standards that meet international requirements but are balanced with traditional uses at the property. Provisions should also be made to accommodate rituals and practices that substantiate the associative values of the property. Protection and management requirements The site has been legally protected since 1893 and is currently protected under the National Museum & Monuments Act Chapter 25:11 (1976) which provides for the legal protection of the resources within the property. The National Museums and Monuments of Zimbabwe (NMMZ), under the Ministry of Home Affairs, is the entity directly responsible for the management of the property. Funding for the management and conservation of the property comes mainly from the central government with limited income generated by entrance fees, accommodation and sale of publications which are used to finance projects at the national level at the discretion of the NMMZ Board of Trustees. Although there are management arrangements for the property, an updated and integrated Management Plan is critical to ensure the long term conservation of the property and address existing factors mainly potential encroachments, impacts from unplanned or inappropriate tourism development and public use. Adequate financial resources need to be provided to ensure the sustained implementation of conservation, maintenance and monitoring activities and skilled staff needs to exist to mitigate the progressive deterioration of the historic fabric. The Management Plan should also emphasize the implementation of programmes to enhance community participation and promote the continuation of the religious functions of the site."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 722,
+          "square_km": 7.22,
+          "square_miles": 2.922,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f7c8ef3966475409543930000c5f78d5",
+          "filename": "site_0364_0021.jpg",
+          "dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/219675/site_0364_0021.jpg",
+            "https://whc.unesco.org/document/219677/site_0364_0023.jpg",
+            "https://whc.unesco.org/document/219679/site_0364_0025.jpg",
+            "https://whc.unesco.org/document/219682/site_0364_0028.jpg",
+            "https://whc.unesco.org/document/219683/site_0364_0029.jpg",
+            "https://whc.unesco.org/document/219684/site_0364_0030.jpg",
+            "https://whc.unesco.org/document/219685/site_0364_0031.jpg",
+            "https://whc.unesco.org/document/219688/site_0364_0034.jpg",
+            "https://whc.unesco.org/document/110861/site_0364_0002.jpg",
+            "https://whc.unesco.org/document/110863/site_0364_0003.jpg",
+            "https://whc.unesco.org/document/110865/site_0364_0004.jpg",
+            "https://whc.unesco.org/document/110867/site_0364_0005.jpg",
+            "https://whc.unesco.org/document/110869/site_0364_0006.jpg",
+            "https://whc.unesco.org/document/110873/site_0364_0008.jpg",
+            "https://whc.unesco.org/document/110875/site_0364_0009.jpg",
+            "https://whc.unesco.org/document/110877/site_0364_0010.jpg",
+            "https://whc.unesco.org/document/110879/site_0364_0011.jpg",
+            "https://whc.unesco.org/document/133605/site_0364_0012.jpg",
+            "https://whc.unesco.org/document/133607/site_0364_0014.jpg",
+            "https://whc.unesco.org/document/133608/site_0364_0015.jpg",
+            "https://whc.unesco.org/document/133609/site_0364_0016.jpg",
+            "https://whc.unesco.org/document/133611/site_0364_0018.jpg",
+            "https://whc.unesco.org/document/133612/site_0364_0019.jpg",
+            "https://whc.unesco.org/document/219674/site_0364_0020.jpg",
+            "https://whc.unesco.org/document/219676/site_0364_0022.jpg",
+            "https://whc.unesco.org/document/219678/site_0364_0024.jpg",
+            "https://whc.unesco.org/document/219680/site_0364_0026.jpg",
+            "https://whc.unesco.org/document/219681/site_0364_0027.jpg",
+            "https://whc.unesco.org/document/219686/site_0364_0032.jpg",
+            "https://whc.unesco.org/document/219687/site_0364_0033.jpg",
+            "https://whc.unesco.org/document/219689/site_0364_0035.jpg",
+            "https://whc.unesco.org/document/219690/site_0364_0036.jpg"
+          ],
+          "count": 32
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Great Zimbabwe National Monument",
+            "ref": "364",
+            "latitude": -20.271169952,
+            "longitude": 30.9332689726
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/364",
+        "unesco_documents": "https://whc.unesco.org/en/list/364/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/364/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/364/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Great Zimbabwe National Monument The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards. The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards. Zimbabwe Africa Cultural"
+    },
+    {
+      "site_key": "khami_ruins_national_monument",
+      "uuid": "8569eada-54b6-5fb1-a3f7-31be15f5b220",
+      "unesco_id": "365",
+      "names": {
+        "en": "Khami Ruins National Monument",
+        "fr": "Ruines de Khami",
+        "es": "Monumento nacional de las ruinas de Khami",
+        "ru": "Национальный памятник Руины Кхами",
+        "ar": "آثار خامي",
+        "zh": "卡米国家遗址纪念地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ZWE": {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "iso3": "ZWE"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time.",
+          "fr": "Khami, qui se développa après l'abandon de la capitale du Grand Zimbabwe au milieu du XVIe siècle, présente un grand intérêt archéologique. Les objets originaires d'Europe et de Chine qu'on y a découverts montrent que la ville fut de longue date un carrefour commercial important.",
+          "es": "La ciudad de Khami, que cobró un gran auge tras el abandono de la capital del Gran Zimbabwe a mediados del siglo XVI, presenta un gran interés arqueológico. El descubrimiento de objetos procedentes de Europa y China ha puesto de manifiesto que esta ciudad fue un importante centro de intercambios comerciales durante mucho tiempo.",
+          "ru": "Древний город Кхами представляет значительный археологический интерес. Он стал развиваться после того, как в середине XVI в. столица Великий Зимбабве была оставлена населением. Здесь обнаружены предметы из Европы и Китая, и это свидетельствует о том, что на протяжении длительного времени Кхами являлся крупным торговым центром.",
+          "ar": "تتسم خامي التي نمت بعد هجر عاصمة زيمبابوي الكبيرة في منتصف القرن السادس عشر بأهمية أثرية جمة حيث تشير الأغراض المستقدمة من أوروبا والصين والتي تم اكتشافها ان المدينة شكلت لفترة طويلة ملتقى طرق تجاري هام.",
+          "zh": "卡米曾经是大津巴布韦的首都，并一度得到繁荣发展；在16世纪中叶被遗弃。而今卡米一跃成为重要的考古胜地。从来自欧洲以及中国的发掘物中可以推断，卡米拥有悠久的贸易史。"
+        },
+        "full": "Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time.",
+        "justification": "Brief synthesis Khami Ruins National Monument is located to the west of the Khami River, 22 km from the City of Bulawayo. The property, located on a 1300 m hilltop downstream from a dam built during 1928-1929, covers an area of about 108 ha, spread over a distance of about 2 km from the Passage Ruin to the North Ruin. The property was the capital of the Torwa dynasty, which arose from the collapse of the Great Zimbabwe Kingdom between 1450 -1650 and was abandoned during the Ndebele incursions of the 19th century. It is composed of a complex series of platforms of dry-stone walled structures, emulating a later development of Stone Age culture. The chief’s residence (Mambo) was located towards the north on the Hill Ruin site with its adjacent cultivation terraces. The population lived in daga huts of cobwork, surrounded by a series of granite walls. These structures display a high standard of workmanship, a great number of narrow passageways and perambulatory galleries and impressive chevron and chequered wall decorations. Khami conforms to Great Zimbabwe in a number of archaeological and architectural aspects but it possesses certain features particular to itself and its successors such as Danangombe and Zinjanja. Revetments or retaining walls found expression for the first time in the architectural history of the sub-region at Khami, and with it were elaborate decorations; it still has the longest decorated wall in the entire sub-region. The architecture of the site and the archaeological artefacts provide evidence for an exceptional understanding of strong, united, early civilizations. They also offer information on the property’s complex socio-economic, religious and spiritual significance for the local communities and for the overall chronological development of Zimbabwe tradition; initiated in Mapungubwe (South Africa), extending to Great Zimbabwe, and through the emergence of later states. The archaeological remains are also a testament to long-distance historic trade links with the Portuguese, and the wider world, the diverse range of imported artefacts provide evidence of 15th and 17th century Spanish porcelain, Rhineland stoneware and Ming porcelain, many of which are on display in the Museum of Natural History in Bulawayo. There is also a monumental granite cross which illustrates the contact with missionaries at a traditionally revered and sacred spiritual site. Khami is the second largest stone built monument in Zimbabwe. Its historical importance lies in its position at the watershed between the history of Great Zimbabwe and the later Zimbabwe period. It is one of the few Zimbabwe sites that were not destroyed by treasure hunters and its undisturbed stratigraphy is scientifically important in providing a much clearer insight into the history of the country. The climate supports a natural vegetation of open woodland, dominated by Combretum and Terminalia trees. Being close to the Kalahari Desert, the area is also vulnerable to droughts, and rainfall tends to vary considerably. The property has suffered some degradation due to variations in temperature, ground water, tourism, encroaching vegetation and applied preservation techniques. Criterion (iii): The property is a unique and exceptional testimony to a civilization which has disappeared.The architecture and archaeological artefacts of the site provide important scientific and historical evidence critical for the understanding of the full chronological development of the Zimbabwe tradition from the Stone Age to the Iron Age era. Criterion (iv):The property is an outstanding example of a type of building and architectural ensemble which illustrates a significant stage in history. It has yielded an exceptional long evidence related to human evolution and human environment dynamics, collectively extending from 100 000 years ago to date and demonstrates testimonial to the long distance trade with the outer world. Integrity Over its area of 108 ha, the property is relatively intact and appropriately maintains the diverse cultural and traditional processes, functions and interactions of the local communities. Dispersed over 2 km, extending from the Passage Ruin to the North Ruin, an appropriate degree of indigenous cultural processes remain for the property to be sufficiently well protected from environmental pressures and alternative land uses. The boundaries are also sufficient in size to fully capture the natural and aesthetic values. In addition to the established boundaries, the property has a buffer zone to retain the natural characteristics of the area. However, some negative effects on the relationship between the site and its setting are being caused by the expansion of the suburbs of Bulawayo (10 km distant), and the polluting discharge from the city’s effluent into the Khami River. The buffer zone needs to be carefully monitored so that this relationship does not erode any further. The ruins have been subjected to some natural erosion, veld fires, burrowing animals, encroaching vegetation, and the effects of tourism. Rain induced ground creepage down the site slopes has increased the incidence of wall cracks, bulges and collapses, adding to the deterioration of the structures, ornamental features and architectural coherence. Conservation and maintenance actions are needed to maintain the existing integrity of the historic fabric. Authenticity The authenticity of the historic evidence is unquestionable. The ruins generally follow the pattern and style of the Great Zimbabwe ruins but are considered to be a later development of that culture. It remains an undisturbed, non-functional, archaeological site whilst also still being used by contemporary communities for spiritual purposes. The dry-stone building traditions enhance the sacredness of the area, where human presence is traceable over 100,000 years. Acknowledging huts made of cobwork (daga) enhanced by decorative friezes, and surrounded by a series of granite walls, and with a great number of passage ways and uncovered perambulatory galleries, the current population maintains the historic traditions of the site. Khami has retained its authenticity largely in part due to the minimal interventions that have been carried out. All restorations have used traditional methods and no new materials have been added. Restorations nowadays are by anastylosis which ensures that no new materials are introduced to the fabric of the site and promotes use of traditional methods of construction. Protection and management requirements The archaeological zone was protected as a ‘Royal Reserve’ until the death of King Lobengule in 1893. In recognition of the historic, cultural and architectural significance of the site, it was scheduled as a National Monument in 1937. Currently the National Museums and Monuments Act Cap. 25:11 legally protect the property and its resources. Khami Ruins National Monument is managed by National Museums and Monuments as overall responsible Agency. At local level Khami falls under the Western Region administrative unit and a project manager, who liaises with the Regional Director and Executive Director on administrative and policy issues and is responsible for conservation and development. The government of Zimbabwe partly funds conservation work and also makes available funds for capital improvements through its Public Sector Investment Programme (PSIP). National Museums and Monuments provide some funds raised through entrance fees, filming fees, etc. for conservation. International cooperation has existed for financial support, including assistance for the development of a conservation and site management plan. A management plan, which derives from a master plan for resource conservation and development, exists and is currently being implemented in accordance with National Museums and Monuments Act. However, there are challenges for implementation because the community was not adequately involved in the nomination of the property and, therefore, do not fully understand the implications of its status. The management plan needs to be periodically updated to respond to new conditions as they arise. Although the well-defined and buffered boundary is not physically marked, a system of regular monitoring is in place but there are challenges in enforcing restrictions to regulate further developments, particularly from tourism development, and to maintain the conditions of integrity. Larger cooperation is needed to ensure the adequate management of the buffer zone and the conservation of its characteristics. A regular and well resourced conservation programme is required to maintain stone walls and landforms and to address factors that contribute to deterioration, such as water infiltration and pollution. An appropriate visitor use strategy, including the development of facilities, is needed to regulate visitation at the site and to adequately present and interpret its significance."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f335918112397a52a41dfc4c9d872548",
+          "filename": "site_0365_0001-500-0-20151105163050.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110881/site_0365_0001.jpg",
+            "https://whc.unesco.org/document/110883/site_0365_0002.jpg",
+            "https://whc.unesco.org/document/110887/site_0365_0004.jpg",
+            "https://whc.unesco.org/document/110889/site_0365_0005.jpg",
+            "https://whc.unesco.org/document/110891/site_0365_0006.jpg",
+            "https://whc.unesco.org/document/110893/site_0365_0007.jpg",
+            "https://whc.unesco.org/document/110895/site_0365_0008.jpg",
+            "https://whc.unesco.org/document/110897/site_0365_0009.jpg",
+            "https://whc.unesco.org/document/110899/site_0365_0010.jpg",
+            "https://whc.unesco.org/document/124419/site_0365_0013.jpg",
+            "https://whc.unesco.org/document/124420/site_0365_0014.jpg",
+            "https://whc.unesco.org/document/124421/site_0365_0015.jpg",
+            "https://whc.unesco.org/document/124422/site_0365_0016.jpg",
+            "https://whc.unesco.org/document/124423/site_0365_0017.jpg",
+            "https://whc.unesco.org/document/124424/site_0365_0019.jpg",
+            "https://whc.unesco.org/document/133614/site_0365_0021.jpg",
+            "https://whc.unesco.org/document/133616/site_0365_0023.jpg",
+            "https://whc.unesco.org/document/133617/site_0365_0024.jpg",
+            "https://whc.unesco.org/document/133618/site_0365_0025.jpg",
+            "https://whc.unesco.org/document/133625/site_0365_0027.jpg",
+            "https://whc.unesco.org/document/133626/site_0365_0028.jpg",
+            "https://whc.unesco.org/document/133627/site_0365_0029.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Khami Ruins National Monument",
+            "ref": "365",
+            "latitude": -20.15833333,
+            "longitude": 28.37666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/365",
+        "unesco_documents": "https://whc.unesco.org/en/list/365/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/365/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/365/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Khami Ruins National Monument Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time. Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time. Zimbabwe Africa Cultural"
+    },
+    {
+      "site_key": "mana_pools_national_park_sapi_and_chewore_safari_areas",
+      "uuid": "b0d71b85-0142-5936-ab22-19860d30d12a",
+      "unesco_id": "302",
+      "names": {
+        "en": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+        "fr": "Parc national de Mana Pools, aires de safari Sapi et Chewore",
+        "es": "Parque Nacional de Mana Pools y zonas de safari de Sapi y Chewore",
+        "ru": "Национальный парк Мана-Пулс, охотничьи резерваты Сапи и Чеворе",
+        "ar": "محمية مانا بولز الوطنية ومناطق سافاري سابي وشيووري",
+        "zh": "马纳波尔斯国家公园、萨比和切俄雷自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ZWE": {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "iso3": "ZWE"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area.",
+          "fr": "Au bord du Zambèze, de grands escarpements surplombent le fleuve et les plaines inondables où l'on trouve une concentration remarquable de faune sauvage comprenant notamment éléphants, buffles, léopards et guépards. Les crocodiles du Nil y sont également très nombreux.",
+          "es": "Este sitio se halla a orillas del Zambeze, en una zona donde se yerguen grandes farallones que dominan el río y las llanuras inundables. El parque alberga una cantidad excepcional de animales salvajes, en particular elefantes, búfalos, rinocerontes negros, leopardos y onzas. También se encuentran ejemplares abundantes del cocodrilo del Nilo.",
+          "ru": "В этом месте русло реки Замбези перегораживается выходами коренных пород, образуя несколько стариц. Водно-болотные угодья привлекают массу диких животных, включая слонов, буйволов, леопардов и гепардов. Это также место больших скоплений нильского крокодила.",
+          "ar": "ترتفع على ضفاف نهر زامبيزي منحدرات عالية مطلة على النهر والسهول المعرّضة للفيضان التي تحوي تجمعاً كبيراً من الحيوانات البرية كالفيلة والجواميس وفهود الليوبارد وفهود الغيبارد، بالإضافة الى عدد كبير من تماسيح النيل.",
+          "zh": "在赞比西河河岸，悬崖突兀，洪水冲成的平原为野生动物的生存提供了乐土，这里有大象、水牛群、豹子和猎豹。其中，尼尔鳄鱼是这个地区的一个重要种群。"
+        },
+        "full": "On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area.",
+        "justification": "Brief synthesis The Mana Pools National Park, Sapi and Chewore Safari Areas World Heritage Site is an area of dramatic landscape and ecological processes. Physically protected by the Zambezi River to the north and the steep escarpment (which rises to over 1,000 m from the valley floor) to the south, this substantial property of 676,600 ha provides shelter for immense congregations of Africa’s large mammal populations which concentrate in its flood plains. The Mana Pools are former channels of the Zambezi River, and ongoing geological processes present a good example of erosion and deposition by a large seasonal river including a clear pattern of plant succession on its alluvial deposits. While black rhino has disappeared since the property’s inscription, huge herds of elephant and buffalo, followed by zebra, waterbuck and many other antelope species and their associated predators including lion and hyena migrate to the area each year during the dry winter months. The river is also famous for its sizeable numbers of hippopotamus and Nile crocodile. Resident and migratory birdlife, with over 450 species recorded, is also abundant. Controlled hunting on quota is permitted in the safari areas. Criterion (vii): The annual congregation of animals in riparian parkland alongside the broad Zambezi constitutes one Africa's outstanding wildlife spectacles. Criterion (ix): The 'sand-bank' environment constitutes a good example of erosion and deposition by a large seasonal river (despite changes in river flow due to the Kariba Dam). There is a clear pattern of vegetation succession on the alluvial deposits. Seasonal movements of large mammals within the valley are of great ecological interest both because of interspecies and intraspecies differences. Criterion (x): At time of inscription the justification for this criterion was that the area is one of the most important refuges for black rhino in Africa as well as a number of other species considered threatened at that time. Today, the black rhino has now disappeared from the reserve although the property still contains important populations of threatened species including elephant and hippopotamus, as well as other threatened species such as lion, cheetah and wild dog. Leopard and brown hyena, classified as near threatened, and a large population of Nile crocodile, are also protected within the property. The area is also considered an important refuge for a number of plants and birds. Integrity The property is composed of three contiguous protected areas comprising the Mana Pools National Park (219,600 ha), Sapi Safari Area (118,000 ha) and Chewore Safari Area (339,000 ha) covering an entire area of 676,600 ha. Three other contiguous conservation areas, although not included in the property, include the Urungwe Safari Area (287,000 ha), Dande Safari Area (52,300 ha) and the Doma Safari Area (76,400 ha). In addition the Lower Zambezi National Park in Zambia (409,200 ha) is contiguous on the opposite bank of the river. It is considered that the property is relatively intact and adequately sized to maintain natural and functional ecological processes as well as to capture its natural and aesthetic values. Natural barriers created by the Zambezi River to the north and the steep escarpment to the south protect the property from environmental damage and alternative land uses. There is no permanent human habitation within the property. The greatest threat to the integrity of the property is that the ecology of the river is dominated by the regulating effect of the Kariba Dam. There is also continued threat of the construction of another dam along the Zambezi River in the Mapata Gorge, which would effectively negate the major value of the area. The possibility of oil prospection within the reserve has also been raised. When the property was inscribed in 1984 it contained about 500 black rhino, although due to poaching by the end of 1994 only ten animals remained. These were removed for safekeeping elsewhere, but poaching remains a problem for rhino re-introduction as well as for other species such as elephant. Protection and management requirements The property is legally managed by the Lower Zambezi Valley Parks and Wildlife Area Policy and the Zimbabwe Parks and Wildlife Act Cap. 20: 14 of 2008 (revised). This principal legislation provides for legal protection of the resources within the property. The property has a well-defined and buffered boundary which requires physical demarcation. Each of the three areas has functional Park Integrated Management Plans which require adequate staffing and resources for their implementation. A system of regular monitoring of the natural values of the property and on-going programmes to maintain habitats and landforms in their natural state, avoid disturbance and other impacts on wildlife, and to preserve the aesthetic values are in place. The property requires a World Heritage Property Integrated Management Plan to ensure long term priority for the protection of the natural values and to guard against encroachments and impacts from sport hunting (Sapi Safari Area), poaching, boating along the Zambezi, fishing, campsites/chalets for tourists and other inappropriate development. Management of visitor use to both prevent negative impacts and provide opportunities to experience the value of the property in a sustainable manner is a long-term requirement for the property. Plans are underway to declare the Mana Pools (Zimbabwe) and the Lower Zambezi National Park (Zambia) as a Transfrontier Park which will strengthen the management of the entire area."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 676600,
+          "square_km": 6766.0,
+          "square_miles": 2738.107,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1984,
+          "all_dates": [
+            1984
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1984,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/71620dc2f24248aa8bc993c651298c6d",
+          "filename": "site_0302_0001-500-0-20090918182318.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 384
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109962/site_0302_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/302",
+        "unesco_documents": "https://whc.unesco.org/en/list/302/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/302/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/302/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 41,
+        "inscription_year": 1984
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mana Pools National Park, Sapi and Chewore Safari Areas On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area. On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area. Zimbabwe Africa Natural"
+    },
+    {
+      "site_key": "matobo_hills",
+      "uuid": "0aad6a41-36e1-5eee-9591-18b5b4dbe2d9",
+      "unesco_id": "306",
+      "names": {
+        "en": "Matobo Hills",
+        "fr": "Monts Matobo",
+        "es": "Montes Matobo",
+        "ru": "Холмы Матобо",
+        "ar": "تلال ماتوبو",
+        "zh": "马托博山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ZWE": {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "iso3": "ZWE"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities.",
+          "fr": "Le site présente une profusion de formes rocheuses remarquables s’élevant au-dessus du bouclier de granit qui couvre la plus grande partie du Zimbabwe. Les grands blocs de roche offrent des abris naturels en abondance et sont associés à l’occupation humaine depuis le début de l’âge de pierre jusqu’au début des temps historiques, et de façon intermittente depuis lors. Ils abritent une collection de peintures rupestres exceptionnelles. Les monts Matobo demeurent un centre important pour la communauté locale qui utilise toujours les lieux sacrés et les sanctuaires en étroite liaison avec leurs activités traditionnelles, sociales et économiques.",
+          "es": "Este sitio se distingue por la profusión de formaciones rocosas muy características, que se elevan por encima de la masa granítica que cubre la mayor parte de Zimbabwe. Los grandes bloques de roca ofrecen abundantes refugios naturales que fueron ocupados sin interrupción por el ser humano desde la Edad de Piedra hasta los albores de los tiempos históricos, y luego de forma esporádica. Esos refugios albergan una serie excepcional de pinturas rupestres. Los Montes Matobo son todavía un centro de interés importante para la población local, cuya frecuentación de los lugares sagrados y santuarios existentes en ellos guarda una estrecha relación con sus actividades tradicionales, sociales y económicas.",
+          "ru": "Для этой местности характерны многочисленные скалистые холмы, возвышающиеся над гранитным щитом, покрывающим основную часть территории Зимбабве. Крупные скальные образования служили для древнего человека естественными укрытиями, с раннего каменного века и вплоть до начала нашей эры. Здесь также обнаружено великолепное собрание наскальной живописи. Холмы Матобо продолжают оставаться важным центром притяжения для местных сообществ, которые все еще используют святилища и священные места, тесно связанные с их традициями и социально-экономическим укладом, как места поклонения.",
+          "ar": "يتتضمن هذا الموقع عدداً وافراً من الأشكال الصخرية الملفتة المرتفعة فوق أرض حاتة من الغرانيت تغطي الجزء الأكبر من زمبابوي. وتتضمن الكتل الصخرية الكبيرة ملاجئ طبيعية كثيرة وترتبط بالوجود البشري المستمر منذ بداية العصر الحجري حتى بداية العصور التاريخية والمتقطع مذاك الحين، كما تحتضن مجموعة من اللوحات الرائعة المحفورة في الصخور. وتبقى تلال ماتوبو مركزاً هاماً للمجتمع المحلي الذي لا يزال يؤم الأماكن المقدسة والأضرحة المرتبطة على نحو وثيق بنشاطاته التقليدية الاجتماعية والاقتصادية.",
+          "zh": "津巴布韦大部分地区为花岗岩所覆盖，马托博地区具有最丰富的岩石地貌。这些巨石提供了大量的天然石洞，从石器时代早期直到较近的历史时期，断断续续一直与人类居所存在很大联系。这些巨石是岩画艺术的汇聚地。马托博山的神殿和宗教场所一直同当地的传统、社会活动和经济活动紧密相连，成为当地生活的焦点。"
+        },
+        "full": "The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities.",
+        "justification": "Brief synthesis The Matobo Hills some 35 km south of Bulawayo are a profusion of distinctive granite landforms, densely packed into a comparatively tight area, that rise up to form a sea of hills. Their forms have resulted from the varied composition and alignment of the granite rocks, which responded differently to millions of years of weathering. These extraordinary granite rock formations have exerted a strong presence over the whole area – both in natural and cultural terms. People have interacted with, and been inspired by, the dramatic natural rock formations of the Matobo Hills for over many millennia. This interaction has produced one of the most outstanding rock art collections in southern Africa; it has also fostered strong religious beliefs, which still play a major role in contemporary local society; and it demonstrates an almost uninterrupted association between man and his environment over the past 100,000 years. The Matobo Hills have one of the highest concentrations of rock art in Southern Africa dating back at least 13,000 years. The paintings illustrate evolving artistic styles and also socio-religious beliefs. The whole bears testimony to a rich cultural tradition that has now disappeared. The rich evidence from archaeology and from the rock paintings at Matobo provides evidence that the Matobo Hills have been occupied over a period of at least 500,000 years. Furthermore, this evidence provides a very full picture of the lives of foraging societies in the Stone Age and the way agricultural societies eventually came to displace them in the Iron Age. The Mwari religion which is still practiced in the area, and which may date back to the Iron Age, is the most powerful oracular tradition in southern Africa. The Matobo rocks are seen as the seat of god and of ancestral spirits. Sacred shrines within the hills are places where contact can be made with the spiritual world. The living traditions associated with the shrines represent one of the most powerful intangible traditions in southern Africa and one that could be said to be of universal significance. This is a community response to a landscape rather than individual ones. The natural qualities of Matobo, in terms of the power of the rocks and of the produce from the surrounding natural environment, thus have strong cultural associations. Criterion (iii): The Matobo Hills have one of the highest concentrations of rock art in southern Africa. The rich evidence from archaeology and from the rock paintings at Matobo provide a very full picture of the lives of foraging societies in the Stone Age and the way agricultural societies came to replace them. Criterion (v): The interaction between communities and the landscape, manifested in the rock art and also in the long-standing religious traditions still associated with the rocks, are community responses to a landscape. Criterion (vi): The Mwari religion, centred on Matobo, which may date back to the Iron Age, is the most powerful oracular tradition in southern Africa. Integrity In order to reflect a coherent landscape, encompassing not only the rock paintings and rock batholiths but also the strong social interaction between local people and these tangible aspects, the boundary encompasses the Rhodes Matopos National Park and two Rural District Councils of Matobo and Umzingwane. The boundary thus encompasses all the attributes of Outstanding Universal Value. Overall the rock paintings are in a fairly good state of preservation. Natural weathering is the main agent of change and although this has made some of the paintings difficult to decipher, the process is part of the relationship between the images and their setting. Further slight damage is being wrought by visitors. In only one cave are the paintings badly compromised: at Pomongwe Cave, experiments were carried out in the 1920s with linseed oil as a preservative and this has darkened the images. The archaeological evidence appears to be well protected – both within those caves, where large-scale excavations have taken place, and elsewhere in caves that could produce further evidence. Through a system of taboos and cultural norms that prohibit desecration, the long-standing intangible heritage of indigenous traditional religious beliefs and practices are still instrumental in the preservation of the tangible heritage. Around the two shrines, there are no artificial buildings, structures, walls or other traces of human presence, apart from a wooden palisade that demarcates the area beyond which people may not proceed without permission from the ancestral spirits who are consulted by the custodian and the elders. There are development pressure from the demand for amenities and facilities by visitors. Increased population has had a negative impact on the natural environment. The area is prone to droughts and floods and soil erosion is becoming a serious problem. There are also threats follows the introduction of exotic plants. Authenticity The authenticity of the hunter-gatherer and a few agriculturist rock paintings in the Matobo Hills area has been widely confirmed. The rock paintings survive in situ and are still linked to a landscape that reflects elements of the pastoral and agricultural traditions reflected in painted images. The living traditions and intangible heritage associated with the site and which bind the cultural and natural values together are still thriving. The annual pilgrimage in August attracts more than a thousand pilgrims who gather around the natural features of the rocks and the adjacent terraces, where participants dance, perform rituals, eat and sleep during the 3-week long ceremonies. Protection and management requirements The Matobo Hills World Heritage Landscape comprises three types of land ownership, recognized by Zimbabwean laws namely, state protected areas (Matopo National Parks), communal lands and state land without individual tenure (Matobo and Umzingwane Districts), and privately owned land with individual tenure (commercial farms). Each land category is administered by the following Acts of Parliament: Rural District Council Act (29:13), Parks and Wildlife Act (20:14) and Natural Resources Board Act (20:13). The Department of National Parks and Wild Life Management takes care of the natural resources, and the management of cultural properties falls under the National Museums and Monuments of Zimbabwe Act (25:11) irrespective of the land tenure. A Management Committee, consisting of key stakeholders has been established. The property was guided by a five year Management Plan for the period 2005-2009. For technical expertise the committee relies on technical staff drawn from the major stakeholders. Other organizations and agencies involved in management include the Natural Resources Board and the Forestry Commission. The Management Plan needs revising so that it is a live and relevant document that addresses the opportunities provided by inscription. The Plan also needs to support integrated management to achieve sustainable development, which respects both cultural and natural parameters of the cultural landscape, and fosters the integration of intangible heritage issues into management and interpretation. It also needs to address threats, such as from uncontrolled visitor access, soil erosion and invasive plants. There is also a need for conservation plans for key aspects of the site."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 205000,
+          "square_km": 2050.0,
+          "square_miles": 829.607,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/383946100c9810e0c5f6de5176857b3c",
+          "filename": "site_0306_0003-500-0-20151105163132.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109988/site_0306_0003.jpg",
+            "https://whc.unesco.org/document/109990/site_0306_0004.jpg",
+            "https://whc.unesco.org/document/109992/site_0306_0005.jpg",
+            "https://whc.unesco.org/document/109994/site_0306_0006.jpg",
+            "https://whc.unesco.org/document/109996/site_0306_0007.jpg",
+            "https://whc.unesco.org/document/109998/site_0306_0008.jpg",
+            "https://whc.unesco.org/document/110000/site_0306_0009.jpg",
+            "https://whc.unesco.org/document/110002/site_0306_0010.jpg",
+            "https://whc.unesco.org/document/110004/site_0306_0011.jpg",
+            "https://whc.unesco.org/document/110006/site_0306_0012.jpg",
+            "https://whc.unesco.org/document/110008/site_0306_0013.jpg",
+            "https://whc.unesco.org/document/110010/site_0306_0014.jpg",
+            "https://whc.unesco.org/document/110012/site_0306_0015.jpg",
+            "https://whc.unesco.org/document/110015/site_0306_0016.jpg",
+            "https://whc.unesco.org/document/110017/site_0306_0017.jpg",
+            "https://whc.unesco.org/document/133634/site_0306_0031.jpg",
+            "https://whc.unesco.org/document/133635/site_0306_0032.jpg",
+            "https://whc.unesco.org/document/133637/site_0306_0034.jpg",
+            "https://whc.unesco.org/document/133638/site_0306_0035.jpg",
+            "https://whc.unesco.org/document/133645/site_0306_0036.jpg",
+            "https://whc.unesco.org/document/133650/site_0306_0038.jpg",
+            "https://whc.unesco.org/document/133651/site_0306_0039.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Matobo Hills",
+            "ref": "306rev",
+            "latitude": -20.5,
+            "longitude": 28.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/306",
+        "unesco_documents": "https://whc.unesco.org/en/list/306/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/306/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/306/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Matobo Hills The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities. The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities. Zimbabwe Africa Cultural"
+    }
+  ]
+}

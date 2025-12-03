@@ -1,0 +1,175 @@
+{
+  "country": {
+    "code": "AND",
+    "name": "Andorra"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "madriu_perafita_claror_valley",
+      "uuid": "9336e9c8-ea85-5103-bea2-eedf84e49b75",
+      "unesco_id": "1160",
+      "names": {
+        "en": "Madriu-Perafita-Claror Valley",
+        "fr": "La Vallée du Madriu-Perafita-Claror",
+        "es": "Valle del Madriu-Perafita-Claror",
+        "ru": "Долина Мадриу-Перафита-Кларор",
+        "ar": "وادي مادريو- بيرافيتا- كلارور",
+        "zh": "马德留－配拉菲塔－克拉罗尔大峡谷"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AND": {
+            "name": "Andorra",
+            "iso2": "AD",
+            "iso3": "AND"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting.",
+          "fr": "Le paysage culturel de la vallée du Madriu-Perafita-Claror est un microcosme qui témoigne du génie déployé par les populations des Pyrénées au cours du millénaire pour exploiter les ressources locales. Ses paysages spectaculaires de montagnes déchiquetées et de glaciers, avec ses alpages et ses profondes vallées boisées, couvrent une zone de 4 247 ha, soit 9% de la superficie totale de l’Andorre. La vallée reflète les mutations du climat, des conditions économiques et des systèmes sociaux, ainsi que la permanence du pastoralisme et d’une forte culture montagnarde, illustrée notamment par la permanence d’un système de gestion communale des terrains datant du XIIIe siècle. Le site, dernier endroit du pays à ne pas disposer de route, comprend des habitations notamment des cabanes d’été pour les bergers, des champs en terrasse, des sentiers empierrés et des vestiges de fonderie.",
+          "es": "El paisaje cultural del Valle del Madriu-Perafita-Claror es un microcosmos sumamente representativo de la manera en que el hombre ha aprovechado los recursos de las zonas altas de la cordillera de los Pirineos a lo largo de milenios. Sus espectaculares paisajes de laderas escarpadas y glaciares con vastas praderas y abruptos valles boscosos cubren una superficie total de 4.247 hectáreas, es decir el 9% del territorio de Andorra. Estos paisajes no sólo constituyen testimonios de los cambios climáticos del planeta, sino también de los avatares económicos y de los sistemas sociales de sus habitantes, así como de la perdurabilidad del pastoreo y de la pujanza de la cultura montañesa. El sitio, que es el único lugar de Andorra sin carreteras, posee además diversos hábitats humanos –en particular, asentamientos estivales de pastores–, así como cultivos en terrazas, senderos de piedra y vestigios del trabajo de fundición del hierro.",
+          "ru": "Культурный ландшафт долины Мадриу-Кларор-Перафита представляет традиционные способы ресурсопользования, практиковавшиеся на протяжении тысячелетий в высокогорной зоне Пиренеев. Впечатляющие скалистые обрывы и ледники, открытые высокогорные пастбища и глубокие залесенные ущелья занимают 4 247 га, или 9% общей площади Андорры. Ландшафт отражает изменения климата, экономических условий и социальной системы в прошлом, а также демонстрирует устойчивость традиционного пастушеского уклада жизни. Здесь можно обнаружить летние жилища, террасированные поля, вымощенные камнем тропы и следы железоплавильного производства.",
+          "ar": "إن المنظر الثقافي في وادي مادريو- بيرافيتا- كلارور هو أشبه بعالم مصغّر يشهد على العبقرية التي أظهرتها شعوب البيرينيه خلال الألفية لاستثمار الموارد المحلية. وتغطّي هذه المناظر الطبيعية الخلابة للجبال الممزّقة الشكل ولجبال الجليد والمراعي الجبلية والوديان العميقة المشجّرة مساحة4247 هكتارا ، أي 9% من إجمالي مساحة الأندورا. أما الوادي، فيعكس تغييرات الطقس والشروط الاقتصادية والأنظمة الاجتماعية بالإضافة إلى استمرار الرعي والثقافة الجبلية المتجذّرة والتي تتمثل بشكل خاص في استمرار نظام الإدارة البلدية للأراضي التي تعود إلى القرن الثالث عشر. إن الموقع وهو آخر مكان في البلد ليس فيه طريق يشمل مساكن، لا سيما منها الأكواخ الصيفية للرعاة وحقول الزراعة والطرقات المبلّطة وبقايا مصانع السبك.",
+          "zh": "马德留－配拉菲塔－克拉罗尔大峡谷就是几千年来人们在高高的比利牛斯山脉上辛勤劳作的缩影。这里的冰川景观壮丽迷人，到处有悬崖峭壁、冰川林立，还有那广阔的高山牧场和层林覆盖的溪谷。遗产面积达4,247公顷，占安道尔公国总面积的9%。遗产反映了气候、经济和社会的变迁，以及田园主义的生生不息和山区文化的深厚浓郁。遗产地景观主要有房舍，尤其是避暑住区，还有梯田、石头小径和炼铁遗迹。"
+        },
+        "full": "The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting.",
+        "justification": "Brief synthesis The Madriu-Perafita-Claror Valley is an exceptional geographical unit located in the south-eastern part of the Principality of Andorra, in the heart of the Pyrenees. It covers an area of 4,247 ha or a little more than 9% of the national territory. A protective buffer zone of 4,092 ha surrounds this area. The upper part of the valley is an exposed glacial landscape, with spectacular steep cliffs, rock and lake glaciers. Lower down, the valley narrows and becomes more wooded, while in its lowest section the river flows into a short gorge. A secondary valley, the Perafita-Claror Valley, merges with the Madriu Valley from the South-West. The Madriu-Perfita-Claror Valley is a microcosm that illustrates the way in which man has harvested the mountain resources over the past millennia. It also reflects the persistence of an ancient communal system of land management – four communities own land within the property. Its spectacular glacial landscapes with vast pastures and wooded valleys reflect climate change, the economy and social systems, as well as the persistence of pastoralism and a strong mountain culture. The property, the last place in the country not to have roads, comprises amongst others diverse agro-pastoral complexes in the high mountain, agricultural centres in mid-mountain areas, a communication system based on a network of partially paved trails and the vestiges of a specific steelmaking activity: the Catalan Forge. More precisely, the inscribed site contains many traces of human occupation that express in a singular manner the perfect symbiosis and the precious balance between the land and humankind, between their resources and their needs; among these, bornes or small huts with vaulted stone roofs, some of which are still used by shepherds; orris in ruin, stables and cheese dairies, houses with side barns where grain and hay were stored; traces of terraced fields and foundries; low stone walls and paved tracks, etc. Criterion (v) : The Madriu-Perafita-Claror Valley is a microcosm of the way the inhabitants have harvested the scarce resources of the high Pyrenees over the past millennia to create a sustainable living environment in harmony with the mountain landscape. The valley is a reflection of an ancient communal system of land management that has survived over 700 years. Integrity The integrity of the Madriu-Perafita-Claror Valley is based on the geographical and historical uniqueness that characterizes it. The Valley forms a coherent unit of 4,247 ha combining cultural and natural values. In this encyclopaedic and essential landscape, the sedimentation of the physical and human experience is continuous. The buffer zones, including the extension in 2006 to the international border between Andorra and Spain, have enabled the protection of the entire property. Authenticity The Madriu-Perafita-Claror Valley bears an extraordinarily well-preserved and complete testimony to a way of life and relationship between people and their land, between nature and culture. In the Valley, a distinctive relationship between the populations and nature is evident. Based on respect for the environment and its emblematic character, this relationship has never faltered among the local population. Its character is defined by the wise use of the resources offered by the mountain and by the deep respect for the associated values and qualities. The customary standards that have preserved it and that rule it are the result of this symbiosis between man and his environment. The Madriu-Perafita-Claror Valley conserves its qualities intact. Historically preserved because of its distance from urban pressure areas and, for the most part, the absence of any road, the few interventions that could affect its authenticity, such as the use of some construction materials or the presence of mobile huts that do not conform to the heritage character of the Valley, are perfectly reversible. Protection and management requirements Listed as property of cultural interest in the category of cultural landscapes, in 2005, the Madriu-Perafita-Claror Valley is protected by the Law 9/2003 for cultural heritage of Andorra. In 2006, the protection zone prescribed by the Law was harmonized with the buffer zone. With regard to the management of the property, in agreement with the Law and the Declaration and Protection Decrees, the four local administrations concerned with the management of the Valley drafted and approved a management document that was validated by the Andorran Government. The Management Plan for the Madriu-Perafita-Claror Valley entered into force on 28 December 2011, and foresees the preservation of the cultural landscape, the biodiversity, the fauna and the flora. In accordance with efficient conservation goals, it controls the associated objectives and establishes the development of sustainable activities. In particular, it emphasizes the need to maintain traditional activities such as agriculture, which has noticeably declined and will require revitalization and support programmes so that the cultural landscape of the Madriu-Perafita-Claror Valley remains a living landscape and conserves the authenticity provided by the continuance of these cultural practices. Additionally, priority was given to the realization of an overall access strategy."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 4247,
+          "square_km": 42.47,
+          "square_miles": 17.187,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d34f14f35b86a9772f5b3a45dd3dc0ff",
+          "filename": "site_1160_0006-500-0-20140822171042.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115457/site_1160_0006.jpg",
+            "https://whc.unesco.org/document/115458/site_1160_0007.jpg",
+            "https://whc.unesco.org/document/115459/site_1160_0008.jpg",
+            "https://whc.unesco.org/document/115460/site_1160_0009.jpg",
+            "https://whc.unesco.org/document/115461/site_1160_0010.jpg",
+            "https://whc.unesco.org/document/115463/site_1160_0012.jpg",
+            "https://whc.unesco.org/document/115464/site_1160_0013.jpg",
+            "https://whc.unesco.org/document/115465/site_1160_0014.jpg",
+            "https://whc.unesco.org/document/115466/site_1160_0015.jpg",
+            "https://whc.unesco.org/document/115467/site_1160_0016.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Madriu-Perafita-Claror Valley",
+            "ref": "1160bis",
+            "latitude": 42.49472222,
+            "longitude": 1.595555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1160",
+        "unesco_documents": "https://whc.unesco.org/en/list/1160/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1160/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1160/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Madriu-Perafita-Claror Valley The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting. The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting. Andorra Europe and North America Cultural"
+    }
+  ]
+}

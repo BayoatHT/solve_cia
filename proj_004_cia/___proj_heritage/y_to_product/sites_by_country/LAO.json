@@ -1,0 +1,827 @@
+{
+  "country": {
+    "code": "LAO",
+    "name": "Laos"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "phong_nha_ke_bang_national_park_and_hin_nam_no_national_park",
+      "uuid": "2defbb0f-f41b-585f-98af-c90da0cf1df8",
+      "unesco_id": "951",
+      "names": {
+        "en": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
+        "fr": "Parc national de Phong Nha-Ke Bang et Parc national de Hin Nam No",
+        "es": "Parque Nacional de Phong Nha-Ke Bang y Parque Nacional de Hin Nam No",
+        "ru": "Национальный парк Фонгня-Кебанг и Национальный парк Хин Нам Но",
+        "ar": "منتزه فونغ نا-كي بانغ الوطني وحديقة هيم نام نو الوطنية",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "VNM": {
+            "name": "Vietnam",
+            "iso2": "VN",
+            "iso3": "VNM"
+          },
+          "LAO": {
+            "name": "Laos",
+            "iso2": "LA",
+            "iso3": "LAO"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts.",
+          "fr": "Ce bien transfrontalier, situé le long de la frontière entre le Viet Nam et la République démocratique populaire lao, constitue l’un des paysages karstiques en calcaire les plus exceptionnels et intacts au monde. Les formations karstiques de cette zone ont commencé à se développer il y a environ 400 millions d’années, à l’époque du Paléozoïque, ce qui en fait la zone karstique de grande échelle la plus ancienne d’Asie. Il présente des falaises spectaculaires, des dolines profondes et un vaste réseau de rivières souterraines. Plus de 220 kilomètres de grottes et de cours d’eau souterrains ont été répertoriés, dont beaucoup sont reconnus mondialement pour leur taille, leur beauté et leur valeur scientifique. Ce paysage ancien abrite une remarquable diversité d’écosystèmes, allant des forêts sèches de haute altitude poussant sur le karst aux forêts humides et denses de faible altitude. Ces milieux accueillent de nombreuses espèces végétales et animales rares ou uniques, dont plusieurs sont rares, menacées ou endémiques à la région. La biodiversité de cette région est non seulement exceptionnelle, mais elle joue également un rôle crucial dans les efforts de conservation à l’échelle mondiale.",
+          "es": "El Parque Nacional de Phong Nha-Ke Bang y el Parque Nacional de Hin Nam No es una extensión transfronteriza del Parque Nacional de Phong Nha-Ke Bang de Viet Nam, inscrito en 2003. Situado en las montañas de Annamite, cuenta con escarpados paisajes kársticos, profundas cuevas, incluida la vasta cueva de Xe Bang Fai, así como una rica biodiversidad y el uso tradicional local asociado. El parque se encuentra dentro del punto crítico de biodiversidad Indo-Burma, hogar de más de 1500 especies de plantas y 536 especies de vertebrados, incluyendo muchas especies endémicas y amenazadas a nivel mundial como el duc de canillas rojas y el pangolín malayo. En esta zona también habitan especies únicas como la rata de roca laosiana y la araña cazadora gigante. Sus diversos ecosistemas abarcan bosques de tierras bajas hasta hábitats kársticos de gran altitud.",
+          "ru": "Национальный парк Фонгня-Кебанг и Национальный парк Хин Нам Но представляют собой трансграничное расширение объекта «Национальный парк Фонгня-Кебанг» (Вьетнам), включённого в Список всемирного наследия в 2003 году. Объект находится в Аннамских горах. Его территория включает карстовые ландшафты и глубокие пещеры, в том числе обширную пещеру Хе Банг Фай. Здесь сохраняется богатое биоразнообразие, а также продолжаются традиционные практики местных сообществ, тесно связанные с природной средой. Парк находится в зоне Индо-Бирманского очага биоразнообразия и является средой обитания для более чем 1 500 видов растений и 536 видов позвоночных, включая множество эндемиков и находящихся под угрозой исчезновения видов, таких как немейский тонкотел и яванский ящер. Здесь также обитают такие уникальные виды, как лаосская скальная крыса и гигантский паук-охотник. Экосистемы объекта простираются от низменных лесов до высокогорных карстовых районов.",
+          "ar": "إنَّ منتزه فونغ نا-كي بانغ الوطني وحديقة هيم نام نو الوطنية هما عبارة عن توسيع عابر للحدود لمنتزه فونغ نا-كي بانغ الوطني في فييت نام، الذي أُدرج في القائمة في عام 2003. ويوجد هذا الموقع في جبال أناميت، ويضمُّ مناظر طبيعية كارستية وعرة وكهوفاً عميقة، من بينها كهف سي بانغ فاي الكبير، كما يحتوي على تنوع بيولوجي غني وتُمارَس فيه الاستخدامات التقليدية المرتبطة بهذا التنوع. وتوجد هذه الحديقة في بؤرة الهند-بورما للتنوع البيولوجي، وتؤوي أكثر من 1500 نوع نباتي و536 نوعاً من الفقاريات، من بينها الكثير من الأنواع المستوطنة والأنواع المهددة عالمياً مثل القردة حمراء الساق وآكل النمل الحرشفي السوندي. ويقطن في المنطقة أيضاً الجرذ الصخرى اللاوسي وعنكبوت هانتسمان الكبير. وتمتد نظمها الإيكولوجية المتنوعة من غابات الأراضي المنخفضة إلى الموائل الكارستية المرتفعة.",
+          "zh": ""
+        },
+        "full": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8,
+            9,
+            10
+          ],
+          "all": [
+            8,
+            9,
+            10
+          ],
+          "display": "(viii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 217447,
+          "square_km": 2174.47,
+          "square_miles": 879.978,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003,
+            2015,
+            2025
+          ],
+          "extensions": [
+            2015,
+            2025
+          ],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2015,
+              "event": "Extended"
+            },
+            {
+              "year": 2025,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 2
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aa7eddeaf9321ee27a5a2f1d076e4cb0",
+          "filename": "site_0951_0001.jpg",
+          "dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113743/site_0951_0001.jpg",
+            "https://whc.unesco.org/document/113745/site_0951_0002.jpg",
+            "https://whc.unesco.org/document/113747/site_0951_0003.jpg",
+            "https://whc.unesco.org/document/134797/site_0951_0004.jpg",
+            "https://whc.unesco.org/document/134798/site_0951_0005.jpg",
+            "https://whc.unesco.org/document/134799/site_0951_0006.jpg",
+            "https://whc.unesco.org/document/134800/site_0951_0007.jpg",
+            "https://whc.unesco.org/document/134801/site_0951_0008.jpg",
+            "https://whc.unesco.org/document/134802/site_0951_0009.jpg",
+            "https://whc.unesco.org/document/134803/site_0951_0010.jpg",
+            "https://whc.unesco.org/document/134804/site_0951_0011.jpg",
+            "https://whc.unesco.org/document/134805/site_0951_0012.jpg",
+            "https://whc.unesco.org/document/134806/site_0951_0013.jpg",
+            "https://whc.unesco.org/document/136106/site_0951_0014.jpg",
+            "https://whc.unesco.org/document/136107/site_0951_0015.jpg",
+            "https://whc.unesco.org/document/136108/site_0951_0016.jpg",
+            "https://whc.unesco.org/document/136109/site_0951_0017.jpg",
+            "https://whc.unesco.org/document/136110/site_0951_0018.jpg",
+            "https://whc.unesco.org/document/136111/site_0951_0019.jpg",
+            "https://whc.unesco.org/document/136112/site_0951_0020.jpg",
+            "https://whc.unesco.org/document/136113/site_0951_0021.jpg",
+            "https://whc.unesco.org/document/136114/site_0951_0022.jpg",
+            "https://whc.unesco.org/document/136115/site_0951_0023.jpg",
+            "https://whc.unesco.org/document/136116/site_0951_0024.jpg",
+            "https://whc.unesco.org/document/136117/site_0951_0025.jpg",
+            "https://whc.unesco.org/document/136118/site_0951_0026.jpg",
+            "https://whc.unesco.org/document/136119/site_0951_0027.jpg",
+            "https://whc.unesco.org/document/136120/site_0951_0028.jpg",
+            "https://whc.unesco.org/document/136121/site_0951_0029.jpg",
+            "https://whc.unesco.org/document/136122/site_0951_0030.jpg",
+            "https://whc.unesco.org/document/219851/site_0951_0031.jpg",
+            "https://whc.unesco.org/document/219852/site_0951_0032.jpg",
+            "https://whc.unesco.org/document/219853/site_0951_0033.jpg",
+            "https://whc.unesco.org/document/219854/site_0951_0034.jpg",
+            "https://whc.unesco.org/document/219855/site_0951_0035.jpg",
+            "https://whc.unesco.org/document/219856/site_0951_0036.jpg",
+            "https://whc.unesco.org/document/219857/site_0951_0037.jpg",
+            "https://whc.unesco.org/document/219858/site_0951_0038.jpg",
+            "https://whc.unesco.org/document/219859/site_0951_0039.jpg",
+            "https://whc.unesco.org/document/219860/site_0951_0040.jpg",
+            "https://whc.unesco.org/document/220602/site_0951_0041.jpg",
+            "https://whc.unesco.org/document/220603/site_0951_0042.jpg",
+            "https://whc.unesco.org/document/220604/site_0951_0043.jpg"
+          ],
+          "count": 43
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Hin Nam No National Park",
+            "ref": "951ter-001",
+            "latitude": 17.410984,
+            "longitude": 105.940936
+          },
+          {
+            "name": "Phong Nha-Ke Bang National Park",
+            "ref": "951ter-001",
+            "latitude": 17.516439,
+            "longitude": 106.110538
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/951",
+        "unesco_documents": "https://whc.unesco.org/en/list/951/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/951/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/951/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Phong Nha-Ke Bang National Park and Hin Nam No National Park This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts. This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts. Vietnam Laos Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "town_of_luang_prabang",
+      "uuid": "7640a014-85dd-50ce-87e0-2cf86eef525b",
+      "unesco_id": "479",
+      "names": {
+        "en": "Town of Luang Prabang",
+        "fr": "Ville de Luang Prabang",
+        "es": "Ciudad de Luang Prabang",
+        "ru": "Город Луанг-Прабанг",
+        "ar": "مدينة لوانغ برابانغ",
+        "zh": "琅勃拉邦的古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LAO": {
+            "name": "Laos",
+            "iso2": "LA",
+            "iso3": "LAO"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions.",
+          "fr": "Cette ville reflète la fusion exceptionnelle de l'architecture traditionnelle et des structures urbaines conçues par les autorités coloniales européennes aux XIXe et XXe siècles. Son paysage urbain unique, remarquablement bien conservé, illustre une étape majeure du mélange de ces deux traditions culturelles différentes.",
+          "es": "Esta ciudad es un ejemplo excepcional de la fusión de la arquitectura tradicional con las estructuras urbanas creadas por las autoridades coloniales europeas en los siglos XIX y XX. Su extraordinario paisaje urbano, muy bien conservado, ilustra una etapa clave de la mezcla de dos tradiciones culturales diferentes.",
+          "ru": "Луанг-Прабанг – это выдающийся пример синтеза в архитектуре и городской планировке народных лаосских традиций с принципами, привнесенными колониальными европейскими властями в XIX-XX вв. Уникальный, исключительно хорошо сохранившийся облик города иллюстрирует ключевой этап в соединении этих двух различающихся культурных традиций.",
+          "ar": "تعكس هذه المدينة اندماجاً متميزاً بين الهندسة التقليدية والتركيبات المدنية التي وضعتها السلطات الاستعمارية الأوروبية في القرنين التاسع عشر والعشرين. ويجسد هذا المنظر المدني الفريد الذي تم حفظه بصورة ممتازة مرحلة اساسية من المزج بين هذين التقليدين الثقافيين المختلفين.",
+          "zh": "琅勃拉邦的古城是19世纪至20世纪欧洲殖民者建造的传统建筑与老挝城市结构相融合的突出典范。它独特的镇区保存十分完美，表现了两种截然不同的文化传统相互融合的关键阶段。"
+        },
+        "full": "Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions.",
+        "justification": "Brief synthesis Luang Prabang is located in northern Laos at the heart of a mountainous region. The town is built on a peninsula formed by the Mekong and the Nam Khan River. Mountain ranges (in particular the PhouThao and PhouNang mountains) encircle the city in lush greenery. Many legends are associated with the creation of the city, including one that recounts that Buddha would have smiled when he rested there during his travels, prophesying that it would one day be the site of a rich and powerful city. Known as Muang Sua, then Xieng Thong, from the 14th to the 16th century the town became the capital of the powerful kingdom of Lane Xang (Kingdom of a Million Elephants), whose wealth and influence were related to its strategic location on the Silk Route. The city was also the centre of Buddhism in the region. Luang Prabang takes its name from a statue of Buddha, the Prabang, offered by Cambodia. After the establishment of the French Protectorate in 1893, following a period of turmoil during which the country was divided into three independent kingdoms, Luang Prabang once again became the royal and religious capital during the reign of King Sisavang Vong. It played this role until Vientiane became the administrative capital in 1946. Luang Prabang is exceptional for both its rich architectural and artistic heritage that reflects the fusion of Lao traditional urban architecture with that of the colonial era. Its remarkably well-preserved townscape reflects the alliance of these two distinct cultural traditions. The political and religious centre of Luang Prabang is the peninsula, with its royal and noble residences and religious foundations. The traditional urban fabric of the old villages, each with its temple, was preserved by later constructions. The colonial urban morphology, including the network of streets, overlapped harmoniously with the previous model. Formerly the town limits were defined by defensive walls. The richness of Luang Prabang architecture reflects the mix of styles and materials. The majority of the buildings are, following tradition, wooden structures. Only the temples are in stone, whereas one- or two-storey brick houses characterize the colonial element of the town. The many pagodas or Vat in Luang Prabang, which are among the most sophisticated Buddhist temples in Southeast Asia, are richly decorated (sculptures, engravings, paintings, gilding and furniture pieces). Wat Xieng Thong, which dates from the 16th century, comprises an ensemble of the most complex structures of all the pagodas of the town. It is remarkable both from the archaeological point of view, and from the Lao iconographic and aesthetic viewpoint. Many traditional Lao houses remain; they are built of wood using traditional techniques and materials introduced in the colonial period, such as plaited bamboo panels coated with wattle and daub. Brick colonial buildings, often with balconies and other decorative features in wood, line the main street and the Mekong.The built heritage of Luang Prabang is in perfect harmony in the natural environment. The sacred Mount Phousi stands at the heart of the historic town built on a peninsula delimited by the Mekong and the Nam Khan, domain of the mythical naga. Ceremonies to appease the nagas and other evil spirits, and Buddhist religious practices (Prabang procession, the monks’ morning quest) perpetuate the sanctity of the place. Natural spaces located in the heart of the city and along the riverbanks, and wetlands (a complex network of ponds used for fish farming and vegetable growing) complement this preserved natural environment. Criterion (ii): Luang Prabang reflects the exceptional fusion of Lao traditional architecture and 19th and 20th century European colonial style buildings. Criterion (iv): Luang Prabang is an outstanding example of an architectural ensemble built over the centuries combining sophisticated architecture of religious buildings, vernacular constructions and colonial buildings. Criterion (v): The unique townscape of Luang Prabang is remarkably well preserved, illustrating a key stage in the blending of two distinct cultural traditions. Integrity The integrity of the inscribed site is linked to an architectural and cultural heritage set in a natural landscape that reflects its Outstanding Universal Value. All of the significant elements, especially the urban fabric and major monuments (temples, public buildings, traditional houses), have been preserved.However, there are some threats to the site due to the rapid development of the town and strong economic pressures, many of which are related to tourism (transformation of use of buildings, departure of residents, illegal construction). Authenticity The landscapes and urban fabric retain a high degree of authenticity, and the site is not disturbed by any major construction.The religious buildings are regularly maintained; monks teach young monks restoration techniques for their heritage. Moreover, the Buddhist cult and the cultural traditions related to it (rites and ceremonies) are still alive and practiced diligently.However, the degree of the authenticity of materials and construction techniques of many houses is low, since, for a long period, unsuitable modern techniques and materials (concrete, in particular) have often been used to replace traditional materials. Protection and management requirements The protection of the monuments and religious buildings of Luang Prabang is ensured by Decree No. 1375: 1978 of the Ministry of National Education and Sports, under the responsibility of the national and provincial administrations of the Lao Buddhist Federation. Decree No. 139, 1990, of the Ministry of Information and Culture assigns responsibility for heritage protection to this Ministry (at national level), to the Information and Culture Service (regional level) and to the district (local level). Article 16 of the Law on Environmental Protection No 09/NA, 1999, focuses on the historical, cultural and natural heritage; Article 7 deals with the obligation to conduct a socio-environmental impact analysis before undertaking any development and infrastructure project. Law No. 08 / NA on the national heritage, enacted in 2005, reinforces this legal arsenal.The authorities have developed the tools necessary to manage the property: Law on urban heritage protection, establishment of decentralized cooperation with the French town of Chinon, creation of a Luang Prabang World Heritage Department and establishment of National and Local Heritage Committees.The Safeguarding and Enhancement Plan (SEP) of the city consists both of a regulatory component having the force of law and a more adaptable component regarding recommendations to support projects while leaving some flexibility The religious authorities are particularly sensitive to the value of their heritage, with the support of the population. To counter the negative effects of rapid urban development, the regulations of the SEP include measures that the Department of Heritage must apply under the responsibility of the Local Heritage Committee and the National Committee.To respond to the new challenges (sustainable tourism, preservation of landscapes and surrounding agricultural areas), a wide buffer zone of 12,500 ha has been defined in the context of the revision of the Urban Plan that was approved by decree of the Prime Minister in February 2012. Large projects (new town, big hotels) are deferred until their impact can be assessed in regard to the Plan. In addition, public buildings (primary school, Fine Arts School) will not be conceded to the private sector, but they will be restored and will retain their cultural vocation. The Heritage House was restructured to become the Heritage Department in 2009. The new Heritage Department ensures strict application of the SEP and Urban Plan. Its mission is also to coordinate the actions of the Local Committee, raise awareness of the universal values of the heritage of Luang Prabang and advise those involved in development and infrastructure projects. Measures related to the use of traditional materials and techniques (wood, brick, tile and local ceramic) will be strengthened in order to preserve the integrity of the built heritage and local building traditions."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4,
+            5
+          ],
+          "display": "(ii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 820,
+          "square_km": 8.2,
+          "square_miles": 3.318,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1995,
+          "all_dates": [
+            1995
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1995,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1cbe025cfec1c6b56debffbe6e829507",
+          "filename": "site_0479_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110136/site_0479_0001.jpg",
+            "https://whc.unesco.org/document/110138/site_0479_0002.jpg",
+            "https://whc.unesco.org/document/110139/site_0479_0003.jpg",
+            "https://whc.unesco.org/document/110141/site_0479_0004.jpg",
+            "https://whc.unesco.org/document/110143/site_0479_0005.jpg",
+            "https://whc.unesco.org/document/110145/site_0479_0006.jpg",
+            "https://whc.unesco.org/document/124664/site_0479_0015.jpg",
+            "https://whc.unesco.org/document/124665/site_0479_0016.jpg",
+            "https://whc.unesco.org/document/124666/site_0479_0017.jpg",
+            "https://whc.unesco.org/document/124668/site_0479_0019.jpg",
+            "https://whc.unesco.org/document/124669/site_0479_0020.jpg",
+            "https://whc.unesco.org/document/128835/site_0479_0021.jpg",
+            "https://whc.unesco.org/document/128836/site_0479_0022.jpg",
+            "https://whc.unesco.org/document/128839/site_0479_0025.jpg",
+            "https://whc.unesco.org/document/128840/site_0479_0026.jpg",
+            "https://whc.unesco.org/document/136783/site_0479_0028.jpg",
+            "https://whc.unesco.org/document/136784/site_0479_0029.jpg",
+            "https://whc.unesco.org/document/136785/site_0479_0030.jpg",
+            "https://whc.unesco.org/document/136786/site_0479_0031.jpg",
+            "https://whc.unesco.org/document/136787/site_0479_0032.jpg",
+            "https://whc.unesco.org/document/136788/site_0479_0033.jpg",
+            "https://whc.unesco.org/document/136789/site_0479_0034.jpg",
+            "https://whc.unesco.org/document/136790/site_0479_0035.jpg",
+            "https://whc.unesco.org/document/136791/site_0479_0036.jpg",
+            "https://whc.unesco.org/document/136792/site_0479_0037.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Town of Luang Prabang",
+            "ref": "479bis",
+            "latitude": 19.88889,
+            "longitude": 102.13333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/479",
+        "unesco_documents": "https://whc.unesco.org/en/list/479/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/479/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/479/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 30,
+        "inscription_year": 1995
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Town of Luang Prabang Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions. Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions. Laos Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "vat_phou_and_associated_ancient_settlements_within_the_champasak_cultural_landscape",
+      "uuid": "4865eec9-b10e-58e2-8930-db0497581fac",
+      "unesco_id": "481",
+      "names": {
+        "en": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+        "fr": "Vat Phou et les anciens établissements associés du paysage culturel de Champassak",
+        "es": "Vat Phu y antiguos poblamientos anejos del paisaje cultural de Champasak",
+        "ru": "Культурный ландшафт Тямпасак с храмовым комплексом Ват-Фу и окружающими древними поселениями",
+        "ar": "معبد فات فو والمنشآت القديمة الملحقة بالمنظر الثقافي في مقاطعة تشامباساك",
+        "zh": "占巴塞文化景观内的瓦普庙和相关古民居"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LAO": {
+            "name": "Laos",
+            "iso2": "LA",
+            "iso3": "LAO"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire.",
+          "fr": "Le paysage culturel de Champassak, y compris l'ensemble du temple de Vat Phou, représente une zone de paysage planifiée remontant à plus de mille ans et remarquablement bien conservée. Afin d'exprimer la conception hindoue des rapports entre la nature et l'homme, il a été façonné selon un axe compris entre le sommet de la montagne et les rives du fleuve dans un entrelacs géométrique de temples, de sanctuaires et d'ouvrages hydrauliques s'étendant sur quelque 10 km. Le site comprend aussi deux villes anciennes, construites sur les rives du Mékong et la montagne de Phou Kao, l'ensemble représentant un processus d'aménagement s'étendant sur plus de mille ans, du Ve au XVe siècle, associé surtout à l'Empire khmer.",
+          "es": "Creado por el hombre, el paisaje cultural de Champasak comprende el templo Vat Phu y se halla en un estado admirable de conservación, pese a que tiene más de mil quinientos años de antigüedad. Ideado para expresar la visión hindú de las relaciones entre el hombre y la naturaleza, se creó en función de un eje trazado desde la cumbre de una montaña hasta las orillas de un río, a fin de dar una configuración geométrica a todo un conjunto de templos, santuarios y obras hidráulicas que se extienden a lo largo de unos diez kilómetros. El sitio, que comprende también el monte Phu Kao y dos antiguas ciudades construidas en las márgenes del río Mekong, es ilustrativo de un proceso de creación de un paisaje cultural a lo largo de más de mil años –desde el siglo V hasta el XV– que se debe principalmente al Imperio Jémer.",
+          "ru": "Этот объект Всемирного наследия представляет собой спланированный более тысячи лет назад и прекрасно сохранившийся до наших дней ландшафт, включающий храмовый комплекс Ват-Фу. Его планировка подчеркивает неразрывную связь человека с природой. Все строения, растянувшиеся на 10 километров, выстроены по линиям, спускающимся с горных вершин к берегам реки Меконг. Их разбивают геометрические формы храмов, святилищ, гидравлических механизмов. Объект включает два древних города, построенных на берегу Меконга и в горах Фу Као. Весь этот культурный ландшафт создавался на протяжении более тысячи лет - с V по XV век в эпоху Кхмерской империи.",
+          "ar": "يشكل المنظر الثقافي في مقاطعة تشامباساك بما في ذلك معبد فات فو بأكمله منطقة مخططة أنشئت منذ أكثر من ألف عام وجرى حفظها بصورة ممتازة. وقد تم تصميم هذا المنظر حسب محور ممتد بين قمة الجبل وضفاف النهر ضمن مشبكات هندسية من المعابد والأضرحة والمنجزات المائية الممتدة على 10 كيلومترات تعبيراً عن المفهوم الهندوسي للعلاقات بين الطبيعة والإنسان. ويتضمن الموقع ايضاً مدينتين قديمتين شيّدتا على ضفاف نهر ميكونغ وجبل فو كاو في منظر يجسّد عملية تنظيم استغرقت أكثر من ألف سنة أي من القرن الخامس حتى القرن الخامس عشر وارتبطت بامبراطورية الخمير بصورة خاصة.",
+          "zh": "占巴塞文化景观，包括瓦普神庙建筑群，是一处完好保留了1000多年的人类文化景观。占巴塞文化景观，以山顶至河岸为轴心，在方圆10公里的地方，整齐而有规划地建造了一系列庙宇、神殿和水利设施，完美表达了古代印度文明中天人关系的文化理念。占巴塞文化景观还包括湄公河两岸的两座文化名城和普高山，体现了公元5世纪到15世纪以高棉帝国为代表的老挝文化发展概况。"
+        },
+        "full": "The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 39000,
+          "square_km": 390.0,
+          "square_miles": 157.828,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ec5b9cad93841b2843ccdcc7d6cb8907",
+          "filename": "site_0481_0010.jpg",
+          "dimensions": {
+            "width": 1596,
+            "height": 1071
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110152/site_0481_0010.jpg",
+            "https://whc.unesco.org/document/110153/site_0481_0011.jpg",
+            "https://whc.unesco.org/document/110155/site_0481_0012.jpg",
+            "https://whc.unesco.org/document/110158/site_0481_0013.jpg",
+            "https://whc.unesco.org/document/110159/site_0481_0014.jpg",
+            "https://whc.unesco.org/document/110161/site_0481_0015.jpg",
+            "https://whc.unesco.org/document/136793/site_0481_0016.jpg",
+            "https://whc.unesco.org/document/136794/site_0481_0017.jpg",
+            "https://whc.unesco.org/document/136795/site_0481_0018.jpg",
+            "https://whc.unesco.org/document/136796/site_0481_0019.jpg",
+            "https://whc.unesco.org/document/136797/site_0481_0020.jpg",
+            "https://whc.unesco.org/document/136798/site_0481_0021.jpg",
+            "https://whc.unesco.org/document/136799/site_0481_0022.jpg",
+            "https://whc.unesco.org/document/136800/site_0481_0023.jpg",
+            "https://whc.unesco.org/document/136801/site_0481_0024.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+            "ref": "481",
+            "latitude": 14.8483333333,
+            "longitude": 105.8222222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/481",
+        "unesco_documents": "https://whc.unesco.org/en/list/481/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/481/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/481/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire. The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire. Laos Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "megalithic_jar_sites_in_xiengkhuang_plain_of_jars",
+      "uuid": "88f62835-548e-5a62-aa43-0259e1d42b63",
+      "unesco_id": "1587",
+      "names": {
+        "en": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+        "fr": "Sites de jarres mégalithiques de Xieng Khouang – plaine des Jarres",
+        "es": "Sitios de tinajas megalíticas de Xieng Khuang – Llano de las Tinajas",
+        "ru": "Мегалитические кувшины в Сиангкхуанг: Долина кувшинов",
+        "ar": "مواقع الجرار المغليثية في زيانغهوانغ – سهل الجرار",
+        "zh": "川圹巨石缸遗址-石缸平原"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LAO": {
+            "name": "Laos",
+            "iso2": "LA",
+            "iso3": "LAO"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Plain of Jars, located on a plateau in central Laos, gets its name from more than 2,100 tubular-shaped megalithic stone jars used for funerary practices in the Iron Age. This serial property of 15 components contains large carved stone jars, stone discs, secondary burials, tombstones, quarries and funerary objects dating from 500 BCE to 500 CE. The jars and associated elements are the most prominent evidence of the Iron Age civilization that made and used them until it disappeared, around 500 CE.",
+          "fr": "Plus de 2 100 jarres de pierre mégalithiques ont donné leur nom à la plaine des Jarres, située sur un plateau du Laos central. De forme tubulaire, elles étaient destinées à des pratiques funéraires au cours de l’Âge du fer. Ce bien en série de 15 éléments comprend des grandes jarres de pierre taillée, des disques de pierre, des sépultures secondaires, des pierres tombales ou encore des carrières et des objets funéraires. Les sites datent de 500 AEC à 500 EC. Il s’agit du témoignage le plus important de la civilisation de l’Âge du fer qui les fabriqua et les utilisa avant de disparaître vers 500 EC.",
+          "es": "El nombre de este llano, situado en una meseta del centro de Laos, se debe a las 2.100 tinajas megalíticas de forma tubular, diseminadas por su territorio, que datan de la Edad del Hierro en este país (siglos V a.C. – V d.C.) y estaban destinadas a la ejecución de diversas prácticas funerarias. Este bien cultural en serie consta de 15 elementos que, además de contar con esas grandes tinajas de piedra tallada, poseen también discos de piedra, sepulturas accesorias, lápidas sepulcrales, objetos funerarios y canteras. El Llano de las Tinajas es el testimonio más importante de las construcciones y prácticas culturales humanas de la civilización de la Edad del Hierro en Laos.",
+          "ru": "Долина кувшинов, расположенная на плато центрального Лаоса, получила свое название от более 2100 трубчатых по форме мегалитических кувшинов, которые использовались в погребальных обрядах в железном веке. Данный объект состоит из 15 элементов и включает большие кувшины из резного камня, каменные диски, вторичные захоронения, надгробия, карьеры и погребальные предметы, датируемые 500 г. до н.э.- 500 г. н.э. Эти мегалитические кувшины и связанные с ними элементы являются наиболее ярким свидетельством цивилизации железного века, изготовлявшей и использовавшей эти объекты вплоть до своего исчезновения примерно в 500 году н. э.",
+          "ar": "اكتسب سهل الجرار، الواقع هضبة في وسط لاوس، اسمه هذا من أكثر من 2100 جرة حجرية تعود للعصر الحجري. وكانت الجرار أنبوبية الشكل، مخصصة لمراسم الدفن خلال العصر الحديدي. ويتكون هذا الموقع من سلسلة تضم 15 عنصراً من الجرار الكبيرة المصنوعة من الحجارة المنحوتة، والأقراص الحجرية، والمدافن الثانوية، وشواهد القبور، والمحاجر ومعدات مراسم الدفن. وتعود المواقع إلى الفترة الممتدة من 500 قبل الميلاد حتى 500 ميلادي. ويعد من أبرز المواقع الشاهدة على حضارة العصر الحديدي التي شيدتها واستخدمتها قبل أن تختفي حوالي عام 500 ميلادي.",
+          "zh": "位于老挝中部高原的石缸平原得名于其上的2100多个巨型石缸，这些石缸是铁器时代的丧葬遗迹。整个遗产地包含15个组成部分。除巨型石缸之外，这里还有可追溯到公元前500年至公元500年的石盘、墓葬品、墓碑、采石场等。石缸和相关元素是这个铁器时代文明最突出的证据，这些物品的制造和使用贯穿该文明的整个过程，直至其于公元500年前后消失。"
+        },
+        "full": "The Plain of Jars, located on a plateau in central Laos, gets its name from more than 2,100 tubular-shaped megalithic stone jars used for funerary practices in the Iron Age. This serial property of 15 components contains large carved stone jars, stone discs, secondary burials, tombstones, quarries and funerary objects dating from 500 BCE to 500 CE. The jars and associated elements are the most prominent evidence of the Iron Age civilization that made and used them until it disappeared, around 500 CE.",
+        "justification": "Brief synthesis More than 2100 tubular-shaped megalithic stone jars used for funerary practices in the Iron Age give the Plain of Jars its name. This serial property of 15 components contains 1325 of these large carved stone jars, stone discs (possibly lids for the jars), secondary burials, grave markers, quarries, manufacturing sites, grave goods and other features. Located on hill slopes and spurs surrounding the central plateau, the jars are large, well-crafted, and required technological skill to produce and move from the quarry locations to the funerary sites. The jars and associated elements are the most prominent evidence of the Iron Age civilisation that made and used them, about which little is known. The sites are dated from between 500 BCE and 500 CE (and possibly up to as late as 800 CE). The jars and associated archaeological features provide evidence of these ancient cultural practices, including associated social hierarchies. The Plain of Jars is located at an historical crossroads between two major cultural systems of Iron Age southeast Asia – the Mun-Mekong system and the Red River/Gulf of Tonkin system. Because the area is one that facilitated movement through the region, enabling trade and cultural exchange, the distribution of the jars sites is thought to be associated with overland routes. Criterion (iii): The Plain of Jars exhibits an exceptional testimony to the civilisation that made and used the jars for their funerary practices over a period from approximately 500 BCE to sometime after 500 CE. The size of the megalithic jars, and their large number and wide distribution within the Province of Xiengkhuang is remarkable, and the serial property of 15 components contains a range of sites that can attest to the quarrying, manufacturing, transportation and use of the funerary jars over this lengthy period of southeast Asian cultural histories. Integrity The integrity of the serial property is based on the material evidence contained in the 15 components, the intactness of the individual components and the series as a whole, and the relatively stable state of conservation of the attributes. There are impacts on the visual integrity of some components, such as the construction of new houses and Buddhist temple outside the buffer zone for Site 1; poorly sited roads/tracks within several components; and conservation problems and intrusive constructions within Site 3. Some attributes have been damaged in the past by bombing and other effects of war, and by cattle grazing. Authenticity The authenticity of the serial property is based on the form, design, materials and locations of the megalithic jars and other attributes such as lids, secondary burials and archaeological deposits. For the most part, the materials are original, located in their original locations, with relatively little disturbance to the archaeological deposits. While past factors have damaged the jars and their settings, their abundance, antiquity and condition support the authenticity of the serial property. Management and protection requirements The serial property is protected under the Law on National Heritage 2013, supported by the Decree of the President of the Lao People’s Democratic Republic on the Preservation of Cultural, Historical and Natural Heritage 1997, and the Provincial Governor’s Decree concerning the Management and Conservation of the Plain of Jars World Heritage Sites No. 996. In addition, Decree No. 870 concerning Establishment and Operation of Plain of Jars Heritage Technical Division sets up the structure, duties of the newly-established site management office. Provincial governor’s Decree No. 995 provides a mechanism for funding site conservation through revenue sharing from tourism. Implementation of the mechanisms of protection occurs at the national, provincial, district and village levels. Coordination is provided by the National Committee for World Heritage and the Xiengkhuang Heritage Steering Committee. A 5-year action plan of specific projects has been developed, including an archaeological research plan, as well as resources for fencing, basic visitor facilities, road improvements, implementation of the national heritage law, and production of interpretive materials. The day-to-day management of most components is provided by nearby villages based on contracts established with the Provincial Government; and a formula for sharing the income from ticket sales with local communities is in place. The main factors affecting this property are processes of natural deterioration and future development pressures. The State Party has recently achieved the clearance of UXO from the components, commendably removing a challenging barrier to access, research and safety. The management system requires further development, including the establishment of a management plan and a conservation plan to ensure coordination and consistent conservation approaches, and to pursue needed longer-term strategic improvements. A number of aspects of the management system are yet to be fully implemented, such as the arrangements for Heritage Impact Assessment. Interpretation and provision of information about the sites to visitors are modest and should be enhanced in the longer term, particularly in light of continuing archaeological research and sustainable tourism initiatives for the Province."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 174.56,
+          "square_km": 1.75,
+          "square_miles": 0.706,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7b6dd04ca2d89bfac08e16af6e06a61f",
+          "filename": "site_1587_0017.jpg",
+          "dimensions": {
+            "width": 945,
+            "height": 701
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/167013/site_1587_0017.jpg",
+            "https://whc.unesco.org/document/167014/site_1587_0018.jpg",
+            "https://whc.unesco.org/document/191023/site_1587_0030.jpg",
+            "https://whc.unesco.org/document/167012/site_1587_0016.jpg",
+            "https://whc.unesco.org/document/167015/site_1587_0019.jpg",
+            "https://whc.unesco.org/document/167016/site_1587_0020.jpg",
+            "https://whc.unesco.org/document/167017/site_1587_0021.jpg",
+            "https://whc.unesco.org/document/167018/site_1587_0022.jpg",
+            "https://whc.unesco.org/document/167019/site_1587_0023.jpg",
+            "https://whc.unesco.org/document/167020/site_1587_0024.jpg",
+            "https://whc.unesco.org/document/167021/site_1587_0025.jpg",
+            "https://whc.unesco.org/document/167022/site_1587_0026.jpg",
+            "https://whc.unesco.org/document/167024/site_1587_0028.jpg",
+            "https://whc.unesco.org/document/167025/site_1587_0029.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 15,
+        "locations": [
+          {
+            "name": "Site 1",
+            "ref": "1587-001",
+            "latitude": 19.4310555556,
+            "longitude": 103.152219444
+          },
+          {
+            "name": "Site 8",
+            "ref": "1587-008",
+            "latitude": 19.2841638889,
+            "longitude": 103.153055556
+          },
+          {
+            "name": "Site 2",
+            "ref": "1587-002",
+            "latitude": 19.3194166667,
+            "longitude": 103.153580556
+          },
+          {
+            "name": "Site 12",
+            "ref": "1587-009",
+            "latitude": 19.4830555556,
+            "longitude": 103.433055556
+          },
+          {
+            "name": "Site 21",
+            "ref": "1587-010",
+            "latitude": 19.4780555556,
+            "longitude": 103.087219444
+          },
+          {
+            "name": "Site 23",
+            "ref": "1587-011",
+            "latitude": 19.545275,
+            "longitude": 103.694997222
+          },
+          {
+            "name": "Site 25",
+            "ref": "1587-012",
+            "latitude": 19.6299972223,
+            "longitude": 103.096108333
+          },
+          {
+            "name": "Site 42",
+            "ref": "1587-014",
+            "latitude": 19.5891638889,
+            "longitude": 103.568055556
+          },
+          {
+            "name": "Site 52",
+            "ref": "1587-015",
+            "latitude": 19.495,
+            "longitude": 103.432222222
+          },
+          {
+            "name": "Site 28",
+            "ref": "1587-013",
+            "latitude": 19.5711083334,
+            "longitude": 102.887219444
+          },
+          {
+            "name": "Site 3 – Group 2",
+            "ref": "1587-004",
+            "latitude": 19.2908277777,
+            "longitude": 103.148938889
+          },
+          {
+            "name": "Site 3 – Group 4",
+            "ref": "1587-005",
+            "latitude": 19.2938027777,
+            "longitude": 103.153666667
+          },
+          {
+            "name": "Site 3 – Group 5",
+            "ref": "1587-006",
+            "latitude": 19.2960805555,
+            "longitude": 103.159330556
+          },
+          {
+            "name": "Site 3 – Group 7",
+            "ref": "1587-007",
+            "latitude": 19.2891916666,
+            "longitude": 103.142302778
+          },
+          {
+            "name": "Site 3 – Groups 1 & 3",
+            "ref": "1587-003",
+            "latitude": 19.2929972222,
+            "longitude": 103.150691667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1587",
+        "unesco_documents": "https://whc.unesco.org/en/list/1587/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1587/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1587/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars The Plain of Jars, located on a plateau in central Laos, gets its name from more than 2,100 tubular-shaped megalithic stone jars used for funerary practices in the Iron Age. This serial property of 15 components contains large carved stone jars, stone discs, secondary burials, tombstones, quarries and funerary objects dating from 500 BCE to 500 CE. The jars and associated elements are the most prominent evidence of the Iron Age civilization that made and used them until it disappeared, around 500 CE. The Plain of Jars, located on a plateau in central Laos, gets its name from more than 2,100 tubular-shaped megalithic stone jars used for funerary practices in the Iron Age. This serial property of 15 components contains large carved stone jars, stone discs, secondary burials, tombstones, quarries and funerary objects dating from 500 BCE to 500 CE. The jars and associated elements are the most prominent evidence of the Iron Age civilization that made and used them until it disappeared, around 500 CE. Laos Asia and the Pacific Cultural"
+    }
+  ]
+}

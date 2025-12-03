@@ -1,0 +1,1134 @@
+{
+  "country": {
+    "code": "IRQ",
+    "name": "Iraq"
+  },
+  "total_sites": 6,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 3,
+  "sites": [
+    {
+      "site_key": "ashur_qal_at_sherqat",
+      "uuid": "8a1304e9-e776-5e57-89a7-0a7f913dc3e7",
+      "unesco_id": "1130",
+      "names": {
+        "en": "Ashur (Qal'at Sherqat)",
+        "fr": "Assour (Qal'at Cherqat)",
+        "es": "Asur (Qal’at Sherqat)",
+        "ru": "Древний город Ашшур (Калат-Шергат)",
+        "ar": "آشور (قلعة الشرقاط)",
+        "zh": "亚述古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The ancient city of Ashur is located on the Tigris River in northern Mesopotamia in a specific geo-ecological zone, at the borderline between rain-fed and irrigation agriculture. The city dates back to the 3rd millennium BC. From the 14th to the 9th centuries BC it was the first capital of the Assyrian Empire, a city-state and trading platform of international importance. It also served as the religious capital of the Assyrians, associated with the god Ashur. The city was destroyed by the Babylonians, but revived during the Parthian period in the 1st and 2nd centuries AD.",
+          "fr": "La cité antique d’Assour se trouve sur les rives du Tigre, dans le nord de la Mésopotamie, dans une zone géo-écologique particulière, à la frontière séparant l’agriculture avec système d’irrigation de celle qui n’en possède pas. La ville est née au troisième millénaire avant J.-C. Du XIVe au IXe siècle avant J.-C., en tant que première capitale de l’Empire assyrien, elle fut une ville-État et un carrefour commercial international. Elle fut aussi la capitale religieuse des Assyriens, associée au dieu Assour. La ville fut détruite par les Babyloniens mais renaquit de ses cendres à l'époque parthe, aux Ie r et IIe siècles.",
+          "es": "Situada al norte de Mesopotamia, a orillas del Tigris, la antigua ciudad de Asur está emplazada en una zona geoecológica peculiar, donde la agricultura de regadío limita con la de secano. Asur, que se fundó tres mil años antes de la era cristiana, recibió el nombre de su dios protector y fue la capital religiosa de los asirios. Entre los siglos XIV y IX a. C., esta ciudad-estado fue la primera capital del Imperio Asirio y un importante centro internacional de intercambios comerciales. Tras su destrucción a manos de los babilonios, renació de sus cenizas en tiempos del Imperio Parto (siglos I y II d.C.).",
+          "ru": "Древний город Ашшур расположен на реке Тигр в северной Месопотамии в переходной природной зоне, на границе между влажными и засушливыми районами. Город ведет свою историю с 3-го тысячелетия до н.э. В ХIV-IХ вв. до н.э. он был первой столицей Ассирийской империи, городом-государством и центром торговли международного значения. Он также служил религиозной столицей ассирийцев, будучи тесно связанным с культом бога Ашшура. Город был разрушен вавилонянами, но возродился в Парфянский период в I-II вв. н.э.",
+          "ar": "تقع مدينة آشور العتيقة على ضفاف نهر دجلة، شمال بلاد ما بين النهرين، في منطقة جغرافية بيئية مميزة، على الحدود التي تفصل الزراعة بنظام ريّ عن الزراعة التي لا أنظمة ريّ فيها. وقد نشأت المدينة في الألفية الثالثة ق.م. وبين القرنين الرابع عشر والتاسع ق.م.، أصبحت هذه المدينة بصفتها العاصمة الأولى للامبراطورية الأشورية مدينة دولة ومفترقًا تجاريًا دوليًا. وكانت أيضًا العاصمة الدينية للأشوريين، تيمّنًا بالإله آشور. ثم دمِّرت المدينة على يد البابليين ولكنها نهضت من الرماد في الحقبة البارثيّة في القرنين الأول والثاني.",
+          "zh": "亚述古城位于美索不达米亚北部底格里斯河的特殊地带上，处于雨水灌溉农业和人工灌溉农业的交界处，其历史可以追溯到公元前3000年。公元前14世纪到公元前9世纪，亚述古城是城市国家亚述帝国的第一个都城，是重要的国际贸易平台。古城同时也是帝国的宗教都城，与阿舒尔神紧密相连。亚述古城最后被巴比伦人摧毁，但在公元1世纪和2世纪帕提亚时代经历过短暂的复兴。"
+        },
+        "full": "The ancient city of Ashur is located on the Tigris River in northern Mesopotamia in a specific geo-ecological zone, at the borderline between rain-fed and irrigation agriculture. The city dates back to the 3rd millennium BC. From the 14th to the 9th centuries BC it was the first capital of the Assyrian Empire, a city-state and trading platform of international importance. It also served as the religious capital of the Assyrians, associated with the god Ashur. The city was destroyed by the Babylonians, but revived during the Parthian period in the 1st and 2nd centuries AD.",
+        "justification": "Brief synthesis The ancient city of Ashur is located on the Tigris River in northern Mesopotamia in a specific geo-ecological zone, at the borderline between rain-fed and irrigation agriculture. The site is surrounded to the east by the Tigris, to the north by a plain with a wadi (valley) corresponding to a former branch of the Tigris and to the west and south by hilly landscapes. The city dates back to the 3rd millennium BC. From the 14th to the 9th centuries BC, it was the first capital of the Assyrian Empire, a city-state and trading platform of international importance. It also served as the religious capital of the Assyrians, associated with the god Ashur. The city was destroyed by the Babylonians, but revived during the Parthian period in the 1st and 2nd centuries AD. The area of the entire archaeological site of Ashur (70 ha) includes temples, three ziggurats, palaces, graves and private houses within the city walls, as well as the area of the Assyrian New Year’s festival building to the north-west. In addition, a 100-ha buffer zone has been defined 500 m from the western and southern boundaries of the archaeological site. It gained its reputation because it was the city of the god Ashur, the national deity of the Assyrians. Before the Assyrians, that is from the first half of the 3rd millennium BC, the existence of substantial cultic buildings is attested. This means that the site was already a developed and organized urban system, the only one of this size known in the entire area. It was also the place where the Assyrian kings were crowned and buried. As one of the few archaeological multi-period sites in Assyria of its kind, the remains of its buildings and their furnishings have been extensively excavated. The architectural and artistic record is accompanied by a large corpus of cuneiform texts which attest a leading role of Ashur in religion and scholarship, especially during the Middle- and Neo-Assyrian periods. Within the framework of the other three Assyrian capitals (Nimrud, Dur-Sharrukin and Nineveh), Ashur is the only example of an urban site where continuity and change of the Assyrian civilization pertaining to religious, public and domestic architecture, artistic production, urban planning, religious and political systems, economic subsistence and social patterns is revealed by the archaeological and textual evidence throughout the recorded archaeological periods. At Ashur, the early steps towards a systematic shaping of Assyrian cities could be observed for the first time within the limits of an extremely restricted space and a grown urban system, this in contrast to all the later Assyrian capitals. The tight and complex cultural identity is expressed by the fact that the land, the god and the city bore the same name: Ashur. It is clear that, already during pre-Assyrian periods, the site played an important role in the land of Subartu, since it was a desired place for foreign control over the region during the Akkad and Ur III periods (last quarter of the 3rd millennium BC). Ashur has an outstanding density of excavated architectural remains from different parts of the Assyrian periods without comparison. The ensemble of public buildings (temples, palaces, city walls) finds its counterpart in several areas of domestic architecture. As for the religious architecture, the presence of three ziggurats erected of mud bricks and two double temples should be mentioned as well as the temple of the national god Ashur. Of them, the impressive ziggurat of the god Ashur is still standing today and is a visible landmark. Whereas these buildings embody the Assyrian architectural tradition, the temple of Ishtar alone features a different building tradition (bent axis), which has its origin possibly in the area southeast of Assyria. At two places, a sequence of royal palaces was observed, one of them saved later as burial place for Assyrian kings. Hellenistic remains and those of the Arab Hatrene kings are attested. The surface of the site is partly covered by the excavation debris from several generations of archaeological excavations. More than 1,000 inhumations in graves and tombs from the Parthian period, mainly located inside the buildings, provide important information on aspects of burial rites and funerary culture. The Parthian palace and a temple close to the ziggurat are architectural testimonies of this period. Presently, residential areas of the Parthian period are being excavated. Criterion (iii): Ashur, founded in the 3rd millennium BC, is an exceptional testimony to succeeding civilizations from the Sumerian period in the 3rd millennium BC to the Assyrian empire from the 14th to 9th centuries, and, later, the Parthian revival in the 2nd century BC. Its most important role was from the 14th to 9th century BC when it was the first capital of the Assyrian empire, the religious capital of Assyrians, and the place for crowning and burial of its kings. Criterion (iv): The excavated remains of the public and residential buildings of Ashur provide an outstanding record of the evolution of building practice from the Sumerian and Akkadian period through the Assyrian empire, as well as including the short revival during the Parthian period. Integrity Ashur contains all the attributes that express its Outstanding Universal Value, such as the archaeological monuments and elements of urban planning within its boundaries and its integrity is fundamentally unimpaired. These attributes are though vulnerable or potentially vulnerable to threats or to the impacts of restoration and reconstruction. Authenticity The site of Ashur had been abandoned at the end of the Parthian period (2nd century BC), and, in contrast to many other sites in the region, there was no further occupation. Therefore, the authenticity of the remains is unquestionable and the attributes clearly and fully reflect Outstanding Universal Value. There are two major structures built in the 19th and 20th centuries: Ottoman military barracks at the north-eastern edge of the site, used until 1991 as the site museum, and the excavation house, erected by the German expedition and restored by the State Board of Antiquities and Heritage. There are also two small guard houses at the site. As for restoration works, traditional techniques and materials (mudbricks and plaster) have been applied in the 1980s for partial reconstruction of the Old Palace, the temple of Anu and Adad and parts of the city wall, based on the excavated evidence. The walls stand up to a height of ca. 2 m. Baked bricks have been used for the Tabira gate, the temple of Ishtar and parts of the Parthian palace. Gypsum and as little concrete as possible served as mortars. Protection and management requirements The city of Ashur is the property of the State of Iraq, and it is taken care of by the staff of the State Board of Antiquities and Heritage, within the Ministry of Culture. It had been protected under the 1937 Law of Antiquities and its further amendments, and is now protected, as well as its buffer zone, under the Law of Antiquities and Heritage No 55, dated October 2002. The protection and management of the site is the responsibility of the State Board of Antiquities and Heritage (former Directorate General of Antiquities). Locally, the archaeological site is under the responsibility of the Inspector of Antiquities in the province of Salah Addin. Excavations are conducted by the Department of Excavations and Archaeological Investigation of the State Board of Antiquities and Heritage, Ministry of Culture. The site has 10 guards in charge of its protection. Excavations by the Iraqi expedition are financed annually from the central budget of the State Board of Antiquities and Heritage, Government of Iraq. The Deutsche Forschungsgemeinschaft has financed the German expedition. In the late seventies of the 20th century, the State Board of Antiquities and Heritage started a scientific programme in order to resume work in the city by archaeological excavations and some restoration to maintain and consolidate what had been exposed. This is at the city wall (NW), the Tabira Gate, some private houses, the temple of Anu and Adad, the Old Palace and the royal burial. However, since the restored and partly reconstructed buildings and walls are equally exposed to erosion, they need continuous care. In view of the present situation and in continuation of the work which began in the late 70s, it is planned to develop a detailed restoration and conservation programme for the site and its monuments. The threat to the property from the construction of a Makhool Dam has now been removed by the cancellation of the dam project. The Iraqi Ministry of Water Resources released a formal decision to abandon the idea of building Makhool dam permanently and will provide the official notification to confirm that the project’s plan will never be put on the table again. There is therefore no need to construct a retaining wall or any protective measures."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 70,
+          "square_km": 0.7,
+          "square_miles": 0.283,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2003",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2b703b01a6aca83087b03eb9d092b3fd",
+          "filename": "site_1130_0001.jpg",
+          "dimensions": {
+            "width": 1407,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115184/site_1130_0001.jpg",
+            "https://whc.unesco.org/document/115186/site_1130_0002.jpg",
+            "https://whc.unesco.org/document/115188/site_1130_0003.jpg",
+            "https://whc.unesco.org/document/115190/site_1130_0004.jpg",
+            "https://whc.unesco.org/document/115192/site_1130_0005.jpg",
+            "https://whc.unesco.org/document/115194/site_1130_0006.jpg",
+            "https://whc.unesco.org/document/115195/site_1130_0007.jpg",
+            "https://whc.unesco.org/document/115197/site_1130_0008.jpg",
+            "https://whc.unesco.org/document/115199/site_1130_0009.jpg",
+            "https://whc.unesco.org/document/115201/site_1130_0010.jpg",
+            "https://whc.unesco.org/document/115203/site_1130_0011.jpg",
+            "https://whc.unesco.org/document/122377/site_1130_0012.jpg",
+            "https://whc.unesco.org/document/122379/site_1130_0014.jpg",
+            "https://whc.unesco.org/document/122386/site_1130_0015.jpg",
+            "https://whc.unesco.org/document/122380/site_1130_0016.jpg",
+            "https://whc.unesco.org/document/122381/site_1130_0017.jpg",
+            "https://whc.unesco.org/document/122382/site_1130_0018.jpg",
+            "https://whc.unesco.org/document/122383/site_1130_0019.jpg",
+            "https://whc.unesco.org/document/122384/site_1130_0020.jpg",
+            "https://whc.unesco.org/document/122385/site_1130_0021.jpg",
+            "https://whc.unesco.org/document/133230/site_1130_0022.jpg",
+            "https://whc.unesco.org/document/133232/site_1130_0024.jpg",
+            "https://whc.unesco.org/document/133233/site_1130_0025.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ashur (Qal'at Sherqat)",
+            "ref": "1130",
+            "latitude": 35.4566666667,
+            "longitude": 43.2611111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1130",
+        "unesco_documents": "https://whc.unesco.org/en/list/1130/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1130/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1130/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ashur (Qal'at Sherqat) The ancient city of Ashur is located on the Tigris River in northern Mesopotamia in a specific geo-ecological zone, at the borderline between rain-fed and irrigation agriculture. The city dates back to the 3rd millennium BC. From the 14th to the 9th centuries BC it was the first capital of the Assyrian Empire, a city-state and trading platform of international importance. It also served as the religious capital of the Assyrians, associated with the god Ashur. The city was destroyed by the Babylonians, but revived during the Parthian period in the 1st and 2nd centuries AD. The ancient city of Ashur is located on the Tigris River in northern Mesopotamia in a specific geo-ecological zone, at the borderline between rain-fed and irrigation agriculture. The city dates back to the 3rd millennium BC. From the 14th to the 9th centuries BC it was the first capital of the Assyrian Empire, a city-state and trading platform of international importance. It also served as the religious capital of the Assyrians, associated with the god Ashur. The city was destroyed by the Babylonians, but revived during the Parthian period in the 1st and 2nd centuries AD. Iraq Arab States Cultural"
+    },
+    {
+      "site_key": "hatra",
+      "uuid": "1427c1d7-03a0-56e4-8cbb-56ad744151c8",
+      "unesco_id": "277",
+      "names": {
+        "en": "Hatra",
+        "fr": "Hatra",
+        "es": "Hatra",
+        "ru": "Древний город Хатра",
+        "ar": "الحضر",
+        "zh": "哈特拉"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "A large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, Hatra withstood invasions by the Romans in A.D. 116 and 198 thanks to its high, thick walls reinforced by towers. The remains of the city, especially the temples where Hellenistic and Roman architecture blend with Eastern decorative features, attest to the greatness of its civilization.",
+          "fr": "Grande cité fortifiée sous l'influence de l'Empire parthe et capitale du premier royaume Arabe, Hatra résista deux fois aux Romains, en 116 et en 198, grâce à sa muraille renforcée de tours. Les vestiges de la ville, et en particulier les temples où l'architecture grecque et romaine se combine avec des éléments de décor d'origine orientale, témoignent de la grandeur de sa civilisation.",
+          "es": "Gran ciudad fortificada en la zona de influencia del Imperio Parto y capital del primer reino árabe, Hatra resistió dos veces el asalto de los romanos, en los años 116 y 198, gracias a su muralla provista de torres. Los vestigios de la ciudad, y más concretamente los de sus templos de arquitectura grecorromana con ornamentaciones orientales, testimonian la grandeza de la civilización que la construyó.",
+          "ru": "Хатра, крупный укрепленный город в составе Парфянской империи и столица первого арабского государства, выстояла при древнеримских вторжениях 116 и 198 гг. благодаря своим высоким толстым стенам с башнями. Руины Хатры, особенно храмов, где эллинистическая и древнеримская архитектура сочетаются с восточными декоративными элементами, демонстрируют величие существовавшей здесь цивилизации.",
+          "ar": "إنها مدينة كبيرة محصّنة خاضعة لنفوذ الامبراطورية البارثيّة وعاصمة المملكة العربية الأولى، وقد قاومت الحضر الرومان مرتين، في العامين 116 و198، بفضل جدارها المحصّن بأبراج. أما آثار المدينة ولا سيما المعابد حيث تمتزج الهندسة الإغريقية والرومانية بعناصر تزيينية ذات جذور شرقية، فهي تشهد فعلاً على عظمة حضارتها.",
+          "zh": "哈特拉是受帕提亚帝国影响的要塞重镇和第一个阿拉伯王国的首府，在公元116年和198年抵挡住了罗马人的多次侵犯，这主要得益于它高大厚实的城墙和城堡。这座城市的遗址，特别是它融汇了希腊罗马建筑风格及东方装饰特色的寺庙建筑，展示了帕提亚文明的辉煌。"
+        },
+        "full": "A large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, Hatra withstood invasions by the Romans in A.D. 116 and 198 thanks to its high, thick walls reinforced by towers. The remains of the city, especially the temples where Hellenistic and Roman architecture blend with Eastern decorative features, attest to the greatness of its civilization.",
+        "justification": "Brief synthesis An ancient, fortified city founded on the ruins of an Assyrian settlement, Hatra is located in northern Iraq, between the Tigris and Euphrates, in an open semi-desert, 110 km southwest of Mosul, and about 70 km west of the capital, Ashur, 3 km to the west of Wadi al-Tharthar. Its name, possibly of Aramaic or Arabic origin, probably referred to “enclosure”. Its location, along the military and trade routes that linked the Roman Empire in the west and the Parthian Empire in the east and bordering the Tigris and Euphrates which linked Mesopotamia to the Arabian Gulf, favoured the development of Hatra as an important religious and commercial centre. The religious factor was one of the main reasons for the development of the city from a small village in the first century BC to a large kingdom in the middle of the second century AD. It is the best-preserved city of the Parthian empire (ca. 200 BC-220 AD). Adapted to the topographic features of the site, Hatra presents a remarkable urban complex of circular design. The city's defences of double walls are in perfect condition and lie in an untouched desert steppe environment. The external wall is an earthen bank with a circumference of 9 km; the inner main wall, about 2 km in diameter, is built of stone and strengthened by 171 large and small towers, and a number of strongholds; a ditch ranging between 4-5 m in depth and about 8-14 m in width was dug adjacent to its external side; the inner wall has four fortified gates which roughly correspond with the four cardinal points. The fortifications successfully defended the city against the Roman armies led by Trajan in 116 CE, and by Septimius Severus in 198 CE, with the city becoming celebrated for its impregnability. In the centre of the city is the huge rectangular temenos, east-west oriented, surrounded by a wall and divided by a further wall into two unequal spaces, identified as a large and small courtyard and sanctuary. The main sanctuaries are located in the small courtyard. Hatra was the centre of religious, social and economic activity for all the inhabitants of the Jazeera of Iraq. Inside the temenos are seven temples and shrines, each of which is dedicated to a specific deity, and all have Iwans, open halls with high barrel-vaulted roofs that were a Parthian innovation. At the back of the small courtyard, a row of eight contiguous and consistent Iwans facing the eastward direction forms a facade of 115 m long and 23 m wide: this structure is known as the ‘Great Temple’; rooms looking onto a pilastered portico have been found on each of the four sides of the rectangular enclosure. The people of Hatra relied on wells as water sources, and managed the lake within Hatra’s walls; therefore, despite limitation of water sources, they were able to make skilful use of water and were self-sustainable. They also built bridges on Wadi al-Tharthar River and wells near the city, outside the current boundaries of the property. Remains of these structures still survive in the surroundings of Hatra. Hatra has a distinctive architecture reflecting different styles and influences and different building techniques - mudbrick, brick, bitumen and gypsum, stone and gypsum, as the city relied for its building materials on the stone quarries near the site. The design of the great Iwans of the Hatra temenos exerted lasting influence over the architecture in the region until the Islamic age. Archaeological investigations have yielded hundreds of stone statues and statuettes, some of which portray gods or members of the ruling dynasty, as well as other sculptured figures, in a sort of post-Hellenistic art style that is distinctive to Hatra; some of these sculptures bear Aramaic inscriptions. Part of these findings and artworks are displayed in the local museum which is housed in the rooms of the temenos/Great Temple. Other sculptures are on display in various museums in Iraq. The monuments, art and inscriptions of Hatra offer exceptional evidence of a facet of the Assyro-Babylonian civilization that developed in Hatra under the influence of Greek, Parthian and Roman civilizations. As an excellent example of a fortified city, with its double wall perfectly preserved, it stands out among a series of fortified cities that covers the Parthian, the Sassanid and ancient Islamic civilisations. Criterion (ii): The great Iwans of the Hatra temenos, remarkable for the perfection of their vaulted chambers, and the fourteen small temples scattered outside the sacred enclosure, have exerted lasting influence over the region's architecture up until the Islamic age. Criterion (iii): By virtue of its monuments and inscriptions, Hatra offers exceptional testimony to an entire facet of Assyro­Babylonian civilization subjected to the influence of Greeks, Parthians, Romans and Arabs. It is the best-preserved city of the Parthian empire (ca. 200 BC-220 AD). Criterion (iv): Hatra is an excellent example of fortified cities along the circular plan of the East, such as Ctesiphon, Firouzabad or Zingirli. The perfect condition of the double wall in an untouched environment sets it aside as an outstanding example of a series which covers the Parthian, Sassanid and ancient Islamic civilizations. Criterion (vi): The city success against Roman forces, led to it being considered an outstanding symbol of Parthian power. Integrity Hatra includes all of the attributes supporting its Outstanding Universal Value within the perimeter of its outer walls. Hatra’s immediate and wider setting - a semi-desert landscape that surrounds the walled city almost on all sides where several archaeological remains of bridges roads, wells and other infrastructure survive - significantly contributes to the understanding and appreciation of the importance of the city and of the once imposing fortifications: this archaeological landscape needs safeguarding and protection. Most of the buildings in Hatra were found during the excavations in a ruined condition, while some buildings have preserved components, such as many rooms of the temenos, which have been used as a local museum. In the past, conservation and restoration works have played a major role in restoring those walls and buildings to their original condition. Hatra has been impacted by previous conflicts, resulting in localized damage, including at some of the architectural decoration that have more recently suffered by the damage inflicted during 2015-2017. However, Hatra’s architectural monuments are mostly in a relatively good condition, although the site has suffered from neglect and looting and it is subject to severe weathering, therefore its integrity remains vulnerable. Authenticity The location and topography of the site where Hatra stands, at the crossroad of important communication routes, in a still untouched environment, still convey the sense of its power and its importance as a military and commercial outpost. The circular layout of the fortified city and its unique town planning, with its fortifications, walls, fortified entrances, trenches and its defensive towers, designed to be harnessed in conjunction with the advanced war technology developed at Hatra, explain the reasons why the city withstood repeated sieges. The preserved urban form and articulation demonstrate that Hatra is an excellent example of the fortified eastern cities. The well-preserved double city wall outstandingly demonstrates Hatra’s power to harness the circumstances of history and provides exceptional testimony to an entire facet of Assyro-Babylonian civilization, subject to the influence of Aramean, Greeks, Parthians, Romans and Arabs. The rectangular temenos with its temples, in the centre of Hatra, still conveys the religious importance of the city and the sense of its special sanctity in ancient times. The design and the built fabric of its Iwans and of its architecture reflect the Assyrian and Babylonian construction culture and the contribution of Hellenistic and Roman influences which have resulted in a distinctive architecture and construction know-how, through building methods, materials, design and decoration, particularly the use of carved stone and gypsum. The barrel vaults of Hatra's large rectangular Iwans represent an innovation in construction, suggesting technical revolution at that time. A wealth of statues, statuettes, inscriptions and builder’s tokens represent key sources of information and historical evidence on the distinctive advanced Hatrene culture and complement the attributes of Hatra in illustrating its Outstanding Universal Value. The archaeological authorities have undertaken works on a number of buildings, using the same stone quarries that were used by the Hatrene with involvement of specialized archaeologists, and the stone chiseller who cut and sculpted the stone according to the standard characteristics. Stone chisellers were famous in Mosul. Careful archaeological conservation work is needed to preserve the authentic fabric discovered through excavations, with the involvement of specialized archaeologists and skilled artisans. Protection and management requirements The main legislation for heritage protection at the time of the inscription of Hatra on the World Heritage List was Law No.59 of 1936. Several years following the inscription, Iraq adopted Law No.55 2002, which is currently enforced. There is no specific article on the protection of Hatra, however, Law No.55 2002 provided protection for all archaeological sites in Iraq, including Hatra. The State Board of Antiquities and Heritage (SBAH) is the authority responsible for the management of World Heritage Sites. The International Organizations Department is responsible for the implementation of the 1972 Convention, represented on the ground by the World Heritage site managers, while the Directorate General of Investigations and Excavations is responsible for all activities at archaeological sites. All activities can only be implemented with the approval of the Head of the SBAH. The authority of SBAH is indicated clearly within Law No.55 2002 as written consent is required for any activities, developments, and alterations at recognized archaeological sites. Hatra needs continuous care and maintenance to address the natural deterioration and damage arising from relative neglect and lack of maintenance during recent armed conflict. Time, financial resources, protection mechanisms and a strategy that involves a balance between archaeological works and conservation measures to protect and preserve all attributes of the property, as well as its immediate and wider setting, are all required. Plans for archaeological conservation work exist, especially for buildings that were eroded as a result of natural factors. An employee of the archaeological authorities who is known as the resident of the site accompanies visitors for guidance and interpretation. A clear management system, adequate staffing levels at the site level, and a management plan, including archaeological and conservation plans, visitor and awareness-raising strategies and related operational plans, are crucial to guarantee the long-term protection of Hatra’s attributes that support its Outstanding Universal Value."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 323.75,
+          "square_km": 3.24,
+          "square_miles": 1.31,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2015",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b40b158f488ab4de3bc5cb820ffa13ab",
+          "filename": "site_0277_0001.jpg",
+          "dimensions": {
+            "width": 1982,
+            "height": 1154
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109726/site_0277_0001.jpg",
+            "https://whc.unesco.org/document/109728/site_0277_0002.jpg",
+            "https://whc.unesco.org/document/109730/site_0277_0003.jpg",
+            "https://whc.unesco.org/document/109732/site_0277_0004.jpg",
+            "https://whc.unesco.org/document/109734/site_0277_0005.jpg",
+            "https://whc.unesco.org/document/109736/site_0277_0006.jpg",
+            "https://whc.unesco.org/document/109738/site_0277_0007.jpg",
+            "https://whc.unesco.org/document/109740/site_0277_0008.jpg",
+            "https://whc.unesco.org/document/109742/site_0277_0009.jpg",
+            "https://whc.unesco.org/document/109744/site_0277_0010.jpg",
+            "https://whc.unesco.org/document/109746/site_0277_0011.jpg",
+            "https://whc.unesco.org/document/109748/site_0277_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Hatra",
+            "ref": "277rev",
+            "latitude": 35.58806,
+            "longitude": 42.71833
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/277",
+        "unesco_documents": "https://whc.unesco.org/en/list/277/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/277/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/277/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hatra A large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, Hatra withstood invasions by the Romans in A.D. 116 and 198 thanks to its high, thick walls reinforced by towers. The remains of the city, especially the temples where Hellenistic and Roman architecture blend with Eastern decorative features, attest to the greatness of its civilization. A large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, Hatra withstood invasions by the Romans in A.D. 116 and 198 thanks to its high, thick walls reinforced by towers. The remains of the city, especially the temples where Hellenistic and Roman architecture blend with Eastern decorative features, attest to the greatness of its civilization. Iraq Arab States Cultural"
+    },
+    {
+      "site_key": "samarra_archaeological_city",
+      "uuid": "974f2208-9fdf-5e18-893b-ee72a9c250b6",
+      "unesco_id": "276",
+      "names": {
+        "en": "Samarra Archaeological City",
+        "fr": "Ville archéologique de Samarra",
+        "es": "Ciudad arqueológica de Samarra",
+        "ru": "Археологический памятник Самарра",
+        "ar": "مدينة سامراء الأثرية",
+        "zh": "萨迈拉古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Samarra Archaeological City is the site of a powerful Islamic capital city that ruled over the provinces of the Abbasid Empire extending from Tunisia to Central Asia for a century. Located on both sides of the River Tigris 130 km north of Baghdad, the length of the site from north to south is 41.5 km; its width varying from 8 km to 4 km. It testifies to the architectural and artistic innovations that developed there and spread to the other regions of the Islamic world and beyond. The 9th-century Great Mosque and its spiral minaret are among the numerous remarkable architectural monuments of the site, 80% of which remain to be excavated.",
+          "fr": "Siège d’une puissante capitale islamique qui régna sur les provinces de l’Empire abbasside, qui s’étendit pendant un siècle de la Tunisie à l’Asie centrale, la ville est située sur les berges du Tigre, à 130 km au nord de Bagdad. Elle s’étend sur 41,5 km du nord au sud pour une largeur qui varie entre 4 et 8 km. Elle témoigne d’innovations architecturales et artistiques qui se sont développées ici et se sont répandues dans les autres régions du monde islamique et au-delà. La Grande Mosquée et son minaret en spirale, datant du IXe siècle, est l’un des nombreux monuments remarquables du site ; 80 % de la ville reste à mettre au jour.",
+          "es": "Situada a 130 km al norte de Bagdad, a orillas del Tigris, esta ciudad fue la capital de las provincias del Imperio Abasida, que dominó durante más de un siglo el vasto territorio comprendido entre los confines de Túnez y el Asia Central. Extendida a lo largo de un eje norte-sur, con una longitud de 41,5 km y una anchura que oscila entre 4 y 8 km, la ciudad posee vestigios que atestiguan las importantes innovaciones arquitectónicas y artísticas realizadas en ella, que luego se extenderían por otras regiones del mundo islámico y más allá. Uno de sus monumentos más destacados es la Gran Mezquita del siglo IX, que posee un minarete en espiral. Queda todavía por excavar el 80% del sitio arqueológico.",
+          "ru": "Объект, внесенный в Список в категории культурного наследия, расположен на территории когда-то могущественной исламской столицы, господство которой распространялось на провинции империи Аббасидов, просуществовавшей в течение века и простиравшейся от Туниса до Центральной Азии. Расположенный по обоим берегам реки Тигр, в 130 км к северу от Багдада, его протяженность с севера на юг – 41,5 км, ширина изменяется от 8 до 4 км. На территории объекта сохранились свидетельства появившихся здесь архитектурных и художественных новшеств, распространившихся затем как в других районах исламского мира, так и за его пределами.",
+          "ar": "تقع مدينة سامراء على ضفاف نهر دجلة وعلى مسافة 130 كيلومترا شمال بغداد، وكانت مقر عاصمة إسلامية جبارة بسطت نفوذها على أقاليم الدولة العباسية التي امتدت خلال قرن من الزمن من تونس إلى وسط آسيا. تمتد المدينة بطول 41 كيلومترا ونصف الكيلومتر من الشمال إلى الجنوب، أما عرضها فيتراوح بين 4 و8 كيلومترات. وتحتوي على ابتكارات هندسية وفنية طوّرت محلياً قبل أن تنقل إلى أقاليم العالم الإسلامي وأبعد من ذلك. ومن بين الآثار العديدة والبارزة الموجودة في الموقع المسجد الجامع ومئذنته الملوية، وقد شيدا في القرن التاسع الميلادي. ويبقى قرابة 80٪ من المدينة الأثرية مطمورا ويحتاج إلى تنقيب.",
+          "zh": "萨迈拉古城被列入了《世界文化遗产名录》和《世界濒危遗产名录》，它是强大的伊斯兰都城的遗址，这个都城在一个多世纪的时间里统治了从突尼斯延伸到中亚的阿巴斯帝国的各个省份。它位于巴格达以北130公里的底格里斯河两岸，从北到南长41.5公里，宽度从4公里到8公里不等。该遗址证明其在建筑和艺术方面具有创新性，这种创新性在那里有所发展，并传播到伊斯兰世界和伊斯兰世界以外的其他地区。公元9世纪的大清真寺和通天塔，是该遗址众多的杰出建筑奇迹之一，其中仍有80%有待挖掘。"
+        },
+        "full": "Samarra Archaeological City is the site of a powerful Islamic capital city that ruled over the provinces of the Abbasid Empire extending from Tunisia to Central Asia for a century. Located on both sides of the River Tigris 130 km north of Baghdad, the length of the site from north to south is 41.5 km; its width varying from 8 km to 4 km. It testifies to the architectural and artistic innovations that developed there and spread to the other regions of the Islamic world and beyond. The 9th-century Great Mosque and its spiral minaret are among the numerous remarkable architectural monuments of the site, 80% of which remain to be excavated.",
+        "justification": "The ancient capital of Samarra dating from 836-892 provides outstanding evidence of the Abbasid Caliphate which was the major Islamic empire of the period, extending from Tunisia to Central Asia. It is the only surviving Islamic capital that retains its original plan, architecture and arts, such as mosaics and carvings. Samarra has the best preserved plan of an ancient large city, being abandoned relatively early and so avoiding the constant rebuilding of longer lasting cities. Samarra was the second capital of the Abbasid Caliphate after Baghdad. Following the loss of the monuments of Baghdad, Samarra represents the only physical trace of the Caliphate at its height. The city preserves two of the largest mosques (Al-Malwiya and Abu Dulaf) and the most unusual minarets, as well as the largest palaces in the Islamic world (the Caliphal Palace Qasr al-Khalifa, al-Ja'fari, al Ma'shuq, and others). Carved stucco known as the Samarra style was developed there and spread to other parts of the Islamic world at that time. A new type of ceramic known as Lustre Ware was also developed in Samarra, imitating utensils made of precious metals such as gold and silver. Criterion (ii): Samarra represents a distinguished architectural stage in the Abbasid period by virtue of its mosques, its development, the planning of its streets and basins, its architectural decoration, and its ceramic industries. Criterion (iii): Samarra is the finest preserved example of the architecture and city planning of the Abbasid Caliphate, extending from Tunisia to Central Asia, and one of the world's great powers of that period. The physical remains of this empire are usually poorly preserved since they are frequently built of unfired brick and reusable bricks. Criterion (iv): The buildings of Samarra represent a new artistic concept in Islamic architecture in the Malwiya and Abu Dulaf mosques, in the form of a unique example in the planning, capacity and construction of Islamic mosques by comparison with those which preceded and succeeded it. In their large dimensions and unique minarets, these mosques demonstrate the pride and political and religious strength that correspond with the strength and pride of the empire at that time. Since the war in Iraq commenced in 2003, this property has been occupied by multi-national forces that use it as a theatre for military operations. The conditions of integrity and authenticity appear to have been met, to the extent evaluation is possible without a technical mission of assessment. After abandonment by the Caliphate, occupation continued in a few areas near the nucleus of the modern city but most of the remaining area was left untouched until the early 20th century. The archaeological site is partially preserved, with losses caused mainly by ploughing and cultivation, minor in comparison with other major sites. Restoration work has been in accordance with international standards. The boundaries of the core and buffer zones appear to be both realistic and adequate. Prior to current hostilities, the State Party protected the site from intrusions, whether farming or urban, under the Archaeological Law. Protective procedures have been in abeyance since 2003 and the principal risk to the property arises from the inability of the responsible authorities to exercise control over the management and conservation of the site."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 15058,
+          "square_km": 150.58,
+          "square_miles": 60.938,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2007",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9151e38eea0adfd7cac9bb39c442ac3e",
+          "filename": "site_0276_0001-500-0-20151104154316.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 334
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109702/site_0276_0001.jpg",
+            "https://whc.unesco.org/document/109704/site_0276_0002.jpg",
+            "https://whc.unesco.org/document/109706/site_0276_0003.jpg",
+            "https://whc.unesco.org/document/109710/site_0276_0005.jpg",
+            "https://whc.unesco.org/document/109712/site_0276_0006.jpg",
+            "https://whc.unesco.org/document/109714/site_0276_0007.jpg",
+            "https://whc.unesco.org/document/109716/site_0276_0008.jpg",
+            "https://whc.unesco.org/document/109718/site_0276_0009.jpg",
+            "https://whc.unesco.org/document/109720/site_0276_0010.jpg",
+            "https://whc.unesco.org/document/109722/site_0276_0011.jpg",
+            "https://whc.unesco.org/document/109724/site_0276_0012.jpg",
+            "https://whc.unesco.org/document/121240/site_0276_0013.jpg",
+            "https://whc.unesco.org/document/121241/site_0276_0014.jpg",
+            "https://whc.unesco.org/document/121242/site_0276_0015.jpg",
+            "https://whc.unesco.org/document/121243/site_0276_0016.jpg",
+            "https://whc.unesco.org/document/121244/site_0276_0017.jpg",
+            "https://whc.unesco.org/document/121245/site_0276_0018.jpg",
+            "https://whc.unesco.org/document/121246/site_0276_0019.jpg",
+            "https://whc.unesco.org/document/121247/site_0276_0020.jpg",
+            "https://whc.unesco.org/document/121248/site_0276_0021.jpg",
+            "https://whc.unesco.org/document/121249/site_0276_0022.jpg",
+            "https://whc.unesco.org/document/121250/site_0276_0023.jpg",
+            "https://whc.unesco.org/document/121251/site_0276_0024.jpg",
+            "https://whc.unesco.org/document/133193/site_0276_0026.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 10,
+        "locations": [
+          {
+            "name": "al-Quwayr",
+            "ref": "276rev-005",
+            "latitude": 34.2321197222,
+            "longitude": 43.8398688889
+          },
+          {
+            "name": "al-Ma'shuq",
+            "ref": "276rev-007",
+            "latitude": 34.2419822222,
+            "longitude": 43.8094488889
+          },
+          {
+            "name": "al-Istablat",
+            "ref": "276rev-004",
+            "latitude": 34.0802897222,
+            "longitude": 43.9155883333
+          },
+          {
+            "name": "Tell Umm al-Sakhr",
+            "ref": "276rev-008",
+            "latitude": 34.2666161111,
+            "longitude": 43.8017591667
+          },
+          {
+            "name": "Samarra South Zone",
+            "ref": "276rev-003",
+            "latitude": 34.1226177778,
+            "longitude": 43.9306194444
+          },
+          {
+            "name": "Samarra Centre Zone",
+            "ref": "276rev-002",
+            "latitude": 34.2262758333,
+            "longitude": 43.8825725
+          },
+          {
+            "name": "al-Huwaysilat Upper",
+            "ref": "276rev-009",
+            "latitude": 34.2944622222,
+            "longitude": 43.7888361111
+          },
+          {
+            "name": "al-Huwaysilat Lower",
+            "ref": "276rev-010",
+            "latitude": 34.2991383333,
+            "longitude": 43.789345
+          },
+          {
+            "name": "Qubbat al-Sulaibiyya",
+            "ref": "276rev-006",
+            "latitude": 34.2276491667,
+            "longitude": 43.7989133333
+          },
+          {
+            "name": "Samarra North Zone - al-Mutawakkiliyya",
+            "ref": "276rev-001",
+            "latitude": 34.3409894444,
+            "longitude": 43.8235430556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/276",
+        "unesco_documents": "https://whc.unesco.org/en/list/276/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/276/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/276/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Samarra Archaeological City Samarra Archaeological City is the site of a powerful Islamic capital city that ruled over the provinces of the Abbasid Empire extending from Tunisia to Central Asia for a century. Located on both sides of the River Tigris 130 km north of Baghdad, the length of the site from north to south is 41.5 km; its width varying from 8 km to 4 km. It testifies to the architectural and artistic innovations that developed there and spread to the other regions of the Islamic world and beyond. The 9th-century Great Mosque and its spiral minaret are among the numerous remarkable architectural monuments of the site, 80% of which remain to be excavated. Samarra Archaeological City is the site of a powerful Islamic capital city that ruled over the provinces of the Abbasid Empire extending from Tunisia to Central Asia for a century. Located on both sides of the River Tigris 130 km north of Baghdad, the length of the site from north to south is 41.5 km; its width varying from 8 km to 4 km. It testifies to the architectural and artistic innovations that developed there and spread to the other regions of the Islamic world and beyond. The 9th-century Great Mosque and its spiral minaret are among the numerous remarkable architectural monuments of the site, 80% of which remain to be excavated. Iraq Arab States Cultural"
+    },
+    {
+      "site_key": "the_ahwar_of_southern_iraq_refuge_of_biodiversity_and_the_relict_landscape_of_the_mesopotamian_cities",
+      "uuid": "aee67168-e117-5ed7-8aa5-9c2819c1925e",
+      "unesco_id": "1481",
+      "names": {
+        "en": "The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities",
+        "fr": "Les Ahwar du sud de l’Iraq : refuge de biodiversité et paysage relique des villes mésopotamiennes",
+        "es": "Refugio de biodiversidad de los “ahwar” y paisaje arqueológico de las ciudades mesopotámicas del Iraq Meridional",
+        "ru": "Месопотамские болота на юге Ирака: центр биоразнообразия и реликтовые ландшафты городов Месопотамии",
+        "ar": "الأهوار جنوب العراق: تعد هذه المسطحات المائية مثالاً على التنوّع البيولوجي والمناظر الخلّابة لمدن بلاد الرافدين",
+        "zh": "伊拉克南部Ahwar：生态多样性避难所和美索不达米亚城市遗迹景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Ahwar is made up of seven components: three archaeological sites and four wetland marsh areas in southern Iraq. The archaeological cities of Uruk and Ur and the Tell Eridu archaeological site form part of the remains of the Sumerian cities and settlements that developed in southern Mesopotamia between the 4th and the 3rd millennium BCE in the marshy delta of the Tigris and Euphrates rivers. The Ahwar of Southern Iraq – also known as the Iraqi Marshlands – are unique, as one of the world’s largest inland delta systems, in an extremely hot and arid environment.",
+          "fr": "Il s’agit d’un ensemble de sept éléments constitutifs : trois sites archéologiques et quatre zones humides marécageuses situés dans le sud de l’Iraq. Les villes archéologiques d’Uruk et d’Ur et le site archéologique du Tell Eridu font partie des vestiges de villes et d’établissements sumériens qui se développèrent en Mésopotamie méridionale entre le IVe et le IIIe millénaire av. J.-C. dans le delta marécageux du Tigre et de l’Euphrate. Les Ahwar du sud de l’Iraq – également connus sous le nom de régions marécageuses d’Iraq – sont uniques, car il s’agit de l’un des plus grands deltas intérieurs du monde, dans un milieu extrêmement chaud et aride.",
+          "es": "Este sitio comprende tres áreas de vestigios arqueológicos y cuatro zonas de humedales pantanosos, situadas todas ellas en el sur de Iraq. El “tell” de Eridu y las ruinas de las ciudades de Uruk y Ur forman parte de los vestigios arqueológicos de asentamientos sumerios en la Baja Mesopotamia, que florecieron entre el tercer y cuarto milenios a.C. en el delta pantanoso formado por los ríos Éufrates y Tigris. Por su parte, las regiones de humedales pantanosos (“ahwar”) de esta región del Iraq Meridional son únicas en su género por deber su formación a uno de los mayores deltas interiores del mundo y por estar situadas en un medio natural extremadamente árido y cálido.",
+          "ru": "Данный объект состоит из семи элементов: трёх археологических объектов и четырёх водно-болотных территорий на юге Ирака. Древние города Урук и Ур, а также археологический объект Тель-Эриду входят в число сохранившихся руин шумерских городов и сооружений, возведённых в Южной Месопотамии между IV и III веками до н.э. в болотистых низовьях Тигра и Евфрата. Месопотамские болота на юге Ирака, также известные как болота аль-Ахвар, уникальны тем, что они образуют одну из самых больших в мире внутренних дельт, расположенную при этом в чрезвычайно жаркой и засушливой зоне.",
+          "ar": "يضم هذا المكان ستّة مواقع هي: ثلاثة مواقع أثريّة وأربعة مناطق رطبة ومستنقعات جنوب العراق. وتعد مدينتا أوروك وأور الأثريتين بالإضافة إلى الموقع الأثري في مدينة إريدو (تل أبو شهرين) جزءاً من آثار المدن والمباني السومريّة التي أنشئت في بلاد ما بين النهرين بين الألفيتين الرابعة والثالثة قبل الميلاد على ضفاف نهري دجلة والفرات. وتعدّ أهوار جنوب العراق، مناطق فريدة من نوعها حيث فيها أكبر دلتا داخلية في العالم في بيئة حارة وجافة للغاية.",
+          "zh": "位于伊拉克南部的Ahwar遗产地由七部分组成：三处考古遗址和四处湿地沼泽。Uruk和Ur的城市考古遗址和Tell Eridu考古遗址构成了美索不达米亚平原南部苏美尔文明的城市和聚居地遗迹，这一文明于公元前2000-3000年间在底格里斯河和幼发拉底河湿地三角洲地区兴盛。伊拉克南部Ahwar—也叫伊拉克沼泽十分独特，是极度炎热和干燥环境下世界上最大的内陆三角洲系统，。"
+        },
+        "full": "The Ahwar is made up of seven components: three archaeological sites and four wetland marsh areas in southern Iraq. The archaeological cities of Uruk and Ur and the Tell Eridu archaeological site form part of the remains of the Sumerian cities and settlements that developed in southern Mesopotamia between the 4th and the 3rd millennium BCE in the marshy delta of the Tigris and Euphrates rivers. The Ahwar of Southern Iraq – also known as the Iraqi Marshlands – are unique, as one of the world’s largest inland delta systems, in an extremely hot and arid environment.",
+        "justification": "Brief Synthesis The Ahwar of Southern Iraq evolved as part of the wider alluvial plain during the final stage of the alpine tectonic movement, which also led to the creation of the Zagros Mountains. Several factors intertwined to shape the property including; tectonic movements, climatic changes, river hydrology dynamics, precipitation variation, and changes in sea level. The sea level variation and the climatic changes had a significant role in influencing the quantity and quality of water entering the Ahwar through rivers and their branches, in addition to advancement and regression of the sea and intrusion during dry to semi-dry to wet conditions during the last 18,000 years. Between 5000 and 3000 BC, sea water level reached its maximum extent some 200 km inland of the present coastline with marshes stretching further inland. The marshy and moving landscape of this deltaic plain was the heartland where the first cities flourished. Uruk, Ur and Eridu, the three cultural components of the property, were originally situated on the margins of freshwater marshes and developed into some of the most important urban centres of southern Mesopotamia. These cities saw the origin of writing, monumental architecture in the form of mudbrick temples and ziggurats, and complex technologies and societies. A vast corpus of cuneiform texts and archaeological evidence testifies to the centrality of the marshes for the economy, worldview and religious beliefs of successive cultures in southern Mesopotamia. Starting in 2000 BC, the sea regressed towards the south. This led to another climatic change towards a more arid environment leading to the drying up of the ancient marshes and in turn to the decline of the great cities of southern Mesopotamia. Today the mudbrick ruins of Uruk, Ur and Eridu are dominated by the remains of ziggurats which still stand within the arid but striking landscape of the desiccated alluvial plain. With the regression of the sea water, new marshes formed to the southeast. The main marshes of the Ahwar as we know them today were formed during this period around 3,000 years ago. The Huwaizah, East and West Hammar and Central Marshes of the Ahwar are predominantely fed by the Tigris and Euphrates Rivers. The Huwaizah Marshes component is a unique freshwater system, receiving high water quantities from floods and limited amounts of seasonal rain which descends from the northern and north-eastern heights. Concurrently, it is the sole natural component that was not drastically drained in the 1980s and 1990s, leading to the salvation of its key ecological elements. This led it to become the primary refuge for many of the key bird species of African and Indian origin in the Middle East, which have since spread back to other components after the reflooding took place in early 2000s. The Central Marshes component comprises today's ecological core of the Ahwar. Being distinctive for its extensive ecosystems, it provides a vast habitat for many of the viable populations of taxa of high biodiversity and conservation importance. The East and West Hammar Marshes components embrace a particular ecological phenomenon in contrast to the other components. Here, the salt water from the sea progresses inland affected on one side by tidal movements in the southern-most regions of marshes, while on the other side, pushing its way into the extended desert to the southeast. This creates very specific ecological conditions with marine fish species utilizing the area for reproduction in the East Hammar, while the West Hammar comprises the last stopover area for millions of migrating birds before entering the vast Arabian Desert. Criterion (iii): The remains of the Mesopotamian cities of Uruk, Ur and Eridu offer an outstanding testimony to the growth and subsequent decline of southern Mesopotamian urban centres and societies from the Ubaid and Sumerian periods until the Babylonian and Hellenistic periods. The three cities were major religious, political, economic and cultural centres which emerged and grew during a period of profound change in human history. These three components of the property bear witness to the contribution of southern Mesopotamian cultures to the development of ancient Near Eastern urbanized societies and the history of mankind as a whole: the construction of monumental public works and structures in the form of ziggurats, temples, palaces, city walls, and hydraulic works; a class structured society reflected in the urban layout which included royal tombs and palaces, sacred precincts, public storehouses, areas dedicated to industries, and extensive residential neighbourhoods; the centralized control of resources and surplus which gave rise to the first writing system and administrative archives; and conspicuous consumption of imported goods. This exceptionally creative period in human history left its marks across place and time. Criterion (v): The remains of the ancient cities of Uruk, Ur and Eridu, today in the desert but originally situated near freshwater marshes which receded or became saline before drying up, best exemplify the impact of the unstable deltaic landscape of the Tigris and Euphrates upon the rise and fall of large urban centres. Testimonies of this relict wetland landscape are found today in the cities' topography as traces of shallow depressions which held permanent or seasonal marshes, dry waterways and canal beds, and settlement mounds formed upon what were once islets surrounded by marsh water. Architectural elements, archaeological evidence and an important corpus of cuneiform texts further document how the landscape of wetlands contributed to shaping the religious beliefs, cultic practices, and literary and artistic expressions of successive cultures in southern Mesopotamia. Criterion (ix): The Huwaizah, East and West Hammar and Central Marshes demonstrate internationally significant ecological succession processes in one of the most arid inland deltas in the world, and contain a high degree of speciation in a relatively young ecosystem. It is one of the largest West Eurasian-Caspian-Nile staging points and wintering grounds for ducks as well as a major stopover point for shorebirds flying along the West Asian-East African flyway. It is also significant for the migration of fish and shrimp species from the Persian Gulf to the marshlands, with most of the fish species demonstrating diadromous characteristics (migratory between salt and fresh waters). Criterion (x): The Huwaizah, East and West Hammar and Central Marshes contain highly important and significant habitats for in-situ conservation of biological diversity, including endemic, and restricted range species, and numerous populations of threatened species. This includes bird species (e.g. the endemic Basra Reed Warbler and Iraq Babbler, restricted range subspecies of the Little Grebe, Black Francolin and Hooded Crow and the vulnerable Marbled Teal), mammals (e.g. the endemic Bunn’s Short-tailed Bandicot Rat, a subspecies of the Smooth-coated Otter, and the range-restricted Mesopotamian Gerbil and Euphrates Jerboa), as well as 6 range-restricted fish species. The property provides habitat for several reptiles including the Euphrates Soft-shell Turtle, an endangered species that is only known from a few localities in Iraq and Iran, and Murray's Comb-fingered Gecko which has a restricted range limited to the Ahwar, Shatt AI Arab and the Iranian western shores. The marshes also provide habitat for relict populations of three bird species (the African Darter, the Sacred Ibis, and the Goliath Heron) that are thousands of kilometres away from their core global populations in Africa. Integrity The three archaeological ensembles included in the property offer a comprehensive picture of the Ubaid and Sumerian urbanization process within their original but now dried marshland setting. Almost all the major archaeological and architectural features of Eridu, Uruk, and Ur are contained within the boundaries of the property but some are in the buffer zone and beyond. In Ur, the main harbour, situated outside the boundaries of the property, has yet to be excavated and the boundaries of the property might be extended at a later stage to include it. The use of mud as the main building material in southern Mesopotamia creates specific conservation conditions. The toll which the passing of time took on the abandoned southern Mesopotamian cities is heavier than in the case of stone or fired brick architecture found in other regions of the ancient world where remains can be monumental and visually impressive. Yet the remains of the four ziggurats of Eridu, Uruk and Ur, however eroded, still tower over the desert landscape and provide a striking visual testimony of the antiquity and durability of the most emblematic architectural features of Mesopotamian cities. Layers of sedimentation protected the remains of Uruk, Ur and Eridu until the 20th century when archaeological excavations exposed several buildings anew. Eridu's excavated remains were later reburied except for the ziggurat. In Uruk and Ur there were some instances of incompatible material used to consolidate or protect the remains, whereas others were left exposed with no maintenance or protection between the 1930s and 1960s with the result that some have become affected by erosion caused mainly by rain and dust storms. Only Ur has suffered limited, but reversible, damages during the recent conflict. Overall the integrity of the three cities is vulnerable: the conservation of their exposed fabric needs urgent attention to halt further irreversible erosion and collapse. The four wetland components of the property cover an area of over 210,000 ha an additional 200,000 ha of buffer zones surrounding each of the four components provide further protection of the property on a whole as well as at the component level. Considering that these components are ecologically interdependent, there is a need to establish a set of ecological corridors to ensure connectivity of the serial property. The most notable threat to the property's ecological integrity pertains to water flows fluctuating significantly with the continued adequacy of flows in the future uncertain. There is a need to ensure that the minimum water flow is guaranteed for the property to sustain its biodiversity and ecological processes. More broadly, there is a need to conduct further studies to confirm the plant, vertebrate and invertebrate diversity within the property and its surrounding landscapes. The four components embrace the majority of the breeding grounds of key bird species within different regions of the property. The breeding grounds are areas of low human intervention where reed vegetation is used to build nests on the banks of the small islets abundant in the area which are surrounded with extensive water bodies located in isolation from the dry lands and away from potential predators. Numerous populations of more than 197 species of migrating water birds associated with the Palearctic region settle on the property and spend winter periods here during their west Eurasia-Caspian-Nile and Eurasian-Africa route migrations. The numbers of migrating birds utilizing the property is increasing, paralleling the improving levels of rehabilitation. Further, increasing numbers of globally threatened species are being documented. Authenticity In terms of material authenticity of the three urban archaeological sites, excavations of a series of emblematic public buildings allow for a good understanding of the spatial organization of the political, administrative and religious sections of the cities. Although there is no doubt of the link between the fabric and what they convey, that link is extremely vulnerable for some areas, where past lack of conservation and maintenance has caused irreversible erosion of the mud and burnt brick fabric and the potential collapse of some structures. The stage could soon be reached where vital evidence has been eroded. No major restoration or conservation projects have been carried out since the 1930s with the exception of the 1960s rebuilding of part of the outer shell of the Ur ziggurat using baked brick and limited amounts of cement. This intervention did not affect the original structure and shape of the monument but cracks in the cement are leading to water ingress. More recent conservation of the site has been done using compatible material as much as possible. Overall the authenticity of the three cities is highly vulnerable due to a legacy of poor protection, maintenance and conservation. Protection and management requirements The overarching governance of the property is ensured by the National Committee for managing the Ahwar of Southern Iraq as a World Heritage Property. The committee is led by the Minister of Water Resources and includes the Ministry of Culture (State Board of Antiquities and Heritage), the Ministry of Health (Department of Environment), the Ministry of Oil, the Ministry of Agriculture, and other concerned ministries. The committee coordinates all governmental decisions of relevance to the property, including budgetary allocation and implementation steps of the 2015 Consolidated Management Plan developed for the property. Uruk, Ur and Eridu are protected by the Antiquities and Heritage Law no. 55 of 2002 which takes precedence over any other public law, and each are registered in the Official Gazette as separate archaeological sites with their own boundaries and buffer zones corresponding to those of the component sites of the property. The Iraqi State Board of Antiquities and Heritage (SBAH) has been working in partnership with foreign archaeological missions to start implementing the provisions of the management plan concerning specifically the three archaeological ensembles. Priorities include staff training and capacity-building together with surveys and conservation of the most unstable monuments and areas in each archaeological site. Furthermore, a monitoring system has been put in place to cover the three component sites and their buffer zones covering all factors that may affect their integrity and authenticity. Two dedicated management teams have been set up: one overseeing work at Uruk, the other in charge of Ur and Eridu. These teams report to the provincial Directorates of Antiquities and Heritage (DAH): The Dhi Qar DAH has jurisdiction over Ur and Eridu, whereas the Muthanna DAH has jurisdiction over Uruk. DAHs are assisted by the Antiquity and Heritage Police, created in 2007 for monitoring archaeological sites. The Antiquity and Heritage Police maintains a permanent presence at Uruk and Ur and regularly patrol at Eridu. In order to address the highly unstable conservation conditions of the three cities, a programme of surveys will be undertaken to create a base-line delineation of the state of conservation of the property; a conservation programmes will be developed for all three cities on the basis of the surveys that clearly set out the various options for intervention in advance of conservation work commencing; and a detailed master plan/road map will be produced that ensures the conservation of the property on a sustainable basis. The Huwaizah, East and West Hammar and Central Marshes have all been designated as Ramsar sites and their protection falls under the responsibility of the Ministry of Water Resources. Each marshland component has been allocated dedicated management staff who report to project management of Water Resources in the provinces of Dhi Qar, Maysan and Basra. In this case too, the provisions of the 2015 Consolidated Management Plan give priority to staff training and capacity-building in all areas relevant for the conservation of the property's natural value. The management plan also addresses the involvement of local stakeholders in the decision-making process, and the ability of local communities to improve their living conditions and preserve their traditional way of life. Furthermore, The Ministry of Water Resources (MWR) has just completed its Strategy for Water and Land Resources in Iraq (SWRLI) which covers the period until the year 2035. This strategy outlines the path towards integrated land and water management in light of the prevailing physical, hydrological and climatic conditions. It also examined the water-food-energy nexus in Iraq and recommended major investment plans in response to the adaptation measures to climate change and other development requirements. SWRLI recognizes the Iraqi marshlands as a legitimate water user on an equal footing with agriculture, domestic and industrial uses. This is a major step forward in the strategy catering for the minimum water requirement for the environment. Current annual and seasonal operational plans of the Iraqi water system managed by MWR seek to incorporate the minimum water flows allocated to the southern Iraqi marshlands, including the four marsh components of the property. An amount of 5.8 BCM (billion cubic meters) of water is allocated on a yearly basis for the marshland and is being incorporated in the operations of the water system. However, water flows are known to fluctuate significantly on an annual basis and therefore it is crucial that minimum water flow is generated and sustained in the long term. A complex modelling exercise has been carried out by the Center for Restoration of Iraqi Marshes and Wetlands (CRIMW) to simulate the hydrology of southern Iraq. The simulations are aimed at determining the minimum monthly water flows required for the four marsh components of the property to sustain the biodiversity and ecological processes. Major sustained efforts are however needed to better understand the hydrological regimes including defining minimum water requirements for the preservation of the natural value. Regional issues such as dam projects, intensification of irrigation, pollution and drought in a changing climate remain challenges that have to be systematically considered as they will increase the pressure on these fragile wetlands. In addition, clarification and regulation measures need to be put in place in buffer zones where potential oil extraction activities could constitute an important threat to the integrity of the Ahwar. Finally, the impact of agricultural, fishing and hunting activities on ecosystems has to be adequately regulated. Tourism does not constitute a current threat but could have a larger influence in the medium term. The boundaries of the four natural components and associated buffer zones provide protection against threats, such as oil exploration and urban development. However, enhanced efforts are needed to review boundaries and ensure that all components remain hydrologically and wherever possible ecologically connected. Staffing remains inadequate for the property hence the recruitment and management of increased human resources, in particular the site manager, site rangers and site guides, is paramount. Management of the property requires strengthening in a way that considers traditional use and the dependency of communities on the natural components of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            3,
+            5,
+            9,
+            10
+          ],
+          "display": "(iii)(v)(ix)(x)",
+          "count": 4,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 211544,
+          "square_km": 2115.44,
+          "square_miles": 856.09,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3af4514a1726ea7ca55c18f97397f4a5",
+          "filename": "site_1481_0001.jpg",
+          "dimensions": {
+            "width": 4288,
+            "height": 2848
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/142102/site_1481_0001.jpg",
+            "https://whc.unesco.org/document/142103/site_1481_0002.jpg",
+            "https://whc.unesco.org/document/142104/site_1481_0003.jpg",
+            "https://whc.unesco.org/document/142105/site_1481_0004.jpg",
+            "https://whc.unesco.org/document/142106/site_1481_0005.jpg",
+            "https://whc.unesco.org/document/142107/site_1481_0006.jpg",
+            "https://whc.unesco.org/document/142108/site_1481_0007.jpg",
+            "https://whc.unesco.org/document/142109/site_1481_0008.jpg",
+            "https://whc.unesco.org/document/142110/site_1481_0009.jpg",
+            "https://whc.unesco.org/document/142111/site_1481_0010.jpg",
+            "https://whc.unesco.org/document/142112/site_1481_0011.jpg",
+            "https://whc.unesco.org/document/142113/site_1481_0012.jpg",
+            "https://whc.unesco.org/document/142114/site_1481_0013.jpg",
+            "https://whc.unesco.org/document/142249/site_1481_0014.jpg",
+            "https://whc.unesco.org/document/142250/site_1481_0015.jpg",
+            "https://whc.unesco.org/document/148357/site_1481_0016.jpg",
+            "https://whc.unesco.org/document/148358/site_1481_0017.jpg",
+            "https://whc.unesco.org/document/148359/site_1481_0018.jpg",
+            "https://whc.unesco.org/document/148360/site_1481_0019.jpg",
+            "https://whc.unesco.org/document/148361/site_1481_0020.jpg",
+            "https://whc.unesco.org/document/148362/site_1481_0021.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "The Central Marshes",
+            "ref": "1481-002",
+            "latitude": 31.0852777778,
+            "longitude": 47.0541666667
+          },
+          {
+            "name": "Ur Archaeological City",
+            "ref": "1481-006",
+            "latitude": 30.9630555556,
+            "longitude": 46.1030555556
+          },
+          {
+            "name": "The East Hammar Marshes",
+            "ref": "1481-003",
+            "latitude": 30.7391666667,
+            "longitude": 47.4386111111
+          },
+          {
+            "name": "The West Hammar Marshes",
+            "ref": "1481-004",
+            "latitude": 30.8416666667,
+            "longitude": 46.6841666667
+          },
+          {
+            "name": "Uruk Archaeological City",
+            "ref": "1481-005",
+            "latitude": 31.3241666667,
+            "longitude": 45.6372222222
+          },
+          {
+            "name": "Tell Eridu Archaeological Site",
+            "ref": "1481-007",
+            "latitude": 30.8169444444,
+            "longitude": 45.9958333333
+          },
+          {
+            "name": "The Iraqi side of Huwaizah Marshes",
+            "ref": "1481-001",
+            "latitude": 31.5622222222,
+            "longitude": 47.6577777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1481",
+        "unesco_documents": "https://whc.unesco.org/en/list/1481/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1481/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1481/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities The Ahwar is made up of seven components: three archaeological sites and four wetland marsh areas in southern Iraq. The archaeological cities of Uruk and Ur and the Tell Eridu archaeological site form part of the remains of the Sumerian cities and settlements that developed in southern Mesopotamia between the 4th and the 3rd millennium BCE in the marshy delta of the Tigris and Euphrates rivers. The Ahwar of Southern Iraq – also known as the Iraqi Marshlands – are unique, as one of the world’s largest inland delta systems, in an extremely hot and arid environment. The Ahwar is made up of seven components: three archaeological sites and four wetland marsh areas in southern Iraq. The archaeological cities of Uruk and Ur and the Tell Eridu archaeological site form part of the remains of the Sumerian cities and settlements that developed in southern Mesopotamia between the 4th and the 3rd millennium BCE in the marshy delta of the Tigris and Euphrates rivers. The Ahwar of Southern Iraq – also known as the Iraqi Marshlands – are unique, as one of the world’s largest inland delta systems, in an extremely hot and arid environment. Iraq Arab States Mixed"
+    },
+    {
+      "site_key": "babylon",
+      "uuid": "e312ba79-d42a-50d3-9427-7009f0d496d2",
+      "unesco_id": "278",
+      "names": {
+        "en": "Babylon",
+        "fr": "Babylone",
+        "es": "Babilonia",
+        "ru": "Вавилон",
+        "ar": "بابل",
+        "zh": "巴比伦"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated 85 km south of Baghdad, the property includes the ruins of the city which, between 626 and 539 BCE, was the capital of the Neo-Babylonian Empire. It includes villages and agricultural areas surrounding the ancient city. Its remains, outer and inner city walls, gates, palaces and temples, are a unique testimony to one of the most influential empires of the ancient world. Seat of successive empires, under rulers such as Hammurabi and Nebuchadnezzar, Babylon represents the expression of the creativity of the Neo-Babylonian Empire at its height. The city's association with one of the seven wonders of the ancient world—the Hanging Gardens—has also inspired artistic, popular and religious culture on a global scale.",
+          "fr": "Situé à 85 km au sud de Bagdad, le bien réunit les ruines de la cité qui fut le centre de l’empire néo-babylonien entre 626 et 539 AEC ainsi que des villages et des zones agricoles entourant l’ancienne cité. Ces vestiges – murs d’enceinte extérieurs et intérieurs de la cité, portes, palais et temples – sont un témoignage unique de l’un des empires les plus influents du monde antique. Siège d’empires successifs, dirigés par des souverains tels que Hammurabi ou Nabuchodonosor, Babylone représente l’expression de la créativité de l’empire néo-babylonien à son apogée. Le lien de la cité avec l’une des Sept Merveilles du monde antique – les Jardins suspendus de Babylone – a par ailleurs inspiré la culture artistique, populaire et religieuse au plan mondial.",
+          "es": "Situado a 85 km al sur de Bagdad, este sitio agrupa los vestigios arqueológicos de la ciudad que fue capital del antiguo Imperio Neobabilónico entre los años 626 y 539 a. C., así como de los pueblos y terrenos agrarios circundantes. Formados por los restos de templos, palacios y torres y puertas de los recintos amurallados del interior y exterior de la ciudad, los vestigios de Babilonia constituyen un testimonio simpar de uno de los imperios más poderosos de la Antigüedad, encabezado sucesivamente por soberanos como Hamurabi o Nabucodonosor, y también son una expresión de la creatividad excepcional del arte neobabilónico en su apogeo. Los Jardines Colgantes de las murallas de Babilonia, considerados una de las Siete Maravillas del mundo antiguo, han sido una fuente de inspiración para la cultura artística, popular y religiosa a nivel mundial.",
+          "ru": "Расположенный в 85 километрах к югу от Багдада, этот объект Всемирного наследия включает руины древнего города Вавилон, центра Нововавилонского царства, существовавшего в период с 626 по 539 гг. до н. э., а также прилегающие деревни и сельскохозяйственные районы. Его остатки, внешние и внутренние городские стены, ворота, дворцы и храмы являются уникальным свидетельством существования одной из самых влиятельных империй древнего мира. Будучи местом правления преемственных династий во главе с такими правителями, как Хаммурапи и Навуходоносор, Вавилон олицетворяет пик развития творчества Нововавилонского царства. Связь города с одним из семи чудес древнего мира – Висячими садами Семирамиды – также послужила источником вдохновения для формирования художественной, популярной и религиозной культур в глобальном масштабе.",
+          "ar": "يقع موقع بابل الأثري على بعد 85 كم جنوب بغداد، ويتكون من آثار المدينة التي كانت، بين عامي 626 و539 قبل الميلاد، مركز الإمبراطورية البابلية الحديثة، وذلك إلى جانب عدد من القرى والمناطق الزراعية المحيطة بالمدينة القديمة. وتقدم هذه الآثار – الأسوار الداخلية والخارجية للمدينة، والأبواب، والقصور، والمعابد - شهادة فريدة على واحدة من أكثر الإمبراطوريات نفوذاً في العالم القديم. كانت بابل مقراً لعدد من الإمبراطوريات المتعاقبة، بقيادة حكام مثل السلطان حمورابي أو الملك نبوخذ نصر. وتجسّد بابل إبداع الإمبراطورية البابلية الحديثة في أوجها. وكان لارتباط المدينة بواحدة من عجائب الدنيا السبع في العالم القديم - حدائق بابل المعلقة - تأثيراً على أشكال الثقافة الفنية والشعبية والدينية على مستوى العالم.",
+          "zh": "该遗址位于巴格达以南85公里处，由新巴比伦王国（公元前626-539年）首都遗迹及古城周围的村庄和农地组成。这些独一无二的旧址（城外及城内的塔楼、城门、宫殿和庙宇）见证了世界上最具影响力的古国之一曾经的辉煌。巴比伦城历经汉谟拉比、纳布乔多诺索尔等君主的统治，代表着新巴比伦王国时代创造力的巅峰。此外，其与古代世界7大建筑奇迹中的空中花园的联系启迪了世界各地艺术、民俗和宗教文化的发展"
+        },
+        "full": "Situated 85 km south of Baghdad, the property includes the ruins of the city which, between 626 and 539 BCE, was the capital of the Neo-Babylonian Empire. It includes villages and agricultural areas surrounding the ancient city. Its remains, outer and inner city walls, gates, palaces and temples, are a unique testimony to one of the most influential empires of the ancient world. Seat of successive empires, under rulers such as Hammurabi and Nebuchadnezzar, Babylon represents the expression of the creativity of the Neo-Babylonian Empire at its height. The city's association with one of the seven wonders of the ancient world—the Hanging Gardens—has also inspired artistic, popular and religious culture on a global scale.",
+        "justification": "Brief synthesis Babylon is an archaeological site which stands out as a unique testimony to one of the most influential empires of the ancient world. One of the largest, oldest settlements in Mesopotamia and the Middle East, it was the seat of successive powerful empires under such famous rulers as Hammurabi and Nebuchadnezzar. As the capital of the Neo-Babylonian Empire (626-539 BCE), it is the most exceptional testimony of this culture at its height and represents the expression of this civilization’s creativity through its unusual urbanism, the architecture of its monuments (religious, palatial and defensive) and their decorative expressions of royal power. Babylon radiated not only political, technical and artistic influence over all regions of the ancient Near and Middle East, but it also left a considerable scientific legacy in the fields of mathematics and astronomy. As an archaeological site, Babylon possesses exceptional cultural and symbolic associations of universal value. The property represents the tangible remains of a multifaceted myth that has functioned as a model, parable, scapegoat and symbol for over two thousand years. Babylon figures in the religious texts and traditions of the three Abrahamic faiths and has consistently been a source of inspiration for literary, philosophical and artistic works. The buildings and other urban features contained within the boundaries of the property (outer and inner-city walls, gates, palaces, temples including the ziggurat, the probable inspiration for the Tower of Babel, etc.), include all its attributes as a unique testimony to the neo-Babylonian civilization, in particular its contribution to architecture and urban design. Eighty-five percent of the property remains unexcavated and of primary importance to support the site’s Outstanding Universal Value through further conservation and research. Criterion (iii): Babylon dates back to the third millennium BCE and was the seat of successive powerful empires under such famous rulers as Hammurabi and Nebuchadnezzar. As the capital of the Neo-Babylonian Empire (626-539 BCE), it is the most exceptional testimony of this culture at its height and represents the expression of this civilization’s creativity during this highly productive phase in architectural and urban creation. Babylon’s cultural legacy was enhanced by previous Akkadian and Sumerian cultural achievements, which included the cuneiform writing system, a significant tool for today’s knowledge of the history and evolution of the region in general and Babylon in particular. In turn, Babylon exerted considerable political, scientific, technological, architectural and artistic influence upon other human settlements in the region, and on successive historic periods of Antiquity. Criterion (vi): Babylon functioned as a model, parable and symbol of ancient power for over two thousand years and inspires artistic, popular and religious culture on a global scale. The tales of Babel find reference in the religious texts of the three Abrahamic religions. In the works of Greek historians, Babylon was distant, exotic and incredible. Classical texts attribute one of the seven wonders of the world to Babylon: the Hanging Gardens; and other texts speak of the wondrous Tower of Babel. Both are iconic but have their origins in real ancient structures of which archaeological traces are still preserved: the ziggurat Etemenanki and Nebuchadnezzar’s palatial complex. Integrity The boundaries of the property encompass the outer walls of the neo-Babylonian capital on all sides. These limits are well marked by remnants of the fortifications in the form of mounds visible on the ground and they are also confirmed by archaeological surveys. The buildings and other urban features contained within the property include all archaeological remains since the time of Hammurabi until the Hellenistic period, and specifically urbanistic and architectural products of the Neo-Babylonian period when the city was at the height of its power and glory. These represent the complete range of attributes of the property as a unique testimony to the Neo-Babylonian civilization, and the material basis for its cultural and symbolic associations. The property suffers from a variety of threats including illegal constructions, trash dumping and burning, small-scale industrial pollution, urban encroachments and other environmental factors. At the time of inscription, and despite conservation efforts undertaken since 2008 with international collaboration, the general physical fabric of the site is in a critical condition and lacks a well-defined and programmed approach towards conservation. Both the reconstructions and structural alterations of the ‘Revival of Babylon Project’ and other constructions in the 1980s have negatively affected the integrity of the property. Whilst the constructions of the 20th century are excluded from the property and now function as above-ground buffer zones within the property area, the future management of these within the overall property will be critical to the preservation of the fragile condition of integrity. Authenticity Some physical elements of the site have been viewed as problematic in terms of authenticity, in particular the reconstructions built on archaeological foundations, which aimed at making the scanty archaeological remains better visible to visitors, and the 20th century interventions within the property. In most cases, however, these additions are discernible from the original remains. Whilst it is a matter of debate whether these did affect the legibility of the spatial organization of the urban core, the inner and outer city limits remain discernible today and approximately 85 percent of the property is unexcavated. Authenticity of these remains is very vulnerable based on the critical state of conservation of the property. For the reconstructed sections, the authenticity of the property above-ground is problematic. While all other 20th century constructions were excluded from the property and covered by the above-ground buffer zones, the unusually high number of reconstructions and the fact that some of these were almost complete reconstructions based on very scanty archaeological evidence remains an unfortunate part of the history of the property. The height and design of these reconstructions is therefore based on conjecture rather than scientific or archaeological evidence. These volumetric aspects of the reconstructed monuments and the additions in successive restorations did affect the ability of parts of the property to convey authenticity in form and design with regard to these archaeological remains. Likewise, based on the introduction of new materials, these monuments illustrate limited authenticity in material and substance. Management and protection requirements The property falls under the jurisdiction of the Iraqi Antiquities and Heritage Law No. 55 of 2002, which aims to protect, conserve and manage all archaeological sites in Iraq. The law is also concerned with surveying, excavating and documenting all archaeological sites and presenting them to the public. The law is enforced by the State Board of Antiquities and Heritage, a body under the authority of the Ministry of Culture, Tourism and Antiquities. At the provincial level, the Directorate of Antiquities and Heritage of Babil is directly responsible to ensure the conservation, management and monitoring of the property, and works in collaboration with the Antiquity and Heritage Police who maintain a station near the site. The state of conservation of the property is very concerning and constitutes an ascertained danger in the absence of a coordinated programmed conservation approach with urgent priority interventions. A management plan has been developed through an in-depth consultation process with local and national stakeholders since 2011 and officially endorsed in 2018. Both the federal and provincial governments have committed sufficient levels of funding to ensure that the property is conserved, studied and developed for visitors to international standards while protecting its Outstanding Universal Value. It is essential that the overall principles laid out in the plan are subsequently transferred to concrete actions on site, prioritizing conservation to prevent immediate losses which can occur at any time, in particular in case of rainfalls."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1054.3,
+          "square_km": 10.54,
+          "square_miles": 4.267,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c3d17a977b9bc7ca66df0c37c679aa57",
+          "filename": "site_0278_0007.jpg",
+          "dimensions": {
+            "width": 4000,
+            "height": 3000
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/166725/site_0278_0007.jpg",
+            "https://whc.unesco.org/document/166726/site_0278_0008.jpg",
+            "https://whc.unesco.org/document/191022/site_0278_0011.jpg",
+            "https://whc.unesco.org/document/166719/site_0278_0001.jpg",
+            "https://whc.unesco.org/document/166720/site_0278_0002.jpg",
+            "https://whc.unesco.org/document/166721/site_0278_0003.jpg",
+            "https://whc.unesco.org/document/166722/site_0278_0004.jpg",
+            "https://whc.unesco.org/document/166723/site_0278_0005.jpg",
+            "https://whc.unesco.org/document/166724/site_0278_0006.jpg",
+            "https://whc.unesco.org/document/166727/site_0278_0009.jpg",
+            "https://whc.unesco.org/document/166728/site_0278_0010.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Babylon",
+            "ref": "278rev",
+            "latitude": 32.5419694444,
+            "longitude": 44.4208333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/278",
+        "unesco_documents": "https://whc.unesco.org/en/list/278/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/278/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/278/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Babylon Situated 85 km south of Baghdad, the property includes the ruins of the city which, between 626 and 539 BCE, was the capital of the Neo-Babylonian Empire. It includes villages and agricultural areas surrounding the ancient city. Its remains, outer and inner city walls, gates, palaces and temples, are a unique testimony to one of the most influential empires of the ancient world. Seat of successive empires, under rulers such as Hammurabi and Nebuchadnezzar, Babylon represents the expression of the creativity of the Neo-Babylonian Empire at its height. The city's association with one of the seven wonders of the ancient world—the Hanging Gardens—has also inspired artistic, popular and religious culture on a global scale. Situated 85 km south of Baghdad, the property includes the ruins of the city which, between 626 and 539 BCE, was the capital of the Neo-Babylonian Empire. It includes villages and agricultural areas surrounding the ancient city. Its remains, outer and inner city walls, gates, palaces and temples, are a unique testimony to one of the most influential empires of the ancient world. Seat of successive empires, under rulers such as Hammurabi and Nebuchadnezzar, Babylon represents the expression of the creativity of the Neo-Babylonian Empire at its height. The city's association with one of the seven wonders of the ancient world—the Hanging Gardens—has also inspired artistic, popular and religious culture on a global scale. Iraq Arab States Cultural"
+    },
+    {
+      "site_key": "erbil_citadel",
+      "uuid": "9aa93e89-6a9e-5a39-ae4b-5ace5538b40d",
+      "unesco_id": "1437",
+      "names": {
+        "en": "Erbil Citadel",
+        "fr": "Citadelle d’Erbil",
+        "es": "Ciudadela de Erbil",
+        "ru": "Цитадель Эрбиль",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "IRQ": {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "iso3": "IRQ"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell (a hill created by many generations of people living and rebuilding on the same spot) in the Kurdistan region, Erbil Governorate. A continuous wall of tall 19th-century façades still conveys the visual impression of an impregnable fortress, dominating the city of Erbil. The citadel features a peculiar fan-like pattern dating back to Erbil’s late Ottoman phase. Written and iconographic historical records document the antiquity of settlement on the site – Erbil corresponds to ancient Arbela, an important Assyrian political and religious centre – while archaeological finds and investigations suggest that the mound conceals the levels and remains of previous settlements.",
+          "fr": "La citadelle d’Erbil est un établissement anciennement fortifié bâti au sommet d’un imposant tell ovoïde – un monticule créé par les générations qui se sont succédé sur le site et ont reconstruit au même endroit. Elle est située dans la région autonome du Kurdistan en Iraq, au nord du pays. Le mur ininterrompu de façades de maisons du XIXe siècle continue de donner l’impression visuelle d’une forteresse imprenable surplombant la ville d’Erbil. La citadelle présente un tracé de rues particulier, en éventail, datant de la phase ottomane tardive d’Erbil. Les sources écrites et iconographiques documentent l’antiquité de l’occupation du site – Erbil correspond à l’ancienne Arbèles, un important centre politique et religieux assyrien – tandis que les découvertes et fouilles archéologiques suggèrent que la colline cache les strates et les vestiges d’établissements plus anciens.",
+          "es": "Se trata de un asentamiento fortificado construido en la cima de un imponente tell ovoidal, es decir, un montículo creado por las generaciones que se sucedieron en el sitio y lo reconstruyeron en el mismo lugar. Los muros ininterrumpidos de fachadas y viviendas del siglo XIX continúan dando la impresión visual de una fortaleza inexpugnable que domina la ciudad de Erbil, situada en la región autónoma del Kurdistán (Iraq). El peculiar trazado de sus calles, en forma de abanico, data de la fase otomana tardía de Erbil. Las fuentes escritas e iconográficas documentan una ocupación del sitio antigua: Erbil corresponde a la antigua Arbela, un importante centro político y religioso asirio. Además, los descubrimientos y las excavaciones arqueológicas realizadas sugieren que la colina oculta estratos y vestigios todavía más antiguos.",
+          "ru": "Укреплённое поселение на вершине внушительных размеров яйцеобразного холма, свидетельствующего о жизни и строительной деятельности многих поколений. Объект расположен в Курдистане, провинция Эрбиль. Протяжённая высокая фасадная стена, относящаяся к XIX веку, и в наше время производит зрелищное впечатление неприступной крепости, доминирующей над городом Эрбиль. Цитадель имеет своеобразную веерообразную форму, характерную для Эрбиля конца Османской эпохи. Письменные и иконографические исторические документы говорят о древности поселения, основанного в этом месте. Эрбиль был известен под названием «древняя Арбела» - важный ассирийский политический и религиозный центр. Археологические исследования и находки указывают на то, что холм скрывает многие уровни и следы бывших здесь поселений.",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell (a hill created by many generations of people living and rebuilding on the same spot) in the Kurdistan region, Erbil Governorate. A continuous wall of tall 19th-century façades still conveys the visual impression of an impregnable fortress, dominating the city of Erbil. The citadel features a peculiar fan-like pattern dating back to Erbil’s late Ottoman phase. Written and iconographic historical records document the antiquity of settlement on the site – Erbil corresponds to ancient Arbela, an important Assyrian political and religious centre – while archaeological finds and investigations suggest that the mound conceals the levels and remains of previous settlements.",
+        "justification": "Brief description Erbil Citadel is a rare surviving example of a formerly fortified settlement which has grown up on the top of an imposing ovoid-shaped tell. The artificial topography of the archaeological mound conditioned the urban form of the settlement, the structure of the Ottoman period urban fabric of which is clearly legible, in the maze of alleys and cul-de-sacs radiating from the main Grand Gate. The original fortifications of the Citadel were in time replaced by houses and the continuous wall of tall 19th century house façades still conveys the visual impression of an impregnable fortress dominating the city of Erbil. Written and iconographic historical records document the antiquity of settlement on the site: Erbil is associated with Arbela, an important Assyrian political and religious centre and is mentioned, with a remarkable continuity of its name (Irbilum, Urbilum, Urbel, Arbail, Arbira, Arbela, Erbil/Arbil), since pre-Sumerian times in several written sources. Archaeological finds and investigations suggest that the mound conceals the levels and remains of several layers of previous settlements, while the immediate and wider setting has revealed traces connected to the early development of the settlement. Criterion (iv): Erbil Citadel is an imposing example of a multilayered archaeological mound still physically emerging from the surrounding landscape. The physical structure of the Citadel town is characterized by the permanence of the Ottoman period urban form and street pattern on top of the mound. Its shape with definite boundaries has in part dictated the transformations of the urban fabric which still exhibits the typical Ottoman period traditional articulation in functional districts and comprises some fine examples of residential buildings dating back to the 19th – 20th centuries, and, to a lesser degree, to the 18th century. Integrity The property encompasses an intact archaeological tell which still keeps its role of landmark in the landscape of Erbil. It preserves over thirty metres of archaeological deposits going back to the very early beginnings of urbanization in Mesopotamia. The urban structure of the Citadel settlement is still clearly recognizable in its blocks division and alleyways. Some demolitions made by the previous regime have opened some spaces, the building stock has suffered from decay in the past fifty years, and the social and functional integrity of the Citadel as an inhabited settlement has suffered discontinuity, but these will be carefully addressed following the recommendations of the Erbil Citadel Management Plan, in order to return the Citadel to its role as the central place for Erbil and its citizens. Its buffer areas have some problems of integrity due to modern constructions encroaching on the streets and areas immediately surrounding the tell, but this is being addressed by the implementation of new guidelines regulating uses and form of modern activities in this area. The wider setting is also important to understand and appreciate Erbil Citadel as a landmark for the city. Authenticity The property sits on an archaeological tell where excavations at the site started under HCECR monitoring, therefore the site and its immediate and wider setting retain an important archaeological potential contributing to its historic authenticity. The urban structure of the formerly fortified settlement of the Ottoman period is preserved to a sufficient extent to allow its understanding and appreciation. Demolition and abandonment were not accompanied by replacements with modern, incompatible materials and forms, leaving substance and design of the historic city relatively preserved, despite that materials from existing buildings were used to erect temporary housing by newcomers who occupied the site for a couple of decades. This phenomenon however provides an insight on the archaeological mound-building process. If in terms of location the development scheme of Erbil has marked the central position of the Citadel, authenticity of setting is being improved thanks to specific guidelines. The site represents a physical and symbolic landmark of Erbil city landscape but also a popular venue for gatherings of former residents and Friday prayers: links and sense of belonging of the local populations and former inhabitants represent important aspects for a long-term revitalisation of Erbil Citadel and its reintegration into the city as a vital and living element. Protection and management requirements The Citadel is a protected site under the legislation of Iraq and of the Kurdistan region. The authority in charge of its revitalization efforts, the High Commission for Erbil Citadel Revitalization (HCECR), is working in a strategic partnership with UNESCO and other agencies to conserve and rehabilitate the Citadel through programs of physical improvements within the framework of detailed studies and plans that have been the basis for the Conservation and Rehabilitation Master Plan for Erbil Citadel. HCECR action has resulted in the preparation of the Erbil Citadel Management Plan, the instrument that is now regulating all activities concerning the site’s future development and conservation. The buffer areas of the Citadel are not under the responsibility of HCECR, but of Erbil Municipality, which has benefited from UNESCO’s, HCECR’s and international assistance to generate the Urban Design Guidelines for the Buffer Zone of Erbil Citadel, which are under implementation. The important archaeological potential of the immediate and wider setting of the property requires the same level of attention for architectural and urban dimensions. The current efforts to revitalize the Citadel and the strong relationship that the people of Erbil have with it, will be determining factors in returning the Citadel to the role and position it has always held in its history, as a living place central to the life of the city of Erbil and the northern regions of Iraq, and as an urban landscape of importance for all humanity."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 15.6,
+          "square_km": 0.16,
+          "square_miles": 0.063,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/22a0ef1038784cba7815964ebb8bfad9",
+          "filename": "site_1437_0001-500-0-20140606150627.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/129678/site_1437_0001.jpg",
+            "https://whc.unesco.org/document/129681/site_1437_0002.jpg",
+            "https://whc.unesco.org/document/129685/site_1437_0003.jpg",
+            "https://whc.unesco.org/document/129687/site_1437_0004.jpg",
+            "https://whc.unesco.org/document/129692/site_1437_0005.jpg",
+            "https://whc.unesco.org/document/129694/site_1437_0006.jpg",
+            "https://whc.unesco.org/document/129698/site_1437_0007.jpg",
+            "https://whc.unesco.org/document/129700/site_1437_0008.jpg",
+            "https://whc.unesco.org/document/129702/site_1437_0009.jpg",
+            "https://whc.unesco.org/document/129705/site_1437_0010.jpg",
+            "https://whc.unesco.org/document/129708/site_1437_0011.jpg",
+            "https://whc.unesco.org/document/129712/site_1437_0012.jpg",
+            "https://whc.unesco.org/document/129715/site_1437_0013.jpg",
+            "https://whc.unesco.org/document/129719/site_1437_0014.jpg",
+            "https://whc.unesco.org/document/129722/site_1437_0015.jpg",
+            "https://whc.unesco.org/document/129723/site_1437_0016.jpg",
+            "https://whc.unesco.org/document/129724/site_1437_0017.jpg",
+            "https://whc.unesco.org/document/129725/site_1437_0018.jpg",
+            "https://whc.unesco.org/document/129726/site_1437_0019.jpg",
+            "https://whc.unesco.org/document/129727/site_1437_0020.jpg",
+            "https://whc.unesco.org/document/129728/site_1437_0021.jpg",
+            "https://whc.unesco.org/document/129729/site_1437_0022.jpg",
+            "https://whc.unesco.org/document/129730/site_1437_0023.jpg",
+            "https://whc.unesco.org/document/129731/site_1437_0024.jpg",
+            "https://whc.unesco.org/document/129732/site_1437_0025.jpg",
+            "https://whc.unesco.org/document/129733/site_1437_0026.jpg"
+          ],
+          "count": 26
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Erbil Citadel",
+            "ref": "1437",
+            "latitude": 36.1911111111,
+            "longitude": 44.0091666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1437",
+        "unesco_documents": "https://whc.unesco.org/en/list/1437/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1437/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1437/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Erbil Citadel Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell (a hill created by many generations of people living and rebuilding on the same spot) in the Kurdistan region, Erbil Governorate. A continuous wall of tall 19th-century façades still conveys the visual impression of an impregnable fortress, dominating the city of Erbil. The citadel features a peculiar fan-like pattern dating back to Erbil’s late Ottoman phase. Written and iconographic historical records document the antiquity of settlement on the site – Erbil corresponds to ancient Arbela, an important Assyrian political and religious centre – while archaeological finds and investigations suggest that the mound conceals the levels and remains of previous settlements. Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell (a hill created by many generations of people living and rebuilding on the same spot) in the Kurdistan region, Erbil Governorate. A continuous wall of tall 19th-century façades still conveys the visual impression of an impregnable fortress, dominating the city of Erbil. The citadel features a peculiar fan-like pattern dating back to Erbil’s late Ottoman phase. Written and iconographic historical records document the antiquity of settlement on the site – Erbil corresponds to ancient Arbela, an important Assyrian political and religious centre – while archaeological finds and investigations suggest that the mound conceals the levels and remains of previous settlements. Iraq Arab States Cultural"
+    }
+  ]
+}

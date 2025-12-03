@@ -1,0 +1,1112 @@
+{
+  "country": {
+    "code": "TJK",
+    "name": "Tajikistan"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "cultural_heritage_sites_of_ancient_khuttal",
+      "uuid": "d1c7684d-010b-5376-8c86-0b2f3223e2f6",
+      "unesco_id": "1627",
+      "names": {
+        "en": "Cultural Heritage Sites of Ancient Khuttal",
+        "fr": "Sites du patrimoine culturel du Khuttal ancien",
+        "es": "Sitios del Patrimonio Cultural del Antiguo Khuttal",
+        "ru": "Объекты культурного наследия Древнего Хутталя",
+        "ar": "مواقع التراث الثقافي لختال القديمة",
+        "zh": "古骨咄的文化遗产地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+          "fr": "Le Khuttal ancien était un royaume médiéval, situé entre les rivières Panj et Vakhch et les contreforts du Pamir. Ce bien comprend une série de dix sites et un monument témoignant de son rôle entre les VIIe et XVIe siècles lors des échanges commerciaux des Routes de la Soie. Le Khuttal fournissait des produits de grande valeur : sel, or, argent et races de chevaux locales, et servait de carrefour culturel, religieux et technologique. Ses vestiges archéologiques comme les temples bouddhistes, les palais, les établissements, les sites de fabrication et les caravansérails, illustrent son importance stratégique et les interactions florissantes avec les empires voisins.",
+          "es": "El antiguo Khuttal era un reino medieval situado entre los ríos Panj y Vakhsh y el piemonte de Pamir. El bien patrimonial incluye diez sitios y un monumento representativos de su importancia de los siglos VII al XVI en el comercio de las Rutas de la Seda. Khuttal aportaba bienes valiosos como sal, oro, plata y caballos, y sirvió como centro de intercambios culturales, religiosos y tecnológicos. La diversidad de restos arqueológicos —templos budistas, palacios, asentamientos, centros de fabricación y caravasares— ilustra su importancia estratégica y las vibrantes interacciones con los imperios vecinos.",
+          "ru": "Древний Хуттал был средневековым царством, расположенным между реками Пяндж и Вахш и предгорьями Памира. В состав объекта входят десять археологических памятников и один монумент. Они отражают роль Хутталя в торговле на Великом шёлковом пути с VII по XVI века. Хуттал поставлял лошадей и такие ценные ресурсы, как соль, золото и серебро, а также служил центром культурного, религиозного и технологического обмена. Разнообразные археологические свидетельства — буддийские храмы, дворцы, поселения, ремесленные центры и караван-сараи — иллюстрируют стратегическое положение Хутталя и его активное взаимодействие с соседними империями.",
+          "ar": "كانت ختال القديمة مملكة من العصور الوسطى تقع بين نهري بانج وفخش وسفوح جبل البامير. ويتضمن هذا العنصر عشرة مواقع ومعلماً أثرياً واحداً، تبين دور هذه المملكة التجاري على طرق الحرير بين القرنين السابع والسادس عشر. وقد ساهمت ختال في تقديم سلع قيِّمة مثل الملح والذهب والفضة والأحصنة، وكانت مركزاً للتبادل الثقافي والديني والتكنولوجي. وتظهر أهميتها الاستراتيجية وتفاعلها الحيوي مع الإمبراطوريات المجاورة من خلال ما بقي من آثارها المتنوعة من معابد بوذية وقصور ومستوطنات ومراكز تصنيع وخانات.",
+          "zh": "中世纪王国骨咄（Khuttal）位于喷赤河与瓦赫什河之间的帕米尔山麓。该遗产由10处遗址和1处建筑组成，见证了王国在7-16世纪丝路贸易中的重要作用。其不仅输出食盐、金银、良驹等珍贵商品，更成为文化、宗教、技术交流中心。现存的佛寺、宫殿、民居聚落、手工业中心及商旅客栈等多类考古遗迹，生动展现了这一地区的重要战略地位及与周边帝国的密切往来。"
+        },
+        "full": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 152.409,
+          "square_km": 1.52,
+          "square_miles": 0.617,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2e1984d530479d98e0c0ed4d8adbca81",
+          "filename": "site_1627_0001.jpg",
+          "dimensions": {
+            "width": 5472,
+            "height": 3648
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/220718/site_1627_0001.jpg",
+            "https://whc.unesco.org/document/220719/site_1627_0002.jpg",
+            "https://whc.unesco.org/document/220720/site_1627_0003.jpg",
+            "https://whc.unesco.org/document/220721/site_1627_0004.jpg",
+            "https://whc.unesco.org/document/220722/site_1627_0005.jpg",
+            "https://whc.unesco.org/document/220723/site_1627_0006.jpg",
+            "https://whc.unesco.org/document/220724/site_1627_0007.jpg",
+            "https://whc.unesco.org/document/220725/site_1627_0008.jpg",
+            "https://whc.unesco.org/document/220726/site_1627_0009.jpg"
+          ],
+          "count": 9
+        }
+      },
+      "components": {
+        "count": 11,
+        "locations": [
+          {
+            "name": "Zoli Zard",
+            "ref": "1627-005",
+            "latitude": 38.1284444445,
+            "longitude": 69.3269666667
+          },
+          {
+            "name": "Shahrtepa",
+            "ref": "1627-010",
+            "latitude": 37.5474722222,
+            "longitude": 69.3702027778
+          },
+          {
+            "name": "Manzaratepa",
+            "ref": "1627-004",
+            "latitude": 37.8291666667,
+            "longitude": 69.5898222222
+          },
+          {
+            "name": "Kalai Hulbuk",
+            "ref": "1627-002",
+            "latitude": 37.7777416667,
+            "longitude": 69.5567305556
+          },
+          {
+            "name": "Shahristoni Hulbuk",
+            "ref": "1627-003",
+            "latitude": 37.7836388889,
+            "longitude": 69.5605166667
+          },
+          {
+            "name": "Tohir Caravansarai",
+            "ref": "1627-009",
+            "latitude": 37.7443944444,
+            "longitude": 69.2987138889
+          },
+          {
+            "name": "Halevard (Kofirkala)",
+            "ref": "1627-007",
+            "latitude": 37.5886833333,
+            "longitude": 68.6466277777
+          },
+          {
+            "name": "Shahristoni Zoli Zar",
+            "ref": "1627-008",
+            "latitude": 37.6495527777,
+            "longitude": 69.4677833334
+          },
+          {
+            "name": "Makbarai Mavlono Tojiddin",
+            "ref": "1627-006",
+            "latitude": 38.1347305555,
+            "longitude": 69.3443583333
+          },
+          {
+            "name": "Khishttepa Buddhist temple",
+            "ref": "1627-011",
+            "latitude": 38.3198027778,
+            "longitude": 69.9336472222
+          },
+          {
+            "name": "Ajinatepa Buddhist monastery",
+            "ref": "1627-001",
+            "latitude": 37.7980666666,
+            "longitude": 68.8544361111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1627",
+        "unesco_documents": "https://whc.unesco.org/en/list/1627/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1627/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1627/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cultural Heritage Sites of Ancient Khuttal Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires. Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires. Tajikistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "proto_urban_site_of_sarazm",
+      "uuid": "aac2bbbf-9ba9-555a-9195-c104a4aff3a6",
+      "unesco_id": "1141",
+      "names": {
+        "en": "Proto-urban Site of Sarazm",
+        "fr": "Sarazm",
+        "es": "Sarazm",
+        "ru": "Саразм",
+        "ar": "سَرازم",
+        "zh": "萨拉子目古城的原型城市遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean.",
+          "fr": "Sarazm, qui signifie « le commencement de la terre », est un site archéologique qui témoigne de peuplements humains sédentaires en Asie centrale, du IVe millénaire avant J.-C. à la fin du 3e millénaire avant J.-C. Les vestiges montrent l'essor d'un proto-urbanisme précoce dans cette région. Ce centre de peuplement, parmi les plus anciens d'Asie centrale, est situé entre une zone montagneuse propice à l'élevage du bétail par des bergers nomades et une grande vallée favorable au développement de l'agriculture et de l'irrigation par les premières populations sédentarisées de la région. Sarazm démontre aussi l'existence d'échanges matériels et culturels et des liaisons marchandes entre les steppes de l'Asie centrale, le Turkménistan, le plateau iranien, la vallée de l'Indus et jusqu'à l'océan Indien.",
+          "es": "Sarazm significa “el comienzo de la tierra” y es un sitio arqueológico que atestigua la presencia de asentamientos humanos sedentarios en el Asia Central, desde el cuarto milenio hasta finales del tercer milenio antes de la era cristiana. Sus vestigios muestran la existencia de un protourbanismo temprano en la región. Este núcleo de asentamientos, que es uno de los más antiguos de todo el Asia Central, está situado entre una zona montañosa apta para la cría de ganado por parte de pastores nómadas y un gran valle propicio para el desarrollo de la agricultura y el regadío por parte de las primeras poblaciones sedentarias de la región. El sitio de Sarazm es también un exponente de la existencia de intercambios materiales y culturales, así como de nexos mercantiles, entre las estepas del Asia Central, el Turkmenistán, la meseta del Irán, el Valle del Indo y el litoral del Océano Índico.",
+          "ru": "Саразм, что означает начало земли, - это древнейшее поселение оседлых народов Центральной Азии, живших с четвертого тысячелетия до конца третьего тысячелетия до нашей эры. Здесь ведутся археологические раскопки. Древние развалины свидетельствуют о развитии зачатков урбанизации в этом регионе. Это поселение, одно из старейших в Центральной Азии, расположено между горной местностью, благоприятствующей разведению скота кочевниками, и обширной долиной, где первые оседлые жители занимались сельским хозяйством с использованием ирригации. Саразм также сохранил свидетельства существования торговых и культурных обменов и связей между жителями обширной территории, простирающейся от степей Центральной Азии, Туркменистана, Иранского нагорья и долины Инда, вплоть до Индийского океана.",
+          "ar": "إن سَرازم، التي تعني بداية الأرض، هي موقع أثري يشهد على وجود إعمار بشري استقر في آسيا الوسطى من الألف الرابع وحتى نهاية الألف الثالث قبل الميلاد. وتبين الآثار هناك تطور طراز حضري بدائي سابق لأوانه في هذه المنطقة. ويقع المركز العمراني البشري هذا، الذي يُعتبر من أقدم المراكز العمرانية في آسيا الوسطى، بين منطقة جبلية ملائمة لتربية الماشية، من قِبَل الرعاة الرُّحَّل، ووادٍ فسيح مناسب لتطوير الزراعة والريّ من جانب المجموعات السكانية التي توطنت في هذه المنطقة. وإضافة إلى ذلك، تشهد سَرازم على وجود مبادلات مادية وثقافية وصلات تجارية بين سهوب آسيا الوسطى، وتركمانستان، والهضبة الإيرانية ووادي الهندوس وحتى المحيط الهندي.",
+          "zh": "萨拉子目，意指“大地开始的地方”，是一处考古遗址，它的出现证明早在公元前4000至公元前3000年，中亚地区就已经出现了定居人口。各种遗迹表明，这一地区很早以前就出现的初始城市化曾得到过迅速发展。作为古中亚地区的定居中心之一，它的地理位置为其发展提供了便利条件，一面是适于游牧民族发展畜牧业的平缓山区，另一面是广袤的山谷，为这一地区最初的定居者提供了发展农业特别是发展灌溉的优势。萨拉子目古城还是中亚草原与土库曼斯坦、伊朗高原、印度河谷直至印度洋这些地区之间商贸往来与文化交流的见证。"
+        },
+        "full": "Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean.",
+        "justification": "Brief synthesis The proto-urban site of Sarazm is an archaeological site which bears witness to the development of settlements in Central Asia from the 4th millennium BCE to the late 3rd millennium BCE. The Proto-urban Site of Sarazm illustrates the early rise of proto-urbanization in this region, reflected in the sophistication of the dwellings, infrastructures, and archaeological findings. It came into being as the result of the complementarity initially between pastoralism and early agrarianism, and subsequently between the exploitation of mineral resources in the Bronze Age and the development of handicrafts. Sarazm demonstrates the existence of inter-regional trade and cultural interchanges over long distances across Central Asia. This was a long-lasting and prosperous proto-urban metropolis, at the north-eastern extremity of a vast area stretching from Mesopotamia to the Indus and the Iranian plateau. Criterion (ii): The Proto-urban Site of Sarazm bears testimony, from the 4th millennium BCE, to trade and cultural interchanges between the pastoral nomads of the mountains of Central Asia and the agrarian peoples of Transoxiane. Later, particularly in the Bronze Age, the Proto-urban Site of Sarazm complemented and extended its activities with metallurgy and handicrafts, demonstrating the existence of a network of a diversity of interchanges on a very large scale. The Proto-urban Site of Sarazm had connections with the steppes of Central Asia, and in addition with the Turkmenian, proto-Elamite, Mesopotamian, and Indus worlds. Criterion (iii): The Proto-urban Site of Sarazm constitutes a remarkable human settlement, exceptional in its geographical situation, in Central Asia, in the 4th and 3rd millennia BCE, to which its proto-urban and architectural remains and its archaeological findings bear witness. The town played a regional role over a long period and on a very large scale in the working of metals, particularly tin and copper, and the associated development of handicrafts to produce tools, ceramics, and jewellery. The Proto-urban Site of Sarazm is one of the places that gave birth to and saw the development of the major trans-Eurasian trade routes. Integrity and authenticity The integrity of the property is acceptable and under control, as a result of the current conservation works and programmes, but it is still ill-defined because of uncertainty about the precise boundaries of the proto-urban site. All the original elements are in their initial location, where they were left when the site was abandoned, and the only deterioration of these elements is the result of natural processes. Protection and management requirements The Proto-urban Site of Sarazm has the legal status of a “Historical and Archaeological Reserve,” as defined by the resolutions of the Government of the Republic of Tajikistan No 391 of 21 September 2000 and No 198 of 19 April 2001. It is managed by the Penjikent Archaeological Base under the supervision of the Institute of History, Archaeology and Ethnography of the Academy of Sciences. The protection of the property is satisfactory. The system for the management of the property is in place. It has begun to be expanded and to operate satisfactorily. A certain degree of fragility remains, however, as the presence of the management system on the site of the property itself is inadequate. The management authority must make sure that it produces a report on the initiatives carried out and strengthens the human resources of the Sarazm Archaeological Reserve, in terms of both the number of staff and the level of training. International cooperation for scientific research and for the conservation of the property remains crucial, and must proactively participate in the training of local personnel."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 15.93,
+          "square_km": 0.16,
+          "square_miles": 0.064,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2010,
+          "all_dates": [
+            2010
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2010,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7699e48381394f379fa063d5aa43a2e6",
+          "filename": "site_1141_0001-500-0-20230113123701.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 741
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115267/site_1141_0001.jpg",
+            "https://whc.unesco.org/document/127849/site_1141_0004.jpg",
+            "https://whc.unesco.org/document/115268/site_1141_0002.jpg",
+            "https://whc.unesco.org/document/127850/site_1141_0005.jpg",
+            "https://whc.unesco.org/document/129121/site_1141_0006.jpg",
+            "https://whc.unesco.org/document/129122/site_1141_0007.jpg",
+            "https://whc.unesco.org/document/129123/site_1141_0008.jpg",
+            "https://whc.unesco.org/document/129124/site_1141_0009.jpg",
+            "https://whc.unesco.org/document/129125/site_1141_0010.jpg",
+            "https://whc.unesco.org/document/129126/site_1141_0011.jpg",
+            "https://whc.unesco.org/document/129127/site_1141_0012.jpg",
+            "https://whc.unesco.org/document/129128/site_1141_0013.jpg",
+            "https://whc.unesco.org/document/129129/site_1141_0014.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Proto-urban Site of Sarazm",
+            "ref": "1141rev",
+            "latitude": 39.5078888889,
+            "longitude": 67.4587222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1141",
+        "unesco_documents": "https://whc.unesco.org/en/list/1141/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1141/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1141/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 15,
+        "inscription_year": 2010
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Proto-urban Site of Sarazm Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean. Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean. Tajikistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "tajik_national_park_mountains_of_the_pamirs",
+      "uuid": "8e970be3-e7c3-5eae-9d7b-c5f11171ed1a",
+      "unesco_id": "1252",
+      "names": {
+        "en": "Tajik National Park (Mountains of the Pamirs)",
+        "fr": "Parc national tadjik (montagnes du Pamir)",
+        "es": "Parque Nacional Tayiko (Cordillera del Pamir)",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena.",
+          "fr": "Situé à l’est du Tadjikistan, au cœur du « nœud du Pamir » (carrefour des plus hautes chaînes montagneuses de l’Eurasie), le site couvre plus de 2,5 millions d’hectares accidentés et très peu peuplés. A l’est, il s’agit de hauts plateaux et, à l’ouest, de pics dont certains dépassent les 7 000 mètres d’altitude. Les variations saisonnières de température sont extrêmes. Le Fedtchenko – le plus long glacier de vallée en dehors des régions polaires - est un des 1085 glaciers dénombrés sur ce site qui compte 170 cours d’eau et plus de 400 lacs. Deux groupes d’espèces florales (celui d’Asie centrale et celui d’Asie du sud-ouest) poussent sur le site qui héberge aussi des espèces rares et menacées d’oiseaux et de mammifères (notamment l’argali de Marco Polo, le léopard des neiges, l’ibex de Sibérie). Sujet à de fréquents tremblements de terre, le Parc est très peu affecté par l’agriculture et les établissements humains. Il offre une occasion unique d’étudier les phénomènes de tectonique des plaques et de subduction continentale.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena.",
+        "justification": "Brief synthesis Tajik National Park (2,611,674 ha in area) encompasses almost the entire Pamir Mountains, the third highest mountain ecosystem in the world after the Himalaya and Karakorum Mountains. The Pamir Mountains lie at the centre of the ‘Pamir Knot’, the term used by geographers to describe the tangle of the highest mountain ranges on the Eurasian continent. Huge tectonic forces stemming from the collision of the Indian-Australian plate with the Eurasian Plate have progressively thrown up the Himalaya, Karakoram, Hindu Kush, Kunlun and Tien Shan – all radiating out from the Pamir Mountains. Along with the Karakoram Mountains, the Pamir region is one of the most tectonically-active locations in the world. Tajik National Park stands out as a very large protected area, with a stark treeless landscape of exceptional natural beauty. The outstanding scenic values are enhanced by the landform juxtaposition of heavily-glaciated high peaks and high plateaux with an alpine desert character. The property contains a number of superlative natural phenomena, including: Fedchenko Glacier (the longest glacier in the world outside of the Polar Regions); Lake Sarez (a very high, deep lake impounded just over a century ago by a severe earthquake which generated a huge landslide forming the Uzoi Dam, the highest natural dam in the world); and Karakul Lake, likely to be the world’s highest large lake of meteoric origin. Criterion (vii):Tajik National Park is one of the largest high mountain protected areas in the Palearctic Realm. The Fedchenko Glacier, the largest valley glacier of the Eurasian Continent and the world’s longest outside of the Polar Regions, is unique and a spectacular example at the global level. The visual combination of some of the deepest gorges in the world, surrounded by rugged glaciated peaks, as well as the alpine desert and lakes of the Pamir high plateaux adds up to an alpine wilderness of exceptional natural beauty. Lake Sarez and Lake Karakul are superlative natural phenomena. Lake Sarez, impounded behind the highest natural dam in the world, is of great geomorphic interest. Lake Karakul is likely to be the highest large lake of meteoric origin. Criterion (viii): The Pamir Mountains are a major centre of glaciation on the Eurasian continent and Tajik National Park illustrates within one protected area an outstanding juxtaposition of many high mountains, valley glaciers, and deep river gorges alongside the cold continental desert environment of the high Pamir Plateau landforms. An outstanding landform feature of the property’s geologically dynamic terrain is Lake Sarez. It was created by an earthquake-generated landslide of an estimated six billion tonnes of material and is possibly the youngest deep water alpine lake in the world. It is of international scientific and geomorphological hazard significance because of the on-going geological processes influencing its stability, and the sort of lacustrine ecosystem which will develop over time. Tajik National Park furthermore offers a unique opportunity for the study of plate tectonics and continental subduction phenomena thereby contributing to our fundamental understanding of earth building processes. Integrity The property comprises the entire area of the Tajik National Park and, because of its large size, mountainous and alpine desert character, and remoteness from human settlements, the property is considered to have an outstandingly high level of physical integrity. Consequently there is no need for a formal buffer zone. The defined core zone of TNP makes up nearly 78% of the property, with the other three sustainable ‘limited use’ zones ranged around the periphery of the park. Tajik National Park is owned by the State and, as a national park, it has the highest legal protection status in Tajikistan. Protection and management requirements The legislative framework and management arrangements for the property are comprehensive and clear and all activities that could threaten the integrity of the property, including mining, are legally prohibited There is a medium-term management plan approved by the Government and the State Agency of Natural Protected Areas is responsible for coordination of all activities in the park. The implementation of the management plan involves the participation of local communities and their traditional rights over the use of natural resources are respected. The zoning of the property accommodates both traditional and biodiversity conservation needs. The financing for the park comes largely from national sources with a minor contribution from donor funded projects. Inscription on the World Heritage list presents an increased opportunity to the State Party to develop ecotourism. Therefore, long-term protection and management requirements for the property include the need to prevent negative impacts from tourism whilst accommodating any increased visitation to the property through the provision of quality visitor services. There is a need for secured and adequate financing for the park to fully implement the management plan and carry out law enforcement measures. Since Government sources are limited, alternative sources of funding need to be investigated. In this respect, the concept of trophy hunting management needs to be developed, as trophy hunting could be an important supplementary income source for the management of the park. However, it should encompass all necessary elements of a science-based approach to game and habitat management, involve independent and external experts, and have a tight regulatory framework. The property requires an effective long-term monitoring programme, including defined key indicators of the conservation and habitat health of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            7,
+            8
+          ],
+          "display": "(vii)(viii)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 2611674,
+          "square_km": 26116.74,
+          "square_miles": 10569.086,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2013,
+          "all_dates": [
+            2013
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2013,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/18ef52a6195e95f83183657313445eb3",
+          "filename": "site_1252_0006-500-0-20130822103458.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/124093/site_1252_0006.jpg",
+            "https://whc.unesco.org/document/124094/site_1252_0007.jpg",
+            "https://whc.unesco.org/document/124095/site_1252_0008.jpg",
+            "https://whc.unesco.org/document/124096/site_1252_0009.jpg",
+            "https://whc.unesco.org/document/124097/site_1252_0010.jpg",
+            "https://whc.unesco.org/document/124098/site_1252_0011.jpg",
+            "https://whc.unesco.org/document/124099/site_1252_0012.jpg",
+            "https://whc.unesco.org/document/124100/site_1252_0013.jpg",
+            "https://whc.unesco.org/document/124101/site_1252_0014.jpg",
+            "https://whc.unesco.org/document/124102/site_1252_0015.jpg",
+            "https://whc.unesco.org/document/124103/site_1252_0016.jpg",
+            "https://whc.unesco.org/document/124104/site_1252_0017.jpg",
+            "https://whc.unesco.org/document/124105/site_1252_0018.jpg",
+            "https://whc.unesco.org/document/124106/site_1252_0019.jpg",
+            "https://whc.unesco.org/document/124107/site_1252_0020.jpg",
+            "https://whc.unesco.org/document/124108/site_1252_0021.jpg",
+            "https://whc.unesco.org/document/124109/site_1252_0022.jpg",
+            "https://whc.unesco.org/document/124110/site_1252_0023.jpg",
+            "https://whc.unesco.org/document/167614/site_1252_0024.jpg",
+            "https://whc.unesco.org/document/167615/site_1252_0025.jpg",
+            "https://whc.unesco.org/document/167616/site_1252_0026.jpg",
+            "https://whc.unesco.org/document/167617/site_1252_0027.jpg",
+            "https://whc.unesco.org/document/167618/site_1252_0028.jpg",
+            "https://whc.unesco.org/document/167619/site_1252_0029.jpg",
+            "https://whc.unesco.org/document/167620/site_1252_0030.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Tajik National Park (Mountains of the Pamirs)",
+            "ref": "1252rev",
+            "latitude": 38.765,
+            "longitude": 72.3052777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1252",
+        "unesco_documents": "https://whc.unesco.org/en/list/1252/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1252/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1252/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 12,
+        "inscription_year": 2013
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Tajik National Park (Mountains of the Pamirs) Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena. Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena. Tajikistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "tugay_forests_of_the_tigrovaya_balka_nature_reserve",
+      "uuid": "f0e5cf9c-0ae7-5ab4-8e1d-7e91119f5b40",
+      "unesco_id": "1685",
+      "names": {
+        "en": "Tugay forests of the Tigrovaya Balka Nature Reserve",
+        "fr": "Forêts de tugay de la Réserve naturelle de Tigrovaya Balka",
+        "es": "Bosques de tugai de la Reserva Natural de Tigrovaya Balka",
+        "ru": "Тугайные леса заповедника Тигровая Балка",
+        "ar": "غابات توغاي في محمية تيغروفايا بالكا الطبيعية",
+        "zh": "蒂格罗瓦亚·巴尔卡自然保护区的托喀依森林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size.",
+          "fr": "Ce bien se trouve dans l’interfluve des rivières Vakhsh et Panj, dans le sud-ouest du Tadjikistan. La réserve comprend de vastes écosystèmes ripicoles de tugay, le désert sableux du Kashka-Kum, le pic de Buritau, ainsi que les montagnes Hodja-Kaziyon. Le bien se compose d’une série de terrasses de plaine d’inondation couvertes de sols alluviaux comprenant, dans la vallée, des ripisylves de tugay à la biodiversité très spécifique. Les forêts de tugay de la réserve sont les plus vastes et les plus intactes de ce type en Asie centrale, et c’est le seul lieu au monde où l’écosystème de tugay et de peupliers d’Asie a été préservé dans son état d’origine sur une superficie de cette taille.",
+          "es": "Este sitio está situado entre los ríos Vakhsh y Panj, en el suroeste de Tayikistán. La Reserva incluye los extensos ecosistemas ribereños de tugai, el desierto arenoso de Kashka-Kum, el pico Buritau y las montañas de Hodja-Kaziyon. El bien se compone de una serie de terrazas inundables cubiertas por suelos aluvionales que comprenden bosques ribereños de tugai con una biodiversidad muy específica en el valle. Los bosques de tugai de la reserva representan el bosque de tugai de mayor tamaño y mejor preservado de este tipo en Asia Central, y constituye el único lugar del mundo donde el ecosistema de tugai de álamo asiático se ha conservado en su estado original en una superficie de estas dimensiones.",
+          "ru": "Этот объект расположен в междуречье Вахша и Пянджа на юго-западе Таджикистана. Заповедник включает в себя обширные тугайные экосистемы, песчаную пустыню Кашка-Кум, пик Буритау, а также горы Ходжа-Козиён. Территория заповедника представляет собой ряд пойменных террас, покрытых аллювиальными почвами, на которых произрастают тугайные приречные леса с весьма специфическим для долины биоразнообразием. Тугайные леса заповедника представляют собой крупнейший и наиболее нетронутый тугайный лес такого типа в Центральной Азии, и это единственное место в мире, где экосистема тугайных лесов из азиатского тополя сохранилась в первозданном виде на территории такого размера.",
+          "ar": "يقع هذا العنصر بين نهري فاخش وبانج في جنوب غرب طاجيكستان، وتشمل المحمية نظم توغاي الإيكولوجية الواسعة الممتدة على ضفتي النهر، وصحراء كاشكا-كوم الرملية، وقمة بوريتو، وجبال هودجا-كازيون. ويتألف هذا العنصر من مجموعة من مصاطب السهول الفيضية المغطاة بتربة الطمي، ويضم غابات توغاي الممتدة على ضفاف النهر إلى جانب تنوع بيولوجي شديد الخصوصية في الوادي. وتمثل غابات توغاي الواقعة ضمن هذه المحمية أكبر غابات توغاي وأكثرها سلامة من هذا النوع في وسط آسيا، وهذا هو المكان الوحيد في العالم الذي حُفظ فيه نظام توغاي الإيكولوجي لأشجار الحور الآسيوية في حالته الأصلية وعلى مساحة ممتدة إلى هذه الدرجة.",
+          "zh": "遗产位于塔吉克斯坦西南部，瓦赫什河和喷赤河之间。保护区包括广阔的河岸托喀依生态系统、卡什卡-库姆（Kashka-Kum）沙漠、布里陶（Buritau）峰以及霍贾-卡齐永（Hodja-Kaziyon）山。遗产地则由一系列冲积土覆盖的河漫滩阶地组成，包括谷地中的托喀依河岸森林，林间生物多样性独特。相较中亚同类型森林，保护区内的托喀依森林体量最大、生存状态最好。同时这里也是世界上唯一以原始状态保存大面积亚洲杨树托喀依生态系统的地方。"
+        },
+        "full": "This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size.",
+        "justification": "Brief synthesis The Tugay Forests of the Tigrovaya Balka Nature Reserve is located in the interfluve of the Vakhsh and Panj rivers in southwestern Tajikistan at the border of Afghanistan. The confluence continues as the Amu Darya, the largest river in Central Asia, running to the Aral Sea. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the low (1,000-1,200 m a.s.l.) mountains of the southern spurs of the Aruktau range – the Hodja-Kaziyon mountains. The area of the Tigrovaya Balka Nature Reserve is 49,786 hectares and its buffer zone is 17,672 hectares. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. Significantly, the property preserves a natural Asiatic poplar tugay vegetation complex. Criterion (ix): The natural complex of Tigrovaya Balka is an outstanding example of continuous ecological and biological processes taking place in the evolution and development of desert-tugay biocenoses and their characteristic plant and animal communities. The reserve hosts various ecological units, not only tugay lowland forests, but also steppe and semi-desert areas and their various ecotones where many stenoeceous species of flora are found. The reserve’s forests, sandy and saline semi-deserts, piedmont semi-savannas, and various wetlands are dynamically adapting to changes in the hydrological regime of the territory. There are several habitats in the reserve: tugay riverine forests, freshwater bodies and marshes, semi-deserts, takirs and solonchaks. The complex features water-resistant and thermophilic, salt-tolerant trees and shrubs such as the Asiatic Poplar or Blue Poplar, the Dzhida or Oleaster, the Multiramose Tamarix. Wildlife includes Bactrian Deer, whose population in the reserve exceeds 300; Goitered Gazelle, Striped Hyena, Gray Monitor, Tajik Black-and-gold Pheasant, and many waterfowl, completing the largely intact tugay ecosystem. The 24,100 hectares of tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size. Integrity The Tigrovaya Balka Nature Reserve is an integral natural complex, the main components of which are inseparably associated with each other by the common origin and dynamics of natural development, and includes the elements necessary to express its Outstanding Universal Value. The reserve presents ecosystems of tugay floodplain forests, sandy and saline semi-deserts, foothill low-grass semi-savannas and wetlands, with the spectrum of characteristic flora and fauna. The size of the property (49,786 ha) is sufficient to support the sustainable functioning of tugay ecosystems. The buffer zone of the reserve (17,672 ha), though narrow in places, provides additional guarantees of the integrity of the property. The integrity of the property depends on the riparian dynamics of the Vakhsh and Panj rivers, with the Vakhsh being the most important but also the most modified by eight dams. These dams change inter-seasonal and inter-annual flow dynamics reducing the flooding on which riparian tugay ecosystems depend. Only the section along the Panj river is still under some influence of natural riparian dynamics but their riparian woodlands are of limited size. The water balance is now partly supported by secondary water sources from irrigation systems. The water regime within the property has been restored to the extent that the property’s integrity is ensured, but the matter requires constant attention and action. Biophysical processes and properties of the natural landscape of the Tigrovaya Balka Nature Reserve are indirectly affected by economic activities (irrigated agriculture and cattle grazing) conducted in adjacent lands, but at the time of inscription they have not significantly impacted the property and their water footprint has been greatly reduced. Protection and management requirements The property has had the status of a state nature reserve since 1938, the highest nature protection status of Tajikistan, corresponding to IUCN category Ia. The Tigrovaya Balka Nature Reserve is a structural subdivision of the State Committee for Environmental Protection under the Government of the Republic of Tajikistan and operates in accordance with the Law of the Republic of Tajikistan “On Specially Protected Natural Territories” of 27 November 2014. The protection of the reserve is the responsibility of a special inspection service, consisting of 30 rangers and 5 senior rangers, who conduct daily rounds and night patrols. Agriculture, animal husbandry and other economic activities are strictly forbidden within the property’s boundaries, but do occur in the adjacent territories. The nature protection institution for the Tigrovaya Balka Nature Reserve has the necessary material and human resources to ensure undisturbed natural processes within the property. Operational protection and preservation of the property’s Outstanding Universal Value is carried out by reserve managers according to medium-term management plans, which define specific measures for protection, scientific research, monitoring of the state of conservation, environmental education and interaction with the local population, the timing of their implementation, actors, sources of funding and expected results. Reserve managers undertake a wide range of active management projects to counter the disruption of the hydrological regime due to upstream dams. Central to this is regular clearing of channels to deliver water from the Vaksh River to and among the lakes. Maintenance of the Outstanding Universal Value is contingent on regular supply of water from upstream sources."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 49786,
+          "square_km": 497.86,
+          "square_miles": 201.477,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/14a45c0739149f119ece5374029efaa6",
+          "filename": "site_1685_0001.jpg",
+          "dimensions": {
+            "width": 4901,
+            "height": 3666
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/200261/site_1685_0001.jpg",
+            "https://whc.unesco.org/document/200262/site_1685_0002.jpg",
+            "https://whc.unesco.org/document/200263/site_1685_0003.jpg",
+            "https://whc.unesco.org/document/200264/site_1685_0004.jpg",
+            "https://whc.unesco.org/document/200265/site_1685_0005.jpg",
+            "https://whc.unesco.org/document/200266/site_1685_0006.jpg",
+            "https://whc.unesco.org/document/200267/site_1685_0007.jpg",
+            "https://whc.unesco.org/document/200268/site_1685_0008.jpg",
+            "https://whc.unesco.org/document/200269/site_1685_0009.jpg",
+            "https://whc.unesco.org/document/200270/site_1685_0010.jpg",
+            "https://whc.unesco.org/document/200272/site_1685_0012.jpg",
+            "https://whc.unesco.org/document/203848/site_1685_0013.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Tugay forests of the Tigrovaya Balka Nature Reserve",
+            "ref": "1685",
+            "latitude": 37.2047222222,
+            "longitude": 68.3413888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1685",
+        "unesco_documents": "https://whc.unesco.org/en/list/1685/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1685/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1685/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Tugay forests of the Tigrovaya Balka Nature Reserve This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size. This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size. Tajikistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "silk_roads_zarafshan_karakum_corridor",
+      "uuid": "c2ae2a96-65a9-5108-822a-c46ea2ca256c",
+      "unesco_id": "1675",
+      "names": {
+        "en": "Silk Roads: Zarafshan-Karakum Corridor",
+        "fr": "Routes de la soie : corridor de Zeravchan-Karakoum",
+        "es": "Rutas de la seda: corredor de Zeravshan-Karakum",
+        "ru": "Шелковый путь: Зарафшан-Каракумский коридор",
+        "ar": "طرق الحرير: ممر زارافشان كاراكوم",
+        "zh": "丝绸之路：扎拉夫尚-卡拉库姆廊道"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          },
+          "TKM": {
+            "name": "Turkmenistan",
+            "iso2": "TM",
+            "iso3": "TKM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+          "fr": "Le corridor de Zeravchan-Karakoum est un des principaux tronçons des routes de la soie de l’Asie centrale, qui raccorde d’autres corridors venant de toutes les directions. Situé dans des montagnes escarpées, des vallées fluviales fertiles et des déserts inhabités, ce corridor de 866 kilomètres de long part de l’est vers l’ouest en longeant la rivière Zeravchan et continue vers le sud-ouest en suivant l’ancienne route des caravanes, à travers le désert du Karakoum jusqu’à l’oasis de Merv. Les échanges est-ouest étant en grande partie canalisés sur les routes de la soie du IIe siècle avant notre ère au XVIe siècle de notre ère, d’importantes quantités de marchandises furent négociées le long de ce corridor. Des hommes voyagèrent, s’établirent, firent des conquêtes, ou subirent des défaites en cet endroit, le transformant en un creuset mêlant appartenances ethniques, cultures, religions, sciences, et technologies.",
+          "es": "El corredor Zeravshan-Karakum es un tramo clave de las Rutas de la Seda en Asia Central que vincula otros corredores desde todas las direcciones. Situado entre montañas escarpadas, fértiles valles fluviales y desiertos inhabitables, el corredor de 866 kilómetros discurre de este a oeste a lo largo del río Zeravshan y más al suroeste siguiendo los antiguos caminos de caravanas que cruzaban el desierto de Karakum hasta el oasis de Merv. Canalizó gran parte del intercambio este-oeste a lo largo de las Rutas de la Seda desde el siglo II a.C. hasta el siglo XVI de nuestra era. La gente viajó, se asentó, conquistó o fue derrotada en esta zona, convirtiéndolo en un crisol de etnias, culturas, religiones, ciencias y tecnologías.",
+          "ru": "Зарафшан-Каракумский коридор — ключевой участок Шелкового пути в Центральной Азии, соединяющий другие коридоры со всех направлений. Расположенный среди труднопроходимых гор, плодородных речных долин и непригодных для жизни пустынь, 866-километровый коридор проходит с востока на запад вдоль реки Зарафшан и далее на юго-запад по древним караванным путям, пересекающим пустыню Каракумы, до Мервского оазиса. Благодаря тому, что со II в. до н.э. по XVI в. н.э. по коридору проходила большая часть обмена между Востоком и Западом по Шелковым путям, по нему осуществлялась торговля большим количеством товаров. Здесь люди путешествовали, жили, побеждали или терпели поражения, что превратило это место в плавильный котел народностей, культур, религий, наук и технологий.",
+          "ar": "يُعتبر ممر زارافشان كاراكوم جزءاً أصيلاً من طرق الحرير في آسيا الوسطى، وهو حلقة الوصل بين مجموعة أخرى من الممرات الممتدة في شتى الاتجاهات. يبلغ طول الممر 866 كيلومتراً ويقع في أحضان الجبال الوعرة ووديان الأنهار الخصبة والصحراء غير الصالحة للسكن، ويمتدّ من الشرق إلى الغرب على طول نهر زرافشان وإلى الجنوب الغربي متعقباً طرق القوافل التجارية القديمة التي تَعبُر صحراء كاراكوم، وصولاً إلى واحة ميرف. جرى تداول كمية كبيرة من البضائع على طول الممر باعتباره بوصلة الكثير من التبادلات التجارية بين الشرق والغرب على طول طرق الحرير من القرن الثاني قبل الميلاد إلى القرن السادس عشر الميلادي. شهد هذا الموقع سفر العديد من البشر، وفيه استقروا، وشنوا الغزوات، أو تكبدوا الخسائر، فبات الممر بوتقة تنصهر فيها الأعراق، والثقافات، والأديان، والعلوم، والتقنيات.",
+          "zh": "扎拉夫尚-卡拉库姆廊道是丝绸之路在中亚地区的咽喉，连接着来自各个方向的其他廊道。其全长866公里，沿途既有崎岖的山脉，又有肥沃的河谷和荒无人烟的沙漠。它先顺着扎拉夫尚河自东向西延伸，然后折往西南，沿古代商队路线穿越卡拉库姆沙漠直达梅尔夫绿洲。自公元前2世纪到公元16世纪，该走廊成为丝绸之路上东西方交流、大量商品贸易的主要渠道。它见证了人类的旅行、定居、征服、溃败，从而发展成民族、文化、宗教、科技的熔炉。"
+        },
+        "full": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+        "justification": "Brief synthesis The Zarafshan-Karakum Corridor is one of the key sections of the Silk Roads in Central Asia that connects other corridors from all directions. Comprising thirty-four component parts located in rugged mountains, fertile river valleys, and uninhabited desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Dotted along the corridor passing through varied geographical areas such as highland, piedmont, dry steppe, oases, fertile valleys, and arid-desert zones, the selected component parts reflect the complexity of landscapes and the adaption of societies to the control of the Silk Roads movement and trade. The variation in human responses between the fertile valleys and deltas, and the desert and river crossings, are clearly reflected in the selection of small towns, forts, and way stations; while the outcomes of the political and social capital generated by trading contacts are reflected in the range of commercial, elite, and religious buildings included in the nomination. It was the place where the Sogdians, some of the most international merchants in the world history, flourished. The control of these corridors was of vital significance to many of the great Silk Roads empires, such as the Sogdian, the Parthian, the Sassanian, the Timurid and the Seljuk, as they were fundamental to long-distance exchange along the Silk Roads. Along the corridor, a large quantity of goods and some high-value commodities from the East and the West were moved and traded, and many famous local products were brought out of there to feed the desires of the populations afar. People travelled, settled, conquered, or were defeated there, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. During the historic period of the Silk Roads between the 2nd century BCE and the 16th century CE, the Corridor had experienced three prosperous periods: the rise of Sogdians merchants between the 5th and 8th centuries CE; the thriving trade with the Muslim world and beyond between the 10th and 12th centuries CE, and significant development of science, culture, urban planning and economics under the Mongols' rule from the 13th century to the 17th century CE. Criterion (ii): The Zarafshan-Karakum Corridor exhibits an important interchange of human values over a span of eighteen centuries in the heart of Central Asia as demonstrated by the architecture, monuments, town planning, landscapes, arts, and technology of its component parts which reflect diversified cultures, ethnic traditions, beliefs, and technologies in both distinct and fused ways. Being one of the key sections at the centre of the Silk Roads network linking multiple ethnic regions, which has been alternatively controlled by nearby great empires, the Zarafshan-Karakum Corridor clearly demonstrates the diversity of populations, and the cultures and traditions, ideas and beliefs, as well as knowledge and technologies associated with them. Criterion (iii): The territory of the Zarafshan-Karakum Corridor is overlaid by rich layers of cultural depositions which accumulated throughout history, which is an exceptional testimony to the cultural traditions of the societies that were shaped by the trade and exchanged along the Corridor. These are evidenced by the wealth of the Sogdian merchants as displayed by their luxurious residences, the Sogdian temples with fire altar and murals, the Achaemenid citadels, the early Islamic hypostyle mosques with a large minaret, the rich Sufism buildings after the Great Arab Conquest, the advanced irrigation systems, as well as the wide spectrum of the caravan service facilities that had been provided and maintained by the successive empires controlling the Corridor. Criterion (v): The Zarafshan-Karakum Corridor is an outstanding example of traditional human settlements and land use that is representative of human interaction with nature. The territory of the Corridor covers diverse geographic areas such as highlands, piedmonts, dry steppes, oases and fertile valleys, and arid-desert zones, which dictated the town planning, architectural designs, agricultural and other production activities. It was also the people’s determination, initiatives, and ingenious designs that transformed the harsh land into one on which populations thrived. Integrity The integrity of the property is at two levels: the corridor level and the individual component part level. At the corridor level, the diversity of forms and functions of the selected component parts, including mausoleums, sardobas, caravanserais, minarets, mosques, religious complexes, settlements, and remains of ancient cities, fully demonstrate the active role the Corridor once played in history as a nodal section, which not only linked other corridors but also contributed to the trade with locally produced goods. The serial property as a whole also showcases the exchange of ideas and knowledge along the Silk Roads as the result of the movement of people and goods. At the individual component part level, all the attributes that are needed to convey the Outstanding Universal Value of the property are included in the property. The factors affecting the property, such as development pressure, are largely under the control of the States Parties. Authenticity The authenticity of the property resides at both the corridor level and the individual component part level. At the corridor level, the direction of the route, the geographical conditions, and the landscape settings that had shaped this section remain relatively unchanged over time. At the component part level, the location, the planning, and the layout of the sites remain unchanged. With many stretches of roads still used for transportation as they were used in the past, and most of the religious buildings and cemeteries still performing their original functions today. Many archaeological sites have been excavated and backfilled to protect the materials from deterioration, with the great majority of the portion remaining untouched, providing an opportunity for future research and the recovery of authentic data. The original materials and designs are found in most of the buildings. Conservation interventions conducted on the buildings observed internationally accepted principles such as minimal interventions. Reconstruction for interpretation purposes was undertaken in such a way that the reconstructed parts are distinguishable from the original structures and materials. Protection and management requirements The legal protection operates at the international, national, and component part levels. At the international level, an Agreement between the Ministry of Culture of the Republic of Tajikistan, the Ministry of Culture of the Republic of Uzbekistan and the Ministry of Culture of Turkmenistan for common promotion, management and protection of the components of the Serial Transnational Nomination “Silk Roads: Zeravshan-Karakum Corridor” was signed among the States Parties in 2020 as the legal basis for the protection and management of the property. At the national level, all thirty-four component parts are state-owned and listed under state-level legal designations. At the site level, all thirty-four component parts have been meticulously surveyed, studied, and documented, the necessary measures required for their preservation are implemented, and land-use restrictions as well as planning regulations necessary for conservation purposes, are put into effect. The Zarafshan-Karakum Corridor is managed at the transnational, national, and component part levels. At the corridor level, the management is regulated by the Agreement, which establishes a Coordinating Committee and a Working Group for the overall protection and management of the property. The Coordinating Committee conducts meetings with relevant stakeholders to resolve arising issues on the protection and management of the Corridor. The Coordinating Committee, together with the local authorities also provides the necessary tools and training to the managers and inspectors and encourage research and joint activities for the protection and promotion of the Silk Roads Corridor. The Working Group conducts meetings to discuss issues on protection and management of the component parts at the request of the Coordinating Committee. The Working Group is also responsible for the monitoring of the state of conservation of the component parts and informing the Coordinating Committee on adopted decisions. The International Institute for Central Asian Studies (IICAS), based in Samarkand (Uzbekistan), facilitates the sharing of information among the countries during management processes. It also acts as the secretariat of the nomination of the Zarafshan-Karakum Corridor. At the national level, all the component parts are owned by the States Parties, and designated as protected heritage sites. Ministries of Culture of the States Parties are respectively responsible for the management of the cultural heritage in their countries in terms of state registration, policy-making, administration and budget allocation, among others. At the component part level, each site is managed by the regional branches or governmental institutions under the Ministries of Culture of the States Parties. The costs of site management, maintenance, conservation, and monitoring are mainly covered by the central and local government annual budgetary fund, while national and international ex-budgetary aids are allocated for specific projects such as conservation campaigns, capacity building, and research. Technical support is provided by international resources, as well as universities, and academic institutions of the States Parties. Staff capacity has been significantly improved in the past decade, but can be further strengthened in the future. A site management plan with a monitoring mechanism should be developed for each component part, and an interpretation strategy should be adopted."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            5
+          ],
+          "display": "(ii)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 669.679,
+          "square_km": 6.7,
+          "square_miles": 2.71,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b58242854bda9264ca30135b8f7fbf7a",
+          "filename": "site_1675_0020.jpg",
+          "dimensions": {
+            "width": 8000,
+            "height": 4500
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/200405/site_1675_0020.jpg",
+            "https://whc.unesco.org/document/200406/site_1675_0021.jpg",
+            "https://whc.unesco.org/document/200407/site_1675_0022.jpg",
+            "https://whc.unesco.org/document/200408/site_1675_0023.jpg",
+            "https://whc.unesco.org/document/197605/site_1675_0011.jpg",
+            "https://whc.unesco.org/document/197603/site_1675_0009.jpg",
+            "https://whc.unesco.org/document/197608/site_1675_0014.jpg",
+            "https://whc.unesco.org/document/197604/site_1675_0010.jpg",
+            "https://whc.unesco.org/document/197606/site_1675_0012.jpg",
+            "https://whc.unesco.org/document/197607/site_1675_0013.jpg",
+            "https://whc.unesco.org/document/200155/site_1675_0015.jpg",
+            "https://whc.unesco.org/document/200156/site_1675_0016.jpg",
+            "https://whc.unesco.org/document/200157/site_1675_0017.jpg",
+            "https://whc.unesco.org/document/200158/site_1675_0018.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "Tahmalaj",
+            "ref": "1675-030",
+            "latitude": 38.1306972223,
+            "longitude": 62.646275
+          },
+          {
+            "name": "Suleimantepa",
+            "ref": "1675-011",
+            "latitude": 39.3806111111,
+            "longitude": 67.241975
+          },
+          {
+            "name": "Kum Settlement",
+            "ref": "1675-003",
+            "latitude": 39.4166944445,
+            "longitude": 68.3931361111
+          },
+          {
+            "name": "Deggaron Mosque",
+            "ref": "1675-018",
+            "latitude": 40.1550388889,
+            "longitude": 65.0114583333
+          },
+          {
+            "name": "Amul Settlement",
+            "ref": "1675-026",
+            "latitude": 39.0185833334,
+            "longitude": 63.5912111111
+          },
+          {
+            "name": "Vobkent Minaret",
+            "ref": "1675-021",
+            "latitude": 40.0196916667,
+            "longitude": 64.5179833334
+          },
+          {
+            "name": "Jartepa II Temple",
+            "ref": "1675-010",
+            "latitude": 39.5325138889,
+            "longitude": 67.3410472222
+          },
+          {
+            "name": "Paikend Settlement",
+            "ref": "1675-025",
+            "latitude": 39.5854833333,
+            "longitude": 64.0113611111
+          },
+          {
+            "name": "Khisorak Settlement",
+            "ref": "1675-001",
+            "latitude": 39.4414888889,
+            "longitude": 69.6855583333
+          },
+          {
+            "name": "Dabusiya Settlement",
+            "ref": "1675-013",
+            "latitude": 40.0248805556,
+            "longitude": 65.766875
+          },
+          {
+            "name": "Mansaf Caravanserai",
+            "ref": "1675-027",
+            "latitude": 38.2690805556,
+            "longitude": 62.7979388889
+          },
+          {
+            "name": "Mansaf Caravanserai",
+            "ref": "1675-028",
+            "latitude": 38.2688916667,
+            "longitude": 62.7969305555
+          },
+          {
+            "name": "Castle on Mount Mugh",
+            "ref": "1675-002",
+            "latitude": 39.4545,
+            "longitude": 68.4131805556
+          },
+          {
+            "name": "Kafirkala Settlement",
+            "ref": "1675-012",
+            "latitude": 39.5721305556,
+            "longitude": 67.0206861111
+          },
+          {
+            "name": "Rabati Malik Sardoba",
+            "ref": "1675-017",
+            "latitude": 40.1212666667,
+            "longitude": 65.1469527777
+          },
+          {
+            "name": "Chor Bakh Necropolis",
+            "ref": "1675-023",
+            "latitude": 39.7745,
+            "longitude": 64.3346833333
+          },
+          {
+            "name": "Varakhsha Settlement",
+            "ref": "1675-024",
+            "latitude": 39.8634277778,
+            "longitude": 64.0731027778
+          },
+          {
+            "name": "Chasma-i Ayub Khazira",
+            "ref": "1675-019",
+            "latitude": 39.9703555556,
+            "longitude": 64.6364694444
+          },
+          {
+            "name": "Vardanze Settlement",
+            "ref": "1675-020",
+            "latitude": 40.1584333333,
+            "longitude": 64.4337444444
+          },
+          {
+            "name": "Konegala Caravanserai",
+            "ref": "1675-029",
+            "latitude": 38.2494583333,
+            "longitude": 62.7702222223
+          },
+          {
+            "name": "Tali Khamtuda Fortress",
+            "ref": "1675-005",
+            "latitude": 39.3928138889,
+            "longitude": 67.86675
+          },
+          {
+            "name": "Sanjarshakh Settlement",
+            "ref": "1675-008",
+            "latitude": 39.4848388889,
+            "longitude": 67.722875
+          },
+          {
+            "name": "Akja Gala Caravanserai",
+            "ref": "1675-031",
+            "latitude": 38.0886916666,
+            "longitude": 62.6189638889
+          },
+          {
+            "name": "Gardani Khisor Settlement",
+            "ref": "1675-004",
+            "latitude": 39.4226138889,
+            "longitude": 68.3459055555
+          },
+          {
+            "name": "Town of Ancient Penjikent",
+            "ref": "1675-009",
+            "latitude": 39.4869,
+            "longitude": 67.6181194445
+          },
+          {
+            "name": "Rabati Malik Caravanserai",
+            "ref": "1675-016",
+            "latitude": 40.1230777778,
+            "longitude": 65.1481583333
+          },
+          {
+            "name": "Kushmeihan (Dinli Kishman)",
+            "ref": "1675-034",
+            "latitude": 37.9214555556,
+            "longitude": 62.2080888889
+          },
+          {
+            "name": "Mir Sayid Bakhrom Mausoleum",
+            "ref": "1675-015",
+            "latitude": 40.1428888889,
+            "longitude": 65.3612555556
+          },
+          {
+            "name": "Toksankoriz Irrigation System",
+            "ref": "1675-007",
+            "latitude": 39.4610166667,
+            "longitude": 67.7273388889
+          },
+          {
+            "name": "Kasim Sheikh Architectural Complex",
+            "ref": "1675-014",
+            "latitude": 40.1333083334,
+            "longitude": 65.3674083334
+          },
+          {
+            "name": "Mausoleum of Khoja Mukhammad Bashoro",
+            "ref": "1675-006",
+            "latitude": 39.3876055555,
+            "longitude": 67.8522305556
+          },
+          {
+            "name": "Bahouddin Naqshband Architectural Complex",
+            "ref": "1675-022",
+            "latitude": 39.8023805556,
+            "longitude": 64.5372277777
+          },
+          {
+            "name": "Gyzylja Gala Caravanserai (Rabad al-Hadid)",
+            "ref": "1675-032",
+            "latitude": 38.0454305555,
+            "longitude": 62.5962666666
+          },
+          {
+            "name": "Gyzylja Gala Caravanserai (Rabad al-Hadid)",
+            "ref": "1675-033",
+            "latitude": 38.0442277777,
+            "longitude": 62.5963416666
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1675",
+        "unesco_documents": "https://whc.unesco.org/en/list/1675/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1675/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1675/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Silk Roads: Zarafshan-Karakum Corridor The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. Tajikistan Uzbekistan Turkmenistan Asia and the Pacific Cultural"
+    }
+  ]
+}

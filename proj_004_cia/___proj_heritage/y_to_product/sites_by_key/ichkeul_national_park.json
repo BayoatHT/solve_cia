@@ -1,0 +1,194 @@
+{
+  "site_key": "ichkeul_national_park",
+  "uuid": "e54bff45-d71c-520d-ad2d-e49cd8d29472",
+  "unesco_id": "8",
+  "names": {
+    "en": "Ichkeul National Park",
+    "fr": "Parc national de l'Ichkeul",
+    "es": "Parque Nacional de Ichkeul",
+    "ru": "Национальный парк Ишкёль",
+    "ar": "محمية إشكل الوطنية",
+    "zh": "伊其克乌尔国家公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "TUN": {
+        "name": "Tunisia",
+        "iso2": "TN",
+        "iso3": "TUN"
+      }
+    },
+    "region": {
+      "name": "Arab States",
+      "code": "ARB"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa.",
+      "fr": "Le lac et les zones humides de l'Ichkeul constituent un relais indispensable pour des centaines de milliers d'oiseaux migrateurs – canards, oies, cigognes, flamants roses, etc. – qui viennent s'y nourrir et y nicher. Le lac est l'ultime vestige d'une chaîne de lacs qui s'étendait jadis à travers l'Afrique du Nord.",
+      "es": "El lago y los humedales de Ichkeul son un punto de escala importante para cientos de miles de aves migratorias –patos, gansos, cigüeñas, flamencos rosados, etc.– que acuden a sus parajes para alimentarse y anidar. El lago de este parque es el último vestigio de la cadena lacustre que se extendía antaño por todo el norte de África.",
+      "ru": "Мелководное соленое озеро Ишкёль вместе с окружающими его водно-болотными угодьями – это важное место остановки для сотен тысяч перелетных птиц, таких как утки, гуси, аисты и розовый фламинго, которые здесь кормятся и гнездятся. Ишкёль является последним уцелевшим звеном в цепи озер, некогда простиравшихся по всему северу Африки.",
+      "ar": "تشكّل بحيرة إشكل ومناطقها الرطبة استراحة ضرورية لمئات ملايين الطيور المهاجرة – من بطّ وأوز ولقالق ونحام زهري وغيرها من الطيور التي تأتي للحصول على الغذاء والسكن. وتشكل الحظيرة الأثر الأخير لسلسلة من البحيرات امتدت قديماً عبر افريقيا الشمالية.",
+      "zh": "伊其克乌尔湖和沼泽是上万种候鸟迁徙的主要中转站。鸭子、鹅、鹳、火烈鸟等鸟类都在此觅食筑巢。在贯穿整个北非的湖泊链条中，伊其克乌尔湖是现存的最后一个湖泊。"
+    },
+    "full": "The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa.",
+    "justification": "Brief synthesis Lake Ichkeul is the last great freshwater lake of a chain that once stretched the length of North Africa. Characterised by a very specific hydrological functioning based on a double seasonal alternance of water levels and salinity, the lake and the surrounding marshes constitute an indispensible stop-over for the hundreds of thousands of migratory birds that winter at Ichkeul. Criterion (x): Ichkeul National Park contains important natural habitats as an essential wintering site for western Palaearctic birds. Each winter, the property provides shelter to an exceptional density of water fowl with, in certain years, numbers reaching more than 300,000 ducks, geese and coots at the same time. Among these birds, the presence of three species of worldwide interest for their protection: the white-headed duck (Oxyura leucocephala), the ferruginous duck (Aythya nyroca) and the marbled duck (Marmaronetta angustirostris). With such a diversity of habitats, the property possesses a very rich and diversified fauna and flora with more than 200 animal species and more than 500 plant species. Integrity The boundaries of the property include the three types of habitat characteristic of the site, that is, the Djebel Ichkeul, the Lake and the adjacent marshes and also include the natural hydrological functioning processes of the lake-marsh system and the associated biological and ecological processes. The proposed construction of three dams on the water courses that feed the wetlands constitutes a potential threat for the integrity of the property. If these projects were implemented, it is fundamental that the existing salinity of the lake be maintained. Protection and management requirements The property has strict legal protection and a management plan. The ecological functioning of the lake-marsh system is closely controlled by the flow of fresh water from upstream and exchanges with the seawater downstream, both subject to the strong natural intra- and inter-annual variability characteristic of Mediterranean climates. The water management of the lake-marsh system is therefore a primordial element in the management of the property. In 1996, the property was inscribed on the List of World Heritage in Danger due to the negative effects of the freshwater on the ecosystem following the construction of the dams. The property was removed from the Danger List in 2006, following an improvement in the situation and restoration of the ecosystem is progressing satisfactorily. The essential concerns are for the judicious management of the property to control impacts on the ecosystem during less rainy winters, to control effects on Ichkeul with the increased demand for water in Tunisia in general, the full restoration of the marshes and the reed belt, and especially to reconstitute the numbers of wintering water fowl. The implementation of regular scientific monitoring of the principal biotic parameters and abiotic indicators of the state of conservation of the ecosystems, and the use of a mathematical model to forecast their needs in water, are essential to complete the systems established and result in the optimal use of the water resources for the conservation of the ecosystems"
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        10
+      ],
+      "all": [
+        10
+      ],
+      "display": "(x)",
+      "count": 1,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 12600,
+      "square_km": 126.0,
+      "square_miles": 50.99,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1980,
+      "all_dates": [
+        1980
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1980,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2e7ba8bc2980184d851f6c9a12573f1c",
+      "filename": "site_0008_0007-500-0-20250109104837.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 330
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/107498/site_0008_0007.jpg",
+        "https://whc.unesco.org/document/107499/site_0008_0008.jpg",
+        "https://whc.unesco.org/document/107500/site_0008_0009.jpg",
+        "https://whc.unesco.org/document/107501/site_0008_0010.jpg",
+        "https://whc.unesco.org/document/107502/site_0008_0011.jpg",
+        "https://whc.unesco.org/document/130257/site_0008_0012.jpg",
+        "https://whc.unesco.org/document/130258/site_0008_0013.jpg",
+        "https://whc.unesco.org/document/130259/site_0008_0014.jpg",
+        "https://whc.unesco.org/document/130260/site_0008_0015.jpg",
+        "https://whc.unesco.org/document/130261/site_0008_0016.jpg",
+        "https://whc.unesco.org/document/130262/site_0008_0017.jpg",
+        "https://whc.unesco.org/document/130263/site_0008_0018.jpg",
+        "https://whc.unesco.org/document/130264/site_0008_0019.jpg",
+        "https://whc.unesco.org/document/130265/site_0008_0020.jpg",
+        "https://whc.unesco.org/document/130266/site_0008_0021.jpg",
+        "https://whc.unesco.org/document/130267/site_0008_0022.jpg",
+        "https://whc.unesco.org/document/130268/site_0008_0023.jpg",
+        "https://whc.unesco.org/document/130269/site_0008_0024.jpg",
+        "https://whc.unesco.org/document/130270/site_0008_0025.jpg",
+        "https://whc.unesco.org/document/130271/site_0008_0026.jpg",
+        "https://whc.unesco.org/document/130272/site_0008_0027.jpg",
+        "https://whc.unesco.org/document/130273/site_0008_0028.jpg",
+        "https://whc.unesco.org/document/130274/site_0008_0029.jpg",
+        "https://whc.unesco.org/document/130275/site_0008_0030.jpg",
+        "https://whc.unesco.org/document/130276/site_0008_0031.jpg",
+        "https://whc.unesco.org/document/130277/site_0008_0032.jpg",
+        "https://whc.unesco.org/document/130278/site_0008_0033.jpg",
+        "https://whc.unesco.org/document/130279/site_0008_0034.jpg",
+        "https://whc.unesco.org/document/130280/site_0008_0035.jpg",
+        "https://whc.unesco.org/document/130281/site_0008_0036.jpg",
+        "https://whc.unesco.org/document/130282/site_0008_0037.jpg",
+        "https://whc.unesco.org/document/130283/site_0008_0038.jpg",
+        "https://whc.unesco.org/document/107492/site_0008_0001.jpg",
+        "https://whc.unesco.org/document/107493/site_0008_0002.jpg",
+        "https://whc.unesco.org/document/107494/site_0008_0003.jpg",
+        "https://whc.unesco.org/document/107495/site_0008_0004.jpg",
+        "https://whc.unesco.org/document/107496/site_0008_0005.jpg",
+        "https://whc.unesco.org/document/107497/site_0008_0006.jpg",
+        "https://whc.unesco.org/document/132164/site_0008_0040.jpg",
+        "https://whc.unesco.org/document/132165/site_0008_0041.jpg",
+        "https://whc.unesco.org/document/132167/site_0008_0043.jpg",
+        "https://whc.unesco.org/document/132168/site_0008_0044.jpg",
+        "https://whc.unesco.org/document/132169/site_0008_0045.jpg",
+        "https://whc.unesco.org/document/132170/site_0008_0046.jpg",
+        "https://whc.unesco.org/document/132172/site_0008_0048.jpg"
+      ],
+      "count": 45
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Ichkeul National Park",
+        "ref": "8",
+        "latitude": 37.16361,
+        "longitude": 9.67472
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/8",
+    "unesco_documents": "https://whc.unesco.org/en/list/8/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/8/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/8/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Asia",
+    "geographic_type": "Natural Landscape",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 45,
+    "inscription_year": 1980
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Ichkeul National Park The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa. The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa. Tunisia Arab States Natural"
+}

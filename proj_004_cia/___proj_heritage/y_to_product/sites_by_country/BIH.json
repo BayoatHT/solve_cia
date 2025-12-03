@@ -1,0 +1,1539 @@
+{
+  "country": {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "mehmed_pasa_sokolovic_bridge_in_visegrad",
+      "uuid": "893b9b27-28c3-5001-8c04-8f11424d9e78",
+      "unesco_id": "1260",
+      "names": {
+        "en": "Mehmed Paša Sokolović Bridge in Višegrad",
+        "fr": "Pont Mehmed Pacha Sokolović de Višegrad",
+        "es": "Puente de Mehmed Pacha SokoloviÄ‡ en Visegrado",
+        "ru": "Мост Мехмеда Паши Соколовича в Вышеграде",
+        "ar": "جسر محمد باشا سوكولوفيتش في فيشغراد",
+        "zh": "迈赫迈德•巴什•索科罗维奇的古桥"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Mehmed Paša Sokolović Bridge of Višegrad across the Drina River in the east of Bosnia and Herzegovina was built at the end of the 16th century by the court architect Mimar Koca Sinan on the orders of Grand Vizier Mehmed Paša Sokolović. Characteristic of the apogee of Ottoman monumental architecture and civil engineering, the bridge has 11 masonry arches with spans of 11 m to 15 m, and an access ramp at right angles with four arches on the left bank of the river. The 179.5 m long bridge is a representative masterpiece of Sinan, one of the greatest architects and engineers of the classical Ottoman period and a contemporary of the Italian Renaissance, with which his work may be compared. The unique elegance of proportion and monumental nobility of the whole site bear witness to the greatness of this style of architecture.",
+          "fr": "Construit à la fin du XVIe siècle sur la rivière Drina, à l’est de la Bosnie-Herzégovine, le pont Mehmed Pacha Sokolović de Višegrad a été construit par Mimar Koca Sinan, l’architecte de la cour, sur ordre du grand vizir Mehmed Pacha Sokolović. Il est caractéristique de l’apogée de l’architecture monumentale et du génie civil ottomans. Il possède 11 arches maçonnées dont les ouvertures sont comprises entre 11 et 15 m, ainsi qu’une rampe d’accès à l’orthogonale de quatre arches sur la rive gauche de la rivière. Ce pont, long de 179,5 m, est une réalisation majeure de Sinan, un des plus grands architectes et ingénieurs du style ottoman classique et un contemporain de la Renaissance italienne, avec laquelle son travail peut être comparé. L’élégance de ses proportions et la noblesse monumentale uniques du bien témoignent de la grandeur de ce style d’architecture.",
+          "es": "El puente de Visegrado fue construido sobre el rí­o Drina a finales del siglo XVI por Mimar Koca Sinan, arquitecto del sultí¡n, por orden del gran visir Mehmed SokoloviÄ‡. Es caracterí­stico del periodo de apogeo de la arquitectura monumental y la ingenierí­a civil otomanas. Consta de 11 arcos de mamposterí­a con aperturas de 11 a 15 metros, así­ como de una rampa de acceso de cuatro arcos en í¡ngulo recto, situada en la orilla izquierda del rí­o. El puente de 179,5 metros de longitud es una obra destacada de uno de los mí¡s grandes arquitectos e ingenieros del periodo clí¡sico otomano, Sinan, contemporí¡neo de los renacentistas italianos y ejecutor de obras comparables a las de éstos. Las elegantes proporciones y la nobleza excepcional del puente en su conjunto atestiguan la grandeza de su estilo arquitectónico.",
+          "ru": "Мост Мехмеда Паши Соколовича в Вышеграде свидетельстует о расцвете монументальной архитектуры и инженерного мастерства Оттоманской империи. Он был построен в конце XVI века на реке Дрина в восточной части Боснии и Герцеговины придворным архитектором Мимаром Коса Синаном по приказу великого визиря Мехмеда Паши Соколовича. Он насчитывает 11 арок каменной кладки, размахом от 11 до 15 метров каждая, а также прямоугольный въезд с левого берега из четырех арок. Сооружение длиной 179,5 м – одно из лучших произведений Мимара Косы Синана, одного из крупнейших архитекторов Оттоманской империи, современника эпохи Итальянского Возрождения. Этот мост связан со многими фольклорными, литературными и художественными традициями.",
+          "ar": "بني جسر محمد باشا سوكولوفيتش على نهر درينا في فيشغراد شرق البوسنة والهرسك أواخر القرن السادس عشر على يد رئيس معماريي السلطنة العثمانية معمار قوجه سنان، بطلب من الوزير الأعظم محمد باشا سوكولوفيتش. وهو يمثل ذروة الهندسة المعمارية والمدنية العثمانية. يتألف من 11 قنطرة معمارية يتراوح عرض فتحها بين 11 و 15 مترا، ومن رصيف متعامد مع أربع قناطر على الضفة اليسرى للنهر. يبلغ طول الجسر 179،5 متر، وهو من أبرز أعمال سنان، أكبر المعماريين والمهندسين المختصين في الطراز العثماني التقليدي، والذي واكب عصر النهضة الإيطالية ويمكن تشبيه أعماله بها. أبعاد الجسر الرشيقة وجزالة أسلوبه الفريدة تدلان على روعة ذلك النمط المعماري.",
+          "zh": "迈赫迈德·巴什·索科罗维奇的古桥横跨于波斯尼亚和黑塞哥维那东部的德里那河(Drina River)上，建于16世纪末，由宮廷建筑师思南(Sinan)在土耳其帝国的首相迈赫迈德·巴什·索科罗维奇(Mehmed Paša Sokolović)的命令下所建造。这是土耳其帝国纪念性建筑和土木工程的巅峰之作。大桥共有11个石拱，每个石拱跨度11至15米，右侧的入口斜坡有四个拱门，位于德里那河左岸，桥身长179.50米。它是土耳其和意大利文艺复兴时期最伟大的建筑师和工程师之一米玛尔·科卡·思南(Mimar Koca Sinan)的代表性杰作。这处遗产比例结构优美，气势宏伟壮观，见证了此类建筑风格的独特魅力。"
+        },
+        "full": "The Mehmed Paša Sokolović Bridge of Višegrad across the Drina River in the east of Bosnia and Herzegovina was built at the end of the 16th century by the court architect Mimar Koca Sinan on the orders of Grand Vizier Mehmed Paša Sokolović. Characteristic of the apogee of Ottoman monumental architecture and civil engineering, the bridge has 11 masonry arches with spans of 11 m to 15 m, and an access ramp at right angles with four arches on the left bank of the river. The 179.5 m long bridge is a representative masterpiece of Sinan, one of the greatest architects and engineers of the classical Ottoman period and a contemporary of the Italian Renaissance, with which his work may be compared. The unique elegance of proportion and monumental nobility of the whole site bear witness to the greatness of this style of architecture.",
+        "justification": "The universal value of the bridge at Višegrad is unquestionable for all the historical reasons and in view of the architectural values it has. It represents a major stage in the history of civil engineering and bridge architecture, erected by one of the most celebrated builders of the Ottoman Empire. The bridge particularly bears witness to the transmission and adaptation of techniques in the course of a long historical process. It also bears witness to important cultural exchanges between areas of different civilizations. It is an exceptional representative of Ottoman architecture and civil engineering at its classical apogee. Its symbolic role has been important through the course of history, and particularly in the many conflicts that took place in the 20th century. Its cultural value transcends both national and cultural borders. Criterion (ii): Located in a position of geostrategic importance, the bridge bears witness to important cultural exchanges between the Balkans, the Ottoman Empire and the Mediterranean world, between Christianity and Islam, through the long course of history. The management of the bridge and repairs made it to have also involved different political and cultural powers: after the Ottomans came the Austro-Hungarians, the Yugoslav Federation, and the Republic of Bosnia and Herzegovina. Criterion (iv): The Višegrad bridge is a remarkable architectural testimony to the apogee of the classical age of the Ottoman Empire, whose values and achievements mark an important stage in the history of humankind. The property, principally consisting of the bridge, the access ramp and the two river banks upstream and downstream, is protected by its buffer zone on each bank of the Drina river. The integrity of the bridge is vulnerable but is now adequately protected by the buffer zone and appropriately expresses the values it embodies. The Drina is a mountain river, drawing water from the mountains of the Balkans towards the Sava and the Danube Rivers. It is prone to flooding and the bridge parapets were destroyed in an exceptional flood in 1896. In addition, the bridge was severely damaged during both World Wars and, after temporary repairs, reconstructed in stone in the early 1950s. Despite these historical events, authenticity has generally been maintained through the course of the bridge's successive restorations. It remains fragile, its foundations being particularly threatened by the use of the two hydro-electric power stations, one in Bosnia and one in Serbia, that affect the water levels of the river. To allay this threat, the Serbian Ministry of Mines and Energy wrote to the Bosnian Commission to Preserve National Monuments on 27 June 2007. It supports the inscription of the bridge on the World Heritage List and also supports the formation of a bi-national working group to analyse the impact of power generation operations on the river in order to preserve the bridge. This initiative will complement the legal protection and management plan already in place."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.5,
+          "square_km": 0.01,
+          "square_miles": 0.006,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/be7c88df5acd8d110ed3f109c862d2ae",
+          "filename": "site_1260_0001-500-0-20151104161046.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 327
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114350/site_1260_0001.jpg",
+            "https://whc.unesco.org/document/118288/site_1260_0004.jpg",
+            "https://whc.unesco.org/document/118289/site_1260_0005.jpg",
+            "https://whc.unesco.org/document/118290/site_1260_0006.jpg",
+            "https://whc.unesco.org/document/118291/site_1260_0007.jpg",
+            "https://whc.unesco.org/document/118292/site_1260_0008.jpg",
+            "https://whc.unesco.org/document/118293/site_1260_0009.jpg",
+            "https://whc.unesco.org/document/118294/site_1260_0010.jpg",
+            "https://whc.unesco.org/document/118295/site_1260_0011.jpg",
+            "https://whc.unesco.org/document/118296/site_1260_0012.jpg",
+            "https://whc.unesco.org/document/121899/site_1260_0013.jpg",
+            "https://whc.unesco.org/document/121900/site_1260_0014.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Mehmed Paša Sokolović Bridge in Višegrad",
+            "ref": "1260",
+            "latitude": 43.7814444444,
+            "longitude": 19.288025
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1260",
+        "unesco_documents": "https://whc.unesco.org/en/list/1260/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1260/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1260/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mehmed Paša Sokolović Bridge in Višegrad The Mehmed Paša Sokolović Bridge of Višegrad across the Drina River in the east of Bosnia and Herzegovina was built at the end of the 16th century by the court architect Mimar Koca Sinan on the orders of Grand Vizier Mehmed Paša Sokolović. Characteristic of the apogee of Ottoman monumental architecture and civil engineering, the bridge has 11 masonry arches with spans of 11 m to 15 m, and an access ramp at right angles with four arches on the left bank of the river. The 179.5 m long bridge is a representative masterpiece of Sinan, one of the greatest architects and engineers of the classical Ottoman period and a contemporary of the Italian Renaissance, with which his work may be compared. The unique elegance of proportion and monumental nobility of the whole site bear witness to the greatness of this style of architecture. The Mehmed Paša Sokolović Bridge of Višegrad across the Drina River in the east of Bosnia and Herzegovina was built at the end of the 16th century by the court architect Mimar Koca Sinan on the orders of Grand Vizier Mehmed Paša Sokolović. Characteristic of the apogee of Ottoman monumental architecture and civil engineering, the bridge has 11 masonry arches with spans of 11 m to 15 m, and an access ramp at right angles with four arches on the left bank of the river. The 179.5 m long bridge is a representative masterpiece of Sinan, one of the greatest architects and engineers of the classical Ottoman period and a contemporary of the Italian Renaissance, with which his work may be compared. The unique elegance of proportion and monumental nobility of the whole site bear witness to the greatness of this style of architecture. Bosnia and Herzegovina Europe and North America Cultural"
+    },
+    {
+      "site_key": "vjetrenica_cave_ravno",
+      "uuid": "be767168-e9d3-549c-aa5a-abd2d9a283aa",
+      "unesco_id": "1673",
+      "names": {
+        "en": "Vjetrenica Cave, Ravno",
+        "fr": "Grotte de Vjetrenica, Ravno",
+        "es": "Cueva de Vjetrenica, Ravno",
+        "ru": "Пещера Ветреница, Равно",
+        "ar": "كهف فيترنيتسا، رافنو",
+        "zh": "拉夫诺的岩溶风洞"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago.",
+          "fr": "Situé dans la chaîne de montagnes dinarique, ce bien se distingue par la biodiversité et l’endémisme remarquables de ses grottes. Connue depuis l’Antiquité, cette topographie karstique bien conservée est l’un des points chauds de biodiversité les plus importants au monde pour la faune cavernicole, notamment la faune aquatique souterraine. Il abrite plusieurs espèces de vertébrés mondialement menacées, le seul ver tubicole souterrain au monde, ainsi qu’une diversité d’espèces végétales endémiques des Balkans. En outre, plusieurs espèces présentes dans la grotte de Vjetrenica sont des espèces reliques tertiaires et pré-tertiaires qui peuvent être considérées comme des fossiles vivants, et dont les espèces les plus proches sont éteintes depuis longtemps.",
+          "es": "Este bien, situado en la cordillera Dinárica, destaca por la biodiversidad y endemismo de la cueva. Esta representación bien conservada de la topografía cárstica se conoce desde la antigüedad y es una de las zonas críticas para la biodiversidad más importantes del mundo para la fauna cavernícola, especialmente la fauna acuática subterránea. Alberga varias especies de vertebrados amenazadas a escala mundial y el único gusano tubícola subterráneo del mundo, así como diversas especies vegetales endémicas de los Balcanes. Además, varias de las especies encontradas en la cueva de Vjetrenica son especies relictas terciarias y preterciarias, lo que significa que muchas de ellas pueden considerarse fósiles vivientes cuyos parientes más cercanos se extinguieron hace mucho tiempo.",
+          "ru": "Этот объект расположен в Динарском нагорье. В нем наблюдается удивительное биоразнообразие и эндемичность пещер. Известный с древних времен, хорошо сохранившийся карстовый рельеф является одним из самых важных в мире очагов биоразнообразия для обитающей в пещерах фауны, в частности представителей фауны подземных вод. Здесь обитает ряд видов позвоночных животных, находящихся под угрозой исчезновения, единственный в мире подземный трубчатый червь, а также множество видов растений, эндемичных для Балкан. Кроме того, некоторые из видов, обнаруженных в пещере Ветреница, относятся к третичным и дотретичным реликтовым видам, то есть многие из них можно считать живыми ископаемыми, ближайшие родственники которых вымерли в далеком прошлом.",
+          "ar": "يتميز الموقع الكائن في سلسلة الجبال الدينارية بالطابع الاستثنائي للتنوع البيولوجي فيه ومستوى التوطن في كهفه. وتُعتبر تضاريس الكارست المعروفة فيه منذ العصور القديمة والمحفوظة على نحو جيّد، واحدة من أهم بؤر التنوع البيولوجي في العالم حيث تؤوي حيوانات تعيش في الكهف الموجود في الموقع، وفي مقدمتها الحيوانات المائية الجوفية. ويؤوي الكهف أيضاً عدداً من الفقاريات المهددة بالانقراض، بالإضافة إلى فصيلة الدودة الأنبوبية الجوفية الوحيدة في العالم. ويكتنز الموقع مجموعة متنوعة من النباتات المتوطنة في البلقان. وإنّ العديد من بقايا الكائنات الموجودة في كهف فيترنيتسا تعود إلى الفترة الجيولوجية المعروفة بالعصر الثالث وما قبلها، أي أنّه يمكن اعتبار العديد منها حفريات حية انقرضت الفصائل الأقرب عليها منذ زمن بعيد.",
+          "zh": "拉夫诺（Ravno）的岩溶风洞位于迪纳拉山脉，以出众的洞穴生物多样性和特有性而闻名于世。这里自古便为人所知，其喀斯特地貌保存完好，是世界最重要的穴居动物（尤其地下水生动物）多样性热点地区之一。洞中栖居着许多在世界范围受到生存威胁的脊椎动物、全球唯一的地下管虫，以及多种巴尔干地区特有的植物。此外，洞穴中发现的一些物种是第三纪和前第三纪的孑遗物种，其中许多物种的近亲早已在很久以前灭绝，因此可称为活化石。"
+        },
+        "full": "Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago.",
+        "justification": "Brief synthesis Vjetrenica Cave, Ravno is recognised as one of the world’s most important and species-rich biodiversity hotspots for subterranean fauna in the world. The property contains globally important levels of subterranean species diversity, endemicity, single-genus diversity and species considered as living fossils. Located in the South Dinaric Karst range in southern Bosnia and Herzegovina, Vjetrenica Cave, measures 7,324 meters in length and forms part of the Trebišnjica river system. The Cave provides one of the most well documented examples of the cave hygropetric habitat, an intermediate between aquatic and terrestrial ecosystems denoted by a thin layer of water moving over vertical rock surfaces. Criterion (x): The property stands out on a global level for its exceptional cave biodiversity and endemicity and can be considered one of the most important hotspots of subterranean faunal diversity globally. More than 230 taxa have been recorded in the Vjetrenica Cave System, including 180 animals, 14 fungi and 35 protists. Altogether, 93 troglobiotic, i.e., obligate subterranean aquatic (48) and terrestrial (45), taxa have been reported for the system, of which 40 were first scientifically described from the property (the property represents the type locality). Vjetrenica Cave also stands out as an exceptional example of single-genus diversity – the nine species of the subterranean amphipod genus Niphargus, which may represent the highest subterranean single-genus diversity in the world. The exceptional endemicity of the property is illustrated by its stygofauna, of which 78% are only found in the Dinaric region. Vjetrenica Cave is habitat for the only subterranean tubeworm in the world (Marifugia cavatica) and the only freshwater hydrozoan living exclusively in groundwater (Velkovrhia enigmatica). In addition, several of the species found in Vjetrenica Cave are Tertiary and pre-Tertiary relict species, considered as living fossils, whose closest living relatives went extinct a long time ago. The property is also reported to host 21 plant species that are endemic to the Balkans. Integrity The area of Vjetrenica Cave (22.87 ha) is embedded within the larger property (413.97 ha). Despite its small size, it is home to the significant subterranean fauna and main cave features and habitats, for which the property is inscribed. The boundary design of the buffer zone appears to cover a significant portion of the catchment, and adequately provides a buffering function to the above attributes of Outstanding Universal Value. The state of conservation of the cave-dwelling fauna is secure, although given the restricted area of the property, populations are inevitably fragile and prone to impacts from upstream activities, particularly changes to the hydrological regime in the wider catchment of the property. Pressures from tourism, development projects, waste management and their associated pollution are low, although a high level of vigilance and careful watershed management should be maintained in relation to these potential threats. It is recognised that due to the ongoing research and exploration of the property, and presence of further significant values in the wider Dinaric karst landscape, an extension of the boundaries, or a potential serial transnational extension, may possibly be envisaged in future. Protection and management requirements The property is protected through a multi-layer governance framework, under the jurisdiction of various government ministries at the federal, cantonal and municipal level. The entirety of the property and its buffer zone is part of the Vjetrenica-Popovo Polje Protected Landscape, the property being located within the Strict Protection Zone. Application of the finalised zonation of the Vjetrenica-Popovo Polje Protected Landscape is a priority, and is important for ensuring that the upstream hydrological regime maintains a suitable water supply, inflow, and quality to protect the Outstanding Universal Value of Vjetrenica Cave in the long term. Management of the property is delegated to the Vjetrenica Public Company Ltd. under the oversight of the Municipality of Ravno and the Herzegovina Neretva Canton. The management body has a management plan, harmonized with the designation law of the protected landscape, and limited staff to manage the property (including tourism). Key management requirements centre on the protection of the attributes of the unique biodiversity, karst geological features and the wider watershed of Vjetrenica Cave. To ensure the species’ populations and diversity present at the time of inscription is maintained in the long term, it is essential that sufficient and sustainable resources, including staffing and technical capacity, are available for the management of the property. It is important that the management regime of the property focusses not only on tourism management, important in itself as a potential threat, but also enhanced management for nature conservation, including a system of effective biodiversity monitoring within the property, and hydrological management in the wider catchment."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 413.97,
+          "square_km": 4.14,
+          "square_miles": 1.675,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2024,
+          "all_dates": [
+            2024
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2024,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4218b244962a8545dedcf6be34a53dbd",
+          "filename": "site_1673_0002.jpg",
+          "dimensions": {
+            "width": 3615,
+            "height": 2782
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/198746/site_1673_0002.jpg",
+            "https://whc.unesco.org/document/198748/site_1673_0004.jpg",
+            "https://whc.unesco.org/document/198751/site_1673_0007.jpg",
+            "https://whc.unesco.org/document/198749/site_1673_0005.jpg",
+            "https://whc.unesco.org/document/199745/site_1673_0013.jpg",
+            "https://whc.unesco.org/document/198750/site_1673_0006.jpg",
+            "https://whc.unesco.org/document/199746/site_1673_0014.jpg",
+            "https://whc.unesco.org/document/199747/site_1673_0015.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1673",
+        "unesco_documents": "https://whc.unesco.org/en/list/1673/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1673/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1673/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 1,
+        "inscription_year": 2024
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Vjetrenica Cave, Ravno Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago. Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago. Bosnia and Herzegovina Europe and North America Natural"
+    },
+    {
+      "site_key": "stecci_medieval_tombstone_graveyards",
+      "uuid": "f52c601b-885d-5718-af2b-60cc12213ac6",
+      "unesco_id": "1504",
+      "names": {
+        "en": "Stećci Medieval Tombstone Graveyards",
+        "fr": "Cimetières de tombes médiévales stećci",
+        "es": "Cementerios de tumbas medievales “stećci”",
+        "ru": "Стечки – средневековые надгробья",
+        "ar": "مقابر العصور الوسطى-ستيكي",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "MNE": {
+            "name": "Montenegro",
+            "iso2": "ME",
+            "iso3": "MNE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 4
+      },
+      "descriptions": {
+        "short": {
+          "en": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+          "fr": "Ce bien en série regroupe 28 sites, situés en Bosnie-Herzégovine, à l’ouest de la Serbie, à l’ouest du Monténégro, ainsi qu'au centre et au sud de la Croatie, qui représentent des cimetières et des tombes médiévales, ou stećci, propres à ces régions. Ces cimetières, qui datent du XIIe siècle au XVIe siècle, sont organisés en rangées, comme c’était la coutume en Europe depuis le Moyen Âge. Les stećci sont pour la plupart sculptés en pierre calcaire. Ils comportent une grande diversité de motifs décoratifs et d’inscriptions qui témoignent des continuités iconographiques dans l’Europe médiévale et de traditions locales particulières.",
+          "es": "Este sitio seriado está integrado por tumbas medievales (“stećci”) de 30 lugares diferentes situados en Bosnia y Herzegovina, en el centro y sur de Croacia, en la parte occidental de Montenegro y al oeste de Serbia. Estos monumentos funerarios, característicos de esas regiones, datan de los siglos XII a XVI y están dispuestos en filas en cementerios, tal y como se acostumbró a hacer en Europa desde la Edad Media. En su mayoría están esculpidos en piedra caliza con una gran variedad de motivos ornamentales e inscripciones, que muestran no sólo la continuidad que se da en los elementos medievales europeos de este tipo, sino también la persistencia de tradiciones locales específicas más antiguas.",
+          "ru": "В состав объекта входят 30 некрополей, расположенных в Боснии и Герцеговине, на западе Сербии и Черногории, а также в центре и на юге Хорватии. Стечки представляют характерные для данного региона средневековые могильные памятники, датируемые XII-XVI веками. Захоронения расположены в ряд, как это было принято в Европе со времен Средневековья. Cтечки вырезаны преимущественно из известняка и содержат множество разнообразных декоративных элементов и надписей, свидетельствующих об иконографической общности, присущей средневековой Европе, и специфических, более древних местных традициях.",
+          "ar": "يضم هذه المقابر 30 موقعاً موزعة بين البوسنة والهرسك وغرب كل من صربيا والجبل الأسود وفي وسط وجنوب كرواتيا. وتجسّد هذه المناطق مثالاً على مقابر العصور الوسطى. وتعود هذه المقابر على وجه التحديد إلى الفترة الممتدة بين القرنين الثاني عشر والسادس عشر حيث بنيت في صفوف على غرار العادة التي كانت سائدة في أوروبا منذ القرون الوسطى. أما قبور الستيكي تحديداً، فقد بنيت معظمها من الحجارة الجيريّة المنحوتة. وتشهد هذه القبور على مجموعة متنوّعة من الأنماط الزخرفية والعبارات التي تشهد على استمراريّة الأسلوب التصويري في أوروبا في القرون الوسطى بالإضافة إلى أقدم التقاليد المحليّة في هذه المنطقة.",
+          "zh": ""
+        },
+        "full": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+        "justification": "Brief synthesis The serial property of 28 component sites includes a selection of 4,000 medieval tombstones (stećci) on the territory of four states: Bosnia and Herzegovina, the Republic of Croatia, Montenegro and the Republic of Serbia. These monolithic stone tombstones (stećci) were created in the period from the second half of the 12th century to the 16th century, although they were most intensively made during the 14th and 15th centuries. The stećci are exceptional testimony to the spiritual, artistic and historical aspects of the medieval cultures of southeastern Europe, an area where traditions and influences of the European west, east and south entwined with earlier traditions. The stećci are notable for their inter-confessionality, used for burial by all three medieval Christian communities, including the Orthodox Church, the Catholic Church and the Church of Bosnia (which lasted for about three centuries until the second half of the 15th century). The characteristics that distinguish stećci from the overall corpus of Europe’s medieval heritage and sepulchral art, include the vast number of preserved monuments (over 70,000 located within over 3,300 sites), the diversity of forms and motifs, the richness of reliefs, epigraphy and the richness of the intangible cultural heritage. The selected components represent a range of graveyard scales and settings. Criterion (iii): A remarkable number of stećci, of diversified form, are found in this part of southeast Europe, conveying an exceptional testimony to medieval European artistic and archaeological heritage, with traces of earlier influences (prehistoric, roman and early medieval). The extremely large number of preserved stećci (estimated to be more than 70,000) and variety of their forms (slabs, chests, gabled roof tombstones, pillars and monumental crosses) are well represented. Their reliefs, including decorative, symbolic, and religious motives as well as scenes from everyday life, are an extraordinary testimony of medieval culture. Inscriptions in the selected graveyards offer an exceptional historical resource, and are associated with the cultures and histories of the medieval states in this region. Criterion (vi): The stećci have been deeply embedded in historical and continual cultural traditions and beliefs and toponyms demonstrate the historical meanings and significance of the stećci. The stećci are associated with local folk and fairy tales, superstitions and customs; and their epigraphy and reliefs have significantly influenced the contemporary literature and other forms of art in all four countries, but also wider in the region. Integrity The integrity of the serial property is based on the ability of the selected 28 components to represent the widespread phenomena, importance and diversity of the stećci in southeast Europe. Each of the components has been conserved in situ. The state of conservation of the burial grounds and tombstones is generally stable, and each of the components are relatively well preserved. Their conditions could be improved through maintenance and active management to prevent natural processes of deterioration. The tombstones are not currently affected by development pressures. The boundaries of the components include the attributes necessary to express the Outstanding Universal Value of the serial property. Some of the buffer zones were revised during the evaluation process to better incorporate and preserve the important characteristics of the settings in which the burial grounds are located. Authenticity The authenticity of the serial property is established through the graveyards, tombstones (stećci) and associated sepulchral art of the medieval period. The stećci demonstrate the merging of religions, chivalry and folk cultures of this period. The authenticity of the selected components is demonstrated by the archaeological and historical contexts and evidence, the diversity of types of tombstones, and the widespread occurrence of this phenomenon in this part of southeast Europe. The authenticity of the sites was one of the bases on which the selection of components was made. The stećci were carved from single stone which reflected the skills and knowledge of the master craftsmen. Decorations and inscriptions testify original aspects of the emergence and study of stećci. Protection and management requirements Legal protection of the 28 sites with stećci is ensured by the legislation applicable in the participating States Parties. Although the legal and administrative systems for the protection and management of cultural heritage differ, the highest level of protection in each of the States Parties has been provided for the graveyards and tombstones. Transnational coordination is established through the International Coordination Committee and through the implementation of common strategies, principles and standards. Each State Party is responsible for the protection, conservation and management of necropolises with stećci tombstones that are on its territory. Common management plan documents have been prepared for each inscribed component by the four States Parties. These documents ensure the management of each component of the serial property according to an agreed approach and a common vision, uniform conservation standards, shared management principles and shared presentation objectives. Each of the four States Parties has appointed a coordinator, and together they form the International Coordination Body responsible for the development of the joint management of the serial transnational property. Inventorying and research about the stećci have been a focus since the 1970s and is ongoing. There is a need to continue to improve the mapping and cataloguing of the inscribed components in line with the management system. The inscribed components are generally in a stable state of conservation, with minimal interventions. The main pressures are natural processes of physical deterioration, and condition assessments have been incorporated into the site management plans. Continued development and implementation of active conservation programmes based on the advice of expert conservators is required. Community involvement in the management and maintenance of the stećci is evident and active. There is a need to integrate Heritage Impact Assessments and Disaster Risk Management approaches and mechanisms into the management system, in order to ensure that future proposals, programs or projects are assessed in relation to their potential impact on the Outstanding Universal Value of the serial property. Visitor pressure is not a current threat. Visitor management is currently planned and implemented at the site level. Presentation and interpretation are approached by promoting the designated sites and other tourist destinations. The management plans outline current and planned tourism infrastructure for each of the components. The monitoring indicators could be augmented by additional measures related to levels of visitation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 49.15,
+          "square_km": 0.49,
+          "square_miles": 0.199,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d4b8b32a455c1808160b60274be9f3a3",
+          "filename": "site_1504_0001.jpg",
+          "dimensions": {
+            "width": 7147,
+            "height": 4747
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/141946/site_1504_0001.jpg",
+            "https://whc.unesco.org/document/141952/site_1504_0007.jpg",
+            "https://whc.unesco.org/document/141980/site_1504_0033.jpg",
+            "https://whc.unesco.org/document/218411/site_1504_0046.jpg",
+            "https://whc.unesco.org/document/222615/site_1504_0047.jpg",
+            "https://whc.unesco.org/document/222616/site_1504_0048.jpg",
+            "https://whc.unesco.org/document/222617/site_1504_0049.jpg",
+            "https://whc.unesco.org/document/141947/site_1504_0002.jpg",
+            "https://whc.unesco.org/document/141948/site_1504_0003.jpg",
+            "https://whc.unesco.org/document/141949/site_1504_0004.jpg",
+            "https://whc.unesco.org/document/141950/site_1504_0005.jpg",
+            "https://whc.unesco.org/document/141951/site_1504_0006.jpg",
+            "https://whc.unesco.org/document/141953/site_1504_0008.jpg",
+            "https://whc.unesco.org/document/141954/site_1504_0009.jpg",
+            "https://whc.unesco.org/document/141955/site_1504_0010.jpg",
+            "https://whc.unesco.org/document/141956/site_1504_0011.jpg",
+            "https://whc.unesco.org/document/141957/site_1504_0012.jpg",
+            "https://whc.unesco.org/document/141958/site_1504_0013.jpg",
+            "https://whc.unesco.org/document/141959/site_1504_0014.jpg",
+            "https://whc.unesco.org/document/141960/site_1504_0015.jpg",
+            "https://whc.unesco.org/document/141961/site_1504_0016.jpg",
+            "https://whc.unesco.org/document/141962/site_1504_0017.jpg",
+            "https://whc.unesco.org/document/141963/site_1504_0018.jpg",
+            "https://whc.unesco.org/document/141965/site_1504_0019.jpg",
+            "https://whc.unesco.org/document/141966/site_1504_0020.jpg",
+            "https://whc.unesco.org/document/141968/site_1504_0021.jpg",
+            "https://whc.unesco.org/document/141969/site_1504_0022.jpg",
+            "https://whc.unesco.org/document/141970/site_1504_0023.jpg",
+            "https://whc.unesco.org/document/141971/site_1504_0024.jpg",
+            "https://whc.unesco.org/document/141972/site_1504_0025.jpg",
+            "https://whc.unesco.org/document/141973/site_1504_0026.jpg",
+            "https://whc.unesco.org/document/141974/site_1504_0027.jpg",
+            "https://whc.unesco.org/document/141975/site_1504_0028.jpg",
+            "https://whc.unesco.org/document/141976/site_1504_0029.jpg",
+            "https://whc.unesco.org/document/141977/site_1504_0030.jpg",
+            "https://whc.unesco.org/document/141978/site_1504_0031.jpg",
+            "https://whc.unesco.org/document/141979/site_1504_0032.jpg",
+            "https://whc.unesco.org/document/141981/site_1504_0034.jpg",
+            "https://whc.unesco.org/document/141982/site_1504_0035.jpg",
+            "https://whc.unesco.org/document/141983/site_1504_0036.jpg",
+            "https://whc.unesco.org/document/141984/site_1504_0037.jpg",
+            "https://whc.unesco.org/document/141985/site_1504_0038.jpg",
+            "https://whc.unesco.org/document/141986/site_1504_0039.jpg",
+            "https://whc.unesco.org/document/141987/site_1504_0040.jpg",
+            "https://whc.unesco.org/document/141988/site_1504_0041.jpg",
+            "https://whc.unesco.org/document/141989/site_1504_0042.jpg",
+            "https://whc.unesco.org/document/141990/site_1504_0043.jpg",
+            "https://whc.unesco.org/document/141991/site_1504_0044.jpg",
+            "https://whc.unesco.org/document/141992/site_1504_0045.jpg"
+          ],
+          "count": 49
+        }
+      },
+      "components": {
+        "count": 28,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1504",
+        "unesco_documents": "https://whc.unesco.org/en/list/1504/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1504/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1504/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stećci Medieval Tombstone Graveyards This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions. This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions. Serbia Croatia Montenegro Bosnia and Herzegovina Europe and North America Cultural"
+    },
+    {
+      "site_key": "ancient_and_primeval_beech_forests_of_the_carpathians_and_other_regions_of_europe",
+      "uuid": "a3e04083-f693-5147-bc20-4f6dbcbff76e",
+      "unesco_id": "1133",
+      "names": {
+        "en": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "fr": "Forêts primaires et anciennes de hêtres des Carpates et d’autres régions d’Europe",
+        "es": "Bosques antiguos y primarios de hayas de los Cárpatos y otras regiones de Europa",
+        "ru": "Древние и первобытные буковые леса Карпат и других регионов Европы",
+        "ar": "غابات الزان القديمة وغابات الزان البدائية لمنطقة الكربات وغيرها من مناطق أوروبا",
+        "zh": "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MKD": {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "iso3": "MKD"
+          },
+          "ESP": {
+            "name": "Spain",
+            "iso2": "ES",
+            "iso3": "ESP"
+          },
+          "ITA": {
+            "name": "Italy",
+            "iso2": "IT",
+            "iso3": "ITA"
+          },
+          "FRA": {
+            "name": "France",
+            "iso2": "FR",
+            "iso3": "FRA"
+          },
+          "POL": {
+            "name": "Poland",
+            "iso2": "PL",
+            "iso3": "POL"
+          },
+          "ALB": {
+            "name": "Albania",
+            "iso2": "AL",
+            "iso3": "ALB"
+          },
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "BEL": {
+            "name": "Belgium",
+            "iso2": "BE",
+            "iso3": "BEL"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "ROU": {
+            "name": "Romania",
+            "iso2": "RO",
+            "iso3": "ROU"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          },
+          "SVK": {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "iso3": "SVK"
+          },
+          "CHE": {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "iso3": "CHE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          },
+          "DEU": {
+            "name": "Germany",
+            "iso2": "DE",
+            "iso3": "DEU"
+          },
+          "CZE": {
+            "name": "Czechia",
+            "iso2": "CZ",
+            "iso3": "CZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 18
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+          "fr": "Ce bien transnational, composé de 93 éléments constitutifs, s’étend sur 18 pays. Depuis la fin de la dernière période glaciaire, le hêtre d’Europe s’est répandu à partir de quelques refuges isolés dans les Alpes, les Carpates, les Dinarides, la Méditerranée et les Pyrénées, en l’espace de quelques milliers d’années, un processus qui se poursuit encore aujourd’hui. Le succès de la progression du hêtre s’explique par son adaptabilité et sa tolérance à différentes conditions climatiques, géographiques et physiques.",
+          "es": "",
+          "ru": "Расширение территории транснационального серийного объекта всемирного наследия «Древние и первобытные буковые леса Карпат и других регионов Европы» еще на десять европейских стран повышает исключительную универсальную ценность и целостность объекта, который теперь состоит из 93 составных частей в 18 странах. Расширенная территория объекта представляет собой выдающийся пример относительно нетронутых сложных лесов умеренного пояса и демонстрирует широкий спектр комплексных экологических моделей и процессов чистых и смешанных европейских буковых насаждений в различных экологических условиях.",
+          "ar": "يُعتبر توسيع الموقع المتسلسل العابر للحدود الوطنية لموقع غابات الزان البدائية في منطقة الكاربات ومناطق أخرى في أوروبا عبر عشرة بلدان أوروبية إضافية، بمثابة جرعة تعزيز للقيمة العالمية الاستثنائية للموقع وسلامته. ويضم الموقع الموسّع حالياً 93 عنصراً موزَّعاً في 18 بلداً، ويقدّم مثالاً استثنائياً للغابات المداريّة المعقدة التي تنعم بالهدوء نوعاً ما. ويستعرض الموقع طيفاً واسعاً من النماذج البيئية الشاملة، فضلاً عن العمليات البيئيّة الإيكولوجيّة للأنواع النقيّة والمختلطة للزان الأوروبي في سلسلة متنوعة من الظروف البيئية.",
+          "zh": "此次扩展将有10个欧洲国家新加入“喀尔巴阡山脉及欧洲其它地区的原始山毛榉林”这一跨境世界遗产项目，提升了该遗产地的突出普遍价值和完整性，至此该遗产地包含分布在18个国家的93个部分。扩展后的遗产地是相对未受干扰的温带森林群的杰出范例，展示了在各种环境条件下欧洲山毛榉纯林和混交林的广泛综合生态模式和过程。"
+        },
+        "full": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+        "justification": "Brief synthesis The “Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe” are a transnational serial property comprising 93 component parts across 18 countries. They represent an outstanding example of relatively undisturbed, complex temperate forests and exhibit a wide spectrum of comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental conditions. During each glacial phase (ice ages) of the last 1 million years, European beech (Fagus sylvatica) survived the unfavourable climatic conditions in refuge areas in the southern parts of the European continent. These refuge areas have been documented by scientists through palaeoecological analysis and using the latest techniques in genetic coding. After the last Ice Age, around 11,000 years ago, beech started expanding its range from these southern refuge areas to eventually cover large parts of the European continent. During this expansion process, which is still ongoing, beech formed different types of plant communities while occupying largely different environments. The interplay between a diversity of environments, climatic gradients and different species gene pools has and continues to shape this high diversity of beech forest communities. These forests contain an invaluable population of old trees and a genetic reservoir of beech and many other species, which are associated with and dependent on these old-growth forest habitats. Criterion (ix): The property is indispensable for the understanding of the history and evolution of the genus Fagus which, given its wide distribution in the Northern Hemisphere and its ecological importance, is globally significant. These largely undisturbed, complex temperate forests exhibit comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental gradients, including climatic and geological conditions, spanning almost all European Beech Forest Regions. Forests are included from all altitudinal zones from coastal areas to the treeline and, include the best remaining examples from the range limits of the European beech forest. Beech is one of the most important features in the Temperate Broadleaf Forest Biome and represents an outstanding example of the re-colonization and development of terrestrial ecosystems and communities since the last Ice Age. The continuing northern and westward expansion of beech from its original glacial refuge areas in the eastern and southern parts of Europe can be tracked along natural corridors and stepping stones spanning the continent. The dominance of beech across extensive areas of Europe is a living testimony of the tree’s genetic adaptability, a process which is still ongoing. Integrity The selected component parts represent the diversity of ancient and primeval beech forests found across Europe in terms of different climatic and geological conditions and altitudinal zones. The property includes component parts, which convey its Outstanding Universal Value (OUV), and represent the variability of European beech forest ecosystems. Together these component parts contribute to the integrity of the property as a whole. Additionally, each component part needs to demonstrate integrity at the local level by representing the full suite of natural forest development processes in its particular geographical and ecological setting within the series. Most of the component parts are of sufficient size to maintain such natural processes necessary for their long-term ecological viability. The most significant threats to the property are logging and habitat fragmentation. Logging activities in the vicinity of component parts can cause microclimatic changes and nutrient mobilising effects, with negative impacts on the integrity of the property. Land use change in the surrounding landscapes can lead to increased habitat fragmentation, which would be of particular concern for smaller component parts. Infrastructure development is a potential threat only in the surroundings of a few component parts. Climate change already poses a risk to some component parts and further impacts can be anticipated, including changes in species composition and habitat shifting. However, it should be noted that one of the attributes of the Outstanding Universal Value of the property is its demonstration of the ability of beech to adapt to different ecological and climatic regimes throughout its range. Therefore, potential future changes need to be monitored and documented in order to better understand these processes. The above-mentioned threats may affect the integrity of the component parts to a different extent and in different ways, for example through the reduction of structural diversity, fragmentation, loss of connectivity, biomass loss and changed microclimate, which reduce ecosystem functionality and adaptive capacity as a whole. To cope with these threats, buffer zones are established and are managed accordingly by the responsible management bodies. Protection and management requirements A strict non-intervention management is essential for the conservation of the OUV of this serial property across all its component parts. The majority of the 93 component parts are protected by law as strict forest reserves, wilderness areas, core areas of biosphere reserves or national parks (IUCN category I or II). Some of the component parts are protected and managed by Forest Management Plans (with regulations ensuring no logging in old-growth forests). As it is of uppermost importance to guarantee strong protection status in the long term, the protection status will be improved where needed. To ensure the viability of the four component parts smaller than the established minimum size of 50 ha, an enlargement of the component parts with further non-intervention management will be considered by the States Parties. Additionally, an effective management of buffer zones to protect the property from external threats and to safeguard its integrity is of uppermost importance. The integrity of each component part is the responsibility of the State Party and is ensured by the relevant local management units. For the coherent protection and management of the property, as well as to coordinate activities between the management units and the 18 States Parties, a functional organisational structure should be established. To ensure this aspect, an Integrated Management System was developed during the nomination process and will be maintained to allow effective and coordinated management and protection of the property as a whole. The Joint Management Committee, comprising representatives of all States Parties, formulated a Joint Declaration of Intent. This Declaration regulates and structures the cooperation between all the States Parties whose territory is included in the property and ensures the commitment to protect and strengthen the Outstanding Universal Value of the property. The position of a coordinator will be established and maintained to support the Joint Management Committee and the States Parties in their work. The Integrated Management System and the management plans of the component parts will ensure a non-intervention management approach for the component parts while the buffer zones will be managed to avoid negative impacts on the Outstanding Universal Value of the property with a specific focus on ensuring integrity remains intact. To harmonise the management approach across the 93 component parts, the States Parties will develop common objectives and coordinated activities which will cover property and buffer zone management, monitoring and research, education and awareness raising, visitor management and tourism as well as financial and human capacity building. It is proposed to establish a coherent monitoring system based on selected ecological (proxy) indicators of integrity within all component parts to compare long-term development. It is imperative that each State Party provides clear and committed long-term funding arrangements, to support consistent national site management as well as coordinated management. Special attention is required to ensure the configuration of the property such that each component part retains ongoing viability to evolve with unimpeded ecological and biological processes and without the need for substantial interventions. This includes the integration of surrounding forest ecosystems to provide sufficient protection and connectivity, especially for small component parts. All component parts have buffer zones of various configurations including surrounding protected areas (national parks, nature parks, biosphere reserves and others). These buffer zones will be regularly monitored to ensure protection under changing environmental conditions such as climate change. The boundaries of buffer zones should, where possible, be aligned with existing protected area boundaries and should be expanded to connect component parts where they are in close proximity. Finally, where appropriate, special ongoing emphasis is needed to ensure effective ecological connectivity between beech forests and the surrounding complementary habitats to allow natural development and adaptation of the forest to the environmental change."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 99947.81,
+          "square_km": 999.48,
+          "square_miles": 404.475,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007,
+            2011,
+            2017,
+            2021
+          ],
+          "extensions": [
+            2011,
+            2017,
+            2021
+          ],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2011,
+              "event": "Extended"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            },
+            {
+              "year": 2021,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 3
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f1bfac47f3366890b0b7b4b548a3f6e4",
+          "filename": "site_1133_0082-500-0-20241104173714.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209487/site_1133_0082.jpg",
+            "https://whc.unesco.org/document/209488/site_1133_0083.jpg",
+            "https://whc.unesco.org/document/209489/site_1133_0084.jpg",
+            "https://whc.unesco.org/document/209490/site_1133_0085.jpg",
+            "https://whc.unesco.org/document/209491/site_1133_0086.jpg",
+            "https://whc.unesco.org/document/209492/site_1133_0087.jpg",
+            "https://whc.unesco.org/document/209493/site_1133_0088.jpg",
+            "https://whc.unesco.org/document/209494/site_1133_0089.jpg",
+            "https://whc.unesco.org/document/181193/site_1133_0076.jpg",
+            "https://whc.unesco.org/document/187746/site_1133_0080.jpg",
+            "https://whc.unesco.org/document/187745/site_1133_0079.jpg",
+            "https://whc.unesco.org/document/181191/site_1133_0074.jpg",
+            "https://whc.unesco.org/document/115216/site_1133_0001.jpg",
+            "https://whc.unesco.org/document/122807/site_1133_0017.jpg",
+            "https://whc.unesco.org/document/122809/site_1133_0019.jpg",
+            "https://whc.unesco.org/document/122810/site_1133_0020.jpg",
+            "https://whc.unesco.org/document/147514/site_1133_0027.jpg",
+            "https://whc.unesco.org/document/147515/site_1133_0028.jpg",
+            "https://whc.unesco.org/document/147516/site_1133_0029.jpg",
+            "https://whc.unesco.org/document/147517/site_1133_0030.jpg",
+            "https://whc.unesco.org/document/147518/site_1133_0031.jpg",
+            "https://whc.unesco.org/document/147519/site_1133_0032.jpg",
+            "https://whc.unesco.org/document/147520/site_1133_0033.jpg",
+            "https://whc.unesco.org/document/147521/site_1133_0034.jpg",
+            "https://whc.unesco.org/document/147522/site_1133_0035.jpg",
+            "https://whc.unesco.org/document/147523/site_1133_0036.jpg",
+            "https://whc.unesco.org/document/147524/site_1133_0037.jpg",
+            "https://whc.unesco.org/document/147525/site_1133_0038.jpg",
+            "https://whc.unesco.org/document/147526/site_1133_0039.jpg",
+            "https://whc.unesco.org/document/147527/site_1133_0040.jpg",
+            "https://whc.unesco.org/document/147528/site_1133_0041.jpg",
+            "https://whc.unesco.org/document/147529/site_1133_0042.jpg",
+            "https://whc.unesco.org/document/147530/site_1133_0043.jpg",
+            "https://whc.unesco.org/document/147531/site_1133_0044.jpg",
+            "https://whc.unesco.org/document/147532/site_1133_0045.jpg",
+            "https://whc.unesco.org/document/147533/site_1133_0046.jpg",
+            "https://whc.unesco.org/document/147534/site_1133_0047.jpg",
+            "https://whc.unesco.org/document/147536/site_1133_0048.jpg",
+            "https://whc.unesco.org/document/147537/site_1133_0049.jpg",
+            "https://whc.unesco.org/document/147538/site_1133_0050.jpg",
+            "https://whc.unesco.org/document/147539/site_1133_0051.jpg",
+            "https://whc.unesco.org/document/147540/site_1133_0052.jpg",
+            "https://whc.unesco.org/document/147541/site_1133_0053.jpg",
+            "https://whc.unesco.org/document/147542/site_1133_0054.jpg",
+            "https://whc.unesco.org/document/147543/site_1133_0055.jpg",
+            "https://whc.unesco.org/document/147544/site_1133_0056.jpg",
+            "https://whc.unesco.org/document/147545/site_1133_0057.jpg",
+            "https://whc.unesco.org/document/147546/site_1133_0058.jpg",
+            "https://whc.unesco.org/document/147547/site_1133_0059.jpg",
+            "https://whc.unesco.org/document/147548/site_1133_0060.jpg",
+            "https://whc.unesco.org/document/147549/site_1133_0061.jpg",
+            "https://whc.unesco.org/document/147550/site_1133_0062.jpg",
+            "https://whc.unesco.org/document/147551/site_1133_0063.jpg",
+            "https://whc.unesco.org/document/147552/site_1133_0064.jpg",
+            "https://whc.unesco.org/document/147553/site_1133_0065.jpg",
+            "https://whc.unesco.org/document/147554/site_1133_0066.jpg",
+            "https://whc.unesco.org/document/147555/site_1133_0067.jpg",
+            "https://whc.unesco.org/document/147556/site_1133_0068.jpg",
+            "https://whc.unesco.org/document/147557/site_1133_0069.jpg",
+            "https://whc.unesco.org/document/187751/site_1133_0081.jpg"
+          ],
+          "count": 60
+        }
+      },
+      "components": {
+        "count": 93,
+        "locations": [
+          {
+            "name": "Rrajca",
+            "ref": "1133quinquies-013",
+            "latitude": 41.2,
+            "longitude": 20.5
+          },
+          {
+            "name": "Krokar",
+            "ref": "1133quinquies-055",
+            "latitude": 45.542,
+            "longitude": 14.769
+          },
+          {
+            "name": "Massane",
+            "ref": "1133quinquies-078",
+            "latitude": 42.48,
+            "longitude": 3.032
+          },
+          {
+            "name": "Jasmund",
+            "ref": "1133quinquies-007",
+            "latitude": 54.555,
+            "longitude": 13.669
+          },
+          {
+            "name": "Serrahn",
+            "ref": "1133quinquies-008",
+            "latitude": 53.341,
+            "longitude": 13.205
+          },
+          {
+            "name": "Grumsin",
+            "ref": "1133quinquies-009",
+            "latitude": 52.9833333333,
+            "longitude": 13.8833333333
+          },
+          {
+            "name": "Hainich",
+            "ref": "1133quinquies-010",
+            "latitude": 51.0666666667,
+            "longitude": 10.4333333333
+          },
+          {
+            "name": "Gorgany",
+            "ref": "1133quinquies-063",
+            "latitude": 48.475,
+            "longitude": 24.296
+          },
+          {
+            "name": "Chapitre",
+            "ref": "1133quinquies-076",
+            "latitude": 44.633,
+            "longitude": 6.001
+          },
+          {
+            "name": "Vihorlat",
+            "ref": "1133quinquies-093",
+            "latitude": 48.916,
+            "longitude": 22.185
+          },
+          {
+            "name": "Svydovets",
+            "ref": "1133quinquies-005",
+            "latitude": 48.193,
+            "longitude": 24.188
+          },
+          {
+            "name": "Roztochya",
+            "ref": "1133quinquies-064",
+            "latitude": 49.958,
+            "longitude": 23.647
+          },
+          {
+            "name": "Chornohora",
+            "ref": "1133quinquies-001",
+            "latitude": 48.1333333333,
+            "longitude": 24.3833333333
+          },
+          {
+            "name": "Maramarosh",
+            "ref": "1133quinquies-003",
+            "latitude": 47.94,
+            "longitude": 24.309
+          },
+          {
+            "name": "Kellerwald",
+            "ref": "1133quinquies-011",
+            "latitude": 51.1333333333,
+            "longitude": 8.9666666667
+          },
+          {
+            "name": "Dlaboka Reka",
+            "ref": "1133quinquies-084",
+            "latitude": 41.764,
+            "longitude": 20.591
+          },
+          {
+            "name": "Prašuma Janj",
+            "ref": "1133quinquies-072",
+            "latitude": 44.146,
+            "longitude": 17.282
+          },
+          {
+            "name": "Grand Ventron",
+            "ref": "1133quinquies-077",
+            "latitude": 47.9666666667,
+            "longitude": 6.9333333333
+          },
+          {
+            "name": "Lumi i gashit",
+            "ref": "1133quinquies-012",
+            "latitude": 42.465,
+            "longitude": 20.073
+          },
+          {
+            "name": "Monte Cimino",
+            "ref": "1133quinquies-040",
+            "latitude": 42.409,
+            "longitude": 12.204
+          },
+          {
+            "name": "Monte Raschio",
+            "ref": "1133quinquies-041",
+            "latitude": 42.174,
+            "longitude": 12.16
+          },
+          {
+            "name": "Sasso Fratino",
+            "ref": "1133quinquies-042",
+            "latitude": 43.846,
+            "longitude": 11.807
+          },
+          {
+            "name": "Valle Infernale",
+            "ref": "1133quinquies-083",
+            "latitude": 38.132,
+            "longitude": 15.961
+          },
+          {
+            "name": "Izvoarele Nerei",
+            "ref": "1133quinquies-053",
+            "latitude": 45.1166666667,
+            "longitude": 22.05
+          },
+          {
+            "name": "Strimbu Băiuț",
+            "ref": "1133quinquies-054",
+            "latitude": 47.635,
+            "longitude": 24.061
+          },
+          {
+            "name": "Jizera Mountains",
+            "ref": "1133quinquies-075",
+            "latitude": 50.86,
+            "longitude": 15.16
+          },
+          {
+            "name": "Udava (Poloniny)",
+            "ref": "1133quinquies-092",
+            "latitude": 49.174,
+            "longitude": 22.226
+          },
+          {
+            "name": "Rožok (Poloniny)",
+            "ref": "1133quinquies-090",
+            "latitude": 48.978,
+            "longitude": 22.465
+          },
+          {
+            "name": "Snežnik-Ždrocle",
+            "ref": "1133quinquies-056",
+            "latitude": 45.5833333333,
+            "longitude": 14.45
+          },
+          {
+            "name": "Satanіvska Dacha",
+            "ref": "1133quinquies-065",
+            "latitude": 49.175,
+            "longitude": 26.244
+          },
+          {
+            "name": "Cozia – Lotrisor",
+            "ref": "1133quinquies-047",
+            "latitude": 45.3,
+            "longitude": 24.278
+          },
+          {
+            "name": "Synevyr – Strymba",
+            "ref": "1133quinquies-068",
+            "latitude": 48.446,
+            "longitude": 23.785
+          },
+          {
+            "name": "Kuziy – Trybushany",
+            "ref": "1133quinquies-002",
+            "latitude": 47.948,
+            "longitude": 24.135
+          },
+          {
+            "name": "Stuzhytsia – Uzhok",
+            "ref": "1133quinquies-004",
+            "latitude": 49.082,
+            "longitude": 22.59
+          },
+          {
+            "name": "Kalkalpen – Urlach",
+            "ref": "1133quinquies-017",
+            "latitude": 47.8,
+            "longitude": 14.2333333333
+          },
+          {
+            "name": "Synevyr – Darvaika",
+            "ref": "1133quinquies-066",
+            "latitude": 48.488,
+            "longitude": 23.773
+          },
+          {
+            "name": "Synevyr – Vilshany",
+            "ref": "1133quinquies-069",
+            "latitude": 48.35,
+            "longitude": 23.65
+          },
+          {
+            "name": "Synevyr – Kvasovets",
+            "ref": "1133quinquies-067",
+            "latitude": 48.378,
+            "longitude": 23.702
+          },
+          {
+            "name": "Codrul secular Șinca",
+            "ref": "1133quinquies-044",
+            "latitude": 45.6666666667,
+            "longitude": 25.1666666667
+          },
+          {
+            "name": "Uholka – Shyrikyi Luh",
+            "ref": "1133quinquies-006",
+            "latitude": 48.3,
+            "longitude": 23.6833333333
+          },
+          {
+            "name": "Dürrenstein-Lassingtal",
+            "ref": "1133quinquies-014",
+            "latitude": 47.74,
+            "longitude": 14.985
+          },
+          {
+            "name": "Paklenica National Park",
+            "ref": "1133quinquies-034",
+            "latitude": 44.3333333333,
+            "longitude": 15.5
+          },
+          {
+            "name": "Cheile Nerei-Beușnița",
+            "ref": "1133quinquies-043",
+            "latitude": 44.9,
+            "longitude": 21.8
+          },
+          {
+            "name": "Cozia – Masivul Cozia",
+            "ref": "1133quinquies-046",
+            "latitude": 45.3166666667,
+            "longitude": 24.3166666667
+          },
+          {
+            "name": "Falascone (Foresta Umbra)",
+            "ref": "1133quinquies-079",
+            "latitude": 41.807,
+            "longitude": 15.981
+          },
+          {
+            "name": "Forêt de la Bettlachstock",
+            "ref": "1133quinquies-073",
+            "latitude": 47.2166666667,
+            "longitude": 7.4
+          },
+          {
+            "name": "Kalkalpen – Hintergebirg",
+            "ref": "1133quinquies-015",
+            "latitude": 47.7333333333,
+            "longitude": 14.4666666667
+          },
+          {
+            "name": "Kalkalpen – Bodinggraben",
+            "ref": "1133quinquies-016",
+            "latitude": 47.7833333333,
+            "longitude": 14.35
+          },
+          {
+            "name": "Codrul Secular Slătioara",
+            "ref": "1133quinquies-045",
+            "latitude": 47.443,
+            "longitude": 25.629
+          },
+          {
+            "name": "Kalkalpen – Wilder Graben",
+            "ref": "1133quinquies-018",
+            "latitude": 47.83,
+            "longitude": 14.432
+          },
+          {
+            "name": "Hajdučki i Rožanski kukovi",
+            "ref": "1133quinquies-033",
+            "latitude": 44.768,
+            "longitude": 15.006
+          },
+          {
+            "name": "Pavari-Sfilzi (Foresta Umbra)",
+            "ref": "1133quinquies-080",
+            "latitude": 41.839,
+            "longitude": 16.027
+          },
+          {
+            "name": "Hayedos de Ayllon – Montejo",
+            "ref": "1133quinquies-058",
+            "latitude": 41.11,
+            "longitude": -3.499
+          },
+          {
+            "name": "Hayedos de Navarra – Aztaparreta",
+            "ref": "1133quinquies-060",
+            "latitude": 42.912,
+            "longitude": -0.818
+          },
+          {
+            "name": "Zacharovanyi Krai – Irshavka",
+            "ref": "1133quinquies-070",
+            "latitude": 48.454,
+            "longitude": 23.094
+          },
+          {
+            "name": "Groșii Țibleșului – Preluci",
+            "ref": "1133quinquies-052",
+            "latitude": 47.5333333333,
+            "longitude": 24.2166666667
+          },
+          {
+            "name": "Hayedos de Navarra – Lizardoia",
+            "ref": "1133quinquies-059",
+            "latitude": 43.005,
+            "longitude": -1.114
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle A",
+            "ref": "1133quinquies-020",
+            "latitude": 50.781,
+            "longitude": 4.427
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle B",
+            "ref": "1133quinquies-021",
+            "latitude": 50.784,
+            "longitude": 4.434
+          },
+          {
+            "name": "Central Balkan – Boatin Reserve",
+            "ref": "1133quinquies-024",
+            "latitude": 42.8,
+            "longitude": 24.2666666667
+          },
+          {
+            "name": "Zacharovanyi Krai – Velykyi Dil",
+            "ref": "1133quinquies-071",
+            "latitude": 48.421,
+            "longitude": 23.172
+          },
+          {
+            "name": "Pollinello (Pollino National Park)",
+            "ref": "1133quinquies-082",
+            "latitude": 39.897,
+            "longitude": 16.197
+          },
+          {
+            "name": "Central Balkan – Steneto Reserve",
+            "ref": "1133quinquies-027",
+            "latitude": 42.7333333333,
+            "longitude": 24.7
+          },
+          {
+            "name": "Central Balkan – Sokolna Reserve",
+            "ref": "1133quinquies-032",
+            "latitude": 42.6833333333,
+            "longitude": 25.1333333333
+          },
+          {
+            "name": "Hayedos de Ayllon – Tejera Negra",
+            "ref": "1133quinquies-057",
+            "latitude": 41.245,
+            "longitude": -3.388
+          },
+          {
+            "name": "Wolosatka stream valley (Bieszczady)",
+            "ref": "1133quinquies-088",
+            "latitude": 49.0666666667,
+            "longitude": 22.7333333333
+          },
+          {
+            "name": "Central Balkan – Dzhendema Reserve",
+            "ref": "1133quinquies-029",
+            "latitude": 42.6833333333,
+            "longitude": 24.9666666667
+          },
+          {
+            "name": "Terebowiec stream valley (Bieszczady)",
+            "ref": "1133quinquies-087",
+            "latitude": 49.095,
+            "longitude": 22.722
+          },
+          {
+            "name": "Havešová Primeval Forest (Poloniny)",
+            "ref": "1133quinquies-089",
+            "latitude": 49.01,
+            "longitude": 22.337
+          },
+          {
+            "name": "Stužica - Bukovské Vrchy (Poloniny)",
+            "ref": "1133quinquies-091",
+            "latitude": 49.085,
+            "longitude": 22.526
+          },
+          {
+            "name": "Central Balkan – Tsarichina Reserve",
+            "ref": "1133quinquies-025",
+            "latitude": 42.774,
+            "longitude": 24.411
+          },
+          {
+            "name": "Central Balkan – Stara Reka Reserve",
+            "ref": "1133quinquies-028",
+            "latitude": 42.697,
+            "longitude": 24.81
+          },
+          {
+            "name": "Cozzo Ferriero (Pollino National Park)",
+            "ref": "1133quinquies-081",
+            "latitude": 39.908,
+            "longitude": 16.105
+          },
+          {
+            "name": "Central Balkan – Kozya stena Reserve",
+            "ref": "1133quinquies-026",
+            "latitude": 42.795,
+            "longitude": 24.523
+          },
+          {
+            "name": "Central Balkan – Peesh skali Reserve",
+            "ref": "1133quinquies-031",
+            "latitude": 42.766,
+            "longitude": 25.076
+          },
+          {
+            "name": "Groșii Țibleșului – Izvorul Șurii",
+            "ref": "1133quinquies-051",
+            "latitude": 47.553,
+            "longitude": 24.187
+          },
+          {
+            "name": "Polonina Wetlinska and Smerek (Bieszczady)",
+            "ref": "1133quinquies-086",
+            "latitude": 49.175,
+            "longitude": 22.527
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Cuesta Fria",
+            "ref": "1133quinquies-061",
+            "latitude": 43.1666666667,
+            "longitude": -4.9833333333
+          },
+          {
+            "name": "Central Balkan – Severen Dzhendem Reserve",
+            "ref": "1133quinquies-030",
+            "latitude": 42.744,
+            "longitude": 24.94
+          },
+          {
+            "name": "Domogled – Valea Cernei – Iauna Craiovei",
+            "ref": "1133quinquies-049",
+            "latitude": 45.107,
+            "longitude": 22.566
+          },
+          {
+            "name": "Domogled – Valea Cernei – Ciucevele Cerne",
+            "ref": "1133quinquies-050",
+            "latitude": 45.25,
+            "longitude": 22.84
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Canal de Asotin",
+            "ref": "1133quinquies-062",
+            "latitude": 43.171,
+            "longitude": -4.889
+          },
+          {
+            "name": "Border Ridge and Gorna Solinka valley (Bieszczady)",
+            "ref": "1133quinquies-085",
+            "latitude": 49.098,
+            "longitude": 22.563
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton A",
+            "ref": "1133quinquies-022",
+            "latitude": 50.734,
+            "longitude": 4.437
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton B",
+            "ref": "1133quinquies-023",
+            "latitude": 50.727,
+            "longitude": 4.431
+          },
+          {
+            "name": "Sonian Forest – Forest Reserve “Joseph Zwaenepoel”",
+            "ref": "1133quinquies-019",
+            "latitude": 50.757,
+            "longitude": 4.416
+          },
+          {
+            "name": "Domogled – Valea Cernei – Domogled-Coronini – Bedina",
+            "ref": "1133quinquies-048",
+            "latitude": 44.9333333333,
+            "longitude": 22.4666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1133",
+        "unesco_documents": "https://whc.unesco.org/en/list/1133/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1133/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1133/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. North Macedonia Spain Italy France Poland Albania Austria Belgium Croatia Romania Ukraine Bulgaria Slovenia Slovakia Switzerland Bosnia and Herzegovina Germany Czechia Europe and North America Natural"
+    },
+    {
+      "site_key": "old_bridge_area_of_the_old_city_of_mostar",
+      "uuid": "67649af5-110a-57f5-a36f-16afd21fc4b5",
+      "unesco_id": "946",
+      "names": {
+        "en": "Old Bridge Area of the Old City of Mostar",
+        "fr": "Quartier du Vieux pont de la vieille ville de Mostar",
+        "es": "Barrio del Puente Viejo en el centro histórico de Mostar",
+        "ru": "Район Старого моста в историческом центре города Мостар",
+        "ar": "حيّ الجسر القديم في مدينة موستار القديمة",
+        "zh": "莫斯塔尔旧城和旧桥地区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The historic town of Mostar, spanning a deep valley of the Neretva River, developed in the 15th and 16th centuries as an Ottoman frontier town and during the Austro-Hungarian period in the 19th and 20th centuries. Mostar has long been known for its old Turkish houses and Old Bridge, Stari Most, after which it is named. In the 1990s conflict, however, most of the historic town and the Old Bridge, designed by the renowned architect Sinan, was destroyed. The Old Bridge was recently rebuilt and many of the edifices in the Old Town have been restored or rebuilt with the contribution of an international scientific committee established by UNESCO. The Old Bridge area, with its pre-Ottoman, eastern Ottoman, Mediterranean and western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar is a symbol of reconciliation, international co-operation and of the coexistence of diverse cultural, ethnic and religious communities.",
+          "fr": "La ville historique de Mostar, nichée dans la profonde vallée de Neretva, est une ancienne ville frontière ottomane qui s’est développée aux XVe et XVIe siècles, et durant la période austro-hongroise des XIXe et XXe siècles. Mostar se caractérise par ses maisons turques anciennes et par le vieux pont, Stari Most, qui lui a valu son nom. Lors des conflits des années 1990, la majeure partie de la ville historique et le vieux pont du célèbre architecte Sinan ont cependant été détruits. Le vieux pont a été reconstruit et de nombreux édifices de la vieille ville ont été restaurés ou rebâtis avec l’aide d’un comité scientifique international mis en place par l’UNESCO. Le quartier du vieux pont, avec ses caractéristiques architecturales (pré-ottomanes, ottomanes de l’Est, méditerranéennes et d’Europe occidentale), est un exemple remarquable d’occupation urbaine multiculturelle. Le pont reconstruit et la vieille ville de Mostar sont un symbole de la coopération internationale et de la coexistence de diverses communautés culturelles, ethniques et religieuses.",
+          "es": "La histórica ciudad de Mostar, encaramada en lo alto del valle del río Neretva, es una antigua ciudad fronteriza otomana que se desarrolló en los siglos XV y XVI. Entre los siglos XIX y XX perteneció al Imperio Austrohúngaro. Mostar es famosa por sus antiguas casas turcas y por el “Stari Most” (Puente Viejo), del que recibe su nombre. La mayor parte del centro histórico de la ciudad, así como el puente diseñado por el famoso arquitecto Sinan, fueron destruidos durante el conflicto ocurrido en el decenio de1990. El puente ha sido reconstruido recientemente y muchos edificios de la parte antigua de la ciudad se han reedificado o restaurado con ayuda de un comité científico internacional establecido por la UNESCO. El barrio del Puente Viejo es un ejemplo notable de asentamiento urbano multicultural, como lo prueban sus variadas edificaciones preotomanas, otomano-orientales, mediterráneas y occidentales. El puente reconstruido y el centro histórico de Mostar son símbolos de la cooperación internacional y de la coexistencia de distintas comunidades culturales, étnicas y religiosas.",
+          "ru": "Исторический город Мостар, протянувшийся по глубокой долине реки Неретва, активно развивался в ХV-ХVI вв. как пограничный город Оттоманской империи, и в ХIХ-ХХ вв. как город под австро-венгерским владычеством. Мостар известен старыми турецкими жилыми домами и Старым мостом (босн. – Стары-Мост), который и дал название городу. Во время конфликта 1990-х гг. большая часть исторического города и Старый мост, спроектированный знаменитым архитектором Синаном, были разрушены. Мост и многие другие строения в Старом городе были недавно воссозданы или восстановлены с помощью международного научного комитета, созданного ЮНЕСКО. Архитектурный облик района Старого моста начал складываться еще до прихода турок, позже испытал турецкое, средиземноморское и западноевропейское влияние, и теперь представляет собой выдающийся образец городского поселения, сформировавшегося под воздействием различных культур. Реконструированный Старый мост и Старый город в Мостаре – это символ примирения, международного сотрудничества и сосуществования сообществ, различающихся по своей культуре, национальной принадлежности и вероисповеданию.",
+          "ar": "تمثّل مدينة موستار التاريخية، الجاثمة في وادي نيريتفا العميق، مدينة عثمانية حدودية قديمة شهدت نمواً في القرنين الخامس عشر والسادس عشر، وإبّان أوج الإمبراطورية النمساوية-المجرية في القرنين التاسع عشر والعشرين. وتتميّز موستار ببيوتها التركية القديمة وبجسر ستاري موست القديم الذي أكسبها إسمه. إلاّ أنّ الجزء الأكبر من المدينة التاريخية والجسر القديم الذي صمّمه المهندس الشهير سينان دُمرّ خلال النزاعات التي نشبت في التسعينيات. ثم أعيد بناء الجسر كما جرى ترميم العديد من المباني في المدينة القديمة وإعادة تشييدها بمساعدة لجنة علمية دولية أنشأتها اليونسكو. ويعتبر الجسر العتيق، بخصائصه الهندسية (التي ترقى إلى فترة ما قبل الحقبة العثمانية، والعثمانية الشرقية، والمتوسطية والأوروبية الغربية)، مثالاً لافتاً عن التعدد الثقافي والتنوع السكني. كذلك، يُعدّ الجسر الذي أعيد بناؤه ومدينة موستار القديمة رمزاً للتعاون الدولي وللتعايش بين مجتمعات ثقافية وإثنية ودينية مختلفة.",
+          "zh": "莫斯塔尔(Mostar)古镇横跨雷特瓦河深谷，是15和 16世纪作为土耳其边境小镇建立起来的，于19和20世纪的奥匈帝国时期得到了进一步发展。莫斯塔尔一直以来因其古老的土耳其房屋和老桥(Stari Most) 而闻名，并因此桥而得名。然而，在1990年冲突期间，这个古镇的大部分地方和由著名建筑师思南(Sinan)设计的老桥都遭到了摧毁。由于联合国教科文组织成立的国际科学委员会的努力，老桥于近期得到了重建，古镇的许多建筑也得到了修复或重建。老桥地区融合了前土耳其、土耳其东部、地中海和西欧建筑风格，是一个典型的多文化城市住区。重建后的老桥和莫斯塔尔旧城是协调和解、国际合作的象征，也是不同文化、种族和宗教社会之间和睦相处的象征。"
+        },
+        "full": "The historic town of Mostar, spanning a deep valley of the Neretva River, developed in the 15th and 16th centuries as an Ottoman frontier town and during the Austro-Hungarian period in the 19th and 20th centuries. Mostar has long been known for its old Turkish houses and Old Bridge, Stari Most, after which it is named. In the 1990s conflict, however, most of the historic town and the Old Bridge, designed by the renowned architect Sinan, was destroyed. The Old Bridge was recently rebuilt and many of the edifices in the Old Town have been restored or rebuilt with the contribution of an international scientific committee established by UNESCO. The Old Bridge area, with its pre-Ottoman, eastern Ottoman, Mediterranean and western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar is a symbol of reconciliation, international co-operation and of the coexistence of diverse cultural, ethnic and religious communities.",
+        "justification": "Brief synthesis A settlement established as an urban structure in the 15th century on the crossing of a river and a land road was originally located in a valley of the Neretva River, between Hum Hill and the foot of the Velež Mountain. This relatively small settlement had two towers around the bridge, which dated 1459, as noted by written historical sources. The current name, Mostar, was mentioned for the first time in 1474 and derived from mostari - the bridge keepers. The historic town of Mostar developed in the 15th and 16th centuries as an Ottoman frontier town and during the short Austro-Hungarian period in the 19th and 20th centuries. Mostar has been long known for its old Turkish houses and the Old Bridge – Stari most, an extraordinary technological achievement of bridge construction. The historic part of Mostar is a result of interaction between the natural phenomena and human creativity throughout a long historical period. The essence of centuries-long cultural continuity is represented by the universal synthesis of life phenomena: the bridge and its fortresses – with the rich archeological layers from the pre-Ottoman period, religious edifices, residential zones (mahalas), arable lands, houses, bazaar, its public life in the streets and water. Architecture here presented a symbol of tolerance: a shared life of Muslims, Christians and Jews. Mosques, churches, and synagogues existed side-by-side indicating that in this region, the Roman Catholic Croats with their Western European culture, the Eastern Orthodox Serbs with their elements of Byzantine culture, and the Sephardic Jews continued to live together with the Bosniaks-Muslims for more than four centuries. A specific regional architecture was thus created and left behind a series of unique architectural achievements, mostly modest by physical dimensions, but of considerable importance for the cultural history of its people. The creative process produced a constant flow of various cultural influences that, like streams merging into a single river, became more than a mere sum of the individual contributing elements. In the 1990 conflict, however, most of the historic town and the Old Bridge, a masterpiece designed by the famous architect, mimar Hajruddin (according to the design of his master-teacher, great architect mimar Sinan), were destroyed. The Old Bridge was rebuilt in 2004 and many of the edifices in the Old Town were restored or rebuilt with the contribution of the international scientific committee established by UNESCO. The Old Bridge Area, with its pre-Ottoman, Eastern Ottoman, Mediterranean and Western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar are symbols of reconciliation, international cooperation and the coexistence of diverse cultural, ethnic and religious communities. Criterion (vi): With the “renaissance” of the Old Bridge and its surroundings, the symbolic power and meaning of the City of Mostar - as an exceptional and universal symbol of coexistence of communities from diverse cultural, ethnic and religious backgrounds - has been reinforced and strengthened, underlining the unlimited efforts of human solidarity for peace and powerful cooperation in the face of overwhelming catastrophes. Integrity The inscribed property encompasses 7.60 ha, with a buffer zone of 48 ha and contains the elements to convey its Outstanding Universal Value. After the reconstruction works, the Old Bridge is again a testimonial, in time and space, of the history of the Old City of Mostar. Reconstruction works of the Old Bridge complex and its surrounding monumental structures, infrastructure and majority of urban fabric took into consideration the overall integrity of the place. This was achieved by following the pre-war appearance and features of the structures to maintain vertical and horizontal dimensions, forms, scale and materialization – in other words, the integral expression of the Old City of Mostar. The exceptional features of the historic urban area of Mostar were presented again in their interrelation between natural and constructed elements, with the Old Bridge as a masterpiece of bridge construction. The elements that reflect the Outstanding Universal Value of the property are present in situ, including the intangible ones (especially its symbolic power). Furthermore, archaeological findings of the older medieval bridges (almost at the same location of the Old Bridge) point out the strong historical and functional integrity as well as the ability of architects and town planners to integrate new development principles and architecture with the earlier medieval era. The Old City of Mostar, shaped and defined during the Medieval, Ottoman and Austro-Hungarian period, preserved its coherence as a whole with recognizable features of the townscape and legibility in an urban-morphological matrix, without introducing alterations in the form of new or inappropriately renewed structures. Authenticity The reconstruction of the Old Bridge was based on thorough and detailed, multi-facetted analyses, relying on high quality documentation. The authenticity of form, use of authentic materials and techniques are fully recognizable while the reconstruction has not been hidden at all. Remaining original material has been exposed in a museum, becoming an inseparable part of the reconstruction. The reconstruction of the fabric of the bridge should be seen as the background to the restoration of the intangible dimensions of this property. At the urban scale, authenticity is preserved through an integrative rehabilitation of the historic core by the renovation of physical structures and the introduction of the appropriate functions. The use of the original volumes, sites and building materials for each structure preserved the typology and morphology of the historic fabric. The key features of the city, natural surroundings, and the urban matrix with the architectural landmarks remain genuine. Architectural authenticity is achieved by the application of contemporary theories and practices, accompanied with extensive research and re-use of original elements found on the site. Reconstruction remained faithful to the idea and principles of the original structure, with respect for different historical layers and previous restoration works. Protection and management requirements Protection measures are related to the harmonized set of laws for the protection of listed national monuments, in particular the Law on Implementation of Decisions of the Commission to Preserve National Monuments of Bosnia and Herzegovina (2002), the Law on the Protection and Use of Cultural, Historical and Natural Heritage of SR Bosnia and Herzegovina (1985) and the Law on Physical Planning and Land Use at the Level of Federation of Bosnia and Herzegovina (2006), accompanied by other related laws and regulations. In addition, the Historical Urban Area of Mostar was listed as national monument with boundaries that correspond to the area of the inscribed property. In terms of management, the Management Plan for the Old City of Mostar has been implemented. This document, composed of four parts (government, finance, planning and implementation, including the Master Plan 2001) was formulated with the aim to preserve and protect the Outstanding Universal Value of the property. The Plan also defines the activities necessary to ensure adequate management, the sustainable use of the World Heritage property in a way appropriate to its Outstanding Universal Value, cultural and historical features, sustainable protection and conservation of cultural values. It also underlines the property's active role in improving conditions and quality of life of the local community. A Master Plan was adopted by the Government of the Federation of Bosnia and Herzegovina. In operational terms, the Mostar City Council established the Agency “Stari Grad” (located in Mostar) responsible for preservation, development, site management and monitoring. The Agency works in close cooperation with other institutions in charge of heritage protection (mostly with the Federal Institute for the Protection of Monuments). The works related to heritage protection are financed mostly by the Government of the Federation of Bosnia and Herzegovina and the City of Mostar. The City of Mostar also implements projects related to the improvement of the city’s infrastructure. Challenges remain in effectively ensuring that development pressures do not threaten the conditions of integrity and the conservation of the property and its buffer zone. To this effect, heritage protection services need to have the necessary measures in place to prevent and mitigate potential negative impacts."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [],
+          "all": [],
+          "display": "",
+          "count": 0,
+          "type": "Unknown"
+        },
+        "area": {
+          "hectares": 7.6,
+          "square_km": 0.08,
+          "square_miles": 0.031,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ae294eccbb9db2943ffcfb60aac60930",
+          "filename": "site_0946_0001-500-0-20130123173904.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113687/site_0946_0001.jpg",
+            "https://whc.unesco.org/document/113691/site_0946_0003.jpg",
+            "https://whc.unesco.org/document/113694/site_0946_0004.jpg",
+            "https://whc.unesco.org/document/113696/site_0946_0005.jpg",
+            "https://whc.unesco.org/document/120228/site_0946_0006.jpg",
+            "https://whc.unesco.org/document/120229/site_0946_0007.jpg",
+            "https://whc.unesco.org/document/120230/site_0946_0008.jpg",
+            "https://whc.unesco.org/document/120231/site_0946_0009.jpg",
+            "https://whc.unesco.org/document/120232/site_0946_0010.jpg",
+            "https://whc.unesco.org/document/120233/site_0946_0011.jpg",
+            "https://whc.unesco.org/document/120234/site_0946_0012.jpg",
+            "https://whc.unesco.org/document/120235/site_0946_0013.jpg",
+            "https://whc.unesco.org/document/128482/site_0946_0014.jpg",
+            "https://whc.unesco.org/document/128483/site_0946_0015.jpg",
+            "https://whc.unesco.org/document/128484/site_0946_0016.jpg",
+            "https://whc.unesco.org/document/128485/site_0946_0017.jpg",
+            "https://whc.unesco.org/document/128486/site_0946_0018.jpg",
+            "https://whc.unesco.org/document/128488/site_0946_0020.jpg",
+            "https://whc.unesco.org/document/128489/site_0946_0021.jpg",
+            "https://whc.unesco.org/document/128490/site_0946_0022.jpg",
+            "https://whc.unesco.org/document/128491/site_0946_0023.jpg",
+            "https://whc.unesco.org/document/174869/site_0946_0024.jpg",
+            "https://whc.unesco.org/document/174870/site_0946_0025.jpg",
+            "https://whc.unesco.org/document/174871/site_0946_0026.jpg",
+            "https://whc.unesco.org/document/174872/site_0946_0027.jpg",
+            "https://whc.unesco.org/document/174873/site_0946_0028.jpg",
+            "https://whc.unesco.org/document/174874/site_0946_0029.jpg",
+            "https://whc.unesco.org/document/174875/site_0946_0030.jpg",
+            "https://whc.unesco.org/document/174876/site_0946_0031.jpg",
+            "https://whc.unesco.org/document/174877/site_0946_0032.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old Bridge Area of the Old City of Mostar",
+            "ref": "946rev",
+            "latitude": 43.3373055556,
+            "longitude": 17.815
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/946",
+        "unesco_documents": "https://whc.unesco.org/en/list/946/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/946/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/946/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Bridge Area of the Old City of Mostar The historic town of Mostar, spanning a deep valley of the Neretva River, developed in the 15th and 16th centuries as an Ottoman frontier town and during the Austro-Hungarian period in the 19th and 20th centuries. Mostar has long been known for its old Turkish houses and Old Bridge, Stari Most, after which it is named. In the 1990s conflict, however, most of the historic town and the Old Bridge, designed by the renowned architect Sinan, was destroyed. The Old Bridge was recently rebuilt and many of the edifices in the Old Town have been restored or rebuilt with the contribution of an international scientific committee established by UNESCO. The Old Bridge area, with its pre-Ottoman, eastern Ottoman, Mediterranean and western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar is a symbol of reconciliation, international co-operation and of the coexistence of diverse cultural, ethnic and religious communities. The historic town of Mostar, spanning a deep valley of the Neretva River, developed in the 15th and 16th centuries as an Ottoman frontier town and during the Austro-Hungarian period in the 19th and 20th centuries. Mostar has long been known for its old Turkish houses and Old Bridge, Stari Most, after which it is named. In the 1990s conflict, however, most of the historic town and the Old Bridge, designed by the renowned architect Sinan, was destroyed. The Old Bridge was recently rebuilt and many of the edifices in the Old Town have been restored or rebuilt with the contribution of an international scientific committee established by UNESCO. The Old Bridge area, with its pre-Ottoman, eastern Ottoman, Mediterranean and western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar is a symbol of reconciliation, international co-operation and of the coexistence of diverse cultural, ethnic and religious communities. Bosnia and Herzegovina Europe and North America Cultural"
+    }
+  ]
+}

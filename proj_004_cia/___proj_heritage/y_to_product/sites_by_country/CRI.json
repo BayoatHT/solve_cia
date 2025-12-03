@@ -1,0 +1,727 @@
+{
+  "country": {
+    "code": "CRI",
+    "name": "Costa Rica"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 3,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "cocos_island_national_park",
+      "uuid": "f3e93a89-25bc-59aa-b1a8-f6321b17d67f",
+      "unesco_id": "820",
+      "names": {
+        "en": "Cocos Island National Park",
+        "fr": "Parc national de l'île Cocos",
+        "es": "Parque Nacional Isla del Coco",
+        "ru": "Национальный парк Остров Кокос",
+        "ar": "منتزه جزيرة كوكوس الوطني",
+        "zh": "科科斯岛国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CRI": {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "iso3": "CRI"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins.",
+          "fr": "Le parc national de l'île Cocos, situé à 550 km au large de la côte pacifique du Costa Rica, est la seule île du Pacifique tropical oriental possédant une forêt tropicale humide. Son emplacement – au premier point de contact avec le contre-courant nord-équatorial – et la myriade d'interactions entre l'île et l'écosystème marin environnant font de ce parc un laboratoire idéal pour l'étude des processus biologiques. Le monde sous-marin du parc national est devenu célèbre et de nombreux plongeurs le considèrent comme le meilleur endroit au monde pour observer les grandes espèces pélagiques comme les requins, les raies, les thons et les dauphins.",
+          "es": "Situada a 550 km del litoral costarricense, la Isla del Coco es la única de la zona tropical del Pacífico Oriental que posee un bosque húmedo tropical. Es un laboratorio ideal para el estudio de los procesos biológicos, debido a su ubicación en el primer punto de contacto con la contracorriente norecuatorial y a sus múltiples interacciones con el ecosistema marino circundante. Los fondos marinos del parque nacional son famosos y muchos submarinistas estiman que son los mejores del mundo para observar especies pelágicas de grandes dimensiones, como tiburones, rayas, atunes y delfines.",
+          "ru": "Кокос, лежащий в 550 км от берегов Коста-Рики, является единственным островом в восточной части Тихого океана, который покрыт влажными тропическими лесами. Расположение Кокоса на пути экваториального противотечения, а также разнообразие природных взаимосвязей, связывающих остров и окружающую его морскую среду, делает его идеальным полигоном для исследования биологических процессов. Здешний подводный мир привлекает любителей водных погружений, которые расценивают данный район в качестве одного из лучших в мире мест для наблюдения за крупными морскими обитателями, такими как акулы, скаты, тунцы и дельфины.",
+          "ar": "يُشكّل منتزه جزيرة كوكوس الوطني، الواقع على مسافة 550 كيلومترا في عرض ساحل كوستاريكا المتوسطي، الجزيرة الوحيدة للمحيط الهادئ الإستوائي الشرقي التي تنعم بغابة إستوائيّة رطبة. وبفضل موقعه عند أوّل نقطة تلاقي مع التيّار البحري الإستوائي الشمالي المضاد وتفاعله بين الجزيرة والنظام البيئي البحري المحيط، أصبح هذا المنتزه مختبراً مثالياً لدراسة العمليّات البيولوجيّة. وقد ذاع صيت عالم ما تحت البحار في هذا المنتزه الوطني الذي يعتبره العديد من الغطّاسين أفضل مكانٍ في العالم من أجل مراقبة الأصناف المحيطيّة الكبيرة مثل سمك القرش والشفنين والتنّ والدلفين.",
+          "zh": "科科斯岛国家公园距哥斯达黎加太平洋海岸550公里，是热带东太平洋上唯一拥有热带雨林的岛屿，其位置最接近北赤道逆流，又是该岛和周围海洋生态系统全面相互影响的地方，因此这个地区是研究生物进程的理想实验室。公园的海底世界非常著名，吸引了众多的潜水员，因为这里被认为是世界上观看远洋生物的绝佳地点，鲨鱼、鳐鱼、金枪鱼以及海豚等随处可见。"
+        },
+        "full": "Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins.",
+        "justification": "Brief synthesis Cocos Island National Park is located in the Eastern Tropical Pacific, covering an area of 202,100 hectares some 530 kilometers off the Costa Rica mainland. The island itself, “Isla del Coco”, also known as “Treasure Island”, is the only landmark of the vast submarine Cocos Range. With a surface area of 2,400 hectares it supports the only humid tropical forest on an oceanic island in the Eastern Tropical Pacific. The remaining 199,700 hectares protect not only diverse marine ecosystems, mostly pelagic but also, the most diverse coral reefs of the entire Eastern Tropical Pacific. Thanks to its remote location and conservation efforts, the biologically highly diverse property constitutes one of the best conserved marine tropical waters, well-known as a world-class diving destination. The property belongs to the Eastern Tropical Pacific Marine Corridor, a marine conservation network, which also includes World Heritage properties in Colombia, Ecuador and Panama. Natural population densities of large top predators indicate a near pristine conservation status of a property that is among the most important sites in the Eastern Tropical Pacific for the protection of large pelagic migratory species, such as the endangered Scalloped Hammerhead Shark and the near-threatened Silky Shark and Galapagos Shark. Due to its geographical position, the oceanic island of volcanic origin is the first landmark met by the North Equatorial Countercurrent and a point of confluence of other marine currents. This makes it a dispersing centre of larvae of marine species from various parts of the Pacific Ocean. In its land portion, the property hosts a remarkable degree of endemism across most diverse taxonomic groups. There are, for instance, three endemic bird species, two endemic freshwater fish and two endemic reptile species. Cocos Island National Park is of irreplaceable global conservation value, reminding us what parts of tropical oceans historically looked like. Criterion (ix): The property harbours a rare and complex mosaic of land and sea environments, including forested mountains, rivers, waterfalls, estuaries, cliffs, sandy and rocky beaches, bays, and extensive and highly diverse coral reefs and pelagic environments. The oceanic island, more than 500 kilometers off the continent, is mostly occupied by tropical rainforest and, from around 500 m.a.s.l. to the highest elevation at 634 m.a.s.l., by cloud forest. The isolation has been allowing ongoing evolutionary processes on land, giving origin to countless endemic species in the most diverse taxonomic groups, including several vertebrate species. The geographic location at the meeting point of the North Equatorial Countercurrent with other major marine currents and the ecological interactions between a remote island and the surrounding marine ecosystems are of major scientific importance. The currents and the island affect the movements and distribution of the many migratory marine species aggregating for feeding and reproduction in the waters around the island. The property serves as a dispersion centre of larvae of numerous marine species coming from the entire Pacific. The islets and rocks around the main island are reported to also serve as important cleaning stations, i.e. pelagic species aggregate to have parasites removed by specialised fish and other species. Criterion (x): The small island supports the only tropical forest ecosystem located on an oceanic island within the Tropical Eastern Pacific. It is home to some 70 endemic species of vascular plants and several endemic animals, including three birds, two reptiles and even two freshwater fish. Smaller satellite rocks around the island support nesting and resting habitats for numerous migratory and resident bird species. However, the main species conservation value derives from critical marine habitat and the corresponding role of the property in the conservation of large pelagic species, especially several species of sharks. Among the latter are exceptional aggregations of the near-threatened Silky and Lemon Shark, the vulnerable Bigeye Thresher Shark and Galapagos Shark, the emblematic and endangered Hammerhead Shark, as well as White-tip Reef Shark and Black-tip Shark. Among some 300 recorded fish species are important aggregations of large pelagic fish, such as the vulnerable Whale Shark and Blue Marlin, as well as Sailfish Broadbill Swordfish, Shortbill Spearfish, Giant Manta Ray and Pelagic Stingray. Blue Whale and Bottlenose Dolphin are among the visiting marine mammals. Integrity The isolation of Cocos Island National Park contributes to the safeguarding of evolutionary processes, which are the basis of the notable richness and abundance of land and marine life forms. Provided that alien invasive species of both flora and fauna can be controlled, the conservation prospects on land are promising. In the marine areas, the large aggregations of top predators, including but not limited to numerous shark species, demonstrate the integrity within an intensively fished marine region. The entire property is one of the rare marine no-take areas and as such makes an invaluable contribution to conservation as a safe haven for marine life, and as a nursery and dispersal centre – provided illegal fishing can be kept at bay. While many of the aggregations occur in a relatively small area within the property, the marine limits fail to do justice to the life cycles of the many migratory species. Cocos Island National Park cannot achieve the long-term conservation of species indiscriminately exploited in the wider Eastern Tropical Pacific and elsewhere. The critical factor for the long run integrity not only requires adequate management of the property but also sustainable fishing levels outside of it. The Eastern Tropical Pacific Marine Corridor provides a highly needed framework for international cooperation in this regard. Protection and management requirements While there is no evidence of pre-Columbian occupation, fishermen, pirates, whalers, commercial sailors and scientific expeditions have long used Cocos Island as shelter and to procure fresh water. Attempts to settle the island include a brief episode of running a prison, but eventually all such attempts have been unsuccessful. Today the human presence is restricted to a rotating group of conservation staff, tourists, and visiting scientists. The entire property is strictly protected by law, state-owned and managed by Costa Rica’s National Park Service under the Ministry of Environment and Energy in cooperation with other governmental and non-governmental institutions, such as the “Friends of Cocos Island Foundation”. Any extraction of marine resources and all commercial, industrial or agricultural activities are banned. Management planning guides interventions with a focus on planning of public use and tourism, protection of sensitive sites, alien invasive species, scientific research, and the review of relevant legislation. Sufficient staff and funding is needed to secure adequate operations, which is costly due to the remote location. On land, the main threats are invasive alien species of both flora and fauna. While no mammals originally existed on the island, deer, wild boar, cats and rats have been introduced with complex effects on the ecosystems, as well-documented from small island settings around the globe. Temporary settlers brought plants like guinea grass and coffee. The latter has since been invading the understory of the forests. Continuous monitoring and management are needed to eradicate alien invasive species to the degree possible and to prevent new invasions through and strict and enforced protocols for all visitors to the island. In the waters, illegal fishing is common despite efforts by national authorities and non-governmental organizations. Therefore, continuous monitoring and law enforcement is needed, as is awareness-raising with the fishing industry. Tourism activities around the island, mostly recreational diving, likewise require adequate monitoring and control to prevent disturbance in the highly localised areas of major aggregations of fish, as well as littering and other pollution caused by passing vessels and yachts. Following the 1982/1983 El Niño event, about 90 percent of the coral reefs of Cocos National Park died off, a dramatic reminder how protected areas can be affected by events far beyond their boundaries. Eventually, for conservation to be effective in the long term, measures are needed at a much larger geographical scale. These measures could include extensions, buffer zones and, at the international level, coordination and cooperation with other marine protected areas in the Eastern Tropical Pacific, including World Heritage properties in Colombia, Ecuador and Panama."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 199700,
+          "square_km": 1997.0,
+          "square_miles": 808.158,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997,
+            2002
+          ],
+          "extensions": [
+            2002
+          ],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2002,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/18a83c94efd71385a036a6e30359ad43",
+          "filename": "site_0820_0001.jpg",
+          "dimensions": {
+            "width": 1920,
+            "height": 2560
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111985/site_0820_0001.jpg",
+            "https://whc.unesco.org/document/111987/site_0820_0002.jpg"
+          ],
+          "count": 2
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Cocos Island National Park",
+            "ref": "820bis",
+            "latitude": 5.533333333,
+            "longitude": -87.06666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/820",
+        "unesco_documents": "https://whc.unesco.org/en/list/820/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/820/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/820/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cocos Island National Park Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins. Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins. Costa Rica Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "area_de_conservacion_guanacaste",
+      "uuid": "1fe83998-3d29-588c-b70a-2f0aab6561af",
+      "unesco_id": "928",
+      "names": {
+        "en": "Area de Conservación Guanacaste",
+        "fr": "Zone de conservation de Guanacaste",
+        "es": "Área de Conservación Guanacaste",
+        "ru": "Охраняемая область Гуанакасте",
+        "ar": "منطقة غواناكاست المحميّة",
+        "zh": "瓜纳卡斯特自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CRI": {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "iso3": "CRI"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments.",
+          "fr": "La Zone de conservation de Guanacaste, inscrite en 1999, a été étendue pour inclure une aire de 15 000 ha, Sta Elena qui appartenait à un particulier. La zone comprend des habitats naturels importants pour la conservation de la diversité biologique, notamment les meilleurs habitats de forêt sèche de la zone allant de l’Amérique centrale au nord du Mexique, ainsi que des habitats clés pour des espèces animales et végétales rares ou menacées. Sur ce site se déroulent des processus écologiques importants tant dans les milieux terrestres que côtiers ou marins.",
+          "es": "Inscrito en la Lista del Patrimonio Mundial en 1999, este sitio se amplió posteriormente, para abarcar la zona de Santa Elena, una zona suplementaria de 15.000 hectáreas perteneciente a un particular. El área de conservación posee hábitats naturales importantes para la preservación de la diversidad biológica. Entre ellos figuran los mejores hábitats de bosque seco de toda la región que se extiende desde Centroamérica al norte de México, así como otros que son esenciales para la conservación de especies animales y vegetales, raras o en peligro de extinción. En este sitio tienen lugar procesos ecológicos de gran importancia, tanto en el medio ambiente terrestre como en el costero y marino.",
+          "ru": "Территория, характеризующаяся высоким биоразнобразием, включает участки сухих тропических лесов – ярких образцов экосистем данного типа на пространстве от Центральной Америки и до севера Мексики. Здесь сохраняются ключевые местообитания редких и исчезающих видов растений и животных. В наземных экосистемах, равно как и в прибрежной зоне, можно наблюдать протекание важных экологических процессов. Впервые занесенный в Список всемирного наследия в 1999 г., этот объект в 2004 г. был расширен за счет включения небольшого участка площадью 15 тыс. га в районе залива Санта-Елена.",
+          "ar": "أُدرجت منطقة غواناكاست المحميّة عام 1999 على قائمة التراث العالمي وتوسّع نطاقها ليشمل سنتا إيلينا، وهي مساحة تمتد على 15000 هكتار وكانت ملكاً خاصاً. وتتضمّن المنطقة الموائل الطبيعيّة المهمّة لحماية التنوّع البيولوجي، خصوصاً أفضل موائل الغابة القاحلة في المنطقة الممتدة من أمريكا الوسطى إلى شمال المكسيك والموائل الأساسيّة لأصناف حيوانيّة ونباتيّة نادرة أو مهدّدة. وهذا الموقع هو موئل العمليّات البيئية المهمّة في الأوساط البريّة والساحليّة أو البحريّة.",
+          "zh": "此保护区于1999年被列入世界遗产，现新增一块面积达15 000公顷的私人土地——圣艾雷那(St Elena)。这里有着保护生物多样性的重要自然栖息地，包括从中美洲蔓延到墨西哥北部的最佳旱地森林栖息地，以及一些濒危或珍稀动植物的主要栖息地。这个地方的陆地和海岸环境展示了重要的生态过程。"
+        },
+        "full": "The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments.",
+        "justification": "Brief synthesis The Area de Conservación Guanacaste comprises 147,000 hectares of land and sea in the Northwest of Costa Rica. Encompassing several contiguous protected areas of various categories, the property is a mosaic of diverse ecosystems. The 104,000 hectares of land encompass a continuum of roughly 100 kilometres from the shore of the Pacific to the lowland rainforests in the Caribbean basin. Along the way, the gradient passes a varied coastline, the Pacific coastal lowlands and much of the western side of the Guanacaste Range peaking at Rincón de la Vieja at 1,916 m.a.s.l. The many forest types comprise a large tract of tropical dry forest, an often overlooked, highly vulnerable global conservation priority. Furthermore, there are extensive wetlands, numerous water courses, as well as oak forests and savannahs. The largely intact coastal-marine interface features estuaries, rocks, sandy and cobble beaches rimming the 43,000 hectares of marine area with its various, mostly uninhabited near-shore islands and islets. Major nutrient-rich cold upwelling currents offshore result in an exceptionally high productivity of this part of the Pacific. The visually dramatic landscape mosaic is home to an extraordinary variety of life forms. Next to the approximately 7,000 plant species, more than 900 vertebrate species have been confirmed. Some notable mammals include the endangered Central American Tapir, at least 40 species of bat, numerous primate species and several felids, namely Jaguar, Margay, Jaguarundi and Ocelot. Among some 500 bird species are the endangered Mangrove Hummingbird and Great Green Macaw, as well as the vulnerable Military Macaw and Great Curassow. Diversity of reptiles and amphibians is likewise high with charismatic representatives like the vulnerable American Crocodile and Spectacled Caiman. Several species of sea turtles occur in the property, with a nesting population of the critically endangered Leatherback and a massive breeding population of the vulnerable Olive Ridley. Invertebrate diversity is extraordinary with an estimated 20,000 species of beetles, 13,000 species of ants, bees and wasps and 8,000 species of butterflies and moths. Criterion (ix): A striking feature of Area de Conservación Guanacaste is the wealth of ecosystem and habitat diversity, all connected through an uninterrupted gradient from the Pacific Ocean across the highest peaks to the lowlands on the Caribbean side. Beyond the distinction into land and sea, the many landscape and forest types comprise mangroves, lowland rainforest, premontane and montane humid forest, cloud forest, as well as oak forests and savannahs with evergreen gallery forests along the many water courses. Along the extraordinary transect the property allows migration, genetic exchange and complex ecological processes and interactions at all levels of biodiversity, including between land and sea. The vast dry forest is a rare feature of enormous conservation value, as most dry forests elsewhere in the region are fragmented remnants only. Conservation has permitted the natural restoration of the previously degraded forest ecosystem, today serving again as a safe haven for the many species depending on this acutely threatened ecosystem. Major nutrient-rich cold upwelling currents offshore result in a high marine productivity and are the foundation of a diverse coastal-marine ecosystem containing important coral reefs, algal beds, estuaries, mangroves, sandy and cobble beaches, shore dunes and wetlands. Criterion (x): The property is globally important for the conservation of tropical biological diversity as one of the finest examples of a continuous and well-protected altitudinal transect in the Neotropics along a series of marine and terrestrial ecosystems. The enormous variation in environmental conditions favours a high diversity, with two thirds of all species described for Costa Rica occurring within the relatively compact area. Coexisting in the property, there are more than 7,000 species of plants, as diverse as Mahogany in the lush forests and several species of agaves and cacti in drier areas. Over 900 vertebrates have been confirmed. Some notable mammals include the endangered Central American Tapir, at least 40 species of bat, Jaguar, Margay, Jaguarundi and Ocelot, as well as numerous primate species. Among some 500 bird species are the endangered Mangrove Hummingbird and Great Green Macaw, and the vulnerable Military Macaw. Charismatic representatives of reptiles include the vulnerable American Crocodile and the Spectacled Caiman. Several species of sea turtles occur in the property, with the critically endangered Leatherback nesting and a massive breeding population of the vulnerable Olive Ridley. Invertebrate diversity is extraordinary with an estimated 20,000 species of beetles, 13,000 species of ants, bees and wasps and 8,000 species of butterflies and moths. Integrity The transect from the waters of the Pacific across more than 100 kilometres inland constitutes an impressive altitudinal and climatic range, making the Area de Conservacion Guanacaste an ideal place for the conservation of dynamic ecological and biological processes at the scale of a landscape. This is critical for the range, migration and life cycles of many animal species but also for plants and entire communities expected to respond to changing environmental conditions. The largely intact coastal-marine interface is remarkable, particularly in a region where coasts have disproportionally suffered from human pressure. The Pacific and the connected coastal ecosystems like mangroves, wetlands and estuaries mutually protect each other and the associated biological and ecological processes. The remoteness and the rocky, swampy terrain provide a high degree of natural protection of this interface. The ongoing natural regeneration of the large, previously exploited tropical dry forest ecosystem within the property is an indicator of intact processes, favoured by the size, conservation efforts and functioning interaction with neighbouring ecosystems. Adding to the integrity are several connected protected areas in the vicinity of the property, which help avoid genetic isolation, buffer disturbance and facilitate conservation and natural regeneration. Small peripheral areas are regularly bought and added to the protected area and lend themselves for future incorporation into the property. Protection and Management Requirements Area de Conservacion Guanacaste is a conservation complex comprised of contiguous protected areas which has expanded over time. The property continues to have potential for further extension, which is an explicit management objective. The formal conservation history goes back to 1971 when Santa Rosa National Park was created to conserve a stretch of land and sea of high conservation valuable. Over the years new national parks, a wildlife refuge and an Experimental Forest Station were established and added. Most of the property is state-owned, except for a corridor owned by the parastatal foundation Fundacion de Parques Nacionales. The administrative unit is headed by a Director and under the overall authority of the Ministry of Environment and Energy. Oversight and participation is foreseen through technical, local, as well as regional councils. The integrated management has the dual long-term objective of conservation and restoration. More specifically, management objectives include incorporation of adjacent areas of conservation interest, payment for environmental services schemes; ecological research and outreach programs. The property enjoys a diverse funding structure with both governmental and non-governmental sources. Entrance fees likewise contribute in addition to a heritage fund established through a debt-for-nature swap. Despite the diverse funding structure, additional and sustainable funding schemes are needed to enhance the operational management capacity in the face of mounting challenges. After historic use by local indigenous groups, the remote and economically marginalised region was exploited for around four centuries in opportunistic form. Past human impacts include clearing of forests for pasture, logging and indiscriminate hunting. However, the poor soils, erratic climate and geographic isolation set natural limits to resource use and land conversion which is why no transformation beyond the natural restoration capacity appears to have occurred. On land, current threats stem from agriculture outside the property, namely pollution by pesticides, deviation of water for irrigation and introduced exotic grasses. Other possible developments outside the property requiring careful balancing between negative impacts and benefits include increasing tourism, road construction and hydropower. Fishing by local fishermen have shown a decrease in the size of fish and an increase in the effort required per catch, which constitutes a clear indication of declining populations. Stronger efforts in marine conservation are needed to respond to uncontrolled commercial and sport fishing but also to regulate tourism along the coast."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 147000,
+          "square_km": 1470.0,
+          "square_miles": 594.889,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999,
+            2004
+          ],
+          "extensions": [
+            2004
+          ],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2004,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/273360b543429780079840105676b98b",
+          "filename": "site_0928_0001.jpg",
+          "dimensions": {
+            "width": 436,
+            "height": 630
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113403/site_0928_0001.jpg",
+            "https://whc.unesco.org/document/118608/site_0928_0004.jpg",
+            "https://whc.unesco.org/document/118609/site_0928_0005.jpg",
+            "https://whc.unesco.org/document/118610/site_0928_0006.jpg",
+            "https://whc.unesco.org/document/124365/site_0928_0007.jpg",
+            "https://whc.unesco.org/document/124371/site_0928_0013.jpg",
+            "https://whc.unesco.org/document/124372/site_0928_0014.jpg",
+            "https://whc.unesco.org/document/124373/site_0928_0015.jpg",
+            "https://whc.unesco.org/document/124375/site_0928_0017.jpg",
+            "https://whc.unesco.org/document/136943/site_0928_0018.jpg",
+            "https://whc.unesco.org/document/136944/site_0928_0019.jpg",
+            "https://whc.unesco.org/document/136945/site_0928_0020.jpg",
+            "https://whc.unesco.org/document/136946/site_0928_0021.jpg",
+            "https://whc.unesco.org/document/136947/site_0928_0022.jpg",
+            "https://whc.unesco.org/document/136948/site_0928_0023.jpg",
+            "https://whc.unesco.org/document/136949/site_0928_0024.jpg",
+            "https://whc.unesco.org/document/136950/site_0928_0025.jpg",
+            "https://whc.unesco.org/document/136951/site_0928_0026.jpg",
+            "https://whc.unesco.org/document/136952/site_0928_0027.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Area de Conservación Guanacaste",
+            "ref": "928bis",
+            "latitude": 10.85,
+            "longitude": -85.61666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/928",
+        "unesco_documents": "https://whc.unesco.org/en/list/928/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/928/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/928/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Area de Conservación Guanacaste The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments. The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments. Costa Rica Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "precolumbian_chiefdom_settlements_with_stone_spheres_of_the_diquis",
+      "uuid": "b8a67028-db31-5ae0-85b5-c8b8d5b22494",
+      "unesco_id": "1453",
+      "names": {
+        "en": "Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+        "fr": "Établissements de chefferies précolombiennes avec des sphères mégalithiques du Diquís",
+        "es": "Asentamientos Cacicales Precolombinos con Esferas de Piedra de Diquís",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CRI": {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "iso3": "CRI"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property includes four archaeological sites located in the Diquís Delta in southern Costa Rica, which are considered unique examples of the complex social, economic and political systems of the period AD 500–1500. They contain artificial mounds, paved areas, burial sites and, most significantly, a collection of stone spheres, between 0.7 m and 2.57 m in diameter, whose meaning, use and production remain largely a mystery. The spheres are distinctive for their perfection, number, size and density, and placement in original locations. Their preservation from the looting that befell the vast majority of archaeological sites in Costa Rica has been attributed to the thick layers of sediment that kept them buried for centuries.",
+          "fr": "Ce bien concerne quatre sites archéologiques situés dans le delta du Diquis, au sud du Costa Rica. Ils représentent différentes structures d’établissements de sociétés de chefferie (500-1500 apr. J.-C.) et contiennent des monticules artificiels, des zones pavées, des sites funéraires et, surtout, une collection exceptionnelle de sphères mégalithiques de grande dimension (de 0, 7 à 2,57 m de diamètre). Le fait que leur signification et leur usage restent largement inconnus et que leur processus de fabrication, bien qu’en partie compris, ne puisse être entièrement expliqué, contribue à leur mystère. Ces sphères sont rares par leur perfection et leur grande taille, mais aussi par leur nombre et leur disposition à leurs emplacements d’origine. Leur préservation du pillage qui a frappé la majorité des sites archéologiques du Costa Rica tient aux couches de sédimentation qui les ont enterrés pendant des siècles.",
+          "es": "Este sitio se halla al sur del país y abarca cuatro zonas de vestigios arqueológicos, ubicadas en el delta del río Diquís, que se consideran testimonios excepcionales de los complejos sistemas sociales, económicos y políticos imperantes en el periodo comprendido entre los años 500 y 1.500 de nuestra era. El sitio comprende túmulos, áreas pavimentadas, sepulturas y, en particular, toda una serie de esferas de piedra de 0,7 a 2,57 metros de diámetro cuya fabricación, utilización y significación siguen constituyendo en gran parte un misterio hasta nuestros días. La notable peculiaridad de esas esferas estriba en la perfección de sus formas, así como en su número, tamaño y densidad, y también en el hecho de que se hallan en sus emplazamientos primigenios. La circunstancia de que estos vestigios permanecieran enterrados durante siglos bajo gruesas capas de sedimentos puede explicar que hayan logrado salir indemnes del saqueo de que ha sido víctima la gran mayoría de los sitios arqueológicos costarricenses.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The property includes four archaeological sites located in the Diquís Delta in southern Costa Rica, which are considered unique examples of the complex social, economic and political systems of the period AD 500–1500. They contain artificial mounds, paved areas, burial sites and, most significantly, a collection of stone spheres, between 0.7 m and 2.57 m in diameter, whose meaning, use and production remain largely a mystery. The spheres are distinctive for their perfection, number, size and density, and placement in original locations. Their preservation from the looting that befell the vast majority of archaeological sites in Costa Rica has been attributed to the thick layers of sediment that kept them buried for centuries.",
+        "justification": "Brief synthesis The serial nomination of four archaeological sites (Finca 6, Batambal, El Silencio and Grijalba-2) located in the Diquís Delta in southern Costa Rica illustrates a collection of unique stone spheres located in chiefdom settlement structures of the Precolumbian period. The four sites represent different settlement structures of chiefdom societies (500-1500 CE) containing artificial mounds, paved areas and burial sites. Special objects of wonder and admiration are the distinctive Diquís stone spheres, which are rare in their perfection of large-sized (up to 2.57m diameter) spherical structures but are also distinct for their number and location in their original positions within residential areas. Criterion (iii): The Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís illustrate the physical evidence of the complex political, social and productive structures of the Precolumbian hierarchical societies. The chiefdoms which inhabited the Diquís Delta created hierarchical settlements expressing the division of different levels of power centres, presented by the different serial components. Likewise, the exceptional stone spheres, which continue to leave researchers speculating about the method and tools of their production, represent an exceptional testimony to the artistic traditions and craft capabilities of these Precolumbian societies. Integrity The four property components contribute specific elements which allow for the understanding of the chiefdom settlement structures. Finca 6 is the only site retaining stone spheres in linear arrangements, Batambal is the only chiefdom settlement visible from a far distance, El Silencio contains the largest single stone sphere ever found, and Grijalba-2 site is unique for its use of limestone and its distinctive characteristics as a subordinate centre, as opposed to the Finca 6 site, which was likely a principal centre. All four sites show to differing degrees signs of the negative impact of past agricultural development and looting of archaeological sites. However, the material which remains preserved in situ is significant enough to express the different aspects of Outstanding Universal Value. Batambal site is located in close proximity to dwellings and might be negatively impacted by future urban development. In addition, two large development projects, the Diquís Hydroelectric Dam and the Southern International Airport, are currently being discussed. The State Party has committed to undertaking Heritage Impact Assessments (HIA’s) for both projects and given assurances that it will give full consideration and priority to preventing impacts on the Outstanding Universal Value, if either of the projects are to be implemented. Authenticity Previous excavations were limited to test sections and most excavation pits have been reburied following the completion of archaeological recording. As a result, the authenticity of the property with regard to design, material, substance, location and workmanship is satisfactory. A challenge for retaining authenticity of setting is the lack of knowledge of the extent of forest clearance during Precolumbian times, which increases the difficulties in judging sight relations between different structures and landscape elements that contribute to the site’s original setting. Finca 6 site also contains a collection of stone spheres confiscated following previous looting, the original locations of which mostly remain unknown. To distinguish those stone spheres which are in their authentic locations from those which have been relocated, it would need to be indicated more clearly that these spheres are no longer presented in their original position. Protection and Management requirements The four components are protected as archaeological sites of public interest according to Law No 6703 on National Archaeological Heritage. This constitutes the highest possible protection for an archaeological site at national level. In addition, the stone sphere settlements proposed in this nomination received legal protection in addition to the highest national level through Presidential Decree 36825-C, which highlights their intended future status as World Heritage Sites. The legislation attributes exclusive legal authority over the archaeological sites to the State, represented by the National Archaeological Commission and the National Museum. The legal protection of the four component sites is exemplary and complete. To ensure equally high legal protection of the buffer zones, their integration in the new Regulatory Plan for Osa County needs to be finalized. The management of the four site components is overseen and coordinated by the National Museums of Costa Rica. This institution is supported by an Advisory Council for this specific task. The State Party submitted a Management Plan in February 2014, which outlines the vision and strategic objectives for site management for a period of up to 6 years. It is envisaged to complete necessary conservation activities at all four component sites and provide visitor interpretation and presentation as well as facilitate future accessibility to the three sites not yet open to the public, Batambal, Grijalba-2 and El Silencio. It seems essential for the success of the management plan implementation that the financial and human resources required for the administration and management of all four site components will be available to the National Museums of Costa Rica, to allow for site managers and guardians to be present on site. For the future protection and conservation of the Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís it also seems essential that Heritage Impact Assessments are undertaken for any proposed developments which might have the potential to negatively impact the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 24.73,
+          "square_km": 0.25,
+          "square_miles": 0.1,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/28580435c992ef635f06d922fae592c9",
+          "filename": "site_1453_0006-500-0-20221125094052.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 281
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/129574/site_1453_0006.jpg",
+            "https://whc.unesco.org/document/136527/site_1453_0010.jpg",
+            "https://whc.unesco.org/document/129569/site_1453_0001.jpg",
+            "https://whc.unesco.org/document/129570/site_1453_0002.jpg",
+            "https://whc.unesco.org/document/129571/site_1453_0003.jpg",
+            "https://whc.unesco.org/document/129572/site_1453_0004.jpg",
+            "https://whc.unesco.org/document/129573/site_1453_0005.jpg",
+            "https://whc.unesco.org/document/129575/site_1453_0007.jpg",
+            "https://whc.unesco.org/document/129576/site_1453_0008.jpg",
+            "https://whc.unesco.org/document/136526/site_1453_0009.jpg",
+            "https://whc.unesco.org/document/136528/site_1453_0011.jpg",
+            "https://whc.unesco.org/document/136529/site_1453_0012.jpg",
+            "https://whc.unesco.org/document/136530/site_1453_0013.jpg",
+            "https://whc.unesco.org/document/136531/site_1453_0014.jpg",
+            "https://whc.unesco.org/document/136532/site_1453_0015.jpg",
+            "https://whc.unesco.org/document/136533/site_1453_0016.jpg",
+            "https://whc.unesco.org/document/136534/site_1453_0017.jpg",
+            "https://whc.unesco.org/document/136535/site_1453_0018.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Finca 6",
+            "ref": "1453-001",
+            "latitude": 8.910732,
+            "longitude": -83.478855
+          },
+          {
+            "name": "Batambal",
+            "ref": "1453-002",
+            "latitude": 8.967702,
+            "longitude": -83.473841
+          },
+          {
+            "name": "Grijalba-2",
+            "ref": "1453-004",
+            "latitude": 8.9819416667,
+            "longitude": -83.5227777778
+          },
+          {
+            "name": "El Silencio",
+            "ref": "1453-003",
+            "latitude": 8.9511055556,
+            "longitude": -83.4411055555
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1453",
+        "unesco_documents": "https://whc.unesco.org/en/list/1453/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1453/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1453/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís The property includes four archaeological sites located in the Diquís Delta in southern Costa Rica, which are considered unique examples of the complex social, economic and political systems of the period AD 500–1500. They contain artificial mounds, paved areas, burial sites and, most significantly, a collection of stone spheres, between 0.7 m and 2.57 m in diameter, whose meaning, use and production remain largely a mystery. The spheres are distinctive for their perfection, number, size and density, and placement in original locations. Their preservation from the looting that befell the vast majority of archaeological sites in Costa Rica has been attributed to the thick layers of sediment that kept them buried for centuries. The property includes four archaeological sites located in the Diquís Delta in southern Costa Rica, which are considered unique examples of the complex social, economic and political systems of the period AD 500–1500. They contain artificial mounds, paved areas, burial sites and, most significantly, a collection of stone spheres, between 0.7 m and 2.57 m in diameter, whose meaning, use and production remain largely a mystery. The spheres are distinctive for their perfection, number, size and density, and placement in original locations. Their preservation from the looting that befell the vast majority of archaeological sites in Costa Rica has been attributed to the thick layers of sediment that kept them buried for centuries. Costa Rica Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "talamanca_range_la_amistad_reserves_la_amistad_national_park",
+      "uuid": "0015d9db-e9e6-5049-90f7-c2ef87204108",
+      "unesco_id": "205",
+      "names": {
+        "en": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+        "fr": "Réserves de la cordillère de Talamanca-La Amistad / Parc national La Amistad",
+        "es": "Reservas de la Cordillera de Talamanca–La Amistad /Parque Nacional de la Amistad",
+        "ru": "Резерваты Таламанка-Рейндж и Ла-Амистад",
+        "ar": "محميّات سلسلة جبال تالامنكا – لا أميستاد/ منتزه لا أميستدا الوطني",
+        "zh": "塔拉曼卡仰芝－拉阿米斯泰德保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          },
+          "CRI": {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "iso3": "CRI"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama.",
+          "fr": "Dans cet unique endroit de l'Amérique centrale où les glaciations du quaternaire ont laissé leur marque, une situation géographique particulière a permis des échanges génétiques entre la faune et la flore de l'Amérique du Nord et celles de l'Amérique du Sud. Des forêts tropicales couvrent la plus grande partie du site. Quatre tribus indiennes différentes habitent ce site, qui bénéficie d'une étroite coopération entre le Costa Rica et le Panamá.",
+          "es": "La ubicación geográfica de este sitio excepcional de Centroamérica –que conserva huellas de las glaciaciones de la Era Cuaternaria– ha facilitado el contacto entre la flora y la fauna de América del Norte y América del Sur. La mayor parte de la superficie de esta región, habitada por cuatro tribus indígenas distintas, está cubierta por bosques lluviosos tropicales. La conservación del sitio es objeto de una estrecha cooperación entre Costa Rica y Panamá.",
+          "ru": "Этот уникальный уголок Центральной Америки, служивший мостом для соприкосновения флоры и фауны Северной Америки и Южной Америки, располагается там, где четвертичный ледник оставил свои следы. На этой территории, большая часть которой покрыта влажно-тропическими лесами, проживают четыре индейских племени.",
+          "ar": "في هذا الموقع الفريد من نوعه في أمريكا الوسطى حيث خلّف جليد الدهر الرابع بصماته، موقع جغرافي فريدٌ من نوعه سمح بالتبادل الجيني بين أصناف أمريكا الشماليّة والجنوبيّة النباتيّة والحيوانيّة. وتغطّي غابات استوائيّة الجزء الأكبر من الموقع. وتقطن قبائل هنديّة مختلفة أربعة في هذا الموقع الذين يفيد من تعاونٍ وثيقٍ بين كوستاريكا وباناما.",
+          "zh": "这一独特的遗址位于中美洲，这里有第四纪冰川的痕迹，北美和南美的动植物在这里杂植。热带雨林覆盖了大部分地区。四个不同的印第安部落生活在这片土地上，他们从哥斯达黎加与巴拿马的密切合作中受益匪浅。"
+        },
+        "full": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama.",
+        "justification": "Brief synthesis The Talamanca Range-La Amistad Reserves / La Amistad National Park extends along the border between Panama and Costa Rica. The transboundary property covers large tracts of the highest and wildest non-volcanic mountain range in Central America and is one of that region's outstanding conservation areas. The Talamanca Mountains contain one of the major remaining blocks of natural forest in Central America with no other protected area complex in Central America containing a comparable altitudinal variation. The property has many peaks exceeding 3,000 m.a.s.l. on both sides of the border, including Cerro Chirripo, the highest elevation in Costa Rica and all of southern Central America at 3,819 m.a.s.l. The surface area of the property 570,045 hectares, of which 221,000 hectares are on the Panamanian side. The beautiful and rugged mountain landscape harbours extraordinary biological and cultural diversity. Pre-ceramic archaeological sites indicate that the Talamanca Range has a history of many millennia of human occupation. There are several indigenous peoples on both sides of the border within and near the property. In terms of biological diversity, there is a wide range of ecosystems, an unusual richness of species per area unit and an extraordinary degree of endemism. The scenic mountains and foothills contain impressive footprints of Quaternary glaciation, such as glacial cirques, lakes and valleys shaped by glaciers, phenomena not found elsewhere in the region. The property is a large and mostly intact part of the land-bridge where the faunas and floras of North and South America have met. The enormous variety of environmental conditions, such as microclimate and altitude leads to an impressive spectrum of ecosystems. The many forest types include tropical lowland rainforest, montane forest, cloud forest and oak forest. Other particularities of major conservation value include high altitude bogs and Isthmus Paramo in the highest elevations, a rare tropical alpine grassland. Longstanding isolation of what can be described as an archipelago of mountain islands has favoured remarkable speciation and endemism. Some 10,000 flowering plants have been recorded. Many of the region's large mammals have important populations within the property, overall 215 species of mammals have been recorded. Around 600 species of birds have been documented, as well as some 250 species of reptiles and amphibians and 115 species of freshwater fish. Most taxonomic groups show a high degree of endemism. The large extension and the transboundary conservation approach entail a great potential for the management and conservation of an extraordinary large-scale mountain ecosystem shared by Costa Rica and Panama. Criterion (vii): The property harbours exceptionally beautiful mountain landscapes. Much of the rugged terrain is covered by vast forests. Within the region, the unusual high altitude grasslands are restricted to the property, allowing extraordinary panoramic views. The remarkable vestiges of Quaternary glaciation add to the particularity of the landscape through the cirques, shapes of valleys and glacial lakes. The Talamanca Range hosts countless rivers and creeks, some of them forming spectacular waterfalls. In addition to scenic values the Talamanca Mountains also have major spiritual value for local communities. Criterion (viii): The Talamanca Range is a very particular sample of the recent geological history of the Central American Isthmus, the relatively narrow strip of land connecting North and South America and separating the Pacific and Atlantic Oceans. The property shows impressive marks of Quaternary glacial activity, which has shaped glacial cirques, glacial lakes and deep, “U”-shaped valleys, which cannot be found anywhere else in Central America. Criterion (ix): As a large and mostly intact part of a geologically young land bridge, what is today the property is a meeting point of flora and fauna coming from North and South America. Many of the original species of the previously disconnected sub-continents reach their distribution boundaries in the Talamanca Mountains. Jointly with the climatic variation, the complex relief and huge altitudinal range and heterogeneity of many other environmental conditions this biogeographic location has resulted in a complex mosaic of ecosystems and habitats of global importance for conservation and science. The mosaic includes oak forests, different types of tropical rainforest, cloud forest and the rare high altitude bogs and grasslands. The latter, referred to as “Isthmus Paramo”, is regionally restricted to the property and extremely rich in endemic species. Evolutionary processes triggered a speciation with extraordinary levels of endemism across numerous taxonomic groups. Many endemic species are restricted to single peaks of the mountain range. Ecologically, these peaks can be compared to islands of an archipelago. Criterion (x): The property boasts an exuberant biological diversity of both flora and fauna with an elevated degree of endemism across numerous taxonomic groups, often exceeding one third of the species within a taxonomic group. The Talamanca Mountains host some 10,000 flowering plants and over 4,000 non-vascular plants. There are approximately 1,000 fern species and about 900 species of lichen. Many of the region's large mammals have important populations within the property; overall 215 species of mammals have been recorded. The property hosts viable populations of many rare, vulnerable and endangered species, which include all cat species of Central America, the endangered species Ornate Spider Monkey and Central American Tapir, as well as the vulnerable Black-crowned Central American Squirrel Monkey. Some 600 bird species include the resplendent Quetzal and several species of rare raptors. Other vertebrates include some 250 species of reptiles and amphibians and remarkable 115 species of freshwater fish. Of the amphibians, six species are restricted to the Cordillera, such as the endangered Splendid Poison Frog. Integrity The property comprises large parts of the Talamanca Mountains, including essential areas to maintain the visual integrity of the area's landscape beauty. The size and relative intactness enables the long term continuation of the processes that have shaped the ecosystems and habitats and their associated biological diversity. The rugged terrain, difficult access and the formal protection status have kept human impacts at bay. The vast transboundary complex of protected areas encompasses many environmental gradients, including an impressive altitudinal gradient. Thereby, the property offers a valuable opportunity for the conservation of viable populations of species requiring large ranges and habitat diversity in order to perform daily, seasonal or altitudinal migrations. The anticipated climate change casts a shadow on the property. At the same time, due to the size and altitudinal range, the property is expected to be more resilient than smaller, isolated protected areas. Despite the protection status, some threats are tangible or on the horizon and might impact on the integrity in the long term, therefore requiring careful attention. These include forest fires, illegal extraction of flora and fauna, encroachment and infrastructure plans. Protection and management requirements Following up on a joint declaration by the Presidents of the two countries in 1979, Costa Rica nominated several contiguous protected areas, which were inscribed on the World Heritage List in 1983. In 1990, Panama's adjacent La Amistad National Park was inscribed on the World Heritage List as an extension to the Costa Rican property, thereby forming one of the very few transboundary World Heritage properties, an excellent intergovernmental framework for coordinated and cooperative management and conservation. The bi-national Transboundary Protected Area Technical Commission monitors the agreement and steers negotiations between the many private and public groups and agencies active in Talamanca. In both countries, there is a strong legal and institutional framework for the protection and management of the individual protected areas, which belong to various categories. In this sense, management is under the authority of the national environmental authorities of both countries, which is also the source of basic financing. At the same time, there are many initiatives at the local level with the support of many conservation groups, including as regards financing. One of the particularities and indeed values of the property is the large size and composition of many contiguous components across an international border. This signifies a major potential in terms of securing the continuity of the ecological processes at the landscape level, but also a continuous challenge. Insufficient funding in the past has resulted in shortcomings in terms of staff, equipment and infrastructure. More importantly, broader developments on both sides of the international border require attention to prevent deterioration or loss of the property's exceptional conservation values. There is encroachment along the advancing agricultural frontier for subsistence, plantations and cattle ranching, particularly along the Pacific slopes and along roads. Past encroachment has facilitated settlements, logging, forest fires, grazing, fishing and poaching, illegal extraction of flora and fauna, all jointly fragmenting the forests and deteriorating the natural resources. A balance must also be sought and maintained between the traditional but dynamic livelihood systems of indigenous residents with resource use including free-range grazing, hunting, fishing and collection of medicinal plants. Other documented challenges include the looting of archaeological sites and unregulated tourism. It is indispensable to involve the resource-dependent local and indigenous communities in the management. Zonation and the definition of a buffer zone for the property are promising instruments to this effect. Major projects foreseen in and around the property include oil exploration, mining copper mining, hydropower, transmission lines, and road construction, all requiring full consideration of social and ecological impacts. The existing alliance between the governments of Panama and Costa Rica requires consolidation, with harmonized management frameworks at the landscape level"
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(vii)(viii)(ix)(x)",
+          "count": 4,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 570045,
+          "square_km": 5700.45,
+          "square_miles": 2306.894,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983,
+            1990
+          ],
+          "extensions": [
+            1990
+          ],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1990,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/76faacdce3aecef7422355489c713c80",
+          "filename": "site_0205_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109132/site_0205_0001.jpg",
+            "https://whc.unesco.org/document/109133/site_0205_0002.jpg",
+            "https://whc.unesco.org/document/109134/site_0205_0003.jpg",
+            "https://whc.unesco.org/document/109135/site_0205_0004.jpg",
+            "https://whc.unesco.org/document/109136/site_0205_0005.jpg",
+            "https://whc.unesco.org/document/120522/site_0205_0008.jpg",
+            "https://whc.unesco.org/document/131952/site_0205_0009.jpg",
+            "https://whc.unesco.org/document/131953/site_0205_0010.jpg",
+            "https://whc.unesco.org/document/131954/site_0205_0011.jpg",
+            "https://whc.unesco.org/document/131955/site_0205_0012.jpg",
+            "https://whc.unesco.org/document/131956/site_0205_0013.jpg",
+            "https://whc.unesco.org/document/131957/site_0205_0014.jpg",
+            "https://whc.unesco.org/document/136933/site_0205_0015.jpg",
+            "https://whc.unesco.org/document/136934/site_0205_0016.jpg",
+            "https://whc.unesco.org/document/136935/site_0205_0017.jpg",
+            "https://whc.unesco.org/document/136936/site_0205_0018.jpg",
+            "https://whc.unesco.org/document/136937/site_0205_0019.jpg",
+            "https://whc.unesco.org/document/136938/site_0205_0020.jpg",
+            "https://whc.unesco.org/document/136939/site_0205_0021.jpg",
+            "https://whc.unesco.org/document/136940/site_0205_0022.jpg",
+            "https://whc.unesco.org/document/136941/site_0205_0023.jpg",
+            "https://whc.unesco.org/document/136942/site_0205_0024.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+            "ref": "205bis",
+            "latitude": 9.407083333,
+            "longitude": -82.93880556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/205",
+        "unesco_documents": "https://whc.unesco.org/en/list/205/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/205/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/205/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Talamanca Range-La Amistad Reserves / La Amistad National Park The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama. The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama. Panama Costa Rica Latin America and the Caribbean Natural"
+    }
+  ]
+}

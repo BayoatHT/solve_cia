@@ -1,0 +1,1743 @@
+{
+  "country": {
+    "code": "ISR",
+    "name": "Israel"
+  },
+  "total_sites": 9,
+  "sites_by_category": {
+    "Cultural": 9,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "biblical_tels_megiddo_hazor_beer_sheba",
+      "uuid": "166b30aa-944c-5424-8d44-355b4d0dd011",
+      "unesco_id": "1108",
+      "names": {
+        "en": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+        "fr": "Tels bibliques – Megiddo, Hazor, Beer-Sheba",
+        "es": "“Tells” bíblicos – Megido, Hazor y Beer Sheba",
+        "ru": "Библейские холмы – Мегиддо, Хацор, Беэр-Шева",
+        "ar": "التلال التوراتية – مجيدو، هازور وبير سبع",
+        "zh": "米吉多、夏琐和基色圣地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes.",
+          "fr": "Les tels, des tertres préhistoriques de peuplement, sont caractéristiques des plaines de la Méditerranée orientale, notamment du Liban, de la Syrie, d’Israël et de l’est de la Turquie. Sur plus de 200 tels en Israël, Megiddo, Hazor et Beer-Sheba sont représentatifs de ceux qui abritent d’importants vestiges de cités aux liens bibliques. Ces trois tels présentent également quelques-uns des plus beaux exemples de systèmes d’adduction d’eaux souterraines dans le Levant, datant de l’âge du fer, très élaborés et créés pour desservir de denses communautés urbaines. Les traces de leur construction au cours des millénaires reflètent l’existence d’une autorité centralisée, d’une agriculture prospère et du contrôle de routes commerciales importantes.",
+          "es": "Los “tells” –montículos con vestigios de asentamientos humanos prehistóricos– son característicos de las llanuras del Mediterráneo oriental y abundan en el Líbano, Siria, Israel y el este de Turquía. De los dos centenares de “tells” localizados en Israel, los de Megido, Hazor y Beer-Sheba son representativos de los que encierran restos de ciudades con resonancias bíblicas. En estos tres lugares hay vestigios ejemplares de sistemas de aducción de aguas subterráneas construidos a lo largo de milenios y sumamente perfeccionados, cuyos orígenes se remontan a la Edad del Hierro. Fueron creados para abastecer a comunidades urbanas densamente pobladas, lo cual denota la existencia de sociedades que contaban con una autoridad centralizada, vivían de una agricultura próspera y controlaban rutas comerciales importantes.",
+          "ru": "«Теллы», или холмы, образованные культурными наслоениями в местах расположения древних поселений, характерны для равнин Восточного Средиземноморья, особенно в Ливане, Сирии, Израиле и восточной Турции. Среди более чем 200 «теллов» Израиля выделяются Мегиддо, Хацор и Беэр-Шева, где обнаружены следы городов, связанных с библейскими событиями. Эти три «телла» также содержат одни из лучших на Ближнем Востоке образцов подземных водосборных систем, созданных в позднем Железном веке для удовлетворения нужд плотно заселенных городских сообществ. Эти находки спустя целое тысячелетие напоминают о существовании сильной централизованной власти, о процветании сельского хозяйства и о контроле над важными торговыми путями.",
+          "ar": "إن التلال، وهي نوع من الروابي المأهولة القديمة التي ترقى إلى حقبة ما قبل التاريخ، تميز سهول الجزء الشرقي من منطقة المتوسط، لاسيما لبنان وسوريا وإسرائيل وشرق تركيا. ومن بين أكثر من 200 تل في إسرائيل، تؤوي تلال مجيدو، هازور وبير سبع آثاراً هامة لمدن ذات مرجع توراتي. كما توفر هذه التلال الثلاث بعض أجمل النماذج لأنظمة جرّ المياه الجوفية في منطقة المشرق وترقى إلى العصر الحديدي، وهي بالغة التطور وقد أنشئت لتلبية المجموعات السكنية الكثيفة في المدن. كذلك، فإن آثار بنائها على مرّ العصور تعكس وجود سلطة مركزية في تلك الفترة، وزراعة مزدهرة ومراقبة للطرق التجارية الهامة.",
+          "zh": "史前的定居土丘是地中海东部较为平坦的地区的典型特征，特别是黎巴嫩、叙利亚、以色列和东土耳其地区。在以色列超过200个早期居民遗迹中，米吉多、夏琐和基色圣地具有代表性，它们所包含的大量城市遗迹都与圣经相关。这三个圣地同时展示了精制铁器时代的一些最佳例子，以及服务于人口稠密的都市社区的地下水收集系统。具有数千年历史的建筑物反映出了中央集权、繁荣的农业活动和控制主要贸易路线的存在痕迹。"
+        },
+        "full": "Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes.",
+        "justification": "Brief synthesis Historic settlement mounds, known as tels, are characteristic of the flatter lands of the eastern Mediterranean, particularly in Lebanon, Syria, Israel and eastern Turkey. Of more than 200 such mounds in Israel, the three sites of Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections, and are strongly associated with events portrayed in the bible. The three tels extend across the State of Israel; Tel Hazor in the north, near the Sea of Galilee; Tel Megiddo 50 kilometres to the south west; and Tel Beer Sheba near the Negev Desert in the south. The three sites reflect the wealth and power of Bronze and Iron Age cities in the fertile biblical lands. This was based on, and achieved through, a centralized authority that had control of trade routes to the north east and south; connecting Egypt to Syria and Anatolia to Mesopotamia, and the creation and management of sophisticated and technologically advanced water collection systems. Together, these tels reflect the key stages of urban development in the region. They are also representative of the large, multi-layered occupation of single sites that persisted for several millennia until the 6th century BCE, and particularly reflect in their final flowering the formative stages of biblical history from the 12th to 6th century BCE. With their impressive remains of palaces, fortifications and urban planning, they offer key material manifestations of the biblical epoch. The early Bronze Age temple compound at Megiddo is unparalleled for its number of temples, the continuity of cult activity and the record of ritual activity. At Hazor, the ramparts are said to be the best example in the area from southern Turkey to the north of the Negev in Israel. The late Bronze Age palace is the most elaborate in Israel, and one of the best in the Levant. For the Iron Age remains, the elaborate town plan of Beer Sheba and the orthogonal plan of Megiddo have few parallels in the Levant. All three tels have impressive remains of their underground water catchments systems, which demonstrate sophisticated and geographically responsive engineering solutions to water storage. Criterion (ii): The three tels represent an interchange of human values throughout the ancient near-east, forged through extensive trade routes and alliances with other states and manifest in building styles which merged Egyptian, Syrian and Aegean influences to create a distinctive local style. Criterion (iii): The three tels are a testimony to a civilization that has disappeared - that of the Cananean cities of the Bronze Age and the biblical cities of the Iron Age - manifests in their expressions of creativity: town planning, fortifications, palaces, and water collection technologies. Criterion (iv): The Biblical cities reflect the key stages of urban development in the Levant, which exerted a powerful influence on later history of the region. Criterion (vi): The three tels, through their mentions in the Bible, constitute a religious and spiritual testimony of Outstanding Universal Value. Integrity All components of the tels are included in the property. The three tels have preserved substantial remains of cities from the Bronze and Iron Age with biblical connection. Each tel relates to the overall property through its temples, fortifications and gate system, palaces, water systems, town planning and prominence in the Bible. None of the attributes are under threat. Authenticity All three tels have been generally left untouched and intact since their decline, and subsequent abandonment, between the 10th and 4th centuries BCE. Over time they have retained their authenticity, and acquired the characteristic appearance of a conical shape, with a flattish top, protruding above the surrounding countryside. From the beginning of the 20th century Tel Hazor and Tel Megiddo have been the subject of archaeological investigation, with Tel Beer Sheba being first excavated during the 1960's. In the interests of safety and interpretation, some interventions have been made to the water systems at all three sites, but these do not seriously affect the authenticity of the overall system. At Tel Hazor an unconventional approach was taken to dismantle and rebuild a storehouse and residential building elsewhere on site. These two Iron Age buildings had been excavated in the 1950's and had remained exposed to deterioration on an island as excavation work proceeded into earlier archaeological levels. This action was considered justified as it also permitted the completion of the site excavation, and the consolidation of earlier evidence around and beneath the two structures. Protection and management requirements The State of Israel owns the three tels. They are designated National Parks administered by the Israel Nature and Parks Authority (INPA), and protected under the 1998 National Parks, Nature Reserves, National Sites and Memorial Sites Law. Tel Megiddo and Tel Hazor are located in the Northern District, and Tel Beer Sheba in the Southern District, of the INPA. The Planning and Development Forum of the Director General of INPA approves all significant plans regarding activities in the National Parks. In addition, there is an internal World Heritage Site Forum under the chairmanship of the Authority's Director of Archaeology and Heritage. This body coordinates and monitors activities at all the inscribed sites. It is also concerned with their management, and that of those on the Israel Tentative List. In order to achieve a comparable conservation standard across the three sites that comprise the property a comprehensive conservation plan and monitoring programme is desirable."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 96.04,
+          "square_km": 0.96,
+          "square_miles": 0.389,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e9414b940497733abe715af2a5f9266d",
+          "filename": "site_1108_0002-500-0-20151105104316.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 500
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114998/site_1108_0002.jpg",
+            "https://whc.unesco.org/document/170278/site_1108_0003.jpg",
+            "https://whc.unesco.org/document/170279/site_1108_0004.jpg",
+            "https://whc.unesco.org/document/170280/site_1108_0005.jpg",
+            "https://whc.unesco.org/document/170281/site_1108_0006.jpg",
+            "https://whc.unesco.org/document/170282/site_1108_0007.jpg",
+            "https://whc.unesco.org/document/170283/site_1108_0008.jpg",
+            "https://whc.unesco.org/document/170284/site_1108_0009.jpg",
+            "https://whc.unesco.org/document/170285/site_1108_0010.jpg",
+            "https://whc.unesco.org/document/170286/site_1108_0011.jpg",
+            "https://whc.unesco.org/document/170287/site_1108_0012.jpg",
+            "https://whc.unesco.org/document/170288/site_1108_0013.jpg",
+            "https://whc.unesco.org/document/170289/site_1108_0014.jpg",
+            "https://whc.unesco.org/document/170290/site_1108_0015.jpg",
+            "https://whc.unesco.org/document/170291/site_1108_0016.jpg",
+            "https://whc.unesco.org/document/170292/site_1108_0017.jpg",
+            "https://whc.unesco.org/document/170293/site_1108_0018.jpg",
+            "https://whc.unesco.org/document/170294/site_1108_0019.jpg",
+            "https://whc.unesco.org/document/170295/site_1108_0020.jpg",
+            "https://whc.unesco.org/document/170296/site_1108_0021.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Tel Hazor",
+            "ref": "1108-002",
+            "latitude": 33.0163888889,
+            "longitude": 35.5658333333
+          },
+          {
+            "name": "Tel Megiddo",
+            "ref": "1108-001",
+            "latitude": 32.585,
+            "longitude": 35.1841666666
+          },
+          {
+            "name": "Tel Beer Sheba",
+            "ref": "1108-003",
+            "latitude": 31.2447222222,
+            "longitude": 34.8408333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1108",
+        "unesco_documents": "https://whc.unesco.org/en/list/1108/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1108/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1108/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Biblical Tels - Megiddo, Hazor, Beer Sheba Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes. Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "incense_route_desert_cities_in_the_negev",
+      "uuid": "5ac0793c-7049-5c3d-b06f-b0ebffca2c3f",
+      "unesco_id": "1107",
+      "names": {
+        "en": "Incense Route - Desert Cities in the Negev",
+        "fr": "Route de l’encens – Villes du désert du Néguev",
+        "es": "Ruta del incienso – Ciudades del desierto del Neguev",
+        "ru": "«Дорога ладана» – города в пустыне Негев",
+        "ar": "طريق البَخُّور - مدن صحراء النقب",
+        "zh": "熏香之路——内盖夫的沙漠城镇"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associated fortresses and agricultural landscapes in the Negev Desert, are spread along routes linking them to the Mediterranean end of the incense and spice route. Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD. With the vestiges of their sophisticated irrigation systems, urban constructions, forts and caravanserai, they bear witness to the way in which the harsh desert was settled for trade and agriculture.",
+          "fr": "Dans le désert du Néguev, les quatre anciennes villes nabatéennes d’Avdat, Haluza, Mamshit et Shivta, ainsi qu’une série de forteresses et de paysages agricoles, jalonnaient la route par laquelle transitaient l’encens et les épices. Tous ces sites constituent un témoignage du commerce extrêmement rentable de l’encens et de la myrrhe, entre le sud de la péninsule Arabique et la Méditerranée, qui prospéra du IIIe siècle av. J.-C. au IIe siècle apr. J.- C. Leurs vestiges de systèmes d’irrigation extrêmement perfectionnés, de constructions urbaines, de fortins et de caravansérails, témoignent de la façon dont ce désert inhospitalier fut colonisé pour le commerce et l’agriculture.",
+          "es": "En el desierto del Neguev, las cuatro antiguas ciudades nabateas de Avdat, Haluza, Mamshit Kurnub y Shivta, así como una serie de fortalezas y paisajes agrícolas, jalonaban los itinerarios de la ruta por la que transitaban el incienso y las especias hacia su destino final: la cuenca del Mediterráneo. Todos estos sitios constituyen un testimonio del comercio sumamente rentable del incienso y la mirra entre el sur de la Península Arábiga y la cuenca del Mediterráneo, que floreció desde el siglo III a. C. hasta el siglo II d. C. Este sitio conserva vestigios de sistemas de irrigación extremadamente perfeccionados, de construcciones urbanas, de fortines y de caravasares que atestiguan cómo el hombre logró asentarse en estas tierras desérticas inhóspitas y desarrollar la agricultura y el comercio en ellas.",
+          "ru": "Четыре древних набатейских города – Халуза, Мамшит, Авдат и Шивта, вместе с окрестными крепостями и сельскохозяйственными ландшафтами в пустыне Негев, расположены вдоль дороги, по которой перевозили к Средиземному морю ладан и пряности. Все вместе эти объекты свидетельствуют о процветавшей в период с III в. до н.э. по II в. н.э. торговле ладаном и миррой, которые вывозились из южной Аравии в Средиземноморье. Следы совершенных оросительных систем, руины городских сооружений, крепостей и караван-сараев показывают, каким образом суровая пустыня осваивалась людьми, вознамерившимися заниматься здесь торговлей и развивать сельское хозяйство.",
+          "ar": "في صحراء النقب، كانت مدن الأنباط القديمة الأربع أفدت وحلوزا وممشيت وشيفتا، بالإضافة إلى سلسلة من الحصون والمناظر الزراعية المتنوعة، منتشرة على طريق عبور البَخُّور والتوابل. وتشهد هذه المواقع كلها على تجارة البَخُّور والكندر (المرّ) المربحة جداً بين جنوب شبه الجزيرة العربية ومنطقة المتوسط، وهي تجارة ازدهرت من القرن الثالث قبل المسيح حتى القرن الثاني ب.م. كما تظهر آثار أنظمة الري المتطورة وأبنية المدن والحصون وخانات القوافل الأسلوب الذي جرى من خلاله استيطان هذه الصحراء الموحشة لصالح التجارة والزراعة.",
+          "zh": "那巴提人的四个城镇哈鲁扎(Haluza)、曼席特(Mamshit)、阿伏达特(Avdat)和席伏塔(Shivta)，以及内盖夫沙漠的相关堡垒和农业景观，分布在通往地中海端的熏香之路两边。它们共同反映了自公元前3世纪起到公元2世纪间从阿拉伯南部到地中海地区乳香和没药贸易的巨大繁荣景象。复杂的灌溉系统、城市建筑、城堡和商队旅馆等遗迹，见证着条件艰苦的沙漠发展成为贸易和农业定居点的过程。"
+        },
+        "full": "The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associated fortresses and agricultural landscapes in the Negev Desert, are spread along routes linking them to the Mediterranean end of the incense and spice route. Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD. With the vestiges of their sophisticated irrigation systems, urban constructions, forts and caravanserai, they bear witness to the way in which the harsh desert was settled for trade and agriculture.",
+        "justification": "Brief synthesis The Incense Route was a network of trade routes extending over two thousand kilometres to facilitate the transport of frankincense and myrrh from the Yemen and Oman in the Arabian Peninsula to the Mediterranean. The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, with their associated fortresses and agricultural landscapes linking them to the Mediterranean are situated on a segment of this route, in the Negev Desert, in southern Israel. They stretch across a hundred-kilometre section of the desert, from Moa on the Jordanian border in the east to Haluza in the northwest. Together they reflect the hugely profitable trade in Frankincense from south Arabia to the Mediterranean, which flourished from the third century BCE until the second century CE, and the way the harsh desert was colonised for agriculture through the use of highly sophisticated irrigation systems. Ten of the sites (four towns - Haluza, Mamshit, Avdat and Shivta; four fortresses - Kazra, Nekarot, Makhmal, and Grafon; and the two caravanserai of Moa and Saharonim) lie along, or near to, the main trade route from Petra, capital of the Nabatean Empire in Jordan, to the Mediterranean ports. The town of Mamshit straddles the northern parallel route. Combined, the route, and the desert cities along it, reflect the prosperity of the Nabatean incense trade over a seven hundred year period, from the 3rd century BCE to the 4nd century CE. The towns were supported by extremely sophisticated systems of water collection and irrigation that allowed large-scale agriculture. These included dams, channelling, cisterns and reservoirs. Evidence of all these features is widespread around Avdat and central Negev, as are the remains of ancient field systems strung along riverbeds and hill slopes. The property displays an all-embracing picture of Nabatean town planning and building technology over five centuries. The combination of towns, and their associated agricultural and pastoral landscapes, present a complete fossilized cultural environment. The remains of the Nabatean desert settlements and agricultural landscapes presents a testimony to the economic power of frankincense in fostering a long desert supply- route from Arabia to the Mediterranean in Hellenistic-Roman times, which promoted the development of towns, forts and caravanserais to control and manage that route. They also display an extensive picture of Nabatean technology over five centuries in town planning and building and bear witness to the innovation and labour necessary to create an extensive and sustainable agricultural system in harsh desert conditions, reflected particularly in the sophisticated water conservation constructions. Criterion (iii): The Nabatean towns and their trade routes bear eloquent testimony to the economic, social and cultural importance of frankincense to the Hellenistic-Roman world. The routes also provided a means of passage not only for frankincense and other trade goods but also for people and ideas. Criterion (v): The almost fossilized remains of towns, forts, caravanserais and sophisticated agricultural systems strung out along the Incense Route in the Negev desert, display an outstanding response to a hostile desert environment and one that flourished for five centuries. Integrity The towns and forts combined with their trade routes and their agricultural hinterland, in all they provide a very complete picture of the Nabatean desert civilisation strung along a trade route. Remains of all the elements that comprised the settlements - towns, forts, caravanserais, and agricultural landscapes are within the boundaries. The limited development of the region has given the sites considerable protection from development. None of the attributes are under threat. Authenticity The remains of the towns, fortresses and caravanserais and landscapes mostly express well the outstanding universal value of the property as reflecting and exemplifying the prosperity of the Nabatean incense trade. It is acknowledged that the cities of Mamshit and Haluza have previously been subjected to earlier interventions that threatened their authenticity. As part of the current management action, the inappropriate reconstructions in Mamshit, which were based on a scenographic intention rather than a scientific approach, were removed in 2005. And, excavations at Haluza, partly left without sufficient post-excavation consolidation, were backfilled during 2005 - 2006. Protection and management requirements All of the nominated property is State owned. It is protected by national legislation, with all the component parts either being within designated national parks or nature reserves. The Israel Nature and Parks Authority manage the property on a daily basis, and the Israel Antiquities Authority manages the conservation and excavation activities on the designated structures. All finance comes from the Israel Nature and Parks Authority budget, supported by site income, sales and government subsidy. The four towns each have specifically designated allocations. In low-income years, funds are spent only on maintenance and protection, with conservation subsequently taking place as external funding becomes available. There is a need for a continuing comprehensive archaeological strategy for the whole property and also for each of the major towns to cover archaeological research, non-destructive recording and approaches to stabilization and repair."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 6655,
+          "square_km": 66.55,
+          "square_miles": 26.932,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/fdea85ff64532f1e12a3c83ff3ce24a6",
+          "filename": "site_1107_0003-500-0-20131029153915.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/125545/site_1107_0003.jpg",
+            "https://whc.unesco.org/document/125546/site_1107_0004.jpg",
+            "https://whc.unesco.org/document/125547/site_1107_0005.jpg",
+            "https://whc.unesco.org/document/125548/site_1107_0006.jpg",
+            "https://whc.unesco.org/document/125549/site_1107_0007.jpg",
+            "https://whc.unesco.org/document/125550/site_1107_0008.jpg",
+            "https://whc.unesco.org/document/170298/site_1107_0009.jpg",
+            "https://whc.unesco.org/document/170299/site_1107_0010.jpg",
+            "https://whc.unesco.org/document/170300/site_1107_0011.jpg",
+            "https://whc.unesco.org/document/170301/site_1107_0012.jpg",
+            "https://whc.unesco.org/document/170302/site_1107_0013.jpg",
+            "https://whc.unesco.org/document/170303/site_1107_0014.jpg",
+            "https://whc.unesco.org/document/170304/site_1107_0015.jpg",
+            "https://whc.unesco.org/document/170305/site_1107_0016.jpg",
+            "https://whc.unesco.org/document/170306/site_1107_0017.jpg",
+            "https://whc.unesco.org/document/170307/site_1107_0018.jpg",
+            "https://whc.unesco.org/document/170308/site_1107_0019.jpg",
+            "https://whc.unesco.org/document/170309/site_1107_0020.jpg",
+            "https://whc.unesco.org/document/170310/site_1107_0021.jpg",
+            "https://whc.unesco.org/document/170311/site_1107_0022.jpg",
+            "https://whc.unesco.org/document/170312/site_1107_0023.jpg",
+            "https://whc.unesco.org/document/170313/site_1107_0024.jpg",
+            "https://whc.unesco.org/document/170314/site_1107_0025.jpg",
+            "https://whc.unesco.org/document/170315/site_1107_0026.jpg",
+            "https://whc.unesco.org/document/170316/site_1107_0027.jpg",
+            "https://whc.unesco.org/document/170317/site_1107_0028.jpg",
+            "https://whc.unesco.org/document/170318/site_1107_0029.jpg",
+            "https://whc.unesco.org/document/170319/site_1107_0030.jpg",
+            "https://whc.unesco.org/document/170320/site_1107_0031.jpg"
+          ],
+          "count": 29
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Haluza",
+            "ref": "1107-002",
+            "latitude": 31.0966666666,
+            "longitude": 34.6547222222
+          },
+          {
+            "name": "Shivta",
+            "ref": "1107-004",
+            "latitude": 30.8811111111,
+            "longitude": 34.6305555556
+          },
+          {
+            "name": "Mamshit",
+            "ref": "1107-003",
+            "latitude": 31.0255555556,
+            "longitude": 35.0644444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1107",
+        "unesco_documents": "https://whc.unesco.org/en/list/1107/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1107/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1107/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Incense Route - Desert Cities in the Negev The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associated fortresses and agricultural landscapes in the Negev Desert, are spread along routes linking them to the Mediterranean end of the incense and spice route. Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD. With the vestiges of their sophisticated irrigation systems, urban constructions, forts and caravanserai, they bear witness to the way in which the harsh desert was settled for trade and agriculture. The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associated fortresses and agricultural landscapes in the Negev Desert, are spread along routes linking them to the Mediterranean end of the incense and spice route. Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD. With the vestiges of their sophisticated irrigation systems, urban constructions, forts and caravanserai, they bear witness to the way in which the harsh desert was settled for trade and agriculture. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "caves_of_maresha_and_bet_guvrin_in_the_judean_lowlands_as_a_microcosm_of_the_land_of_the_caves",
+      "uuid": "8513a790-243f-5e20-b323-b2204b0e3fe5",
+      "unesco_id": "1370",
+      "names": {
+        "en": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves",
+        "fr": "Les grottes de Maresha et de Bet-Guvrin en basse Judée, un microcosme du pays des grottes",
+        "es": "Cuevas de Maresha y Bet Guvrin en la Baja Judea – Microcosmos de la Tierra de las Cuevas",
+        "ru": "Пещеры Мареши и Бейт Гуврина в Иудейской долине как микрокосм Земли пещер",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The archaeological site contains some 3,500 underground chambers distributed among distinct complexes carved in the thick and homogenous soft chalk of Lower Judea under the former towns of Maresha and Bet Guvrin. Situated on the crossroads of trade routes to Mesopotamia and Egypt, the site bears witness to the region’s tapestry of cultures and their evolution over more than 2,000 years from the 8th century BCE—when Maresha, the older of the two towns was built—to the time of the Crusaders. These quarried caves served as cisterns, oil presses, baths, columbaria (dovecotes), stables, places of religious worship, hideaways and, on the outskirts of the towns, burial areas. Some of the larger chambers feature vaulted arches and supporting pillars.",
+          "fr": "Le site archéologique comprend quelque 3500 chambres souterraines réparties en districts distincts creusés dans un sous-sol de calcaire crayeux épais et homogène en Basse Judée, sous les anciennes villes de Maresha et Bet Guvrin. Situé au carrefour des routes de commerce de Mésopotamie et d’Egypte, le site témoigne de la mosaïque de cultures de la région et de leur évolution sur plus de 2000 ans, du 8è siècle av. J.C., lorsque Maresha – la plus ancienne des deux villes – fut construite, jusqu’à l’époque des Croisés. Ces caves servaient de citernes, de moulin à huile, de bains, de colombiers, d’étable, de lieux de culte, d’abris pour les périodes de troubles et, à la périphérie des villes, de zones funéraires. Certaines des chambres les plus vastes présentent des voutes en arche et leur piliers de soutènement.",
+          "es": "El sitio arqueológico comprende unas 3.500 cámaras subterráneas repartidas en distritos distintos excavados en un subsuelo de caliza blanda espeso y homogéneo en la Baja Judea, bajo las antiguas ciudades de Maresha y Bet Guvrin. Situado en la encrucijada de las rutas de comercio de Mesopotamia y Egipto, el sitio atestigua del mosaico de culturas de la región y su evolución a lo largo de más de 2.000 años, desde el siglo VIII a. de C., cuando se construyó Maresha, hasta la época de las Cruzadas. Estas cuevas servían como cisternas, almazaras, baños, palomares, establos, lugares de culto y escondites para los tiempos turbulentos y, en la periferia de las ciudades, como zonas funerarias. Algunas de las cámaras más vastas presentan bóvedas con arcos y pilares para sujetarlas.",
+          "ru": "Объект, получивший название «город под городом», представляет собой комплекс искусственных пещер, расположенных в Нижней Иудее под древними городами-побратимами Мареша и Бейт Гуврин. Они вырыты в толстом однородном слое мягкого известняка. Комплекс включает как отдельно расположенные пещеры, так и сети пещер различных форм и назначений, свидетельствуя о том, что пещеры создавались и использовались на протяжении более 2 тысяч лет, с начала железного века до крестовых походов, а также о большом разнообразии методов подземного строительства. Изначально пещеры предназначались для добычи камня, однако позднее они были преобразованы и использовались для различных сельскохозяйственных и ремесленных целей, в том числе в качестве маслодавильных цехов, голубятен, конюшен, подземных цистерн и водоводов, бань, мест захоронения, отправления культа, а также в качестве укрытий в неспокойные времена.",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The archaeological site contains some 3,500 underground chambers distributed among distinct complexes carved in the thick and homogenous soft chalk of Lower Judea under the former towns of Maresha and Bet Guvrin. Situated on the crossroads of trade routes to Mesopotamia and Egypt, the site bears witness to the region’s tapestry of cultures and their evolution over more than 2,000 years from the 8th century BCE—when Maresha, the older of the two towns was built—to the time of the Crusaders. These quarried caves served as cisterns, oil presses, baths, columbaria (dovecotes), stables, places of religious worship, hideaways and, on the outskirts of the towns, burial areas. Some of the larger chambers feature vaulted arches and supporting pillars.",
+        "justification": "Brief synthesis The presence in the Judean Lowlands of thick and homogeneous chalk sub-strata enabled numerous caves to be excavated and managed by Man. The property includes a very complete selection of chambers and man-made subterranean networks, of different forms and for different activities. They are situated underneath the ancient twin cities of Maresha and Bet Guvrin, and in the surrounding areas, constituting a “city under a city”. They bear witness to a succession of historic periods of excavation and use, over a period of 2,000 years. Initially the excavations were quarries, but they were later converted for various agricultural and local craft industry purposes, including oil presses, columbaria, stables, underground cisterns and channels, baths, tombs and places of worship, and hiding places during troubled times, etc. With their density, diversified activities, use over two millennia and the quality of their state of preservation, the complexes attain an Outstanding Universal Value. Criterion (v): The underground archaeological site of Maresha–Bet Guvrin is an eminent example of traditional use of chalk subsurface strata, with the development of man-made caves and networks conducive to multiple economic, social and symbolic purposes, from the Iron Age to the Crusades. Integrity The integrity of the property is expressed in the first place by the diversity of the excavations and their arrangements, intended for a variety of economic, social, funerary and symbolic purposes. It is also expressed by the exceptional density of the subterranean structures which are found beneath the ancient twin cities of Maresha and Bet Guvrin. The integrity of the property also concerns its relations with the outside and the preservation of a landscape of ancient ruins in a well-preserved environment of Mediterranean vegetation. Authenticity The underground structures of Maresha–Bet Guvrin are authentic. They have been well-preserved, firstly because of the quality of their architectural design at the time of their excavation, then by their maintenance over a long period of use, and finally by a prolonged period of abandonment, filling up naturally over time, which has contributed to their preservation. This authenticity is however relatively fragile, with the risk of infiltrations of water leading to possible collapse of the vaults. It will furthermore be necessary to pursue a policy of low-key restoration, avoiding possible over-interpretation with reconstruction, and ensuring that the necessary technical consolidations are carried out in a way which respects the authenticity perceived by the visitor. Protection and management requirements The management system of the Maresha-Bet Guvrin National Archaeological Park has been in place now for many years and functions efficiently. It is supervised by the Israel Nature and Parks Authority (INPA) and benefits from the Authority’s system of protection, which also covers most of the buffer zone. The regulations concerning this zone are completed by a National Forestry Plan and directives on the limitation of size and height of possible surrounding constructions. The conservation of cultural elements is guaranteed by the Israel Antiquities Authority (IAA), and benefits from specialist assistance for highly technical issues such as the monitoring of the rocks forming the walls and vaults of the threatened caves. The tourism development project is based on a long-standing tradition and is well managed."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 259,
+          "square_km": 2.59,
+          "square_miles": 1.048,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/94208f18854942116c469a86fe8f982c",
+          "filename": "site_1370_0001-500-0-20221125093403.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115124/site_1370_0001.jpg",
+            "https://whc.unesco.org/document/170385/site_1370_0029.jpg",
+            "https://whc.unesco.org/document/129740/site_1370_0002.jpg",
+            "https://whc.unesco.org/document/129741/site_1370_0003.jpg",
+            "https://whc.unesco.org/document/129742/site_1370_0004.jpg",
+            "https://whc.unesco.org/document/129743/site_1370_0005.jpg",
+            "https://whc.unesco.org/document/129744/site_1370_0006.jpg",
+            "https://whc.unesco.org/document/129745/site_1370_0007.jpg",
+            "https://whc.unesco.org/document/129746/site_1370_0008.jpg",
+            "https://whc.unesco.org/document/129747/site_1370_0009.jpg",
+            "https://whc.unesco.org/document/129748/site_1370_0010.jpg",
+            "https://whc.unesco.org/document/129749/site_1370_0011.jpg",
+            "https://whc.unesco.org/document/129750/site_1370_0012.jpg",
+            "https://whc.unesco.org/document/129751/site_1370_0013.jpg",
+            "https://whc.unesco.org/document/129752/site_1370_0014.jpg",
+            "https://whc.unesco.org/document/129753/site_1370_0015.jpg",
+            "https://whc.unesco.org/document/129754/site_1370_0016.jpg",
+            "https://whc.unesco.org/document/129755/site_1370_0017.jpg",
+            "https://whc.unesco.org/document/129756/site_1370_0018.jpg",
+            "https://whc.unesco.org/document/129757/site_1370_0019.jpg",
+            "https://whc.unesco.org/document/129758/site_1370_0020.jpg",
+            "https://whc.unesco.org/document/129759/site_1370_0021.jpg",
+            "https://whc.unesco.org/document/129760/site_1370_0022.jpg",
+            "https://whc.unesco.org/document/129761/site_1370_0023.jpg",
+            "https://whc.unesco.org/document/129762/site_1370_0024.jpg",
+            "https://whc.unesco.org/document/129763/site_1370_0025.jpg",
+            "https://whc.unesco.org/document/170382/site_1370_0026.jpg",
+            "https://whc.unesco.org/document/170383/site_1370_0027.jpg",
+            "https://whc.unesco.org/document/170384/site_1370_0028.jpg",
+            "https://whc.unesco.org/document/170386/site_1370_0030.jpg",
+            "https://whc.unesco.org/document/170387/site_1370_0031.jpg",
+            "https://whc.unesco.org/document/170388/site_1370_0032.jpg",
+            "https://whc.unesco.org/document/170389/site_1370_0033.jpg",
+            "https://whc.unesco.org/document/170390/site_1370_0034.jpg",
+            "https://whc.unesco.org/document/170391/site_1370_0035.jpg",
+            "https://whc.unesco.org/document/170392/site_1370_0036.jpg",
+            "https://whc.unesco.org/document/170393/site_1370_0037.jpg",
+            "https://whc.unesco.org/document/170394/site_1370_0038.jpg",
+            "https://whc.unesco.org/document/170395/site_1370_0039.jpg",
+            "https://whc.unesco.org/document/170396/site_1370_0040.jpg",
+            "https://whc.unesco.org/document/170397/site_1370_0041.jpg",
+            "https://whc.unesco.org/document/170398/site_1370_0042.jpg",
+            "https://whc.unesco.org/document/170399/site_1370_0043.jpg"
+          ],
+          "count": 43
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves",
+            "ref": "1370",
+            "latitude": 31.6011111111,
+            "longitude": 34.9
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1370",
+        "unesco_documents": "https://whc.unesco.org/en/list/1370/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1370/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1370/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves The archaeological site contains some 3,500 underground chambers distributed among distinct complexes carved in the thick and homogenous soft chalk of Lower Judea under the former towns of Maresha and Bet Guvrin. Situated on the crossroads of trade routes to Mesopotamia and Egypt, the site bears witness to the region’s tapestry of cultures and their evolution over more than 2,000 years from the 8th century BCE—when Maresha, the older of the two towns was built—to the time of the Crusaders. These quarried caves served as cisterns, oil presses, baths, columbaria (dovecotes), stables, places of religious worship, hideaways and, on the outskirts of the towns, burial areas. Some of the larger chambers feature vaulted arches and supporting pillars. The archaeological site contains some 3,500 underground chambers distributed among distinct complexes carved in the thick and homogenous soft chalk of Lower Judea under the former towns of Maresha and Bet Guvrin. Situated on the crossroads of trade routes to Mesopotamia and Egypt, the site bears witness to the region’s tapestry of cultures and their evolution over more than 2,000 years from the 8th century BCE—when Maresha, the older of the two towns was built—to the time of the Crusaders. These quarried caves served as cisterns, oil presses, baths, columbaria (dovecotes), stables, places of religious worship, hideaways and, on the outskirts of the towns, burial areas. Some of the larger chambers feature vaulted arches and supporting pillars. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "white_city_of_tel_aviv_the_modern_movement",
+      "uuid": "27f4b518-b7d8-5d73-a976-b4e1ca14631c",
+      "unesco_id": "1096",
+      "names": {
+        "en": "White City of Tel-Aviv – the Modern Movement",
+        "fr": "Ville blanche de Tel-Aviv – le mouvement moderne",
+        "es": "Ciudad Blanca de Tel-Aviv – El Movimiento Moderno",
+        "ru": "Белый город в Тель-Авиве – архитектура «Современного движения»",
+        "ar": "مدينة تل أبيب البيضاء – الحركة العصرية",
+        "zh": "特拉维夫白城——现代运动"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Tel Aviv was founded in 1909 and developed as a metropolitan city under the British Mandate in Palestine. The White City was constructed from the early 1930s until the 1950s, based on the urban plan by Sir Patrick Geddes, reflecting modern organic planning principles. The buildings were designed by architects who were trained in Europe where they practised their profession before immigrating. They created an outstanding architectural ensemble of the Modern Movement in a new cultural context.",
+          "fr": "Tel-Aviv fut fondée en 1909 et s’est développée comme une ville métropolitaine sous le mandat britannique en Palestine. La ville blanche fut construite à partir du début des années 1930 et jusqu’aux années 1950, selon le plan d’urbanisme de sir Patrick Geddes, reflétant les principes de l’urbanisme organique moderne. Les bâtiments furent conçus par des architectes qui avaient immigré après avoir été formés dans divers pays d’Europe et y avoir exercé leur profession. Dans ce lieu et ce nouveau contexte culturel, ils réalisèrent un ensemble exceptionnel d’architecture du mouvement moderne.",
+          "es": "Tel-Aviv fue fundada en 1909 y se desarrolló, a imagen y semejanza de una ciudad metropolitana, en tiempos del mandato británico en Palestina. La llamada Ciudad Blanca se construyó desde principios del decenio de 1930 hasta 1948, con arreglo al trazado diseñado por Sir Patrick Geddes que estaba basado en los principios del urbanismo orgánico moderno. Los edificios fueron diseñados por arquitectos formados en Europa, donde ya habían ejercido su profesión antes de emigrar a Israel. En un contexto cultural nuevo, realizaron un conjunto excepcional de edificios muy representativo del movimiento arquitectónico moderno.",
+          "ru": "Тель-Авив был основан в 1909 г. и развивался как метрополия во время британского мандата Палестины. Белый город был сооружен в период с начала 1930-х до 1950-х гг. на основе градостроительного плана Патрика Геддеса, отражавшего самые прогрессивные в то время принципы органичной планировки. Здания были спроектированы архитекторами, получившими образование в Европе, где они занимались профессиональной деятельностью до иммиграции. Они создали выдающийся архитектурный ансамбль в стиле «Современного движения», выполненный в новом культурном контексте.",
+          "ar": "أنشئت تل أبيب في العام 1909 وتطورت كمدينة عاصمية في عهد الانتداب البريطاني في فلسطين. وقد بدأ بناء المدينة البيضاء في السنوات 1930 ودام حتى السنوات 1950، حسب مخطط مُدني وضعه السير باتريك جيديس، ويعكس مبادئ التنظيم المُدني العضوي العصري. فصمّم الأبنيةَ مهندسون معماريون وفدوا إلى المدينة بعد أن تعلّموا المهنة ومارسوها في بلدان متعددة من أوروبا. وفي ذاك المكان وفي ذاك الإطار الثقافي الجديد، حققوا مجموعة هندسية مميزة خاصة بالحركة العصرية.",
+          "zh": "特拉维夫建于1909年，并逐渐发展成为驻巴勒斯坦英军控制下的一个大都市。在20世纪30年代初到50年代间，白城在帕特莱克爵士的城市规划基础上建成，体现了现代城市发展规划的基本原则。城中的建筑物由在欧洲培训和实习的建筑设计师设计而成，他们以全新的文化理念创造了一个杰出的“现代运动”的建筑群。"
+        },
+        "full": "Tel Aviv was founded in 1909 and developed as a metropolitan city under the British Mandate in Palestine. The White City was constructed from the early 1930s until the 1950s, based on the urban plan by Sir Patrick Geddes, reflecting modern organic planning principles. The buildings were designed by architects who were trained in Europe where they practised their profession before immigrating. They created an outstanding architectural ensemble of the Modern Movement in a new cultural context.",
+        "justification": "Brief synthesis The city of Tel Aviv was founded in 1909 to the immediate north of the walled port city of Jaffa, on the hills along the eastern coast of the Mediterranean Sea. During the era of British rule in Palestine (1917-1948) it developed into a thriving urban centre, becoming Israel's foremost economic and metropolitan nucleus. The serial property consists of three separate zones, the central White City, Lev Hair and Rothschild Avenue, and the Bialik Area, surrounded by a common buffer zone. The White City of Tel Aviv can be seen as an outstanding example in a large scale of the innovative town-planning ideas of the first part of the 20th century. The architecture is a synthetic representation of some of the most significant trends of Modern Movement in architecture, as it developed in Europe. The White City is also an outstanding example of the implementation of these trends taking into account local cultural traditions and climatic conditions. Tel Aviv was founded in 1909 and developed rapidly under the British Mandate in Palestine. The area of the White City forms its central part, and is based on the urban master plan by Sir Patrick Geddes (1925-27), one of the foremost theorists in the early modern period. Tel Aviv is his only large-scale urban realization, not a 'garden city', but an urban entity of physical, economic, social and human needs based on an environmental approach. He developed such innovative notions as 'conurbation' and 'environment', and was pioneer in his insight into the nature of city as an organism constantly changing in time and space, as a homogeneous urban and rural evolving landscape. His scientific principles in town planning, based on a new vision of a 'site' and 'region', influenced urban planning in the 20th century internationally. These are issues that are reflected in his master plan of Tel Aviv. The buildings were designed by a large number of architects, who had been trained and had practised in various European countries. In their work in Tel Aviv, they represented the plurality of the creative trends of modernism, but they also took into account the local, cultural quality of the site. None of the European or North-Africa realizations exhibit such a synthesis of the modernistic picture nor are they at the same scale. The buildings of Tel Aviv are further enriched by local traditions; the design was adapted to the specific climatic conditions of the site, giving a particular character to the buildings and to the ensemble as a whole. Criterion (ii): The White City of Tel Aviv is a synthesis of outstanding significance of the various trends of the Modern Movement in architecture and town planning in the early part of the 20th century. Such influences were adapted to the cultural and climatic conditions of the place, as well as being integrated with local traditions. Criterion (iv): The White City of Tel Aviv is an outstanding example of new town planning and architecture in the early 20th century, adapted to the requirements of a particular cultural and geographic context. Integrity The spirit of the Geddes plan has been well preserved in the various aspects of urban design (morphology, parcelling, hierarchy and profiles of streets, proportions of open and closed spaces, green areas). The urban infrastructure is intact, with the exception of Dizengoff Circle, where traffic and pedestrian schemes have been changed, although efforts are being made to reinstate the original plan Incremental changes could affect the integrity of the urban ensemble in the future. There are some visible changes in the buffer zone due to new construction and commercial development in the 1960s-1990s including some office and residential structures that are out of scale. The White City is encapsulated inside a ring of high-rise structures, which has obviously altered the initial relationship with its context. Any further development could impact on its visual integrity. Authenticity The authenticity of architectural design has been fairly well preserved, proven by homogeneous visual perception of urban fabric, the integrity of style, typology, character of streets, relationship of green areas and urban elements, including, fountains, pergolas and gardens. The details of entrance lobbies, staircases, railings, wooden mailboxes, front and apartment doors, window frames have generally not been changed, though there are some losses - as in most historic towns. The design of some individual buildings has been modified through rooftop additions even in registered buildings. Although within certain limits, such additions could be perceived as part of traditional continuity, to keep Tel Aviv as a vibrant, living city, attention will need to be given to ensure, the quantity of remodelled buildings is not enough to alter the urban profile, the original scale or parameters of the site. Protection and management requirements Management is covered and incorporated in urban and territorial plans. These include the National Master Plan TaMA 35, with the relevant section 58 on the 'Urban Conservation Ensemble in Central Tel Aviv - Jaffa', and the Regional Master Plan TMM 5 providing the main planning instrument for the Tel Aviv conservation area. Management policies include programmes to encourage tourist activities, provide information, and placing an emphasis on conservation. It would be desirable to consider the possibility to provide legal protection at the national level to recent heritage. Deposited in 2002, Conservation Plan (2650B) was approved in 2008. As the majority of the approximately 1,000 historic buildings identified in this document, and other focused local plans, are privately owned, a strategy allowing the transfer of building rights has been implemented to compensate for the loss of those rights. This specifically includes the stringent conditions applying to 180 buildings to which no changes are allowed. Within defined limitations, the application of permitted additional floors to the other remaining protected buildings has been allowed. A special process has been established for the evaluation, approval and supervision of building permits and construction within the inscribed area. This is managed and controlled by the Municipality's Conservation Unit that currently employs eight trained architects. With the intention of providing measures to improve the control of changes in existing fabric, in view of existing real estate pressures, development trends are continually monitored by the Municipality. With reference to the Operational Guidelines Annex 3 (concerning New Towns of the 20th century) it is essential for the city of Tel Aviv to ensure moderated and controlled growth in the historic core area. Accordingly, height limits are to be proposed for the property and its buffer zone."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 140.4,
+          "square_km": 1.4,
+          "square_miles": 0.568,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3511d60cd5e1694c30233cd562fc9719",
+          "filename": "site_1096_0001.jpg",
+          "dimensions": {
+            "width": 1367,
+            "height": 1379
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114893/site_1096_0001.jpg",
+            "https://whc.unesco.org/document/125178/site_1096_0002.jpg",
+            "https://whc.unesco.org/document/125179/site_1096_0003.jpg",
+            "https://whc.unesco.org/document/125180/site_1096_0004.jpg",
+            "https://whc.unesco.org/document/125181/site_1096_0005.jpg",
+            "https://whc.unesco.org/document/125184/site_1096_0006.jpg",
+            "https://whc.unesco.org/document/139249/site_1096_0007.jpg",
+            "https://whc.unesco.org/document/139250/site_1096_0008.jpg",
+            "https://whc.unesco.org/document/139251/site_1096_0009.jpg",
+            "https://whc.unesco.org/document/139252/site_1096_0010.jpg",
+            "https://whc.unesco.org/document/139253/site_1096_0011.jpg",
+            "https://whc.unesco.org/document/139254/site_1096_0012.jpg",
+            "https://whc.unesco.org/document/139255/site_1096_0013.jpg",
+            "https://whc.unesco.org/document/139256/site_1096_0014.jpg",
+            "https://whc.unesco.org/document/139257/site_1096_0015.jpg",
+            "https://whc.unesco.org/document/170270/site_1096_0016.jpg",
+            "https://whc.unesco.org/document/170271/site_1096_0017.jpg",
+            "https://whc.unesco.org/document/170272/site_1096_0018.jpg",
+            "https://whc.unesco.org/document/170273/site_1096_0019.jpg",
+            "https://whc.unesco.org/document/170274/site_1096_0020.jpg",
+            "https://whc.unesco.org/document/170275/site_1096_0021.jpg",
+            "https://whc.unesco.org/document/170276/site_1096_0022.jpg",
+            "https://whc.unesco.org/document/170277/site_1096_0023.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "White City of Tel-Aviv – the Modern Movement",
+            "ref": "1096",
+            "latitude": 32.0777777778,
+            "longitude": 34.7741666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1096",
+        "unesco_documents": "https://whc.unesco.org/en/list/1096/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1096/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1096/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "White City of Tel-Aviv – the Modern Movement Tel Aviv was founded in 1909 and developed as a metropolitan city under the British Mandate in Palestine. The White City was constructed from the early 1930s until the 1950s, based on the urban plan by Sir Patrick Geddes, reflecting modern organic planning principles. The buildings were designed by architects who were trained in Europe where they practised their profession before immigrating. They created an outstanding architectural ensemble of the Modern Movement in a new cultural context. Tel Aviv was founded in 1909 and developed as a metropolitan city under the British Mandate in Palestine. The White City was constructed from the early 1930s until the 1950s, based on the urban plan by Sir Patrick Geddes, reflecting modern organic planning principles. The buildings were designed by architects who were trained in Europe where they practised their profession before immigrating. They created an outstanding architectural ensemble of the Modern Movement in a new cultural context. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "necropolis_of_bet_shearim_a_landmark_of_jewish_renewal",
+      "uuid": "2d7e54e8-b7d8-5db4-b3c7-4f1c841fb18b",
+      "unesco_id": "1471",
+      "names": {
+        "en": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+        "fr": "Nécropole de Bet She’arim – Un haut lieu du renouveau juif",
+        "es": "Necrópolis de Bet She’arim – Sitio histórico de la renovación judía",
+        "ru": "Некрополь Бейт Шеарим - символ еврейского возрождения",
+        "ar": "مقبرة بيت شعاريم الكبيرة: مقام بارز في حركة التجدد اليهودي",
+        "zh": "贝特沙瑞姆大型公墓—犹太复兴中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Consisting of a series of catacombs, the necropolis developed from the 2nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD.",
+          "fr": "Cette nécropole, composée d’une série de catacombes, s’est développée à partir du IIe siècle apr. J.-C. en tant que principal lieu de sépulture juif en dehors de Jérusalem, après l’échec de la deuxième révolte juive contre la domination romaine. Situées au sud-est d’Haïfa, ces catacombes constituent un trésor d’œuvres d’art et d’inscriptions en grec, araméen, hébreu et palmyrénien. Il s’agit d’un témoignage unique sur le judaïsme ancien sous la direction de Rabbi Juda le Patriarche, auquel est attribué le renouveau juif après l’an 135 apr. J.-C.",
+          "es": "Formado por una serie de catacumbas, este sitio cultural se convirtió desde el siglo II –a raíz del fracaso de la segunda rebelión judía contra la dominación de Roma– en el principal cementerio judaico fuera de Jerusalén. Situadas al sudeste de Haifa, esas catacumbas atesoran obras de arte e inscripciones en griego, arameo y hebreo, y además constituyen un testimonio excepcional del judaísmo antiguo, cuya renovación se llevó a cabo bajo la dirección de Rabí Judá el Patriarca a partir del año 135 de nuestra era.",
+          "ru": "Некрополь образуют катакомбы к юго-востоку от города Хайфа, служившие основным местом захоронения евреев вне Иерусалима после подавления второго еврейского восстания против римского господства во II в. н.э. Катакомбы Бейт Шеарима хранят шедевры изобразительного искусства, а также большое количество надписей на греческом и арамейском языках, а также иврите. Некрополь Бейт Шеарим является уникальным памятником древнего иудаизма и еврейского возрождения, главной фигурой которого с 135 г. н.э. был Йегуда га-Наси (в другом написании Иехуда ха-Наси), также известный как Рабби («Учитель»).",
+          "ar": "يضم هذا الموقع سلسلة من سراديب المقابر وقد تطور اعتباراً من القرن الثاني ميلادية بوصفه المدفن اليهودي الرئيسي الواقع خارج القدس، وذلك بعد فشل حالة التمرد الثانية التي قادها اليهود ضد الهيمنة الرومانية. وتُعد سراديب المقابر هذه، الواقعة جنوب شرق حيفا، ثروة حقيقية بما تشمله من أعمال فنية وكتابات باللغات اليونانية والآرامية والعبرية. ويقدّم الموقع دليلاً فريداً على ماضي الديانة اليهودية في عهد الحاخام يهوذا الذي نُسبت إليه رؤية التجدد اليهودي بعد العام 135 ميلادية.",
+          "zh": "这片由一系列墓穴组成的遗产地位于耶路撒冷城外。这里从公元前二世纪开始不断发展，在第二次犹太人反抗罗马统治的革命失败后，这里成为犹太人的主要墓葬地。这些位于海法东南部的墓穴是一个由希伯来语、亚拉姆语和希腊语铭文及其它艺术形式构成的艺术宝库。公元135年后，古犹太人在族长拉比犹大的领导下实现犹太复兴，这片遗产地正是这一时期历史的独特见证。"
+        },
+        "full": "Consisting of a series of catacombs, the necropolis developed from the 2nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD.",
+        "justification": "Brief synthesis Hewed into the limestone slopes of hills bordering the Vale of Jezre’el, a series of man-made catacombs was developed from the 2nd century AD as the necropolis of Bet She’arim. It became the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule and the catacombs are a treasury of eclectic art works and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim is associated with Rabbi Judah the Patriarch, the spiritual and political leader of the Jewish people who composed the Mishna and is credited with Jewish renewal after 135 AD. Criterion (ii): The catacombs of Bet She’arim show the influence of classical Roman art including human images, inscriptions and decorative details and include iconographic motifs and multi-language inscriptions testifying to cross-cultural interaction with the Greco-Roman artistic cultural world of Europe, Asia Minor and Mesopotamia and the Jewish cultural world. The assimilation of burial types and artistic expression together with inscriptions indicating the origins of those buried in the cemetery testify to the wide dispersal of the Jewish people at that time and the incorporation into Jewish religious culture of influences from the surrounding populations. Criterion (iii): The necropolis of Bet She’arim constitutes exceptional testimony to ancient Judaism in its period of revival and survival under the leadership of Rabbi Judah the Patriarch. The extensive catacombs containing artwork showing classical and oriental influences illustrate the resilient Jewish culture that flourished here in the 2nd to 4th centuries AD. Integrity The property includes all elements necessary to convey the Outstanding Universal Value and is of adequate size to ensure the complete representation of the features and processes which convey its significance. The property does not suffer from adverse effects of development or neglect. Authenticity The catacombs themselves, preserved in-situ, retain authenticity in terms of location, setting, form and materials. In terms of use and function, the catacombs had ceased to be used for burial purposes by the 6th century, were abandoned and subsequently neglected. Today they are preserved as part of a national park with some open to the public. Protection and management requirements The property is protected as an Antiquities Site under the Antiquities Law 1978. No changes can be made without the approval of the Israel Antiquity Authority (IAA). The property and buffer zone are already protected under the National Parks, Nature Reserves, Heritage and National Sites Law, 1998. Paragraph 25 of the Law prohibits any activity, which could in the opinion of the Authority, hinder the designation of the area; it empowers the INPA to take steps against violations of that Law. The northern part of the property and the buffer zone within the jurisdiction of Qiryat Tiv’on Local Council is approved as a national park according to the statutory plan and will shortly be declared officially as a National Park. The southern part within the jurisdiction of Emek Yizreal Regional Council is currently designated as “approved national park at detailed planning” and will be officially declared as a National Park as soon as possible. Meanwhile the buffer zone is protected by Land Use statutory plans while the property and buffer zone are further protected and managed by the Israel Nature and Parks Authority (INPA) by virtue of the National Parks, Nature Reserves, Heritage and National Sites Law, 1998.A World Heritage Forum within INPA headed by INPA director general and the director of the Archaeology and Heritage department includes directors of the various divisions of INPA, directors of district offices of INPA and of nature reserves and national parks containing World Heritage sites. This Forum convenes every six months to discuss issues pertaining to these sites."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 12.2,
+          "square_km": 0.12,
+          "square_miles": 0.049,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2015,
+          "all_dates": [
+            2015
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2015,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/de528f370f6b964b5c768bdb80ee55bd",
+          "filename": "site_1471_0003.jpg",
+          "dimensions": {
+            "width": 3888,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/137107/site_1471_0003.jpg",
+            "https://whc.unesco.org/document/139241/site_1471_0024.jpg",
+            "https://whc.unesco.org/document/137105/site_1471_0001.jpg",
+            "https://whc.unesco.org/document/137106/site_1471_0002.jpg",
+            "https://whc.unesco.org/document/137108/site_1471_0004.jpg",
+            "https://whc.unesco.org/document/137109/site_1471_0005.jpg",
+            "https://whc.unesco.org/document/137110/site_1471_0006.jpg",
+            "https://whc.unesco.org/document/137111/site_1471_0007.jpg",
+            "https://whc.unesco.org/document/137113/site_1471_0008.jpg",
+            "https://whc.unesco.org/document/137115/site_1471_0009.jpg",
+            "https://whc.unesco.org/document/137117/site_1471_0010.jpg",
+            "https://whc.unesco.org/document/137119/site_1471_0011.jpg",
+            "https://whc.unesco.org/document/137121/site_1471_0012.jpg",
+            "https://whc.unesco.org/document/137123/site_1471_0013.jpg",
+            "https://whc.unesco.org/document/137125/site_1471_0014.jpg",
+            "https://whc.unesco.org/document/137127/site_1471_0015.jpg",
+            "https://whc.unesco.org/document/137129/site_1471_0016.jpg",
+            "https://whc.unesco.org/document/137131/site_1471_0017.jpg",
+            "https://whc.unesco.org/document/137133/site_1471_0018.jpg",
+            "https://whc.unesco.org/document/137134/site_1471_0019.jpg",
+            "https://whc.unesco.org/document/137136/site_1471_0020.jpg",
+            "https://whc.unesco.org/document/137138/site_1471_0021.jpg",
+            "https://whc.unesco.org/document/137140/site_1471_0022.jpg",
+            "https://whc.unesco.org/document/137142/site_1471_0023.jpg",
+            "https://whc.unesco.org/document/139242/site_1471_0025.jpg",
+            "https://whc.unesco.org/document/139243/site_1471_0026.jpg",
+            "https://whc.unesco.org/document/139244/site_1471_0027.jpg",
+            "https://whc.unesco.org/document/139245/site_1471_0028.jpg",
+            "https://whc.unesco.org/document/139246/site_1471_0029.jpg",
+            "https://whc.unesco.org/document/139247/site_1471_0030.jpg",
+            "https://whc.unesco.org/document/139248/site_1471_0031.jpg",
+            "https://whc.unesco.org/document/170400/site_1471_0032.jpg",
+            "https://whc.unesco.org/document/170401/site_1471_0033.jpg",
+            "https://whc.unesco.org/document/170402/site_1471_0034.jpg",
+            "https://whc.unesco.org/document/170403/site_1471_0035.jpg",
+            "https://whc.unesco.org/document/170404/site_1471_0036.jpg",
+            "https://whc.unesco.org/document/170405/site_1471_0037.jpg",
+            "https://whc.unesco.org/document/170406/site_1471_0038.jpg",
+            "https://whc.unesco.org/document/170407/site_1471_0039.jpg",
+            "https://whc.unesco.org/document/170408/site_1471_0040.jpg",
+            "https://whc.unesco.org/document/170409/site_1471_0041.jpg",
+            "https://whc.unesco.org/document/170410/site_1471_0042.jpg",
+            "https://whc.unesco.org/document/170411/site_1471_0043.jpg",
+            "https://whc.unesco.org/document/170412/site_1471_0044.jpg",
+            "https://whc.unesco.org/document/170413/site_1471_0045.jpg",
+            "https://whc.unesco.org/document/170414/site_1471_0046.jpg"
+          ],
+          "count": 46
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+            "ref": "1471",
+            "latitude": 32.7022222222,
+            "longitude": 35.1269444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1471",
+        "unesco_documents": "https://whc.unesco.org/en/list/1471/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1471/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1471/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 10,
+        "inscription_year": 2015
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal Consisting of a series of catacombs, the necropolis developed from the 2nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD. Consisting of a series of catacombs, the necropolis developed from the 2nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "bahai_holy_places_in_haifa_and_the_western_galilee",
+      "uuid": "986a3444-0c1c-58c2-b138-1f94d8bcb4fc",
+      "unesco_id": "1220",
+      "names": {
+        "en": "Bahá’i Holy Places in Haifa and the Western Galilee",
+        "fr": "Lieux saints bahá’is à Haïfa et en Galilée occidentale",
+        "es": "Lugares sacros bahaíes en Haifa y Galilea Occidental",
+        "ru": "Святые места Бахаи в Хайфе и на западе Галилеи",
+        "ar": "الأماكن البهائية المقدسة في حيفا والجليل الغربي",
+        "zh": "海法和西加利利的巴海圣地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their profound spiritual meaning and the testimony they bear to the strong tradition of pilgrimage in the Bahá’i faith. The property includes the two most holy places in the Bahá’í religion associated with the founders, the Shrine of Bahá’u’lláh in Acre and the Shrine of the Báb in Haifa, together with their surrounding gardens, associated buildings and monuments. These two shrines are part of a larger complex of buildings, monuments and sites at seven distinct locations in Haifa and Western Galilee that are visited as part of the Bahá’i pilgrimage.",
+          "fr": "Les lieux saints bahá’is, à Haïfa et en Galilée occidentale, sont inscrits en raison de leur profonde signification spirituelle et de leur importance dans la grande tradition de pèlerinage de la foi bahá’ie. Le bien comprend les deux lieux les plus sacrés de la religion bahá’ie, car associés à ses pères fondateurs : le mausolée de Bahá’u’lláh à Acre et le mausolée de Báb à Haïfa, avec leurs jardins environnants et les monuments et bâtiments associés. Ces deux temples font partie d’un ensemble plus vaste de bâtiments, monuments et sites répartis en sept différents points de Haïfa et de Galilée occidentale et font partie intégrante du pèlerinage bahá’i.",
+          "es": "Estos lugares se han inscrito en la Lista del Patrimonio Mundial por ser testigos de la sólida tradición de peregrinación existente en la religión bahahí y por el profundo significado que tienen para quienes la profesan. Comprenden 26 edificios, monumentos y sitios, ubicados en 11 lugares de Acre y Haifa, que están vinculados a los fundadores de esta confesión religiosa. Entre ellos figuran el santuario del Bahá’u’lláh en Acre y el mausoleo del Báb en Haifa, así como una serie de casas y jardines, junto con un cementerio y un amplio conjunto de edificios modernos de estilo neoclásico que albergan la administración, los archivos y un centro de estudios.",
+          "ru": "занесены в список как свидетельства давней традиции паломничества бахаи и за их глубокое значение для веры. В объект входят 26 построек, памятников и городищ, образующих одиннадцать отдельных комплексов в Акре и Хайфе. Все они связаны с именами отцов-основателей культа. Среди прочих, здесь сохранились усыпальница Бахауллы в Акре и мавзолей Баба. Кроме того, на территории объекта имеются дома, сады, кладбище и целый ряд современных зданий неоклассического стиля, в которых размещается администрация, архивы и исследовательские центры.",
+          "ar": "أدرِجت الأماكن البهائية المقدسة في حيفا والجليل الغربي لما توفره من شهادة عن تقليد الحجة البهائي والإيمان العميق. وهي تحصي ما مجموعه 26 مبنى وصرحاً وموقعاً في 11 مكاناً في عكا وحيفا. ترتبط الأماكن بمؤسسي الديانة البهائية، ويُذكر من بينها ضريح بهاء الله في عكا وضريح الباب في حيفا. كما يشمل الموقع بيوتاً وحدائق ومقبرة ومجموعة واسعة من الأبنية الحديثة التي شيِّدت تبعاً للأسلوب الكلاسيكي الحديث، وتستخدَم للشؤون الإدارية وإيواء المحفوظات، وتعدّ مركزاً للبحوث. وُلدت الديانة البهائية عام 1844 مع إعلان دعوة الباب، نبيّها، في مدينة شيراز الإيرانية. وعلى أثر اغتيال الباب في عام 1850، أمضى مؤيده، بهاء الله، آخر 24 عاماً من حياته في منطقة الجليل الغربي، وعمل على جمع وتصنيف الكتابات الدينية التي أصبحت تشكل أساساً لديانته.",
+          "zh": "入选的理由是它们体现了巴海浓厚的朝圣传统，以及它们所蕴涵的关于宗教信仰的深刻内涵。这一遗产由分布在阿克和海法11个地方、与宗教创始人有关的26座建筑、纪念碑和遗址组成，其中包括位于阿克的巴哈欧拉圣陵和位于海法的巴孛陵墓。此外还有房屋、花园、公墓和用作教务行政、档案室和研究中心的大规模新古典主义风格的现代建筑群。"
+        },
+        "full": "The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their profound spiritual meaning and the testimony they bear to the strong tradition of pilgrimage in the Bahá’i faith. The property includes the two most holy places in the Bahá’í religion associated with the founders, the Shrine of Bahá’u’lláh in Acre and the Shrine of the Báb in Haifa, together with their surrounding gardens, associated buildings and monuments. These two shrines are part of a larger complex of buildings, monuments and sites at seven distinct locations in Haifa and Western Galilee that are visited as part of the Bahá’i pilgrimage.",
+        "justification": "Bahá’i Holy Places demonstrate Outstanding Universal Value for the Holy shrine of Bahá’u’lláh and the Holy shrine of the Báb, as the most holy places of the Bahá’í faith provide an exceptional testimony to the strong traditions of Bahá’í pilgrimage which have grown up over the last century and draw large numbers of followers from around the world. They also have a profound meaning and value for followers of the Bahá’í faith as sacred sites linked to the faith’s two founders. Criterion (iii): The Holy shrine of Bahá’u’lláh and the Holy shrine of the Báb, as the most holy places of the Bahá’í faith, and visited by thousands of pilgrims each year from around the world, provide an exceptional testimony to, and are powerful communicators of, the strong cultural tradition of Bahá’í pilgrimage. Criterion (vi): The two holy Bahá’í shrines are tangible places of great meaning for one of the world’s religions. The property demonstrates integrity linked to the history and spiritual home of the Bahá’í faith and it demonstrates authenticity as tangible expression of the body of doctrine and system of values and beliefs that form the Bahá’í faith. The legal protection of the nominated areas and their buffer zones will be improved once the TAMA 35 provisions come into force for Haifa. Conservation approaches are appropriate and the management system for the property provides high quality management."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 62.58,
+          "square_km": 0.63,
+          "square_miles": 0.253,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/27040a013f1d29c343e201a718243757",
+          "filename": "site_1220_0010-500-0-20231020100359.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/139225/site_1220_0010.jpg",
+            "https://whc.unesco.org/document/113934/site_1220_0001.jpg",
+            "https://whc.unesco.org/document/139217/site_1220_0002.jpg",
+            "https://whc.unesco.org/document/139218/site_1220_0003.jpg",
+            "https://whc.unesco.org/document/139219/site_1220_0004.jpg",
+            "https://whc.unesco.org/document/139220/site_1220_0005.jpg",
+            "https://whc.unesco.org/document/139221/site_1220_0006.jpg",
+            "https://whc.unesco.org/document/139222/site_1220_0007.jpg",
+            "https://whc.unesco.org/document/139223/site_1220_0008.jpg",
+            "https://whc.unesco.org/document/139224/site_1220_0009.jpg",
+            "https://whc.unesco.org/document/139226/site_1220_0011.jpg",
+            "https://whc.unesco.org/document/139227/site_1220_0012.jpg",
+            "https://whc.unesco.org/document/139229/site_1220_0013.jpg",
+            "https://whc.unesco.org/document/139230/site_1220_0014.jpg",
+            "https://whc.unesco.org/document/170321/site_1220_0015.jpg",
+            "https://whc.unesco.org/document/170322/site_1220_0016.jpg",
+            "https://whc.unesco.org/document/170323/site_1220_0017.jpg",
+            "https://whc.unesco.org/document/170324/site_1220_0018.jpg",
+            "https://whc.unesco.org/document/170325/site_1220_0019.jpg",
+            "https://whc.unesco.org/document/170326/site_1220_0020.jpg",
+            "https://whc.unesco.org/document/170327/site_1220_0021.jpg",
+            "https://whc.unesco.org/document/170328/site_1220_0022.jpg",
+            "https://whc.unesco.org/document/170329/site_1220_0023.jpg",
+            "https://whc.unesco.org/document/170330/site_1220_0024.jpg",
+            "https://whc.unesco.org/document/170331/site_1220_0025.jpg",
+            "https://whc.unesco.org/document/170332/site_1220_0026.jpg",
+            "https://whc.unesco.org/document/170333/site_1220_0027.jpg",
+            "https://whc.unesco.org/document/170334/site_1220_0028.jpg",
+            "https://whc.unesco.org/document/170335/site_1220_0029.jpg",
+            "https://whc.unesco.org/document/170336/site_1220_0030.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 11,
+        "locations": [
+          {
+            "name": "Prison",
+            "ref": "1220-007",
+            "latitude": 32.9236111111,
+            "longitude": 35.0688888889
+          },
+          {
+            "name": "Bahjí",
+            "ref": "1220-005",
+            "latitude": 32.943625,
+            "longitude": 35.0918055555
+          },
+          {
+            "name": "Junayn Garden",
+            "ref": "1220-011",
+            "latitude": 32.9943916666,
+            "longitude": 35.0952305555
+          },
+          {
+            "name": "Ridván Gardens",
+            "ref": "1220-009",
+            "latitude": 32.9158333333,
+            "longitude": 35.0908333333
+          },
+          {
+            "name": "Persian Quarter",
+            "ref": "1220-002",
+            "latitude": 32.8179833334,
+            "longitude": 34.991325
+          },
+          {
+            "name": "House of ‘Abbúd",
+            "ref": "1220-008",
+            "latitude": 32.9213888889,
+            "longitude": 35.0672222223
+          },
+          {
+            "name": "Mansion of Mazra‘ih",
+            "ref": "1220-010",
+            "latitude": 32.987275,
+            "longitude": 35.0997277777
+          },
+          {
+            "name": "Haifa Bahá’í Cemetery",
+            "ref": "1220-004",
+            "latitude": 32.8293972223,
+            "longitude": 34.97165
+          },
+          {
+            "name": "North Slope of Mount Carmel",
+            "ref": "1220-001",
+            "latitude": 32.8145944444,
+            "longitude": 34.9872777777
+          },
+          {
+            "name": "House of ‘Abdu’lláh Páshá",
+            "ref": "1220-006",
+            "latitude": 32.9236111111,
+            "longitude": 35.0677777778
+          },
+          {
+            "name": "Place of Revelation of the “Tablet of Carmel”",
+            "ref": "1220-003",
+            "latitude": 32.8223722223,
+            "longitude": 34.9750833334
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1220",
+        "unesco_documents": "https://whc.unesco.org/en/list/1220/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1220/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1220/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Bahá’i Holy Places in Haifa and the Western Galilee The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their profound spiritual meaning and the testimony they bear to the strong tradition of pilgrimage in the Bahá’i faith. The property includes the two most holy places in the Bahá’í religion associated with the founders, the Shrine of Bahá’u’lláh in Acre and the Shrine of the Báb in Haifa, together with their surrounding gardens, associated buildings and monuments. These two shrines are part of a larger complex of buildings, monuments and sites at seven distinct locations in Haifa and Western Galilee that are visited as part of the Bahá’i pilgrimage. The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their profound spiritual meaning and the testimony they bear to the strong tradition of pilgrimage in the Bahá’i faith. The property includes the two most holy places in the Bahá’í religion associated with the founders, the Shrine of Bahá’u’lláh in Acre and the Shrine of the Báb in Haifa, together with their surrounding gardens, associated buildings and monuments. These two shrines are part of a larger complex of buildings, monuments and sites at seven distinct locations in Haifa and Western Galilee that are visited as part of the Bahá’i pilgrimage. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "masada",
+      "uuid": "0f934a09-2890-509e-971c-64a3cf215720",
+      "unesco_id": "1040",
+      "names": {
+        "en": "Masada",
+        "fr": "Masada",
+        "es": "Masada",
+        "ru": "Древняя крепость Масада",
+        "ar": "مصعدة",
+        "zh": "马萨达"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert overlooking the Dead Sea. It is a symbol of the ancient kingdom of Israel, its violent destruction and the last stand of Jewish patriots in the face of the Roman army, in 73 A.D. It was built as a palace complex, in the classic style of the early Roman Empire, by Herod the Great, King of Judaea, (reigned 37 – 4 B.C.). The camps, fortifications and attack ramp that encircle the monument constitute the most complete Roman siege works surviving to the present day.",
+          "fr": "Dressée sur un éperon rocheux, Masada est une forteresse naturelle d'une beauté majestueuse qui domine la mer Morte en plein désert de Judée. Symbole de l'ancien royaume d'Israël et de sa destruction brutale, elle fut la dernière poche de résistance des patriotes juifs face à l'armée romaine, en 73 de notre ère. Ce palais-forteresse fut construit dans le style classique du début de l'empire romain par Hérode le Grand, roi de Judée, qui régna de 37 à 4 av. J.-C. Les camps militaires, les fortifications et la rampe d'assaut qui entourent le monument sont l'exemple le plus complet de travaux de siège de l'époque romaine conservés jusqu'à ce jour.",
+          "es": "Encaramada en lo alto de un peñón, en pleno desierto de Judea, Masada es una fortaleza natural de majestuosa belleza que domina el Mar Muerto. Símbolo del antiguo reino de Israel y de su brutal destrucción, fue el último reducto de la resistencia de los patriotas judíos al ejército romano en el año 73. El palacio-fortaleza del sitio fue construido en el estilo romano clásico de la época por Herodes el Grande, rey de Judea, que reinó entre los años 37 y 4 a.C. Los campamentos militares, las fortificaciones y la rampa de asalto que rodean el monumento constituyen los vestigios más completos de obras de asedio de la época romana conservados hasta nuestros días.",
+          "ru": "Масада – это естественная скалистая крепость в Иудейской пустыне, величественно красивая и доминирующая над низиной Мертвого моря. Это символ древнего Израильского царства, его жестокого уничтожения и последнего сопротивления, которое еврейские патриоты оказали древнеримской армии в 73 г. н.э. Она была построена как дворцовый комплекс в классическом стиле ранней Римской империи Иродом Великим, царем Иудеи (правил в 37–4 гг. до н.э.). Лагерь, укрепления и рампа для штурма, расположенные в окружении Масады, признаются наиболее хорошо сохранившимися следами древнеримских осадных сооружений.",
+          "ar": "مصعدة قلعة طبيعية جمالها عظيم تشرف على البحر الميت وسط صحراء يهودا ومرتفعة على جدار صخري. إنها رمز لمملكة إسرائيل القديمة ولدمارها القاسي، وقد شكلت الجيب الأخير لصمود الوطنيين اليهود أمام الجيش الروماني، في العام 73 من عصرنا. وقد بني هذا القصر القلعة حسب الطراز الكلاسيكي الذي ميّز بداية الامبراطورية الرومانية، على يد هيرودس الكبير ملك يهودا الذي حكم من العام 37 إلى العام 4 ق.م. فالمعسكرات والتحصينات ومنصّة الهجوم التي تحيط بالنصب خير مثال عن عمليات الحصار أيام الحقبة الرومانية التي ما زالت محفوظة حتى يومنا هذا.",
+          "zh": "马萨达是一个地势险峻的天然堡垒，它威严肃穆地矗立在犹地亚沙漠中，俯瞰着死海。马萨达是古代以色列王国的象征：公元73年，在罗马军队的围攻下，该城池遭到严重摧毁，它是犹太人爱国者在这片土地上陷落的最后一个据点。马萨达是由朱迪亚王国的希律王（公元前37年到公元前4年在位）修建的宫殿群，带有典型的早期罗马帝国的古典建筑风格。马萨达城堡外围的营地、堡垒以及进攻坡道保存至今，它们完整地再现了罗马人在著名的“罗马围攻”中的攻城工事。"
+        },
+        "full": "Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert overlooking the Dead Sea. It is a symbol of the ancient kingdom of Israel, its violent destruction and the last stand of Jewish patriots in the face of the Roman army, in 73 A.D. It was built as a palace complex, in the classic style of the early Roman Empire, by Herod the Great, King of Judaea, (reigned 37 – 4 B.C.). The camps, fortifications and attack ramp that encircle the monument constitute the most complete Roman siege works surviving to the present day.",
+        "justification": "Brief synthesis Masada is a dramatically located site of great natural beauty overlooking the Dead Sea, a rugged natural fortress on which the Judaean king Herod the Great constructed a sumptuous palace complex in classical Roman style. After Judaea became a province of the Roman Empire, it was the refuge of the last survivors of the Jewish revolt, who chose death rather than slavery when the Roman besiegers broke through their defences. As such it has an emblematic value for the Jewish people. It is also an archaeological site of great significance. The remains of Herod's palaces are outstanding and very intact examples of this type of architecture, whilst the untouched siegeworks are the finest and most complete anywhere in the Roman world. The Masada complex, built by Herod the Great, King of Judaea, who reigned between 37 BCE and 4 CE, and particularly the hanging palace with its three terraces, is an outstanding example of opulent architectural design, elaborately engineered and constructed in extreme conditions. The palace on the northern face of the dramatic mountain site consists of an exceptional group of classical Roman Imperial buildings. The water system was particularly sophisticated, collecting run-off water from a single day's rain to sustain life for a thousand people over a period of two to three years. This achievement allowed the transformation of a barren, isolated, arid hilltop into a lavish royal retreat. When this natural defensive site, further strengthened by massive walls, was occupied by survivors of the Jewish Revolt against Roman rule, it was successfully besieged by a massive Roman army. The military camps, siegeworks and an attack ramp that encircle the site, and a network of legionary fortresses of quadrilateral plan, are the most complete anywhere in the Roman world. Masada is a poignant symbol of the continuing human struggle between oppression and liberty. Criterion (iii): Masada is a symbol of the ancient Jewish Kingdom of Israel, of its violent destruction in the later 1st century CE, and of the subsequent Diaspora. Criterion (iv): The Palace of Herod the Great at Masada is an outstanding example of a luxurious villa of the Early Roman Empire, whilst the camps and other fortifications that encircle the monument constitute the finest and most complete Roman siege works to have survived to the present day. Criterion (vi): The tragic events during the last days of the Jewish refugees who occupied the fortress and palace of Masada make it a symbol both of Jewish cultural identity and, more universally, of the continuing human struggle between oppression and liberty. Integrity Due to its remoteness, and the harsh climate of the southern end of the Judean Desert, following the dissolution of the Byzantine monastic settlement in the 6th century the Masada site remained untouched for more than thirteen centuries until its rediscovery in1828. The property encompasses the remains of the site on its natural fortress and the surrounding siegeworks. Of equal importance is the fact that the setting of Masada, the magnificent wild scenery of this region, has not changed over many millennia. The only intrusions are the lower visitor and cable car facilities, which in their new form have been designed and relocated sympathetically, to minimize visual impact, though the siting of the summit station, is still controversial. Authenticity This is a site that remained untouched for more than thirteen centuries. The buildings and other evidence of human settlement gradually collapsed and were covered over until they were revealed in the 1960s. There have been no additions or reconstruction, beyond an acceptable level of anastylosis, and inappropriate materials used in early conservation projects are being replaced. Limited restoration works have been carried out to aid visitor interpretation with original archaeological levels being clearly defined by a prominent black line set in the new mortar joints. Certain significant archaeological elements, such as the Roman camps and siegeworks, remain virtually untouched. The authenticity is therefore of a very high level. Protection and management requirements The Judean desert remains a sparsely settled area, with the harshness of the environment serving as a natural barrier against modern urban and rural development pressures. The property and buffer zone are owned by the State of Israel, and the archaeological sites are protected by the 1978 Antiquities Law. Since 1966 the entire Masada site, and its surroundings, have been designated a National Park, updated by the 1998 National Parks, Nature Reserves, National Sites and Memorial Sites Law. The National Park is further protected through being entirely surrounded by the Judean Desert Nature Reserve, also established under the 1998 Act. The property is managed by the Israel Nature and Parks Authority, in cooperation with the Israel Antiquities Authority. An important aspect of the current management plan is the decision to carry out no further research excavation on the main site in the present generation, although limited excavation will be permitted when required by conservation, maintenance or restoration projects. Almost entirely invisible from the summit, a new visitor centre was opened on the plain beneath the eastern side of Masada in 2000. Providing all the anticipated facilities, the centre was designed to accommodate the 1.25 million visitors per annum. The cable car, originally installed in the 1970's, was replaced by a new, less intrusive, and heavily used system to connect the visitor centre with the summit. It is also still possible to undertake the arduous climb to the summit by the two historic pedestrian access routes. The policy of prohibiting commercial activities of any kind, and picnicking on the summit, is rigorously maintained."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 276,
+          "square_km": 2.76,
+          "square_miles": 1.117,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d2ae5a76f87f863f05ce96329f8292a4",
+          "filename": "site_1040_0002.jpg",
+          "dimensions": {
+            "width": 2304,
+            "height": 3072
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114444/site_1040_0002.jpg",
+            "https://whc.unesco.org/document/114446/site_1040_0003.jpg",
+            "https://whc.unesco.org/document/114448/site_1040_0004.jpg",
+            "https://whc.unesco.org/document/114450/site_1040_0005.jpg",
+            "https://whc.unesco.org/document/114452/site_1040_0006.jpg",
+            "https://whc.unesco.org/document/114454/site_1040_0007.jpg",
+            "https://whc.unesco.org/document/114456/site_1040_0008.jpg",
+            "https://whc.unesco.org/document/114458/site_1040_0009.jpg",
+            "https://whc.unesco.org/document/114460/site_1040_0010.jpg",
+            "https://whc.unesco.org/document/114464/site_1040_0012.jpg",
+            "https://whc.unesco.org/document/155415/site_1040_0013.jpg",
+            "https://whc.unesco.org/document/155416/site_1040_0014.jpg",
+            "https://whc.unesco.org/document/155417/site_1040_0015.jpg",
+            "https://whc.unesco.org/document/155418/site_1040_0016.jpg",
+            "https://whc.unesco.org/document/155419/site_1040_0017.jpg",
+            "https://whc.unesco.org/document/155420/site_1040_0018.jpg",
+            "https://whc.unesco.org/document/155421/site_1040_0019.jpg",
+            "https://whc.unesco.org/document/155422/site_1040_0020.jpg",
+            "https://whc.unesco.org/document/155423/site_1040_0021.jpg",
+            "https://whc.unesco.org/document/155424/site_1040_0022.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Masada",
+            "ref": "1040",
+            "latitude": 31.3155555556,
+            "longitude": 35.3536111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1040",
+        "unesco_documents": "https://whc.unesco.org/en/list/1040/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1040/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1040/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Masada Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert overlooking the Dead Sea. It is a symbol of the ancient kingdom of Israel, its violent destruction and the last stand of Jewish patriots in the face of the Roman army, in 73 A.D. It was built as a palace complex, in the classic style of the early Roman Empire, by Herod the Great, King of Judaea, (reigned 37 – 4 B.C.). The camps, fortifications and attack ramp that encircle the monument constitute the most complete Roman siege works surviving to the present day. Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert overlooking the Dead Sea. It is a symbol of the ancient kingdom of Israel, its violent destruction and the last stand of Jewish patriots in the face of the Roman army, in 73 A.D. It was built as a palace complex, in the classic style of the early Roman Empire, by Herod the Great, King of Judaea, (reigned 37 – 4 B.C.). The camps, fortifications and attack ramp that encircle the monument constitute the most complete Roman siege works surviving to the present day. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "sites_of_human_evolution_at_mount_carmel_the_nahal_mearot_wadi_el_mughara_caves",
+      "uuid": "aae3cde2-4331-510a-8dfa-a12713c93021",
+      "unesco_id": "1393",
+      "names": {
+        "en": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+        "fr": "Sites de l’évolution humaine du mont Carmel : les grottes de Nahal Me’arot / Wadi el-Mughara",
+        "es": "Sitio de evolución humana del Monte Carmelo: cuevas del Nahal Me’arot/Uadi Al Mughara",
+        "ru": "Находки на горе Кармель, отражающие эволюционное развитие человека: пещеры Нахаль Меарот и Вади эль-Мугара",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on the western slopes of the Mount Carmel range, the site includes the caves of Tabun, Jamal, el-Wad and Skhul. Ninety years of archaeological research have revealed a cultural sequence of unparalleled duration, providing an archive of early human life in south-west Asia. This 54 ha property contains cultural deposits representing at least 500,000 years of human evolution demonstrating the unique existence of both Neanderthals andEarly Anatomically Modern Humans within the same Middle Palaeolithic cultural framework, the Mousterian. Evidence from numerous Natufian burials and early stone architecture represents the transition from a hunter-gathering lifestyle to agriculture and animal husbandry. As a result, the caves have become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular.",
+          "fr": "Situé sur le versant occidental du mont Carmel, ce bien comprend les grottes de Taboun, Jamal, el-Wad et Skhul. Quatre-vingt-dix années de recherche archéologique ont mis à jour une séquence culturelle, d’une durée sans équivalent, offrant des archives sur les origines humaines en Asie du sud-ouest. Ce bien de 54 ha contient des gisements culturels représentant au moins 500000 ans d’évolution humaine, seul complexe connu contenant tout à la fois des restes d’hommes de Néandertal et des premiers humains anatomiquement modernes dans un même ensemble culturel du Paléolithique moyen, le Moustérien. Des témoignages des pratiques funéraires natoufiennes et des premières manifestations de l’architecture en pierre illustrent la transition d’un mode de vie de type chasseur-cueilleur vers l’agriculture et l’élevage. A ce titre les grottes sont devenues un site essentiel du cadre chrono-stratigraphique de l’évolution humaine en général et de la préhistoire du Levant en particulier.",
+          "es": "Situado en la ladera occidental del Monte Carmelo, el sitio comprende las cuevas de Tabun, Jamal, Al Uad y Skhul. Abarca 54 hectáreas y contiene vestigios culturales que constituyen un testimonio de 500.000 años de la evolución humana con restos de lugares de enterramiento, arquitectura primitiva en piedra y de la transición del modo de vida humano basado en la caza y la recolección a la práctica de la agricultura y la ganadería. Este sitio es, hasta la fecha, el único en el que se han hallado vestigios de fósiles del Hombre de Neanderthal y de los primeros humanos dotados con la anatomía actual de nuestra especie en el seno de un mismo conjunto cultural del Paleolítico medio, el mosteriano. Se trata de un sitio esencial del marco cronoestratográfico de la evolución humana en general y de la prehistoria del Levante en particular. Noventa años de excavaciones arqueológicas han puesto de manifiesto una secuencia cultural de duración inigualada, que constituye todo un archivo de la vida de los hombres primitivos en el sudoeste de Asia.",
+          "ru": "Находки на горе Кармель, отражающие эволюционное развитие человека: пещеры Нахаль Меарот и Вади эль-Мугара (Израиль), а также пещеры Табун, Джамаль, эль-Вад и Схул расположены на западном склоне горного хребта Кармель. Они занимают площадь более 54 гектаров и таят культурные слои, представляющие 500 тыс. лет человеческой эволюции. В пещерах обнаружены убедительные подтверждения существования захоронений и ранних каменных построек периода перехода от племён охотников-собирателей к обществу скотоводов и земледельцев. На сегодняшний день это единственный археолого-культурный комплекс, где были обнаружены ископаемые останки неандертальцев и ранних представителей анатомически современного человека, относящиеся к одному времени, что усиливает споры вокруг исчезновения неандертальцев и эволюции Homo sapiens. Девяносто лет археологических исследований помогли обнаружить здесь культурные находки за удивительно долгий период, что позволяет получить информацию о ранних этапах эволюции человека в юго-западной Азии.",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Situated on the western slopes of the Mount Carmel range, the site includes the caves of Tabun, Jamal, el-Wad and Skhul. Ninety years of archaeological research have revealed a cultural sequence of unparalleled duration, providing an archive of early human life in south-west Asia. This 54 ha property contains cultural deposits representing at least 500,000 years of human evolution demonstrating the unique existence of both Neanderthals andEarly Anatomically Modern Humans within the same Middle Palaeolithic cultural framework, the Mousterian. Evidence from numerous Natufian burials and early stone architecture represents the transition from a hunter-gathering lifestyle to agriculture and animal husbandry. As a result, the caves have become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular.",
+        "justification": "Brief synthesis The four Mount Carmel caves (Tabun, Jamal, el-Wad and Skhul) and their terraces are clustered adjacent to each other along the south side of the Nahal Me’arot/Wadi el-Mughara valley. The steep-sided valley opening to the coastal plain on the west side of the Carmel range provides the visual setting of a prehistoric habitat. Located in one of the best preserved fossilised reefs of the Mediterranean region, the site contains cultural deposits representing half a million years of human evolution from the Lower Palaeolithic to the present. It is recognised as providing a definitive chronological framework at a key period of human development. Archaeological evidence covers the appearance of modern humans, deliberate burials, early manifestations of stone architecture and the transition from hunter-gathering to agriculture. The attributes carrying Outstanding Universal Value include the four caves, terraces, unexcavated deposits and excavated artefacts and skeletal material; the Nahal Me’arot/ Wadi el-Mughara landscape providing the prehistoric setting of the caves; el-Wad Terrace excavations, and remains of stone houses and pits comprising evidence of the Natufian hamlet. Criterion (iii) : The site of the Nahal Me'arot/ Wadi el-Mughara Caves displays one of the longest prehistoric cultural sequences in the world. From the Acheulian complex, at least 500,000 years BP, through the Mousterian culture of 250,000-45,000 years BP, and up to the Natufian culture of 15,000-11,500 years BP and beyond, it testifies to at least half a million years of human evolution. Significantly, the site demonstrates the unique existence of both. Neanderthals and Early Anatomically Modern Humans (EAMH) within the same Middle Palaeolithic cultural framework, the Mousterian. As such, it has become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular. Research at Nahal Me'arot/ Wadi el-Mughara Caves has been ongoing since 1928, and continues to promote multidisciplinary scientific dialogue. The potential for further excavation and archaeological research at the site is to date far from exhausted. Criterion (v): The Nahal Me'arot/ Wadi el-Mughara Caves are a central site of the Natufian culture in its Mediterranean core zone. This significant regional culture of the late Epi-Palaeolithic period presents the transition from Palaeolithic to Neolithic ways of life, from nomadic to complex, sedentary communities, bearing testimony to the last hunter-gatherer society and the various adaptations it underwent on the threshold of agriculture. Integrity The Nahal Me’arot/Wadi el-Mughara site includes all elements necessary to express the values of the property, comprising the caves and the visual habitat. The caves are intact, in good condition and do not suffer from neglect, except in the case of Skhul Cave, which has been partly defaced with graffiti. The visual habitat defined as the caves, the terrace in which the caves are found and the area that can be viewed from the caves is intact except below Skhul Cave, where Eucalyptus trees are growing along the riverbed around the water pumping station. Authenticity Archaeological research over 90 years has established the authenticity of the Nahal Me’arot/Wadi el-Mughara site as a crucial record of human, biological, behavioural and cultural origins. The caves, terraces and excavated structures, together with excavated artefacts and human remains, truthfully and credibly express the values of the property. The authenticity of the habitat is impacted by the alien Eucalyptus trees and water pumping station. Protection and Management requirements Legal protection is provided at the highest national level possible in Israel. The caves and their surroundings were declared a National Nature Reserve in 1971. The property is protected by the National Parks, Nature Reserves, National Sites and Memorial Sites Law 1998, administered by the Israel Nature and Parks Authority (INPA) and the Antiquities Law (1978) and the Antiquities Authorities Law (1989). Research activities or excavations within the property require permits from both the INPA and the Israel Antiquities Authority (IAA). INPA and IAA share responsibility for the management of the archaeological resources that sustain the Outstanding Universal Value of the property. An agreement between the Antiquities Authority and the INPA (2005) outlines the effective protocol necessary to facilitate cooperation, conservation and management of Antiquities in Israel’s Nature Reserves and National Parks. A steering committee of stakeholders was established to oversee the nomination and will serve as a governing body that integrates local, regional, and national management of the site. The steering committee includes representatives of the INPA, the IAA, archaeologists from Haifa University, the Carmel Drainage Authority, Kibbutz Ein HaCarmel and Moshav Geva Carmel (who leases the agricultural land designated as Buffer Zone B), the Society for the Protection of Nature in Israel, the Society for the Preservation of Israel Heritage Sites, the Carmelim Tourism Organization, and the Hof HaCarmel Regional Council. A Site Conservation and Management Programme describing all management procedures for the site was prepared in 2003 and currently serves as the foundation for the day to day management of the site."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 54,
+          "square_km": 0.54,
+          "square_miles": 0.219,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3c304a787943c6d3eef811a7ebf4d70a",
+          "filename": "site_1393_0001-500-0-20120625142451.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 332
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/117469/site_1393_0001.jpg",
+            "https://whc.unesco.org/document/117470/site_1393_0002.jpg",
+            "https://whc.unesco.org/document/117471/site_1393_0003.jpg",
+            "https://whc.unesco.org/document/117472/site_1393_0004.jpg",
+            "https://whc.unesco.org/document/117473/site_1393_0005.jpg",
+            "https://whc.unesco.org/document/117474/site_1393_0006.jpg",
+            "https://whc.unesco.org/document/117475/site_1393_0007.jpg",
+            "https://whc.unesco.org/document/117476/site_1393_0008.jpg",
+            "https://whc.unesco.org/document/117477/site_1393_0009.jpg",
+            "https://whc.unesco.org/document/117478/site_1393_0010.jpg",
+            "https://whc.unesco.org/document/117479/site_1393_0011.jpg",
+            "https://whc.unesco.org/document/117480/site_1393_0012.jpg",
+            "https://whc.unesco.org/document/139234/site_1393_0013.jpg",
+            "https://whc.unesco.org/document/139235/site_1393_0014.jpg",
+            "https://whc.unesco.org/document/139236/site_1393_0015.jpg",
+            "https://whc.unesco.org/document/139237/site_1393_0016.jpg",
+            "https://whc.unesco.org/document/139238/site_1393_0017.jpg",
+            "https://whc.unesco.org/document/139239/site_1393_0018.jpg",
+            "https://whc.unesco.org/document/139240/site_1393_0019.jpg",
+            "https://whc.unesco.org/document/170339/site_1393_0020.jpg",
+            "https://whc.unesco.org/document/170340/site_1393_0021.jpg",
+            "https://whc.unesco.org/document/170341/site_1393_0022.jpg",
+            "https://whc.unesco.org/document/170342/site_1393_0023.jpg",
+            "https://whc.unesco.org/document/170343/site_1393_0024.jpg",
+            "https://whc.unesco.org/document/170344/site_1393_0025.jpg",
+            "https://whc.unesco.org/document/170345/site_1393_0026.jpg",
+            "https://whc.unesco.org/document/170346/site_1393_0027.jpg",
+            "https://whc.unesco.org/document/170347/site_1393_0028.jpg",
+            "https://whc.unesco.org/document/170348/site_1393_0029.jpg",
+            "https://whc.unesco.org/document/170349/site_1393_0030.jpg",
+            "https://whc.unesco.org/document/170350/site_1393_0031.jpg",
+            "https://whc.unesco.org/document/170351/site_1393_0032.jpg",
+            "https://whc.unesco.org/document/170352/site_1393_0033.jpg",
+            "https://whc.unesco.org/document/170353/site_1393_0034.jpg"
+          ],
+          "count": 34
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+            "ref": "1393",
+            "latitude": 32.6686111111,
+            "longitude": 34.9680555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1393",
+        "unesco_documents": "https://whc.unesco.org/en/list/1393/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1393/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1393/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves Situated on the western slopes of the Mount Carmel range, the site includes the caves of Tabun, Jamal, el-Wad and Skhul. Ninety years of archaeological research have revealed a cultural sequence of unparalleled duration, providing an archive of early human life in south-west Asia. This 54 ha property contains cultural deposits representing at least 500,000 years of human evolution demonstrating the unique existence of both Neanderthals andEarly Anatomically Modern Humans within the same Middle Palaeolithic cultural framework, the Mousterian. Evidence from numerous Natufian burials and early stone architecture represents the transition from a hunter-gathering lifestyle to agriculture and animal husbandry. As a result, the caves have become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular. Situated on the western slopes of the Mount Carmel range, the site includes the caves of Tabun, Jamal, el-Wad and Skhul. Ninety years of archaeological research have revealed a cultural sequence of unparalleled duration, providing an archive of early human life in south-west Asia. This 54 ha property contains cultural deposits representing at least 500,000 years of human evolution demonstrating the unique existence of both Neanderthals andEarly Anatomically Modern Humans within the same Middle Palaeolithic cultural framework, the Mousterian. Evidence from numerous Natufian burials and early stone architecture represents the transition from a hunter-gathering lifestyle to agriculture and animal husbandry. As a result, the caves have become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular. Israel Europe and North America Cultural"
+    },
+    {
+      "site_key": "old_city_of_acre",
+      "uuid": "355cccc5-0089-53ef-a57d-3ed619cc9b70",
+      "unesco_id": "1042",
+      "names": {
+        "en": "Old City of Acre",
+        "fr": "Vieille ville d’Acre",
+        "es": "Ciudad vieja de Acre",
+        "ru": "Старый город в Акре (Акко)",
+        "ar": "مدينة عكّا القديمة",
+        "zh": "阿克古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISR": {
+            "name": "Israel",
+            "iso2": "IL",
+            "iso3": "ISR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem.",
+          "fr": "Acre est une ville portuaire fortifiée historique où les établissements humains se sont succédés sans interruption depuis l'époque phénicienne. La cité actuelle est caractéristique des villes fortifiées ottomanes des XVIIIe et XIXe siècles, avec sa citadelle, ses mosquées, ses khans (caravansérails) et ses bains publics. Les vestiges de la ville des Croisés, qui datent de 1104 à 1291, sont pratiquement intacts, tant en sous-sol qu'en surface, donnant une image exceptionnelle de ce qu'étaient l'organisation de l'espace urbain et les structures de la capitale du royaume des Croisés de Jérusalem, au Moyen-Age.",
+          "es": "Acre es una histórica ciudad portuaria fortificada que se halla emplazada en un sitio donde se establecieron sucesivamente distintos pueblos desde tiempos de los fenicios. La ciudad vieja actual conserva las características de las ciudades fortificadas otomanas de los siglos XVIII y XIX, con su ciudadela y sus mezquitas, caravasares y baños de vapor públicos. Los vestigios de la época de los cruzados, que datan del periodo 1104-1291 y se hallan prácticamente intactos tanto en el subsuelo como en la superficie, ofrecen una visión excepcional de la ordenación del espacio urbano y las estructuras de la ciudad que fue capital del reino cristiano de Jerusalén en la Edad Media.",
+          "ru": "Акра – это исторический укрепленный город-порт, непрерывно развивающийся начиная со времен древней Финикии. Современный город имеет укрепленную старую часть, датируемую периодом Оттоманской империи (XVIII-XIX вв.), с ее типичными компонентами – цитаделью, мечетями, караван-сараями и банями. Остатки города крестоносцев, относящиеся к 1104-1291 гг., лежат почти ненарушенными ниже современного уровня улиц, наглядно демонстрируя вид планировки и застройки столицы средневекового Иерусалимского королевства крестоносцев.",
+          "ar": "عكّا مدينة تاريخية محصّنة اشتهرت بمينائها العريق.توالت عليها حركات الاستيطان البشرية من دون توقف منذ الحقبة الفينيقية. أما مدينة عكّا الحالية فهي تميّز المدن المحصّنة العثمانية العائدة إلى القرنين الثامن عشر والتاسع عشر، بقلعتها، ومساجدها، وخاناتها وحمّاماتها العامة. وآثار مدينة الصليبيين التي ترقى إلى الفترة بين العامين 1104 و1291 سليمة بالكامل تقريبًا سواء أكانت تحت الأرض أم على سطحها، ما يكوّن صورة استثنائية لما كان عليه تنظيم المساحات العامة والبنى في عاصمة المملكة الصليبية في القدس، في القرون الوسطى.",
+          "zh": "阿克是个有城墙的港口城市，历史悠久，自腓尼基时代起，就一直有人类居住在这里。现在的城市是土耳其人18世纪到19世纪之后建立发展的要塞城镇，拥有保存完好的城堡、清真寺、商栈和土耳其浴室等建筑。城中十字军的遗址可以追溯到1104年到1291年，高于或低于如今的街道平面，保留完好，生动再现了中世纪耶路撒冷十字军王国的城市规划和城市结构。"
+        },
+        "full": "Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem.",
+        "justification": "Brief synthesis Acre, continuously settled from Phoenician times, was of major significance during the Crusader period in the Holy Land. Because of its position, located on a peninsula encompassing a natural bay, the city gained international significance from 1104 to 1291 as the capital of the Crusader kingdom of Jerusalem following its development as the Crusaders main port in the Holy Land. Whilst this strategically located port enabled it to become a centre for international trade, its physical boundaries, delineated by surrounding walls and sea, created a characteristic densely built mediaeval city. Following a long period of decline, during which it was still the main entry port for Christian pilgrims visiting Jerusalem, it flourished again in the 18th century as the capital of this part of the Ottoman Empire. Its unique character is in the substantial remains of the Crusader city that are preserved virtually intact beneath the typical Ottoman city preserved till the present day, and have in recent years been revealed by scientific excavation. The present townscape of the walled port-town is characteristic of Moslem perceptions of urban design, with narrow winding streets and fine public buildings and houses. Demonstrating the interchange of mediaeval European and Middle-Eastern architecture, the city has some exceptional edifices, including a citadel, mosques, khans and baths. Criterion (ii): Acre is an exceptional historic port-town in that it preserves the substantial remains of its medieval Crusader buildings beneath the existing Moslem fortified town dating from the 18th and 19th centuries. Criterion (iii): The remains of the Crusader town of Acre, both above and below the present-day street level, provide an exceptional picture of the layout and structures of the capital of the medieval Crusader Kingdom of Jerusalem. Criterion (v): Present-day Acre is an important example of an Ottoman walled town, with typical urban components such as the citadel, mosques, khans, and baths well preserved, partly built on top of the underlying Crusader structures. Integrity The boundaries of the property include the key elements of Crusader Acre which having been completely buried as a result of the Mamluk occupation at the end of the 13th century, is today mostly subterranean and has only recently begun to be uncovered. These well preserved remains include large portions of the fabric of urban life and buildings with all parts intact - walls, quarters, streets, alleys, fortresses, public buildings, religious buildings, dwellings, and shops, together with the subterranean infrastructure, architectural details, original plasterwork, and masonry. Building plans are clearly identifiable and building technology and materials can be accurately determined. The property also encompasses the remains of the Ottoman city that was built on the Crusader city and took the form of an urban system of alleyways, courtyards, and squares, reflecting the values of Moslem society. The geographical conditions that determined its development, together with its socio-economic structure, have maintained the integrity of Acre as essentially an Ottoman port-city of the 18th century without significant changes until the present time. The overall coherence of the city is vulnerable especially where maintenance and conservation activities are yet to be undertaken. Authenticity Two major periods in history have contributed to the appearance of contemporary Acre: the Crusader period and the late Ottoman period. The special nature of the city's evolution has allowed Acre to retain its character as a port city, with a blend of public buildings, caravanserais (khans), and religious buildings alongside markets, small shops, and large residential quarters, together with an active port which is still a source of income and access to the city. The major proportion of Acre's individual buildings have remained largely in the same form as when they were built, with few major alterations over the last 150-300 years. However, individual buildings remain vulnerable to changes away from traditional materials and methods of maintenance and repair. Protection and management requirements The Old City of Acre is a designated a site of antiquity under the 1978 Antiquity Law. Between 1993 and 2000 a heritage-focused Master Plan was drawn up by a steering committee for urban planning. This integrated the old city and port areas whilst also establishing a surrounding buffer zone. The property is managed jointly by Acre's Municipality, the Old Acre Development Company, a Government Agency, and the Israeli Antiquities Authority. Advising local residents in all matters of development, building permits and conservation measures the Israeli Antiquities Authority also operates a field office in the city. This office also supervises public and private work undertaken in the property. Much effort is being invested to ensure that the city of Acre remains a living city. In 2001, together with the local population, a residential quarter was selected as a Pilot Rehabilitation Project area. This project is ongoing and expanding, and aimed at developing measures to ensure the preservation of the physical fabric, whilst allowing adaptations required by modern life. Another goal is directed towards improving the social and economic conditions of local residents, and enhancing their sense of pride in the city's rich heritage. There is a need to strengthen the engagement of the local community in the maintenance of the built fabric of the city."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            5
+          ],
+          "display": "(ii)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 63.3,
+          "square_km": 0.63,
+          "square_miles": 0.256,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9fac3b9631c12e155599557ced7a7ee5",
+          "filename": "site_1042_0003-500-0-20151105105132.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/119390/site_1042_0003.jpg",
+            "https://whc.unesco.org/document/119391/site_1042_0004.jpg",
+            "https://whc.unesco.org/document/119392/site_1042_0005.jpg",
+            "https://whc.unesco.org/document/119393/site_1042_0006.jpg",
+            "https://whc.unesco.org/document/119394/site_1042_0007.jpg",
+            "https://whc.unesco.org/document/119395/site_1042_0008.jpg",
+            "https://whc.unesco.org/document/119396/site_1042_0009.jpg",
+            "https://whc.unesco.org/document/125189/site_1042_0010.jpg",
+            "https://whc.unesco.org/document/125191/site_1042_0012.jpg",
+            "https://whc.unesco.org/document/125192/site_1042_0013.jpg",
+            "https://whc.unesco.org/document/125193/site_1042_0014.jpg",
+            "https://whc.unesco.org/document/125194/site_1042_0015.jpg",
+            "https://whc.unesco.org/document/139192/site_1042_0016.jpg",
+            "https://whc.unesco.org/document/139193/site_1042_0017.jpg",
+            "https://whc.unesco.org/document/139194/site_1042_0018.jpg",
+            "https://whc.unesco.org/document/139195/site_1042_0019.jpg",
+            "https://whc.unesco.org/document/139196/site_1042_0020.jpg",
+            "https://whc.unesco.org/document/139197/site_1042_0021.jpg",
+            "https://whc.unesco.org/document/139198/site_1042_0022.jpg",
+            "https://whc.unesco.org/document/139199/site_1042_0023.jpg",
+            "https://whc.unesco.org/document/139200/site_1042_0024.jpg",
+            "https://whc.unesco.org/document/139201/site_1042_0025.jpg",
+            "https://whc.unesco.org/document/139202/site_1042_0026.jpg",
+            "https://whc.unesco.org/document/170248/site_1042_0027.jpg",
+            "https://whc.unesco.org/document/170249/site_1042_0028.jpg",
+            "https://whc.unesco.org/document/170250/site_1042_0029.jpg",
+            "https://whc.unesco.org/document/170251/site_1042_0030.jpg",
+            "https://whc.unesco.org/document/170252/site_1042_0031.jpg",
+            "https://whc.unesco.org/document/170253/site_1042_0032.jpg",
+            "https://whc.unesco.org/document/170254/site_1042_0033.jpg",
+            "https://whc.unesco.org/document/170255/site_1042_0034.jpg",
+            "https://whc.unesco.org/document/170256/site_1042_0035.jpg",
+            "https://whc.unesco.org/document/170257/site_1042_0036.jpg",
+            "https://whc.unesco.org/document/170258/site_1042_0037.jpg",
+            "https://whc.unesco.org/document/170259/site_1042_0038.jpg",
+            "https://whc.unesco.org/document/170260/site_1042_0039.jpg",
+            "https://whc.unesco.org/document/170261/site_1042_0040.jpg",
+            "https://whc.unesco.org/document/170262/site_1042_0041.jpg",
+            "https://whc.unesco.org/document/170263/site_1042_0042.jpg"
+          ],
+          "count": 39
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old City of Acre",
+            "ref": "1042",
+            "latitude": 32.9216666667,
+            "longitude": 35.0688888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1042",
+        "unesco_documents": "https://whc.unesco.org/en/list/1042/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1042/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1042/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old City of Acre Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem. Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem. Israel Europe and North America Cultural"
+    }
+  ]
+}

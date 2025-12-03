@@ -1,0 +1,180 @@
+{
+  "country": {
+    "code": "GNB",
+    "name": "Guinea-Bissau"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "coastal_and_marine_ecosystems_of_the_bijagos_archipelago_omati_minho",
+      "uuid": "f1b22f5f-6f46-5737-a823-0fc081fd3fef",
+      "unesco_id": "1431",
+      "names": {
+        "en": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+        "fr": "Écosystèmes côtiers et marins de l’Archipel des Bijagós - Omatí Minhô",
+        "es": "Ecosistemas costeros y marinos del archipiélago de Bijagós – Omatí Minhô",
+        "ru": "Прибрежные и морские экосистемы архипелага Бижагош — Омати Миньо",
+        "ar": "النظم الإيكولوجية الساحلية والبحرية لأرخبيل بيجاغوس – أوماتي مينهو",
+        "zh": "比热戈斯群岛海岸与海洋生态系统——祖灵圣境"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GNB": {
+            "name": "Guinea-Bissau",
+            "iso2": "GW",
+            "iso3": "GNB"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property includes a continuous series of coastal and marine ecosystems, corresponding to the marine and intertidal environments of the best-preserved areas of the Bijagós Archipelago in Guinea-Bissau. The Archipelago is the only active deltaic archipelago on the African Atlantic coast and one of the few in the world. The site is home to a rich biodiversity, including endangered Green and Leatherback turtles, manatees, dolphins, and over 870,000 migratory shorebirds. It features mangroves, mudflats, and intertidal zones vital for marine life, and supports rare plant species, diverse fish populations, and bird colonies. Poilão Island is a globally important nesting site for turtles.",
+          "fr": "Ce bien comprend un ensemble continu d’écosystèmes côtiers et marins, correspondant aux milieux marins et intertidaux des zones les mieux préservées et ayant la plus haute valeur écologique de l’Archipel des Bijagós en Guinée-Bissau. Il s’agit du seul, et l’un des rares au monde, archipel deltaïque actif de la côte atlantique africaine. Le site abrite une riche biodiversité, notamment la tortue verte et la tortue luth, toutes deux menacées, des lamantins, des dauphins, ainsi que plus de 870 000 oiseaux côtiers migrateurs. Il comprend des mangroves, des vasières et des zones intertidales fondamentales pour la vie marine et abrite des espèces de plantes rares, des poissons divers et des regroupements d’oiseaux. L’îlot de Poilão est un des principaux lieux de nidification de tortues marines à travers le monde.",
+          "es": "El bien patrimonial incluye un encadenamiento de ecosistemas costeros y marinos correspondientes a los entornos marinos e intermareales de las áreas mejor conservadas del archipiélago de Bijagós en Guinea-Bissau. El archipiélago es el único archipiélago deltaico activo en la costa atlántica africana y uno de los pocos en el mundo. El sitio alberga una rica biodiversidad y especies emblemáticas como las tortugas verdes y laúd en peligro de extinción, manatíes, delfines y más de 870 000 aves costeras migratorias. Cuenta con manglares, marismas y zonas intermareales vitales para la vida marina, y alberga especies vegetales poco comunes, poblaciones diversas de peces y colonias de aves. La isla de Poilão es uno de los principales lugares de anidación de tortugas a nivel mundial.",
+          "ru": "Этот объект охватывает цепь прибрежных и морских экосистем, относящихся к морским и литоральным зонам наилучшим образом сохранившихся территорий архипелага Бижагош в Гвинее-Бисау. Архипелаг является единственным геологически активным дельтовым архипелагом на Атлантическом побережье Африки и одним из немногих в мире. Объект отличается богатым биоразнообразием: здесь обитают такие вымирающие виды, как зелёные и кожистые черепахи, а также ламантины, дельфины и более 870 000 мигрирующих прибрежных птиц. На территории объекта расположены мангровые заросли, илистые отмели и литоральные зоны, играющие ключевую роль для морской жизни. Кроме того, здесь произрастают редкие виды растений, обитают разнообразные виды рыб и колонии птиц. Остров Поилао — это место гнездования черепах, имеющее",
+          "ar": "يضمُّ هذا الموقع سلسلة متواصلة من النظم الإيكولوجية الساحلية والبحرية الموافقة للبيئات البحرية والمناطق المدية الواقعة في المناطق الأفضل حفظاً من أرخبيل بيجاغوس في غينيا-بيساو. وهذا الأرخبيل هو الوحيد الذي يمتلك دلتا على ساحل المحيط الأطلسي الأفريقي، وهو واحد من قلائل مثله في العالم. ويستوطن في هذا الموقع تنوع بيولوجي غني، يتضمن السلاحف الخضراء والجلدية الظهر المهددة بالانقراض، وخراف البحر والدلافين، وأكثر من 870000 طائر شاطئي مهاجر. ويتميز الموقع بوجود أشجار المانغروف والمسطحات الطينية والمناطق المدِّية الحيوية بالنسبة إلى الأحياء البحرية، وهو يؤوي أنواعاً نادرة من النباتات وأنواعاً مختلفة من الأسماك ومستعمرات للطيور. وتكتسي جزيرة بويلاو أهمية عالمية كموقع لتعشيش السلاحف.",
+          "zh": "该遗产涵盖一系列连续的滨海和海洋生态系统，对应几内亚比绍比热戈斯群岛保存最完好区域的海洋与潮间带环境。群岛是非洲大西洋海岸唯一活跃的三角洲群岛，也是全球为数不多的此类地貌之一。该地拥有丰富的生物多样性，包括濒危的绿海龟、棱皮龟、海牛、海豚，以及超87万只迁徙性岸鸟。红树林、泥滩、潮间带构成海洋生物的关键生境，稀有植物和多样鱼类种群、鸟类群落在此栖息。群岛中的波伊朗岛是全球重要的海龟产卵地。"
+        },
+        "full": "The property includes a continuous series of coastal and marine ecosystems, corresponding to the marine and intertidal environments of the best-preserved areas of the Bijagós Archipelago in Guinea-Bissau. The Archipelago is the only active deltaic archipelago on the African Atlantic coast and one of the few in the world. The site is home to a rich biodiversity, including endangered Green and Leatherback turtles, manatees, dolphins, and over 870,000 migratory shorebirds. It features mangroves, mudflats, and intertidal zones vital for marine life, and supports rare plant species, diverse fish populations, and bird colonies. Poilão Island is a globally important nesting site for turtles.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 394067.28,
+          "square_km": 3940.67,
+          "square_miles": 1594.736,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4bdd798769f52e0cbd3a0d513d4a943b",
+          "filename": "site_1431_0001.jpg",
+          "dimensions": {
+            "width": 4434,
+            "height": 2956
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/219813/site_1431_0001.jpg",
+            "https://whc.unesco.org/document/219816/site_1431_0004.jpg",
+            "https://whc.unesco.org/document/219817/site_1431_0005.jpg",
+            "https://whc.unesco.org/document/219819/site_1431_0007.jpg",
+            "https://whc.unesco.org/document/219820/site_1431_0008.jpg",
+            "https://whc.unesco.org/document/219821/site_1431_0009.jpg",
+            "https://whc.unesco.org/document/219822/site_1431_0010.jpg",
+            "https://whc.unesco.org/document/219824/site_1431_0012.jpg",
+            "https://whc.unesco.org/document/219825/site_1431_0013.jpg",
+            "https://whc.unesco.org/document/220708/site_1431_0014.jpg",
+            "https://whc.unesco.org/document/220709/site_1431_0015.jpg",
+            "https://whc.unesco.org/document/220710/site_1431_0016.jpg",
+            "https://whc.unesco.org/document/220711/site_1431_0017.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+            "ref": "1431rev",
+            "latitude": 11.12,
+            "longitude": -15.9488888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1431",
+        "unesco_documents": "https://whc.unesco.org/en/list/1431/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1431/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1431/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô The property includes a continuous series of coastal and marine ecosystems, corresponding to the marine and intertidal environments of the best-preserved areas of the Bijagós Archipelago in Guinea-Bissau. The Archipelago is the only active deltaic archipelago on the African Atlantic coast and one of the few in the world. The site is home to a rich biodiversity, including endangered Green and Leatherback turtles, manatees, dolphins, and over 870,000 migratory shorebirds. It features mangroves, mudflats, and intertidal zones vital for marine life, and supports rare plant species, diverse fish populations, and bird colonies. Poilão Island is a globally important nesting site for turtles. The property includes a continuous series of coastal and marine ecosystems, corresponding to the marine and intertidal environments of the best-preserved areas of the Bijagós Archipelago in Guinea-Bissau. The Archipelago is the only active deltaic archipelago on the African Atlantic coast and one of the few in the world. The site is home to a rich biodiversity, including endangered Green and Leatherback turtles, manatees, dolphins, and over 870,000 migratory shorebirds. It features mangroves, mudflats, and intertidal zones vital for marine life, and supports rare plant species, diverse fish populations, and bird colonies. Poilão Island is a globally important nesting site for turtles. Guinea-Bissau Africa Natural"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "site_key": "noel_kempff_mercado_national_park",
+  "uuid": "1f666f49-1530-52ec-919a-b7a1ca17db8b",
+  "unesco_id": "967",
+  "names": {
+    "en": "Noel Kempff Mercado National Park",
+    "fr": "Parc national Noel Kempff Mercado",
+    "es": "Parque Nacional Noel Kempff Mercado",
+    "ru": "Национальный парк Ноэль-Кемпфф-Меркадо",
+    "ar": "المنتزه الوطني نويل كمبف ميركادو",
+    "zh": "挪尔•肯普夫墨卡多国家公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "BOL": {
+        "name": "Bolivia",
+        "iso2": "BO",
+        "iso3": "BOL"
+      }
+    },
+    "region": {
+      "name": "Latin America and the Caribbean",
+      "code": "LAC"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+      "fr": "Ce parc national est l'un des plus grands (1 523 000 ha) et des plus intacts du bassin amazonien. Variant en altitude de 200 m à près de 1 000 m, il offre une riche mosaïque d'habitats allant des forêts sempervirentes amazoniennes de haute altitude à la savane et à la forêt du Cerrado. Le parc présente une histoire évolutionnaire couvrant plus d'un milliard d'années depuis le Précambrien. Il abrite des populations viables de nombreux grands vertébrés en péril ou menacés d'extinction au niveau mondial, une flore estimée à 4 000 espèces et plus de 600 espèces d'oiseaux.",
+      "es": "El Parque Nacional Noel Kempff Mercado es uno de los más grandes (1.523.000 hectáreas) y mejor conservados de la cuenca del Amazonas. Con altitudes que oscilan entre los 200 y 1.000 metros, posee un rico mosaico de hábitats que van desde el bosque montañoso amazónico de hoja perenne hasta la sabana y el cerrado. El parque ilustra la historia de la evolución a lo largo de 1.000 millones de años, desde el Periodo Precámbrico. Además, alberga poblaciones viables de vertebrados de gran tamaño en peligro de extinción en todo el mundo, una flora de 4.000 especies y más de 600 variedades de pájaros.",
+      "ru": "Национальный парк Ноэль-Кемпфф-Меркадо – один из самых крупных по площади (1,5 млн. га) и наиболее сохранных парков во всем бассейне Амазонки. Высотные отметки колеблются от 200 м и почти до 1000 м, что определяет большое ландшафтное разнообразие – от лесистых саванн («кампос-серрадо») до вечнозеленых горных амазонских лесов. Примечательна геологическая история этой местности, насчитывающая около миллиарда лет, – начиная с докембрия. В парке произрастает около 4 тыс. видов растений, обитает свыше 600 видов птиц, а также отмечены жизнеспособные популяции многих видов позвоночных животных, которые признаны редкими и исчезающими в глобальном масштабе.",
+      "ar": "يُعتبر هذا المنتزه الوطني أحد المنتزهات الأكبر مساحة (1523000 هكتار) وأقلّها استغلالاً في الحوض الأمازوني. يتراوح ارتفاعه بين 200 متر وحوالى 1000 متر، وهو بذلك يشكّل فسيفساء غنية من المساكن الطبيعية التي تتنوّع بين الغابات الأمازونية الدائمة الخضرة الواقعة على علو مرتفع والسهول العشبية وغابة السيرادو. ويحمل المنتزه في طيّاته تاريخاً تطورياً يمتّد على أكثر من مليار سنة منذ العصر ما قبل الكمبريّ. وهو يأوي أجناساً قابلة للحياة من العديد من الفقريات الكبيرة المعرّضة للخطر أو المهددة بالإنقراض على المستوى العالمي، ويتغنّى بثروة نباتية تُقدّر بـ 4000 صنف نباتي وبأكثر من 600 جنس من الطيور.",
+      "zh": "这座国家公园（占地1 523 000公顷）是亚马逊盆地最大和保护最为完好的公园之一，海拔高度从200米到近1000米。该公园有着各种各样的生物栖息地，包括赛拉多(Cerrado)大草原、森林和亚马逊高地常青林。肯普夫国家公园展示了距今10多亿年前到寒武纪之间的自然进化历程，据估计，公园内生存有约4000种植物、600多种鸟类和许多世界上濒危的脊椎动物。"
+    },
+    "full": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        9,
+        10
+      ],
+      "all": [
+        9,
+        10
+      ],
+      "display": "(ix)(x)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 1523446,
+      "square_km": 15234.46,
+      "square_miles": 6165.177,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2000,
+      "all_dates": [
+        2000
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2000,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7ecfd51e9621156afe0b40b3196fc8f8",
+      "filename": "site_0967_0001-500-0-20090924163735.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 334
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113883/site_0967_0001.jpg"
+      ],
+      "count": 1
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Noel Kempff Mercado National Park",
+        "ref": "967",
+        "latitude": -14.26667,
+        "longitude": -60.86667
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/967",
+    "unesco_documents": "https://whc.unesco.org/en/list/967/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/967/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/967/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Americas",
+    "geographic_type": "Forest",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 25,
+    "inscription_year": 2000
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Noel Kempff Mercado National Park The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park. The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park. Bolivia Latin America and the Caribbean Natural"
+}

@@ -1,0 +1,734 @@
+{
+  "country": {
+    "code": "NPL",
+    "name": "Nepal"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "kathmandu_valley",
+      "uuid": "7662dd12-209a-508f-bf5e-3a146a6c27cb",
+      "unesco_id": "121",
+      "names": {
+        "en": "Kathmandu Valley",
+        "fr": "Vallée de Kathmandu",
+        "es": "Valle de Katmandú",
+        "ru": "Долина Катманду",
+        "ar": "وادي كاتماندو",
+        "zh": "加德满都谷地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NPL": {
+            "name": "Nepal",
+            "iso2": "NP",
+            "iso3": "NPL"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan.",
+          "fr": "Le patrimoine culturel de la Vallée de Kathmandu est illustré par sept ensembles de monuments et constructions, couvrant l’éventail complet des réalisations historiques et artistiques qui ont rendu la Vallée de Kathmandu mondialement célèbre. Ces sept ensembles comprennent les places Durbar de Hanuman Dhoka (Kathmandu), Patan et Bhaktapur, les stupas bouddhistes de Swayambhu et Bauddhanath ainsi que les temples hindous de Pashupati et de Changu Narayan.",
+          "es": "El sitio del valle de Katmandú comprende siete conjuntos de monumentos y edificios representativos de la totalidad de las obras históricas y artísticas que han hecho mundialmente célebre al valle de Katmandú. En esos siete conjuntos están comprendidas: las tres plazas Durbar situadas frente a los palacios reales de Hanuman Dhoka (Katmandú), Patán y Bhaktapur; las estupas budistas de Swayambhu y Bauddhabath; y los templos hinduistas de Pashupati y Changu Narayan.",
+          "ru": "Культурное наследие долины Катманду иллюстрируется 7 группами памятников и зданий, представляющих собой самые значимые достижения в архитектуре и искусстве, благодаря которым эти места прославились на весь мир. Эти группы памятников включают: три площади Дурбар - в Катманду (комплекс Хануман Дхока), Патане и Бхактапуре, буддийские ступы Сваямбхунатх и Бодхнатх, а также индуистские храмы Пашупати и Чангу-Нараян.",
+          "ar": "يظهر التراث الثقافي في وادي كاتماندو من خلال مجمّعات الآثار والعمارات السبعة التي تغطي تشكيلة المنشآت التاريخية والفنية الكاملة التي جعلت وادي كاتماندو مشهورًا في أنحاء العالم كلّه. وتتضمَّن هذه المجمّعات السبعة ساحات دوربار في هانومان دوكا (كاتماندو) وباتن وباكتابور والمعابد البوذية في سوايامبو، بالاضافة الى المعابد الهندوسية في باشوباتي وشنغو نارايان.",
+          "zh": "加德满都谷地文化遗产有七组历史遗址和建筑群，全面反映了加德满都谷地闻名于世的历史和艺术成就。七组历史遗址包括加德满都、帕坦和巴德冈王宫广场、斯瓦亚姆布与博德纳特佛教圣庙和伯舒伯蒂与钱古·纳拉扬印度神庙。"
+        },
+        "full": "The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan.",
+        "justification": "Brief synthesis Located in the foothills of the Himalayas, the Kathmandu Valley World Heritage property is inscribed as seven Monument Zones. These monument zones are the Durbar squares or urban centres with their palaces, temples and public spaces of the three cities of Kathmandu (Hanuman Dhoka), Patan and Bhaktapur, and the religious ensembles of Swayambhu, Bauddhanath, Pashupati and Changu Narayan. The religious ensemble of Swayambhu includes the oldest Buddhist monument (a stupa) in the Valley; that of Bauddhanath includes the largest stupa in Nepal; Pashupati has an extensive Hindu temple precinct, and Changu Narayan comprises traditional Newari settlement, and a Hindu temple complex with one of the earliest inscriptions in the Valley from the fifth century AD. The unique tiered temples are mostly made of fired brick with mud mortar and timber structures. The roofs are covered with small overlapping terracotta tiles, with gilded brass ornamentation. The windows, doorways and roof struts have rich decorative carvings. The stupas have simple but powerful forms with massive, whitewashed hemispheres supporting gilded cubes with the all-seeing eternal Buddha eyes. As Buddhism and Hinduism developed and changed over the centuries throughout Asia, both religions prospered in Nepal and produced a powerful artistic and architectural fusion beginning at least from the 5th century AD, but truly coming into its own in the three hundred year period between 1500 and 1800 AD. These monuments were defined by the outstanding cultural traditions of the Newars, manifested in their unique urban settlements, buildings and structures with intricate ornamentation displaying outstanding craftsmanship in brick, stone, timber and bronze that are some of the most highly developed in the world. Criterion (iii): The seven monument ensembles represent an exceptional testimony to the traditional civilization of the Kathmandu Valley. The cultural traditions of the multi ethnic people who settled in this remote Himalayan valley over the past two millennia, referred to as the Newars, is manifested in the unique urban society which boasts of one of the most highly developed craftsmanship of brick, stone, timber and bronze in the world. The coexistence and amalgamation of Hinduism and Buddhism with animist rituals and Tantrism is considered unique. Criterion (iv): The property is comprised of exceptional architectural typologies, ensembles and urban fabric illustrating the highly developed culture of the Valley, which reached an apogee between 1500 and 1800 AD. The exquisite examples of palace complexes, ensembles of temples and stupas are unique to the Kathmandu Valley. Criterion (vi): The property is tangibly associated with the unique coexistence and amalgamation of Hinduism and Buddhism with animist rituals and Tantrism. The symbolic and artistic values are manifested in the ornamentation of the buildings, the urban structure and often the surrounding natural environment, which are closely associated with legends, rituals and festivals. Integrity All the attributes that express the outstanding universal value of the Kathmandu Valley are represented through the seven monument zones established with the boundary modification accepted by the World Heritage Committee in 2006. These encompass the seven historic ensembles and their distinct contexts. The majority of listed buildings are in good condition and the threat of urban development is being controlled through the Integrated Management Plan. However the property continues to be vulnerable to encroaching development, in particular new infrastructure. Authenticity The authenticity of the property is retained through the unique form, design, material and substance of the monuments, displaying a highly developed traditional craftsmanship and situated within a traditional urban or natural setting. Even though the Kathmandu Valley has undergone immense urbanization, the authenticity of the historic ensembles as well as much of the traditional urban fabric within the boundaries has been retained. Protection and management requirements The designated property has been declared a protected monument zone under the Ancient Monument Preservation Act, 1956, providing the highest level of national protection. The property has been managed by the coordinative action of tiers of central government, local government and non-governmental organizations within the responsibilities and authorities clearly enumerated in the Integrated Management Plan for the Kathmandu World Heritage Property adopted in 2007. The implementation of the Integrated Management Plan will be reviewed in five-year cycles allowing necessary amendments and augmentation to address changing circumstances. A critical component that will be addressed is disaster risk management for the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 167.37,
+          "square_km": 1.67,
+          "square_miles": 0.677,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/081fac3847657cc25b0518c9543d5dd2",
+          "filename": "site_0121_0001.jpg",
+          "dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107995/site_0121_0001.jpg",
+            "https://whc.unesco.org/document/107998/site_0121_0002.jpg",
+            "https://whc.unesco.org/document/107999/site_0121_0004.jpg",
+            "https://whc.unesco.org/document/108006/site_0121_0010.jpg",
+            "https://whc.unesco.org/document/108008/site_0121_0011.jpg",
+            "https://whc.unesco.org/document/108010/site_0121_0012.jpg",
+            "https://whc.unesco.org/document/108012/site_0121_0013.jpg",
+            "https://whc.unesco.org/document/108013/site_0121_0014.jpg",
+            "https://whc.unesco.org/document/108018/site_0121_0016.jpg",
+            "https://whc.unesco.org/document/108019/site_0121_0017.jpg",
+            "https://whc.unesco.org/document/108021/site_0121_0018.jpg",
+            "https://whc.unesco.org/document/108023/site_0121_0019.jpg",
+            "https://whc.unesco.org/document/108026/site_0121_0020.jpg",
+            "https://whc.unesco.org/document/130496/site_0121_0022.jpg",
+            "https://whc.unesco.org/document/130497/site_0121_0023.jpg",
+            "https://whc.unesco.org/document/133020/site_0121_0024.jpg",
+            "https://whc.unesco.org/document/133021/site_0121_0025.jpg",
+            "https://whc.unesco.org/document/133022/site_0121_0026.jpg",
+            "https://whc.unesco.org/document/134066/site_0121_0028.jpg",
+            "https://whc.unesco.org/document/134067/site_0121_0029.jpg",
+            "https://whc.unesco.org/document/147212/site_0121_0030.jpg",
+            "https://whc.unesco.org/document/147213/site_0121_0031.jpg",
+            "https://whc.unesco.org/document/147214/site_0121_0032.jpg",
+            "https://whc.unesco.org/document/147215/site_0121_0033.jpg",
+            "https://whc.unesco.org/document/147216/site_0121_0034.jpg",
+            "https://whc.unesco.org/document/147217/site_0121_0035.jpg",
+            "https://whc.unesco.org/document/147218/site_0121_0036.jpg",
+            "https://whc.unesco.org/document/147219/site_0121_0037.jpg",
+            "https://whc.unesco.org/document/147220/site_0121_0038.jpg",
+            "https://whc.unesco.org/document/147221/site_0121_0039.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Swayambhu",
+            "ref": "121bis-004",
+            "latitude": 27.7144444444,
+            "longitude": 85.2925
+          },
+          {
+            "name": "Pashupati",
+            "ref": "121bis-006",
+            "latitude": 27.710523,
+            "longitude": 85.34884
+          },
+          {
+            "name": "Bauddhanath",
+            "ref": "121bis-005",
+            "latitude": 27.7211111111,
+            "longitude": 85.3641666667
+          },
+          {
+            "name": "Changunarayan",
+            "ref": "121bis-007",
+            "latitude": 27.7161111111,
+            "longitude": 85.43
+          },
+          {
+            "name": "Patan Durbar Square",
+            "ref": "121bis-002",
+            "latitude": 27.672678,
+            "longitude": 85.32519
+          },
+          {
+            "name": "Bhaktapur Durbar Square",
+            "ref": "121bis-003",
+            "latitude": 27.672426,
+            "longitude": 85.428467
+          },
+          {
+            "name": "Hanuman Dhoka Durbar Square",
+            "ref": "121bis-001",
+            "latitude": 27.7038888889,
+            "longitude": 85.3083333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/121",
+        "unesco_documents": "https://whc.unesco.org/en/list/121/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/121/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/121/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kathmandu Valley The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan. The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan. Nepal Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "lumbini_the_birthplace_of_the_lord_buddha",
+      "uuid": "61b08024-e430-5ffa-b24f-de24c7666efb",
+      "unesco_id": "666",
+      "names": {
+        "en": "Lumbini, the Birthplace of the Lord Buddha",
+        "fr": "Lumbini, lieu de naissance du Bouddha",
+        "es": "Lumbini, lugar de nacimiento de Buda",
+        "ru": "Лумбини, место рождения Будды",
+        "ar": "لومبيني، مكان ولادة بوذا",
+        "zh": "佛祖诞生地兰毗尼"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NPL": {
+            "name": "Nepal",
+            "iso2": "NP",
+            "iso3": "NPL"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature.",
+          "fr": "Siddharta Gautama, le Bouddha, est né en 623 av. J.-C. dans les célèbres jardins de Lumbini et son lieu de naissance est devenu un lieu de pèlerinage. Parmi les pèlerins se trouvait l'empereur indien Asoka qui a fait édifier à cet endroit l'un de ses piliers commémoratifs. Le site est maintenant un foyer de pèlerinage centré sur les vestiges associés au début du bouddhisme et à la naissance du Bouddha.",
+          "es": "Sidharta Gautama, Buda, nació el año 623 a.C. en los famosos jardines de Lumbini, que pronto se convertirían en un lugar de peregrinación. Un ilustre peregrino, el emperador indio Asoka, ordenó erigir en ellos uno de sus pilares conmemorativos. Hoy en día, este sitio sigue siendo un centro de peregrinación, en el que los vestigios arqueológicos vinculados al nacimiento de Buda y los comienzos del budismo constituyen uno de sus principales centros de interés.",
+          "ru": "Сиддхартха Гаутама – великий Будда, был рожден в 623 г. до н.э в знаменитых садах Лумбини, ставших вскоре местом паломничества. Среди паломников был индийский император Ашока, который установил здесь одну из своих памятных колонн. Сейчас в Лумбини функционирует центр паломничества буддистов, где главная достопримечательность – археологические находки, ассоциируемые с рождением великого Будды.",
+          "ar": "ولد سيدهرتا غوتاما أي بوذا في العام 623 ق.م. في حدائق لومبيني الشهيرة التي أصبحت مكانًا للحج. وكان من بين الحجاج الامبراطور الهندي اسوكا الذي شيد في هذا المكان إحدى دعائمه التذكارية. ويُعتبر هذا الموقع اليوم مركزًا للحج يتضمَّن بشكلٍ أساسي الآثار المرتبطة ببداية البوذية و بولادة بوذا.",
+          "zh": "释迦牟尼佛祖于公元前623年诞生于兰毗尼一座著名的花园，后来该处就成为朝圣之地。印度的阿育王也是朝拜者之一，并在此建立了一个他的纪念碑。这里现在已逐渐成为佛教徒的朝圣中心，以考古遗迹和佛祖诞生地为主要特色。"
+        },
+        "full": "Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature.",
+        "justification": "Brief synthesis The Lord Buddha was born in 623 BC in the sacred area of Lumbini located in the Terai plains of southern Nepal, testified by the inscription on the pillar erected by the Mauryan Emperor Asoka in 249 BC. Lumbini is one of the holiest places of one of the world's great religions, and its remains contain important evidence about the nature of Buddhist pilgrimage centres from as early as the 3rd century BC. The complex of structures within the archaeological conservation area includes the Shakya Tank; the remains within the Maya Devi Temple consisting of brick structures in a cross-wall system dating from the 3rd century BC to the present century and the sandstone Ashoka pillar with its Pali inscription in Brahmi script. Additionally there are the excavated remains of Buddhist viharas (monasteries) of the 3rd century BC to the 5th century AD and the remains of Buddhist stupas (memorial shrines) from the 3rd century BC to the 15th century AD. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature. Criterion (iii): As the birthplace of the Lord Buddha, testified by the inscription on the Asoka pillar, the sacred area in Lumbini is one of the most holy and significant places for one of the world’s great religions. Criterion (vi): The archaeological remains of the Buddhist viharas (monasteries) and stupas (memorial shrines) from the 3rd century BC to the 15th century AD, provide important evidence about the nature of Buddhist pilgrimage centres from a very early period. Integrity The integrity of Lumbini has been achieved by means of preserving the archaeological remains within the property boundary that give the property its Outstanding Universal Value. The significant attributes and elements of the property have been preserved. The buffer zone gives the property a further layer of protection. Further excavations of potential archaeological sites and appropriate protection of the archaeological remains are a high priority for the integrity of the property. The property boundary however does not include the entire archaeological site and various parts are found in the buffer zone. The entire property including the buffer zone is owned by the Government of Nepal and is being managed by the Lumbini Development Trust and therefore there is little threat of development or neglect. However the effects of industrial development in the region have been identified as a threat to the integrity of the property. Authenticity The authenticity of the archaeological remains within the boundaries has been confirmed through a series of excavations since the discovery of the Asoka pillar in 1896. The remains of viharas, stupas and numerous layers of brick structures from the 3rd century BC to the present century at the site of the Maya Devi Temple are proof of Lumbini having been a centre of pilgrimage from early times. The archaeological remains require active conservation and monitoring to ensure that the impact of natural degradation, influence of humidity and the impact of the visitors are kept under control. The property continues to express its Outstanding Universal Value through its archaeological remains. The delicate balance must be maintained between conserving the archaeological vestiges of the property while providing for the pilgrims. Protection and management requirements The property site is protected by the Ancient Monument Preservation Act 1956. The site management is carried out by the Lumbini Development Trust, an autonomous and non-profit making organization. The entire property is owned by the Government of Nepal. The property falls within the centre of the Master Plan area, the planning of which was initiated together with the United Nations and carried out by Prof. Kenzo Tange between 1972 and 1978. The long-term challenges for the protection and management of the property are to control the impact of visitors, and natural impacts including humidity and the industrial development in the region. A Management Plan is in the process of being developed to ensure the long-term safeguarding of the archaeological vestiges of the property while allowing for the property to continue being visited by pilgrims and tourists from around the world."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.95,
+          "square_km": 0.02,
+          "square_miles": 0.008,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b74a225c5e80eec9849bbcbec59176e4",
+          "filename": "site_0666_0001.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112147/site_0666_0001.jpg",
+            "https://whc.unesco.org/document/112150/site_0666_0003.jpg",
+            "https://whc.unesco.org/document/112152/site_0666_0004.jpg",
+            "https://whc.unesco.org/document/112154/site_0666_0005.jpg",
+            "https://whc.unesco.org/document/112156/site_0666_0006.jpg",
+            "https://whc.unesco.org/document/122561/site_0666_0009.jpg",
+            "https://whc.unesco.org/document/122562/site_0666_0010.jpg",
+            "https://whc.unesco.org/document/125226/site_0666_0011.jpg",
+            "https://whc.unesco.org/document/125227/site_0666_0012.jpg",
+            "https://whc.unesco.org/document/125228/site_0666_0013.jpg",
+            "https://whc.unesco.org/document/125229/site_0666_0014.jpg",
+            "https://whc.unesco.org/document/125230/site_0666_0015.jpg",
+            "https://whc.unesco.org/document/125231/site_0666_0016.jpg",
+            "https://whc.unesco.org/document/130236/site_0666_0018.jpg",
+            "https://whc.unesco.org/document/147233/site_0666_0019.jpg",
+            "https://whc.unesco.org/document/147234/site_0666_0020.jpg",
+            "https://whc.unesco.org/document/147235/site_0666_0021.jpg",
+            "https://whc.unesco.org/document/147236/site_0666_0022.jpg",
+            "https://whc.unesco.org/document/147237/site_0666_0023.jpg",
+            "https://whc.unesco.org/document/147238/site_0666_0024.jpg",
+            "https://whc.unesco.org/document/147239/site_0666_0025.jpg",
+            "https://whc.unesco.org/document/147240/site_0666_0026.jpg",
+            "https://whc.unesco.org/document/147241/site_0666_0027.jpg",
+            "https://whc.unesco.org/document/147242/site_0666_0028.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/666",
+        "unesco_documents": "https://whc.unesco.org/en/list/666/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/666/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/666/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Lumbini, the Birthplace of the Lord Buddha Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature. Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature. Nepal Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "sagarmatha_national_park",
+      "uuid": "8d47d74d-9ad0-5a52-b7b4-7b785163a91a",
+      "unesco_id": "120",
+      "names": {
+        "en": "Sagarmatha National Park",
+        "fr": "Parc national de Sagarmatha",
+        "es": "Parque Nacional de Sagarmatha",
+        "ru": "Национальный парк Сагарматха (район горы Эверест)",
+        "ar": "منتزه ساغارماتا الوطني",
+        "zh": "萨加玛塔国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NPL": {
+            "name": "Nepal",
+            "iso2": "NP",
+            "iso3": "NPL"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site.",
+          "fr": "Dans un paysage de montagnes grandioses où culmine le plus haut sommet du monde, l'Everest (8 848 m), de glaciers et de vallées profondes, le parc abrite des espèces rares, comme le léopard des neiges et le petit panda. La présence des Sherpas, qui y ont développé une culture originale, ajoute à l'intérêt du site.",
+          "es": "En un paisaje de glaciares, valles profundos y macizos montañosos grandiosos rematados por el pico más alto del mundo, el Everest (8.848 metros), este parque alberga especies animales raras como el leopardo de las nieves y el panda enano. La presencia de la etnia sherpa, creadora de una cultura única en su género, añade interés al sitio.",
+          "ru": "Сагарматха – это выдающийся природный ландшафт, включающий высокогорья, ледники и глубокие ущелья, над которыми доминирует высочайшая вершина мира – гора Эверест (8848 м). В парке обитают несколько редких видов животных, включая снежного барса и малую панду. Уникальная культура местного населения – шерпов – также привлекает внимание к этой местности.",
+          "ar": "يقع هذا المنتزه في طبيعةٍ تتألَّف من جبالٍ عظيمةٍ حيث تطل أعلى القمم في العالم، قمة الايفيرست (8848 م)، ومن جبال جليدية ووديان عميقة. كما يأوي المنتزه فصائلَ نادرةً، مثل فهد الثلج والباندا الصغير. أما وجود الشيرباز الذين طوروا ثقافةً مميزةً في هذا الموقع، فيُضفي أهمية كبيرة عليه.",
+          "zh": "萨加玛塔是一个特别的地区，全区遍布形态各异的山脉、冰河和深谷。主要山脉珠穆朗玛峰，即世界最高峰，海拔8848米。公园里有许多稀有物种，例如雪豹和小熊猫。而舍帕斯部落的独特文化更使这一国家公园增加了魅力。"
+        },
+        "full": "Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site.",
+        "justification": "Brief synthesis Including the highest point on the Earth’s Surface, Mount Sagarmatha (Everest; 8,848 m) and an elevation range of 6,000 m Sagarmatha National Park (SNP) covers an area of 124,400 hectares in the Solu-Khumbu district of Nepal. An exceptional area with dramatic mountains, glaciers, deep valleys and seven peaks other than Mount Sagarmatha over 7,000 m the park is home to several rare species such as the snow leopard and the red panda. A well-known destination for mountain tourism SNP was gazetted in 1976 and with over 2,500 Sherpa people living within the park has combined nature and culture since its inception. Encompassing the infinitely majestic snow capped peaks of the Great Himalayan Range, the chain of mountains including the world’s highest Mt. Sagarmatha (Everest) and extensive Sherpa settlements that embody the openness of SNP to the rest of the world. The carefully preserved natural heritage and the dramatic beauty of the high, geologically young mountains and glaciers were recognized by UNESCO with the inscription of the park as a world heritage site in 1979. The property hosts over 20 villages with over 6000 Sherpas who have inhabited the region for the last four centuries. Continuing their traditional practice of cultural and religion including the restriction of animal hunting and slaughtering, and reverence of all living beings. These practices combined with indigenous natural resource management practices, have been major contributing factors to the successful conservation of the SNP. The constantly increasing numbers of tourists visiting the property, 3,600 visitors in 1979 to over 25000 in 2010, has immensely boosted the local economy and standard of living with better health, education, and infrastructure facilities. One initiative of SNP has been to implement a buffer zone (BZ) program to enhance protection and management of the property and was motivated by a desire to enhance conservation in combination with improved socio-economic status of the local communities through a revenue plough back system. The SNP area is also the major source of glaciers, providing freshwater-based benefits for the people downstream. In addition to conservation of the values of the property a priority of the park is to monitor the impacts of global warming and climate change on flora, fauna and Sherpa communities. Criteria (vii): Sagarmatha National Parks’ superlative and exceptional natural beauty is embedded in the dramatic mountains, glaciers, deep valleys and majestic peaks including the Worlds’ highest, Mount Sagarmatha (Everest) (8,848 m.). The area is home to several rare species such as the snow leopard and the red panda. The area represents a major stage of the Earth’s evolutionary history and is one of the most geologically interesting regions in the world with high, geologically young mountains and glaciers creating awe inspiring landscapes and scenery dominated by the high peaks and corresponding deeply-incised valleys. This park contains the world’s highest ecologically characteristic flora and fauna, intricately blended with the rich Sherpa culture. The intricate linkages of the Sherpa culture with the ecosystem are a major highlight of the park and they form the basis for the sustainable protection and management of the park for the benefit of the local communities. Integrity Encompassing the upper catchment of the Dudh Kosi River system the boundaries of the property ensure the integrity of its values. The property’s Northern boundary is defined by the main divide of the Great Himalayan Range, which follows the International boundary between Nepal and the Tibetan Autonomous Region of the People’s Republic of China. The other boundaries are demarked by physical divisions encompassing discrete physical entities in the Khumbu region with the southern boundary extending almost as far as Monjo on the Dudh Kosi River. The property’s integrity is enhanced by the designation of a buffer zone that is not part of the inscribed property. The buffer zone to the south of the property was designated in 2002 and serves as a protective layer to the park. The involvement of local communities in the buffer zone management practices is an additional asset for the park sustainability. The protective designation of the park has been further increased with the establishment of the Makalu Barun National Park (1998) in the eastern region of the property and Gauri Shankar Conservation Area (2010) in the west. These additional sites, combined with the attachment of SNP’s northern region with Qomolongma Nature Reserve in the Tibetan Autonomous Region of the People’s Republic of China have added further protection to the values of the property . The primarily Tibetan Buddhist Sherpas who live within the park carry out primarily agricultural or trade based activities and to ensure limited impact on the values and integrity of the property their properties have been excluded from the park by legal definition. An active protection and management program, focusing on the mountain landscape, called Sacred Himalayan Landscape (SHL), covers the regions from Kanchanjonga Conservation Area in the east to Langtang National Park in the west has been implemented by the government. The SHL incorporates both conservation and management practices with a focus on involvement of local communities. The conservation oriented Sherpa culture is the backbone for the conservation of biodiversity in the Khumbu region. Despite the comparatively small area of the park, the surrounding landscape is adequate to ensure sustainable management of the SNP. The declaration of the high altitude Gokyo Lake as a RAMSAR site in 2007 is additional recognition of the value addition of the area and re-colonization of snow leopards within the property is an indication of habitat suitability for both prey and predator species. Protection and management requirements Sagarmatha National Park was established on July 19, 1976 under the National Parks and Wildlife Conservation Act and is managed by the National Park and Wildlife Conservation Office, Department of National Parks and Wildlife Conservation, Ministry of Forests., Government of Nepal. Effective legal protection remains in place under the National Park and Wildlife Protection Act 1973 and the Himalayan National Park Regulations 1978. Most of the park (69%) comprises barren land above 5,000m with 28% being grazing land and nearly 3% forested, this combined with the resident Sherpa population, who are reliant on subsistence agro-pastoralism provides a number of management challenges. In addition to the staff from the Sagarmatha National Parks Office, a company of soldiers from the Nepalese Army has been deployed for protection and law enforcement purposes. The Government of Nepal provides a regular budget for the management and protection of the property and buffer zone. Furthermore, the Government has been providing 50% of the park’s revenue to the local communities through the buffer zone Integrated Conservation and Development Programme (ICDP) and its related activities based on the approved Management Plan. The Management Plan (2007 – 2012) for the property and the buffer zone has been approved by the Government of Nepal and is managed and implemented by a team of professional staff under the Department of National Parks and Wildlife Conservation. The Government continues to implement the Management Plan, however, additional efforts are needed to minimize the impact of a number of issues prevalent at the property , namely to address tourism management issues affecting the values of the property and the promotion of sustainable use of natural resources within the park and minimizing environmental pollution. Constant involvement and support of local communities in the field of conservation and management, subsequent to the implementation of buffer zone program, has been a fortifying milestone for the management of SNP. A Park Advisory Committee, consisting of local leaders, village elders, head lamas and park authority representatives has been instrumental in achieving more cooperation and support for the park. In addition, there are many national and international conservation partners that regularly assist in park and buffer zone management activities and conduct research. Buffer Zone Management Committees, User Committees and User Groups work as additional tools for the sustainable management of the park and buffer zone resources. Dramatic increases in the number of annual visitors has stimulated the local economy but has also brought an increase in the degradation of the region’s fragile ecology and cultural traditions. Construction of illegal trails, resort development, energy demand and supply, assessment of impacts from tourism and tourism carrying capacity are issues that remain important in the management of the property despite recent success working with local communities and stakeholders to halt a number of development projects, including the extension of the Sanboche airport. Proper garbage disposal is one of the principal obstacles faced by the park in spite of the efforts of Sagarmatha Pollution Control Committee, a community based NGO based in Namche Bazar with active involvement in pollution control. The NGO with support from other line agencies and pooled with the coordination of park authorities and relevant stakeholders continue to attempt to address this issue. Likewise, with growing tourism activities, the demand for new hotels and lodges is inevitable and the property remains vulnerable to encroachment and requires enforcement of park management policies to protect endangered habitats and species within the property boundaries. In order to respond to the increasing pressure from tourism and related activities it has become necessary to upgrade the existing park organizational structure. Degradation of the fragile mountain forest ecosystem due to a constant and increasing demand for firewood also remains an important issue at the property, despite the mitigating impacts of the few operational micro-hydro projects as an alternative to firewood."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7
+          ],
+          "all": [
+            7
+          ],
+          "display": "(vii)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 124400,
+          "square_km": 1244.0,
+          "square_miles": 503.43,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ac2a4cfa9fab5c88d104897168c74714",
+          "filename": "site_0120_0001.jpg",
+          "dimensions": {
+            "width": 1280,
+            "height": 960
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107987/site_0120_0001.jpg",
+            "https://whc.unesco.org/document/107989/site_0120_0002.jpg",
+            "https://whc.unesco.org/document/107994/site_0120_0004.jpg",
+            "https://whc.unesco.org/document/147222/site_0120_0005.jpg",
+            "https://whc.unesco.org/document/147223/site_0120_0006.jpg",
+            "https://whc.unesco.org/document/147224/site_0120_0007.jpg",
+            "https://whc.unesco.org/document/147225/site_0120_0008.jpg",
+            "https://whc.unesco.org/document/147226/site_0120_0009.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Sagarmatha National Park",
+            "ref": "120",
+            "latitude": 27.96528,
+            "longitude": 86.91306
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/120",
+        "unesco_documents": "https://whc.unesco.org/en/list/120/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/120/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/120/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sagarmatha National Park Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site. Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site. Nepal Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "chitwan_national_park",
+      "uuid": "bf1c4146-0679-5bb4-8363-a70ddaccea84",
+      "unesco_id": "284",
+      "names": {
+        "en": "Chitwan National Park",
+        "fr": "Parc national de Chitwan",
+        "es": "Parque Nacional de Royal Chitwan",
+        "ru": "Национальный парк Ройал-Читаван",
+        "ar": "منتزه جتوان الملكي الوطني",
+        "zh": "奇特旺皇家国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "NPL": {
+            "name": "Nepal",
+            "iso2": "NP",
+            "iso3": "NPL"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger.",
+          "fr": "Au pied de l'Himalaya, Chitwan est l'un des rares vestiges non perturbés de la région du « Terai » qui s'étendait sur les piémonts de l'Inde et du Népal. La flore et la faune y sont très denses. Il abrite une des dernières populations de rhinocéros asiatique à une corne et constitue également l'un des derniers refuges du tigre du Bengale.",
+          "es": "Situado al pie de la cordillera del Himalaya, este parque es uno de los raros vestigios intactos de la región de piedemontes del Terai, que se extiende por los territorios de la India y Nepal. Su flora y fauna son de gran riqueza. El sitio alberga una de las pocas poblaciones subsistentes del rinoceronte asiático de un solo cuerno y es uno de los últimos refugios del tigre de Bengala.",
+          "ru": "У подножий Гималайских гор расположен парк Читаван, включающий последние площади, занятые ландшафтом «тераи», – заболоченных джунглей, которые прежде были весьма широко представлены в гималайских предгорьях в Индии и Непале. Парк отличается очень богатой флорой и фауной. Здесь обитает одна из нескольких уцелевших популяций однорогого индийского носорога. Это также одно из последних убежищ бенгальского тигра.",
+          "ar": "تُعتبر محمية جتوان التي تقع في أسفل جبال الهملايا، من الآثار النادرة التي لم يتمّ تخريبها في منطقة تيراي التي تمتد على السهول الواقعة في سفوح جبال الهند والنيبال. كما ان تشكيلة النباتات ومجموعة الحيوانات المتواجدة فيها كثيفة وغنية. اذ تأوي إحدى آخر مجموعات وحيد القرن الآسيوي الذي يتميَّز بقرنه الوحيد. كما تشكّل أحد الملاجئ الاخيرة للنمر البنغالي.",
+          "zh": "在喜马拉雅山脚下，奇特旺是德赖地区少数几个未遭到破坏的历史遗迹之一，它曾一直延伸到印度和尼泊尔的山脉丘陵地带。公园里拥有丰富的动植物群，有珍稀的独角亚洲犀牛，也是孟加拉虎的最后避难所。"
+        },
+        "full": "At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger.",
+        "justification": "Brief synthesis Nestled at the foot of the Himalayas, Chitwan has a particularly rich flora and fauna and is home to one of the last populations of single-horned Asiatic rhinoceros and is also one of the last refuges of the Bengal Tiger. Chitwan National Park (CNP), established in 1973, was Nepal’s first National Park. Located in the Southern Central Terai of Nepal, it formerly extended over the foothills, the property covers an area of 93,200 hectares, extends over four districts: Chitwan, Nawalparasi, Parsa and Makwanpur. The park is the last surviving example of the natural ecosystems of the ‘Terai’ region and covers subtropical lowland, wedged between two east-west river valleys at the base of the Siwalik range of the outer Himalayas. The core area lies between the Narayani (Gandak) and Rapti rivers to the north and the Reu River and Nepal-India international border in the south, over the Sumeswar and Churia hills, and from the Dawney hills west of the Narayani, and borders with Parsa Wildlife Reserve to the east. In 1996, an area of 75,000 hectares consisting of forests and private lands and surrounding the park was declared as a buffer zone. In 2003, Beeshazar and associated lakes within the buffer zone were designated as a wetland of international importance under the Ramsar Convention. Criteria (vii): The spectacular landscape, covered with lush vegetation and the Himalayas as the backdrop makes the park an area of exceptional natural beauty. The forested hills and changing river landscapes serve to make Chitwan one of the most stunning and attractive parts of Nepal’s lowlands. Situated in a river valley basin and characterized by steep cliffs on the south-facing slopes and a mosaic of riverine forest and grasslands along the river banks of the natural landscape makes the property amongst the most visited tourist destination of its kind in the region. The property includes the Narayani (Gandaki) river, the third-largest river in Nepal which originates in the high Himalayas and drains into the Bay of Bengal providing dramatic river views and scenery as well as the river terraces composed of layers of boulders and gravels. The property includes two famous religious areas: Bikram Baba at Kasara and Balmiki Ashram in Tribeni, pilgrimage places for Hindus from nearby areas and India. This is also the land of the indigenous Tharu community who have inhabited the area for centuries and are well known for their unique cultural practices. Criteria (ix): Constituting the largest and least disturbed example of sal forest and associated communities, Chitwan National Park is an outstanding example of biological evolution with a unique assemblage of native flora and fauna from the Siwalik and inner Terai ecosystems. The property includes the fragile Siwalik-hill ecosystem, covering some of the youngest examples of this as well as alluvial flood plains, representing examples of ongoing geological processes. The property is the last major surviving example of the natural ecosystems of the Terai and has witnessed minimal human impacts from the traditional resource dependency of people, particularly the aboriginal Tharu community living in and around the park. Criteria (x): The combination of alluvial flood plains and riverine forest provides an excellent habitat for the Great One-horned Rhinoceros and the property is home for the second largest population of this species in the world. It is also prime habitat for the Bengal Tiger and supports a viable source population of this endangered species. Exceptionally high in species diversity, the park harbours 31% of mammals, 61% of birds, 34% of amphibians and reptiles, and 65% of fishes recorded in Nepal. Additionally, the park is famous for having one of the highest concentrations of birds in the world (over 350 species) and is recognized as one of the worlds’ biodiversity hotspots as designated by Conservation International and falls amongst WWFs’ 200 Global Eco-regions. Integrity The property adequately incorporates the representative biodiversity of the central Terai-Siwalik ecosystem and in conjunction with the adjacent Parsa Wildlife Reserve constitutes the largest and least disturbed example of sal forest and associated communities of the Terai. The park also protects the catchment of the river system within the park and the major ecosystems included are Siwalik, sub-tropical deciduous forest, riverine and grassland ecosystems. The Park boundary is well defined. The ecological integrity of the park is further enhanced by the adjoining Parsa Wildlife Reserve to its eastern boundary and the designation of a buffer zone around the Park that is not part of the inscribed World Heritage Site but provides additional protection and important habitats. The World Heritage values of the Park have been enhanced as the population of Greater One-horned Rhinoceros and Bengal Tiger have increased (Rhinoceros - around 300 in the 1980s to 503 in 2011 and Tigers 40 breeding adults in the 1980s to 125 breeding adults in 2010). While no major changes in the natural ecosystem have been observed in the recent years the grasslands and riverine habitats of the park have been encroached by invasive species such as Mikania macrantha. Poaching of endangered one horned rhinoceros for illegal trade of its horn is one pressing threat faced by the park authority, despite the tremendous efforts towards Park Protection. Illegal trade in tiger parts and timber theft are also threats with the potential to impact on the integrity of the property. The traditional dependency of local people on forest resources is well controlled and has not been seen to impact negatively on the property. Human-wildlife conflict remains an important issue and threat that has been addressed through compensation schemes and other activities as part of the implementation of the buffer zone program. Protection and management requirements Chitwan National Park has a long history of protection dating back to the early 1800s. It has been designated and legally protected under the National Parks and Wildlife Conservation Act, 1973. The Nepalese Army has been deployed for park protection since 1975. In addition, Chitwan National Park Regulation, 1974 and Buffer Zone Management Regulation, 1996 adequately ensure the protection of natural resources and people’s participation in conservation as well as socio-economic benefits to people living in the buffer zone. This makes Chitwan National Park an outstanding example of Government-Community partnership in biodiversity conservation. The management of the property is of a high standard and the Government of Nepal has demonstrated that it recognizes the value of the park by investing significant resources in its management. Management activities have been guided by the Management Plan, which should undergo regular updating and revision to ensure key management issues are being addressed sufficiently. The first five year Management Plan (1975-1979) for CNP was prepared in 1974 with an updated plan for 2001-2005 expanded to include CNP and its Buffer Zone along with the provision of three management zones. A subsequent plan covering 2006-2011 covers the Park and the Buffer Zone and streamlines the conservation and management of the property. The maintenance of the long-term integrity of the park will be ensured through continuation of the existing protection strategy with need-based enhancement as well as maintaining intact wildlife habitat through science-based management. Effective implementation of the buffer zone program will continue to address the issues regarding human-wildlife conflicts. The aquatic ecosystem of the park has been threatened by pollution from point and non-point sources including developments in close proximity to Narayani River. This pollution needs to be controlled with the coordinated efforts of all the stakeholders. The need to maintain the delicate balance between conservation and the basic requirements of people living around the park remains a main concern of the management authority. The need to address issues related to regulation of increasing traffic volume at Kasara bridge, construction of a bridge at Reu River and the underground electricity transmission line for the people living in Madi valley are also concerns. High visitation and the maintenance of adequate facilities remain an ongoing management issue. As one of the most popular tourist sites in Nepal, due to the ease of wildlife viewing and spectacular scenery and the economic benefit of this is significant. Facilities are a model of appropriate park accommodation with efforts continuing to ensure this is maintained. Poaching of wildlife and vegetation remains an important issue and the most significant threat too many of the species and populations harboured within the park. Ongoing efforts to tackle this problem are required despite already significant attempts to enforce regulations and prevent poaching."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 93200,
+          "square_km": 932.0,
+          "square_miles": 377.168,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1984,
+          "all_dates": [
+            1984
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1984,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/846926bc8cf5ca9e2ab721b92c1a273e",
+          "filename": "site_0284_0001-500-0-20151105150343.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109771/site_0284_0001.jpg",
+            "https://whc.unesco.org/document/109773/site_0284_0002.jpg",
+            "https://whc.unesco.org/document/109775/site_0284_0003.jpg",
+            "https://whc.unesco.org/document/109776/site_0284_0004.jpg",
+            "https://whc.unesco.org/document/122510/site_0284_0005.jpg",
+            "https://whc.unesco.org/document/122511/site_0284_0006.jpg",
+            "https://whc.unesco.org/document/122548/site_0284_0007.jpg",
+            "https://whc.unesco.org/document/122549/site_0284_0008.jpg",
+            "https://whc.unesco.org/document/122550/site_0284_0009.jpg",
+            "https://whc.unesco.org/document/122551/site_0284_0010.jpg",
+            "https://whc.unesco.org/document/122552/site_0284_0011.jpg",
+            "https://whc.unesco.org/document/122553/site_0284_0012.jpg",
+            "https://whc.unesco.org/document/122554/site_0284_0013.jpg",
+            "https://whc.unesco.org/document/122555/site_0284_0014.jpg",
+            "https://whc.unesco.org/document/122556/site_0284_0015.jpg",
+            "https://whc.unesco.org/document/122557/site_0284_0016.jpg",
+            "https://whc.unesco.org/document/122558/site_0284_0017.jpg",
+            "https://whc.unesco.org/document/122559/site_0284_0018.jpg",
+            "https://whc.unesco.org/document/122560/site_0284_0019.jpg",
+            "https://whc.unesco.org/document/147227/site_0284_0020.jpg",
+            "https://whc.unesco.org/document/147228/site_0284_0021.jpg",
+            "https://whc.unesco.org/document/147229/site_0284_0022.jpg",
+            "https://whc.unesco.org/document/147230/site_0284_0023.jpg",
+            "https://whc.unesco.org/document/147231/site_0284_0024.jpg",
+            "https://whc.unesco.org/document/147232/site_0284_0025.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Chitwan National Park",
+            "ref": "284",
+            "latitude": 27.5,
+            "longitude": 84.33333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/284",
+        "unesco_documents": "https://whc.unesco.org/en/list/284/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/284/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/284/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 41,
+        "inscription_year": 1984
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Chitwan National Park At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger. At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger. Nepal Asia and the Pacific Natural"
+    }
+  ]
+}

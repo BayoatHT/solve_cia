@@ -1,0 +1,768 @@
+{
+  "country": {
+    "code": "LVA",
+    "name": "Latvia"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "old_town_of_kuldiga",
+      "uuid": "4e31e845-5e27-535e-b28d-0d6836ec212e",
+      "unesco_id": "1658",
+      "names": {
+        "en": "Old town of Kuldīga",
+        "fr": "Vieille ville de Kuldīga",
+        "es": "Ciudad Vieja de Kuldīga",
+        "ru": "Старый город Кулдиги",
+        "ar": "مدينة كولديغا القديمة",
+        "zh": "库尔迪加老城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in the western part of Latvia, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement, which developed from a small medieval hamlet into an important administrative centre of the Duchy of Courland and Semigallia between the 16th and 18th centuries. The town structure of Kuldīga has largely retained the street layout of that period, and includes traditional log architecture as well as foreign-influenced styles that illustrate the rich exchange between local and travelling craftspeople from around the Baltic Sea. The architectural influences and craftsmanship traditions introduced during the period of the Duchy endured well into the 19th century.",
+          "fr": "Située dans la partie occidentale de la Lettonie, la ville de Kuldīga est un exemple exceptionnellement bien conservé d’un établissement urbain traditionnel qui se développa à partir d’un petit hameau médiéval en un centre administratif important du duché de Courlande et Sémigalle entre le XVIe et le XVIIIe siècle. La structure de la ville de Kuldīga a conservé en grande partie le tracé des rues de cette période, et présente une architecture traditionnelle en rondins ainsi que des styles inspirés par des influences extérieures illustrant la richesse des échanges entre les artisans locaux et itinérants baltes. Les influences architecturales et les traditions artisanales introduites à l’époque du duché perdurèrent pendant la plus grande partie du XIXe siècle.",
+          "es": "Situada en la parte occidental de Letonia, la ciudad de Kuldīga es un ejemplo excepcional de asentamiento urbano tradicional, que pasó de ser una pequeña aldea medieval a un importante centro administrativo del Ducado de Curlandia y Semigalia entre los siglos XVI y XVIII. La estructura urbana de Kuldīga ha conservado, en gran medida, el trazado de calles de dicho periodo, e incluye arquitectura tradicional de troncos, así como estilos de influencia extranjera que ilustran el rico intercambio entre artesanos locales y viajeros procedentes de todo el Mar Báltico. Las influencias arquitectónicas y las tradiciones artesanales introducidas durante la época del Ducado perduraron hasta bien entrado el siglo XIX.",
+          "ru": "Город Кулдига, расположенный в западной части Латвии, представляет собой исключительно хорошо сохранившийся пример традиционного городского поселения, которое в XVI-XVIII вв. превратилось из небольшого средневекового поселения в важный административный центр Герцогства Курляндского и Земгальского. Городская структура Кулдиги в значительной степени сохранила планировку улиц того периода и включает как традиционную бревенчатую архитектуру, так и стили с иностранным влиянием, что свидетельствует о богатом обмене между местными и странствующими ремесленниками со стран Балтийского моря. Архитектурное влияние и ремесленные традиции, привнесенные в период существования герцогства, сохранились и в XIX веке.",
+          "ar": "توجد بلدة كولديغا في الجزء الغربي من لاتفيا، وتعتبر بمنزلة مثال استثنائي عن المستوطنات الحضرية التقليدية المحفوظة بعناية، والتي تطوّرت بعدما كانت قرية صغيرة في العصور الوسطى لتصبح مركزاً إداريّاً هاماً في دوقية كورلاند وسيميغاليا، بين القرنَين السادس عشر والثامن عشر. احتفظت بنية مدينة كولديغا إلى حد كبير بتصميم الشوارع كما كانت في تلك الحقبة، وتشمل العِمارة الخشبية التقليدية بالإضافة إلى الأنماط الأجنبية الطابع التي تُجسّد التبادل المُثمر بين الحِرَفيّين المحليين والحرفيين الرُحّل في البلدان القريبة من بحر البلطيق. امتدّ تأثير التقاليد المعمارية والحِرفية التي ظهرت خلال فترة الدوقية حتى القرن التاسع عشر.",
+          "zh": "库尔迪加（Kuldīga）位于拉脱维亚西部，是一个保存极完好的传统城镇典范。在16-18世纪，它从一个中世纪小村庄发展成为库尔兰和瑟米加利亚公国的重要行政中心。库尔迪加的城市结构在很大程度上保留了当时的街道布局，房屋既有传统的原木建筑，又有受外来影响的其他风格，反映了波罗的海沿岸本地工匠与行走工匠之间的丰富交流。公国时期传入的建筑影响和工艺传统一直延续至19世纪。"
+        },
+        "full": "Located in the western part of Latvia, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement, which developed from a small medieval hamlet into an important administrative centre of the Duchy of Courland and Semigallia between the 16th and 18th centuries. The town structure of Kuldīga has largely retained the street layout of that period, and includes traditional log architecture as well as foreign-influenced styles that illustrate the rich exchange between local and travelling craftspeople from around the Baltic Sea. The architectural influences and craftsmanship traditions introduced during the period of the Duchy endured well into the 19th century.",
+        "justification": "Brief synthesis Located in the western part of Latvia, in the central Kurzeme (Courland) region, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement. At the confluence of the Venta River and the smaller Alekšupīte stream, the beginnings of Kuldīga, which was called Goldingen at the time, date back to the 13th century. The rivers’ intersection is a defining element of the town’s structure, contributing to its scenic character. The medieval area of Kalnamiests, located on a hill, is clearly distinguishable in the townscape, given its oval shape. A significant part of Kuldīga’s history and development is linked to the Duchy of Courland and Semigallia, which governed a significant part of the Baltics between 1561 and 1795. The town was the primary residence and administrative centre of the Duchy’s first ruler and maintained an important role afterwards. As a result, the town developed into a prosperous trading hub. The international orientation of the Duchy led to a rising number of foreign merchants and craftsmen settling in Kuldīga, who left their mark on the architectural language and building decoration of the region. The town’s structure has largely retained the street layout which developed during the period of the Duchy. The architectural influences and craftsmanship traditions introduced during the era of the Duchy endured well into the 19th century. However, different laws and regulations, aimed at fire safety, led to the progressive replacement of fire hazardous roofing materials. The proportion of masonry buildings also increased, replacing traditional wooden ones. In the second half of the 19th century, the brick bridge over the Venta River was constructed, connecting Kuldīga to the east. Unlike other towns in the Baltic region, Kuldīga survived the great wars of the 20th century largely unscathed and modern urban developments were largely implemented far outside its historic centre. Criterion (v): The old town of Kuldīga is an outstanding example of a well-preserved urban settlement, representative of traditional Baltic architecture and urbanism and of multiple historical periods – from the 13th to the early 20th centuries. Its historic urban fabric includes structures of traditional local log architecture as well as largely foreign-influenced techniques and styles of brick masonry and timber-framed houses that illustrate the integration of local craftsmanship with foreign influences from other Hanse towns and centres around the Baltic Sea as well as Russia. The craft skills are prominent in functional and ornamental building details throughout the town and continue to be employed by craftspeople today. The predominance of clay tiles as a roofing material contributes to the harmonious townscape of Kuldīga. Integrity The property encompasses the medieval castle mound plateau, the medieval area known as Kalnamiests, and the urban areas which developed during the ducal period from the 16th until the 18th centuries but continued to organically evolve afterwards. In addition, large areas of the environmental setting of Kuldīga are also included, namely the intersection of the Venta and Alekšupīte rivers, as well as the Ventas Rumba waterfall, which was essential for the growth of Kuldīga into a trading centre. In the past, fires destroyed substantial parts of the urban fabric and remain a risk to this day, since the town has many wooden buildings as well as buildings with important wooden elements. Floods are another important factor that can potentially affect the property, particularly in view of climate change. To maintain the harmonious townscape, the town’s general construction rules stipulate maximum building heights within the property and its buffer zone. The boundaries of the property coincide, for the most part, with the national designation of the “urban construction monument” of state importance. The area of the Venta Valley is not included in that designation but is protected as a nature reserve. The buffer zone corresponds to the “individual protection zone” and has complementary legal provisions in order to give an added layer of protection to the property. Authenticity Kuldīga’s urban and architectural heritage is well retained in terms of material, design and craftsmanship. It illustrates continuity in function and use as residences, auxiliary structures and religious spaces for the resident community. The old town further preserves its authenticity in setting and location, which was a fundamental aspect for the development of the urban structure of the town, influenced by the intersection of the Venta and Alekšupīte rivers. The river landscape has changed over time but not to the extent that it fundamentally alters the environmental setting of the property. Protection and management requirements The property was first nationally recognised in 1969 and received the highest level of national protection as a cultural monument under the national Law “On the Protection of Cultural Monuments”. The landscape elements of the Venta Valley have been protected since 1957 and were recognised in 2004 as part of the NATURA 2000 network. The buffer zone also has legal status as a monument of architecture (urban construction) of local importance in the list of state protected cultural monuments. On a local level, multiple planning documents, such as a local territorial development plan, define strict legal mechanisms that contribute to the protection of the historic urban settlement and further prevent development pressures that might affect the property’s significance. Kuldīga Municipality acts as the main management authority for the property and its buffer zone. With regards to the conservation of historic buildings, the Kuldīga Restoration Centre is an essential partner of the municipality. The day-to-day management of the World Heritage property is guided by a management plan, which is complemented by subsidiary plans related to risk management and tourism management."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 84.33,
+          "square_km": 0.84,
+          "square_miles": 0.341,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0b65b885756527f6b7d408de5fedb33a",
+          "filename": "site_1658_0001.jpg",
+          "dimensions": {
+            "width": 5568,
+            "height": 3712
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/192508/site_1658_0001.jpg",
+            "https://whc.unesco.org/document/192509/site_1658_0002.jpg",
+            "https://whc.unesco.org/document/192510/site_1658_0003.jpg",
+            "https://whc.unesco.org/document/192511/site_1658_0004.jpg",
+            "https://whc.unesco.org/document/192512/site_1658_0005.jpg",
+            "https://whc.unesco.org/document/192513/site_1658_0006.jpg",
+            "https://whc.unesco.org/document/192514/site_1658_0007.jpg",
+            "https://whc.unesco.org/document/192515/site_1658_0008.jpg",
+            "https://whc.unesco.org/document/192516/site_1658_0009.jpg",
+            "https://whc.unesco.org/document/192517/site_1658_0010.jpg",
+            "https://whc.unesco.org/document/192518/site_1658_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old town of Kuldīga",
+            "ref": "1658",
+            "latitude": 56.96775,
+            "longitude": 21.9715277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1658",
+        "unesco_documents": "https://whc.unesco.org/en/list/1658/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1658/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1658/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old town of Kuldīga Located in the western part of Latvia, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement, which developed from a small medieval hamlet into an important administrative centre of the Duchy of Courland and Semigallia between the 16th and 18th centuries. The town structure of Kuldīga has largely retained the street layout of that period, and includes traditional log architecture as well as foreign-influenced styles that illustrate the rich exchange between local and travelling craftspeople from around the Baltic Sea. The architectural influences and craftsmanship traditions introduced during the period of the Duchy endured well into the 19th century. Located in the western part of Latvia, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement, which developed from a small medieval hamlet into an important administrative centre of the Duchy of Courland and Semigallia between the 16th and 18th centuries. The town structure of Kuldīga has largely retained the street layout of that period, and includes traditional log architecture as well as foreign-influenced styles that illustrate the rich exchange between local and travelling craftspeople from around the Baltic Sea. The architectural influences and craftsmanship traditions introduced during the period of the Duchy endured well into the 19th century. Latvia Europe and North America Cultural"
+    },
+    {
+      "site_key": "struve_geodetic_arc",
+      "uuid": "f28bf2c5-4fac-5919-9d2f-f446432386bd",
+      "unesco_id": "1187",
+      "names": {
+        "en": "Struve Geodetic Arc",
+        "fr": "Arc géodésique de Struve",
+        "es": "Arco geodésico de Struve",
+        "ru": "Геодезическая дуга Струве",
+        "ar": "قوس ستروف الجيوديزي",
+        "zh": "斯特鲁维地理探测弧线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          },
+          "NOR": {
+            "name": "Norway",
+            "iso2": "NO",
+            "iso3": "NOR"
+          },
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          },
+          "EST": {
+            "name": "Estonia",
+            "iso2": "EE",
+            "iso3": "EST"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "MDA": {
+            "name": "Moldova",
+            "iso2": "MD",
+            "iso3": "MDA"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 10
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+          "fr": "L’arc de Struve est un réseau de triangulations qui s’étend de Hammerfest en Norvège jusqu’à la mer Noire et traverse 10 pays sur plus de 2 820 km. L’arc est formé par les points d’une triangulation réalisée entre 1816 et 1855 par l’astronome Friedrich Georg Wilhelm Struve et représentant la première mesure exacte d’un long segment de méridien. Cette triangulation a contribué à définir et mesurer la taille et la forme exactes de la Terre ; elle a joué un rôle essentiel dans le développement des sciences de la Terre et l’établissement de cartes topographiques précises. C’est un formidable exemple de collaboration scientifique entre chercheurs de différents pays et de coopération entre des monarques pour une cause scientifique. À l’origine, l’arc était constitué de 258 triangles principaux et de 265 points fixes principaux. Le site inscrit sur la liste comprend 34 des points fixes d’origine, avec différents marquages – trous percés dans la roche, croix en fer, cairns ou obélisques.",
+          "es": "El arco geodésico de Struve es un conjunto de triangulaciones que se extiende por diez países, a lo largo de 2.820 km, desde Hammerfest (Noruega) hasta el Mar Negro. Compuesto por los puntos de la triangulación realizada entre 1816 y 1855 por el astrónomo Friedrich Georg Wilhelm Struve, este arco permitió realizar la primera medición precisa de un largo segmento del meridiano terrestre. Esta triangulación contribuyó a definir y medir la forma exacta de la Tierra y desempeñó un papel importante en el adelanto de las ciencias geológicas y la realización de mapas topográficos precisos. Es una muestra extraordinaria de la colaboración científica entre sabios de distintos países, así como un ejemplo de cooperación entre varios monarcas europeos en pro del progreso científico. El arco primigenio estaba constituido por 258 triángulos y 265 puntos fijos principales. El sitio inscrito en la Lista del Patrimonio Mundial comprende 34 de los puntos fijos originales señalados por medios diferentes: perforaciones en rocas, cruces de hierro, túmulos y obeliscos.",
+          "ru": "«Дуга Струве» – это цепь триангуляционных пунктов, протянувшаяся на 2820 км по территории десяти европейских стран от Хаммерфеста в Норвегии до Черного моря. Эти опорные точки наблюдений были заложены в период 1816-1855 гг. астрономом Фридрихом Георгом Вильгельмом Струве (он же – Василий Яковлевич Струве), который произвел таким образом первое достоверное измерение большого сегмента дуги земного меридиана. Это позволило точно установить размер и форму нашей планеты, что стало важным шагом в развитии наук о Земле и топографического картирования. Это был исключительный пример сотрудничества в научной сфере между учеными разных стран и между правящими монархами. Первоначально «дуга» состояла из 258 геодезических «треугольников» (полигонов) с 265 основными триангуляционными пунктами. В объект всемирного наследия вошли 34 таких пункта (наиболее хорошо уцелевших к настоящему времени), которые маркированы на местности самым разным образом, как то: выдолбленные в скалах углубления, железные кресты, пирамиды из камней или специально установленные обелиски.",
+          "ar": "إن قوس ستروف هو شبكة تثليثات تمتد من هامرفست في النروج حتى البحر الأسود وتعبر 10 بلدان على أكثر من 2820 كيلومترا. يتألف القوس من نقاط التثليث التي تمّ انجازها بين 1816 و 1855على يد عالم الفلك فريدريش جيورج ويلهلم ستروف وتمثّل أول قياس دقيق لجزء من خط التصنيف. لقد ساهمت هذه الصيغة التثليثية في تحديد قياس الأرض وشكلها الدقيقين وأدّت دوراً أساسياً في تطوير علوم الأرض ورسم خرائط طوبوغرافية دقيقة. إنه مثال ممتاز للتعاون العلمي بين باحثين من دول مختلفة والتعاون بين الملوك من أجل قضية علمية. في البدء، كان القوس يتألف من 258 مثلثاً اساسياً و 265 نقطة ثابتة رئيسة. يشمل الموقع المسجّل على القائمة 34 نقطة ثابتة أصليّة وعلامات مختلفة مثل الثقوب المحفورة في الصخور والصلبان الحديدية وركام الحجارة كعلامة أو المسلات.",
+          "zh": "斯特鲁维地理探测弧线是一个三角测量链，北起挪威哈默菲斯特(Hammerfest)，南至黑海，弧线穿越十个国家，长2820公里。弧线是天文学家弗里德理西·格奥尔格·威廉·斯特鲁维(Friedrich Georg Wilhelm Struve)于1816至1855年期间进行测量的测量点，代表着人类首次对子午线长短的精确测量。这一测量帮助人类掌握了地球的确切大小和形状，是地球科学和地形绘图学发展中的重要一步。这个弧线不仅是多国科学家通力合作的一个特例，也是多国君主为科学事业联袂协作的一个特例。原始弧线包含258个主要三角形和265个测量站点。列入世界遗产名录的弧有34个原始测量站点，带有各种不同标记，如岩石钻孔、铁十字、堆石标或方尖石碑。"
+        },
+        "full": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+        "justification": "Brief synthesis The determination of the size and shape of the world was one of the most important problems of natural philosophy since at least the 4th century B.C. The development, in the 16th century, of a measurement system called “triangulation” improved the ability to determine the size and shape of the world. In this system, long chains of triangles were measured, creating arcs that stretched along hundreds and thousands of kilometres. The Struve Geodetic Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through ten countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by several scientists (surveyors) under leadership of the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of our planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of the development of sciences and of collaboration among scientists from different countries, as well as monarchs, for a common scientific cause. Prior to the Struve Geodetic Arc, an arc of about 2,400 km had been measured in India by Lambton and Everest (completed in 1845), and a shorter arc in Lithuania by Carl Tenner. Struve, who was working at the Dorpat University (currently University of Tartu in Estonia), decided that he would establish an arc following a line of longitude (meridian) passing through the observatory of the university. The new long arc, later to be known as the Struve Geodetic Arc, was eventually created by connecting earlier, shorter arcs to the southern one measured by Tenner, and their extension to the north and south. The arc thus covered a line connecting Fuglenæs, near Hammerfest at the Arctic Ocean, with Staro-Nekrassowka, near Ismail, on the Black Sea shores, along more than 2,800 km. The original arc consisted of 258 main triangles with 265 main station points. The inscribed property includes 34 of the original station points established by Struve and his colleagues between 1816 and 1851 – four points in Norway, four in Sweden, six in Finland, two in Russia, three in Estonia, two in Latvia, three in Lithuania, five in Belarus, one in Moldova and four in Ukraine. Other preserved sites of the Arc are protected nationally. These marks take different forms: small holes drilled in rock surfaces, and sometimes filled with lead; cross-shaped engraved marks on rock surfaces; solid stone or brick with a marker inset; rock structures (cairns) with a central stone or brick marked by a drilled hole; individual bricks; as well as especially constructed 'monuments' to commemorate the point and the arc. The Struve Geodetic Arc is an extraordinary example of the interchange of human values in the form of international scientific collaboration, as well as an outstanding example of a technological ensemble. Criterion (ii): The first accurate measuring of a long segment of a meridian, helping in the establishment of the exact size and shape of the world exhibits an important step in the development of earth sciences. It is also an extraordinary example for interchange of human values in the form of scientific collaboration among scientists from different countries. It is at the same time an example for collaboration between monarchs of different powers, for a scientific cause. Criterion (iv): The Struve Geodetic Arc is undoubtedly an outstanding example of a technological ensemble - presenting the triangulation points of the measuring of the meridian, being the non-movable and non-tangible part of the measuring technology. Criterion (vi): The measuring of the arc and its results are directly associated with humans wondering about their world, its shape and size. It is linked with Sir Isaac Newton’s theory that the world is not an exact sphere. Integrity The inscribed property consists of 34 components, which in total comprise an area of 0.6 ha, with buffer zones amounting to a total of 11 ha. All components of the Struve Geodetic Arc are linked to one chain and a number of the Arc sites belong to national state geodetic reference networks that confer integrity even with the geodetic measurements processed today. Authenticity The inscribed components of the property have special characteristics and significance on a technological and scientific level. All points are maintained in their original location and changes are limited to some later constructions marking the locations. Protection and management requirements For the inscription of the Struve Geodetic Arc, the ten countries involved collaborated in locating and investigating the sites of historical measurements by using available geodetic observation data and by means of the recent measurement methods as well as satellite geodesy. Upon identification of the component parts, each State Party provided legal protection in accordance with its national frameworks, which in practice entails that some points are covered by laws protecting geodetic points and also by laws for the protection of cultural heritage. At the national level, each State authority, usually the national mapping authority with the involvement of local administrative authorities, is responsible for the conservation and management of the Struve Geodetic Arc. At the international level, management is the responsibility of the Coordinating Committee, which meets every other year and is run according to management mechanisms agreed upon by all ten countries. Based on the resolutions of the Coordinating Committee, national representative organizations actively promote the Struve Geodetic Arc via different tasks, such as the producing post stamps and envelopes (completed by Belarus, Estonia, Finland, Latvia, Lithuania, Moldova, Sweden, Ukraine); making promotional movies and educational leaflets, books and articles; preparing exhibitions; translating documentation; restoring geodetic instruments and other materials, and even minting commemorative coins for the Struve Geodetic Arc (Belarus, Moldova)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d6bc240c3066919489d7c5191c4833e5",
+          "filename": "site_1187_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113656/site_1187_0001.jpg",
+            "https://whc.unesco.org/document/113658/site_1187_0002.jpg",
+            "https://whc.unesco.org/document/113660/site_1187_0003.jpg",
+            "https://whc.unesco.org/document/113662/site_1187_0004.jpg",
+            "https://whc.unesco.org/document/113664/site_1187_0005.jpg",
+            "https://whc.unesco.org/document/113666/site_1187_0006.jpg",
+            "https://whc.unesco.org/document/113668/site_1187_0007.jpg",
+            "https://whc.unesco.org/document/138129/site_1187_0008.jpg",
+            "https://whc.unesco.org/document/138130/site_1187_0009.jpg",
+            "https://whc.unesco.org/document/138131/site_1187_0010.jpg",
+            "https://whc.unesco.org/document/138132/site_1187_0011.jpg",
+            "https://whc.unesco.org/document/138133/site_1187_0012.jpg",
+            "https://whc.unesco.org/document/143845/site_1187_0013.jpg",
+            "https://whc.unesco.org/document/143846/site_1187_0014.jpg",
+            "https://whc.unesco.org/document/143847/site_1187_0015.jpg",
+            "https://whc.unesco.org/document/143848/site_1187_0016.jpg",
+            "https://whc.unesco.org/document/143849/site_1187_0017.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "RUDY Rudi",
+            "ref": "1187-030",
+            "latitude": 48.3188888889,
+            "longitude": 27.8766666667
+          },
+          {
+            "name": "KATKO Simuna",
+            "ref": "1187-018",
+            "latitude": 59.0483333333,
+            "longitude": 26.4141666667
+          },
+          {
+            "name": "LOPATI Lopaty",
+            "ref": "1187-026",
+            "latitude": 53.5605555556,
+            "longitude": 24.8697222222
+          },
+          {
+            "name": "PULLINKI Pullinki",
+            "ref": "1187-007",
+            "latitude": 66.6463888889,
+            "longitude": 23.7819444444
+          },
+          {
+            "name": "WOIBIFER Võivere",
+            "ref": "1187-017",
+            "latitude": 59.0577777778,
+            "longitude": 26.3377777778
+          },
+          {
+            "name": "FUGLENAES Fuglenes",
+            "ref": "1187-001",
+            "latitude": 70.67,
+            "longitude": 23.6633333333
+          },
+          {
+            "name": "AVASAKSA Aavasaksa",
+            "ref": "1187-010",
+            "latitude": 66.3977777778,
+            "longitude": 23.7252777778
+          },
+          {
+            "name": "SESTU-KALNS Ziestu",
+            "ref": "1187-020",
+            "latitude": 56.84,
+            "longitude": 25.6366666667
+          },
+          {
+            "name": "TUPISCHKI Tupishki",
+            "ref": "1187-025",
+            "latitude": 54.2916666667,
+            "longitude": 26.0452777778
+          },
+          {
+            "name": "TCHEKUTSK Chekutsk",
+            "ref": "1187-028",
+            "latitude": 52.2077777778,
+            "longitude": 25.5563888889
+          },
+          {
+            "name": "LILLE-REIPAS Raipas",
+            "ref": "1187-002",
+            "latitude": 69.9386111111,
+            "longitude": 23.3602777778
+          },
+          {
+            "name": "PUOLAKKA Oravivuori",
+            "ref": "1187-012",
+            "latitude": 61.9266666667,
+            "longitude": 25.5336111111
+          },
+          {
+            "name": "FELSCHTIN Felschtin",
+            "ref": "1187-032",
+            "latitude": 49.33,
+            "longitude": 26.6819444444
+          },
+          {
+            "name": "BARANOWKA Baranowka",
+            "ref": "1187-033",
+            "latitude": 49.1486111111,
+            "longitude": 26.9916666667
+          },
+          {
+            "name": "KERROJUPUKKA Jupukka",
+            "ref": "1187-006",
+            "latitude": 67.2766666667,
+            "longitude": 23.2430555556
+          },
+          {
+            "name": "SVARTVIRA Mustaviiri",
+            "ref": "1187-014",
+            "latitude": 60.2763888889,
+            "longitude": 26.6033333333
+          },
+          {
+            "name": "JACOBSTADT Jekabpils",
+            "ref": "1187-021",
+            "latitude": 56.5013888889,
+            "longitude": 25.8566666667
+          },
+          {
+            "name": "KARISCHKI Gireišiai",
+            "ref": "1187-022",
+            "latitude": 55.9025,
+            "longitude": 25.4366666667
+          },
+          {
+            "name": "MESCHKANZI Meškonys",
+            "ref": "1187-023",
+            "latitude": 54.9308333333,
+            "longitude": 25.3166666667
+          },
+          {
+            "name": "PORLOM II Tornikallio",
+            "ref": "1187-013",
+            "latitude": 60.7047222222,
+            "longitude": 26.0033333333
+          },
+          {
+            "name": "OSSOWNITZA Ossovnitsa",
+            "ref": "1187-027",
+            "latitude": 52.2894444444,
+            "longitude": 25.6494444444
+          },
+          {
+            "name": "PERRA-VAARA Perävaara",
+            "ref": "1187-008",
+            "latitude": 66.0180555556,
+            "longitude": 23.9225
+          },
+          {
+            "name": "BERESNÄKI Paliepiukai",
+            "ref": "1187-024",
+            "latitude": 54.6344444444,
+            "longitude": 25.4291666667
+          },
+          {
+            "name": "LESKOWITSCHI Leskovichi",
+            "ref": "1187-029",
+            "latitude": 52.1608333333,
+            "longitude": 25.5713888889
+          },
+          {
+            "name": "KATERINOWKA Katerinowka",
+            "ref": "1187-031",
+            "latitude": 49.5658333333,
+            "longitude": 26.7561111111
+          },
+          {
+            "name": "PAJTAS-VAARA Tynnyrilaki",
+            "ref": "1187-005",
+            "latitude": 68.255,
+            "longitude": 22.9830555556
+          },
+          {
+            "name": "TORNEA Alatornion kirkko",
+            "ref": "1187-011",
+            "latitude": 65.83,
+            "longitude": 24.1572222222
+          },
+          {
+            "name": "DORPAT Tartu Observatory",
+            "ref": "1187-019",
+            "latitude": 58.3788888889,
+            "longitude": 26.72
+          },
+          {
+            "name": "LOHDIZHJOKKI Luvdiidcohkka",
+            "ref": "1187-003",
+            "latitude": 69.6644444444,
+            "longitude": 23.6022222222
+          },
+          {
+            "name": "STUOR-OIVI Stuorrahanoaivi",
+            "ref": "1187-009",
+            "latitude": 68.6825,
+            "longitude": 22.7458333333
+          },
+          {
+            "name": "MÄKI-PÄÄLYS Mäkipällys",
+            "ref": "1187-015",
+            "latitude": 60.0741666667,
+            "longitude": 26.9697222222
+          },
+          {
+            "name": "BÄLJATZ-VAARA Baelljasvarri",
+            "ref": "1187-004",
+            "latitude": 69.0286111111,
+            "longitude": 23.3052777778
+          },
+          {
+            "name": "STARO-NEKRASSOWKA Stara Nekrasivka",
+            "ref": "1187-034",
+            "latitude": 45.3325962,
+            "longitude": 28.9278807
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1187",
+        "unesco_documents": "https://whc.unesco.org/en/list/1187/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1187/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1187/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Struve Geodetic Arc The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. Latvia Norway Sweden Belarus Estonia Finland Ukraine Lithuania Moldova Russia Europe and North America Cultural"
+    },
+    {
+      "site_key": "historic_centre_of_riga",
+      "uuid": "a062c258-3cfa-5e53-ab03-d434d1785e4a",
+      "unesco_id": "852",
+      "names": {
+        "en": "Historic Centre of Riga",
+        "fr": "Centre historique de Riga",
+        "es": "Centro histórico de Riga",
+        "ru": "Исторический центр Риги",
+        "ar": "الوسط التاريخي في ريغا",
+        "zh": "里加历史中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe.",
+          "fr": "Riga était un grand centre de la Ligue hanséatique qui a prospéré grâce au commerce avec l'Europe centrale et de l'Est aux XIIIe -XVe siècles. Le tissu urbain de son centre médiéval reflète cette prospérité, bien que la plupart de ses bâtiments les plus anciens aient été détruits par l'incendie et la guerre. Au XIXe siècle, elle est devenue un important centre économique et l'on a construit les faubourgs de la ville médiévale, tout d'abord en imposant une architecture en bois de style classique, puis Jugendstil. De l'avis général, c'est à Riga que l'on trouve la plus belle concentration de bâtiments Art nouveau d'Europe.",
+          "es": "Centro importante de la Liga Hanseática, la ciudad de Riga prosperó entre los siglos XIII y XV gracias al comercio con Europa Central y Oriental. El tejido urbano de su centro medieval muestra todavía esa prosperidad, aunque la mayoría de sus edificios más antiguos fueron destruidos por incendios y guerras. Riga volvió a ser un importante centro económico en el siglo XIX, época en la que se hizo el trazado de los suburbios situados en torno la ciudad medieval. Al principio se impuso la construcción en madera y estilo neoclásico para los nuevos edificios, pero luego fue predominando el “Jugendstil” o “Art Nouveau”. Según una opinión muy extendida, Riga posee hoy en día el más hermoso conjunto de edificios de “Art Nouveau” de toda Europa.",
+          "ru": "Центральной и Восточной Европы. Городская застройка ее средневекового центра отражает это процветание, несмотря на то, что большая часть старейших зданий была утрачена в результате пожаров и войн. В XIX в., когда Рига стала важным экономическим центром, вокруг средневекового ядра города возникли предместья, сначала с выразительными деревянными зданиями в стиле классицизма, затем – в стиле модерн (югендстиль или арт-нуво). Общепризнанно, что Рига обладает собранием самых прекрасных зданий в стиле модерн в Европе.",
+          "ar": "كانت ريغا مركزًا كبيرًا للجامعة التحالفيّة التي ازدهرت بفضل التجارة مع أوروبا الوسطى والشرق منذ القرن الثالث عشر وحتى القرن الخامس عشر. ويعكس النسيج الحضري لوسطها الذي يعود إلى القرون الوسطى، هذا الازدهار مع أنّ معظم أبنيتها القديمة قد دُمرت بسبب الحريق والحرب. وفي القرن التاسع عشر، أصبحت هذه المدينة مركزًا اقتصاديًّا مهمًّا وقد بُنيت ضواحي المدينة التي تعود إلى القرون الوسطى، أولاً بفرض هندسةٍ خشبيّةٍ تتميّز بالأسلوب كلاسيكي، ثم باستعمال اليوغندستيل. وبحسب الرأي العام، نجد في ريغا أجمل تجمّع للأبنية التي تعتمد على الفن الأوروبي الجديد.",
+          "zh": "里加是汉萨同盟的一个主要中心，它同中欧和东欧的贸易在13世纪至15世纪一度非常繁荣。尽管大部分的早期建筑受到火灾和战争的破坏，但是中世纪中期的城市建筑仍然反映了这种繁荣。19世纪里加成为重要的经济中心，中世纪城镇的市郊已经建成，风格从开始的古典木制建筑转入“新艺术”风格。里加被公认为欧洲最精美的“新艺术”建筑风格的中心。"
+        },
+        "full": "Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe.",
+        "justification": "Brief synthesis The Historic Centre of Riga is a living illustration of European history. Through centuries, Riga has been the centre of many historic events and a meeting point for European nations, and it has managed to preserve evidence of European influence on its historical development, borders between the West and the East, and intersection of trading and cultural routes. Riga has always been a modern city keeping up with the current trends in architecture and urban planning, and at the same time, preserving the city’s integrity in the course of development. Riga, which was founded as a port town in 1201, was one of the key centres of the Hanseatic League in Eastern Europe from the 13th to the 15th century. The urban fabric of its medieval core reflects the prosperity of those times, though most of the earliest buildings were rebuilt for actual needs or lost by fire or war. In the 17th century, Riga became the largest provincial town of Sweden. In the 19th century, it experienced rapid industrial development. It is in this period that the suburbs surrounding the medieval town were laid out, first, with imposing wooden buildings in neoclassical style, and later, when permanent stone buildings were allowed instead, in the Art Nouveau style. In the early 1900’s Riga became the European city with the highest concentration of Art Nouveau architecture with around 50 Art Nouveau buildings of high architectural value in the medieval part and more than 300 in the rest of the Historic Centre. The site reflects various architectural styles, which provide valuable insight into the stages of development of Riga as a city. The Historic Centre of Riga is comprised of three different urban landscapes – the relatively well-preserved medieval core, the 19th century semi-circle of boulevards with a green belt on both sides of the City Canal, and the former suburban quarters surrounding the boulevards with dense built-up areas with a rectangular network of streets and wooden architecture of the 18th and 19th centuries. Each of these parts has its characteristic relationship of buildings and public outdoor spaces. The Outstanding Universal Value to be preserved also resides in the spacious panorama of the Historic Centre of Riga with an expressive skyline. The medieval core of Riga is located on the right bank of the River Daugava, allowing a picturesque view on the skyline saturated with numerous church towers from the different perspectives of the left bank. Historic buildings are relatively low, with only church towers creating vertical dominance. Riga always has had a role in the cultural, scientific, social, artistic, industrial and educational development of the region, being one of the biggest harbour cities and trade centres in the Baltic Sea Region, and thus, providing the exchange of the achievements of Western and Eastern civilizations. Riga Polytechnic, being the only higher architecture education institution until World War I in the Baltic States, promoted the dissemination of the patterns of its own architecture to Tallinn, Vilnius and other towns of the western part of Tsarist Russia. Criterion (i): The medieval and later-period urban planning structure of the Historic Centre of Riga, as well as the quantity and quality of Art Nouveau architecture, which is unparalleled anywhere in the world, and the 19th century wooden architecture make it of Outstanding Universal Value. The Historic Centre of Riga has the finest concentration of Art Nouveau architecture in the world. Criterion (ii): Riga has exerted considerable influence within the cultural area of the Baltic Sea on the developments in architecture, monumental sculpture and garden design. Integrity The property is the whole central part of the capital city of Riga. Its boundaries and its buffer zone are specified in accordance with the integrity of the urban fabric and the effective protection of the important views of the site. It contains all elements necessary to express Outstanding Universal Value, namely the architectural monuments of respective historical styles of the medieval core; the semicircle of boulevards, dominated by harmonically balanced 19th century and early 20th century eclectic architecture and Art Nouveau; and the territory of former suburbs with buildings from the 18th to the 20th century, especially in wood. The outstanding panorama and visual perspectives of the Historic Centre of Riga reflect the effective protection of the important views of the property. The integrity of the site is challenged by the loss of original substance and authenticity of the site attributes, and the low-quality new developments in the Historic Centre of Riga not respecting the scale, character and pattern of the historic environment. The overall coherence of the site is also vulnerable to the possible adverse impact of new developments in and outside of the buffer zone. Authenticity The Historic Centre of Riga is a spatially harmonic urban environment with relatively few destructive transformations. The Historic Centre of Riga and its buffer zone include a set of authentic cultural and historical attributes significant to its Outstanding Universal Value: structure of historic urban pattern with high-quality transformations of later periods, panorama and skyline, visual perspectives, historic structure, (particularly groups of buildings of the Middle Ages, Art Nouveau and wooden architecture and the scale and character thereof), archaeological cultural layer, public outdoor space, system of greeneries and green areas, historic water courses, waterfronts and water bodies, historic ground surfacing, and historic elements of improvements. Protection and management requirements The preservation of the Historic Centre of Riga is ensured by a strong system of legal acts – seven international conventions on heritage protection, which the Republic of Latvia has joined, the Law on Protection of Cultural Monuments, the Law on Preservation and Protection of the Historic Centre of Riga, 23 other laws, 27 Cabinet regulations and orders, and the Plan for Preservation and Development of the Historic Centre of Riga and its protection zone (adopted in 2006 by the Riga City Council) including binding regulations (by-laws) specific for this territory. The management system is based on the framework mentioned above and institutional collaboration between state and local municipality institutions. The responsible institutions that are stable in the long term are the State Inspection for Heritage Protection and the Riga City Council with its respective institutions (City Development Department of Riga, Riga City Construction Board and Riga City Architect’s Office with its Collegium). In order to ensure broader regular involvement of all interested parties and a more holistic approach towards the preservation, protection and development matters of the Historic Centre of Riga, the Council for Preservation and Development of the Historic Centre of Riga was established in 2003. The Council meets regularly, and its sittings and decision making process is open to the public. The comprehensive model of the protection and preservation of the Historic Centre of Riga strives to sustain the authenticity and integrity of the site and to ensure the prevention of potential threats. The main threats of the property include the following areas. Firstly, the planning of urban development that is insufficiently based on balanced long-term development and low public participation in planning processes poses a threat to the property. Secondly, extremities in economic development, excessively fast growth or crisis could dramatically affect the property. Insufficient understanding and appreciation of heritage values in the society could threaten the Outstanding Universal Value of the property. Thirdly, trends of losing original substance and authenticity that must be continuously overcome, for example, demolition of historic buildings and constructions, transformation of historic planning structure, low-quality changes of spatial composition or roof shape of historic buildings and repairs of historic buildings using unsuitable methods and/or materials, and falsification of history with replicas of historical buildings or imitations of styles may pose a threat to the property. Similarly, trends of low-quality new buildings, including construction of new, large buildings that do not match the scale and character of the historic building pattern, large facilities that attract traffic in the historic city centre and the construction of new cheap buildings of low architectural value in valuable locations of the historic urban environment. Finally, insufficient financial resources for heritage preservation activities may also have an adverse impact on the development of the property. The preservation and development framework for the Historic Centre of Riga is constantly being elaborated e.g. by data base improvement, further elaboration of detailed plans and local plans for certain areas, overall visual impact studies and their requirements, procedures for heritage impact assessment as well as diversification of local community involvement. The municipality develops legal frameworks and provisions to deal with these challenges in a holistic and participatory manner. The planning approach is based on a new system of planning in Latvia, introduced in 2011. The new long-term Development Strategy and mid-term Development Programme as well as the Spatial Plan according to new principles are in their initial stages of development. The municipality has issued binding regulations concerning building and land-use, which will prevent the appearance of over-scaled new constructions affecting the site and the demolition of historic buildings. These initiatives are being strengthened by state-level binding regulations, which demand the evaluation of every intended change related to heritage or the original structure, based on an assessment of certain cultural and historical values; evaluation and open discussion of changes in inter-institutional Councils; open architectural competitions in every case a new construction is planned for a public outdoor space. These initiatives are being enhanced by changing attitudes towards heritage values in the society thanks to extensive campaigns for tourist attraction (Live Riga, managed by the municipal Tourism Development office), public discussions organized by NGOs and state and municipal institutions. The Basic Statements of Tourism Development in Riga is updated by the Municipality. Every historic building designated for public use has its own instructions for cases of emergency. An overall system of disaster management is implemented according to the Civil Protection Law. The relative proximity of the Riga Free Port transhipment zone to the Historic Centre of Riga and hence the transportation and reloading of hazardous and polluting substances through the Historic Centre of Riga and its buffer zone may be considered as a potential threat, although port activities are planned to be moved from their present location. Financial instruments for the World Heritage property are formed by the state and municipality budget, tax system, international financial instruments, and private funding. The joint cooperation of all stakeholders has been established by inclusion, information and incentives over time."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2
+          ],
+          "display": "(i)(ii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 438.3,
+          "square_km": 4.38,
+          "square_miles": 1.774,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/84ffd9f9442c67dde15db4c60352874c",
+          "filename": "site_0852_0001.jpg",
+          "dimensions": {
+            "width": 1944,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112569/site_0852_0001.jpg",
+            "https://whc.unesco.org/document/112621/site_0852_0026.jpg",
+            "https://whc.unesco.org/document/112623/site_0852_0027.jpg",
+            "https://whc.unesco.org/document/112625/site_0852_0028.jpg",
+            "https://whc.unesco.org/document/112627/site_0852_0029.jpg",
+            "https://whc.unesco.org/document/112629/site_0852_0030.jpg",
+            "https://whc.unesco.org/document/155451/site_0852_0031.jpg",
+            "https://whc.unesco.org/document/155452/site_0852_0032.jpg",
+            "https://whc.unesco.org/document/155453/site_0852_0033.jpg",
+            "https://whc.unesco.org/document/155454/site_0852_0034.jpg",
+            "https://whc.unesco.org/document/155455/site_0852_0035.jpg",
+            "https://whc.unesco.org/document/155456/site_0852_0036.jpg",
+            "https://whc.unesco.org/document/155457/site_0852_0037.jpg",
+            "https://whc.unesco.org/document/155459/site_0852_0039.jpg",
+            "https://whc.unesco.org/document/155460/site_0852_0040.jpg",
+            "https://whc.unesco.org/document/112571/site_0852_0002.jpg",
+            "https://whc.unesco.org/document/112573/site_0852_0003.jpg",
+            "https://whc.unesco.org/document/112575/site_0852_0004.jpg",
+            "https://whc.unesco.org/document/112577/site_0852_0005.jpg",
+            "https://whc.unesco.org/document/112580/site_0852_0006.jpg",
+            "https://whc.unesco.org/document/112582/site_0852_0007.jpg",
+            "https://whc.unesco.org/document/112584/site_0852_0008.jpg",
+            "https://whc.unesco.org/document/112588/site_0852_0010.jpg",
+            "https://whc.unesco.org/document/112594/site_0852_0013.jpg",
+            "https://whc.unesco.org/document/112596/site_0852_0014.jpg",
+            "https://whc.unesco.org/document/112598/site_0852_0015.jpg",
+            "https://whc.unesco.org/document/112600/site_0852_0016.jpg",
+            "https://whc.unesco.org/document/112602/site_0852_0017.jpg",
+            "https://whc.unesco.org/document/112604/site_0852_0018.jpg",
+            "https://whc.unesco.org/document/112606/site_0852_0019.jpg",
+            "https://whc.unesco.org/document/112608/site_0852_0020.jpg",
+            "https://whc.unesco.org/document/112610/site_0852_0021.jpg",
+            "https://whc.unesco.org/document/112613/site_0852_0022.jpg",
+            "https://whc.unesco.org/document/112615/site_0852_0023.jpg",
+            "https://whc.unesco.org/document/112617/site_0852_0024.jpg",
+            "https://whc.unesco.org/document/112619/site_0852_0025.jpg"
+          ],
+          "count": 36
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Riga",
+            "ref": "852",
+            "latitude": 56.95417,
+            "longitude": 24.11667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/852",
+        "unesco_documents": "https://whc.unesco.org/en/list/852/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/852/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/852/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Riga Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe. Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe. Latvia Europe and North America Cultural"
+    }
+  ]
+}

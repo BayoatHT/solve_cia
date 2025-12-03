@@ -1,0 +1,158 @@
+{
+  "site_key": "mount_mulanje_cultural_landscape",
+  "uuid": "4d09d927-f908-5043-b4ef-fb7b91641df8",
+  "unesco_id": "1201",
+  "names": {
+    "en": "Mount Mulanje Cultural Landscape",
+    "fr": "Paysage culturel du Mont Mulanje",
+    "es": "Paisaje cultural del monte Mulanje",
+    "ru": "Культурный ландшафт горы Муландже",
+    "ar": "",
+    "zh": "姆兰杰山文化景观"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "MWI": {
+        "name": "Malawi",
+        "iso2": "MW",
+        "iso3": "MWI"
+      }
+    },
+    "region": {
+      "name": "Africa",
+      "code": "AFR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature.",
+      "fr": "Ce bien englobe la chaîne de montagnes, située dans le sud du Malawi, dominée par l’imposant Mont Mulanje, l’un des plus grands inselbergs au monde, et son environnement naturel. Considéré comme un lieu sacré peuplé de dieux, d’esprits et d’ancêtres, le site porte une signification culturelle et spirituelle profonde. Les éléments géologiques et hydrologiques de cette montagne sont intrinsèquement liés aux croyances et aux pratiques culturelles des peuples yao, mang’anja, et lhomwe. Ces communautés ont maintenu le caractère sacré du lieu à travers des rites et des traditions, faisant du mont Mulanje un paysage culturel qui incarne l’harmonie entre spiritualité, culture et nature.",
+      "es": "Este bien patrimonial abarca la cordillera situada en el sur de Malawi, con el imponente monte Mulanje, uno de los mayores inselbergs del mundo, y su entorno circundante. Venerado como lugar sagrado y morada de dioses, espíritus y antepasados, tiene un profundo significado cultural y espiritual. Las características geológicas e hidrológicas de la montaña están conectadas con los sistemas de creencias y las prácticas culturales de los pueblos yao, mang’anja y lhomwe. Estas comunidades han contribuido a la sacralidad de la montaña a través de rituales y tradiciones, convirtiendo el sitio en un paisaje cultural sagrado que refleja la armonía espiritual y ecológica entre las personas y la naturaleza.",
+      "ru": "Объект охватывает горный массив на юге Малави, включающий величественную гору Муландже — один из крупнейших инзельбергов в мире — и прилегающие к ней окрестности. Эта гора почитается как священное место, где обитают божества, духи и предки, и имеет глубокое культурное и духовное значение. Геологические и гидрологические особенности горы связаны с верованиями и культурными практиками народов яо, манганджа и ломве. Эти сообщества поддерживают её священный статус через ритуалы и традиции, что делает это место священным культурным ландшафтом, отражающим духовную и экологическую гармонию между человеком и природой.",
+      "ar": "",
+      "zh": "该遗产位于马拉维南部山脉，核心是雄伟的姆兰杰山——全世界最大的孤山之一。姆兰杰山长期被奉为神明、精灵与先祖栖居的圣地，承载着深厚的文化与精神意义。其地质和水文特征与尧族（Yao）、曼甘加族（Mang’anja）、隆韦族（Lhomwe）的信仰体系密切相连。这些社群通过传承仪式与传统坚守着山脉的神圣性，使其成为体现人与自然在精神与生态层面和谐共生的神圣文化景观。"
+    },
+    "full": "This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        3
+      ],
+      "natural": [],
+      "all": [
+        3
+      ],
+      "display": "(iii)",
+      "count": 1,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 89549.18,
+      "square_km": 895.49,
+      "square_miles": 362.393,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f85f827cd3ab621ecb83c0c0b3e9fc6b",
+      "filename": "site_1201_0001.jpg",
+      "dimensions": {
+        "width": 6000,
+        "height": 4000
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/219985/site_1201_0001.jpg",
+        "https://whc.unesco.org/document/219986/site_1201_0002.jpg",
+        "https://whc.unesco.org/document/219987/site_1201_0003.jpg",
+        "https://whc.unesco.org/document/219988/site_1201_0004.jpg",
+        "https://whc.unesco.org/document/219989/site_1201_0005.jpg",
+        "https://whc.unesco.org/document/219990/site_1201_0006.jpg",
+        "https://whc.unesco.org/document/219991/site_1201_0007.jpg",
+        "https://whc.unesco.org/document/219992/site_1201_0008.jpg",
+        "https://whc.unesco.org/document/219993/site_1201_0009.jpg"
+      ],
+      "count": 9
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Mount Mulanje Cultural Landscape",
+        "ref": "1201rev",
+        "latitude": -15.9116666667,
+        "longitude": 35.6580555556
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1201",
+    "unesco_documents": "https://whc.unesco.org/en/list/1201/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1201/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1201/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Africa",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Mount Mulanje Cultural Landscape This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature. This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature. Malawi Africa Cultural"
+}

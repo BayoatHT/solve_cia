@@ -1,0 +1,879 @@
+{
+  "country": {
+    "code": "PSE",
+    "name": "Palestine"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 3,
+  "sites": [
+    {
+      "site_key": "birthplace_of_jesus_church_of_the_nativity_and_the_pilgrimage_route_bethlehem",
+      "uuid": "5bc6f121-17cb-5377-825f-33758011ef27",
+      "unesco_id": "1433",
+      "names": {
+        "en": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+        "fr": "Lieu de naissance de Jésus : l’église de la Nativité et la route de pèlerinage, Bethléem",
+        "es": "El Lugar de Nacimiento de Jesús: Iglesia de la Natividad y ruta de peregrinación en Belén",
+        "ru": "Базилика Рождества Христова и тропы паломников",
+        "ar": "مهد ولادة يسوع المسيح: كنيسة المهد وطريق الحجاج، بيت لحم",
+        "zh": "耶稣诞生地：伯利恒主诞堂和朝圣线路"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PSE": {
+            "name": "Palestine",
+            "iso2": "PS",
+            "iso3": "PSE"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The inscribed property is situated 10 km south of Jerusalem on the site identified by Christian tradition as the birthplace of Jesus since the 2nd century. A church was first completed there in ad 339 and the edifice that replaced it after a fire in the 6th century retains elaborate floor mosaics from the original building. The site also includes Latin, Greek Orthodox, Franciscan and Armenian convents and churches, as well as bell towers, terraced gardens and a pilgrimage route.",
+          "fr": "Le bien inscrit est situé à 10 km au sud de Jérusalem sur les sites que les Chrétiens reconnaissent traditionnellement, depuis le IIe siècle, comme le lieu de naissance de Jésus. Une église y a été construite en 339 et l’édifice qui lui a été substitué après un incendie survenu au VIe siècle conserve des vestiges du sol du bâtiment original, en mosaïques élaborées. Le site comprend également des églises et des couvents grecs, latins, orthodoxes, franciscains et arméniens ainsi que des clochers, des jardins en terrasses et une route de pèlerinage.",
+          "es": "El sitio inscrito está situado a 10 km al sur de Jerusalén en el lugar en el que los cristianos creen que nació Jesucristo. En el 399 d.C. se construyó una primera iglesia, que fue sustituida por otra en el siglo VI tras ser sustituida por un incendio. En la iglesia actual se conservan suelos de mosaico muy elaborados procedentes del edificio original. El sitio incluye también conventos e iglesias latinas, griegas, ortodoxas, franciscanas y armenias, así como campanarios, jardines en terraza y una ruta de peregrinación.",
+          "ru": "Объект расположен в 10 км к югу от Иерусалима. Начиная со 2-го века н.э., это место почитается христианами как место рождения Иисуса Христа. Церковь Рождества была первоначально воздвигнута здесь в 339 г. н. э.. Она была обновлена после пожара в 6–м веке н.э., при этом удалось сохранить оригинальные мозаичные полы. Объект включает католические и православные, включая францисканские и армянские, монастыри и церкви, а также колокольни, террасные сады и тропы паломников.",
+          "ar": "وهذا الموقع هو على مسافة 20 كيلومترات من مدينة القدس ويوجد عند المكنة التي يعترف بها أبناء الديانة المسيحية، منذ القرن الثاني، على انها مكان ولادة يسوع المسيح. وبنيت الكنيسة في العام 339. وقد حافظ البناء الذي أعيد تشييده في القرن السادس بعد الحريق الذي أصاب الكنيسة، على بقايا الفسيفساء الأصلية على الأرض. ويشمل الموقع أيضا كنائس وأديرة، يونانية ولاتينية وأرثوذوكسية وفرنسيسكان وأرمن، وكذلك أجراسا وحدائق متنوعة على طول طريق الحجاج.",
+          "zh": "这一入选遗产位于耶路撒冷以南10公里，自从公元二世纪以来，就被基督教传统认定为耶稣的诞生地。公元339年，在此建成第一座教堂，公元6世纪的火灾后，在此基础上重建的教堂保留了原有建筑精美的马赛克地板。这一遗产地还包括拉丁、希腊东正教、方济会和亚美尼亚修道院和教堂，以及钟楼、露台花园和一条朝圣路线。"
+        },
+        "full": "The inscribed property is situated 10 km south of Jerusalem on the site identified by Christian tradition as the birthplace of Jesus since the 2nd century. A church was first completed there in ad 339 and the edifice that replaced it after a fire in the 6th century retains elaborate floor mosaics from the original building. The site also includes Latin, Greek Orthodox, Franciscan and Armenian convents and churches, as well as bell towers, terraced gardens and a pilgrimage route.",
+        "justification": "Brief synthesis Bethlehem lies 10 kilometres south of the city of Jerusalem, in the fertile limestone hill country of the Holy Land. Since at least the 2nd century AD people have believed that the place where the Church of the Nativity, Bethlehem, now stands is where Jesus was born. One particular cave, over which the first Church was built, is traditionally believed to be the Birthplace itself. In locating the Nativity, the place both marks the beginnings of Christianity and is one of the holiest spots in Christendom. The original basilica church of 339 AD (St Helena), parts of which survive below ground, was arranged so that its octagonal eastern end surrounded, and provided a view of, the cave. This church is overlaid by the present Church of the Nativity, essentially of the mid-6th century AD (Justinian), though with later alterations. It is the oldest Christian church in daily useI1 . Since early medieval times the Church has been increasingly incorporated into a complex of other ecclesiastical buildings, mainly monastic. As a result, today it is embedded in an extraordinary architectural ensemble, overseen by members of the Greek Orthodox Church, the Custody of the Holy Land and the Armenian Church, under the provisions of the Status Quo of the Holy Places established by the Treaty of Berlin (1878). During various periods over the past 1700 years, Bethlehem and the Church of the Nativity have been, and still are, a pilgrim destination. The eastern end of the traditional route from Jerusalem to the Church, known as the Pilgrimage route, marks the road that connects the traditional entrance of Bethlehem, near King David’s Wells with the Church of the Nativity, and extends along the Star Street through the Damascus Gate, or Qos Al-Zarara, the historical gate of the town, towards the Manger Square. The Route continues to be celebrated as the path followed by Joseph and Mary during their trip in Bethlehem during Christmas ceremonies each year, and is followed ceremonially by Patriarchs of the three churches at their several Christmases, and during their official visits to Bethlehem. The outstanding universal value of the Church of the Nativity and the Pilgrimage Route, Bethlehem, lies, in its association with the birthplace of the founder of a great religion, which for Believers saw the Son of God made man in Bethlehem. And for the way the fabric of the Church of the Nativity and its associations have combined to reflect the extraordinary influence of Christianity in spiritual and political terms over 1500 years. Criterion (iv): The Church of the Nativity is an outstanding example of an early church in a remarkable architectural ensemble; which illustrates two significant stages in human history in the 4th-6th centuries AD the conversion of the Roman Empire to Christianity, which led to the development of the Church of the Nativity on the site believed to be associated with the birth of Jesus; and to the power and influence of Christianity in the period of the Crusades that led to the embellishment of the Church of the Nativity and the development of three major convents in its environs. Criterion (vi): The Church of the Nativity, and the Pilgrimage Route to it, are directly associated with the birth of Jesus, an event of outstanding universal significance, through the buildings of which were constructed in the 4th century AD and re-constructed in the 6th century AD. These are a strong symbol for more than 2 billion Christian believers in the world; and are Holy to Christians as well as to Muslims. Integrity The property encompasses the Church of the Nativity and its architectural ensemble, which is composed of the Armenian, Franciscan and Greek Orthodox Convents, as well as an area of terraced land to the east and a short stretch of the Pilgrimage Route. It thus includes all the buildings that form the focus of pilgrimage and the cave that is believed to be the birthplace of Jesus. It thus includes all the buildings that form the focus of pilgrimage and the cave that is believed to be the birthplace of Jesus. The small area of land to the east that is directly associated with the ensemble, is known to contain as yet systematically unexamined and largely undisturbed evidence of occupation and burial from the early centuries AD back to at least the mid-2nd millennium BC. The approach to the Church via Star Street and Paul VI Street retains the street width and line fossilized by urban development since c. 1800 AD. This ‘width and line’, as well as defining a working street in a busy town, now formalize a commemorative route for a religious ceremony. The traditional 19th and 20th yellow limestone buildings either side of this route incorporate traditional design and appearance, with living accommodation above and workshops at street level opening out on to the street. These are not part of the property but need to be protected and conserved as part of the approach to the church. The roof structure of the main Church is highly vulnerable to lack of maintenance and repair. The sharp increase in the number of vehicles, inadequate parking, and small industries within the historic town have produced a polluted environment that is negatively affecting the façades of both the Church of the Nativity and the buildings along the Pilgrimage Route. Great urban pressure is acknowledged in the surrounding urban areas, to which largely unregulated tourism and traffic contribute. New constructions, some large, are disturbing the traditional urban fabric near the Church of the Nativity and are having a negative impact on views to and from the property ,and on its sense of place and spiritual associations. Authenticity Located on the spot believed to be the Birthplace of Jesus Christ for some 2000 years, the Church of the Nativity is one of the most sacred Christian sites in the world since at least the 4th century AD up to the present. The sanctity of the site is maintained by the three churches occupying it. The construction of the church in 339 AD above the grotto, and its reconstruction in 533 AD, commemorates the birth of Jesus and attests to seventeen hundred years-long tradition of belief that this grotto was indeed the birthplace of Jesus Christ. The association of the place that was believed to be the birthplace of Jesus is documented from the 4th century AD and from then on the buildings added to it have been constructed to enhance this religious significance. The majority of the existing church today dates beck to the 6th century AD, but retains part of the 4th century floor and some parts of its walls and columns, and have 12th century and later additions that are obvious in the icon painting on the columns of the church. The 12th century additions reflect the Crusades that led to one of the upsurges in pilgrimage activity. From medieval times the church has been supported by monastic communities for which there is strong material evidence. The buildings of one of the monastic complexes date back to at least the 12th century while there is evidence under the others for earlier monastic buildings dating to the 12th century. Apart from the Armenian Convent, most of their current apparent structures date from the 19th and 20th centuries. All elements of the church associated with the original church, its re-building in the 6th century, and its alterations in the 12th century need to be clearly identified and a conservation plan agreed to ensure repair and restoration respect as much as possible of the existing fabric that is crucial to understanding its significance. The Church of the Nativity and its monastic complexes and the town of Bethlehem developed in tandem over the centuries. The current lack of control of development, traffic and tourism in the immediate urban surroundings of the Church is threatening this relationship and the ability of the property to convey fully its spiritual links. The exceptionally high number of people within the Church of the Nativity at any one time is impacting adversely on the conservation of the fabric The sharp increase in the number of vehicles, inadequate parking, and small industries within the historic town, have produced a polluted environment that is negatively affecting the façades of both the Church and the buildings along the Pilgrimage Route. Protection and management requirements The Church of the Nativity is managed under the terms and provisions of the ‘Status Quo of the Holy Places’, which is implemented by the three churches occupying the place; the Greek Orthodox Church, the Custody of the Holy Land and the Armenian Patriarchate. The management is currently supplemented by an advisory committee formed by the Palestinian President. Each of the three adjacent Convents is maintained under its own arrangement: the Armenian Convent is controlled by the Armenian Patriarchate in the Holy City of Jerusalem; the Greek Orthodox Convent by the Greek Orthodox Patriarchate in the Holy City of Jerusalem; and the Franciscan Convent and the Church of St Catherine by the Custody of the Holy Land, Holy City of Jerusalem. A technical plan for the restoration of the roof of the Church of the Nativity has been developed by the advisory committee that was formed by the Palestinian president in full cooperation with the three churches in charge of the church. Intervention to restore the roof of the church was indicated as a priority by the international team who worked on the plan, and the works are expected to start during the year. A Conservation Strategy needs to be developed for the Church of the Nativity to guide the repair and restoration of the roof and future conservation interventions in order to optimise retention of the fabric relating to the 4th, 6th and 12th century interventions. Such a Strategy should synthesize the conclusions of the detailed investigative reports into a clear statement of the significances of the various elements within a comprehensive conservation philosophy for the proposed work. Conservation Plans also need to be developed for the other ecclesiastical buildings. The second main component, the Pilgrimage Route, principally Star Street, is part of the Municipality of Bethlehem and is therefore covered by the provisions of ‘Building and Planning Law 30, 1996’, of ‘the 'Bethlehem Charter 2008’, of the ‘Guidelines for the Conservation and Rehabilitation of the Historic Towns of Bethlehem, Beit Jala and Beit Sahour, 2010, and of the ‘General Rules for the Protection of the Historic Area and Historic Individual Buildings, Bethlehem, 2006’. Protection’, ‘Conservation’, and ‘Rehabilitation’ are the stated objectives of the last two enactments, and the ‘Charter’, which embodies a statement of principles as well as working practices to achieve those objectives. Nevertheless stronger controls are needed to ensure that the urban context of the property is not eroded. This area is now an Area under Planning, and any interventions are forbidden until the adoption the conservation and management plan and the bylaws that are currently being prepared by CCHP in cooperation with Bethlehem Municipality and MoTA. A Management Plan will be developed for the overall property by the Committee set up to oversee the roof repairs and this should define an overall management system for the property. This Plan needs to address the urban pressure on the property, tourism and traffic management, protection of views, and the conservation of buildings along the pilgrimage route. The Plan also needs to address the better management of visitors, as the provision of facilities for visitors are impacting adversely on the fabric of the surrounding town. The municipality of Bethlehem and the Centre for Cultural Heritage Preservation in Bethlehem, in cooperation with the Ministry of Tourism and Antiquities and the Ministry of Local Government are working on preparing conservation and management plans for the historic town of Bethlehem. The works are being implanted under the Heritage For Development Project, which is being funded by the European Commission, are expected to finish in December 2013; upon the completion of the works a conservation plan for the historic town of Bethlehem that includes bylaws for intervention within the historic town, a management plan for the historic town and a manual for interventions shall be at indorsed by Bethlehem municipality. In addition, the team of the municipality is involved in the planning process, and is expected to have the full capacity for the handling of the outputs of the project."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2.98,
+          "square_km": 0.03,
+          "square_miles": 0.012,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6fa649464a45bda5511cf606827c1e9a",
+          "filename": "site_1433_0001.jpg",
+          "dimensions": {
+            "width": 2512,
+            "height": 2475
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/117541/site_1433_0001.jpg",
+            "https://whc.unesco.org/document/129412/site_1433_0015.jpg",
+            "https://whc.unesco.org/document/129413/site_1433_0016.jpg",
+            "https://whc.unesco.org/document/209527/site_1433_0020.jpg",
+            "https://whc.unesco.org/document/209528/site_1433_0021.jpg",
+            "https://whc.unesco.org/document/209529/site_1433_0022.jpg",
+            "https://whc.unesco.org/document/117542/site_1433_0002.jpg",
+            "https://whc.unesco.org/document/117543/site_1433_0003.jpg",
+            "https://whc.unesco.org/document/119377/site_1433_0004.jpg",
+            "https://whc.unesco.org/document/119378/site_1433_0005.jpg",
+            "https://whc.unesco.org/document/119380/site_1433_0006.jpg",
+            "https://whc.unesco.org/document/119382/site_1433_0007.jpg",
+            "https://whc.unesco.org/document/120520/site_1433_0008.jpg",
+            "https://whc.unesco.org/document/120521/site_1433_0009.jpg",
+            "https://whc.unesco.org/document/129408/site_1433_0011.jpg",
+            "https://whc.unesco.org/document/129409/site_1433_0012.jpg",
+            "https://whc.unesco.org/document/129410/site_1433_0013.jpg",
+            "https://whc.unesco.org/document/129411/site_1433_0014.jpg",
+            "https://whc.unesco.org/document/129414/site_1433_0017.jpg",
+            "https://whc.unesco.org/document/129415/site_1433_0018.jpg",
+            "https://whc.unesco.org/document/129416/site_1433_0019.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1433",
+        "unesco_documents": "https://whc.unesco.org/en/list/1433/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1433/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1433/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem The inscribed property is situated 10 km south of Jerusalem on the site identified by Christian tradition as the birthplace of Jesus since the 2nd century. A church was first completed there in ad 339 and the edifice that replaced it after a fire in the 6th century retains elaborate floor mosaics from the original building. The site also includes Latin, Greek Orthodox, Franciscan and Armenian convents and churches, as well as bell towers, terraced gardens and a pilgrimage route. The inscribed property is situated 10 km south of Jerusalem on the site identified by Christian tradition as the birthplace of Jesus since the 2nd century. A church was first completed there in ad 339 and the edifice that replaced it after a fire in the 6th century retains elaborate floor mosaics from the original building. The site also includes Latin, Greek Orthodox, Franciscan and Armenian convents and churches, as well as bell towers, terraced gardens and a pilgrimage route. Palestine Arab States Cultural"
+    },
+    {
+      "site_key": "saint_hilarion_monastery_tell_umm_amer",
+      "uuid": "5c4f65a9-21b0-5af9-b35b-d787c5307bed",
+      "unesco_id": "1749",
+      "names": {
+        "en": "Saint Hilarion Monastery/ Tell Umm Amer",
+        "fr": "Monastère de Saint Hilarion/ Tell Umm Amer",
+        "es": "Monasterio de San Hilarión / Tell Umm Amer",
+        "ru": "Монастырь Святого Иллариона/ Телл Умм Амер",
+        "ar": "دير القديس هيلاريون / تل أم عامر",
+        "zh": "圣希拉里翁修道院 / 特尔乌姆阿迈尔"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PSE": {
+            "name": "Palestine",
+            "iso2": "PS",
+            "iso3": "PSE"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilarion Monastery/ Tell Umm Amer represent one of the earliest monastic sites in the Middle East, dating back to the 4th century. Founded by Saint Hilarion, the monastery began with solitary hermits and evolved into a coenobitic community. It was the first monastic community in the Holy Land, laying the groundwork for the spread of monastic practices in the region. The monastery occupied a strategic position at the crossroads of major trade and communication routes between Asia and Africa. This prime location facilitated its role as a hub of religious, cultural, and economic interchange, exemplifying the flourishing of monastic desert centres during the Byzantine period.",
+          "fr": "Situés sur les dunes côtières de la municipalité de Nousseirat, les vestiges du monastère de Saint Hilarion/Tell Umm Amer, représentent l’un des sites monastiques les plus anciens du Moyen-Orient, datant du IVe siècle. Le monastère, fondé par Saint Hilarion, accueillit des ermites avant de devenir le lieu de vie d’une communauté cénobitique. Première communauté monastique en terre sainte, elle permit la diffusion des pratiques monastiques dans la région. Le monastère occupait une position stratégique, au carrefour des principales routes de commerce et d’échanges entre l’Asie et l’Afrique. Cette localisation favorable en fit un centre d’échanges religieux, culturels et économiques, illustrant la prospérité des centres monastiques désertiques de la période byzantine.",
+          "es": "Las ruinas del Monasterio de San Hilarión / Tell Umm Amer, situadas en las dunas costeras del Municipio de Nuseirat, representan uno de los primeros sitios monásticos en el Medio Oriente, que data del siglo IV. Fundado por San Hilarión, el monasterio comenzó con ermitaños solitarios y evolucionó hacia una comunidad cenobítica. Fue la primera comunidad monástica en Tierra Santa y sentó las bases para la expansión de las prácticas monásticas en la región. Su ubicación estratégica, en la encrucijada de importantes rutas comerciales y de comunicación entre Asia y África, facilitó su papel como centro de intercambio religioso, cultural y económico. Este enclave ejemplifica el florecimiento de los centros monásticos en el desierto durante el periodo bizantino.",
+          "ru": "Руины монастыря Святого Иллариона/Телл Умм Амер расположены на прибрежных дюнах в городе Нусейрат. Это одно из самых ранних монашеских поселений на Ближнем Востоке, основанное в IV веке. Монастырь был основан Святым Илларионом. Изначально в нем жили отшельники-одиночки, а затем он превратился в киновию. Монастырь стал первой монашеской общиной на Святой Земле и положил начало распространению практик монашества в этом регионе. Он занимал стратегическое положение на перекрестке основных торговых и коммуникационных путей между Азией и Африкой. Благодаря такому удачному расположению монастырь стал центром религиозного, культурного и экономического обмена, а также свидетельством расцвета центров монашества в пустыне в византийский период.",
+          "ar": "تقع أطلال دير القديس هيلاريون / تل أم عامر على التلال الساحلية في بلدية النصيرات، وهو أحد الأديار الأولى في الشرق الأوسط، إذ يعود تاريخه إلى القرن الرابع الميلادي. وكان قد أسسه القديس هيلاريون، حيث بدأ الدير كصومعة للتنسك المنفرد ثم تطور ليصبح مجتمعاً رهبانياً. وكان هذا الدير أول مجتمع رهباني في الأرض المقدسة حيث مهَّد السبيل أمام انتشار الممارسات الرهبانية في المنطقة. ويقع الدير في نقطة استراتيجية على تقاطع طرق رئيسية للتجارة والاتصال بين آسيا وأفريقيا. وقد يسَّر هذا الموقع المتميز الدور الذي أداه الدير كمركز للتبادل الديني والثقافي والاقتصادي، مقدماً بذلك مثالاً على الأديرة الصحراوية التي انتشرت في العصر البيزنطي.",
+          "zh": "圣希拉里翁修道院 / 特尔乌姆阿迈尔（Tell Umm Amer）遗址位于努赛赖特市的海岸沙丘地带，是中东最古老的修道院之一，其历史可追溯至公元4世纪。它由圣希拉里翁创建，从最初隐居修士的容身之所逐渐发展为集体修道社区，成为“圣地”首个修道院社区，为修道院习俗在当地的传播奠定基础。修道院坐落在亚非大陆多条贸易及交通要道的交汇之处，优越的地理位置使其成为宗教、文化、经济交流的枢纽，以及拜占庭时期沙漠修道中心蓬勃发展的范例。"
+        },
+        "full": "Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilarion Monastery/ Tell Umm Amer represent one of the earliest monastic sites in the Middle East, dating back to the 4th century. Founded by Saint Hilarion, the monastery began with solitary hermits and evolved into a coenobitic community. It was the first monastic community in the Holy Land, laying the groundwork for the spread of monastic practices in the region. The monastery occupied a strategic position at the crossroads of major trade and communication routes between Asia and Africa. This prime location facilitated its role as a hub of religious, cultural, and economic interchange, exemplifying the flourishing of monastic desert centres during the Byzantine period.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.3293,
+          "square_km": 0.01,
+          "square_miles": 0.005,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2024,
+          "all_dates": [
+            2024
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2024,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2024",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/53a4dbf5325dbfdab554bf847ffc0f15",
+          "filename": "site_1749_0001.jpg",
+          "dimensions": {
+            "width": 1280,
+            "height": 720
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/207525/site_1749_0001.jpg",
+            "https://whc.unesco.org/document/207526/site_1749_0002.jpg",
+            "https://whc.unesco.org/document/207527/site_1749_0003.jpg",
+            "https://whc.unesco.org/document/207528/site_1749_0004.jpg",
+            "https://whc.unesco.org/document/207529/site_1749_0005.jpg",
+            "https://whc.unesco.org/document/207530/site_1749_0006.jpg",
+            "https://whc.unesco.org/document/207531/site_1749_0007.jpg",
+            "https://whc.unesco.org/document/207532/site_1749_0008.jpg",
+            "https://whc.unesco.org/document/207533/site_1749_0009.jpg",
+            "https://whc.unesco.org/document/207534/site_1749_0010.jpg",
+            "https://whc.unesco.org/document/207535/site_1749_0011.jpg",
+            "https://whc.unesco.org/document/207536/site_1749_0012.jpg",
+            "https://whc.unesco.org/document/207537/site_1749_0013.jpg",
+            "https://whc.unesco.org/document/207538/site_1749_0014.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Saint Hilarion Monastery/ Tell Umm Amer",
+            "ref": "1749",
+            "latitude": 31.4473055556,
+            "longitude": 34.3663611111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1749",
+        "unesco_documents": "https://whc.unesco.org/en/list/1749/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1749/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1749/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 1,
+        "inscription_year": 2024
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Saint Hilarion Monastery/ Tell Umm Amer Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilarion Monastery/ Tell Umm Amer represent one of the earliest monastic sites in the Middle East, dating back to the 4th century. Founded by Saint Hilarion, the monastery began with solitary hermits and evolved into a coenobitic community. It was the first monastic community in the Holy Land, laying the groundwork for the spread of monastic practices in the region. The monastery occupied a strategic position at the crossroads of major trade and communication routes between Asia and Africa. This prime location facilitated its role as a hub of religious, cultural, and economic interchange, exemplifying the flourishing of monastic desert centres during the Byzantine period. Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilarion Monastery/ Tell Umm Amer represent one of the earliest monastic sites in the Middle East, dating back to the 4th century. Founded by Saint Hilarion, the monastery began with solitary hermits and evolved into a coenobitic community. It was the first monastic community in the Holy Land, laying the groundwork for the spread of monastic practices in the region. The monastery occupied a strategic position at the crossroads of major trade and communication routes between Asia and Africa. This prime location facilitated its role as a hub of religious, cultural, and economic interchange, exemplifying the flourishing of monastic desert centres during the Byzantine period. Palestine Arab States Cultural"
+    },
+    {
+      "site_key": "ancient_jericho_tell_es_sultan",
+      "uuid": "31e26fa0-e98f-54f6-b837-e541048c02c8",
+      "unesco_id": "1687",
+      "names": {
+        "en": "Ancient Jericho/Tell es-Sultan",
+        "fr": "Ancien Jéricho/Tell es-Sultan",
+        "es": "Prehistórica Jericó /Tell es-Sultan",
+        "ru": "Древний Иерихон/Телль-эс-Султан",
+        "ar": "أريحا القديمة / تل السلطان",
+        "zh": "古耶利哥城/苏丹台形遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PSE": {
+            "name": "Palestine",
+            "iso2": "PS",
+            "iso3": "PSE"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the Jordan Valley in Palestine, the property is an oval-shaped Tell, or mound, that contains the prehistorical deposits of human activity, and includes the adjacent perennial spring of ‘Ain es-Sultan. By the 9th to 8th millennium BC, Neolithic Ancient Jericho/Tell es-Sultan was already a sizeable permanent settlement, as expressed by surviving monumental architectural attributes such as a wall with a ditch and a tower. It reflects the developments of the period, which include the shifting of humanity to a sedentary communal lifestyle and the related transition to new subsistence economies, as well as changes in social organisation and the development of religious practices, testified by skulls and statues found. The Early Bronze Age archaeological material on the site provides insights into urban planning, while vestiges from the Middle Bronze Age reveal the presence of a large Canaanite city-state, equipped with an urban centre and technologically innovative rampart fortifications, occupied by a socially complex population.",
+          "fr": "L’Ancien Jéricho/Tell es-Sultan est situé au nord-ouest de l'actuelle Jéricho dans la vallée du Jourdain en Palestine. Le bien est un Tell, ou monticule, de forme ovale qui recèle les gisements préhistoriques d’activités humaines, et comprend la source voisine pérenne de 'Ain es-Sultan. Entre le IXe et le VIIIe millénaire avant notre ère, l’Ancien Jéricho/Tell es-Sultan néolithique était déjà un établissement permanent important, comme en témoignent les attributs architecturaux monumentaux qui ont survécu, tels qu'un mur avec un fossé et une tour. Il reflète les évolutions de cette période, notamment le passage de l'humanité à un mode de vie communautaire sédentaire et la transition connexe vers de nouvelles économies de subsistance, ainsi que des changements dans l'organisation sociale et le développement de pratiques religieuses, comme en témoignent les crânes et les statues découverts. Le matériel archéologique de l'âge du Bronze ancien sur le site donne des indications sur la planification urbaine, tandis que les vestiges de l'âge du Bronze moyen révèlent la présence d'une grande cité-État cananéenne, dotée d'un centre urbain et de fortifications à remparts technologiquement innovantes, occupée par une population socialement complexe.",
+          "es": "Situado en el valle del Jordán, el sitio es un tell o montículo de forma ovalada que contiene los restos arqueológicos depositados tras milenios de actividad humana, e incluye el manantial perenne adyacente de 'Ain es-Sultan. Hacia los milenios octavo y noveno a.C. ya había surgido aquí un asentamiento permanente, debido a la fértil tierra del oasis de Jericó y al fácil acceso al agua. Los cráneos y las estatuas hallados en el yacimiento atestiguan prácticas cultuales que realizaban las poblaciones neolíticas que vivían allí, y el material arqueológico de la Edad de Bronce temprana muestra indicios de planificación urbana. Los vestigios de la Edad de Bronce media revelan la presencia de una gran ciudad-estado cananea ocupada por una población socialmente compleja.",
+          "ru": "Расположенный в долине реки Иордан объект представляет собой курган овальной формы, содержащий археологические находки тысячелетней деятельности человека, и прилегающий к нему многолетний источник Айн-эс-Султан. Постоянное поселение возникло здесь к IX-VIII тысячелетию до н.э. благодаря плодородным почвам Иерихонского оазиса и легкому доступу к воде. Найденные на территории поселения черепа и статуэтки свидетельствуют о культовой практике неолитического населения, а археологические материалы раннего бронзового века имеют признаки градостроительства. Находки эпохи средней бронзы свидетельствуют о существовании крупного ханаанского города-государства, в котором проживало социально сложное население.",
+          "ar": "يقع هذا العنصر في وادي الأردن وهو عبارة عن تل ذي شكل بيضوي يحتوي على بقايا أثرية تعود لنشاط بشري من حقبة ما قبل التاريخ، وتقع بالقرب منه عين السلطان وهي نبع ماء دائم. وقد نشأت في هذا الموقع مستوطنة دائمة بين الألفية التاسعة والألفية الثامنة قبل الميلاد نظراً إلى وجود التربة الخصبة في الواحة وسهولة الوصول إلى المياه. وتشهد الجماجم والتماثيل التي وُجدت في الموقع على وجود ممارسات طقسية لدى السكان الذين عاشوا هناك في العصر الحجري الحديث، وتشير اللقى الأثرية التي تعود إلى العصر البرونزي المبكر إلى وجود تخطيط للمدن. وتكشف آثار العصر البرونزي الأوسط عن وجود مدينة دولة كنعانية كبيرة عاش فيها سكان يتسمون بعلاقات اجتماعية معقدة.",
+          "zh": "遗产位于约旦河谷，是一包含史前人类活动遗迹的椭圆形土丘，还包括毗邻此地、常年不竭的“苏丹之泉”（Ain es-Sultan）。由于绿洲的肥沃土壤和便利水源，早在公元前9-8千年，这里就出现了人类永久定居点。在遗址上发现的头骨和雕像展示了此地新石器时代居民的宗教崇拜习俗；青铜器时代早期的考古资料显示出城市规划的迹象；青铜器时代中期的遗迹则表明这里曾有一个大型迦南城邦，居住着复合社会群体。"
+        },
+        "full": "Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the Jordan Valley in Palestine, the property is an oval-shaped Tell, or mound, that contains the prehistorical deposits of human activity, and includes the adjacent perennial spring of ‘Ain es-Sultan. By the 9th to 8th millennium BC, Neolithic Ancient Jericho/Tell es-Sultan was already a sizeable permanent settlement, as expressed by surviving monumental architectural attributes such as a wall with a ditch and a tower. It reflects the developments of the period, which include the shifting of humanity to a sedentary communal lifestyle and the related transition to new subsistence economies, as well as changes in social organisation and the development of religious practices, testified by skulls and statues found. The Early Bronze Age archaeological material on the site provides insights into urban planning, while vestiges from the Middle Bronze Age reveal the presence of a large Canaanite city-state, equipped with an urban centre and technologically innovative rampart fortifications, occupied by a socially complex population.",
+        "justification": "Brief synthesis Located northwest of present-day Jericho in the Jordan Valley in Palestine, Ancient Jericho/Tell es-Sultan consists of an oval-shaped tell, or mound, that contains archaeological deposits of human activity dating back to about 10,500 BC, and the adjacent perennial spring of ‘Ain es-Sultan, which for millennia has been an important source of water for the inhabitants of this area. The stratigraphy of this archaeological site shows twenty-nine phases of occupation and testifies to two historical-cultural contexts, namely the Neolithisation of the Fertile Crescent and the phenomenon of urbanism in southern Levant during the Bronze Age. By the 9th to 8th millennium BC, Neolithic Ancient Jericho/Tell es-Sultan was already a sizeable permanent settlement, as expressed by surviving monumental architectural features such as a wall with a ditch and a tower. It reflects the developments of the period, which include the shifting of humanity to a sedentary communal lifestyle and the related transition to new subsistence economies, as well as changes in social organisation and the development of religious practices. The Early Bronze Age archaeological material on the site provides insights into urban planning, while vestiges from the Middle Bronze Age reveal the presence of a large Canaanite city-state, equipped with an urban centre and technologically innovative rampart fortifications, occupied by a socially complex population. Criterion (iii): Ancient Jericho/Tell es-Sultan testifies in an exceptional way to developments that took place across the Near East in the Neolithic, characterised by the shifting of humanity to a new sedentary lifestyle and the related transition to new subsistence strategies. It demonstrates how people learned to live in larger, more permanent settlements and develop new social and ritual methods of communal living. Monumental features of the property, the presence of shared structures, and the evidence of post-mortem treatment of skulls provide important insights into changes in social organisation, and into the degree of skill, planning, and labour that this social organisation required. The deep stratigraphy preserved on the tell has the potential to answer many questions related to development and change of societies in the Neolithic period. Criterion (iv): Ancient Jericho/Tell es-Sultan is an outstanding example of a permanent settlement with a long history that testifies to the transition of the people of the Levant from hunter-gatherers to a sedentary lifestyle in the Neolithic, and provides evidence of the rise of early Levantine urban culture in the Early Bronze Age. With its monumental architectural features and shared structures dating from the 9th to 8th millennium BC, the property exemplifies in an exceptional way the process of Neolithisation of the Fertile Crescent, a significant stage in human history. It further allows developments in building traditions to be observed in both the private and public spheres in the Neolithic and the Bronze Age, its Middle Bronze Age ramparts in particular showing evidence of innovative construction techniques. Integrity All the attributes necessary to convey the Outstanding Universal Value are located within the boundaries of the property. These attributes include the archaeological deposits and the above-ground archaeological vestiges of Ancient Jericho dating to the Neolithic and Bronze Age periods, as well as the adjacent spring of ‘Ain es-Sultan. The excavated artefacts have been alienated from the site. The property is of sufficient size to ensure the complete representation of the features and values that convey its significance. Its archaeological deposits and deep stratigraphy are well preserved, despite destruction of some structures as a result of past archaeological investigations. The uncovered structures are fragile in some instances. The property does not suffer from adverse effects of development and/or neglect. Authenticity Ancient Jericho/Tell es-Sultan is authentic in terms of its forms and designs, materials and substance, and location. The Neolithic and Bronze Age archaeological vestiges of Ancient Jericho, while in some cases damaged during early excavations, truthfully convey the Outstanding Universal Value. The designs, materials and substance of the archaeological vestiges in situ are authentically preserved and have maintained their intact forms. Conservation measures are needed in several cases, such as for the Middle Bronze Age ramparts. No reconstructions have been made at the site, which remains in its historical location. Minimal interventions that have occurred have been made distinguishable from the original fabric. The rehabilitated ‘Ain es-Sultan spring has retained its original function as a water source. Protection and management requirements The property is protected by the Tangible Cultural Heritage Law (No. 11, 2018) of Palestine, according to which any major intervention, including conservation activities and excavations, must first be approved by the Ministry of Tourism and Antiquities, and any new structures or major changes in the areas surrounding the property require an Environmental and Heritage Impact Assessment. The Building and Planning Law (No. 79, 1966; Jordanian Law) is in force in the buffer zone. Additional regulatory measures apply through the Jericho City Spatial Urban Plan, soon to be supplemented with regulations pertaining to the Detailed Urban Master Plan for the Tell es-Sultan Area. The Jericho City Spatial Urban Plan identifies the property and the majority of its buffer zone as a protected archaeological area (antiquities zone). The property is owned by the State Party and managed as a National Archaeological Park by the Ministry of Tourism and Antiquities, the highest heritage authority in Palestine, which is responsible for on-site management and conservation. The ‘Ain es-Sultan spring will be managed jointly with the Ministry. A Management and Conservation Plan is intended to address the most important aspects of research, management, conservation, and interpretation of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 5.93,
+          "square_km": 0.06,
+          "square_miles": 0.024,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9bd0ae02e13330298af31b081f86baab",
+          "filename": "site_1687_0001.jpg",
+          "dimensions": {
+            "width": 6240,
+            "height": 4160
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/200019/site_1687_0001.jpg",
+            "https://whc.unesco.org/document/200020/site_1687_0002.jpg",
+            "https://whc.unesco.org/document/200021/site_1687_0003.jpg",
+            "https://whc.unesco.org/document/200022/site_1687_0004.jpg",
+            "https://whc.unesco.org/document/200023/site_1687_0005.jpg",
+            "https://whc.unesco.org/document/200024/site_1687_0006.jpg",
+            "https://whc.unesco.org/document/200025/site_1687_0007.jpg",
+            "https://whc.unesco.org/document/200026/site_1687_0008.jpg",
+            "https://whc.unesco.org/document/200027/site_1687_0009.jpg",
+            "https://whc.unesco.org/document/200028/site_1687_0010.jpg",
+            "https://whc.unesco.org/document/200029/site_1687_0011.jpg",
+            "https://whc.unesco.org/document/200030/site_1687_0012.jpg",
+            "https://whc.unesco.org/document/200031/site_1687_0013.jpg",
+            "https://whc.unesco.org/document/200032/site_1687_0014.jpg",
+            "https://whc.unesco.org/document/200033/site_1687_0015.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient Jericho/Tell es-Sultan",
+            "ref": "1687",
+            "latitude": 31.8713055556,
+            "longitude": 35.4440555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1687",
+        "unesco_documents": "https://whc.unesco.org/en/list/1687/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1687/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1687/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient Jericho/Tell es-Sultan Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the Jordan Valley in Palestine, the property is an oval-shaped Tell, or mound, that contains the prehistorical deposits of human activity, and includes the adjacent perennial spring of ‘Ain es-Sultan. By the 9th to 8th millennium BC, Neolithic Ancient Jericho/Tell es-Sultan was already a sizeable permanent settlement, as expressed by surviving monumental architectural attributes such as a wall with a ditch and a tower. It reflects the developments of the period, which include the shifting of humanity to a sedentary communal lifestyle and the related transition to new subsistence economies, as well as changes in social organisation and the development of religious practices, testified by skulls and statues found. The Early Bronze Age archaeological material on the site provides insights into urban planning, while vestiges from the Middle Bronze Age reveal the presence of a large Canaanite city-state, equipped with an urban centre and technologically innovative rampart fortifications, occupied by a socially complex population. Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the Jordan Valley in Palestine, the property is an oval-shaped Tell, or mound, that contains the prehistorical deposits of human activity, and includes the adjacent perennial spring of ‘Ain es-Sultan. By the 9th to 8th millennium BC, Neolithic Ancient Jericho/Tell es-Sultan was already a sizeable permanent settlement, as expressed by surviving monumental architectural attributes such as a wall with a ditch and a tower. It reflects the developments of the period, which include the shifting of humanity to a sedentary communal lifestyle and the related transition to new subsistence economies, as well as changes in social organisation and the development of religious practices, testified by skulls and statues found. The Early Bronze Age archaeological material on the site provides insights into urban planning, while vestiges from the Middle Bronze Age reveal the presence of a large Canaanite city-state, equipped with an urban centre and technologically innovative rampart fortifications, occupied by a socially complex population. Palestine Arab States Cultural"
+    },
+    {
+      "site_key": "hebron_al_khalil_old_town",
+      "uuid": "bcce0d76-6ba0-5643-9baa-498e1a64ade7",
+      "unesco_id": "1565",
+      "names": {
+        "en": "Hebron/Al-Khalil Old Town",
+        "fr": "Vieille ville d’Hébron/Al-Khalil",
+        "es": "Ciudad Vieja de Hebrón /Al-Khalil",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PSE": {
+            "name": "Palestine",
+            "iso2": "PS",
+            "iso3": "PSE"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system.",
+          "fr": "L’utilisation d’une pierre calcaire locale a marqué la construction de la vieille ville d’Hébron/Al-Khalil au cours de la période mamelouke, entre 1250 et 1517. Le centre d’intérêt de la ville était le site de la mosquée Al-Ibrahim/le tombeau des Patriarches, dont les édifices se trouvent dans l’enceinte construite au ier siècle de notre ère pour protéger les tombes du patriarche Abraham/Ibrahim et de sa famille. Ce lieu devint un site de pèlerinage pour les trois religions monothéistes : judaïsme, christianisme et islam. La ville était située au croisement de routes commerciales de caravanes cheminant entre le sud de la Palestine, le Sinaï, l’est de la Jordanie et le nord de la péninsule arabique. Bien que la période ottomane (1517-1917) qui a suivi ait annoncé une extension de la ville aux zones environnantes et qu’elle ait apporté de nombreux ajouts architecturaux, en particulier la surélévation des maisons avec la construction d’étages supplémentaires, la morphologie globale de la ville mamelouke a persisté dans l’organisation hiérarchique des quartiers, déterminés par des rassemblements autour de l’origine ethnique, de la religion ou de la profession, et des maisons dont les pièces sont organisées selon un système d’arborescence.",
+          "es": "El uso de un tipo de piedra calcárea local marcó la construcción de la Ciudad Vieja de Hebrón/Al Khalil en el periodo mameluco, entre 1250 y 1517. El centro de interés de la ciudad era el sitio de la Mezquita Al-Ibrahim/Tumba de los Patriarcas, cuyos edificios se encuentran en un recinto construido en el siglo I de nuestra era para proteger las tumbas del patriarca Abraham/Ibrahim y sus familiares. Este lugar se convirtió en sitio de peregrinación para las tres religiones monoteístas: judaísmo, cristianismo e islam. La ciudad se encontraba en la encrucijada de rutas de comercio de las caravanas que viajaban entre el sur de Palestina, el Sinaí, el este de Jordania y el norte de la Península Arábiga. Aunque en el periodo otomano que siguió (1517-1917) la ciudad se extendió a áreas circundantes y atrajo numerosas nuevas realizaciones arquitectónicas, en particular la elevación del nivel de los tejados de las viviendas y la construcción de más plantas en las mismas, la morfología general de la ciudad mameluca ha persistido en la organización jerárquica de los barrios, repartidos entre distintos grupos étnicos, religiosos o profesionales y viviendas con grupos de habitaciones organizados según un sistema de arborescencia.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 20.6,
+          "square_km": 0.21,
+          "square_miles": 0.083,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2017,
+          "all_dates": [
+            2017
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2017,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2017",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/034276944bdad6ac86b3d1693fe325db",
+          "filename": "site_1565_0042-500-0-20241106113555.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209517/site_1565_0042.jpg",
+            "https://whc.unesco.org/document/209518/site_1565_0043.jpg",
+            "https://whc.unesco.org/document/209519/site_1565_0044.jpg",
+            "https://whc.unesco.org/document/209520/site_1565_0045.jpg",
+            "https://whc.unesco.org/document/158965/site_1565_0001.jpg",
+            "https://whc.unesco.org/document/158966/site_1565_0002.jpg",
+            "https://whc.unesco.org/document/158967/site_1565_0003.jpg",
+            "https://whc.unesco.org/document/158968/site_1565_0004.jpg",
+            "https://whc.unesco.org/document/158969/site_1565_0005.jpg",
+            "https://whc.unesco.org/document/158970/site_1565_0006.jpg",
+            "https://whc.unesco.org/document/158971/site_1565_0007.jpg",
+            "https://whc.unesco.org/document/158972/site_1565_0008.jpg",
+            "https://whc.unesco.org/document/158973/site_1565_0009.jpg",
+            "https://whc.unesco.org/document/158974/site_1565_0010.jpg",
+            "https://whc.unesco.org/document/158975/site_1565_0011.jpg",
+            "https://whc.unesco.org/document/158976/site_1565_0012.jpg",
+            "https://whc.unesco.org/document/158978/site_1565_0014.jpg",
+            "https://whc.unesco.org/document/158980/site_1565_0016.jpg",
+            "https://whc.unesco.org/document/158981/site_1565_0017.jpg",
+            "https://whc.unesco.org/document/158982/site_1565_0018.jpg",
+            "https://whc.unesco.org/document/158983/site_1565_0019.jpg",
+            "https://whc.unesco.org/document/158984/site_1565_0020.jpg",
+            "https://whc.unesco.org/document/158985/site_1565_0021.jpg",
+            "https://whc.unesco.org/document/158986/site_1565_0022.jpg",
+            "https://whc.unesco.org/document/158987/site_1565_0023.jpg",
+            "https://whc.unesco.org/document/158988/site_1565_0024.jpg",
+            "https://whc.unesco.org/document/158989/site_1565_0025.jpg",
+            "https://whc.unesco.org/document/158990/site_1565_0026.jpg",
+            "https://whc.unesco.org/document/158991/site_1565_0027.jpg",
+            "https://whc.unesco.org/document/158992/site_1565_0028.jpg",
+            "https://whc.unesco.org/document/158994/site_1565_0030.jpg",
+            "https://whc.unesco.org/document/158995/site_1565_0031.jpg",
+            "https://whc.unesco.org/document/158997/site_1565_0033.jpg",
+            "https://whc.unesco.org/document/158999/site_1565_0035.jpg",
+            "https://whc.unesco.org/document/159000/site_1565_0036.jpg",
+            "https://whc.unesco.org/document/159001/site_1565_0037.jpg",
+            "https://whc.unesco.org/document/159002/site_1565_0038.jpg",
+            "https://whc.unesco.org/document/159003/site_1565_0039.jpg",
+            "https://whc.unesco.org/document/159004/site_1565_0040.jpg",
+            "https://whc.unesco.org/document/159005/site_1565_0041.jpg"
+          ],
+          "count": 40
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Hebron/Al-Khalil Old Town",
+            "ref": "1565",
+            "latitude": 31.5244444444,
+            "longitude": 35.1083333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1565",
+        "unesco_documents": "https://whc.unesco.org/en/list/1565/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1565/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1565/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 8,
+        "inscription_year": 2017
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hebron/Al-Khalil Old Town The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system. The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system. Palestine Arab States Cultural"
+    },
+    {
+      "site_key": "palestine_land_of_olives_and_vines_cultural_landscape_of_southern_jerusalem_battir",
+      "uuid": "3667809f-8dbc-530f-b6dd-947b685a5573",
+      "unesco_id": "1492",
+      "names": {
+        "en": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+        "fr": "Palestine : terre des oliviers et des vignes – Paysage culturel du sud de Jérusalem, Battir",
+        "es": "Palestina: tierra de olivares y viñas – Paisaje cultural del sur de Jerusalén, Battir (Palestina)",
+        "ru": "Палестина: земля олив и виноградников. Культурный ландшафт южной части Иерусалима, Батир (Палестина)",
+        "ar": "بلد الزيتون و الكرمة – منظر ثقافي في جنوب القدس, بتير",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PSE": {
+            "name": "Palestine",
+            "iso2": "PS",
+            "iso3": "PSE"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This site is located a few kilometres south-west of Jerusalem, in the Central Highlands between Nablus and Hebron. The Battir hill landscape comprises a series of farmed valleys, known as widian, with characteristic stone terraces, some of which are irrigated for market garden production, while others are dry and planted with grapevines and olive trees. The development of terrace farming in such a mountainous region is supported by a network of irrigation channels fed by underground sources. A traditional system of distribution is then used to share the water collected through this network between families from the nearby village of Battir.",
+          "fr": "Ce site est situé à quelques kilomètres au sud-ouest de Jérusalem, dans les hautes terres entre Naplouse et Hébron. Le paysage de collines de Battir comprend une série de vallées agricoles, widian, caractérisées par des terrasses de pierre, certaines irriguées pour la production maraîchère, d’autres sèches et plantées de vignes et d’oliviers. Le développement de ces terrasses cultivées, dans un environnement très montagneux, s’est appuyé sur un réseau de canaux d’irrigation alimenté par des sources souterraines. L’eau collectée grâce à ce réseau est attribuée selon un système traditionnel de répartition équitable entre les familles du village de Battir, situé à proximité de ce paysage culturel.",
+          "es": "Situado a unos pocos kilómetros al sudoeste de Jerusalén, en las tierras altas que se extienden desde Naplusa hasta Hebrón, el paisaje del pueblo de Battir, asentado en este paisaje cultural, comprende una serie de valles (widian) con cultivos en terrazas escalonadas: en los bancales de secano crecen olivos y viñas, mientras que en los de regadío se cultivan frutas y hortalizas. La producción agrícola de estos bancales, situados en terreno muy montañoso, se sustenta gracias a una red de acequias alimentada por aguas de fuentes subterráneas. La distribución del agua captada por esa red se efectúa con arreglo a un sistema consuetudinario de reparto establecido entre las familias del pueblo de Battir.",
+          "ru": "Объект, расположенный близ деревни Батир в нескольких километрах к юго-западу от Иерусалима, на холмистой возвышенности между городами Наблус и Хеврон, включает ряд сельскохозяйственных долин (widian), особенность которых составляют своеобразные каменные террасы. Часть долин орошается и используется для выращивания овощей, на неорошаемых участках располагаются виноградники и оливковые деревья. Обработка земель в условиях такой гористой местности опирается на сеть оросительных каналов, питаемых подземными источниками. Вода, собранная системой орошения, по традиции, поровну распределяется между семьями деревни Батир.",
+          "ar": "يتضمّن المنظر الطبيعي لتلال بتير الواقع على بعد بضع كيلومترات جنوب غرب القدس، في الأراضي الجبلية بين نابلس والخليل، سلسلة أودية زراعية تعرف باسم وديان وتتميّز بمدرّجات حجرية يُروى بعضها لإنتاج البقوليات، في حين يكون بعضها الآخر جافا ومزروعا كروما وأشجار زيتون. واستند تطوّر هذه المدرّجات المزروعة، في إطار بيئة جبلية للغاية، على شبكة من قنوات الريّ تغذيها مصادر المياه الجوفية. والمياه التي يتم جمعها بفضل هذه الشبكة تُوَزَّع بموجب نظام توزيع تقليدي منصف بين أسر قرية بتير الواقعة على مقربة من هذا المنظر الثقافي.",
+          "zh": ""
+        },
+        "full": "This site is located a few kilometres south-west of Jerusalem, in the Central Highlands between Nablus and Hebron. The Battir hill landscape comprises a series of farmed valleys, known as widian, with characteristic stone terraces, some of which are irrigated for market garden production, while others are dry and planted with grapevines and olive trees. The development of terrace farming in such a mountainous region is supported by a network of irrigation channels fed by underground sources. A traditional system of distribution is then used to share the water collected through this network between families from the nearby village of Battir.",
+        "justification": "Brief synthesis Battir is a major Palestinian cultural landscape, the adaptation of a deep valley system for agricultural purposes as a result of a good supply of water. The complex irrigation system of this water supply has led to the creation of dry walls terraces which may have been exploited since antiquity. The agricultural terraces, exploiting this irrigation system, were the basis for a strong presence of agriculture through the cultivation of olives and vegetables. The area still today has the same use. The water distribution system used by the families of Battir is a testament to an ancient egalitarian distribution system that delivers water to the terraced agricultural land based on a simple mathematical calculation and a clear time-managed rotation scheme. Criterion (iv): The dry-stone architecture represents outstanding example of a landscape that illustrates the development of human settlements near water sources and the adaptation of the land for agriculture. The village of Battir, which developed on the outskirts of this cultural landscape, and was inhabited by farmers who worked and still work the land, attests to the sustainability of this system and to its continuation over at least a millennia. The traditional system of irrigated terraces is an outstanding example of technological expertise, which constitutes an integral part of the cultural landscape. Criterion (v): The strategic location of Battir and the availability of springs were two major factors that attracted people to settle in the area and adapt its steep landscape into arable land. The property is an outstanding example of traditional land-use, which is representative of many centuries of culture and human interaction with the environment. The agricultural practices that were used to create this living landscape reflect one of the oldest farming methods known to humankind and are an important source of livelihood for local communities. Integrity The Battir cultural landscape encompasses ancient terraces, archaeological sites, rock-cut tombs, agricultural towers, and most importantly an intact water system, represented by a collection pool, channels, etc. The integrity of this traditional water system is guaranteed by the families of Battir, who depend on it. Authenticity The irrigation system and the cultivation have hardly changed in time. There is a high level of authenticity in cultural landscape. This would be destroyed severely by the construction of a separation barrier, as it would destroy a large part of the landscape and the terrace system, visually as well as physically, due to the service road on both sides of the barrier. Protection and management requirements The cultural landscape is well protected by the Palestinian laws, among which the National charter for the Conservation of cultural heritage in Palestine, which was drafted with the contribution of UNESCO and ICCROM. A management plan is currently being finalized by the village council and actions are being taken to preserve the terraces, the pathways and the irrigation system. An Eco museum was created to ensure a sustainable system of management and protection. These efforts were carried out in full partnership with the main stakeholders and the local community."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 348.83,
+          "square_km": 3.49,
+          "square_miles": 1.412,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2014",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6bd3932584350e5f47991d033b801f47",
+          "filename": "site_1492_0023-500-0-20241106120007.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209525/site_1492_0023.jpg",
+            "https://whc.unesco.org/document/209526/site_1492_0024.jpg",
+            "https://whc.unesco.org/document/129927/site_1492_0001.jpg",
+            "https://whc.unesco.org/document/129929/site_1492_0002.jpg",
+            "https://whc.unesco.org/document/129931/site_1492_0003.jpg",
+            "https://whc.unesco.org/document/129934/site_1492_0005.jpg",
+            "https://whc.unesco.org/document/129935/site_1492_0006.jpg",
+            "https://whc.unesco.org/document/129938/site_1492_0008.jpg",
+            "https://whc.unesco.org/document/129939/site_1492_0009.jpg",
+            "https://whc.unesco.org/document/129940/site_1492_0010.jpg",
+            "https://whc.unesco.org/document/129941/site_1492_0011.jpg",
+            "https://whc.unesco.org/document/159287/site_1492_0012.jpg",
+            "https://whc.unesco.org/document/159288/site_1492_0013.jpg",
+            "https://whc.unesco.org/document/159289/site_1492_0014.jpg",
+            "https://whc.unesco.org/document/159290/site_1492_0015.jpg",
+            "https://whc.unesco.org/document/159291/site_1492_0016.jpg",
+            "https://whc.unesco.org/document/159292/site_1492_0017.jpg",
+            "https://whc.unesco.org/document/159293/site_1492_0018.jpg",
+            "https://whc.unesco.org/document/159294/site_1492_0019.jpg",
+            "https://whc.unesco.org/document/159295/site_1492_0020.jpg",
+            "https://whc.unesco.org/document/159296/site_1492_0021.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Area 1",
+            "ref": "1492-001",
+            "latitude": 31.7247222223,
+            "longitude": 35.1280555556
+          },
+          {
+            "name": "Area 2",
+            "ref": "1492-002",
+            "latitude": 31.7163888889,
+            "longitude": 35.1588888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1492",
+        "unesco_documents": "https://whc.unesco.org/en/list/1492/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1492/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1492/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir This site is located a few kilometres south-west of Jerusalem, in the Central Highlands between Nablus and Hebron. The Battir hill landscape comprises a series of farmed valleys, known as widian, with characteristic stone terraces, some of which are irrigated for market garden production, while others are dry and planted with grapevines and olive trees. The development of terrace farming in such a mountainous region is supported by a network of irrigation channels fed by underground sources. A traditional system of distribution is then used to share the water collected through this network between families from the nearby village of Battir. This site is located a few kilometres south-west of Jerusalem, in the Central Highlands between Nablus and Hebron. The Battir hill landscape comprises a series of farmed valleys, known as widian, with characteristic stone terraces, some of which are irrigated for market garden production, while others are dry and planted with grapevines and olive trees. The development of terrace farming in such a mountainous region is supported by a network of irrigation channels fed by underground sources. A traditional system of distribution is then used to share the water collected through this network between families from the nearby village of Battir. Palestine Arab States Cultural"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "site_key": "gulf_of_porto_calanche_of_piana_gulf_of_girolata_scandola_reserve",
+  "uuid": "08719c71-c73f-54d3-a09b-9d9a3d06eb26",
+  "unesco_id": "258",
+  "names": {
+    "en": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+    "fr": "Golfe de Porto : calanche de Piana, golfe de Girolata, réserve de Scandola",
+    "es": "Golfo de Porto: cala de Piana, golfo de Girolata y reserva de Scandola",
+    "ru": "Мысы Жиролата и Порто, природный резерват Скандола и скалистые бухты «каланки» у города Пьяна (остров Корсика)",
+    "ar": "خليج بورتو:جون بيانا الصخري، خليج جيرولاتا، ومحمية سكاندولا",
+    "zh": "波尔托湾：皮亚纳－卡兰切斯、基罗拉塔湾、斯康多拉保护区"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "FRA": {
+        "name": "France",
+        "iso2": "FR",
+        "iso3": "FRA"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life.",
+      "fr": "La réserve, qui fait partie du parc naturel régional de Corse, occupe la presqu''île de la Scandola, impressionnant massif de porphyre aux formes tourmentées. Sa végétation est un remarquable exemple de maquis. On y trouve des goélands, des cormorans et des aigles de mer. Les eaux transparentes, aux îlots et aux grottes inaccessibles, abritent une riche vie marine.",
+      "es": "Esta reserva forma parte del Parque Natural Regional de Córcega y se extiende por la península de la Scandola, una impresionante masa de rocas porfíricas con formas atormentadas. Su vegetación es un ejemplo notable de monte bajo mediterráneo y su fauna comprende gaviotas, cormoranes y águilas marinas. La biodiversidad biológica en las aguas de sus islotes y grutas inaccesibles es especialmente rica.",
+      "ru": "Природный резерват, входящий в состав регионального парка Корсики, расположен на полуострове Скандола, который выделяется своими необычными порфировыми скалами. Местная растительность, представленная зарослями кустарников, имеет большой научный интерес. Здесь обитают морские чайки, бакланы, орланы. Очень разнообразны обитатели этих чистых вод, а также скалистых островков и недоступных для человека прибрежных пещер.",
+      "ar": "تحتلّ المحمية التي تشكّل جزءاً من الحديقة الطبيعية الإقليمية لكورسيكا شبه جزيرة سكاندولا، وهي كتلة مُدهشة من الرخام السمّاقي ذات أشكال متعرّجة. ويشكّل نمو نباتها مثالاً رائعاً للدغل إذ تتوافر طيور النورس، والغاقة، وعُقاب البحر. وتحتوي المياه الشفافة في الجزر والمغاور النائية حياةً مائية غنية.",
+      "zh": "这个自然保护区是科西嘉地区自然公园的一部分，位于斯康多拉半岛，属斑岩地貌的多石地带。这里的植被是茂密的灌木丛林，天空中飞翔着海鸥、鸬鹚和海鹰。清澈的海水，星星点点的小岛，连同险峻的岩洞构成了海洋生物的富饶家园。"
+    },
+    "full": "The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8,
+        10
+      ],
+      "all": [
+        7,
+        8,
+        10
+      ],
+      "display": "(vii)(viii)(x)",
+      "count": 3,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 11800,
+      "square_km": 118.0,
+      "square_miles": 47.753,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1983,
+      "all_dates": [
+        1983
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1983,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4f5b085882ca1c4d942dbd019dfa1031",
+      "filename": "site_0258_0001-500-0-20251022165834.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/109452/site_0258_0001.jpg",
+        "https://whc.unesco.org/document/109454/site_0258_0002.jpg",
+        "https://whc.unesco.org/document/109456/site_0258_0003.jpg",
+        "https://whc.unesco.org/document/109458/site_0258_0004.jpg",
+        "https://whc.unesco.org/document/109459/site_0258_0005.jpg",
+        "https://whc.unesco.org/document/109461/site_0258_0006.jpg",
+        "https://whc.unesco.org/document/109464/site_0258_0007.jpg",
+        "https://whc.unesco.org/document/109466/site_0258_0008.jpg",
+        "https://whc.unesco.org/document/109468/site_0258_0009.jpg",
+        "https://whc.unesco.org/document/109470/site_0258_0010.jpg",
+        "https://whc.unesco.org/document/109472/site_0258_0011.jpg",
+        "https://whc.unesco.org/document/109474/site_0258_0012.jpg",
+        "https://whc.unesco.org/document/109476/site_0258_0013.jpg",
+        "https://whc.unesco.org/document/109478/site_0258_0014.jpg",
+        "https://whc.unesco.org/document/109480/site_0258_0015.jpg",
+        "https://whc.unesco.org/document/109482/site_0258_0016.jpg",
+        "https://whc.unesco.org/document/109484/site_0258_0017.jpg",
+        "https://whc.unesco.org/document/109486/site_0258_0018.jpg",
+        "https://whc.unesco.org/document/109488/site_0258_0019.jpg",
+        "https://whc.unesco.org/document/156591/site_0258_0020.jpg",
+        "https://whc.unesco.org/document/156592/site_0258_0021.jpg",
+        "https://whc.unesco.org/document/156593/site_0258_0022.jpg",
+        "https://whc.unesco.org/document/156594/site_0258_0023.jpg",
+        "https://whc.unesco.org/document/156595/site_0258_0024.jpg",
+        "https://whc.unesco.org/document/156596/site_0258_0025.jpg"
+      ],
+      "count": 25
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": []
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/258",
+    "unesco_documents": "https://whc.unesco.org/en/list/258/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/258/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/258/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 42,
+    "inscription_year": 1983
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life. The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life. France Europe and North America Natural"
+}

@@ -1,0 +1,1424 @@
+{
+  "country": {
+    "code": "FIN",
+    "name": "Finland"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 6,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "high_coast_kvarken_archipelago",
+      "uuid": "b6e7997d-b02c-531a-a03b-9906b7c45b54",
+      "unesco_id": "898",
+      "names": {
+        "en": "High Coast / Kvarken Archipelago",
+        "fr": "Haute Côte / Archipel de Kvarken",
+        "es": "Costa Alta / Archipiélago Kvarken",
+        "ru": "Архипелаг Кваркен / «Высокий берег» (Ботнический залив)",
+        "ar": "أرخبيل كفاركن / الساحل العالي",
+        "zh": "高海岸∕瓦尔肯群岛"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Kvarken Archipelago (Finland) and the High Coast (Sweden) are situated in the Gulf of Bothnia, a northern extension of the Baltic Sea. The 5,600 islands of the Kvarken Archipelago feature unusual ridged washboard moraines, ‘De Geer moraines’, formed by the melting of the continental ice sheet, 10,000 to 24,000 years ago. The Archipelago is continuously rising from the sea in a process of rapid glacio-isostatic uplift, whereby the land, previously weighed down under the weight of a glacier, lifts at rates that are among the highest in the world. As a consequence islands appear and unite, peninsulas expand, and lakes evolve from bays and develop into marshes and peat fens. The High Coast has also been largely shaped by the combined processes of glaciation, glacial retreat and the emergence of new land from the sea. Since the last retreat of the ice from the High Coast 9,600 years ago, the uplift has been in the order of 285 m which is the highest known ''rebound''. The site affords outstanding opportunities for the understanding of the important processes that formed the glaciated and land uplift areas of the Earth''s surface.",
+          "fr": "L’archipel de Kvarken (Finlande) et la Haute côte (Suède) sont situés dans le golfe de Botnie, qui prolonge la mer Baltique vers le nord. Les 5 600 îles et îlots se singularisent principalement par les curieuses moraines à crête bosselées, ou moraines de Geer, formées par la fonte de la nappe de glace continentale composées il y a entre 10 000 et 24 000 ans. L’archipel de Kvarken s’élève de manière continue du niveau de la mer du fait d’un relèvement glacio-isostatique rapide, lorsqu’une terre précédemment comprimée par le poids d’un glacier se relève après la disparition de ce dernier, fait de ce taux de relèvement dans la région l’un des plus élevés au monde. Du fait de l’avancée du littoral, des îles apparaissent et s’unissent, des péninsules grandissent, des lacs se forment depuis les baies et deviennent des marais et des fagnes tourbeuses. La Haute côte a aussi été largement façonnée par l’association de processus de glaciation, de recul des glaciers et d''émergence de nouvelles terres. Depuis le retrait final des glaces de la Haute côte, il y a 9 600 ans, le relèvement est de l''ordre de 285 m, ce qui correspond au « rebond » manifeste le plus important jamais observé. La Haute côte est un site exceptionnel pour la compréhension des processus importants qui ont formé les glaciers et les zones de relèvement de la surface de la Terre.",
+          "es": "La Costa Alta y el archipiélago de Kvarken están situados en el golfo de Botnia, la prolongación septentrional del Mar Báltico. Sus 5.600 islas e islotes se caracterizan principalmente por la presencia de morrenas con cresta ondulada, o morrenas de Geer, formadas por el derretimiento del casquete de hielo continental sobrevenido unos 10.000 a 24.000 años atrás. En el archipiélago emergen continuamente nuevas islas del mar debido a una elevación glacio-isostática rápida, fenómeno que se produce cuando los terrenos comprimidos por el peso de un glaciar se elevan al derretirse éste. El índice de elevación del archipiélago es uno de los más altos del mundo. Como consecuencia del avance de las tierras del litoral, las islas surgen de las aguas y se unen, la superficie de las penínsulas se agranda y las bahías acaban formando lagos, que después se convierten en marismas y turberas pantanosas. La Costa Alta también se ha configurado en gran medida por la conjunción de la glaciación, el retroceso de los glaciares y la emergencia de nuevas tierras. Desde que los hielos se retiraron definitivamente de la Costa Alta –hace 9.600 años aproximadamente– la elevación ha alcanzado unos 285 metros, lo cual representa el mayor “repunte” de terrenos observado hasta ahora. La Costa Alta es un sitio excepcional para entender los procesos geológicos que han conducido a la formación de los glaciares y de las zonas de elevación de la superficie de la Tierra.",
+          "ru": "“Высокий берег” находится на западном побережье Ботнического залива, который образует северное продолжение Балтийского моря. Общая площадь этой территории составляет 142,5 тыс. га, включая прилегающую акваторию 80 тыс. га вместе с прибрежными островами. Местный ландшафт, с его пересеченным рельефом, цепочками озер, заливами и плоскими холмами высотой до 350 м, был в основном сформирован под воздействием процессов оледенения, таяния ледника, поднятия территории и отступания берега моря. “Высокий берег” освободился ото льда 9,6 тыс. лет назад, и с тех пор поднятие территории составило примерно 285 м, что является максимальным показателем, зафиксированным на сегодняшний день. “Высокий берег” – это уникальная местность, где можно изучать геологические процессы, происходящие при оледенении и возвышении земной поверхности. Архипелаг Кваркен (добавлен в 2006 г. в качестве расширения объекта «Высокий берег») включает 5 600 островов и островков и в сумме занимает площадь 194 400 га (15% суша и 85% акватория). Здесь можно увидеть необычную хребтообразную морену - De Greer moraines, образовавшуюся в результате таяния континентального ледяного щита 10-24 тыс. лет назад. Архипелаг постоянно возвышается над уровнем моря, поскольку суша, находившаяся ранее под гнетом толщи льда, поднимается со скоростью, признанной одной из самых высоких для подобного рода феноменов. В процессе роста береговой линии появляются новые острова и объединяются уже существовавшие, увеличиваются полуострова, заливы трансформируются в озера, которые со временем заболачиваются. Кваркен – отличный полигон для изучения изостатического поднятия суши, – явления, впервые выявленного именно здесь.",
+          "ar": "يقع أرخبيل كفاركن في فنلندا والساحل العالي (في السويد) في خليج بوتنيا الذي يمتدّ في بحر البلطيق بالشمال. وتتميّز بصورة خاصة الخمسة آلاف وستمائة جزيرة، كبيرة منها وصغيرة، بجُرافات غريبة نادرة ذات قمم محدّبة أو جُرافات غير التي تتشكّل نتيجة ذوبان طبقات جليد القارات التي كانت قد تكوّنت منذ فترة تتراوح بين 000 10 و000 24 عام. ويرتفع أرخبيل كفاركن عن مستوى البحر بصوة مستمرة نتيجة الارتفاع الجليدي التضاغطي السريع عندما ترتفع مساحة من الأرض سبقَ أن انضغطت بفعل ثقل ركام الثلوج المجلّدة، بعد زوال هذا الأخير، مما يجعل نسبة الارتفاع في المنطقة من أكثر النسب ارتفاعاً في العالم. وبفعل حركة مَدّ الشاطئ، تبرز جزر وتلتحم، وتنمو شبه جزر، وتتكوّن بحيرات من الخلجان فتصبح مستنقعات عادية ومستنقعات عالية. وتشكّل الساحل العالي أيضاً بفعل مجموعة عوامل التثليج، وتراجع الثلج المجلّد، وبروز مساحات أرض جديدة. ومنذ التراجع النهائي لجليد الساحل العالي منذ 9600 سنة، بلغ الارتفاع 285 متراً، ممّا يشكّل وثبةً ظاهرةً هي الأهمّ. ويشكّل الساحل العالي موقعاً مميزاً لفهم التطورات الهامة التي شكّلت ركام الثلوج المجلّدة ومناطق الارتفاع عن سطح الأرض.",
+          "zh": "高海岸位于波的尼亚湾西海滨，是波罗的海向北延伸的一部分。这片海岸面积为142 500公顷，其中80 000公顷为海洋部分，有大量的近海群岛。由于冰河作用、冰川消融及海面新陆地抬升的共同作用，形成了该地区一系列的湖泊、海湾和高达350米的低丘等不规则地形。自9 600年前冰川从高海岸最后消融以来，陆地抬升最高达285米，这就是著名的“反弹”。高海岸遗址为认识地球表面冰冻和陆地抬升区域形成的重要过程提供了极好的机会。 “瓦尔肯群岛”（2006年加入到世界遗产的高海岸项目中）有5 600个群岛和小岛，总面积194 400公顷（15%为陆地，85%为海洋）。地面主要为10 000至24 000年前大陆冰层融化形成的不规则脊状延伸的洗衣板冰碛，“DeGreer冰碛”。在冰川快速均衡抬升过程中，小岛不断地从海面升起，原来被冰川压迫而下沉的大陆，逐渐以世界最快的速度抬升。海岸线不断推进，岛屿慢慢形成并连结在一起，半岛也在扩张，湖泊由海湾演变而来，继而成为块状沼泽与湿地。瓦尔肯是研究地壳均衡现象的“典型区域”；人们正是从此地开始认识并研究这种现象的。"
+        },
+        "full": "The Kvarken Archipelago (Finland) and the High Coast (Sweden) are situated in the Gulf of Bothnia, a northern extension of the Baltic Sea. The 5,600 islands of the Kvarken Archipelago feature unusual ridged washboard moraines, ‘De Geer moraines’, formed by the melting of the continental ice sheet, 10,000 to 24,000 years ago. The Archipelago is continuously rising from the sea in a process of rapid glacio-isostatic uplift, whereby the land, previously weighed down under the weight of a glacier, lifts at rates that are among the highest in the world. As a consequence islands appear and unite, peninsulas expand, and lakes evolve from bays and develop into marshes and peat fens. The High Coast has also been largely shaped by the combined processes of glaciation, glacial retreat and the emergence of new land from the sea. Since the last retreat of the ice from the High Coast 9,600 years ago, the uplift has been in the order of 285 m which is the highest known ''rebound''. The site affords outstanding opportunities for the understanding of the important processes that formed the glaciated and land uplift areas of the Earth''s surface.",
+        "justification": "Brief synthesis The High Coast in Sweden and the Kvarken Archipelago in Finland are situated on opposite sides of the Gulf of Bothnia, in the northern part of the Baltic Sea. This vast area of 346,434 ha (of which about 100,700 ha are terrestrial) is where high meets low: the High Coast’s hilly scenery with high islands, steep shores, smooth cliffs, and deep inlets is a complete contrast to the Kvarken Archipelago with its thousands of low‐lying islands, shallow bays, moraine ridges and massive boulder fields. This part of the world has experienced several Ice Ages during the last 2‐3 million years and has been under the centre of the continental ice sheet a number of times. Present land uplift started when the ice began to melt about 18,000 years ago and the earth’s crust was gradually released from the weight of the ice. The landscape of the High Coast/Kvarken Archipelago today is mainly the result of the last Ice Age and the impact of the sea and the succession of vegetation. After the last glaciation, the land has elevated a total of 800 metres, with the highest uplift in the world after the last Ice Age recorded here. For the past 10,500 years, the land has been rising at around 0.9 m per century, a phenomenon that can be observed in a human lifetime and is expected to continue. Continual elevation of the land results in the emergence of new islands and distinctive glacial landforms, while inlets become progressively cut off from the sea, transforming them into estuaries and ultimately lakes. The Baltic Sea has undergone dramatic changes since the last Ice Age, including a series of transitions from marine water to freshwater and then to brackish water, consequently causing subsequent changes in plant and animal life. This serial transboundary property serves as an outstanding example of the continuity of this change with dynamic ongoing geological processes forming the land- and seascape, including interesting interactions with biological processes and ecosystem development. Criterion (viii): The High Coast/Kvarken Archipelago is of exceptional geological value for two main reasons. First, both areas have some of the highest rates of isostatic uplift in the world, meaning that the land still continues to rise in elevation following the retreat of the last inland ice sheet, with around 290 m of land uplift recorded over the past 10,500 years. The uplift is ongoing and is associated with major changes in the water bodies in post-glacial times. This phenomenon was first recognized and studied here, making the property a key area for understanding the processes of crustal response to the melting of the continental ice sheet. Second, the Kvarken Archipelago, with its 5,600 islands and surrounding sea, possesses a distinctive array of glacial depositional formations, such as De Geer moraines, which add to the variety of glacial land- and seascape features in the region. It is a global, exceptional and diverse area for studying moraine archipelagos. The High Coast and the Kvarken Archipelago represent complementary examples of post-glacial uplifting landscapes. Integrity The boundaries of this serial property comprise the areas with the most outstanding geological and geomorphological attributes of the site. The boundaries of the High Coast in Sweden encompass the principal area of national conservation interest, extending inland to include the full zonation of uplifted land and some of the highest shoreline, while excluding areas under large-scale forestry management. Seaward, the boundary incorporates key offshore islands and marine areas that are a logical extension of the topographic continuum of uplifted land surface, thus taking account of ongoing geological processes. The Kvarken Archipelago in Finland includes two separate areas of land and sea: the most superlative geological terrestrial formations, formations lying in the shallow sea, as well as the majority of the moraine features are included. While the geological boundaries of the property do not coincide with legal or administrative boundaries, the science behind their selection is justified. Note that about 71% of the property is sea. In the High Coast the sea is deep (as much as 293 m), while in the Kvarken Archipelago the sea is very shallow (with mean depth less than 10 m). Underwater geological formations have not been widely affected by erosion or processes such as colonization by vegetation or human activity. For the terrestrial portion, however, several large-scale development projects have been noted as issues which could affect the integrity of the property. While there is a small resident human population in the property (around 4,500 in the High Coast and 2,500 in the Kvarken Archipelago), people are engaged in small-scale traditional farming, forestry and fishing, all of which have negligible impact on geological values. Protection and management requirements In both Sweden and Finland, World Heritage management issues are dealt with at regional level, by established bodies with representatives from authorities, municipalities and local stakeholders. The relevant regional authorities and municipalities in Sweden and Finland have established a transnational consultative body, mainly to ensure that all three core areas of this serial transnational site have a joint management strategy for the property as a whole. There is no particular legislation that directly protects the Outstanding Universal Values of the High Coast/Kvarken Archipelago, but the general environmental national legislation gives a satisfactory indirect protection of the entire property. About 37% of the property is either nature reserve or national park, and the site also belongs to the Natura 2000 European network of protected areas. All these different kinds of protected areas have regulations restricting land use, which provide a good level of protection to geological formations, as well as to flora and fauna. The remaining parts, about 63% of the property, do not have the same level of protection, but the national legislation gives possibilities for safeguarding the integrity of the property. Furthermore, the High Coast is a landscape of national interest, which gives the recreational and nature conservation values of the property additional legal protection and serves as guidance for societal development. In the Kvarken Archipelago, a regional land use plan protects its Outstanding Universal Value, as well as recognizes geological values in the zone between the two core areas on the Finnish side. The effective management of the property needs to further develop an ecosystem approach that integrates the management of the protected areas with other key activities taking place on the property, such as infrastructural development of communities and industries, tourism, fishery and shipping. Potential threats in the future are major building projects that could destroy some part of outstanding geological features or have a severe impact on the important views of the property. Increasing visitor pressure and an oil or chemical spill in the sea are potential threats to the biological and cultural values. Global warming is not a threat to the land uplift phenomenon itself, as it will not affect the geological process. However, rising sea levels would influence the visible effects of land uplift in the coastal landscape, by reducing the area of new land emerging from the sea each year. Natural catastrophes, such as violent earthquakes or volcanic eruptions, are unlikely in Sweden and Finland. All threats are addressed by implementing the national legislation, strategic planning measures and actions that aim to improve knowledge and awareness of the property values among authorities, stakeholders and the local population."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8
+          ],
+          "all": [
+            8
+          ],
+          "display": "(viii)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 336900,
+          "square_km": 3369.0,
+          "square_miles": 1363.388,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000,
+            2006
+          ],
+          "extensions": [
+            2006
+          ],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2006,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/217e4f865b68cdfc2326e4b5d50de38e",
+          "filename": "site_0898_0001-500-0-20110920203436.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 280
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113242/site_0898_0001.jpg",
+            "https://whc.unesco.org/document/113244/site_0898_0002.jpg",
+            "https://whc.unesco.org/document/113246/site_0898_0003.jpg",
+            "https://whc.unesco.org/document/113248/site_0898_0004.jpg",
+            "https://whc.unesco.org/document/172005/site_0898_0005.jpg",
+            "https://whc.unesco.org/document/172006/site_0898_0006.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "High Coast",
+            "ref": "898-001",
+            "latitude": 63.0,
+            "longitude": 18.5
+          },
+          {
+            "name": "The Kvarken Archipelago - Zone A",
+            "ref": "898-002",
+            "latitude": 63.3,
+            "longitude": 21.3
+          },
+          {
+            "name": "The Kvarken Archipelago - Zone B",
+            "ref": "898-003",
+            "latitude": 62.9666666667,
+            "longitude": 20.95
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/898",
+        "unesco_documents": "https://whc.unesco.org/en/list/898/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/898/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/898/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "High Coast / Kvarken Archipelago The Kvarken Archipelago (Finland) and the High Coast (Sweden) are situated in the Gulf of Bothnia, a northern extension of the Baltic Sea. The 5,600 islands of the Kvarken Archipelago feature unusual ridged washboard moraines, ‘De Geer moraines’, formed by the melting of the continental ice sheet, 10,000 to 24,000 years ago. The Archipelago is continuously rising from the sea in a process of rapid glacio-isostatic uplift, whereby the land, previously weighed down under the weight of a glacier, lifts at rates that are among the highest in the world. As a consequence islands appear and unite, peninsulas expand, and lakes evolve from bays and develop into marshes and peat fens. The High Coast has also been largely shaped by the combined processes of glaciation, glacial retreat and the emergence of new land from the sea. Since the last retreat of the ice from the High Coast 9,600 years ago, the uplift has been in the order of 285 m which is the highest known ''rebound''. The site affords outstanding opportunities for the understanding of the important processes that formed the glaciated and land uplift areas of the Earth''s surface. The Kvarken Archipelago (Finland) and the High Coast (Sweden) are situated in the Gulf of Bothnia, a northern extension of the Baltic Sea. The 5,600 islands of the Kvarken Archipelago feature unusual ridged washboard moraines, ‘De Geer moraines’, formed by the melting of the continental ice sheet, 10,000 to 24,000 years ago. The Archipelago is continuously rising from the sea in a process of rapid glacio-isostatic uplift, whereby the land, previously weighed down under the weight of a glacier, lifts at rates that are among the highest in the world. As a consequence islands appear and unite, peninsulas expand, and lakes evolve from bays and develop into marshes and peat fens. The High Coast has also been largely shaped by the combined processes of glaciation, glacial retreat and the emergence of new land from the sea. Since the last retreat of the ice from the High Coast 9,600 years ago, the uplift has been in the order of 285 m which is the highest known ''rebound''. The site affords outstanding opportunities for the understanding of the important processes that formed the glaciated and land uplift areas of the Earth''s surface. Sweden Finland Europe and North America Natural"
+    },
+    {
+      "site_key": "bronze_age_burial_site_of_sammallahdenmaki",
+      "uuid": "eedb4846-72de-52d9-9874-ef9ca6d12d7d",
+      "unesco_id": "579",
+      "names": {
+        "en": "Bronze Age Burial Site of Sammallahdenmäki",
+        "fr": "Site funéraire de l'âge du bronze de Sammallahdenmäki",
+        "es": "Sitio funerario de la Edad del Bronce de Sammallahdenmäki",
+        "ru": "Погребальный комплекс бронзового века Саммаллахденмяки",
+        "ar": "مقابر سمنلهدنماكي التي تعود للعصر البرونزي",
+        "zh": "塞姆奥拉德恩青铜时代墓地遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This Bronze Age burial site features more than 30 granite burial cairns, providing a unique insight into the funerary practices and social and religious structures of northern Europe more than three millennia ago.",
+          "fr": "La trentaine de tumulus funéraires en granit du cimetière de l'âge du bronze de Sammallahdenmäki constituent un témoignage exceptionnel des pratiques funéraires et des structures sociales et religieuses de l'Europe du Nord d'il y a plus de trois millénaires.",
+          "es": "Este cementerio de la Edad del Bronce, que posee unos treinta túmulos funerarios de granito, constituye un testimonio incomparable de las prácticas fúnebres y las estructuras sociales y religiosas imperantes en el norte de Europa hace más de tres milenios.",
+          "ru": "Погребальный комплекс бронзового века содержит более 30 гранитных надгробий-насыпей (cairns) и предоставляет уникальные свидетельства об обычаях погребения, социальных и религиозных структурах, бытовавших в Северной Европе более 3 тыс. лет назад.",
+          "ar": "تشكّل الأبنية الحجرية فوق المقابر ذات الشكل المخروطي المصنوعة من الغرانيت والتي يُقدّر عددها بحوالي ثلاثين والعائدة للعصر البرونزي نموذجاً رائعاً للممارسات الجنائزية والبنى الاجتماعية والدينية في أوروبا الشمالية منذ ما يزيد عن ثلاثة آلاف سنة.",
+          "zh": "考古学家在塞姆奥拉德恩青铜器时代墓葬遗址发现了30个花岗岩石冢，让人们能够深入研究3000多年前北欧地区的葬礼习俗和社会宗教体系。"
+        },
+        "full": "This Bronze Age burial site features more than 30 granite burial cairns, providing a unique insight into the funerary practices and social and religious structures of northern Europe more than three millennia ago.",
+        "justification": "Brief synthesis Situated on the Gulf of Bothnia, the Bronze Age Burial Site of Sammallahdenmäki forms the largest, most varied and complete burial site from the Scandinavian Bronze Age, 1500-500 B.C. The site includes 33 burial cairns within an area of 36 ha. The cairns are disposed in several distinct clusters along the crests and upper slopes of a long ridge. Out of eight excavated cairns, six can be dated to the Bronze Age and two to the Early Iron Age. Stone burial cairns were typical for western Bronze Age culture. These cairns were usually constructed of granite boulders quarried from the cliff face below the crest of the ridge or collected from the site itself. The cairns can be classified into several different groups according to their shapes and sizes. Sammallahdenmäki also contains two unusual structures: one oval and elongated structure, which seems to have been enlarged in successive stages, and a large quadrangular cairn, known as the “Church Floor”, which is unique in Finland and extremely rare in Scandinavia. The cairns have no earth fill, and form landmarks on cliffs and gravel hillocks with an extensive view of the sea. The cairns relate to a new religion, sun worship, which spread to the coastal regions of Finland from Scandinavia, and they have been a manifestation of kin group landownership, which is thought to have appeared with the introduction of farming. Situated in a rugged, rocky landscape, the cairns bear exceptional witness to the social and religious structures of northern Europe, dating back to more than three millennia. The ancient coastline is still present on the cliffs of Sammallahdenmäki. Criterion (iii): The Sammallahdenmäki cairn cemetery bears exceptional witness to the society of the Bronze Age of Scandinavia. Criterion (iv): The Sammallahdenmäki cemetery is an outstanding example of Bronze Age funerary practices in Scandinavia. Integrity The Sammallahdenmäki Bronze Age Burial Site includes all elements and individual structures of cairns in an imposing natural setting, on a high ridge marking the former extent of Lake Saarnijärvi, surrounded by pine and spruce trees, and an agricultural landscape. The completeness of the site makes it an invaluable resource for research on the social behavior of societies of the time. Its remote location has protected it from development and the local population has taken pride in its protection. The buffer zone includes the surrounding forests and agricultural landscape; to the west, it borders on Lake Saarnijärvi, which is defined as a protected bird sanctuary of national significance. Authenticity In terms of form and material, the cairns fully express the essence of the burial site of Sammallahdenmäki, as do the setting and the surrounding natural landscape. The excavations of the cairns have been carried out in different stages, always taking into consideration scientific methods for research, mapping and documentation, to ensure careful restoration of the cairns. Protection and management requirements Sammallahdenmäki is fully protected under the national legislation. The site is managed by a Site Management Board, headed by the National Board of Antiquities, and involves representatives of the regional and local authorities, landowners and various stakeholders. The management and actions taken within the site and its buffer zone are in accordance with the Management Plan. Tourists are guided by signage to use the path network, which has been designed to include routes of different lengths, thus minimizing the threat to the vegetation of the site. Large numbers of tourists can cause long-term damage to the vegetation, which in turn might have a negative impact of the visual aspects of the site. The use of the path network is monitored and documented, which will allow for a timely reaction in case of deterioration."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aa8acea45542b9861169c143c1a3b257",
+          "filename": "site_0579_0001-500-0-20090925165115.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 376
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111262/site_0579_0001.jpg",
+            "https://whc.unesco.org/document/126865/site_0579_0004.jpg",
+            "https://whc.unesco.org/document/126866/site_0579_0005.jpg",
+            "https://whc.unesco.org/document/126867/site_0579_0006.jpg",
+            "https://whc.unesco.org/document/126868/site_0579_0007.jpg",
+            "https://whc.unesco.org/document/126869/site_0579_0008.jpg",
+            "https://whc.unesco.org/document/126870/site_0579_0009.jpg"
+          ],
+          "count": 7
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Bronze Age Burial Site of Sammallahdenmäki",
+            "ref": "579rev",
+            "latitude": 61.12056,
+            "longitude": 21.7775
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/579",
+        "unesco_documents": "https://whc.unesco.org/en/list/579/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/579/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/579/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Bronze Age Burial Site of Sammallahdenmäki This Bronze Age burial site features more than 30 granite burial cairns, providing a unique insight into the funerary practices and social and religious structures of northern Europe more than three millennia ago. This Bronze Age burial site features more than 30 granite burial cairns, providing a unique insight into the funerary practices and social and religious structures of northern Europe more than three millennia ago. Finland Europe and North America Cultural"
+    },
+    {
+      "site_key": "struve_geodetic_arc",
+      "uuid": "f28bf2c5-4fac-5919-9d2f-f446432386bd",
+      "unesco_id": "1187",
+      "names": {
+        "en": "Struve Geodetic Arc",
+        "fr": "Arc géodésique de Struve",
+        "es": "Arco geodésico de Struve",
+        "ru": "Геодезическая дуга Струве",
+        "ar": "قوس ستروف الجيوديزي",
+        "zh": "斯特鲁维地理探测弧线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LVA": {
+            "name": "Latvia",
+            "iso2": "LV",
+            "iso3": "LVA"
+          },
+          "NOR": {
+            "name": "Norway",
+            "iso2": "NO",
+            "iso3": "NOR"
+          },
+          "SWE": {
+            "name": "Sweden",
+            "iso2": "SE",
+            "iso3": "SWE"
+          },
+          "BLR": {
+            "name": "Belarus",
+            "iso2": "BY",
+            "iso3": "BLR"
+          },
+          "EST": {
+            "name": "Estonia",
+            "iso2": "EE",
+            "iso3": "EST"
+          },
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "LTU": {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "iso3": "LTU"
+          },
+          "MDA": {
+            "name": "Moldova",
+            "iso2": "MD",
+            "iso3": "MDA"
+          },
+          "RUS": {
+            "name": "Russia",
+            "iso2": "RU",
+            "iso3": "RUS"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 10
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+          "fr": "L’arc de Struve est un réseau de triangulations qui s’étend de Hammerfest en Norvège jusqu’à la mer Noire et traverse 10 pays sur plus de 2 820 km. L’arc est formé par les points d’une triangulation réalisée entre 1816 et 1855 par l’astronome Friedrich Georg Wilhelm Struve et représentant la première mesure exacte d’un long segment de méridien. Cette triangulation a contribué à définir et mesurer la taille et la forme exactes de la Terre ; elle a joué un rôle essentiel dans le développement des sciences de la Terre et l’établissement de cartes topographiques précises. C’est un formidable exemple de collaboration scientifique entre chercheurs de différents pays et de coopération entre des monarques pour une cause scientifique. À l’origine, l’arc était constitué de 258 triangles principaux et de 265 points fixes principaux. Le site inscrit sur la liste comprend 34 des points fixes d’origine, avec différents marquages – trous percés dans la roche, croix en fer, cairns ou obélisques.",
+          "es": "El arco geodésico de Struve es un conjunto de triangulaciones que se extiende por diez países, a lo largo de 2.820 km, desde Hammerfest (Noruega) hasta el Mar Negro. Compuesto por los puntos de la triangulación realizada entre 1816 y 1855 por el astrónomo Friedrich Georg Wilhelm Struve, este arco permitió realizar la primera medición precisa de un largo segmento del meridiano terrestre. Esta triangulación contribuyó a definir y medir la forma exacta de la Tierra y desempeñó un papel importante en el adelanto de las ciencias geológicas y la realización de mapas topográficos precisos. Es una muestra extraordinaria de la colaboración científica entre sabios de distintos países, así como un ejemplo de cooperación entre varios monarcas europeos en pro del progreso científico. El arco primigenio estaba constituido por 258 triángulos y 265 puntos fijos principales. El sitio inscrito en la Lista del Patrimonio Mundial comprende 34 de los puntos fijos originales señalados por medios diferentes: perforaciones en rocas, cruces de hierro, túmulos y obeliscos.",
+          "ru": "«Дуга Струве» – это цепь триангуляционных пунктов, протянувшаяся на 2820 км по территории десяти европейских стран от Хаммерфеста в Норвегии до Черного моря. Эти опорные точки наблюдений были заложены в период 1816-1855 гг. астрономом Фридрихом Георгом Вильгельмом Струве (он же – Василий Яковлевич Струве), который произвел таким образом первое достоверное измерение большого сегмента дуги земного меридиана. Это позволило точно установить размер и форму нашей планеты, что стало важным шагом в развитии наук о Земле и топографического картирования. Это был исключительный пример сотрудничества в научной сфере между учеными разных стран и между правящими монархами. Первоначально «дуга» состояла из 258 геодезических «треугольников» (полигонов) с 265 основными триангуляционными пунктами. В объект всемирного наследия вошли 34 таких пункта (наиболее хорошо уцелевших к настоящему времени), которые маркированы на местности самым разным образом, как то: выдолбленные в скалах углубления, железные кресты, пирамиды из камней или специально установленные обелиски.",
+          "ar": "إن قوس ستروف هو شبكة تثليثات تمتد من هامرفست في النروج حتى البحر الأسود وتعبر 10 بلدان على أكثر من 2820 كيلومترا. يتألف القوس من نقاط التثليث التي تمّ انجازها بين 1816 و 1855على يد عالم الفلك فريدريش جيورج ويلهلم ستروف وتمثّل أول قياس دقيق لجزء من خط التصنيف. لقد ساهمت هذه الصيغة التثليثية في تحديد قياس الأرض وشكلها الدقيقين وأدّت دوراً أساسياً في تطوير علوم الأرض ورسم خرائط طوبوغرافية دقيقة. إنه مثال ممتاز للتعاون العلمي بين باحثين من دول مختلفة والتعاون بين الملوك من أجل قضية علمية. في البدء، كان القوس يتألف من 258 مثلثاً اساسياً و 265 نقطة ثابتة رئيسة. يشمل الموقع المسجّل على القائمة 34 نقطة ثابتة أصليّة وعلامات مختلفة مثل الثقوب المحفورة في الصخور والصلبان الحديدية وركام الحجارة كعلامة أو المسلات.",
+          "zh": "斯特鲁维地理探测弧线是一个三角测量链，北起挪威哈默菲斯特(Hammerfest)，南至黑海，弧线穿越十个国家，长2820公里。弧线是天文学家弗里德理西·格奥尔格·威廉·斯特鲁维(Friedrich Georg Wilhelm Struve)于1816至1855年期间进行测量的测量点，代表着人类首次对子午线长短的精确测量。这一测量帮助人类掌握了地球的确切大小和形状，是地球科学和地形绘图学发展中的重要一步。这个弧线不仅是多国科学家通力合作的一个特例，也是多国君主为科学事业联袂协作的一个特例。原始弧线包含258个主要三角形和265个测量站点。列入世界遗产名录的弧有34个原始测量站点，带有各种不同标记，如岩石钻孔、铁十字、堆石标或方尖石碑。"
+        },
+        "full": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+        "justification": "Brief synthesis The determination of the size and shape of the world was one of the most important problems of natural philosophy since at least the 4th century B.C. The development, in the 16th century, of a measurement system called “triangulation” improved the ability to determine the size and shape of the world. In this system, long chains of triangles were measured, creating arcs that stretched along hundreds and thousands of kilometres. The Struve Geodetic Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through ten countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by several scientists (surveyors) under leadership of the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of our planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of the development of sciences and of collaboration among scientists from different countries, as well as monarchs, for a common scientific cause. Prior to the Struve Geodetic Arc, an arc of about 2,400 km had been measured in India by Lambton and Everest (completed in 1845), and a shorter arc in Lithuania by Carl Tenner. Struve, who was working at the Dorpat University (currently University of Tartu in Estonia), decided that he would establish an arc following a line of longitude (meridian) passing through the observatory of the university. The new long arc, later to be known as the Struve Geodetic Arc, was eventually created by connecting earlier, shorter arcs to the southern one measured by Tenner, and their extension to the north and south. The arc thus covered a line connecting Fuglenæs, near Hammerfest at the Arctic Ocean, with Staro-Nekrassowka, near Ismail, on the Black Sea shores, along more than 2,800 km. The original arc consisted of 258 main triangles with 265 main station points. The inscribed property includes 34 of the original station points established by Struve and his colleagues between 1816 and 1851 – four points in Norway, four in Sweden, six in Finland, two in Russia, three in Estonia, two in Latvia, three in Lithuania, five in Belarus, one in Moldova and four in Ukraine. Other preserved sites of the Arc are protected nationally. These marks take different forms: small holes drilled in rock surfaces, and sometimes filled with lead; cross-shaped engraved marks on rock surfaces; solid stone or brick with a marker inset; rock structures (cairns) with a central stone or brick marked by a drilled hole; individual bricks; as well as especially constructed 'monuments' to commemorate the point and the arc. The Struve Geodetic Arc is an extraordinary example of the interchange of human values in the form of international scientific collaboration, as well as an outstanding example of a technological ensemble. Criterion (ii): The first accurate measuring of a long segment of a meridian, helping in the establishment of the exact size and shape of the world exhibits an important step in the development of earth sciences. It is also an extraordinary example for interchange of human values in the form of scientific collaboration among scientists from different countries. It is at the same time an example for collaboration between monarchs of different powers, for a scientific cause. Criterion (iv): The Struve Geodetic Arc is undoubtedly an outstanding example of a technological ensemble - presenting the triangulation points of the measuring of the meridian, being the non-movable and non-tangible part of the measuring technology. Criterion (vi): The measuring of the arc and its results are directly associated with humans wondering about their world, its shape and size. It is linked with Sir Isaac Newton’s theory that the world is not an exact sphere. Integrity The inscribed property consists of 34 components, which in total comprise an area of 0.6 ha, with buffer zones amounting to a total of 11 ha. All components of the Struve Geodetic Arc are linked to one chain and a number of the Arc sites belong to national state geodetic reference networks that confer integrity even with the geodetic measurements processed today. Authenticity The inscribed components of the property have special characteristics and significance on a technological and scientific level. All points are maintained in their original location and changes are limited to some later constructions marking the locations. Protection and management requirements For the inscription of the Struve Geodetic Arc, the ten countries involved collaborated in locating and investigating the sites of historical measurements by using available geodetic observation data and by means of the recent measurement methods as well as satellite geodesy. Upon identification of the component parts, each State Party provided legal protection in accordance with its national frameworks, which in practice entails that some points are covered by laws protecting geodetic points and also by laws for the protection of cultural heritage. At the national level, each State authority, usually the national mapping authority with the involvement of local administrative authorities, is responsible for the conservation and management of the Struve Geodetic Arc. At the international level, management is the responsibility of the Coordinating Committee, which meets every other year and is run according to management mechanisms agreed upon by all ten countries. Based on the resolutions of the Coordinating Committee, national representative organizations actively promote the Struve Geodetic Arc via different tasks, such as the producing post stamps and envelopes (completed by Belarus, Estonia, Finland, Latvia, Lithuania, Moldova, Sweden, Ukraine); making promotional movies and educational leaflets, books and articles; preparing exhibitions; translating documentation; restoring geodetic instruments and other materials, and even minting commemorative coins for the Struve Geodetic Arc (Belarus, Moldova)."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d6bc240c3066919489d7c5191c4833e5",
+          "filename": "site_1187_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113656/site_1187_0001.jpg",
+            "https://whc.unesco.org/document/113658/site_1187_0002.jpg",
+            "https://whc.unesco.org/document/113660/site_1187_0003.jpg",
+            "https://whc.unesco.org/document/113662/site_1187_0004.jpg",
+            "https://whc.unesco.org/document/113664/site_1187_0005.jpg",
+            "https://whc.unesco.org/document/113666/site_1187_0006.jpg",
+            "https://whc.unesco.org/document/113668/site_1187_0007.jpg",
+            "https://whc.unesco.org/document/138129/site_1187_0008.jpg",
+            "https://whc.unesco.org/document/138130/site_1187_0009.jpg",
+            "https://whc.unesco.org/document/138131/site_1187_0010.jpg",
+            "https://whc.unesco.org/document/138132/site_1187_0011.jpg",
+            "https://whc.unesco.org/document/138133/site_1187_0012.jpg",
+            "https://whc.unesco.org/document/143845/site_1187_0013.jpg",
+            "https://whc.unesco.org/document/143846/site_1187_0014.jpg",
+            "https://whc.unesco.org/document/143847/site_1187_0015.jpg",
+            "https://whc.unesco.org/document/143848/site_1187_0016.jpg",
+            "https://whc.unesco.org/document/143849/site_1187_0017.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "RUDY Rudi",
+            "ref": "1187-030",
+            "latitude": 48.3188888889,
+            "longitude": 27.8766666667
+          },
+          {
+            "name": "KATKO Simuna",
+            "ref": "1187-018",
+            "latitude": 59.0483333333,
+            "longitude": 26.4141666667
+          },
+          {
+            "name": "LOPATI Lopaty",
+            "ref": "1187-026",
+            "latitude": 53.5605555556,
+            "longitude": 24.8697222222
+          },
+          {
+            "name": "PULLINKI Pullinki",
+            "ref": "1187-007",
+            "latitude": 66.6463888889,
+            "longitude": 23.7819444444
+          },
+          {
+            "name": "WOIBIFER Võivere",
+            "ref": "1187-017",
+            "latitude": 59.0577777778,
+            "longitude": 26.3377777778
+          },
+          {
+            "name": "FUGLENAES Fuglenes",
+            "ref": "1187-001",
+            "latitude": 70.67,
+            "longitude": 23.6633333333
+          },
+          {
+            "name": "AVASAKSA Aavasaksa",
+            "ref": "1187-010",
+            "latitude": 66.3977777778,
+            "longitude": 23.7252777778
+          },
+          {
+            "name": "SESTU-KALNS Ziestu",
+            "ref": "1187-020",
+            "latitude": 56.84,
+            "longitude": 25.6366666667
+          },
+          {
+            "name": "TUPISCHKI Tupishki",
+            "ref": "1187-025",
+            "latitude": 54.2916666667,
+            "longitude": 26.0452777778
+          },
+          {
+            "name": "TCHEKUTSK Chekutsk",
+            "ref": "1187-028",
+            "latitude": 52.2077777778,
+            "longitude": 25.5563888889
+          },
+          {
+            "name": "LILLE-REIPAS Raipas",
+            "ref": "1187-002",
+            "latitude": 69.9386111111,
+            "longitude": 23.3602777778
+          },
+          {
+            "name": "PUOLAKKA Oravivuori",
+            "ref": "1187-012",
+            "latitude": 61.9266666667,
+            "longitude": 25.5336111111
+          },
+          {
+            "name": "FELSCHTIN Felschtin",
+            "ref": "1187-032",
+            "latitude": 49.33,
+            "longitude": 26.6819444444
+          },
+          {
+            "name": "BARANOWKA Baranowka",
+            "ref": "1187-033",
+            "latitude": 49.1486111111,
+            "longitude": 26.9916666667
+          },
+          {
+            "name": "KERROJUPUKKA Jupukka",
+            "ref": "1187-006",
+            "latitude": 67.2766666667,
+            "longitude": 23.2430555556
+          },
+          {
+            "name": "SVARTVIRA Mustaviiri",
+            "ref": "1187-014",
+            "latitude": 60.2763888889,
+            "longitude": 26.6033333333
+          },
+          {
+            "name": "JACOBSTADT Jekabpils",
+            "ref": "1187-021",
+            "latitude": 56.5013888889,
+            "longitude": 25.8566666667
+          },
+          {
+            "name": "KARISCHKI Gireišiai",
+            "ref": "1187-022",
+            "latitude": 55.9025,
+            "longitude": 25.4366666667
+          },
+          {
+            "name": "MESCHKANZI Meškonys",
+            "ref": "1187-023",
+            "latitude": 54.9308333333,
+            "longitude": 25.3166666667
+          },
+          {
+            "name": "PORLOM II Tornikallio",
+            "ref": "1187-013",
+            "latitude": 60.7047222222,
+            "longitude": 26.0033333333
+          },
+          {
+            "name": "OSSOWNITZA Ossovnitsa",
+            "ref": "1187-027",
+            "latitude": 52.2894444444,
+            "longitude": 25.6494444444
+          },
+          {
+            "name": "PERRA-VAARA Perävaara",
+            "ref": "1187-008",
+            "latitude": 66.0180555556,
+            "longitude": 23.9225
+          },
+          {
+            "name": "BERESNÄKI Paliepiukai",
+            "ref": "1187-024",
+            "latitude": 54.6344444444,
+            "longitude": 25.4291666667
+          },
+          {
+            "name": "LESKOWITSCHI Leskovichi",
+            "ref": "1187-029",
+            "latitude": 52.1608333333,
+            "longitude": 25.5713888889
+          },
+          {
+            "name": "KATERINOWKA Katerinowka",
+            "ref": "1187-031",
+            "latitude": 49.5658333333,
+            "longitude": 26.7561111111
+          },
+          {
+            "name": "PAJTAS-VAARA Tynnyrilaki",
+            "ref": "1187-005",
+            "latitude": 68.255,
+            "longitude": 22.9830555556
+          },
+          {
+            "name": "TORNEA Alatornion kirkko",
+            "ref": "1187-011",
+            "latitude": 65.83,
+            "longitude": 24.1572222222
+          },
+          {
+            "name": "DORPAT Tartu Observatory",
+            "ref": "1187-019",
+            "latitude": 58.3788888889,
+            "longitude": 26.72
+          },
+          {
+            "name": "LOHDIZHJOKKI Luvdiidcohkka",
+            "ref": "1187-003",
+            "latitude": 69.6644444444,
+            "longitude": 23.6022222222
+          },
+          {
+            "name": "STUOR-OIVI Stuorrahanoaivi",
+            "ref": "1187-009",
+            "latitude": 68.6825,
+            "longitude": 22.7458333333
+          },
+          {
+            "name": "MÄKI-PÄÄLYS Mäkipällys",
+            "ref": "1187-015",
+            "latitude": 60.0741666667,
+            "longitude": 26.9697222222
+          },
+          {
+            "name": "BÄLJATZ-VAARA Baelljasvarri",
+            "ref": "1187-004",
+            "latitude": 69.0286111111,
+            "longitude": 23.3052777778
+          },
+          {
+            "name": "STARO-NEKRASSOWKA Stara Nekrasivka",
+            "ref": "1187-034",
+            "latitude": 45.3325962,
+            "longitude": 28.9278807
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1187",
+        "unesco_documents": "https://whc.unesco.org/en/list/1187/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1187/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1187/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Struve Geodetic Arc The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks. Latvia Norway Sweden Belarus Estonia Finland Ukraine Lithuania Moldova Russia Europe and North America Cultural"
+    },
+    {
+      "site_key": "petajavesi_old_church",
+      "uuid": "9c585d89-ef9b-5e54-995f-38bf1148653b",
+      "unesco_id": "584",
+      "names": {
+        "en": "Petäjävesi Old Church",
+        "fr": "Vieille église de Petäjävesi",
+        "es": "Iglesia vieja de Petäjävesi",
+        "ru": "Старая церковь в деревне Петяявеси",
+        "ar": "كنيسة بيتاجافيزي القديمة",
+        "zh": "佩泰耶韦西老教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults.",
+          "fr": "La vieille église de Petäjävesi, en Finlande centrale, construite en rondins de conifères en 1763-1765, est une église luthérienne rurale représentative d'une tradition architecturale propre à l'est de la Scandinavie. L'église associe la conception Renaissance d'une église de plan centré et les formes plus anciennes dérivées des plafonds aux voûtes d'arêtes de la période gothique.",
+          "es": "Situada en el centro de Finlandia, la iglesia vieja de Petäjävesi fue construida con troncos de coníferas entre 1763 y 1765. Es una iglesia luterana rural representativa de la tradición arquitectónica típica del este de Escandinavia. Su arquitectura combina el plano centrado de concepción renacentista con formas más antiguas, derivadas de los techos con bóvedas de arista del periodo gótico.",
+          "ru": "Старая церковь в Петяявеси, в центральной Финляндии, построена из бревен в 1763-1765 гг. Эта провинциальная лютеранская церковь является типичным примером архитектурных традиций, которые уникальны для Восточной Скандинавии. Симметричная планировка церкви Ренессанса соединяется здесь с более старыми формами, берущими начало от готических крестовых сводов.",
+          "ar": "إنّ كنيسة بيتاجافيزي القديمة الواقعة في وسط فنلندا والمبنيّة بجذوع أشجار صنوبر مقشورة بين 1763 و 1765 هي كنيسة لوثرية ريفية تمثل تقليداً هندسياً خاصاً بشرق سكندينافيا. وتجمع هذه الكنيسة ما بين مفهوم كنيسة النهضة ذات تصميم مركّز وأشكال قديمة مشتقّة من سقائف لقبب نتوءات صخرية تعود للحقبة القوطية.",
+          "zh": "佩泰耶韦西老教堂位于芬兰中部，建于1763至1765年，完全由原木建成。这个教堂是路德教派国家特有的教堂，体现了斯堪的纳维亚东部地区独特的传统建筑风格，把文艺复兴时期的中央教堂风格与源于哥特式建筑的穹形天花板特色和谐地结合在一起。"
+        },
+        "full": "Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults.",
+        "justification": "Brief synthesis Built for a small Lutheran parish in central Finland, Petäjävesi Old Church is located on a peninsula at Lake Solikkojärvi and is surrounded by an agricultural landscape with lakes and forests, typical of the region. Construction of this wooden church was led by a local master builder, Jaakko Leppänen. The bell tower was added to the western part of the church in 1821 by the master’s grandson, Erkki Leppänen. Petäjävesi Old Church is representative of the architectural tradition of wooden churches in northern Europe. The Old Church is a unique example of traditional log construction techniques applied by the local peasant population in northern coniferous forest areas. European architectural trends, which have influenced the external form and layout of the church, have been masterfully applied to traditional log construction. The adaption of forms and techniques of varied provenance makes this church a multi-layered landmark and an outstanding example of Nordic church architecture. The church is built entirely of pine wood, worked in a constructive and economical manner. The layout and interior of the church, with intricate perspectives, vaulting and a central cupola, combines the influences of Renaissance, Baroque and Gothic styles with the Finnish vernacular tradition of log construction. The steepness of the pitched roof recalls the Gothic tradition. The interior’s hand-carved log surfaces with their silky patina and the silvery sheen on the seasoned walls lend the hall its unique atmosphere, which is further enhanced by the slightly irregular placement of the floor beams and pews. The distinctive features of the interior are the elaborately carved pulpit, pews, chandeliers, and galleries with balustrades, which are entirely the work of local craftsmen and artists. In 1879, a new church was built on the other side of the strait and the Old Church went out of use. Repairs, restoration and conservation works started in the 1920s when the historical and architectural value of the Old Church was recognized. Today, the churchyard is still in use, while the church is used only in the summer. Criterion (iv): Petäjävesi Old Church is an outstanding example of the architectural tradition of wooden churches in northern Europe. Integrity Petäjävesi Old Church includes all key elements necessary to express its Outstanding Universal Value, such as the graveyard surrounded by a fence and the nearby landscape setting, fields and lakeside. The integrity of the wider agricultural landscape was affected by the construction of a highway to the south of the church in the 1960s. The buffer zone of Petäjävesi Old Church includes the entire agricultural landscape surrounding the church as well as the lakeside. Climate change might threaten the integrity of the property. Authenticity In terms of form, construction and materials, Petäjävesi Old Church truthfully expresses the essence and spirit of the wooden church building traditions of northern Europe. The church is well preserved due to the fact that it was abandoned in the late 19th century, as the new parish church was built, and did not suffer from major alterations such as the installation of heating systems. The church is therefore used only during the summer season. Traditional techniques and materials have been used in previous and recent conservation works, and interventions have been kept to a minimum in order to preserve the tangible values and the spirit of the church. The graveyard surrounding the church, which dates back to the 18th century, is still in use. Protection and management requirements The property and its buffer zone are legally protected under national legislation and are managed by a management board headed by the Petäjävesi Old Church Trust. The church is owned by the local parish. Long and short term operations are guided by a Management Plan. Conservation works are carried out using traditional materials and craftsmanship. A specific forest has been designated to guarantee the supply of high-quality wood. The conservation philosophy is to do minimum intervention and only when necessary. Climate change causing increasingly warm and humid autumns and winters, might threaten the property’s wooden constructions on a long term basis. As part of the overall management system, special attention is paid to documentation and follow-up of the alterations caused by weather conditions. Fire safety measures have been taken by installing a fire alarm, a pump station, as well as an automatic extinguishing system. Wear to the wooden floors, caused by increased numbers of visitors, has been addressed by the use of slippers during visits."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2.98,
+          "square_km": 0.03,
+          "square_miles": 0.012,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1994,
+          "all_dates": [
+            1994
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1994,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/523abf8a89d0796eb056c818fffbe86d",
+          "filename": "site_0584_0001-500-0-20090910174931.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111320/site_0584_0001.jpg",
+            "https://whc.unesco.org/document/143825/site_0584_0002.jpg",
+            "https://whc.unesco.org/document/143826/site_0584_0003.jpg",
+            "https://whc.unesco.org/document/143827/site_0584_0004.jpg",
+            "https://whc.unesco.org/document/143828/site_0584_0005.jpg",
+            "https://whc.unesco.org/document/143829/site_0584_0006.jpg",
+            "https://whc.unesco.org/document/143830/site_0584_0007.jpg",
+            "https://whc.unesco.org/document/143831/site_0584_0008.jpg",
+            "https://whc.unesco.org/document/143832/site_0584_0009.jpg",
+            "https://whc.unesco.org/document/143833/site_0584_0010.jpg",
+            "https://whc.unesco.org/document/143834/site_0584_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Petäjävesi Old Church",
+            "ref": "584",
+            "latitude": 62.25,
+            "longitude": 25.18333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/584",
+        "unesco_documents": "https://whc.unesco.org/en/list/584/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/584/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/584/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 31,
+        "inscription_year": 1994
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Petäjävesi Old Church Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults. Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults. Finland Europe and North America Cultural"
+    },
+    {
+      "site_key": "verla_groundwood_and_board_mill",
+      "uuid": "f9f74e9b-c2cc-5b79-895d-d8ee0fe2e12c",
+      "unesco_id": "751",
+      "names": {
+        "en": "Verla Groundwood and Board Mill",
+        "fr": "Usine de traitement du bois et de carton de Verla",
+        "es": "Fábrica de tratamiento de madera y cartón de Verla",
+        "ru": "Деревоперерабатывающая фабрика в Верле",
+        "ar": "معمل فرلا لمعالجة الخشب والكرتون",
+        "zh": "韦尔拉磨木纸板厂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Verla groundwood and board mill and its associated residential area is an outstanding, remarkably well-preserved example of the small-scale rural industrial settlements associated with pulp, paper and board production that flourished in northern Europe and North America in the 19th and early 20th centuries. Only a handful of such settlements survive to the present day.",
+          "fr": "L’usine de bois de Verla et le secteur résidentiel associé sont un exemple exceptionnel et remarquablement bien conservé d’installation industrielle rurale de petite dimension consacrée à la fabrication de pâte à papier, de papier et de carton. Ce type d’installation qui prospéra en Europe du Nord et en Amérique du Nord au XIXe et au début du XXe siècle a presque totalement disparu aujourd’hui.",
+          "es": "Admirablemente bien conservadas, la fábrica de Verla y el área de viviendas conexa constituyen un ejemplo excepcional de instalación industrial rural de pequeñas dimensiones dedicada a la producción de pasta de papel, papel y cartón. Las manufacturas de este tipo proliferaron en Europa Septentrional y América del Norte durante el siglo XIX y comienzos del siglo XX, pero hoy en día han desaparecido casi por completo.",
+          "ru": "Деревоперерабатывающая фабрика в Верле и примыкающий к ней жилой район – это выдающийся и очень хорошо сохранившийся пример небольшого промышленного поселения в сельской местности. Производство древесной массы, целлюлозы, бумаги и досок процветало в Северной Европе и Северной Америке в XIX - начале XX вв. Только немногие из таких поселений сохранились до наших дней.",
+          "ar": "يشكّل كل من معمل فرلا للخشب ومن القطاع السكني المرتبط به نموذجاً استثنائياً تمّ الحفاظ عليه بطريقة مذهلة للإنشاءات الصناعية الريفية ذات الحجم الصغير المختصة بصناعة الورق المقوَّى والورق والكرتون. إنّ هذا النوع من الإنشاءات الذي ازدهر في شمال أوروبا وأميركا الشمالية في القرن التاسع عشر وفي مطلع القرن العشرين قد زال اليوم بصورة شبه كلية.",
+          "zh": "韦尔拉磨木纸板厂与其周边的居民住宅区一起构成了一个保存完好的农村小型工业基地范例，这种生产纸浆、纸张和纸板的小工业作坊在19世纪至20世纪初的欧洲和北美非常盛行，但只有很少一部分住区保留至今。"
+        },
+        "full": "The Verla groundwood and board mill and its associated residential area is an outstanding, remarkably well-preserved example of the small-scale rural industrial settlements associated with pulp, paper and board production that flourished in northern Europe and North America in the 19th and early 20th centuries. Only a handful of such settlements survive to the present day.",
+        "justification": "Brief synthesis Verla Groundwood and Board Mill, located in the northern part of the Kymi River Valley in southeast Finland, consists of the Mill, the associated residential area and the power plants. The mill buildings and the workers' houses mostly date from the 1890s and from the beginning of the 20th century. The property is a very well preserved example of a forest industry settlement of the late 19th century. Similar communities were established in coniferous forest zones in northern Europe and in North America, where wood as a raw material and water as a source of energy were easily at hand. The first groundwood mill in Verla was founded in 1872 and the board mill began operations ten years later. The existing buildings, which are architecturally harmonious, date back to the turn of the 20th century. The mill itself ceased to operate in 1964, and all the machines and items related to production were left in the mill as they were when the production ceased. The buildings and the machines were carefully conserved and turned into a museum, and the Verla Mill Museum was officially opened in 1972. The property itself consists of approximately 50 buildings in an area of 23 ha. The Verlankoski Rapids separate the production area from the residential area. On the rapids, there are three water power plants from three different decades, the newest one dating from the 1990s. The mill owner’s residence and a park from the late 19th century dominate the village. The sheer rock face above the rapids bears a prehistoric rock painting, representing fishing and hunting. Criterion (iv): The Verla Groundwood and Board Mill and its associated habitation are an outstanding and remarkably well preserved example of the small-scale rural industrial settlement associated with pulp, paper, and board production that flourished in northern Europe and North America in the 19th and early 20th centuries, of which only a handful survives to the present day. Integrity The Verla Groundwood and Board Mill with its machinery, the Verlankoski Rapids and power plants, the associated residential area and installations form a visually and functionally intact complex. The property includes all the built elements associated with production, habitation and leisure in the mill village, as well as the rapids, the surrounding forests, and the prehistoric rock painting. Authenticity The Verla Groundwood and Board Mill and its associated buildings, equipment, installations and landscape have remained almost intact. The fact that the machinery needed for the production of groundwood pulp and board has remained at its original place adds to the authenticity. The buildings and the installations have preserved their characteristic features with regard to the materials, construction methods and architecture. Furthermore, the authenticity of Verla is reinforced by the well-preserved wooded landscape. Protection and management requirements Verla is protected according to national legislation. UPM-Kymmene Corporation, the principal landowner, is responsible for the administration of the site and for the Management Board of Verla, which includes the authorities and owners of the site. The Board controls and instructs the operations involving restoration and maintenance according to the Management Plan. The groundwood and board mill is surrounded by a forested area, which is located in the buffer zone of the property. Landscape and environment values are taken into consideration when forestry work is done. The flow of water in the power plant canal, adjacent to the board mill, has threatened the conservation and safety of the mill building, as water from the canal was leaking into the mill. To solve this problem, a new power plant canal, which separates the water from the building, was opened in January 2014. Verla Groundwood and Board Mill is located in a rural area and is closed during the winter. Due to its remote location, fire and other accidents are considered potential threats to the property. Because of this, the most central parts of the property are protected by automatic fire alarms and fire extinguishing systems."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 22.778,
+          "square_km": 0.23,
+          "square_miles": 0.092,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/df2f2ce0c66859cbc0cac655a2bb11c3",
+          "filename": "site_0751_0001-500-0-20090925164428.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 324
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113137/site_0751_0001.jpg",
+            "https://whc.unesco.org/document/143835/site_0751_0002.jpg",
+            "https://whc.unesco.org/document/143836/site_0751_0003.jpg",
+            "https://whc.unesco.org/document/143837/site_0751_0004.jpg",
+            "https://whc.unesco.org/document/143838/site_0751_0005.jpg",
+            "https://whc.unesco.org/document/143839/site_0751_0006.jpg",
+            "https://whc.unesco.org/document/143840/site_0751_0007.jpg",
+            "https://whc.unesco.org/document/143841/site_0751_0008.jpg",
+            "https://whc.unesco.org/document/143842/site_0751_0009.jpg",
+            "https://whc.unesco.org/document/143843/site_0751_0010.jpg",
+            "https://whc.unesco.org/document/143844/site_0751_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Verla Groundwood and Board Mill",
+            "ref": "751",
+            "latitude": 61.06194,
+            "longitude": 26.64083
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/751",
+        "unesco_documents": "https://whc.unesco.org/en/list/751/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/751/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/751/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Verla Groundwood and Board Mill The Verla groundwood and board mill and its associated residential area is an outstanding, remarkably well-preserved example of the small-scale rural industrial settlements associated with pulp, paper and board production that flourished in northern Europe and North America in the 19th and early 20th centuries. Only a handful of such settlements survive to the present day. The Verla groundwood and board mill and its associated residential area is an outstanding, remarkably well-preserved example of the small-scale rural industrial settlements associated with pulp, paper and board production that flourished in northern Europe and North America in the 19th and early 20th centuries. Only a handful of such settlements survive to the present day. Finland Europe and North America Cultural"
+    },
+    {
+      "site_key": "fortress_of_suomenlinna",
+      "uuid": "3320b4ba-1318-590c-b86d-0379c7ca5e04",
+      "unesco_id": "583",
+      "names": {
+        "en": "Fortress of Suomenlinna",
+        "fr": "Forteresse de Suomenlinna",
+        "es": "Fortaleza de Suomenlinna",
+        "ru": "Крепость Суоменлинна (Хельсинки)",
+        "ar": "قلعة سوامنلينا",
+        "zh": "苏奥曼斯纳城堡"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time.",
+          "fr": "Construite dans la seconde moitié du XVIIIe siècle par les Suédois sur un groupe d'îles situées à l'entrée de la rade d'Helsinki, la forteresse constitue un exemple particulièrement intéressant de l'architecture militaire européenne de l'époque.",
+          "es": "Construida por los suecos en la segunda mitad del siglo XVIII, esta fortaleza ocupa un grupo de islas situadas a la entrada de la rada de Helsinki. Es un ejemplo particularmente interesante de la arquitectura militar europea de la época.",
+          "ru": "Построенная Швецией во второй половине XVIII в. на островах, расположенных у входа в гавань Хельсинки, эта крепость является особенно интересным примером европейской военной архитектуры того времени.",
+          "ar": "تشكّل القلعة التي شيّدها السويديون في النصف الثاني من القرن الثامن عشر على مجموعة جُزر تقع على مشارف مرسى هلسنكي نُموذجاً مثيراً للأهمية للهندسة المعمارية العسكرية الأوروبية التي تجسد تلك الحقبة.",
+          "zh": "该城堡建于18世纪下半叶，是瑞典人在赫尔辛基港入口处的岛屿上建造的。城堡很好地体现了当时欧洲军事建筑的特点。"
+        },
+        "full": "Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time.",
+        "justification": "Brief synthesis Suomenlinna (Sveaborg) is a sea fortress, which was built gradually from 1748 onwards on a group of islands belonging to the district of Helsinki. The work was supervised by the Swedish Admiral Augustin Eherensvärd (1710-1772), who adapted Vauban’s theories to the very special geographical features of the region. The landscape and the architecture of the fortress have been shaped by several historic events. It has served to defend three different sovereign states over the years: the Kingdom of Sweden, the Russian Empire and most recently the Republic of Finland. Covering an area of 210 ha and consisting of 200 buildings and 6 km of defensive walls, the fortress stretches over six separate islands. The original fortress was built using local rock and fortified with a system of bastions over varied terrain. The purpose of the fortress was originally to defend the Kingdom of Sweden against the Russian Empire and to serve as a fortified army base, complete with a dry dock. Sandbanks, barracks and various other buildings were added during the 19th-century Russian period. The defensive system was adapted to match the requirements of a modern fortress and developed in the 19th century using contemporary fortification equipment. After Finland gained independence in 1917, the fortress was renamed Suomenlinna (or Fortress of Finland) and served as a garrison and a harbour. The military role of the fortress declined after World War II, and in 1973 the area was converted for civilian purposes. Since then, buildings have been renovated to serve as apartments as well as workspaces, to house private and public services, and for cultural purposes. Today, Suomenlinna is one of the most popular tourist attractions in Finland and constitutes a district of Helsinki with 850 inhabitants. Criterion (iv): In the history of military architecture, the Fortress of Suomenlinna is an outstanding example of general fortification principles of the 17th and 18th centuries, notably the bastion system, and also showcases individual characteristics. Integrity Suomenlinna consists of several defensive and utilitarian buildings that blend the architecture and functionality of the fortress within the surrounding landscape. The property includes the islands upon which the fortress was built. This forms a consistent ensemble extensive enough to preserve and present the values of the property. Most of the fortifications and utilitarian buildings dating from the Swedish and Russian periods are well preserved. The fortress has only a few buildings dating from the Finnish era, but they retain their own distinctive identity. A sharp rise in sea level or increased rainfall could threaten the property. Authenticity The fortifications and the various buildings, all dating from different eras, as well as the surrounding environment, help preserve Suomenlinna’s characteristics, particularly with regard to building materials, methods and architecture. Since Suomenlinna became a residential area, traditional construction methods have been favoured to ensure the preservation of the property, and are implemented in a manner that respects its cultural and historical values. Protection and management requirements Suomenlinna is legally protected under national legislation. The fortification works are protected by the Ancient Act of 1963 and the church is protected by the Church Act of 1994. The Governing Body of Suomenlinna, a government agency under the Ministry of Education and Culture, owns most of the historical buildings in Suomenlinna. The Governing Body is responsible for the restoration and maintenance of the fortress. The activities are guided by the 1974 Management Plan, which has since been revised. The costs of the Governing Body, which employs around 90 people, are met using funding from the central government budget and from rental income. The Governing Body of Suomenlinna works closely with the National Board of Antiquities, Suomenlinna Prison and the City of Helsinki. Representatives of the local people have a seat in the Governing Body of Suomenlinna. Suomenlinna is surrounded by open waters and nature reserves. The islands in its vicinity are used by the Finnish Defence Forces, or are subject to restrictive development plans. No changes to the surrounding area that could threaten the values of the property are planned for the near future. The buffer zone of Suomenlinna ends at downtown Helsinki to the north and the military district to the east and south. The island-based fortress is not threatened by city planning or traffic. The possibility of a sharp rise in sea levels owing to climate change constitutes a potential threat to the property, as it would accelerate the erosion of coastal structures. Similarly, increased rainfall causes damage to wooden and stone structures. The increase in visitors has also caused sandbanks to become eroded during the summer. The erosion is managed by restricting visitors’ access to vulnerable areas during the summer months and regular reports are produced. The threats are recognized in the Suomenlinna Visitor Management Strategy from 2007 and the revised Management Plan from 2013."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 210,
+          "square_km": 2.1,
+          "square_miles": 0.85,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1991,
+          "all_dates": [
+            1991
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1991,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/55f74251e0a74eb8bcc7fa1294aa8fc7",
+          "filename": "site_0583_0005-500-0-20251022174520.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111274/site_0583_0005.jpg",
+            "https://whc.unesco.org/document/111276/site_0583_0006.jpg",
+            "https://whc.unesco.org/document/111278/site_0583_0007.jpg",
+            "https://whc.unesco.org/document/111280/site_0583_0008.jpg",
+            "https://whc.unesco.org/document/111282/site_0583_0009.jpg",
+            "https://whc.unesco.org/document/111284/site_0583_0010.jpg",
+            "https://whc.unesco.org/document/111286/site_0583_0011.jpg",
+            "https://whc.unesco.org/document/111288/site_0583_0012.jpg",
+            "https://whc.unesco.org/document/111290/site_0583_0013.jpg",
+            "https://whc.unesco.org/document/111292/site_0583_0014.jpg",
+            "https://whc.unesco.org/document/111294/site_0583_0015.jpg",
+            "https://whc.unesco.org/document/111296/site_0583_0016.jpg",
+            "https://whc.unesco.org/document/111298/site_0583_0017.jpg",
+            "https://whc.unesco.org/document/111300/site_0583_0018.jpg",
+            "https://whc.unesco.org/document/111303/site_0583_0019.jpg",
+            "https://whc.unesco.org/document/111305/site_0583_0020.jpg",
+            "https://whc.unesco.org/document/111307/site_0583_0021.jpg",
+            "https://whc.unesco.org/document/111311/site_0583_0023.jpg",
+            "https://whc.unesco.org/document/111315/site_0583_0025.jpg",
+            "https://whc.unesco.org/document/111318/site_0583_0026.jpg",
+            "https://whc.unesco.org/document/116926/site_0583_0027.jpg",
+            "https://whc.unesco.org/document/116927/site_0583_0029.jpg",
+            "https://whc.unesco.org/document/111268/site_0583_0001.jpg",
+            "https://whc.unesco.org/document/111270/site_0583_0002.jpg",
+            "https://whc.unesco.org/document/111272/site_0583_0004.jpg",
+            "https://whc.unesco.org/document/126871/site_0583_0031.jpg",
+            "https://whc.unesco.org/document/126872/site_0583_0032.jpg",
+            "https://whc.unesco.org/document/126873/site_0583_0033.jpg",
+            "https://whc.unesco.org/document/126874/site_0583_0034.jpg",
+            "https://whc.unesco.org/document/126875/site_0583_0035.jpg",
+            "https://whc.unesco.org/document/143815/site_0583_0036.jpg",
+            "https://whc.unesco.org/document/143816/site_0583_0037.jpg",
+            "https://whc.unesco.org/document/143817/site_0583_0038.jpg",
+            "https://whc.unesco.org/document/143818/site_0583_0039.jpg",
+            "https://whc.unesco.org/document/143819/site_0583_0040.jpg",
+            "https://whc.unesco.org/document/143820/site_0583_0041.jpg",
+            "https://whc.unesco.org/document/143821/site_0583_0042.jpg",
+            "https://whc.unesco.org/document/143822/site_0583_0043.jpg",
+            "https://whc.unesco.org/document/143823/site_0583_0044.jpg",
+            "https://whc.unesco.org/document/143824/site_0583_0045.jpg"
+          ],
+          "count": 40
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Fortress of Suomenlinna",
+            "ref": "583",
+            "latitude": 60.14722,
+            "longitude": 24.98722
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/583",
+        "unesco_documents": "https://whc.unesco.org/en/list/583/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/583/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/583/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 34,
+        "inscription_year": 1991
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fortress of Suomenlinna Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time. Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time. Finland Europe and North America Cultural"
+    },
+    {
+      "site_key": "old_rauma",
+      "uuid": "02dcdcf8-a466-5f58-aca3-055f6953a080",
+      "unesco_id": "582",
+      "names": {
+        "en": "Old Rauma",
+        "fr": "Ancienne Rauma",
+        "es": "Antigua Rauma",
+        "ru": "Старая часть города Раума",
+        "ar": "مدينة راوما القديمة",
+        "zh": "劳马古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "FIN": {
+            "name": "Finland",
+            "iso2": "FI",
+            "iso3": "FIN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage.",
+          "fr": "Située sur le golfe de Botnie, la ville de Rauma est l'un des plus anciens ports de Finlande. Elle est construite autour d'un monastère franciscain dont il reste l'église Sainte-Croix, qui date du milieu du XVe siècle. C'est un exemple exceptionnel de vieille ville nordique construite en bois. Bien que ravagée par le feu à la fin du XVIIe siècle, elle a protégé son patrimoine architectural ancien de style local.",
+          "es": "Situada en el golfo de Botnia, la ciudad de Rauma es uno de los puertos más antiguos de Finlandia. Fue construida en torno a un monasterio franciscano del que aún se conserva la iglesia de la Santa Cruz, construida a mediados del siglo XV. Es un ejemplo excepcional de ciudad nórdica construida en madera. Aunque fue pasto de las llamas a finales del siglo XVII, Rauma ha sabido preservar su antiguo patrimonio arquitectónico de estilo autóctono.",
+          "ru": "Расположенная на берегу Ботнического залива Раума – это одна из старейших гаваней в Финляндии. Сформировавшаяся вокруг францисканского монастыря, где до сих пор стоит церковь Святого Креста середины XV в., она является выдающимся примером старинного северного города, построенного из дерева. Раума пострадала от пожара в конце XVII в., но, тем не менее, сохранила свое древнее архитектурное наследие.",
+          "ar": "إنّ مدينة راوما الواقعة على خليج بوتنيا هي إحدى أقدم المرافئ في فنلندا، وهي مشيّدة حول دير فرنسيسكاني بقيت من آثاره كنيسة الصليب المقدس التي تعود إلى منتصف القرن الخامس عشر. وتشكّل هذه المدينة نموذجاً قلّ نظيره لمدينة شمالية صغيرة مبنيّة من الخشب. ومع أنّ ألسنة النار قد التهبت هذه المدينة في أواخر القرن السابع عشر، إلا أنها حافظت على تراثها الهندسيّ ذي الطراز المحلّي.",
+          "zh": "劳马位于波特尼亚海湾(Gulf of Botnia)，是芬兰最古老的港口之一。古城绕圣芳济会修道院而建，15世纪中期的圣十字教堂仍巍然屹立，这里是典型的木结构的北欧城市。尽管在17世纪晚期遭到火灾破坏，但古代民间建筑的风貌犹存。"
+        },
+        "full": "Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage.",
+        "justification": "Brief synthesis Situated on the Gulf of Bothnia, Rauma is one of few medieval towns in Finland. The core of the town is Old Rauma, which is composed of some 600 buildings constructed of wood, most of which are privately owned, and covers an area of 29 ha. Originally situated at the seashore, the Old Town is located some 1.5 km inland from the present coastline due to land uplift. Old Rauma is both a commercial and a residential area comprising the town area within the toll boundaries of Rauma in the 19th century. The town plan structure of Rauma has been maintained since the medieval period, including the irregular street network, city blocks, plots of land and courtyards. The buildings are mainly one storey tall, and date back between the 18th and 19th centuries, while some cellars remain from earlier houses. The residential houses are placed along the street, and outbuildings such as former animal sheds and granaries are built around narrow courtyards. The present appearance of the buildings is a result of phases of gradual changes and enlargements between the 18th and the late 19th centuries. At the end of this period, the increased wealth of the town due to ship trading resulted in the extension and modernisation of residential buildings with decorative exterior panels with Neo-Renaissance details, and the characteristic, highly decorative gates of the courtyards. The commercial area is located along two main streets stretching through the Old Town, while the Market Square, in the middle of the Old Town, forms the main meeting point and commercial place for local people and producers. The medieval church, built around a Franciscan monastery, and the former Town Hall built in 1775-76 in the Market Square are landmarks in the harmonious townscape of one-storey residential and commercial buildings. The architecturally homogenous urban area of Old Rauma is a well preserved and representative example of traditional Nordic wooden town building techniques and traditions. Criterion (iv): The town of Old Rauma constitutes one of the best preserved and most expansive examples of northern European architecture and urbanism. Criterion (v): Old Rauma is an outstanding example of a Nordic city constructed in wood, and acts as a witness to the history of traditional settlements in northern Europe. Integrity Old Rauma includes all elements necessary to express its Outstanding Universal Value, namely the entire urban area dating back to between the 17th and 19th centuries, when the town expanded to the west. The town includes all elements that contribute to its integrity: the street network, city blocks, plots of land, as well as the buildings themselves. The historic fabric of the city has been built over centuries, forming different historic layers. The historic houses, courtyards, fences and gates, as well as the traditional street pavements, form a homogenous urban entity. The buffer zone of Old Rauma is based on local topography and its scale allows to include all visual and historic elements in the vicinity of the property. Climate change might cause a threat to the integrity of the World Heritage property. Authenticity The authenticity of Old Rauma is based on the well-preserved historic urban fabric, including different historic layers and building traditions. The urban morphology, including street networks, plots of land and historical buildings, such as houses for commercial and residential use, is exceptionally well preserved. The individual houses are well preserved and have been renovated and restored over time, taking into consideration their historic value. The town has maintained a genuine local spirit, as well as a characteristic local dialect. Old Rauma has preserved its function as a residential area and commercial centre with its Market Square and a variety of shops along the main streets. The use of traditional building techniques, skills and materials in maintenance and repairs helps preserve the cultural historic spirit of Old Rauma. Protection and management requirements Old Rauma is protected under the national legislation. The site is managed by a steering group with members of the national and local authorities and a local stakeholder. A local site manager has been appointed by the municipality and works from the Tammela renovation centre, providing services and technical assistance in repairs and renovation to homeowners. This service is free of charge to Old Town citizens. The centre also has a bank of traditional building materials and organizes workshops for local inhabitants to build architectural details. City development is guided by detailed land use plans and cooperation between state authorities and the city, in order to overcome the challenges arising from development pressures. Climate change may threaten individual buildings of Old Rauma, due to increasingly humid and warm winters that lead to a proliferation of harmful insects in wooden structures. The overall management system foresees appropriate follow-up for this issue."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 29,
+          "square_km": 0.29,
+          "square_miles": 0.117,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1991,
+          "all_dates": [
+            1991
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1991,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/edcaf34648a135def358170acf73c4bf",
+          "filename": "site_0582_0003-500-0-20140110154149.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/126876/site_0582_0003.jpg",
+            "https://whc.unesco.org/document/126877/site_0582_0004.jpg",
+            "https://whc.unesco.org/document/126878/site_0582_0005.jpg",
+            "https://whc.unesco.org/document/126879/site_0582_0006.jpg",
+            "https://whc.unesco.org/document/126880/site_0582_0007.jpg",
+            "https://whc.unesco.org/document/126882/site_0582_0009.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old Rauma",
+            "ref": "582bis",
+            "latitude": 61.12806,
+            "longitude": 21.51167
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/582",
+        "unesco_documents": "https://whc.unesco.org/en/list/582/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/582/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/582/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 34,
+        "inscription_year": 1991
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Rauma Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage. Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage. Finland Europe and North America Cultural"
+    }
+  ]
+}

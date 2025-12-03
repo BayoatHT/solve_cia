@@ -1,0 +1,158 @@
+{
+  "site_key": "olympic_national_park",
+  "uuid": "976706fa-f2ab-5219-be11-513232795f8c",
+  "unesco_id": "151",
+  "names": {
+    "en": "Olympic National Park",
+    "fr": "Parc national Olympique",
+    "es": "Parque Nacional Olímpico",
+    "ru": "Национальный парк Олимпик",
+    "ar": "المنتزه الأولمبي الوطني",
+    "zh": "奥林匹克国家公园"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "USA": {
+        "name": "United States",
+        "iso2": "US",
+        "iso3": "USA"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout.",
+      "fr": "Situé au nord-ouest de l'État de Washington, le parc national Olympique est célèbre pour la diversité de ses écosystèmes. Des pics couronnés de glaciers parsemés de grandes prairies alpines sont entourés d'une vaste forêt ancienne où se trouve le meilleur exemple de forêt pluviale tempérée intacte et protégée de tout le nord-ouest du Pacifique. Onze grands réseaux fluviaux drainent le massif, offrant le meilleur habitat aux espèces de poissons anadromes du pays. Le parc comprend également 100 km de côtes rocheuses sauvages, un record pour les États-Unis, et il compte de nombreuses espèces animales et végétales indigènes et endémiques, dont des populations essentielles menacées de chouettes tachetées du Nord, de guillemots marbrés et d'ombles à tête plate.",
+      "es": "Situado al noroeste del Estado de Washington, el Parque Nacional Olímpico es célebre por la gran diversidad de sus ecosistemas. Sus montañas con glaciares y vastas praderas alpinas están rodeadas por grandes bosques añosos, entre los que se encuentra el mejor ejemplar de bosque pluvial virgen de todo el noroeste del Pacífico. Las once cuencas fluviales que drenan el macizo montañoso ofrecen un hábitat ideal a las especies de peces anádromos. El parque posee también 100 kilómetros de litoral rocoso intacto –el mayor tramo de costa virgen de los Estados Unidos– y cuenta con numerosas especies animales y vegetales, nativas y endémicas, entre las que figuran algunas en peligro de extinción como la lechuza moteada septentrional, el alca jaspeada y el salvelino.",
+      "ru": "Парк, расположенный на северо-западе штата Вашингтон, славится разнообразием своих ландшафтов. Обработанные ледниками высокогорья сочетаются с обширными альпийскими лугами, а также девственными лесными массивами, которые являются наилучшим примером дождевых умеренных лесов, произрастающих на северо-западном тихоокеанском побережье. 11 рек, которые дренируют горный массив Олимпик, считаются одними из лучших в стране лососевых угодий. Парк также включает 100-километровый береговой отрезок – это самый значительный участок нетронутого цивилизацией побережья на северо-западе США. Местная флора и фауна очень богаты, с целым рядом эндемиков. Среди редких птиц – пятнистая неясыть.",
+      "ar": "يقع المنتزه الأولمبي الوطني شمال غرب ولاية واشنطن وهو ذائع الصيت لتعدد نظمه البيئيّة. تكلل الثلوج القمم في تناثر من مروج شاهقة تحيطها غابة قديمة فيها أعظم مثال عن غابة مطريّة معتدلة المناخ سليمة المعالم ومحميّة في شمال غرب المحيط الهادئ. وتصرّف الجبال الأولمبيّة مياهها عبر إحدى عشرة شبكة مياه نهريّة تمثّل أفضل مسكن لأصناف الأسماك الصاعدة من البحار إلى الأنهار لتلقي بيوضها. وفي المنتزه أيضاً 100 كيلومتر من السواحل الصخريّة المتوحشة وفي هذا رقم قياسي للولايات المتحدة كما العديد من الأصناف الحيوانيّة والنباتيّة الأصليّة والمستوطنة وبعضها مهدد بالزوال مثل بومة الشمال المرقطة والبطريق الرخامي والسمك المرقّط مسطح الرأس.",
+      "zh": "奥林匹克国家公园坐落于华盛顿州的西北角，以其生态系统多样性著称于世。公园中不仅有常年被冰雪覆盖的高山，还有大量的高山草甸，以及高山草甸周围的古森林，这些树林是太平洋西北部地区保存最为完好的温带雨林之一。从奥林匹亚山上发源的11条主要河流为当地的溯河产卵鱼类提供了良好的栖息环境。奥林匹克国家公园内还有100公里长的沿海原野保留地，这是美国最长的未开发海岸地带。在这片原野保留地内生活着大量当地特有的动植物，包括濒危的北部斑点猫头鹰、斑海雀和海鳟等。"
+    },
+    "full": "Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout.",
+    "justification": "Brief Synthesis Olympic National Park features a spectacular coastline, scenic lakes, majestic mountains and glaciers, and a magnificent virgin temperate rainforest. Olympic National Park has a wealth of geological formations – including rocky islets along the coast formed by a continuously receding and changing coastline, deep canyons and valleys formed by erosion and craggy peaks and beautiful cirques sculpted by glaciation. Olympic National Park is also the lowest latitude in the world in which glaciers form below an elevation of 2000 meters and occur below an elevation of 1000 meters. The park’s relative isolation, high rainfall, strong west-to-east precipitation gradient, ten major watersheds and rugged topography have combined to produce varied and complex life zones – from coastline to temperate forest to alpine meadows to glaciated peaks. As a result, the park is rich in biological diversity and has a high rate of endemism. Criterion (vii): Olympic National Park is of remarkable beauty, and is the largest protected area in the temperate region of the world that includes in one complex ecosystems from ocean edge through temperate rainforest, alpine meadows and glaciated mountain peaks. It contains one of the world’s largest stands of virgin temperate rainforest, and includes many of the largest coniferous tree species on earth. Criterion (ix): The park’s varied topography from seashore to glacier, affected by high rainfall, has produced complex and varied vegetation zones, providing habitats of unmatched diversity on the Pacific coast. The coastal Olympic rainforest reaches its maximum development within the property and has a living standing biomass which may be the highest anywhere in the world. The park’s isolation has allowed the development of endemic wildlife, subspecies of trout, varieties of plants and unique fur coloration in mammals, indications of a separate course of evolution. Integrity At over 373,000 hectares, of which 95% is federally protected wilderness, the property is large enough to contain on-going geological processes (glaciation and changing coastline) and evolution of the many and varied forest types. The park's proximity to eight federally recognized tribal reservations - of which it shares boundaries with four - provides opportunities for cooperation to protect park resources. The Olympic Coast Marine Sanctuary provides a buffer for marine protection, and federal and state forest lands offer additional opportunities for boundary protection and connectivity with the larger landscape. Protection and management requirements Designated by the U.S. Congress in 1938 as a national park, Olympic National Park is managed under the authority of the Organic Act of August 25, 1916 which established the United States National Park Service. In addition, the park has enabling legislation which provides broad congressional direction regarding the primary purposes of the park. Numerous other federal laws bring additional layers of protection to the park and its resources. Day to day management is directed by the Park Superintendent. Management goals and objectives for the property have been developed through a General Management Plan, which has been supplemented in recent years with site-specific planning exercises as well as numerous plans for specific issues and resources. In addition, the National Park Service has established Management Policies which provide broader direction for all National Park Service units, including Olympic. The National Park Service works closely with other land and water management agencies in larger North Pacific region to protect shared resources. One example is the North Pacific Landscape Conservation Cooperative, which brings together science and resource management to inform climate adaptation strategies to address climate change and other stressors within this ecological region. Mountain goats (Oreamnos americanus), introduced to the property in the 1920s, may be causing significant changes in the natural ecosystem. Research has suggested that the mountain goats have reduced plant cover, increased erosion, and shifted plant-community dominants toward more resistant or less palatable species; they have been recorded feeding on at least three of the endemic plants, and some concern has been expressed that these species may be endangered by the mountain goat. Habitat loss outside the park also appears to be impacting other species within the park such as the endangered marbled murrelet and the near threatened northern spotted owl. In the longer term, climate change may impact the ranges of dominant plant species, altering habitat and threatening endemic species in the park. The Elwha Ecosystem Restoration Project is the second largest ecosystem restoration project in the history of the National Park Service after the Everglades. With the removal of the 64 meter Glines Canyon Dam and the 33 meter Elwha Dam, along with the draining of their reservoirs, the park is now revegetating the slopes and river bottoms to prevent erosion and accelerate ecological recovery. The primary purpose of this project is to restore anadromous stocks of Pacific Salmon and Steelhead to the Elwha River, which had been denied access to the upper 105 km of river habitat for more than 95 years by these dams. In 2008, the fisher (Martes pennanti) was reintroduced into the park, restoring an important component of the park’s native wildlife and enhancing the ecosystem’s integrity. Long-term protection and effective management of the site from potential threats requires continued monitoring of resource conditions, such as through the NPS Inventory and Monitoring (I&M) program. The North Coast and Cascades I&M network, of which Olympic National Park is a part, has developed several “vital signs” to track a subset of physical, chemical and biological elements and processes selected to represent the overall health or condition of park resources. In Olympic National Park, these vital signs include water quality, climate, landscape dynamics, intertidal ecosystems, landbird populations, and others."
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        9
+      ],
+      "all": [
+        7,
+        9
+      ],
+      "display": "(vii)(ix)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 369659.8,
+      "square_km": 3696.6,
+      "square_miles": 1495.962,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1981,
+      "all_dates": [
+        1981
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1981,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0b897b1218ac6ea05440f099a42c23a9",
+      "filename": "site_0151_0001-500-0-20090914164402.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 333
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/108407/site_0151_0001.jpg"
+      ],
+      "count": 1
+    }
+  },
+  "components": {
+    "count": 2,
+    "locations": [
+      {
+        "name": "Olympic Mountains",
+        "ref": "151-001",
+        "latitude": 47.79848,
+        "longitude": -123.5792
+      },
+      {
+        "name": "Pacific Coastal Area",
+        "ref": "151-002",
+        "latitude": 48.09736,
+        "longitude": -124.65549
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/151",
+    "unesco_documents": "https://whc.unesco.org/en/list/151/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/151/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/151/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1980s",
+    "era": "Expansion Period (1980-1989)",
+    "age_years": 44,
+    "inscription_year": 1981
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Olympic National Park Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout. Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout. United States Europe and North America Natural"
+}

@@ -1,0 +1,586 @@
+{
+  "country": {
+    "code": "SDN",
+    "name": "Sudan"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "archaeological_sites_of_the_island_of_meroe",
+      "uuid": "7b3c3a99-8302-55d8-bd6e-bcd38bf1bea0",
+      "unesco_id": "1336",
+      "names": {
+        "en": "Archaeological Sites of the Island of Meroe",
+        "fr": "Sites archéologiques de l’île de Méroé",
+        "es": "Los sitios arqueológicos de la isla de Meroe",
+        "ru": "Археологические памятники острова Мероэ",
+        "ar": "المواقع الأثرية في جزيرة مروي",
+        "zh": "麦罗埃岛考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SDN": {
+            "name": "Sudan",
+            "iso2": "SD",
+            "iso3": "SDN"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D. The property consists of the royal city of the Kushite kings at Meroe, near the River Nile, the nearby religious site of Naqa and Musawwarat es Sufra. It was the seat of the rulers who occupied Egypt for close to a century and features, among other vestiges, pyramids, temples and domestic buildings as well as major installations connected to water management. Their vast empire extended from the Mediterranean to the heart of Africa, and the property testifies to the exchange between the art, architectures, religions and languages of both regions.",
+          "fr": "Les sites archéologiques de l'île de Méroé, paysage semi-désertique entre le Nil et l'Atbara, était le cœur du royaume de Kouch, une puissance majeure du VIIIe siècle avant J.-C. au IVe siècle avant J.-C. Le site comprend un site urbain et funéraire, siège des souverains qui occupèrent l'Egypte pendant près d'un siècle. Le bien comprend la cité royale des rois kouchites à Méroé, au bord du Nil, et les sites religieux tout proches de Naqa et de Musawwarat es-Sufra. On y trouve, entre autres vestiges, des pyramides, des temples, et des bâtiments résidentiels ainsi que des installations majeures de gestion de l'eau. Leur vaste empire s'étendait de la Méditerranée au cœur de l'Afrique, et le bien témoigne des échanges dans les domaines de l'art, l'architecture, les religions et les langues entre les deux régions.",
+          "es": "Están situados en un paisaje semidesértico entre los ríos Nilo y Atbara, en lo que fue el centro del Reino de Kush, una gran potencia entre el siglo VIII a.C al siglo IV d.C. El sitio consiste en la ciudad real de los reyes kushitas en Meroe, cerca del río Nilo, y los sitios religiosos cercanos de Naqa y Musawwarat es Sufra. Fue sede del poder que ocupó Egipto durante casi un siglo y, entre otros vestigios, contiene pirámides templos y viviendas, así como instalaciones de gestión del agua. Este vasto imperio se extendió desde el Mediterráneo hasta el corazón de África, por lo que el lugar es testimonio del intercambio de artes, estilos arquitectónicos, religiones e idiomas entre ambas zonas.",
+          "ru": "полупустынный ландщафт в междуречье рек Нил и Атбара находился в самом сердце царства Куш, главной державы этого региона с 8-го века до н.э. по 4-й век н.э. Территория включает царскую столицу, которая располагалась в Мероэ вблизи Нила, на одноименном острове, по соседству с религиозным объектом Нака и Мусавварат-эс-Суфра. Это было местом властителей, которые правили Египтом почти в течение века. Оно хранит, среди прочего, развалины пирамид, храмов и жилых построек, а также важных сооружений, связанных с водообеспечением. Их огромная империя простиралась от Средиземного моря до самого сердца Африки, её территория является свидетелем культурных, архитектурных, религиозных и языковых обменов между регионами.",
+          "ar": "هي عبارة عن مناطق شبه صحراوية بين نهر النيل ونهر عطبرة، معقل مملكة كوش، التي كانت قوة عظمى بين القرنين الثامن والرابع قبل الميلاد، وتتألف من الحاضرة الملكية للملوك الكوشيين في مروي، بالقرب من نهر النيل، وبالقرب من المواقع الدينية في نقاء والمصورات الصفراء. كانت مقرًّا للحكام الذين احتلوا مصر لما يقرب من قرن ونيف، من بين آثار أخرى، من مثل الأهرامات والمعابد ومنازل السكن وكذلك المنشآت الكبرى، وهي متصلة كلها بشبكة مياه. امتدت إمبراطورية الكوشيين الشاسعة من البحر الأبيض المتوسط إلى قلب أفريقيا، وتشهد هذه المساحة على تبادل للفنون والهندسة والأديان واللغات بين المنطقتين.",
+          "zh": "是一处位于尼罗河与阿特巴拉河之间的半荒漠景观，这里曾是公元前8世纪至公元4世纪间兴盛一时的库施（Kush）王国的中心地带。遗产由位于尼罗河边麦罗埃的库施王城、其附近的宗教遗址纳加神庙（Naqa）以及狮子神庙（Musawwarat es Sufra）所组成。这里曾是占领埃及近一世纪的统治者发号施令的地方，至今还拥有金字塔、神庙、民居建筑以及大型的用水设施等大量遗迹。庞大的库施帝国一度把疆土扩展到地中海以及非洲心脏地带，它所留下这一遗址也因此见证了上述两个地区在艺术、建筑、宗教与语言上的交流。"
+        },
+        "full": "The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D. The property consists of the royal city of the Kushite kings at Meroe, near the River Nile, the nearby religious site of Naqa and Musawwarat es Sufra. It was the seat of the rulers who occupied Egypt for close to a century and features, among other vestiges, pyramids, temples and domestic buildings as well as major installations connected to water management. Their vast empire extended from the Mediterranean to the heart of Africa, and the property testifies to the exchange between the art, architectures, religions and languages of both regions.",
+        "justification": "Brief synthesis The Island of Meroe is the heartland of the Kingdom of Kush, a major power in the ancient world from the 8th century BCE to the 4th century CE. Meroe became the principal residence of the rulers, and from the 3rd century BCE onwards it was the site of most royal burials. The property consists of three separate site components, Meroe, the capital, which includes the town and cemetery site, and Musawwarat es-Sufra and Naqa, two associated settlements and religious centres. The Meroe cemetery, Musawwarat es-Sufra, and Naqa are located in a semi-desert, set against reddish-brown hills and contrasting with the green bushes that cover them, whilst the Meroe town site is part of a riverine landscape. These three sites comprise the best preserved relics of the Kingdom of Kush, encompassing a wide range of architectural forms, including pyramids, temples, palaces, and industrial areas that shaped the political, religious, social, artistic and technological scene of the Middle and Northern Nile Valley for more than 1000 years (8th century BC-4th century AD). These architectural structures, the applied iconography and evidence of production and trade, including ceramics and iron-works, testify to the wealth and power of the Kushite State. The water reservoirs in addition contribute to the understanding of the palaeoclimate and hydrological regime in the area in the later centuries BCE and the first few centuries CE. Criterion (ii): The Archaeological Sites of the Island of Meroe reflect the interchange of ideas and contact between Sub-Saharan Africa and the Mediterranean and Middle Eastern worlds, along a major trade corridor over a very long period of time. The interaction of local and foreign influences is demonstrated by the preserved architectural remains and their iconography. Criterion (iii): The property with its wide range of monument types, well preserved buildings, and potential for future excavation and research, contributes an exceptional testimony to the wealth and power of the former Kushite state and its extensive contacts with African, Mediterranean and Middle Eastern societies. The Kushite civilization was largely expunged by the arrival of Christianity on the Middle Nile in the 6th century CE. Criterion (iv):The pyramids at Meroe are outstanding examples of Kushite funerary monuments, which illustrate the association with the well preserved remains of the urban centre of the Kushite capital city, Meroe. The architectural remains at the three site components illustrate the juxtaposition of structural and decorative elements from Pharaonic Egypt, Greece, and Rome as well as from Kush itself, and through this represent a significant reference of early exchange and diffusion of styles and technologies. Criterion (v): The major centres of human activity far from the Nile at Musawwarat and Naqa raise questions as to their viability in what is today an arid zone devoid of permanent human settlement. They offer the possibility, through a detailed study of the palaeoclimate, flora, and fauna, of understanding the interaction of the Kushites with their desert hinterland. Integrity The three site components selected represent the capital city of the Kushite kingdom, Meroe, with its associated extensive burial grounds of pyramid tombs, and the kingdom’s two largest hinterland centres, Musawwarat es-Sufra and Naqa. Together they provide evidence of the size, and influence of the Kushite civilization at the height of power. Although many features of the site have deteriorated over the course of time, including the collapse of several pyramid tombs, inappropriate interventions which reduced the integrity of the site have not occurred since the treasure hunting of Ferlini in the 1830s, which was very deleterious to some of the pyramids in the Meroe cemeteries. The main north-south highway linking Khartoum and Port Sudan, which separated the two parts of the Meroe site has negative visual and auditory impact on the integrity of the property, as does the line of high voltage power transmission along its route. Authenticity Although at large the authenticity in terms of the attributes of material, design and substance is acceptable, conservation works at several temples and pyramids were based on large-scale reconstructions, including introduction of new materials, or anastylosis, which affected the authenticity of these features. However, considering the overall number of significant features on-site, the percentage of reconstructed or reassembled structures is comparatively small and does not impact on a general conception of authenticity. At the site component of Meroe, archaeological research activities, primarily by foreign scholars since the late 19th century, have left large spoil heaps, which impact adversely on the authenticity of the setting. Protection and management requirements The property is protected under the provisions of article 13 (5) of the Interim Constitution of the Republic of Sudan of 2005, and under the Antiquities Protection Ordinance of 1905, amended in 1952 and most recently in 1999, which confers it the status of national monument. It is also protected by Presidential Decree (no. 162 of 2003) which established a natural reserve around the site and established the management committee. The reserve declared under this Decree encompasses the three site components and their complete buffer zones. Although formally managed by a Committee involving a variety of stakeholders, the property is factually managed by the National Corporation of Antiquities and Museums (NCAM), which involves a field work section responsible for site supervision and coordination of the foreign archaeological missions. A technical office for supervision is located at Shendi, about 40km from Meroe and 60 km from Musawwarat es-Sufra and Naqa, where a resident site manager has been appointed. Security guards and police men supervise the property on a daily basis. To ensure the requirement of a shared overarching management authority for serial properties, a management committee has been established and a chairperson appointed. Following the management plan drafted and approved in 2009, this management committee shall be supported by an executive World Heritage Site management team, which will oversee the implementation of the management plan strategies and actions. Financial provisions and staff are essential for the establishment of this team and the implementation of the management plan. As part of the future implementation of the management plan, it is necessary to develop conservation approaches based on best practice to avoid repeating some of the less fortunate techniques and methods used in the past."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "display": "(ii)(iii)(iv)(v)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2357.36,
+          "square_km": 23.57,
+          "square_miles": 9.54,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b5a0c5f4a3d9e0ac6884a1b8b16b94d3",
+          "filename": "site_1336_0004.jpg",
+          "dimensions": {
+            "width": 4416,
+            "height": 3312
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114975/site_1336_0004.jpg",
+            "https://whc.unesco.org/document/114991/site_1336_0012.jpg",
+            "https://whc.unesco.org/document/114968/site_1336_0001.jpg",
+            "https://whc.unesco.org/document/114970/site_1336_0002.jpg",
+            "https://whc.unesco.org/document/114973/site_1336_0003.jpg",
+            "https://whc.unesco.org/document/114977/site_1336_0005.jpg",
+            "https://whc.unesco.org/document/114979/site_1336_0006.jpg",
+            "https://whc.unesco.org/document/114981/site_1336_0007.jpg",
+            "https://whc.unesco.org/document/114983/site_1336_0008.jpg",
+            "https://whc.unesco.org/document/114985/site_1336_0009.jpg",
+            "https://whc.unesco.org/document/114987/site_1336_0010.jpg",
+            "https://whc.unesco.org/document/114989/site_1336_0011.jpg",
+            "https://whc.unesco.org/document/133566/site_1336_0013.jpg",
+            "https://whc.unesco.org/document/133568/site_1336_0015.jpg",
+            "https://whc.unesco.org/document/133569/site_1336_0016.jpg",
+            "https://whc.unesco.org/document/133577/site_1336_0019.jpg",
+            "https://whc.unesco.org/document/133583/site_1336_0021.jpg",
+            "https://whc.unesco.org/document/133585/site_1336_0022.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Naqa",
+            "ref": "1336-004",
+            "latitude": 16.2708333333,
+            "longitude": 33.2791666667
+          },
+          {
+            "name": "Meroe 1",
+            "ref": "1336-001",
+            "latitude": 16.9333333333,
+            "longitude": 33.7166666667
+          },
+          {
+            "name": "Meroe 2",
+            "ref": "1336-002",
+            "latitude": 16.9333333333,
+            "longitude": 33.75
+          },
+          {
+            "name": "Musawwarat es-Sufra",
+            "ref": "1336-003",
+            "latitude": 16.4166666667,
+            "longitude": 33.3333333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1336",
+        "unesco_documents": "https://whc.unesco.org/en/list/1336/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1336/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1336/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Archaeological Sites of the Island of Meroe The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D. The property consists of the royal city of the Kushite kings at Meroe, near the River Nile, the nearby religious site of Naqa and Musawwarat es Sufra. It was the seat of the rulers who occupied Egypt for close to a century and features, among other vestiges, pyramids, temples and domestic buildings as well as major installations connected to water management. Their vast empire extended from the Mediterranean to the heart of Africa, and the property testifies to the exchange between the art, architectures, religions and languages of both regions. The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D. The property consists of the royal city of the Kushite kings at Meroe, near the River Nile, the nearby religious site of Naqa and Musawwarat es Sufra. It was the seat of the rulers who occupied Egypt for close to a century and features, among other vestiges, pyramids, temples and domestic buildings as well as major installations connected to water management. Their vast empire extended from the Mediterranean to the heart of Africa, and the property testifies to the exchange between the art, architectures, religions and languages of both regions. Sudan Arab States Cultural"
+    },
+    {
+      "site_key": "sanganeb_marine_national_park_and_dungonab_bay_mukkawar_island_marine_national_park",
+      "uuid": "09cbeefd-bb95-5b53-8d2f-6c976cb813e9",
+      "unesco_id": "262",
+      "names": {
+        "en": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+        "fr": "Parc national marin de Sanganeb et Parc national marin de la baie de Dungonab – île de Mukkawar",
+        "es": "Parque Nacional Marino de Sanganeb y Parque Nacional Marino de la Bahía de Dungonab y la Isla de Mukkawar",
+        "ru": "Национальные морские заповедники «Санганеб» и «Бухта Дунгонаб – остров Мековар»",
+        "ar": "المحمية البحرية القومية لسنجانب والحديقة البحرية القومية لخليج جزيرة دنقناب في جزيرة مكوار",
+        "zh": "Sanganeb国家海洋公园和Dungonab海湾—Mukkawar岛国家海洋公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SDN": {
+            "name": "Sudan",
+            "iso2": "SD",
+            "iso3": "SDN"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs.",
+          "fr": "Le bien se compose de deux zones séparées : Sanganeb est une structure récifale corallienne isolée, située au centre de la mer Rouge dont elle est l’unique atoll, à 25 km au large du littoral du Soudan. Le deuxième élément du bien est constitué de la baie de Dungonab et de l’île de Mukkawar. Ces dernières sont situées à 125 km au nord de Port-Soudan, et comprennent un système très varié de récifs coralliens, de mangroves, d'herbiers marins, de plages et d'îlots. Le bien sert d’habitat à des populations d’oiseaux de mer, de mammifères marins, de poissons, de requins, de tortues et de raies manta. La baie de Dungonab abrite également une population d’importance mondiale de dugongs.",
+          "es": "В состав объекта, расположенного в восточной части Тихого океана, входят четыре изолированных острова (Сан-Бенедикто, Сокорро, Рока-Партида и Кларион) и окружающая их акватория. Этот архипелаг является частью подводной горной цепи, а входящие в него острова представляют вершины вулканов, выступающих над поверхностью моря. Эти острова служат важнейшим местом обитания многочисленных видов, особенно морских птиц, а окружающие воды характеризуются исключительным изобилием крупных пелагических видов, таких как манты, киты, дельфины и акулы.",
+          "ru": "Данный объект состоит из двух отдельных элементов. Первый - Санганеб – представляет собой изолированный коралловый риф в центре Красного моря. Он является единственным коралловым островом в его акватории и находится в 25 километрах от побережья Судана. Второй элемент включает бухту Дунгонаб и остров Мековар в 125 километрах к северу от Порт-Судана. Бухта и остров отличаются разнообразным ландшафтом, образованным коралловыми рифами, мангровыми лесами, зарослями водорослей, пляжами и мелкими островками. Данный объект является местом обитания морских птиц и млекопитающих, акул, других рыб, черепах и мант. В бухте Дунгонаб также обитает одна из крупнейших в мире популяций дюгоней.",
+          "ar": "يضم الموقع منطقتين منفصلتين. الأولى هي سنجانب والتي تعد تجمعا للشعاب المرجانيّة المعزولة ويقع وسط البحر الأحمر حيث يعد هذا الموقع الجزيرة المرجانية الوحيدة في هذا البحر على بعد 25 كم من السواحل السودانيّة. أما المنطقة الثانية فهي خليج جزيرة دنقاب وجزيرة مكوار. وتقع هاتان الجزيرتان على بعد 125 كم شمال مدينة بورسودان وفيهما مجموعة متنوّعة من الشعاب المرجانيّة ونباتات أيكة ساحلية والأعشاب البحريّة والشواطئ والجزر. ويقطن في هاتين المنطقتين مجموعة من الطيور والثديات البحرية بالإضافة إلى أسماك القرش وشيطان البحر والسلاحف. كما يعد خليج جزيرة دنقاب مسكناً مهمّاً لحيوان الأطوم البحري.",
+          "zh": "这片遗产地由两个独立单元构成，Sanganeb位于苏丹海岸以外25公里，是红海中部一座孤立的珊瑚礁和唯一的环状珊瑚岛；另外一部分是位于苏丹港北部125公里的Dungonab海湾和Mukkawar岛，这里有非常多样的珊瑚礁、红树林、海草床、沙滩和小岛构成的生态系统，为海鸟、海洋哺乳动物、鱼类、鲨鱼、海龟及巨蝠鲼提供了栖息地。全世界很大一部分儒艮都在Dungonab海湾栖息。"
+        },
+        "full": "The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs.",
+        "justification": "Brief synthesis The Sanganeb Marine National Park and the Dungonab Bay – Mukkawar Island Marine National Park are located in the northern part of the Red Sea. The property is a serial site and covers 260,700 ha with a buffer zone of 504,600 ha consisting of both marine and terrestrial areas. The property’s marine systems, fauna and flora are from an Indian Ocean origin, however, due to its semi-enclosed nature, it has developed unique and different ecosystems and species. The property contains impressive natural phenomena, reef formations and areas of great natural beauty and is relatively undisturbed. The two components of the property are connected by a coastal stretch extending 125 km including mersas, inlets, fringing reefs and off-shore reef formations, and the whole serial site is geologically and ecologically connected via the open flows that facilitate the exchange of biotic and abiotic elements within the marine ecosystems of the Red Sea. It encompasses a large bay that contains islands, several small islets and some of the most northerly coral reefs in the world associated with species (including seagrass and mangroves) at the limits of their global range and evolutionary expansion, which are therefore important from a scientific and conservation perspective. Sanganeb atoll is the only atoll-like feature in the Red Sea, and a submerged and overhanging predator dominated coral reef ecosystem. It consists of 13 different bio-physiographic reef zones, each providing typical coral reef assemblages, supporting a wealth of marine life and breathtaking underwater vistas, hosting over 300 fish species with numerous endemic and rare species. Besides providing important nurseries and spawning grounds for key species, it also hosts resident populations of dolphins, sharks and marine turtles, which use the atoll as a resting, breeding and feeding area. Dungonab Bay, including Mukkawar Island and other islands, contains an array of habitat types, such as extensive coral reef complexes, mangroves, seagrasses and intertidal and mudflat areas which all enable the survival (breeding, feeding and resting) of endangered dugong, sharks, manta rays, dolphins and migratory birds. Criterion (vii): Sanganeb is an isolated, atoll-shaped coral reef structure in the central Red Sea, 25 km off the shoreline of Sudan. Surrounded by 800 m deep water, the atoll-like coral reef systems are part of the northernmost coral reef systems in the world. Sanganeb is a largely pristine marine ecosystem providing some of the most impressive underwater vistas resulting from the very high diversity of physiographic zones and reefs characterized by an extraordinary structural complexity. Dungonab Bay and Mukkawar Island is situated 125 km north of Port Sudan and includes within its boundaries a highly diverse system of coral reefs, mangroves, seagrass beds, beaches, intertidal areas, islands and islets. The clear visibility of the water, coral diversity, marine species, pristine habitats and colourful coral reef communities create a striking land- and seascape. Criterion (ix): The property is located in an ecologically and globally outstanding region, the Red Sea, which is the world’s northernmost tropical sea, the warmest and most saline of the world´s seas, and is a Global 200 priority biogeographic region. The property is part of a larger transition area between northern and southern Red Sea biogeographic zones and contains diverse and mostly undisturbed habitats which are outstanding examples of the northernmost tropical coral reef system on earth. The property and its surrounding area include reef systems (13 different bio-physiographic reef zones in Sanganeb Marine National Park (SMNP)), the only atoll-like feature in the Red Sea, lagoons, islets, sand flats, seagrass beds, and mangrove habitats and display a diversity of reefs, from living reefs to ancient fossil reefs. These habitats are home to populations of seabirds (20 species), marine mammals (11 species), fish (300 species), corals (260 species), sharks, manta rays and marine turtles, and the site provides important feeding grounds for what is perhaps the most northerly population of endangered Dugong. SMNP is an important larvae source area and hosts spawning sites for commercial fish species. Criterion (x): Dungonab Bay – Mukkawar Marine National Park (DMNP) supports a globally significant dugong population, given that the Red Sea and the Persian Gulf host the last remaining healthy populations of this species in the Indian Ocean. The whale and manta ray seasonal aggregations in DMNP are unique to the entire Western Indian Ocean Region and the marine park is internationally recognized as an Important Bird Area for both resident and migratory birds. DMNP is also unique as a home to species from different biogeographic origins: both northern and southern Red Sea species. SMNP lies in a regional hotspot for reef fish endemism. The property supports a high level of representation of endemic species found in the Red Sea, including the richest diversity of coral west of India and a number of coral species which are at the limits of their global range. Integrity The property is an outstanding marine ecosystem that sustains intact ecological functions. It covers both shallow habitats and reef formations and deep-sea areas that are ecologically interacting by natural exchange. The property’s size is adequate to contain most of the attributes that convey Outstanding Universal Value and maintains a high level of intactness through long-term conservation of its biodiversity. Sanganeb atoll is relatively remote from land-based activities and the traditional artisanal fishing around it is under the control of the Fisheries Administration of Sudan. Dungonab Bay’s marine waters are protected by Wildlife Administration and Fisheries regulations. If these regulations are not promptly enforced, Dungonab Bay is likely to suffer negative impacts on the biota from the activities of the two villages at the coast, from major land use changes, salt exploitation, oyster farming, and potentially pearling. Species which are likely to be affected are coral and fish species, turtles, manta rays, sharks, dolphins, dugongs, and birds. The property has not shown any invasive or non-resident species as yet. Protection and management requirements The Government of Sudan has a legal commitment at both the National and State levels towards the protection and conservation of resources within its coastal waters through its comprehensive National Strategy. Several laws and regulations are in place and Sudan has signed regional and international protocols and conventions. Both SMNP (1990) and DMNP (2004) have been declared as marine protected areas by Presidential Decrees. Both are the responsibility of the Government of Sudan and various pieces of national legislation pertain to the property including the Federal Environmental Law (2001); State Environmental Law (2006); Wildlife Conservation and National Park Act (1987); National Parks, Sanctuaries and Reserves Regulation (1939); and the Game Protection and Federal Parks Act (1986). At the time of inscription, work to update the management plans for the two National Parks was underway and this needs to be urgently completed and such plans maintained in the long-term so that both protected areas have up-to-date comprehensive plans. There is, in addition, a need to develop and maintain in the long-term an integrated management framework to coordinate management for the serial site as a whole and thus complement the two individual management plans. The participation of local communities and other stakeholders is critical to the effective management of this large property. The management authority acknowledges the importance of monitoring the impacts of tourism on ecosystems and on local communities through the implementation of a Tourism Strategy. The property ecosystems remain relatively weakly affected by human activities. However, regional coastal development increased recently and reinforces the need to protect these landward and marine areas. The increase of activities from local residents and tourists could intensify pollution and direct damage on ecosystems such as anchor, boat and diving damage. In addition, coral communities could be affected by predators and by coral bleaching in response to climate change. Staffing, financial resources and on-ground management need to be increased in order to manage this very large nominated area and marine buffer zone. Commitments will be necessary to increase and sustain Government funding levels particularly in light of potential tourism use and possible impact."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 260700,
+          "square_km": 2607.0,
+          "square_miles": 1055.017,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5092ba9d362427294f0881fbe34f0c1d",
+          "filename": "site_0262_0001.jpg",
+          "dimensions": {
+            "width": 2280,
+            "height": 1440
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136071/site_0262_0001.jpg",
+            "https://whc.unesco.org/document/136074/site_0262_0004.jpg",
+            "https://whc.unesco.org/document/136078/site_0262_0008.jpg",
+            "https://whc.unesco.org/document/136072/site_0262_0002.jpg",
+            "https://whc.unesco.org/document/136073/site_0262_0003.jpg",
+            "https://whc.unesco.org/document/136075/site_0262_0005.jpg",
+            "https://whc.unesco.org/document/136076/site_0262_0006.jpg",
+            "https://whc.unesco.org/document/136077/site_0262_0007.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Sanganeb Marine National Park (SMNP)",
+            "ref": "262rev-001",
+            "latitude": 19.7361111111,
+            "longitude": 37.4430555556
+          },
+          {
+            "name": "Dungonab Bay-Mukkawar Island Marine National Park",
+            "ref": "262rev-002",
+            "latitude": 20.9372222222,
+            "longitude": 37.2552777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/262",
+        "unesco_documents": "https://whc.unesco.org/en/list/262/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/262/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/262/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs. The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs. Sudan Arab States Natural"
+    },
+    {
+      "site_key": "gebel_barkal_and_the_sites_of_the_napatan_region",
+      "uuid": "79138e24-15af-5248-a69b-d631bd010a71",
+      "unesco_id": "1073",
+      "names": {
+        "en": "Gebel Barkal and the Sites of the Napatan Region",
+        "fr": "Gebel Barkal et les sites de la région napatéenne",
+        "es": "Gebel Barkal y sitios de la región napatea",
+        "ru": "Священная скала Гебель-Баркал и археологические памятники в области Напатан",
+        "ar": "جبل البركل ومواقع المنطقة النوبية",
+        "zh": "博尔戈尔山和纳巴塔地区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SDN": {
+            "name": "Sudan",
+            "iso2": "SD",
+            "iso3": "SDN"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places.",
+          "fr": "Ces cinq sites archéologiques couvrent une région de plus de 60 kilomètres de long dans la vallée du Nil. Tous les sites sont de culture napatéenne (de 900 à 270 avant J.-C.) et méroïtique (de 270 avant J.-C. à 350 après J.-C.), de l’époque du second royaume de Kush. Les sites comprennent des tombeaux avec et sans pyramide, des temples, des bâtiments d’habitation et des palais. Depuis l’Antiquité, la colline de Gebel Barkal est demeurée intimement liée aux traditions religieuses et au folklore. Les temples majeurs y sont toujours considérés comme des lieux sacrés.",
+          "es": "Este sitio comprende cinco áreas arqueológicas que se extienden por el valle del Nilo, a lo largo de una zona de 60 km de longitud. Todas ellas datan de la época del segundo reino de Kush y son exponentes de las culturas napatea (900–270 a. C.) y meroítica (270 a. C.–350 d. C.). Los vestigios arqueológicos comprenden tumbas, con pirámides o sin ellas, templos, viviendas y palacios. El monte Barkal ha estado estrechamente vinculado a las tradiciones religiosas y el folclore de la población desde la Antigüedad. Hoy en día, los templos más importantes se siguen considerando lugares sagrados.",
+          "ru": "Пять археологических зон, растянувшихся более чем на 60 км по долине Нила, являются свидетельствами культур Напатан (900-270 гг. до н.э.) и Мероэ (270 г. до н.э. - 350 г. н.э.) второго царства Куш. Здесь можно увидеть гробницы, с пирамидами или без пирамид, храмы, жилые комплексы и дворцы. С античных времен холм Гебель-Баркал тесно связан с религиозными традициями и мифологией. Крупнейшие храмы все еще считаются местными жителями священными.",
+          "ar": "تشغل هذه المواقع الأثرية الخمسة مساحة يفوق طولها 60 كيلومتراً في وادي النيل. وتحمل هذه المواقع كلها آثار الثقافة النوبية (900 - 270 قبل الميلاد) والمروية (270 قبل الميلاد – 350 ميلادية) السائدتين في ظل دولة كوش الثانية. وتتضمن هذه المواقع قبوراً مزوّدة بأهرام أو مجرّدة منها، بالإضافة الى معابد وأبنية سكنية وقصور. ومنذ عصور ما قبل التاريخ، ارتبط جبل البركل ارتباطاً وثيقاً بالتقاليد الدينية والفولكلور، اما المعابد الأساسية فلا يزال ينظر إليها كأماكن ذات طابع ميتولوجي.",
+          "zh": "博尔戈尔山和纳巴塔地区的5个考古遗址，分布在尼罗河河谷方圆60多公里的区域内，是库施第二王国纳巴塔文化（公元前900年到公元前270年）和麦罗埃文化（公元前270年到公元350年）的历史见证。在这5个遗址中，考古学家还发现了大量带有或不带有金字塔的陵墓、庙宇、居住区和宫殿等建筑物。博尔戈尔山自古就与宗教传统和当地民俗紧密相连。在当地人看来，博尔戈尔山最大的庙宇群至今仍然是极为神圣的地方。"
+        },
+        "full": "These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places.",
+        "justification": "Brief synthesis Gebel Barkal and the Sites of the Napatan Region comprise five archaeological sites on both sides of the Nile in an arid area considered part of Nubia. Together they cover an area more than 60 km long. The sites (Gebel Barkal, Kurru, Nuri, Sanam and Zuma) represent the Napatan (900 - 270 BC) and Meroitic (270 BC - 350 AD) cultures of the second kingdom of Kush. They include tombs, with and without pyramids, temples, burial mounds and chambers, living complexes and palaces. They exhibit an architectural tradition that shaped the political, religious, social and artistic scene of the Middle and Northern Nile Valley for more than 2000 years (1500 BC- 6th Century AD). The pyramids, tombs, temples, palaces, burial mounds and funerary chambers set in the desert border landscape on the banks of the Nile, are unique in their typology and technique. The remains, with their art and inscriptions, are testimony to a great ancient culture that existed and flourished only in this region. Gebel Barkal has been a sacred mountain since New Kingdom times (ca. 1500 BC). The Egyptians believed that their State God Amon resided in this Holy Mountain. Today, the mountain is locally named (Gebel Wad el-Karsani) after a Muslim sheikh (saint) buried near the 100m high, flat-topped sandstone rock. The mountain is closely associated with religious traditions, since the tomb of this sheikh is still being visited by the local people for blessings. Criterion (i): The pyramids, palaces, temples, burial chambers and funerary chapels of Gebel Barkal and the Sites of the Napatan Region and their related relief, writings and painted scenes on walls represent a masterpiece of creative genius demonstrating the artistic, social, political and religious values of a human group for more than 2000 years. The corbel vaults of the tombs of Kurru constitute a new building technique which influenced Mediterranean architecture from the 7th Century BC onwards. Criterion (ii): In terms of their architecture the sites of the Napatan Region testify to the revival of a once almost universal religion and related language: the Egyptian old script and the worship of the State God Amon. Criterion (iii): Gebel Barkal and the other sites of the property bear an exceptional witness of the Napato-Meroitic (Kushite) civilization that prevailed in the Nile Valley from the 9th Century BC to the Christianization of the country in the 6th Century. This civilization had strong links to the northern Pharaonic and other African cultures. Criterion (iv): The typology of the buildings, their details and the layout of the ensemble of the pyramids of Gebel Barkal, Nuri and Kurru with their steep angles and decorated sides, together with the painted rock-cut burial chambers, represent an outstanding example of funerary architecture and distinctive art that prevailed over a long period of time (9th Century BC- 4th Century AD). The mounds of Zuma represent a continuation of some aspects of this burial tradition up to the 6th Century AD. Criterion (vi): Since antiquity the hill of Gebel Barkal has been strongly associated with religious traditions and local folklore. For this reason, the largest temples (Amon Temple for example) were built at the foot of the hill and are still considered by the local people as sacred places. Integrity (2009) The building materials and shapes of the pyramids, palaces, temples, burial chambers and funerary chapels have not been altered or modified. The relief, writings and painted scenes have equally preserved their original design, texture and color. The high degree of intactness of the attributes expressing Outstanding Universal Value gives the serial site's great integrity. The archaeological buildings are only very slightly affected by modern urban extensions. However, careful monitoring of the developments around the property needs to be carried out, especially urban extension on the Desert side. Authenticity (2009) The five sites are located in an exceptional river and semi-desert landscape almost untouched by modern development. Most of the pyramids of Gebel Barkal are still preserved in their original shape and height. The relief and paintings on the walls of temples and burial chambers are equally well preserved. Even the monuments affected by the action of nature and man still demonstrate the original pattern of human occupation of the territory. The limited inadequate restoration interventions of the last century are easy to remove and replace by others according to modern scientific standards. The material remains, such as the inscriptions (Mut Temple) and the paintings (Kurru), express the revival of a once almost universal religion and related language: the Egyptian old script and the worship of the State God Amon. The scene preserved inside the rock-cut temple dedicated to the Goddess Mut and representing King Taharqa worshiping God Amon seated inside the flat topped mountain testifies to the sacred nature of this mountain. The site is connected with the greatest Kings of the Middle Nile Region, whose political power extended up to the Egyptian Delta and Palestine. One of their famous rulers, Taharqa, is the only Sudanese sovereign mentioned by name in the Old Testament. All these attributes in terms of design, materials, art, inscriptions, location and setting express the Outstanding Universal Value of the property. Protection and management requirements (2009) The property is protected by the Antiquities Protection Ordinance of 1905, amended in 1952 and recently in 1999. A Management Council has been established and a resident site manager has been appointed. He is assisted by a group of technicians. A management plan was prepared in 2007 and approved in 2009. This plan still needs to be fully implemented. The sites are guarded by a military force from the Police of Tourism and Antiquities. Detailed topographic maps have been prepared showing clearly the boundaries of the property. A buffer zone which would provide a better protection to the property is still to be established on the five components of the property. This buffer zone is only partially established. A consultant company is preparing the design and cost for the fencing and basic infrastructure on the sites. A museum for the history of the region has been established within the compound of a tourist village at Sanam in cooperation with a local investor. The Management Council will attract foreign partners to contribute to the ongoing efforts for the preservation of the archaeological heritage of the sites. There is still a considerable potential for research on the five components of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "display": "(i)(ii)(iii)(iv)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 182.5,
+          "square_km": 1.82,
+          "square_miles": 0.739,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f2c4eefa8f0fe07cce9d2f10ba647737",
+          "filename": "site_1073_0001-500-0-20151104124949.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 329
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114657/site_1073_0001.jpg",
+            "https://whc.unesco.org/document/114660/site_1073_0002.jpg",
+            "https://whc.unesco.org/document/114662/site_1073_0003.jpg",
+            "https://whc.unesco.org/document/114664/site_1073_0004.jpg",
+            "https://whc.unesco.org/document/114666/site_1073_0005.jpg",
+            "https://whc.unesco.org/document/114668/site_1073_0006.jpg",
+            "https://whc.unesco.org/document/114670/site_1073_0007.jpg",
+            "https://whc.unesco.org/document/114672/site_1073_0008.jpg",
+            "https://whc.unesco.org/document/114675/site_1073_0009.jpg",
+            "https://whc.unesco.org/document/114677/site_1073_0010.jpg",
+            "https://whc.unesco.org/document/114679/site_1073_0011.jpg",
+            "https://whc.unesco.org/document/114681/site_1073_0012.jpg",
+            "https://whc.unesco.org/document/114686/site_1073_0014.jpg",
+            "https://whc.unesco.org/document/114688/site_1073_0015.jpg",
+            "https://whc.unesco.org/document/114690/site_1073_0016.jpg",
+            "https://whc.unesco.org/document/114692/site_1073_0017.jpg",
+            "https://whc.unesco.org/document/114694/site_1073_0018.jpg",
+            "https://whc.unesco.org/document/114696/site_1073_0019.jpg",
+            "https://whc.unesco.org/document/114699/site_1073_0020.jpg",
+            "https://whc.unesco.org/document/114701/site_1073_0021.jpg",
+            "https://whc.unesco.org/document/114703/site_1073_0022.jpg",
+            "https://whc.unesco.org/document/114705/site_1073_0023.jpg",
+            "https://whc.unesco.org/document/114706/site_1073_0024.jpg",
+            "https://whc.unesco.org/document/114708/site_1073_0025.jpg",
+            "https://whc.unesco.org/document/114710/site_1073_0026.jpg",
+            "https://whc.unesco.org/document/114712/site_1073_0027.jpg",
+            "https://whc.unesco.org/document/114714/site_1073_0028.jpg",
+            "https://whc.unesco.org/document/114716/site_1073_0029.jpg",
+            "https://whc.unesco.org/document/114718/site_1073_0030.jpg",
+            "https://whc.unesco.org/document/133552/site_1073_0031.jpg",
+            "https://whc.unesco.org/document/133556/site_1073_0034.jpg",
+            "https://whc.unesco.org/document/133562/site_1073_0037.jpg",
+            "https://whc.unesco.org/document/133564/site_1073_0039.jpg"
+          ],
+          "count": 33
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Nuri",
+            "ref": "1073-003",
+            "latitude": 18.5638888889,
+            "longitude": 31.9166666667
+          },
+          {
+            "name": "Zuma",
+            "ref": "1073-005",
+            "latitude": 18.37,
+            "longitude": 31.7411111111
+          },
+          {
+            "name": "Sanam",
+            "ref": "1073-004",
+            "latitude": 18.4822222222,
+            "longitude": 31.8188888889
+          },
+          {
+            "name": "El-Kurru",
+            "ref": "1073-002",
+            "latitude": 18.41,
+            "longitude": 31.7713888889
+          },
+          {
+            "name": "Gebel Barkal",
+            "ref": "1073-001",
+            "latitude": 18.537,
+            "longitude": 31.8280277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1073",
+        "unesco_documents": "https://whc.unesco.org/en/list/1073/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1073/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1073/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Gebel Barkal and the Sites of the Napatan Region These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places. These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places. Sudan Arab States Cultural"
+    }
+  ]
+}

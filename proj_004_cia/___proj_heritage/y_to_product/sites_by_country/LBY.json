@@ -1,0 +1,901 @@
+{
+  "country": {
+    "code": "LBY",
+    "name": "Libya"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 4,
+  "sites": [
+    {
+      "site_key": "archaeological_site_of_cyrene",
+      "uuid": "edfa8770-71dc-5c5b-a683-48c8b3e7a975",
+      "unesco_id": "190",
+      "names": {
+        "en": "Archaeological Site of Cyrene",
+        "fr": "Site archéologique de Cyrène",
+        "es": "Sitio arqueológico de Cirene",
+        "ru": "Археологические памятники Кирены",
+        "ar": "موقع شحات (قورينة) الأثري",
+        "zh": "昔兰尼考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LBY": {
+            "name": "Libya",
+            "iso2": "LY",
+            "iso3": "LBY"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+          "fr": "Colonie des Grecs de Théra, Cyrène fut l'une des principales villes du monde hellénique. Romanisée, elle resta une grande capitale jusqu'au tremblement de terre de 365. Un millénaire d'histoire est inscrit dans ses ruines, célèbres depuis le XVIIIe siècle.",
+          "es": "Colonia de los griegos de Thera, Cirene fue una de las principales ciudades del mundo helénico. Posteriormente romanizada, continuó siendo una gran ciudad hasta el terremoto sobrevenido el año 365. En sus ruinas, célebres desde el siglo XVIII, está escrito un milenio de historia.",
+          "ru": "Основанная как колония греками-выходцами из Тиры, Кирена была одним из главных городов древнегреческого мира. Она перешла к древним римлянам и оставалась столичным городом до землетрясения 365 г. В ее руинах, обнаруженных в ХVIII в., отражается история целого тысячелетия.",
+          "ar": "موقع شحات (قورينة) الأثري كانت شحات مستعمرة للإغريق في جزيرة ثيرا وكانت إحدى مدن العالم الهلّيني الأساسية. وإذ تحولت إلى مدينة رومانية ظلت عاصمة كبيرة حتى زلزال العام 365. وفي ثنايا آثارها التي اشتهرت منذ القرن الثامن عشر يختبئ ألف عام من التاريخ.",
+          "zh": "昔兰尼是锡拉岛希腊人的殖民地，是希腊最主要的城市之一，当时已经罗马化。公元365年发生地震之前，它一直都是一个强大繁荣的都市。现在，这片废墟自18世纪以来一直都很有名，它向人们展示着昔兰尼几千年的历史。"
+        },
+        "full": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 131.675,
+          "square_km": 1.32,
+          "square_miles": 0.533,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6eff8770be7ac74c7b7173fd639ccfce",
+          "filename": "site_0190_0001.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109021/site_0190_0001.jpg",
+            "https://whc.unesco.org/document/109022/site_0190_0002.jpg",
+            "https://whc.unesco.org/document/109023/site_0190_0003.jpg",
+            "https://whc.unesco.org/document/109024/site_0190_0004.jpg",
+            "https://whc.unesco.org/document/109025/site_0190_0005.jpg",
+            "https://whc.unesco.org/document/109026/site_0190_0006.jpg",
+            "https://whc.unesco.org/document/109027/site_0190_0007.jpg",
+            "https://whc.unesco.org/document/109028/site_0190_0008.jpg",
+            "https://whc.unesco.org/document/109029/site_0190_0009.jpg",
+            "https://whc.unesco.org/document/109030/site_0190_0010.jpg",
+            "https://whc.unesco.org/document/109031/site_0190_0011.jpg",
+            "https://whc.unesco.org/document/109032/site_0190_0012.jpg",
+            "https://whc.unesco.org/document/109033/site_0190_0014.jpg",
+            "https://whc.unesco.org/document/109034/site_0190_0015.jpg",
+            "https://whc.unesco.org/document/109035/site_0190_0016.jpg",
+            "https://whc.unesco.org/document/109036/site_0190_0017.jpg",
+            "https://whc.unesco.org/document/109037/site_0190_0018.jpg",
+            "https://whc.unesco.org/document/125217/site_0190_0020.jpg",
+            "https://whc.unesco.org/document/125218/site_0190_0021.jpg",
+            "https://whc.unesco.org/document/125219/site_0190_0022.jpg",
+            "https://whc.unesco.org/document/125220/site_0190_0023.jpg",
+            "https://whc.unesco.org/document/125222/site_0190_0025.jpg",
+            "https://whc.unesco.org/document/125224/site_0190_0027.jpg",
+            "https://whc.unesco.org/document/125225/site_0190_0028.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Archaeological Site of Cyrene",
+            "ref": "190",
+            "latitude": 32.825,
+            "longitude": 21.85833
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/190",
+        "unesco_documents": "https://whc.unesco.org/en/list/190/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/190/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/190/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Archaeological Site of Cyrene A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century. A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century. Libya Arab States Cultural"
+    },
+    {
+      "site_key": "rock_art_sites_of_tadrart_acacus",
+      "uuid": "c7f5e6eb-7344-553e-a535-b1ecd14bbf83",
+      "unesco_id": "287",
+      "names": {
+        "en": "Rock-Art Sites of Tadrart Acacus",
+        "fr": "Sites rupestres du Tadrart Acacus",
+        "es": "Sitio rupestre de Tadrart Acacus",
+        "ru": "Наскальная живопись в горах Тадрарт-Акакус",
+        "ar": "مواقع تادرارت أكاكوس الصخرية",
+        "zh": "塔德拉尔特•阿卡库斯石窟"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LBY": {
+            "name": "Libya",
+            "iso2": "LY",
+            "iso3": "LBY"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this rocky massif has thousands of cave paintings in very different styles, dating from 12,000 B.C. to A.D. 100. They reflect marked changes in the fauna and flora, and also the different ways of life of the populations that succeeded one another in this region of the Sahara.",
+          "fr": "À la frontière du Tassili n'Ajjer algérien, également site du patrimoine mondial, ce massif rocheux est riche de milliers de peintures rupestres de styles très différents dont les plus anciennes remontent à 12 000 ans environ av. J.-C., les plus récentes pouvant être datées du Ier siècle de l'ère chrétienne. Ces peintures reflètent les modifications profondes de la faune et de la flore, ainsi que les divers modes de vie des populations qui se sont succédé dans cette partie du Sahara.",
+          "es": "Colindante con el sitio argelino de Tasili n’Ajer, también inscrito en la Lista de Patrimonio Mundial, este macizo rocoso encierra miles de pinturas rupestres de diferentes estilos. Las primeras se remontan a 12.000 años antes de nuestra era y las más recientes datan del siglo I d.C. Esas pinturas muestran las considerables modificaciones experimentadas por la fauna y la flora a lo largo de ese periodo de más de 120 siglos, así como las distintas formas de vida de las poblaciones que se asentaron sucesivamente en esta región del Sahara.",
+          "ru": "Соседствуя с плато Тассилин-Аджер в Алжире, также объектом всемирного наследия, этот скальный массив обладает тысячами пещерных росписей самых разных стилей, относящихся к периоду от 12 тыс. лет до н.э. до 100 г. н.э. Они отражают важные изменения, произошедшие с фауной и флорой, а также различия в образе жизни народов, сменявших друг друга в этой части Сахары.",
+          "ar": "على حدود طاسيلي ناجر الجزائرية، وهي أيضًا موقع مدرج على قائمة التراث العالمي، يقع هذا المرتفع الصخري الغني بآلاف الرسوم الصخرية ذات الأساليب المختلفة كليًا والتي يعود أقدمها إلى 21 ألف عام ق.م. تقريبًا، ويمكن اعتبار أن أحدثها يرقى إلى القرن الأول ميلادي. وتعكس هذه الرسوم التعديلات العميقة التي طرأت على الثروة الحيوانية والنباتية وكذلك أنماط الحياة المتنوعة للشعوب التي تتالت على خذا الجزء من الصحراء الكبرى.",
+          "zh": "塔德拉尔特•阿卡库斯石窟也是一个世界遗产遗址，位于阿尔及利亚阿杰尔的塔西里边境上。这座石山有数千种不同风格的壁画，时间可以追溯到公元前12 000年至公元100年。 这些壁画表现了动植物的明显变化以及撒哈拉地区每代人生活的不同方式。"
+        },
+        "full": "On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this rocky massif has thousands of cave paintings in very different styles, dating from 12,000 B.C. to A.D. 100. They reflect marked changes in the fauna and flora, and also the different ways of life of the populations that succeeded one another in this region of the Sahara.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3923961,
+          "square_km": 39239.61,
+          "square_miles": 15879.731,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/09b7756311a35ab73164aaa2af5e0f80",
+          "filename": "site_0287_0002.jpg",
+          "dimensions": {
+            "width": 1364,
+            "height": 1377
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109792/site_0287_0002.jpg",
+            "https://whc.unesco.org/document/109794/site_0287_0003.jpg",
+            "https://whc.unesco.org/document/109796/site_0287_0004.jpg",
+            "https://whc.unesco.org/document/109798/site_0287_0005.jpg",
+            "https://whc.unesco.org/document/109800/site_0287_0006.jpg",
+            "https://whc.unesco.org/document/109802/site_0287_0007.jpg",
+            "https://whc.unesco.org/document/109804/site_0287_0008.jpg",
+            "https://whc.unesco.org/document/109806/site_0287_0009.jpg",
+            "https://whc.unesco.org/document/109808/site_0287_0010.jpg",
+            "https://whc.unesco.org/document/109810/site_0287_0011.jpg",
+            "https://whc.unesco.org/document/109812/site_0287_0012.jpg",
+            "https://whc.unesco.org/document/109814/site_0287_0013.jpg",
+            "https://whc.unesco.org/document/109816/site_0287_0015.jpg",
+            "https://whc.unesco.org/document/109818/site_0287_0016.jpg",
+            "https://whc.unesco.org/document/109820/site_0287_0017.jpg",
+            "https://whc.unesco.org/document/109824/site_0287_0020.jpg",
+            "https://whc.unesco.org/document/109826/site_0287_0021.jpg",
+            "https://whc.unesco.org/document/109829/site_0287_0023.jpg",
+            "https://whc.unesco.org/document/109831/site_0287_0024.jpg",
+            "https://whc.unesco.org/document/109832/site_0287_0025.jpg",
+            "https://whc.unesco.org/document/109835/site_0287_0026.jpg",
+            "https://whc.unesco.org/document/109837/site_0287_0027.jpg",
+            "https://whc.unesco.org/document/109839/site_0287_0028.jpg",
+            "https://whc.unesco.org/document/109840/site_0287_0029.jpg",
+            "https://whc.unesco.org/document/109842/site_0287_0030.jpg",
+            "https://whc.unesco.org/document/109844/site_0287_0031.jpg"
+          ],
+          "count": 26
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Rock-Art Sites of Tadrart Acacus",
+            "ref": "287",
+            "latitude": 24.83333,
+            "longitude": 10.33333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/287",
+        "unesco_documents": "https://whc.unesco.org/en/list/287/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/287/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/287/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rock-Art Sites of Tadrart Acacus On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this rocky massif has thousands of cave paintings in very different styles, dating from 12,000 B.C. to A.D. 100. They reflect marked changes in the fauna and flora, and also the different ways of life of the populations that succeeded one another in this region of the Sahara. On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this rocky massif has thousands of cave paintings in very different styles, dating from 12,000 B.C. to A.D. 100. They reflect marked changes in the fauna and flora, and also the different ways of life of the populations that succeeded one another in this region of the Sahara. Libya Arab States Cultural"
+    },
+    {
+      "site_key": "old_town_of_ghadames",
+      "uuid": "afe87985-79f8-5f79-9975-20ebec5bb083",
+      "unesco_id": "362",
+      "names": {
+        "en": "Old Town of Ghadamès",
+        "fr": "Ancienne ville de Ghadamès",
+        "es": "Ciudad vieja de Ghadames",
+        "ru": "Старый город в Гадамесе",
+        "ar": "مدينة غدامس القديمة",
+        "zh": "加达梅斯古镇"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LBY": {
+            "name": "Libya",
+            "iso2": "LY",
+            "iso3": "LBY"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women.",
+          "fr": "Bâtie dans une oasis, Ghadamès, « la perle du désert », est une des plus anciennes cités présahariennes et un exemple exceptionnel d'habitat traditionnel. Son architecture domestique se caractérise par les différentes fonctions assignées à chaque niveau : rez-de-chaussée servant de réserve à provisions, étage familial surplombant des passages couverts aveugles qui permettent une circulation presque souterraine dans la ville et terrasses à ciel ouvert réservées aux femmes.",
+          "es": "Construida en un oasis, Ghadames, “la perla del desierto”, es una de las más antiguas ciudades presaharianas y constituye un ejemplo notable de asentamiento humano tradicional. El reparto de funciones por planta es característico de su arquitectura doméstica: la planta baja sirve de almacén de provisiones; la planta superior cumple la función de vivienda familiar; y, por último, las terrazas a cielo abierto están reservadas a las mujeres. La planta superior domina una red de pasadizos cubiertos, sin luz, que permiten circular de forma prácticamente subterránea por toda la ciudad.",
+          "ru": "Гадамес - «жемчужина пустыни» - находится в оазисе. Это один из старейших городов на границе Сахары и выдающийся пример традиционного поселения. Его жилая архитектура характерна разделением функций по вертикали: первый этаж используется для складирования запасов, следующий этаж, нависающий над уличными проходами и создающий этим нечто похожее на сеть подземных пешеходных путей – для жизни семьи, наконец, наверху находится открытая терраса, предназначенная для женщин.",
+          "ar": "بنيت غدامس في واحة وسميت لؤلؤة الصحراء وهي إحدى أقدم المدن التي قامت في حقبة ما قبل الصحراء وخير مثال على الموئل التقليدي. وتتميز هندستها المنزلية بتوزيعها الوظائف المختلفة على مختلف الطبقات: الطبقة الأرضية لتخزين المؤونة، والطبقة العائلية تشرف على ممرات مسقوفة مموهة تسمح بتنقل تحت الأرض تقريبًا في المدينة وشرفات مكشوفة مخصصة للنساء.",
+          "zh": "加达梅斯古镇建在沙漠绿洲上，历来以“沙漠之珠”著称，是撒哈拉北部边缘最古老的城市之一，同时也是传统聚集地的典范。那里，家庭建筑的突出特点是每一层都有不同的作用：底层储备给养，在漆黑封闭的过道上面另外突出的一层供家人生活居住，而顶层露天的平台是专为妇女准备的。"
+        },
+        "full": "Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women.",
+        "justification": "Brief synthesis The Old Town of Ghadamès is an exceptional example of desert urban settlement and architecture demonstrating the extraordinary human response to living in an incredibly harsh environment. Located in the pre-Sahara between the Great Erg sand sea and the Al Hamada el-Hamra stone plateau, the settlement is constructed around the Ain al-Faras spring (locally called ghusuf). The old town’s circular shape, the layout of its built fabric, and the design of its buildings have been determined by climatic conditions and by the management of its water, and are interwoven with the surrounding palm groves. The urban ensemble is protected by the reinforced outer walls of the houses. These features together mitigate the impact of the arid climate and meet the particular socio-cultural needs of the inhabitants. Ghadamès is one of the oldest and most celebrated Saharan cities, called the ‘Pearl of the Desert’, (Jawhart Al-Sahra) by Arab sources. It has played a key role in the cultural and economic life of the region as an important and peaceful hub for caravan trade as part of the trans-Saharan network. From at least the late first millennium BCE it was occupied by indigenous peoples, called the Phazanii, and has been a point of interchange between major cultures and religions from the Garamantes and Romans who called it Cydamae, the Byzantines, Christianity, the Islamic conquest, Ottoman control, visits by European explorers in the 19th century and subsequent interventions during the colonial period and WWII. Throughout, it has maintained its own particular customs and practices. Around Old Town of Ghadamès, archaeological remains in stone, including Roman- period defences and the largest mausolea in the region, attest to the importance, wealth and status of the early occupants. Meanwhile, within the property, the surprising urban structure, and the medieval traditions of mud architecture and handicrafts survive intact to the present day. The outstanding system of dwellings, mostly built over two storeys, give privacy and movement to women via the terraces above them, while public mostly covered spaces below afford meeting places for men and children. The city’s history and society have been shaped by the environment and the harmony between them remains central to its unique character and continuous survival. The complex balance between natural, urban and architectural features within this ecological system makes the settlement increasingly vulnerable to changes to the water supply, humidity, temperature, agriculture, built environment and population size. Criterion (v): Ghadamès is an outstanding settlement in the Saharan pre-desert renowned for its exceptional built heritage, erected thanks to long-lasting traditional practices resulting from the particular demands of the harsh climate. For at least 2,000 years, the city has played an important role in the trans-Saharan trade network. It has been a crossroads for the major cultures of the African continent and the Mediterranean basin, while also developing its own unique architecture and traditions related to its historic origins and subsequent interactions. The dwellings are outstanding in their design, combining form and function to create comfortable living spaces which allow gender segregation and privacy as well as communication beyond the household, in addition to protection from the desert winds and the thermal fluctuations typical of the desert climate. The balance between the inhabitants and the environment has been fundamental to the development of the city’s unique urban character, but is also an important factor in its vulnerability to human and climatic change. Integrity The city has been continuously inhabited attesting to its long historical integrity. A balanced environmental system has been maintained between the built fabric, water system and palm groves. The significant architectural structures and attributes, as well as the original urban layout, have been retained. Alongside important archaeological remains, it’s historical, cultural, architectural, and functional integrity survives to date. The water system has been restored over time but still functions and continues to be managed by the local community following a unique social system recorded in manuscripts. The necessary balance within the urban organisation as a whole makes the settlement vulnerable to human and climatic change, and requires regular maintenance. The architectural nature of the settlement, including its streets, public squares, mosques, open spaces and orchards, remains the same, even the parts of the outer wall circuit which have been restored. The architectural elements, such as openings, gates, and entrances, are often decorated with unique motifs and fittings. The building materials are recycled, facilitating maintenance and restoration. The integrity of the intangible attributes associated with the city’s traditional crafts and cultural practices has been maintained by conserving the original construction system unique to the urban settlement: stone foundations for mud brick walls, woodwork, masonry and palm wood casings. The liming of the walls inside and across large outdoor spaces brightens them and highlights the distinctive and intricate, incised and painted decorative patterns. Despite recent impacts from a fire event and heavy rains, altogether the outstanding attributes of this settlement retain sufficient integrity. Authenticity The Old Town of Ghadamès has maintained a high level of authenticity by not making changes to the design, materials and workmanship of its buildings, and preserving the balanced environmental system. This results from an awareness of the Ghadamès community of the urban and architectural value of the city and the importance of the continuity of its cultural traditions, which continues to influence the design of modern housing outside of the historic city. The settlement’s originality lies in its attributes which preserve the Outstanding Universal Value in terms of space and setting, form and design, material and essence, use and function, craft traditions and techniques, language and other forms of intangible heritage. Although no resident dwells permanently in the Old Town of Ghadamès, the city’s inhabitants continue to gather and use the houses and spaces of the old town. The historic fabric retains its form shaped by the combination of unique architectural structures, which consist of compact domestic roofs with high parapets, and covered streets and alleys, both with regular roof openings (tinawt / klava), creating an upper level of terraces reserved for women and children. The use of traditional construction techniques (mud bricks, palm trunks and other traditional building materials) continues in present-day maintenance thereby preserving historic methods and the form and function of the fabric. Local intangible attributes are manifested in cultural practices, traditional construction techniques of mud brick, the water management system following a socially-led organisation of the neighbourhoods, and a strong sense of place and identity. These have been retained throughout the evolution of the city as a sub-Saharan crossroads during Roman, Byzantine, early Islamic and Ottoman periods through to colonial times and its current status as a modern city in the Libyan Desert. An invaluable manuscript tradition represents a precious source of information and attests to Ghadamès’ history and management. Protection and management requirements Measures to protect and manage the Old Town of Ghadamès have been established and are being implemented. To guarantee effective protection, the immediate and wider setting needs to be understood and protected. The old town, including all of its individual monuments, archaeological sites, and natural and cultural heritage, is legally protected and assured by the community of Ghadamès through the provisions of Law No. 3/1994 and its Executive regulations/1995 issued by the General People’s Congress. Effective protection is guaranteed through collaboration between the local authority, the development partners and the Department of Antiquities, the Urban Planning Department, local City Council, civil society associations and the Tourist Police, and the Committee for Management, Implementation of the Conservation and preservation strategy of the five Libyan World Heritage properties. Since 2000, international collaborations and local coordination committees have been established to maintain and conserve the historic fabric. This management system is reinforced by a ten-year management plan, which caters to several key issues in relation to the property including the safeguarding of traditional construction techniques and the potential impact of climate change. Proactive and planned maintenance of the historic water system was initiated in 2008 and is crucial to sustain the Outstanding Universal Value. Natural and human-driven risks include heavy rains and fire: these require management through ad-hoc risk-management and prevention systems."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 287.59,
+          "square_km": 2.88,
+          "square_miles": 1.164,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1724257535d920ffd093348c393124bf",
+          "filename": "site_0362_0001-500-0-20250120125301.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 750
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110803/site_0362_0001.jpg",
+            "https://whc.unesco.org/document/110811/site_0362_0005.jpg",
+            "https://whc.unesco.org/document/110804/site_0362_0002.jpg",
+            "https://whc.unesco.org/document/110807/site_0362_0003.jpg",
+            "https://whc.unesco.org/document/110808/site_0362_0004.jpg",
+            "https://whc.unesco.org/document/110813/site_0362_0006.jpg",
+            "https://whc.unesco.org/document/110815/site_0362_0007.jpg",
+            "https://whc.unesco.org/document/110817/site_0362_0008.jpg",
+            "https://whc.unesco.org/document/110819/site_0362_0009.jpg",
+            "https://whc.unesco.org/document/110821/site_0362_0010.jpg",
+            "https://whc.unesco.org/document/110823/site_0362_0011.jpg",
+            "https://whc.unesco.org/document/110825/site_0362_0012.jpg",
+            "https://whc.unesco.org/document/110827/site_0362_0013.jpg",
+            "https://whc.unesco.org/document/110829/site_0362_0014.jpg",
+            "https://whc.unesco.org/document/110831/site_0362_0015.jpg",
+            "https://whc.unesco.org/document/110833/site_0362_0016.jpg",
+            "https://whc.unesco.org/document/110835/site_0362_0017.jpg",
+            "https://whc.unesco.org/document/110837/site_0362_0018.jpg",
+            "https://whc.unesco.org/document/110839/site_0362_0019.jpg",
+            "https://whc.unesco.org/document/110841/site_0362_0020.jpg",
+            "https://whc.unesco.org/document/110843/site_0362_0021.jpg",
+            "https://whc.unesco.org/document/110845/site_0362_0022.jpg",
+            "https://whc.unesco.org/document/110847/site_0362_0023.jpg",
+            "https://whc.unesco.org/document/110849/site_0362_0024.jpg",
+            "https://whc.unesco.org/document/110851/site_0362_0025.jpg",
+            "https://whc.unesco.org/document/110853/site_0362_0026.jpg",
+            "https://whc.unesco.org/document/110855/site_0362_0027.jpg",
+            "https://whc.unesco.org/document/110857/site_0362_0028.jpg",
+            "https://whc.unesco.org/document/125441/site_0362_0030.jpg",
+            "https://whc.unesco.org/document/125442/site_0362_0031.jpg",
+            "https://whc.unesco.org/document/125443/site_0362_0032.jpg",
+            "https://whc.unesco.org/document/125444/site_0362_0033.jpg",
+            "https://whc.unesco.org/document/125445/site_0362_0034.jpg",
+            "https://whc.unesco.org/document/125446/site_0362_0035.jpg",
+            "https://whc.unesco.org/document/125447/site_0362_0036.jpg",
+            "https://whc.unesco.org/document/125448/site_0362_0037.jpg"
+          ],
+          "count": 36
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Old Town of Ghadamès",
+            "ref": "362bis",
+            "latitude": 30.13333333,
+            "longitude": 9.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/362",
+        "unesco_documents": "https://whc.unesco.org/en/list/362/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/362/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/362/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Town of Ghadamès Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women. Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women. Libya Arab States Cultural"
+    },
+    {
+      "site_key": "archaeological_site_of_sabratha",
+      "uuid": "c9dc1f14-1bd2-5745-915c-a7eb9a0e9f41",
+      "unesco_id": "184",
+      "names": {
+        "en": "Archaeological Site of Sabratha",
+        "fr": "Site archéologique de Sabratha",
+        "es": "Sitio arqueológico de Sabratha",
+        "ru": "Археологические памятники Сабраты",
+        "ar": "موقع سبراطة الأثري",
+        "zh": "萨布拉塔考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LBY": {
+            "name": "Libya",
+            "iso2": "LY",
+            "iso3": "LBY"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D.",
+          "fr": "Comptoir phénicien drainant les produits de l'Afrique intérieure, Sabratha fit partie de l'éphémère royaume numide de Massinissa avant d'être romanisée et reconstruite aux IIe et IIIe siècles.",
+          "es": "Factoría fenicia a la que confluían los productos del interior del continente africano, Sabratha formó parte del efímero reino númida de Masinisa, antes de ser romanizada y reconstruida en los siglos II y III de nuestra era.",
+          "ru": "Сабрата - финикийская торговая фактория, которая служила для вывоза товаров из глубины Африки, - входила в состав недолговечного Нумидийского царства Массиниссы, а в II-III вв. была перестроена древними римлянами.",
+          "ar": "كانت سبراطة مركزًا تجاريًا فينيقيًا لمرور منتجات أفريقيا الداخلية وشكلت جزءًا من المملكة النوميدية الزائلة في ماسّينيسّا قبل أن تتحول إلى رومانية ويعاد بناؤها في القرنين الثاني والثالث.",
+          "zh": "萨布拉塔是腓尼基人的贸易站，是非洲内陆商品输出的出口。萨布拉塔在罗马化之前是存在时间很短的努米底亚王国的一部分，它于公元2世纪至3世纪重建。"
+        },
+        "full": "A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 90.534,
+          "square_km": 0.91,
+          "square_miles": 0.366,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6c83f575c30b905801602f9630f3a8d3",
+          "filename": "site_0184_0001.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108975/site_0184_0001.jpg",
+            "https://whc.unesco.org/document/108976/site_0184_0002.jpg",
+            "https://whc.unesco.org/document/108977/site_0184_0003.jpg",
+            "https://whc.unesco.org/document/108978/site_0184_0004.jpg",
+            "https://whc.unesco.org/document/108979/site_0184_0005.jpg",
+            "https://whc.unesco.org/document/108980/site_0184_0006.jpg",
+            "https://whc.unesco.org/document/108981/site_0184_0007.jpg",
+            "https://whc.unesco.org/document/108982/site_0184_0008.jpg",
+            "https://whc.unesco.org/document/108983/site_0184_0009.jpg",
+            "https://whc.unesco.org/document/108984/site_0184_0010.jpg",
+            "https://whc.unesco.org/document/125431/site_0184_0011.jpg",
+            "https://whc.unesco.org/document/125432/site_0184_0012.jpg",
+            "https://whc.unesco.org/document/125433/site_0184_0013.jpg",
+            "https://whc.unesco.org/document/125434/site_0184_0014.jpg",
+            "https://whc.unesco.org/document/125435/site_0184_0015.jpg",
+            "https://whc.unesco.org/document/125436/site_0184_0016.jpg",
+            "https://whc.unesco.org/document/125437/site_0184_0017.jpg",
+            "https://whc.unesco.org/document/125438/site_0184_0018.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Archaeological Site of Sabratha",
+            "ref": "184",
+            "latitude": 32.80528,
+            "longitude": 12.485
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/184",
+        "unesco_documents": "https://whc.unesco.org/en/list/184/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/184/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/184/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Archaeological Site of Sabratha A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D. A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D. Libya Arab States Cultural"
+    },
+    {
+      "site_key": "archaeological_site_of_leptis_magna",
+      "uuid": "6132378a-c2e1-5a95-ba57-6a8778ff0bc2",
+      "unesco_id": "183",
+      "names": {
+        "en": "Archaeological Site of Leptis Magna",
+        "fr": "Site archéologique de Leptis Magna",
+        "es": "Sitio arqueológico de Leptis Magna",
+        "ru": "Археологические памятники Лептис-Магны",
+        "ar": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى )",
+        "zh": "莱波蒂斯考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "LBY": {
+            "name": "Libya",
+            "iso2": "LY",
+            "iso3": "LBY"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts.",
+          "fr": "Embellie et agrandie par Septime Sévère, enfant du pays devenu empereur, Leptis Magna était l'une des plus belles villes de l'Empire romain, avec ses grands monuments publics, son port artificiel, son marché, ses entrepôts, ses ateliers et ses quartiers d'habitation.",
+          "es": "Embellecida y engrandecida por uno de sus hijos, el emperador romano Septimio Severo, la ciudad de Leptis Magna fue una de las más bellas del Imperio Romano, con sus grandes monumentos públicos, su puerto artificial, su mercado, sus almacenes, sus talleres y sus barrios de viviendas.",
+          "ru": "Лептис-Магна была расширена и украшена Септимием Севером, который родился здесь, а позднее стал императором. Это был один из прекраснейших городов Римской империи, с внушительными общественными зданиями, гаванью, рыночной площадью, складами, магазинами и жилыми кварталами.",
+          "ar": "كانت لبدة إحدى أجمل حاضرات الامبراطورية الرومانية بعد أن جمّلها وكبّرها سيبتيموس سيفيروس ابن البلاد الذي أصبح امبراطورًا، وذلك بنصبها العامة الكبيرة، ومرفئها الاصطناعي، وسوقها، ومخازنها، ومحترفاتها وأحيائها السكنية.",
+          "zh": "莱波蒂斯是由塞普蒂斯乌斯·塞韦罗扩建并设计装饰的。他出生在那里并成为那里的国王。莱波蒂斯以其壮丽的公共纪念碑、人工港、市场、仓库、商店、居住区成为罗马帝国最美丽的城市之一。"
+        },
+        "full": "Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts.",
+        "justification": "Brief synthesis The ancient city of Leptis Magna was founded as a temporary trading port by the Phoenicians in the 7th century BCE and expanded under the Roman Empire. It was significantly embellished by the Severan emperors in the 3rd century CE, transforming it into one of the most splendid cities of Roman North Africa. The surviving and excavated remains of the city reflect a unique artistic realisation in the domain of urban planning and in its application of monumental display. The city demonstrates a high level of engineering skill achieved in the creation of its infrastructure with the antique port of the city, situated at the mouth of Wadi Lebda. The port with its artificial basin, barrage and canal designed to regulate the course of the Wadi Lebda, is one of the outstanding works of Roman technology. The city of Leptis Magna provides a vivid and full picture of life in a Roman provincial city during the early and middle periods of the Roman Empire, with some buildings deviating considerably in their organization or shape from those seen at other Roman sites. Not only have remains of prestigious monuments such as arches, gates, the Severan forum, temples, baths, theatre, fortifications and amphitheatre survived, but also evidence for the essential of everyday life such as the market, with its votive arch and colonnade of shops, as well as warehouse and ateliers that attest to commercial and industrial activity. In the 17th and 18th centuries CE, the ruins of Leptis Magna were rediscovered by travellers and came to play a major role in the elaboration of the Neo-classical aesthetic. Criterion (i): Leptis Magna is a unique artistic realisation in the domain of urban planning and in its application of monumental display. The urban fabric of the city represents a synthesis of progressive developments and enlargements which came to a height in the Severan period, incorporating major monumental elements of that period worthy of an imperial capital. The Severan forum, the basilica and the Severan arch rank among the finest monuments known from the Roman world and were strongly influenced by African and Eastern traditions. The sculpture and carvings, including that of the Severan basilica and the Severan arch are innovative in their linear definition of forms, the crispness of their contours and the angular delineation of their volumes. The port of Leptis is one of the outstanding works of Roman technology. Criterion (ii): The large number of sculptures and statues found in Leptis demonstrate clearly Punic, Roman, Greek and Hellenistic influences. Aegean craftsmanship can be seen in the magnificent marble decorations on the pillars in the Severan Basilica and those on the Arch of Severus. Leptis, which was rediscovered in the 17th and 18th centuries by travellers such as Durand and Lemaire, has played a major role in the movement back to Antiquity and in the elaboration of the Neo-classic aesthetic. Criterion (iii): The number and the variety of the structures of Leptis Magna bear witness to a vanished civilization. The site provides a full picture of life in a large provincial city through the urban, architectural and decorative aspects that have been preserved. The monuments furnish a vivid impression of the lifestyle enjoyed in the city during the early and middle periods of the Roman Empire. The city still maintains the most important elements of its antique port, including vestiges of the former warehouses and the outline of its artificial basin of nearly 102,000 m2 still discernible. The market, an essential element in the everyday life of a large commercial trading centre, with its votive arch, its colonnades and its shops, has been, for the most part, preserved. The prestigious monuments, arches, gates, old forum, Severan forum, temples, baths, theatre, circus and amphitheatre all attest to the commercial, industrial, and civic activity of the city. Integrity The architectural heritage of Leptis Magna is very extensive and most of its principal elements are largely intact. The urban area (ca. 400 ha) offers an authentic glimpse of a great provincial city. The monuments and archaeological finds of the ancient city represent all the attributes expressed in the Outstanding Universal Value within its designated area. Authenticity Leptis Magna has maintained a high level of authenticity, and the city has deservedly earned a reputation of having the most complete and impressive Roman ruins in the entirety of North Africa. It is largely due to a cover of wind-blown sand from the interior that Leptis Magna is so well preserved and entirely protected for 800 years. The authenticity of the individual components and the ancient urban fabric as a whole is very high. The structures brought to light by excavations carried out in the first half of the twentieth century have been the object of consolidation, restoration and maintenance operations and, to a lesser extent, reconstruction in full respect of the original morphology of the elements involved. Protection and management requirements At the time of inscription, the city including all of its individual monuments and archaeological sites, was legally protected and assured by the authority of the Department of Antiquities (DoA) and the local community of Lebda through the provisions of Law No. 40/1968 governing the administration of antiquities. This was later replaced by Law No. 3/1994 and its Executive regulations/1995 issued by the General People’s Congress. Leptis Magna, at the time of inscription was managed by the superintendent of Lebda region/municipality. Since 2019 the DoA has established a local office overseeing the management and protection of the property as well as the museums which hold a significant collection of excavated material, including mosaics and frescoes. Effective protection is guaranteed through collaboration between the local authority, the development partners and the Department of Antiquities, the Urban Planning Department, local City Council, civil society associations and the Tourist and Antiquities Police. The law cited has, so far, guaranteed the preservation of the entire area of the property which, in relation to its principal areas, has not been compromised or suffered the effects of illegal building activity. Vegetal encroachment is a factor that needs constant monitoring and intervention. A buffer zone that will limit urban development in the vicinity of the site of Leptis Magna and ensure that the neighbouring area is also conserved has been outlined and is under preparation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3
+          ],
+          "display": "(i)(ii)(iii)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 387.485,
+          "square_km": 3.87,
+          "square_miles": 1.568,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6512c5e70319d6e2a9a8203a91839f75",
+          "filename": "site_0183_0001.jpg",
+          "dimensions": {
+            "width": 768,
+            "height": 1024
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108956/site_0183_0001.jpg",
+            "https://whc.unesco.org/document/108957/site_0183_0002.jpg",
+            "https://whc.unesco.org/document/108958/site_0183_0003.jpg",
+            "https://whc.unesco.org/document/108959/site_0183_0004.jpg",
+            "https://whc.unesco.org/document/108960/site_0183_0005.jpg",
+            "https://whc.unesco.org/document/108961/site_0183_0006.jpg",
+            "https://whc.unesco.org/document/108962/site_0183_0007.jpg",
+            "https://whc.unesco.org/document/108963/site_0183_0008.jpg",
+            "https://whc.unesco.org/document/108964/site_0183_0009.jpg",
+            "https://whc.unesco.org/document/108965/site_0183_0010.jpg",
+            "https://whc.unesco.org/document/108966/site_0183_0011.jpg",
+            "https://whc.unesco.org/document/108967/site_0183_0012.jpg",
+            "https://whc.unesco.org/document/108968/site_0183_0013.jpg",
+            "https://whc.unesco.org/document/108969/site_0183_0014.jpg",
+            "https://whc.unesco.org/document/108970/site_0183_0015.jpg",
+            "https://whc.unesco.org/document/108972/site_0183_0017.jpg",
+            "https://whc.unesco.org/document/108973/site_0183_0018.jpg",
+            "https://whc.unesco.org/document/108974/site_0183_0019.jpg",
+            "https://whc.unesco.org/document/118679/site_0183_0020.jpg",
+            "https://whc.unesco.org/document/118680/site_0183_0021.jpg",
+            "https://whc.unesco.org/document/118681/site_0183_0022.jpg",
+            "https://whc.unesco.org/document/118682/site_0183_0023.jpg",
+            "https://whc.unesco.org/document/125276/site_0183_0024.jpg",
+            "https://whc.unesco.org/document/125277/site_0183_0025.jpg",
+            "https://whc.unesco.org/document/125425/site_0183_0027.jpg",
+            "https://whc.unesco.org/document/125426/site_0183_0028.jpg",
+            "https://whc.unesco.org/document/125427/site_0183_0029.jpg",
+            "https://whc.unesco.org/document/125428/site_0183_0030.jpg",
+            "https://whc.unesco.org/document/125429/site_0183_0031.jpg",
+            "https://whc.unesco.org/document/125430/site_0183_0032.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Archaeological Site of Leptis Magna",
+            "ref": "183",
+            "latitude": 32.63833,
+            "longitude": 14.29306
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/183",
+        "unesco_documents": "https://whc.unesco.org/en/list/183/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/183/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/183/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Archaeological Site of Leptis Magna Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts. Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts. Libya Arab States Cultural"
+    }
+  ]
+}

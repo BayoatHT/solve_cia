@@ -14,6 +14,7 @@ from proj_004_cia.___proj_heritage.b_01_transform import (
     parse_temporal,
     parse_visual,
     parse_components,
+    parse_enhancements,
 )
 
 
@@ -95,6 +96,16 @@ def normalize_site(site: Dict, existing_keys: Set[str] = None) -> Dict:
             # Components
             'components': components,
         }
+
+        # Parse enhancements (must be done after base normalization)
+        enhancements = parse_enhancements(site, normalized)
+
+        # Add enhancements to normalized structure
+        normalized['links'] = enhancements['links']
+        normalized['geographic_context'] = enhancements['geographic_context']
+        normalized['historical_context'] = enhancements['historical_context']
+        normalized['metadata'] = enhancements['metadata']
+        normalized['search_text'] = enhancements['search_text']
 
         return normalized
 

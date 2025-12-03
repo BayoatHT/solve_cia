@@ -1,0 +1,2281 @@
+{
+  "country": {
+    "code": "SVN",
+    "name": "Slovenia"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 3,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "prehistoric_pile_dwellings_around_the_alps",
+      "uuid": "3c29ef3a-9fad-5b13-a008-f6ea601310ab",
+      "unesco_id": "1363",
+      "names": {
+        "en": "Prehistoric Pile Dwellings around the Alps",
+        "fr": "Sites palafittiques préhistoriques autour des Alpes",
+        "es": "Palafitos del entorno de los Alpes",
+        "ru": "Доисторические свайные поселения в Альпах",
+        "ar": "المساكن المعلقة على ركائز حول جبال الألب",
+        "zh": "阿尔卑斯地区史前湖岸木桩建筑"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ITA": {
+            "name": "Italy",
+            "iso2": "IT",
+            "iso3": "ITA"
+          },
+          "FRA": {
+            "name": "France",
+            "iso2": "FR",
+            "iso3": "FRA"
+          },
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          },
+          "CHE": {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "iso3": "CHE"
+          },
+          "DEU": {
+            "name": "Germany",
+            "iso2": "DE",
+            "iso3": "DEU"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 6
+      },
+      "descriptions": {
+        "short": {
+          "en": "This serial property of 111 small individual sites encompasses the remains of prehistoric pile-dwelling (or stilt house) settlements in and around the Alps built from around 5000 to 500 B.C. on the edges of lakes, rivers or wetlands. Excavations, only conducted in some of the sites, have yielded evidence that provides insight into life in prehistoric times during the Neolithic and Bronze Age in Alpine Europe and the way communities interacted with their environment. Fifty-six of the sites are located in Switzerland. The settlements are a unique group of exceptionally well-preserved and culturally rich archaeological sites, which constitute one of the most important sources for the study of early agrarian societies in the region.",
+          "fr": "Ce bien en série regroupe 111 sites où se trouvent des vestiges d'établissements préhistoriques palafittiques (sur pilotis) dans et autour des Alpes. Datant d'environ 5 000 à environ 500 av. J.-C., ils sont situés sur les bords de lacs, de rivières ou de terres marécageuses. Seul un petit nombre ont été fouillés mais ils ont fourni des éléments qui donnent un aperçu de la vie quotidienne dans l'Europe alpine du Néolithique et de l'Age de bronze, ainsi que des informations sur la façon dont les communautés interagissaient avec leur environnement. Cinquante-six sites se trouvent en Suisse. Ces établissements constituent un groupe unique de sites archéologiques particulièrement riches et très bien conservés ; ils représentent des sources importantes pour l'étude des premières sociétés agraires de la région.",
+          "es": "Este sitio comprende 111 lugares con vestigios de asentamientos humanos prehistóricos en palafitos, esto es, viviendas edificadas sobre pilotes. Situados dentro de la zona de los Alpes y en su entorno, esos vestigios datan del periodo comprendido entre el quinto milenio y el siglo V a.C. y están situados a orillas de lagos, ríos y pantanos. Las excavaciones arqueológicas, efectuadas solamente en algunos lugares hasta la fecha, han proporcionado elementos que dan una visión de la vida diaria del hombre del Neolítico y de la Edad de Bronce en la Europa Alpina, así como de su interacción con el medio ambiente. En Suiza se hallan cincuenta y seis de los lugares que integran el sitio. Estos asentamientos humanos, que forman un conjunto único de vestigios arqueológicos excepcionalmente bien conservados y extraordinariamente ricos en el plano cultural, constituyen una de las más importantes fuentes para el estudio de las sociedades agrarias primitivas de la región.",
+          "ru": "Этот объект включает 111 небольших памятников. Здесь находятся остатки доисторических поселений, состоящих из свайных построек (или домов «на ходулях»), относящиеся к 5000 - 500 годам до н.э.. Они строились по берегам озер, рек и болот как в самих Альпах, так и в предгорьях. В результате раскопок, проведенных лишь в немногих из них, удалось получить представление о жизни в доисторические времена, в эпоху неолита и бронзового века, людей, обитавших в Альпах, а также об их взаимодействии с окружающей средой. Пятьдесят шесть таких объектов находятся в Швейцарии. Эти поселения представляют собой уникальную группу прекрасно сохранившихся археологических сооружений высокой культурной ценности. Они являются наиболее важным источником сведений о жизни аграрных сообществ региона на самой ранней стадии их развития.",
+          "ar": "يشمل هذا الموقع المتسلسل الذي يتألف من 111 موقعاً صغيراً معالم أثرية لمساكن معلقة على ركائز تعود إلى مرحلة ما قبل التاريخ. وبُنيت هذه البيوت داخل منطقة جبال الألب وحولها في الفترة الممتدة بين عام 5000 وعام 500 قبل الميلاد على تخوم البحيرات والأنهر والأراضي الرطبة. وأتاحت أعمال التنقيب التي أُجريت في عدد من هذه المواقع العثور على قطع أثرية تسلط بعض الأضواء على حياة الإنسان خلال العصر الحجري والعصر البرونزي في سلسلة جبال الألب الأوروبية وعلى طريقة تفاعل المجتمعات مع البيئة المحيطة بها. وهذه المساكن التي توجد 56 منها في الأراضي السويسرية عبارة عن مجموعة فريدة من المواقع الأثرية حافظت على خصائصها على نحو متميز وتمثل بفضل تراثها الثقافي الغني أحد أهم المصادر لدراسة مجتمعات الفلاحين الأولى التي سكنت في المنطقة.",
+          "zh": "这一遗产包括位于阿尔卑斯山区内、外的湖边、河岸及湿地边的111处（其中的56处位于瑞士）史前木桩建筑（又称干栏建筑）遗迹。这些小型定居点建于约公元前5000年至500年。对部分遗址的考古挖掘，已为我们提供了了解史前新石器时代及青铜时代欧洲阿尔卑斯山地区人民的生活以及人类社区与周围环境的互动情况的证据。这是一组保存极其完好、文化内涵丰富的定居点考古遗址，是研究这一地区早期农业社会的最重要的史料来源之一。"
+        },
+        "full": "This serial property of 111 small individual sites encompasses the remains of prehistoric pile-dwelling (or stilt house) settlements in and around the Alps built from around 5000 to 500 B.C. on the edges of lakes, rivers or wetlands. Excavations, only conducted in some of the sites, have yielded evidence that provides insight into life in prehistoric times during the Neolithic and Bronze Age in Alpine Europe and the way communities interacted with their environment. Fifty-six of the sites are located in Switzerland. The settlements are a unique group of exceptionally well-preserved and culturally rich archaeological sites, which constitute one of the most important sources for the study of early agrarian societies in the region.",
+        "justification": "Brief synthesis The series of 111 out of the 937 known archaeological pile-dwelling sites in six countries around the Alpine and sub-alpine regions of Europe is composed of the remains of prehistoric settlements dating from 5,000 to 500 BC which are situated under water, on lake shores, along rivers or in wetlands. The exceptional conservation conditions for organic materials provided by the waterlogged sites, combined with extensive under-water archaeological investigations and research in many fields of natural science, such as archaeobotany and archaeozoology, over the past decades, has combined to present an outstanding detailed perception of the world of early agrarian societies in Europe. The precise information on their agriculture, animal husbandry, development of metallurgy, over a period of more than four millennia, coincides with one of the most important phases of recent human history: the dawn of modern societies. In view of the possibilities for the exact dating of wooden architectural elements by dendrochronology, the sites have provided exceptional archaeological sources that allow an understanding of entire prehistoric villages and their detailed construction techniques and spatial development over very long time periods. They also reveal details of trade routes for flint, shells, gold, amber, and pottery across the Alps and within the plains, transport evidence from dugout canoes and wooden wheels, some complete with axles for two wheeled carts dating from around 3,400BC, some of the earliest preserved in the world, and the oldest textiles in Europe dating to 3,000 BC. This cumulative evidence has provided a unique insight into the domestic lives and settlements of some thirty different cultural groups in the Alpine lacustrine landscape that allowed the pile dwellings to flourish. Criterion (iv): The series of pile dwelling sites are one of the most important archaeological sources for the study of early agrarian societies in Europe between 5,000 and 500 BC. The waterlogged conditions have preserved organic matter that contributes in an outstanding way to our understanding of significant changes in the Neolithic and Bronze Age history of Europe in general, and of the interactions between the regions around the Alps in particular. Criterion (v): The series of pile dwelling sites has provided an extraordinary and detailed insight into the settlement and domestic arrangements of pre-historic, early agrarian lake shore communities in the Alpine and sub-Alpine regions of Europe over almost 5,000 years. The revealed archaeological evidence allows an unique understanding of the way these societies interacted with their environment, in response to new technologies, and also to the impact of climate change. Integrity The series of prehistoric pile-dwelling sites represents the well defined geographic area within which these sites are found to its full extent, as well as all the cultural groups in it during the time period during which the pile dwellings existed. It therefore comprises the complete cultural context of the archaeological phenomena. The sites selected have been chosen to be those that still remain largely intact, as well as to reflect the diversity of structures, groups of structures and time-periods. As a whole the series and its boundaries fully reflect the attributes of Outstanding Universal Value. The visual integrity of some of the sites is to a degree compromised by their urban setting. Many of the component sites can also be said to be vulnerable to a range of threats ranging from the uses of the lakes, intensification of agriculture, development, etc. Monitoring of the sites will be crucial to ensure their continuing integrity. Authenticity The physical remains are well preserved and documented. Their archaeological strata, preserved in the ground or under water are authentic in structure, material and substance, without any later or modern additions. The remarkable survival of organic remains facilitates the highest levels of definition in relation to the use and function of the sites. The very long history of research, co-operation and coordination provide an unusual level of understanding and documentation of the sites. However the ability of the sites to display their value is difficult as they are mostly completely hidden underwater which means that their context in relation to the lake and river shores is important in order to evoke the nature of their setting. This context is compromised to a degree on those sites that survive in intensely urbanised environments. Because the sites cannot be overtly presented in situ, they are interpreted in museums. An over-arching presentation framework needs to be developed that allows coordination between museums and an agreed standard of archaeological data to ensure understanding of the value of the whole property and how individual sites contribute to that whole. Protection and management requirements The series of pile dwelling sites are legally protected according to the legal systems in place in the various States Parties. There is a need to ensure that the highest level of legal protection available within each of the States Parties is provided. The common management system integrates all States levels and competent authorities, including the local communities, in each country, and connects the different national systems to an international management system, through an established International Coordination Group, based on a Management Commitment signed by all States Parties. Common visions and aims are translated into concrete projects on international, national and regional / local levels in a regularly adapted action plan. Funding is provided by Switzerland for the Secretariat and by the States Parties for the different projects. Proposed actions that may have a significant impact on the heritage values of the archaeological areas nominated for inscription are restricted. There is a need for consistent application of protection arrangements across the six States Parties to ensure consistency in approaches to development, particularly in terms of lake use, mooring arrangements and private development, and to heritage impact assessments. Given the extreme fragility of the remains, and the pressures on sites especially in urban areas, there is a need to ensure that adequate funding is in place for on-going monitoring."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 274.2,
+          "square_km": 2.74,
+          "square_miles": 1.11,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2011,
+          "all_dates": [
+            2011
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2011,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5c3c89a23b971931cbc53764c3a2404f",
+          "filename": "site_1363_0003-500-0-20241223160616.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/218638/site_1363_0003.jpg",
+            "https://whc.unesco.org/document/115102/site_1363_0001.jpg"
+          ],
+          "count": 2
+        }
+      },
+      "components": {
+        "count": 111,
+        "locations": [
+          {
+            "name": "See",
+            "ref": "1363-061",
+            "latitude": 47.803881,
+            "longitude": 13.449282
+          },
+          {
+            "name": "Riesi",
+            "ref": "1363-002",
+            "latitude": 47.317,
+            "longitude": 8.201
+          },
+          {
+            "name": "Port",
+            "ref": "1363-015",
+            "latitude": 46.268209,
+            "longitude": 6.210487
+          },
+          {
+            "name": "Bourg",
+            "ref": "1363-016",
+            "latitude": 46.281176,
+            "longitude": 6.170747
+          },
+          {
+            "name": "Spitz",
+            "ref": "1363-010",
+            "latitude": 46.921178,
+            "longitude": 7.089603
+          },
+          {
+            "name": "Sumpf",
+            "ref": "1363-049",
+            "latitude": 47.182779,
+            "longitude": 8.478272
+          },
+          {
+            "name": "Rütte",
+            "ref": "1363-006",
+            "latitude": 47.103773,
+            "longitude": 7.212044
+          },
+          {
+            "name": "Winkel",
+            "ref": "1363-050",
+            "latitude": 47.297202,
+            "longitude": 8.596199
+          },
+          {
+            "name": "Lucone",
+            "ref": "1363-095",
+            "latitude": 45.550924,
+            "longitude": 10.488108
+          },
+          {
+            "name": "Bahnhof",
+            "ref": "1363-007",
+            "latitude": 47.094205,
+            "longitude": 7.156765
+          },
+          {
+            "name": "Egelsee",
+            "ref": "1363-035",
+            "latitude": 47.55846,
+            "longitude": 8.863007
+          },
+          {
+            "name": "Village",
+            "ref": "1363-039",
+            "latitude": 46.892607,
+            "longitude": 6.901488
+          },
+          {
+            "name": "Tombola",
+            "ref": "1363-108",
+            "latitude": 45.179541,
+            "longitude": 11.21125
+          },
+          {
+            "name": "Seematte",
+            "ref": "1363-018",
+            "latitude": 47.216248,
+            "longitude": 8.254221
+          },
+          {
+            "name": "Feldbach",
+            "ref": "1363-031",
+            "latitude": 47.238798,
+            "longitude": 8.7961
+          },
+          {
+            "name": "Riedmatt",
+            "ref": "1363-048",
+            "latitude": 47.182492,
+            "longitude": 8.491012
+          },
+          {
+            "name": "Rorenhaab",
+            "ref": "1363-052",
+            "latitude": 47.263932,
+            "longitude": 8.660229
+          },
+          {
+            "name": "Frassino",
+            "ref": "1363-107",
+            "latitude": 45.434769,
+            "longitude": 10.663197
+          },
+          {
+            "name": "Ägelmoos",
+            "ref": "1363-001",
+            "latitude": 47.277291,
+            "longitude": 8.206646
+          },
+          {
+            "name": "Môtier I",
+            "ref": "1363-011",
+            "latitude": 46.948923,
+            "longitude": 7.087911
+          },
+          {
+            "name": "Halbinsel",
+            "ref": "1363-019",
+            "latitude": 47.170318,
+            "longitude": 8.124517
+          },
+          {
+            "name": "Kehrsiten",
+            "ref": "1363-025",
+            "latitude": 47.002206,
+            "longitude": 8.36629
+          },
+          {
+            "name": "Technikum",
+            "ref": "1363-032",
+            "latitude": 47.220618,
+            "longitude": 8.815709
+          },
+          {
+            "name": "Le Marais",
+            "ref": "1363-046",
+            "latitude": 46.799338,
+            "longitude": 6.753282
+          },
+          {
+            "name": "Vorder Au",
+            "ref": "1363-053",
+            "latitude": 47.246914,
+            "longitude": 8.653235
+          },
+          {
+            "name": "Lavagnone",
+            "ref": "1363-092",
+            "latitude": 45.436415,
+            "longitude": 10.537412
+          },
+          {
+            "name": "Mercurago",
+            "ref": "1363-103",
+            "latitude": 45.733808,
+            "longitude": 8.552111
+          },
+          {
+            "name": "Belvedere",
+            "ref": "1363-106",
+            "latitude": 45.456307,
+            "longitude": 10.65842
+          },
+          {
+            "name": "Egolzwil 3",
+            "ref": "1363-017",
+            "latitude": 47.18238,
+            "longitude": 8.016486
+          },
+          {
+            "name": "Port-Conty",
+            "ref": "1363-020",
+            "latitude": 46.890388,
+            "longitude": 6.770754
+          },
+          {
+            "name": "Insel Werd",
+            "ref": "1363-034",
+            "latitude": 47.655242,
+            "longitude": 8.867005
+          },
+          {
+            "name": "La Bessime",
+            "ref": "1363-038",
+            "latitude": 46.88735,
+            "longitude": 6.893209
+          },
+          {
+            "name": "Robenhausen",
+            "ref": "1363-054",
+            "latitude": 47.335851,
+            "longitude": 8.785602
+          },
+          {
+            "name": "Abtsdorf I",
+            "ref": "1363-058",
+            "latitude": 47.894715,
+            "longitude": 13.533627
+          },
+          {
+            "name": "Hautecombe",
+            "ref": "1363-067",
+            "latitude": 45.749786,
+            "longitude": 5.840853
+          },
+          {
+            "name": "Ödenahlen",
+            "ref": "1363-082",
+            "latitude": 48.119212,
+            "longitude": 9.640982
+          },
+          {
+            "name": "Ehrenstein",
+            "ref": "1363-087",
+            "latitude": 48.410752,
+            "longitude": 9.923244
+          },
+          {
+            "name": "Pestenacker",
+            "ref": "1363-088",
+            "latitude": 48.146679,
+            "longitude": 10.947857
+          },
+          {
+            "name": "Dorfstation",
+            "ref": "1363-004",
+            "latitude": 47.047412,
+            "longitude": 7.149116
+          },
+          {
+            "name": "Lobsigensee",
+            "ref": "1363-005",
+            "latitude": 47.03159,
+            "longitude": 7.297469
+          },
+          {
+            "name": "Strandboden",
+            "ref": "1363-008",
+            "latitude": 47.037856,
+            "longitude": 7.10838
+          },
+          {
+            "name": "Les Grèves",
+            "ref": "1363-009",
+            "latitude": 46.903976,
+            "longitude": 6.928608
+          },
+          {
+            "name": "Bellerive I",
+            "ref": "1363-014",
+            "latitude": 46.253333,
+            "longitude": 6.190461
+          },
+          {
+            "name": "La Saunerie",
+            "ref": "1363-023",
+            "latitude": 46.970633,
+            "longitude": 6.871598
+          },
+          {
+            "name": "Bleiche 2-3",
+            "ref": "1363-033",
+            "latitude": 47.503807,
+            "longitude": 9.42776
+          },
+          {
+            "name": "Les Roseaux",
+            "ref": "1363-042",
+            "latitude": 46.515034,
+            "longitude": 6.508386
+          },
+          {
+            "name": "Grundwiesen",
+            "ref": "1363-083",
+            "latitude": 48.10854,
+            "longitude": 9.626596
+          },
+          {
+            "name": "Rose Island",
+            "ref": "1363-090",
+            "latitude": 47.941534,
+            "longitude": 11.309311
+          },
+          {
+            "name": "L’Abbaye 2",
+            "ref": "1363-022",
+            "latitude": 46.926255,
+            "longitude": 6.830706
+          },
+          {
+            "name": "Les Graviers",
+            "ref": "1363-024",
+            "latitude": 46.972898,
+            "longitude": 6.87499
+          },
+          {
+            "name": "Abtsdorf III",
+            "ref": "1363-059",
+            "latitude": 47.893206,
+            "longitude": 13.533148
+          },
+          {
+            "name": "Schreckensee",
+            "ref": "1363-086",
+            "latitude": 47.888489,
+            "longitude": 9.568824
+          },
+          {
+            "name": "Les Argilliez",
+            "ref": "1363-021",
+            "latitude": 46.903272,
+            "longitude": 6.789886
+          },
+          {
+            "name": "Weier I - III",
+            "ref": "1363-026",
+            "latitude": 47.736144,
+            "longitude": 8.704459
+          },
+          {
+            "name": "Nussbaumersee",
+            "ref": "1363-036",
+            "latitude": 47.614806,
+            "longitude": 8.8153
+          },
+          {
+            "name": "Vingelz / Hafen",
+            "ref": "1363-003",
+            "latitude": 47.130777,
+            "longitude": 7.222474
+          },
+          {
+            "name": "Segelboothafen",
+            "ref": "1363-012",
+            "latitude": 46.928487,
+            "longitude": 7.112468
+          },
+          {
+            "name": "Hurden Seefeld",
+            "ref": "1363-028",
+            "latitude": 47.211962,
+            "longitude": 8.802284
+          },
+          {
+            "name": "Baie de Clendy",
+            "ref": "1363-045",
+            "latitude": 46.780164,
+            "longitude": 6.653546
+          },
+          {
+            "name": "Enge Alpenquai",
+            "ref": "1363-055",
+            "latitude": 47.364464,
+            "longitude": 8.538744
+          },
+          {
+            "name": "Litzlberg Süd",
+            "ref": "1363-060",
+            "latitude": 47.934347,
+            "longitude": 13.554719
+          },
+          {
+            "name": "Unfriedshausen",
+            "ref": "1363-089",
+            "latitude": 48.142322,
+            "longitude": 10.951188
+          },
+          {
+            "name": "Lugana Vecchia",
+            "ref": "1363-094",
+            "latitude": 45.458367,
+            "longitude": 10.643555
+          },
+          {
+            "name": "VI.1-Emissario",
+            "ref": "1363-102",
+            "latitude": 45.418262,
+            "longitude": 8.0229
+          },
+          {
+            "name": "Hurden Rosshorn",
+            "ref": "1363-027",
+            "latitude": 47.219554,
+            "longitude": 8.806835
+          },
+          {
+            "name": "Keutschacher See",
+            "ref": "1363-057",
+            "latitude": 46.587021,
+            "longitude": 14.159462
+          },
+          {
+            "name": "Lagazzi del Vho",
+            "ref": "1363-096",
+            "latitude": 45.107651,
+            "longitude": 10.392976
+          },
+          {
+            "name": "Molina di Ledro",
+            "ref": "1363-104",
+            "latitude": 45.874127,
+            "longitude": 10.765013
+          },
+          {
+            "name": "Storen-Wildsberg",
+            "ref": "1363-051",
+            "latitude": 47.360503,
+            "longitude": 8.680976
+          },
+          {
+            "name": "Baie de Grésine",
+            "ref": "1363-065",
+            "latitude": 45.736627,
+            "longitude": 5.885676
+          },
+          {
+            "name": "En Praz des Gueux",
+            "ref": "1363-013",
+            "latitude": 46.7940813665,
+            "longitude": 7.0367200491
+          },
+          {
+            "name": "Burgäschisee Ost",
+            "ref": "1363-029",
+            "latitude": 47.168705,
+            "longitude": 7.672349
+          },
+          {
+            "name": "Inkwilersee Insel",
+            "ref": "1363-030",
+            "latitude": 47.198676,
+            "longitude": 7.662713
+          },
+          {
+            "name": "Wangen-Hinterhorn",
+            "ref": "1363-073",
+            "latitude": 47.660949,
+            "longitude": 8.938894
+          },
+          {
+            "name": "Hornstaad-Hörnle",
+            "ref": "1363-074",
+            "latitude": 47.694508,
+            "longitude": 9.005917
+          },
+          {
+            "name": "Stations de Morges",
+            "ref": "1363-043",
+            "latitude": 46.509,
+            "longitude": 6.503
+          },
+          {
+            "name": "Baie de Châtillon",
+            "ref": "1363-066",
+            "latitude": 45.797744,
+            "longitude": 5.850935
+          },
+          {
+            "name": "Siedlung Forschner",
+            "ref": "1363-084",
+            "latitude": 48.054859,
+            "longitude": 9.640532
+          },
+          {
+            "name": "Olzreute-Enzisholz",
+            "ref": "1363-085",
+            "latitude": 47.998572,
+            "longitude": 9.688684
+          },
+          {
+            "name": "Fiavé-Lago Carera",
+            "ref": "1363-105",
+            "latitude": 45.990096,
+            "longitude": 10.830986
+          },
+          {
+            "name": "Pointe de Montbec I",
+            "ref": "1363-037",
+            "latitude": 46.934154,
+            "longitude": 6.970475
+          },
+          {
+            "name": "Stations de Concise",
+            "ref": "1363-040",
+            "latitude": 46.846425,
+            "longitude": 6.71597
+          },
+          {
+            "name": "Secteur des Mongets",
+            "ref": "1363-072",
+            "latitude": 45.853254,
+            "longitude": 6.15129
+          },
+          {
+            "name": "Sipplingen-Osthafen",
+            "ref": "1363-080",
+            "latitude": 47.79314,
+            "longitude": 9.102025
+          },
+          {
+            "name": "Allensbach-Strandbad",
+            "ref": "1363-075",
+            "latitude": 47.709759,
+            "longitude": 9.079813
+          },
+          {
+            "name": "Laghetto della Costa",
+            "ref": "1363-109",
+            "latitude": 45.269679,
+            "longitude": 11.742412
+          },
+          {
+            "name": "Littoral de Tresserve",
+            "ref": "1363-068",
+            "latitude": 45.684078,
+            "longitude": 5.89282
+          },
+          {
+            "name": "Le Crêt de Chatillon",
+            "ref": "1363-071",
+            "latitude": 45.860389,
+            "longitude": 6.155499
+          },
+          {
+            "name": "Konstanz-Hinterhausen",
+            "ref": "1363-077",
+            "latitude": 47.665219,
+            "longitude": 9.194068
+          },
+          {
+            "name": "Bande - Corte Carpani",
+            "ref": "1363-097",
+            "latitude": 45.371355,
+            "longitude": 10.586003
+          },
+          {
+            "name": "Corcelettes Les Violes",
+            "ref": "1363-041",
+            "latitude": 46.818046,
+            "longitude": 6.668128
+          },
+          {
+            "name": "Oterswil / Insel Eielen",
+            "ref": "1363-047",
+            "latitude": 47.126742,
+            "longitude": 8.49735
+          },
+          {
+            "name": "Wollmatingen-Langenrain",
+            "ref": "1363-076",
+            "latitude": 47.674884,
+            "longitude": 9.120366
+          },
+          {
+            "name": "Le Grand Lac de Clairvaux",
+            "ref": "1363-062",
+            "latitude": 46.571189,
+            "longitude": 5.74969
+          },
+          {
+            "name": "Bodman-Schachen / Löchle",
+            "ref": "1363-079",
+            "latitude": 47.814475,
+            "longitude": 9.039753
+          },
+          {
+            "name": "Chenevières de Guévaux I",
+            "ref": "1363-044",
+            "latitude": 46.934964,
+            "longitude": 7.054909
+          },
+          {
+            "name": "Les Marais de Saint-Jorioz",
+            "ref": "1363-070",
+            "latitude": 45.835208,
+            "longitude": 6.182858
+          },
+          {
+            "name": "Grosse Stadt Kleiner Hafner",
+            "ref": "1363-056",
+            "latitude": 47.366167,
+            "longitude": 8.544075
+          },
+          {
+            "name": "Il Sabbione o settentrionale",
+            "ref": "1363-101",
+            "latitude": 45.799618,
+            "longitude": 8.64879
+          },
+          {
+            "name": "Littoral de Chens-sur-Léman",
+            "ref": "1363-069",
+            "latitude": 46.32113,
+            "longitude": 6.255949
+          },
+          {
+            "name": "Litzelstetten-Krähenhorn 32",
+            "ref": "1363-078",
+            "latitude": 47.724673,
+            "longitude": 9.178954
+          },
+          {
+            "name": "Unteruhldingen-Stollenwiesen",
+            "ref": "1363-081",
+            "latitude": 47.720905,
+            "longitude": 9.228383
+          },
+          {
+            "name": "Bodio centrale o delle Monete",
+            "ref": "1363-100",
+            "latitude": 45.796431,
+            "longitude": 8.755609
+          },
+          {
+            "name": "Palù di Livenza – Santissima",
+            "ref": "1363-091",
+            "latitude": 46.021741,
+            "longitude": 12.481147
+          },
+          {
+            "name": "Castellaro Lagusello - Fondo Tacoli",
+            "ref": "1363-098",
+            "latitude": 45.369262,
+            "longitude": 10.634203
+          },
+          {
+            "name": "Isolino Virginia-Camilla-Isola di San Biagio",
+            "ref": "1363-099",
+            "latitude": 45.812014,
+            "longitude": 8.718061
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1363",
+        "unesco_documents": "https://whc.unesco.org/en/list/1363/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1363/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1363/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 14,
+        "inscription_year": 2011
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Prehistoric Pile Dwellings around the Alps This serial property of 111 small individual sites encompasses the remains of prehistoric pile-dwelling (or stilt house) settlements in and around the Alps built from around 5000 to 500 B.C. on the edges of lakes, rivers or wetlands. Excavations, only conducted in some of the sites, have yielded evidence that provides insight into life in prehistoric times during the Neolithic and Bronze Age in Alpine Europe and the way communities interacted with their environment. Fifty-six of the sites are located in Switzerland. The settlements are a unique group of exceptionally well-preserved and culturally rich archaeological sites, which constitute one of the most important sources for the study of early agrarian societies in the region. This serial property of 111 small individual sites encompasses the remains of prehistoric pile-dwelling (or stilt house) settlements in and around the Alps built from around 5000 to 500 B.C. on the edges of lakes, rivers or wetlands. Excavations, only conducted in some of the sites, have yielded evidence that provides insight into life in prehistoric times during the Neolithic and Bronze Age in Alpine Europe and the way communities interacted with their environment. Fifty-six of the sites are located in Switzerland. The settlements are a unique group of exceptionally well-preserved and culturally rich archaeological sites, which constitute one of the most important sources for the study of early agrarian societies in the region. Italy France Austria Slovenia Switzerland Germany Europe and North America Cultural"
+    },
+    {
+      "site_key": "the_works_of_joze_plecnik_in_ljubljana_human_centred_urban_design",
+      "uuid": "0faea55c-17b3-5c43-9ccb-784ef7071aa6",
+      "unesco_id": "1643",
+      "names": {
+        "en": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design",
+        "fr": "Les œuvres de Jože Plečnik à Ljubljana – une conception urbaine centrée sur l’humain",
+        "es": "Obras de Jože Plečnik en Liubliana – una concepción urbana centrada en lo humano",
+        "ru": "Работы Йоже Плечника в Любляне - городской дизайн, ориентированный на человека",
+        "ar": "أعمال جوزيه بليشنك في مدينة ليوبليانا – تصميم حضري محوره الإنسان",
+        "zh": "卢布尔雅那的约热·普列赤涅克作品——以人为本的城市设计"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The works Jože Plečnik carried in Ljubljana between World War I and World War II present an example of a human centred urban design that successively changed the identity of the city following the dissolution of the Austro-Hungarian Empire, when it changed from a provincial city into the symbolic capital of the Slovenian people. The architect Jože Plečnik contributed to this transformation with his personal, profoundly human vision for the city, based on an architectural dialogue with the older city while serving the needs of emerging modern 20th century society. The property consists of a series of public spaces (squares, parks, streets, promenades, bridges) and public institutions (national library, churches, markets, funerary complex) that were sensitively integrated into the pre-existing urban, natural and cultural context and contributed to the city’s new identity. This highly contextual and human-scale urbanistic approach, as well as Plečnik’s distinctive architectural idiom, stand apart from the other predominant modernist principles of his time. It is an exceptional case of creating public spaces, buildings and green areas according to the vision of a single architect within a limited time, the limited space of an existing city, and with relatively limited resources.",
+          "fr": "Les œuvres de Jože Plečnik, réalisées à Ljubljana entre la Première et la Seconde Guerre mondiale, témoignent d’une conception urbaine centrée sur l’humain ayant successivement modifié l’identité de la ville préexistante à la suite de l’effondrement de l’Empire austro-hongrois, quand Ljubljana est passée du statut de ville provinciale à celui de capitale nationale symbolique pour le peuple slovène. L’architecte Jože Plečnik a contribué à cette transformation par sa vision personnelle et profondément humaine de la ville, basée sur un dialogue architectural avec la ville plus ancienne tout en répondant aux besoins de la société moderne émergente du XXe siècle. Ce bien est composé d’une série d’espaces publics (places, parcs, rues, promenades, ponts) et d’institutions publiques (bibliothèque nationale, églises, marchés, ensemble funéraire) qui furent subtilement intégrés dans le contexte urbain, naturel et culturel préexistant, et ont contribué à la nouvelle identité de la ville. Cette approche urbanistique à échelle humaine et fortement liée au contexte ainsi que le langage architectural particulier de Plečnik sont considérés comme se distinguant d’autres principes modernistes prépondérants de son époque. Il s’agit d’un exemple exceptionnel de création d’espaces publics, d’édifices et d’espaces verts selon la vision d’un seul architecte, dans le cadre temporel et spatial limité d’une ville existante et avec des ressources limitées.",
+          "es": "La obra que Jože Plečnik llevó a cabo en Liubliana entre la Primera y la Segunda Guerra Mundial presenta un ejemplo de diseño urbano centrado en el ser humano que cambió sucesivamente la identidad de la ciudad tras la disolución del Imperio Austrohúngaro, cuando pasó de ser una ciudad provincial a la capital simbólica del pueblo de Eslovenia. El arquitecto Jože Plečnik contribuyó a esta transformación con su visión personal y profundamente humana de la ciudad, basada en un diálogo arquitectónico con la ciudad antigua que al tiempo servía a las necesidades de la emergente sociedad moderna del siglo XX. El sitio incluye una serie de espacios públicos (plazas, parques, calles, paseos, puentes) e instituciones públicas (biblioteca nacional, iglesias, mercados, complejo funerario) que se integraron con sensibilidad en el contexto urbano, natural y cultural preexistente y contribuyeron a la nueva identidad de la ciudad. Este enfoque urbanístico altamente contextual y a escala humana, así como el lenguaje arquitectónico distintivo de Plečnik, se distinguen de los demás principios modernistas predominantes en su época. Se trata de un caso excepcional de creación de espacios públicos, edificios y zonas verdes según la visión de un solo arquitecto en un tiempo y espacio limitados de una ciudad existente y con recursos relativamente limitados.",
+          "ru": "Работы Йоже Плечника, выполненные в Любляне в период между Первой и Второй мировыми войнами, представляют собой пример городского дизайна, ориентированного на человека, который последовательно изменил облик города после распада Австро-Венгерской империи, когда Любляна превратилась из провинциального города в символическую столицу народа Словении. Архитектор Йоже Плечник внес вклад в эти преобразования посредством своего личного, глубоко человечного видения города, основанного на архитектурном диалоге со старым городом и в то же время отвечающего потребностям формирующегося современного общества ХХ века. Объект состоит из ряда общественных пространств (площади, парки, улицы, набережные, мосты) и общественных учреждений (национальная библиотека, церкви, рынки, погребальный комплекс), которые были аккуратно интегрированы в уже существующий городской, природный и культурный контекст и внесли вклад в новую самобытность города. Этот в высшей степени контекстуальный и общечеловеческий урбанистический подход, а также отличительный архитектурный стиль Плечника отличаются от других преобладающих модернистских принципов своего времени. Это исключительный случай создания общественных пространств, зданий и зеленых зон в соответствии с видением одного архитектора в условиях ограниченных временных рамок, ограниченного пространства существующего города и относительно ограниченных ресурсов.",
+          "ar": "تُقدّم أعمال جوزيه بليتشنيك التي تبلورت في ليوبليانا بين الحربَين العالميّتَين الأولى والثانية مثالاً على التصميم الحضري المتمحور حول الإنسان، والذي ساهم تدريجيّاً في تغيير هويّة المدينة في أعقاب حلّ الإمبراطورية النمساوية المجرية، عندما تحوّلت من كونها مدينة إقليميّة إلى العاصمة الرمزيّة لشعب سلوفينيا. وساهم المهندس المعماري جوزيه بليتشنيك في هذا التحوّل برؤياه الإنسانية العميقة للمدينة، وذلك استناداً إلى حوار معماري بين المدينة الأم، والسعي إلى تلبية احتياجات المجتمع في القرن العشرين. ويتألف الموقع من سلسلة من الأماكن العامة (الساحات، الحدائق، الشوارع، المنتزهات، الجسور) والمؤسسات العامة (المكتبة الوطنية، الكنائس، الأسواق، المجمع الجنائزي) التي دُمجت بعناية تامة في السياق الحضري والطبيعي والثقافي، وساهمت في صقل هوية المدينة الجديدة. ومن هنا، يجسّد الموقع حالة استثنائية لإنشاء المساحات العامة والمباني والمساحات الخضراء وفقاً لرؤية مهندس معماري واحد ضمن إطار زمان ومكاني محدود للمدينة، فضلاً عن المساحة المحدودة لمدينة قائمة بالفعل، وبموارد محدودة نوعاً ما.",
+          "zh": "建筑师约热·普列赤涅克于两次世界大战之间在卢布尔雅那创作的作品展示了一种以人为本的城市设计。在奥匈帝国解体之后，卢布尔雅那从一个省级城市变为斯洛文尼亚人民的具有象征意义的首都，这些设计在这一进程中改变了原有的城市身份。普列赤涅克以个人化的、极具人文精神的城市愿景服务于城市的转变，而其愿景的基础，是在满足20世纪新兴现代社会需求的同时与老城展开建筑对话。该遗产地由一系列公共空间(广场、公园、街道、长廊、桥梁)和公共机构(国家图书馆、教堂、市场、葬礼设施)组成，它们细腻地融入原有的城市、自然和文化环境，并参与塑造新的城市身份。这种高度情景化和人性化的城市规划方法，以及普列赤涅克独特的建筑语言，迥异于同时代的其它主流现代主义原则。该遗产地是一个在有限时间和现有城市的有限空间之内，利用相对有限资源，按照单一建筑师的愿景创造公共空间、建筑和绿地的特例。"
+        },
+        "full": "The works Jože Plečnik carried in Ljubljana between World War I and World War II present an example of a human centred urban design that successively changed the identity of the city following the dissolution of the Austro-Hungarian Empire, when it changed from a provincial city into the symbolic capital of the Slovenian people. The architect Jože Plečnik contributed to this transformation with his personal, profoundly human vision for the city, based on an architectural dialogue with the older city while serving the needs of emerging modern 20th century society. The property consists of a series of public spaces (squares, parks, streets, promenades, bridges) and public institutions (national library, churches, markets, funerary complex) that were sensitively integrated into the pre-existing urban, natural and cultural context and contributed to the city’s new identity. This highly contextual and human-scale urbanistic approach, as well as Plečnik’s distinctive architectural idiom, stand apart from the other predominant modernist principles of his time. It is an exceptional case of creating public spaces, buildings and green areas according to the vision of a single architect within a limited time, the limited space of an existing city, and with relatively limited resources.",
+        "justification": "Brief synthesis The urban design for Ljubljana was conceived by Architect Jože Plečnik (1872–1957) in the period between the two World Wars. Following World War I and the disintegration of the Austro-Hungarian Empire, a desire to create independent nation states triggered various State and town building projects in Central and South-Eastern Europe. In the changed social contexts, the urban planners and architects introduced new urbanistic and architectural approaches under the influence of the Modernist movement. The transformation of Ljubljana from a peripheral town of the former Empire into a national capital emerged during the introduction of these modernist guidelines, although from entirely different architectural starting points. The urban design of “Plečnik’s Ljubljana” is based on an architectural dialogue between his interventions and the existing older city. Based on the man-made cityscape and its natural features, two urban axes were conceived: the land axis and the water axis. These two axes are connected by transversal axes, which help to form the urbanistic network of the city. The land axis – the Green Promenade starts at the Trnovo Bridge and runs through the Square of the French Revolution, along Vegova Street with the National and University Library, and ends at the Congress Square with Zvezda Park. Running parallel is the water axis – the Promenade along the Embankments and Bridges of the Ljubljanica River – which extends from the Trnovo district to the Sluice Gate. The historical city centre is connected with vital points in both the rural and urban suburbs, and with the broader spatial network of Ljubljana: the Church of St. Michael, the Church of St. Francis of Assisi, Plečnik’s Žale – Garden of All Saints. The city centre was interpreted anew and developed into a series of public spaces (squares, parks, streets, promenades, bridges) and public institutions (library, churches, markets, funerary complex). The property is an outstanding example of urban renewal developed in the context of existing buildings and spaces and tailored to suit the inhabitants. Together, Plečnik’s interventions have created a different type of urban space and architecture, which is not limited to a certain specific use, but instead gives rise to a connecting of the different uses and meanings and creates a new identity for the space. The architectural elements, types and spaces of classical architecture are innovatively summarised, transformed and modernised. Criterion (iv): The interventions designed by the architect Jože Plečnik throughout the city of Ljubljana in the short period between the two World Wars combine to become an outstanding example of human-centred urban renewal for the purpose of nation building after the demise of the Austro-Hungarian Empire. They are based on a harmonic relationship with the context of the space and its natural possibilities. The city is not built anew but improved with small- or large-scale interventions – new architectural ensembles, buildings and urban accents. The relationship with the past is established in various ways, from adapting the urban network and incorporating existing structures through architectural reminiscences and by establishing new cityscapes. The new urban space is not limited to a specific use but has various functions and the whole is thus imbued with new meanings. Integrity The urban design in Ljubljana, as a result of the intervention by Jože Plečnik, includes the readily identifiable characteristics of a symbolic capital city created between the two World Wars by the architect. Ljubljana’s urban landscape comprehensively illustrates an upgrade of the existing space with regards to the topography and based on its continuous use and interpretation of historical layers. The topography of the space is expressed through the urban landscape design of the two axes: the land axis and the water axis. The design of both promenades originates and draws from the continuous use of the space, which defines the positions and use of squares, markets, bridges, parks and other public spaces as well as buildings. A series of public spaces endows the city with public amenities, from spiritual spaces (the Churches of St. Michael and St. Francis of Assisi, Plečnik’s Žale – The Garden of All Saints), spaces for relaxation (archaeological park along the Roman Walls, and promenades along the embankments of the Ljubljanica River, Trnovo Quay), to market activities (Plečnik’s Market), socialising (Congress Square, the Three Bridges, the Cobblers’ Bridge), and intellectual and cultural activities (Vegova Street, National and University Library). A unified protection regime ensures that the currently unbuilt upon areas remain building-free, that the space preserves its traditional use, and provides comprehensive protection from interventions that could potentially endanger the integrity of the serial property. Authenticity The serial property has maintained its original urban design and characteristics, in which the preservation and enhancement of the context of the space are reflected. The serial component parts have faithfully preserved their original design in the exterior arrangements, in the interiors as well as on the facades, in the interior furnishings and the masterful attention to detail. The building materials were reinforced in most components in the 1990s, but regardless of the individual repairs or conservation and restoration interventions, which were a consequence of continuous use, material authenticity in general has not been compromised. Larger urbanistic areas have remained unchanged; in some cases, repairs were performed in order to meet the requirements of modern use and ensure the greater safety and structural stability of the property. With few exceptions, the original functions and uses of all components and their features are preserved and the outdoor spaces are accessible to the public. The characteristics of the original urban design have been preserved as well, although partial changes have appeared due to the overgrowth of the original vegetation and in some places the pressure of local traffic, which has been strategically addressed over the course of the previous decade. Protection and management requirements Plečnik’s architectural heritage is a monument of national importance and is protected by the Ordinance designating the Ljubljana work of the architect Jože Plečnik as a cultural monument of national importance (Official Gazette RS, Nos. 51/09, 88/14, 19/16, 76/17 and 17/18). The Ordinance represents a single comprehensive protection mechanism for the entire immovable and movable heritage of the serial property. All of the serial component parts have conservation plans that form the basis for any interventions on the monuments. Works are coordinated by the Institute for the Protection of Cultural Heritage (IPCHS) and supervised by the specially-appointed conservator for Plečnik’s heritage. The management system complements the existing system for the preservation of architect Jože Plečnik’s heritage in Ljubljana from the professional, organisational as well as legal and financial perspectives, and involves owners, managers and public bodies alike. The management of the property operates on two levels. All component parts have their specific management plans and procedures for the implementation and approval of such plans. State of conservation is monitored by the IPCHS, with a special emphasis on the factors likely to affect the property, in particular development pressures and tourism. The coordination of individual owners, managers, public institutions and professional bodies that form the Management Body is ensured by a joint manager that has overall responsibility for the implementation of a joint management plan. The Museum of Architecture and Design of Ljubljana, as an appointed joint manager, cooperates with those institutions at the state and local level that are responsible for protection, monitoring, presentation, education and research, promotion and cultural tourism."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 19.138,
+          "square_km": 0.19,
+          "square_miles": 0.077,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/43760c7659f6f8f21e9d920ffab949e4",
+          "filename": "site_1643_0001.jpg",
+          "dimensions": {
+            "width": 4724,
+            "height": 6496
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/181314/site_1643_0001.jpg",
+            "https://whc.unesco.org/document/181315/site_1643_0002.jpg",
+            "https://whc.unesco.org/document/181316/site_1643_0003.jpg",
+            "https://whc.unesco.org/document/181317/site_1643_0004.jpg",
+            "https://whc.unesco.org/document/181318/site_1643_0005.jpg",
+            "https://whc.unesco.org/document/181319/site_1643_0006.jpg",
+            "https://whc.unesco.org/document/181320/site_1643_0007.jpg",
+            "https://whc.unesco.org/document/181321/site_1643_0008.jpg",
+            "https://whc.unesco.org/document/181322/site_1643_0009.jpg",
+            "https://whc.unesco.org/document/181323/site_1643_0010.jpg",
+            "https://whc.unesco.org/document/181324/site_1643_0011.jpg",
+            "https://whc.unesco.org/document/181325/site_1643_0012.jpg",
+            "https://whc.unesco.org/document/181326/site_1643_0013.jpg",
+            "https://whc.unesco.org/document/181327/site_1643_0014.jpg",
+            "https://whc.unesco.org/document/181328/site_1643_0015.jpg",
+            "https://whc.unesco.org/document/181329/site_1643_0016.jpg"
+          ],
+          "count": 16
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Promenade along the Embankments and Bridges of the Ljubljanica River",
+            "ref": "1643bis-003",
+            "latitude": 46.0488888889,
+            "longitude": 14.5055555556
+          },
+          {
+            "name": "Trnovo Bridge",
+            "ref": "1643bis-001",
+            "latitude": 46.0433333333,
+            "longitude": 14.5022222222
+          },
+          {
+            "name": "Roman Walls in Mirje",
+            "ref": "1643bis-004",
+            "latitude": 46.0458333333,
+            "longitude": 14.4983333333
+          },
+          {
+            "name": "Church of St. Michael",
+            "ref": "1643bis-005",
+            "latitude": 46.0122222222,
+            "longitude": 14.5058333333
+          },
+          {
+            "name": "Church of St. Francis of Assisi",
+            "ref": "1643bis-006",
+            "latitude": 46.0683333334,
+            "longitude": 14.4969444444
+          },
+          {
+            "name": "Green Promenade along Vegova Street",
+            "ref": "1643bis-002",
+            "latitude": 46.0477777777,
+            "longitude": 14.5033333333
+          },
+          {
+            "name": "Plečnik’s Žale – Garden of All Saints",
+            "ref": "1643bis-007",
+            "latitude": 46.0675,
+            "longitude": 14.5286111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1643",
+        "unesco_documents": "https://whc.unesco.org/en/list/1643/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1643/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1643/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design The works Jože Plečnik carried in Ljubljana between World War I and World War II present an example of a human centred urban design that successively changed the identity of the city following the dissolution of the Austro-Hungarian Empire, when it changed from a provincial city into the symbolic capital of the Slovenian people. The architect Jože Plečnik contributed to this transformation with his personal, profoundly human vision for the city, based on an architectural dialogue with the older city while serving the needs of emerging modern 20th century society. The property consists of a series of public spaces (squares, parks, streets, promenades, bridges) and public institutions (national library, churches, markets, funerary complex) that were sensitively integrated into the pre-existing urban, natural and cultural context and contributed to the city’s new identity. This highly contextual and human-scale urbanistic approach, as well as Plečnik’s distinctive architectural idiom, stand apart from the other predominant modernist principles of his time. It is an exceptional case of creating public spaces, buildings and green areas according to the vision of a single architect within a limited time, the limited space of an existing city, and with relatively limited resources. The works Jože Plečnik carried in Ljubljana between World War I and World War II present an example of a human centred urban design that successively changed the identity of the city following the dissolution of the Austro-Hungarian Empire, when it changed from a provincial city into the symbolic capital of the Slovenian people. The architect Jože Plečnik contributed to this transformation with his personal, profoundly human vision for the city, based on an architectural dialogue with the older city while serving the needs of emerging modern 20th century society. The property consists of a series of public spaces (squares, parks, streets, promenades, bridges) and public institutions (national library, churches, markets, funerary complex) that were sensitively integrated into the pre-existing urban, natural and cultural context and contributed to the city’s new identity. This highly contextual and human-scale urbanistic approach, as well as Plečnik’s distinctive architectural idiom, stand apart from the other predominant modernist principles of his time. It is an exceptional case of creating public spaces, buildings and green areas according to the vision of a single architect within a limited time, the limited space of an existing city, and with relatively limited resources. Slovenia Europe and North America Cultural"
+    },
+    {
+      "site_key": "heritage_of_mercury_almaden_and_idrija",
+      "uuid": "32c3c992-94a1-55e6-866b-e679a9416cde",
+      "unesco_id": "1313",
+      "names": {
+        "en": "Heritage of Mercury. Almadén and Idrija",
+        "fr": "Patrimoine du mercure. Almadén et Idrija",
+        "es": "Patrimonio del mercurio (Almadén e Idria)",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ESP": {
+            "name": "Spain",
+            "iso2": "ES",
+            "iso3": "ESP"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times.",
+          "fr": "Le bien inclut les sites miniers d'Almadén (Espagne), où le mercure (vif-argent) a été extrait depuis l'Antiquité, et d’Idrija (Slovénie), où du mercure a été trouvé pour la première fois en 1490 après J.-C. La partie espagnole du bien comprend des bâtiments liés à l'histoire minière du site, notamment le château Retamar, des édifices religieux et des puits traditionnels. Le site d'Idrija présente notamment des entrepôts de mercure et des infrastructures, ainsi que des cités de mineurs et un théâtre des mineurs. Le site témoigne du commerce intercontinental du mercure qui a généré d'importants échanges entre l'Europe et l'Amérique pendant des siècles. Les deux sites sont les deux plus grandes mines de mercure au monde et sont restés en fonctionnement jusqu'à une période récente.",
+          "es": "El sitio comprende las minas de Almadén, en España, donde se ha extraído mercurio (azogue) desde la antigüedad y las de Idria, en Eslovenia, donde se halló mercurio por primera vez en el año 1490. El sitio español incluye varios lugares relacionados con su historia minera, como el castillo de Retamar, edificios religiosos y pozos tradicionales. En Idria hay almacenes e infraestructura relacionada con el mercurio, así como viviendas de mineros y un teatro. Ambos sitios dan testimonio del comercio intercontinental del mercurio, que generó importantes intercambios entre Europa y América durante siglos. Las de Almadén e Idria son las minas de mercurio más grandes del mundo y estuvieron operativas hasta hace pocos años.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times.",
+        "justification": "Brief synthesis Mercury is a relatively rare metal, whose use has long been irreplaceable in a variety of technical, chemical and industrial processes. It has only been produced in substantial quantities and over a long period by a small number of mines worldwide, of which the two largest, until recent times, were at Almadén in Spain and Idrija in Slovenia. These two mining towns, whose origins date from ancient or Medieval times, demonstrate the lengthy period over which a socio-technical system of extraction specific to this metal was in operation, and the process of evolution it underwent. Controlling mercury extraction enabled control of the market, which very quickly became intercontinental in scope because of its decisive role in the extraction of silver from deposits in the New World. A heavy metal, which is liquid at room temperature and has very specific chemical and physical properties, mercury is also a pollutant, which is dangerous for human health. The two sites contain technical remains of large numbers of mine shafts, and their galleries and surface facilities, with artefacts which are specific to the extraction of mercury-bearing ores; they also include significant urban, monumental and infrastructure elements and material and symbolic materials associated with the life styles and social organisation of mercury extraction. Criterion (ii) : Mercury extraction took place in a very limited number of mines, of which the two largest were Almadén and Idrija. From the Renaissance period in Europe, the activity took on an international dimension. Its worldwide strategic importance increased steadily, particularly because of its role in the working of gold and silver mines in America. The interchanges were at once economic, financial and related to technical expertise. Criterion (iv) : The mining sites of Almadén and Idrija constitute the most important heritage left behind by the intensive extraction of mercury, particularly in the modern and contemporary periods. This dual testimony is unique, and it illustrates the various industrial, territorial, urban and social elements of a specific sociotechnical system in the mining and metal production industries. Integrity The mining sites of Almadén and Idrija form a coherent whole with complementary components, satisfactorily illustrating all the technical, cultural and social aspects associated with mercury extraction. The elements are present in sufficient number to enable satisfactory interpretation. These are the two most significant sites for this activity to have been preserved, in terms of volumes produced, historical duration, and the completeness of the evidence provided. The integrity of the serial property has been justified. Authenticity At both sites, the presence of mining infrastructure elements both underground at on the surface, the presence of technical artefacts linked to mining extraction, its upstream needs (hydraulic energy, wood) and its conversion into “quicksilver” (furnaces), its transport and its storage are authentic. This also applies to the urban and monumental elements, and for the testimony to the miners’ working conditions. Protection and management requirements The protection measures for the sites are satisfactory; in both cases they have led to municipal general plans of land use and the control of construction works projects which could affect the sites. These urban and rural planning measures also apply to the buffer zones. At Almadén however, the existence of projects which could have a visual impact on the property and the belated inclusion of the property and its boundaries in the municipal general plan demonstrate the need for closer cooperation between the municipal authorities and the property management entity. For both sites, a satisfactory local management system exists, and the overarching International Committee for the coordination of the serial property has demonstrated that it functions satisfactorily."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 104.1,
+          "square_km": 1.04,
+          "square_miles": 0.421,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2012,
+          "all_dates": [
+            2012
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2012,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f8bce552373e9d76fa0fac9e0b48317f",
+          "filename": "site_1313_0015-500-0-20221003102637.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 747
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/117419/site_1313_0015.jpg",
+            "https://whc.unesco.org/document/117404/site_1313_0001.jpg",
+            "https://whc.unesco.org/document/117405/site_1313_0002.jpg",
+            "https://whc.unesco.org/document/117406/site_1313_0003.jpg",
+            "https://whc.unesco.org/document/117407/site_1313_0004.jpg",
+            "https://whc.unesco.org/document/117408/site_1313_0005.jpg",
+            "https://whc.unesco.org/document/117409/site_1313_0006.jpg",
+            "https://whc.unesco.org/document/117410/site_1313_0007.jpg",
+            "https://whc.unesco.org/document/117411/site_1313_0008.jpg",
+            "https://whc.unesco.org/document/117413/site_1313_0009.jpg",
+            "https://whc.unesco.org/document/117414/site_1313_0010.jpg",
+            "https://whc.unesco.org/document/117415/site_1313_0011.jpg",
+            "https://whc.unesco.org/document/117416/site_1313_0012.jpg",
+            "https://whc.unesco.org/document/117417/site_1313_0013.jpg",
+            "https://whc.unesco.org/document/117418/site_1313_0014.jpg",
+            "https://whc.unesco.org/document/117420/site_1313_0016.jpg",
+            "https://whc.unesco.org/document/117421/site_1313_0017.jpg",
+            "https://whc.unesco.org/document/117422/site_1313_0018.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 12,
+        "locations": [
+          {
+            "name": "Idrija – Kamšt water pump with the Rake water channel and Kobila dam",
+            "ref": "1313rev-008",
+            "latitude": 45.9982004176,
+            "longitude": 14.0317964402
+          },
+          {
+            "name": "Idrijska Bela – Belca Water Barrier on the Belca creek (or Brus`s Water Barrier)",
+            "ref": "1313rev-012",
+            "latitude": 45.97,
+            "longitude": 13.947
+          },
+          {
+            "name": "Bullring",
+            "ref": "1313rev-005",
+            "latitude": 38.775,
+            "longitude": -4.8297222222
+          },
+          {
+            "name": "Almadén- Old Town",
+            "ref": "1313rev-001",
+            "latitude": 38.7752777778,
+            "longitude": -4.8436111111
+          },
+          {
+            "name": "Idrija – Old Town",
+            "ref": "1313rev-006",
+            "latitude": 46.0038888889,
+            "longitude": 14.0266666667
+          },
+          {
+            "name": "Royal Forced Labour Gaol",
+            "ref": "1313rev-003",
+            "latitude": 38.7718055556,
+            "longitude": -4.8341666667
+          },
+          {
+            "name": "Idrija – Smelting Plant",
+            "ref": "1313rev-007",
+            "latitude": 46.0073496811,
+            "longitude": 14.030891542
+          },
+          {
+            "name": "Mina del Castillo Buildings",
+            "ref": "1313rev-002",
+            "latitude": 38.7725,
+            "longitude": -4.8397222222
+          },
+          {
+            "name": "Vojsko – Idrijca Water Barrier",
+            "ref": "1313rev-010",
+            "latitude": 46.003,
+            "longitude": 13.914
+          },
+          {
+            "name": "San Rafael Royal Hospital for Miners",
+            "ref": "1313rev-004",
+            "latitude": 38.7727777778,
+            "longitude": -4.8313888889
+          },
+          {
+            "name": "Gorenja Kanomilja – Kanomilja or Ovcjak Water Barrier",
+            "ref": "1313rev-009",
+            "latitude": 46.0172895117,
+            "longitude": 13.9347299583
+          },
+          {
+            "name": "Idrijska Bela – Putrih’s Water Barrier on the Belca creek",
+            "ref": "1313rev-011",
+            "latitude": 45.9756115244,
+            "longitude": 13.9280586103
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1313",
+        "unesco_documents": "https://whc.unesco.org/en/list/1313/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1313/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1313/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 13,
+        "inscription_year": 2012
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Heritage of Mercury. Almadén and Idrija The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times. The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times. Spain Slovenia Europe and North America Cultural"
+    },
+    {
+      "site_key": "skocjan_caves",
+      "uuid": "f8e5704b-2594-5141-b646-60f354af75d7",
+      "unesco_id": "390",
+      "names": {
+        "en": "Škocjan Caves",
+        "fr": "Grottes de Škocjan",
+        "es": "Grutas de Škocjan",
+        "ru": "Шкоцьянские пещеры",
+        "ar": "مغارات سكوكجان",
+        "zh": "斯科契扬溶洞"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena.",
+          "fr": "Ce réseau exceptionnel de grottes calcaires comporte des dolines d'effondrement et quelque 6 km de galeries à plus de 200 m de profondeur, de nombreuses cascades et l'une des plus grandes salles souterraines connues. Le site, qui se trouve dans la région du Kras (c'est-à-dire du « karst »), est l'un des plus célèbres au monde pour l'étude des phénomènes karstiques.",
+          "es": "En este conjunto excepcional de grutas calcáreas pueden hallarse numerosas dolinas de hundimiento, una red de galerías de seis kilómetros de longitud situada a más de 200 metros de profundidad, numerosas cascadas y una de las cámaras subterráneas más grandes descubiertas hasta ahora. Este sitio es uno de los más reputados del mundo para el estudio de los fenómenos cársticos y se halla en la región de Kras (Karst), que ha dado su nombre a este tipo de formaciones geológicas.",
+          "ru": "Этот уникальный комплекс известняковых пещер включает карстовые провалы и воронки, подземные полости (в т. ч. одну из крупнейших в мире), множество водопадов. Некоторые пещеры достигают в глубину 200 м, а общая протяженность подземных коридоров составляет примерно 6 км. Пещеры расположены на плато Крас (Карст), одном из самых известных в мире карстовых районов.",
+          "ar": "تحتوي هذه الشبكة الفريدة من المغارات الكلسية على منخفضات وعلى نحو 6 كيلومترات من الأروقة التي يزيد عمقها على 200 متر، كما تتضمن عدداً من الشلالات واحدى اكبر الحجرات الجوفية المعروفة. ويعتبر هذا الموقع القابع في منطقة كراس (أي الكارست) من الأشهر في العالم لدراسة ظاهرة تكوّن الكارست.",
+          "zh": "特殊的石灰石溶洞系统包括坍塌的落水洞，有深达200多米的约6公里长的地下通道，还有很多的瀑布。斯科契扬溶洞位于克拉斯地区（原文意为喀斯特），这里是世界上研究喀斯特现象的著名地点之一。"
+        },
+        "full": "This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena.",
+        "justification": "Brief synthesis Škocjan Caves Regional Park is situated in the Kras Plateau of South-West Slovenia. The protected area of 413 ha conserves an exceptional limestone cave system which comprises one of the world's largest known underground river canyons, that was cut into the limestone bedrock by the Reka River. Along its course, the river suddenly disappears into the karst underground, before passing through a vast and picturesque channel of up to 150 meters in height and more than 120 meters in width, often in the form of dramatically roaring rapids and waterfalls. The canyon's most spectacular physical expression is the enormous Martel Chamber, which exceeds two million cubic meters in volume. Like the canyon, the vast underground halls and chambers of the cave system expose stunning variations of limestone bedrock and secondary cave formations. It is no coincidence that karst research has its origin in this very part of Slovenia, which is scientifically referred to as Classical Karst. The term karst itself is derived from the name of the plateau, and is one of many technical terms commonly used in geology and speleology that have their origin in the region. Beyond its almost supernatural visual appeal, its scale and scientific importance, the regional park is also home to noteworthy species and species assemblages, which thrive in the distinct world of the underground environment and in the so-called collapsed dolines, a form of karst sinkholes. The caves support many endemic and endangered species, including the Cave Salamander along with many invertebrates and crustaceans. The very particular environmental conditions of the collapsed dolines provide a habitat for rare and threatened flora and fauna. Furthermore, ongoing archaeological studies have been revealing ever more details of a very long history of human occupation since prehistoric times. There is strong evidence that our ancestors appreciated the area as a place for settlements. Archaeological research has also disclosed that the area was historically used as a burial ground as well as for rituals. Criterion (vii): The Škocjan cave system and its surroundings are eminent and well-conserved manifestations of Karst topography. It reveals a broad range of karst features with its exceptional scale and aesthetic quality. Some outstanding landscape highlights include the vast, roughly two-kilometre long underground canyon, up to some 150 metres high and in places more than 120 metres wide. An underground torrent runs through it along series of cascades, turning it into a major visual and auditory spectacle. Higher up in the drier ceilings and walls of the canyon, limestone deposition from dripping water has been shaping astonishing stalagmites and stalactites, such as the so-called Giants in Velika Dvorana (or Great Chamber). The magnificent rimstone pools in Dvorana Ponvic (or Chamber of Rimstone Pools) are equally impressive manifestations of calcite deposits. The famous pools have been attracting scientists and artists ever since their formal discovery in 1888, and their representations came to epitomize the otherworldly beauty of the Škocjan Caves. The main channel of the celebrated underground river resurfaces in two picturesque collapsed dolines named Velika and Mala. The breath-taking view of these two collapsed dolines is depicted in the drawings of the pioneering explorer Valvasor that date back as early as 1689, and has never ceased to fascinate visitors, artists and scientists. Criterion (viii): The Škocjan Caves and their surroundings are the major localities for karst topography and are the place where fundamental terms such as karst and doline, have their origin. This is not only a strong indication of the property's importance for science, but more specifically of its importance for the history of earth sciences. An impressive array of exceptional karst manifestations, the result of past and present geological, geomorphological, speleological and hydrological processes, are clearly at display for scientists and visitors alike within a relatively small area. The heart of the site, the main cave system with the underground stretches of the Reka River, has been formed in a thick layer of cretaceous limestone. The constantly dynamic system is an outstanding textbook example of contact Karst with well-developed features, such as a blind valley, collapsed dolines, openings, chasms and caves. Remarkably, this geological diversity supports an equally fascinating biological diversity which has important implications for land and water management. Integrity Compared to many other protected areas of global significance, Škocjan Caves Regional Park is neither large nor does it enjoy a particularly strict protection status. Set in a rural landscape with permanent human presence since time immemorial, the Škocjan Caves are an encouraging example of how exceptional nature conservation values and longstanding and ongoing human presence are not necessarily mutually exclusive. The boundaries of the regional park and the World Heritage property, respectively encompass the most striking features of the karst topography, and therefore strongly contribute to the conservation of these key natural values. The landscape and parts of the cave system have been subject to some construction and other forms of human intervention. Major construction took place after the discovery of the caves in order to facilitate research and public visitation, in the more easily accessible areas. Infrastructure includes walkways, bridges and electric lighting. Through restrictions, careful design and use of materials, major damage to the overall integrity could be and is being prevented. The World Heritage property is surrounded by the Karst Biosphere Reserve, of which Škocjan Caves Regional Park is the core zone. The buffer of the Karst Biosphere Reserve increases the options and chances to maintain the integrity of the broader landscape of which the property is visually, geologically and ecologically, a small, but integral part. Protection and management requirements Discovered in 1815, the protected area in its current extension was only established in 1990, following earlier designation of roughly half the area as a Natural Monument. In an explicit effort to study and manage the outstanding geological and biological diversity, the paleontological and archaeological heritage, as well as the ethnological and architectural characteristics of the cultural landscape in an integrated manner, the Škocjan Caves Regional Park (Zakon o Regijskem parku Škocjanske jame) was published in the 1996 gazette. The caves are publicly owned, whereas the surface land is divided into public and private parcels. The public management authority became operational one year later, eventually introducing management planning. In 1999, large parts of the site also became a Wetland of International Importance under the Ramsar Convention, in recognition of the outstanding value of these underground wetlands. A much larger landscape unit was designated as the Karst Biosphere Reserve under UNESCO's Man and the Biosphere (MAB) Programme in 2004. Three Sites of Community Importance under the European Union's Natura 2000 overlap with most of Škocjan Caves Regional Park. Three small villages, Škocjan, Betanja and Matavun, are located within the regional park, implying valuable local knowledge and a need to fully involve local residents in the management and benefit-sharing of the property. Other basic management needs encompass communication and public awareness activities. Scientific research in many fields, including geology, is an essential part of the conservation approach whilst also providing information for site management. Tourism and recreational activities require careful planning, control and impact monitoring in light of the limited overall size of the protected area, the localized concentration of access and the fragility of some of its attractions. As is common in protected area management, threats do not all stem from within the regional park, thus suggesting the need to take into account the broader landscape. The Reka River epitomizes this permanent challenge. Its water quality has been varying as a result of industrial pollution, sewage and agricultural waste among other external factors, strongly impacting on aquatic life. Likewise, past debates about possible impacts of proposed wind turbines on the nearby Vremscica Plateau serve as a reminder that conservation management is required to respond to inevitable change, to defend its position and to help balance competing demands."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            7,
+            8
+          ],
+          "display": "(vii)(viii)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 413,
+          "square_km": 4.13,
+          "square_miles": 1.671,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ba838f798cdd3cc1260c0d180d642e52",
+          "filename": "site_0390_0001.jpg",
+          "dimensions": {
+            "width": 2592,
+            "height": 1944
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111166/site_0390_0001.jpg",
+            "https://whc.unesco.org/document/111168/site_0390_0002.jpg",
+            "https://whc.unesco.org/document/111170/site_0390_0003.jpg",
+            "https://whc.unesco.org/document/111172/site_0390_0004.jpg",
+            "https://whc.unesco.org/document/122699/site_0390_0005.jpg",
+            "https://whc.unesco.org/document/122700/site_0390_0006.jpg",
+            "https://whc.unesco.org/document/122701/site_0390_0007.jpg",
+            "https://whc.unesco.org/document/122703/site_0390_0009.jpg",
+            "https://whc.unesco.org/document/122704/site_0390_0010.jpg",
+            "https://whc.unesco.org/document/122706/site_0390_0012.jpg",
+            "https://whc.unesco.org/document/122707/site_0390_0013.jpg",
+            "https://whc.unesco.org/document/122708/site_0390_0014.jpg",
+            "https://whc.unesco.org/document/123415/site_0390_0016.jpg",
+            "https://whc.unesco.org/document/123416/site_0390_0017.jpg",
+            "https://whc.unesco.org/document/123417/site_0390_0018.jpg",
+            "https://whc.unesco.org/document/123418/site_0390_0019.jpg",
+            "https://whc.unesco.org/document/123419/site_0390_0020.jpg",
+            "https://whc.unesco.org/document/123420/site_0390_0021.jpg",
+            "https://whc.unesco.org/document/123421/site_0390_0022.jpg",
+            "https://whc.unesco.org/document/138057/site_0390_0023.jpg",
+            "https://whc.unesco.org/document/138058/site_0390_0024.jpg",
+            "https://whc.unesco.org/document/138059/site_0390_0025.jpg",
+            "https://whc.unesco.org/document/138060/site_0390_0026.jpg",
+            "https://whc.unesco.org/document/138061/site_0390_0027.jpg",
+            "https://whc.unesco.org/document/138062/site_0390_0028.jpg",
+            "https://whc.unesco.org/document/138063/site_0390_0029.jpg",
+            "https://whc.unesco.org/document/138064/site_0390_0030.jpg",
+            "https://whc.unesco.org/document/138065/site_0390_0031.jpg",
+            "https://whc.unesco.org/document/138066/site_0390_0032.jpg",
+            "https://whc.unesco.org/document/138067/site_0390_0033.jpg",
+            "https://whc.unesco.org/document/138068/site_0390_0034.jpg",
+            "https://whc.unesco.org/document/156306/site_0390_0035.jpg",
+            "https://whc.unesco.org/document/156307/site_0390_0036.jpg",
+            "https://whc.unesco.org/document/156308/site_0390_0037.jpg",
+            "https://whc.unesco.org/document/156309/site_0390_0038.jpg",
+            "https://whc.unesco.org/document/156310/site_0390_0039.jpg"
+          ],
+          "count": 36
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Škocjan Caves",
+            "ref": "390",
+            "latitude": 45.66667,
+            "longitude": 14.0
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/390",
+        "unesco_documents": "https://whc.unesco.org/en/list/390/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/390/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/390/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Škocjan Caves This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena. This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena. Slovenia Europe and North America Natural"
+    },
+    {
+      "site_key": "ancient_and_primeval_beech_forests_of_the_carpathians_and_other_regions_of_europe",
+      "uuid": "a3e04083-f693-5147-bc20-4f6dbcbff76e",
+      "unesco_id": "1133",
+      "names": {
+        "en": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "fr": "Forêts primaires et anciennes de hêtres des Carpates et d’autres régions d’Europe",
+        "es": "Bosques antiguos y primarios de hayas de los Cárpatos y otras regiones de Europa",
+        "ru": "Древние и первобытные буковые леса Карпат и других регионов Европы",
+        "ar": "غابات الزان القديمة وغابات الزان البدائية لمنطقة الكربات وغيرها من مناطق أوروبا",
+        "zh": "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MKD": {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "iso3": "MKD"
+          },
+          "ESP": {
+            "name": "Spain",
+            "iso2": "ES",
+            "iso3": "ESP"
+          },
+          "ITA": {
+            "name": "Italy",
+            "iso2": "IT",
+            "iso3": "ITA"
+          },
+          "FRA": {
+            "name": "France",
+            "iso2": "FR",
+            "iso3": "FRA"
+          },
+          "POL": {
+            "name": "Poland",
+            "iso2": "PL",
+            "iso3": "POL"
+          },
+          "ALB": {
+            "name": "Albania",
+            "iso2": "AL",
+            "iso3": "ALB"
+          },
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "BEL": {
+            "name": "Belgium",
+            "iso2": "BE",
+            "iso3": "BEL"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "ROU": {
+            "name": "Romania",
+            "iso2": "RO",
+            "iso3": "ROU"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          },
+          "SVK": {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "iso3": "SVK"
+          },
+          "CHE": {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "iso3": "CHE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          },
+          "DEU": {
+            "name": "Germany",
+            "iso2": "DE",
+            "iso3": "DEU"
+          },
+          "CZE": {
+            "name": "Czechia",
+            "iso2": "CZ",
+            "iso3": "CZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 18
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+          "fr": "Ce bien transnational, composé de 93 éléments constitutifs, s’étend sur 18 pays. Depuis la fin de la dernière période glaciaire, le hêtre d’Europe s’est répandu à partir de quelques refuges isolés dans les Alpes, les Carpates, les Dinarides, la Méditerranée et les Pyrénées, en l’espace de quelques milliers d’années, un processus qui se poursuit encore aujourd’hui. Le succès de la progression du hêtre s’explique par son adaptabilité et sa tolérance à différentes conditions climatiques, géographiques et physiques.",
+          "es": "",
+          "ru": "Расширение территории транснационального серийного объекта всемирного наследия «Древние и первобытные буковые леса Карпат и других регионов Европы» еще на десять европейских стран повышает исключительную универсальную ценность и целостность объекта, который теперь состоит из 93 составных частей в 18 странах. Расширенная территория объекта представляет собой выдающийся пример относительно нетронутых сложных лесов умеренного пояса и демонстрирует широкий спектр комплексных экологических моделей и процессов чистых и смешанных европейских буковых насаждений в различных экологических условиях.",
+          "ar": "يُعتبر توسيع الموقع المتسلسل العابر للحدود الوطنية لموقع غابات الزان البدائية في منطقة الكاربات ومناطق أخرى في أوروبا عبر عشرة بلدان أوروبية إضافية، بمثابة جرعة تعزيز للقيمة العالمية الاستثنائية للموقع وسلامته. ويضم الموقع الموسّع حالياً 93 عنصراً موزَّعاً في 18 بلداً، ويقدّم مثالاً استثنائياً للغابات المداريّة المعقدة التي تنعم بالهدوء نوعاً ما. ويستعرض الموقع طيفاً واسعاً من النماذج البيئية الشاملة، فضلاً عن العمليات البيئيّة الإيكولوجيّة للأنواع النقيّة والمختلطة للزان الأوروبي في سلسلة متنوعة من الظروف البيئية.",
+          "zh": "此次扩展将有10个欧洲国家新加入“喀尔巴阡山脉及欧洲其它地区的原始山毛榉林”这一跨境世界遗产项目，提升了该遗产地的突出普遍价值和完整性，至此该遗产地包含分布在18个国家的93个部分。扩展后的遗产地是相对未受干扰的温带森林群的杰出范例，展示了在各种环境条件下欧洲山毛榉纯林和混交林的广泛综合生态模式和过程。"
+        },
+        "full": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+        "justification": "Brief synthesis The “Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe” are a transnational serial property comprising 93 component parts across 18 countries. They represent an outstanding example of relatively undisturbed, complex temperate forests and exhibit a wide spectrum of comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental conditions. During each glacial phase (ice ages) of the last 1 million years, European beech (Fagus sylvatica) survived the unfavourable climatic conditions in refuge areas in the southern parts of the European continent. These refuge areas have been documented by scientists through palaeoecological analysis and using the latest techniques in genetic coding. After the last Ice Age, around 11,000 years ago, beech started expanding its range from these southern refuge areas to eventually cover large parts of the European continent. During this expansion process, which is still ongoing, beech formed different types of plant communities while occupying largely different environments. The interplay between a diversity of environments, climatic gradients and different species gene pools has and continues to shape this high diversity of beech forest communities. These forests contain an invaluable population of old trees and a genetic reservoir of beech and many other species, which are associated with and dependent on these old-growth forest habitats. Criterion (ix): The property is indispensable for the understanding of the history and evolution of the genus Fagus which, given its wide distribution in the Northern Hemisphere and its ecological importance, is globally significant. These largely undisturbed, complex temperate forests exhibit comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental gradients, including climatic and geological conditions, spanning almost all European Beech Forest Regions. Forests are included from all altitudinal zones from coastal areas to the treeline and, include the best remaining examples from the range limits of the European beech forest. Beech is one of the most important features in the Temperate Broadleaf Forest Biome and represents an outstanding example of the re-colonization and development of terrestrial ecosystems and communities since the last Ice Age. The continuing northern and westward expansion of beech from its original glacial refuge areas in the eastern and southern parts of Europe can be tracked along natural corridors and stepping stones spanning the continent. The dominance of beech across extensive areas of Europe is a living testimony of the tree’s genetic adaptability, a process which is still ongoing. Integrity The selected component parts represent the diversity of ancient and primeval beech forests found across Europe in terms of different climatic and geological conditions and altitudinal zones. The property includes component parts, which convey its Outstanding Universal Value (OUV), and represent the variability of European beech forest ecosystems. Together these component parts contribute to the integrity of the property as a whole. Additionally, each component part needs to demonstrate integrity at the local level by representing the full suite of natural forest development processes in its particular geographical and ecological setting within the series. Most of the component parts are of sufficient size to maintain such natural processes necessary for their long-term ecological viability. The most significant threats to the property are logging and habitat fragmentation. Logging activities in the vicinity of component parts can cause microclimatic changes and nutrient mobilising effects, with negative impacts on the integrity of the property. Land use change in the surrounding landscapes can lead to increased habitat fragmentation, which would be of particular concern for smaller component parts. Infrastructure development is a potential threat only in the surroundings of a few component parts. Climate change already poses a risk to some component parts and further impacts can be anticipated, including changes in species composition and habitat shifting. However, it should be noted that one of the attributes of the Outstanding Universal Value of the property is its demonstration of the ability of beech to adapt to different ecological and climatic regimes throughout its range. Therefore, potential future changes need to be monitored and documented in order to better understand these processes. The above-mentioned threats may affect the integrity of the component parts to a different extent and in different ways, for example through the reduction of structural diversity, fragmentation, loss of connectivity, biomass loss and changed microclimate, which reduce ecosystem functionality and adaptive capacity as a whole. To cope with these threats, buffer zones are established and are managed accordingly by the responsible management bodies. Protection and management requirements A strict non-intervention management is essential for the conservation of the OUV of this serial property across all its component parts. The majority of the 93 component parts are protected by law as strict forest reserves, wilderness areas, core areas of biosphere reserves or national parks (IUCN category I or II). Some of the component parts are protected and managed by Forest Management Plans (with regulations ensuring no logging in old-growth forests). As it is of uppermost importance to guarantee strong protection status in the long term, the protection status will be improved where needed. To ensure the viability of the four component parts smaller than the established minimum size of 50 ha, an enlargement of the component parts with further non-intervention management will be considered by the States Parties. Additionally, an effective management of buffer zones to protect the property from external threats and to safeguard its integrity is of uppermost importance. The integrity of each component part is the responsibility of the State Party and is ensured by the relevant local management units. For the coherent protection and management of the property, as well as to coordinate activities between the management units and the 18 States Parties, a functional organisational structure should be established. To ensure this aspect, an Integrated Management System was developed during the nomination process and will be maintained to allow effective and coordinated management and protection of the property as a whole. The Joint Management Committee, comprising representatives of all States Parties, formulated a Joint Declaration of Intent. This Declaration regulates and structures the cooperation between all the States Parties whose territory is included in the property and ensures the commitment to protect and strengthen the Outstanding Universal Value of the property. The position of a coordinator will be established and maintained to support the Joint Management Committee and the States Parties in their work. The Integrated Management System and the management plans of the component parts will ensure a non-intervention management approach for the component parts while the buffer zones will be managed to avoid negative impacts on the Outstanding Universal Value of the property with a specific focus on ensuring integrity remains intact. To harmonise the management approach across the 93 component parts, the States Parties will develop common objectives and coordinated activities which will cover property and buffer zone management, monitoring and research, education and awareness raising, visitor management and tourism as well as financial and human capacity building. It is proposed to establish a coherent monitoring system based on selected ecological (proxy) indicators of integrity within all component parts to compare long-term development. It is imperative that each State Party provides clear and committed long-term funding arrangements, to support consistent national site management as well as coordinated management. Special attention is required to ensure the configuration of the property such that each component part retains ongoing viability to evolve with unimpeded ecological and biological processes and without the need for substantial interventions. This includes the integration of surrounding forest ecosystems to provide sufficient protection and connectivity, especially for small component parts. All component parts have buffer zones of various configurations including surrounding protected areas (national parks, nature parks, biosphere reserves and others). These buffer zones will be regularly monitored to ensure protection under changing environmental conditions such as climate change. The boundaries of buffer zones should, where possible, be aligned with existing protected area boundaries and should be expanded to connect component parts where they are in close proximity. Finally, where appropriate, special ongoing emphasis is needed to ensure effective ecological connectivity between beech forests and the surrounding complementary habitats to allow natural development and adaptation of the forest to the environmental change."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 99947.81,
+          "square_km": 999.48,
+          "square_miles": 404.475,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007,
+            2011,
+            2017,
+            2021
+          ],
+          "extensions": [
+            2011,
+            2017,
+            2021
+          ],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2011,
+              "event": "Extended"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            },
+            {
+              "year": 2021,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 3
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f1bfac47f3366890b0b7b4b548a3f6e4",
+          "filename": "site_1133_0082-500-0-20241104173714.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209487/site_1133_0082.jpg",
+            "https://whc.unesco.org/document/209488/site_1133_0083.jpg",
+            "https://whc.unesco.org/document/209489/site_1133_0084.jpg",
+            "https://whc.unesco.org/document/209490/site_1133_0085.jpg",
+            "https://whc.unesco.org/document/209491/site_1133_0086.jpg",
+            "https://whc.unesco.org/document/209492/site_1133_0087.jpg",
+            "https://whc.unesco.org/document/209493/site_1133_0088.jpg",
+            "https://whc.unesco.org/document/209494/site_1133_0089.jpg",
+            "https://whc.unesco.org/document/181193/site_1133_0076.jpg",
+            "https://whc.unesco.org/document/187746/site_1133_0080.jpg",
+            "https://whc.unesco.org/document/187745/site_1133_0079.jpg",
+            "https://whc.unesco.org/document/181191/site_1133_0074.jpg",
+            "https://whc.unesco.org/document/115216/site_1133_0001.jpg",
+            "https://whc.unesco.org/document/122807/site_1133_0017.jpg",
+            "https://whc.unesco.org/document/122809/site_1133_0019.jpg",
+            "https://whc.unesco.org/document/122810/site_1133_0020.jpg",
+            "https://whc.unesco.org/document/147514/site_1133_0027.jpg",
+            "https://whc.unesco.org/document/147515/site_1133_0028.jpg",
+            "https://whc.unesco.org/document/147516/site_1133_0029.jpg",
+            "https://whc.unesco.org/document/147517/site_1133_0030.jpg",
+            "https://whc.unesco.org/document/147518/site_1133_0031.jpg",
+            "https://whc.unesco.org/document/147519/site_1133_0032.jpg",
+            "https://whc.unesco.org/document/147520/site_1133_0033.jpg",
+            "https://whc.unesco.org/document/147521/site_1133_0034.jpg",
+            "https://whc.unesco.org/document/147522/site_1133_0035.jpg",
+            "https://whc.unesco.org/document/147523/site_1133_0036.jpg",
+            "https://whc.unesco.org/document/147524/site_1133_0037.jpg",
+            "https://whc.unesco.org/document/147525/site_1133_0038.jpg",
+            "https://whc.unesco.org/document/147526/site_1133_0039.jpg",
+            "https://whc.unesco.org/document/147527/site_1133_0040.jpg",
+            "https://whc.unesco.org/document/147528/site_1133_0041.jpg",
+            "https://whc.unesco.org/document/147529/site_1133_0042.jpg",
+            "https://whc.unesco.org/document/147530/site_1133_0043.jpg",
+            "https://whc.unesco.org/document/147531/site_1133_0044.jpg",
+            "https://whc.unesco.org/document/147532/site_1133_0045.jpg",
+            "https://whc.unesco.org/document/147533/site_1133_0046.jpg",
+            "https://whc.unesco.org/document/147534/site_1133_0047.jpg",
+            "https://whc.unesco.org/document/147536/site_1133_0048.jpg",
+            "https://whc.unesco.org/document/147537/site_1133_0049.jpg",
+            "https://whc.unesco.org/document/147538/site_1133_0050.jpg",
+            "https://whc.unesco.org/document/147539/site_1133_0051.jpg",
+            "https://whc.unesco.org/document/147540/site_1133_0052.jpg",
+            "https://whc.unesco.org/document/147541/site_1133_0053.jpg",
+            "https://whc.unesco.org/document/147542/site_1133_0054.jpg",
+            "https://whc.unesco.org/document/147543/site_1133_0055.jpg",
+            "https://whc.unesco.org/document/147544/site_1133_0056.jpg",
+            "https://whc.unesco.org/document/147545/site_1133_0057.jpg",
+            "https://whc.unesco.org/document/147546/site_1133_0058.jpg",
+            "https://whc.unesco.org/document/147547/site_1133_0059.jpg",
+            "https://whc.unesco.org/document/147548/site_1133_0060.jpg",
+            "https://whc.unesco.org/document/147549/site_1133_0061.jpg",
+            "https://whc.unesco.org/document/147550/site_1133_0062.jpg",
+            "https://whc.unesco.org/document/147551/site_1133_0063.jpg",
+            "https://whc.unesco.org/document/147552/site_1133_0064.jpg",
+            "https://whc.unesco.org/document/147553/site_1133_0065.jpg",
+            "https://whc.unesco.org/document/147554/site_1133_0066.jpg",
+            "https://whc.unesco.org/document/147555/site_1133_0067.jpg",
+            "https://whc.unesco.org/document/147556/site_1133_0068.jpg",
+            "https://whc.unesco.org/document/147557/site_1133_0069.jpg",
+            "https://whc.unesco.org/document/187751/site_1133_0081.jpg"
+          ],
+          "count": 60
+        }
+      },
+      "components": {
+        "count": 93,
+        "locations": [
+          {
+            "name": "Rrajca",
+            "ref": "1133quinquies-013",
+            "latitude": 41.2,
+            "longitude": 20.5
+          },
+          {
+            "name": "Krokar",
+            "ref": "1133quinquies-055",
+            "latitude": 45.542,
+            "longitude": 14.769
+          },
+          {
+            "name": "Massane",
+            "ref": "1133quinquies-078",
+            "latitude": 42.48,
+            "longitude": 3.032
+          },
+          {
+            "name": "Jasmund",
+            "ref": "1133quinquies-007",
+            "latitude": 54.555,
+            "longitude": 13.669
+          },
+          {
+            "name": "Serrahn",
+            "ref": "1133quinquies-008",
+            "latitude": 53.341,
+            "longitude": 13.205
+          },
+          {
+            "name": "Grumsin",
+            "ref": "1133quinquies-009",
+            "latitude": 52.9833333333,
+            "longitude": 13.8833333333
+          },
+          {
+            "name": "Hainich",
+            "ref": "1133quinquies-010",
+            "latitude": 51.0666666667,
+            "longitude": 10.4333333333
+          },
+          {
+            "name": "Gorgany",
+            "ref": "1133quinquies-063",
+            "latitude": 48.475,
+            "longitude": 24.296
+          },
+          {
+            "name": "Chapitre",
+            "ref": "1133quinquies-076",
+            "latitude": 44.633,
+            "longitude": 6.001
+          },
+          {
+            "name": "Vihorlat",
+            "ref": "1133quinquies-093",
+            "latitude": 48.916,
+            "longitude": 22.185
+          },
+          {
+            "name": "Svydovets",
+            "ref": "1133quinquies-005",
+            "latitude": 48.193,
+            "longitude": 24.188
+          },
+          {
+            "name": "Roztochya",
+            "ref": "1133quinquies-064",
+            "latitude": 49.958,
+            "longitude": 23.647
+          },
+          {
+            "name": "Chornohora",
+            "ref": "1133quinquies-001",
+            "latitude": 48.1333333333,
+            "longitude": 24.3833333333
+          },
+          {
+            "name": "Maramarosh",
+            "ref": "1133quinquies-003",
+            "latitude": 47.94,
+            "longitude": 24.309
+          },
+          {
+            "name": "Kellerwald",
+            "ref": "1133quinquies-011",
+            "latitude": 51.1333333333,
+            "longitude": 8.9666666667
+          },
+          {
+            "name": "Dlaboka Reka",
+            "ref": "1133quinquies-084",
+            "latitude": 41.764,
+            "longitude": 20.591
+          },
+          {
+            "name": "Prašuma Janj",
+            "ref": "1133quinquies-072",
+            "latitude": 44.146,
+            "longitude": 17.282
+          },
+          {
+            "name": "Grand Ventron",
+            "ref": "1133quinquies-077",
+            "latitude": 47.9666666667,
+            "longitude": 6.9333333333
+          },
+          {
+            "name": "Lumi i gashit",
+            "ref": "1133quinquies-012",
+            "latitude": 42.465,
+            "longitude": 20.073
+          },
+          {
+            "name": "Monte Cimino",
+            "ref": "1133quinquies-040",
+            "latitude": 42.409,
+            "longitude": 12.204
+          },
+          {
+            "name": "Monte Raschio",
+            "ref": "1133quinquies-041",
+            "latitude": 42.174,
+            "longitude": 12.16
+          },
+          {
+            "name": "Sasso Fratino",
+            "ref": "1133quinquies-042",
+            "latitude": 43.846,
+            "longitude": 11.807
+          },
+          {
+            "name": "Valle Infernale",
+            "ref": "1133quinquies-083",
+            "latitude": 38.132,
+            "longitude": 15.961
+          },
+          {
+            "name": "Izvoarele Nerei",
+            "ref": "1133quinquies-053",
+            "latitude": 45.1166666667,
+            "longitude": 22.05
+          },
+          {
+            "name": "Strimbu Băiuț",
+            "ref": "1133quinquies-054",
+            "latitude": 47.635,
+            "longitude": 24.061
+          },
+          {
+            "name": "Jizera Mountains",
+            "ref": "1133quinquies-075",
+            "latitude": 50.86,
+            "longitude": 15.16
+          },
+          {
+            "name": "Udava (Poloniny)",
+            "ref": "1133quinquies-092",
+            "latitude": 49.174,
+            "longitude": 22.226
+          },
+          {
+            "name": "Rožok (Poloniny)",
+            "ref": "1133quinquies-090",
+            "latitude": 48.978,
+            "longitude": 22.465
+          },
+          {
+            "name": "Snežnik-Ždrocle",
+            "ref": "1133quinquies-056",
+            "latitude": 45.5833333333,
+            "longitude": 14.45
+          },
+          {
+            "name": "Satanіvska Dacha",
+            "ref": "1133quinquies-065",
+            "latitude": 49.175,
+            "longitude": 26.244
+          },
+          {
+            "name": "Cozia – Lotrisor",
+            "ref": "1133quinquies-047",
+            "latitude": 45.3,
+            "longitude": 24.278
+          },
+          {
+            "name": "Synevyr – Strymba",
+            "ref": "1133quinquies-068",
+            "latitude": 48.446,
+            "longitude": 23.785
+          },
+          {
+            "name": "Kuziy – Trybushany",
+            "ref": "1133quinquies-002",
+            "latitude": 47.948,
+            "longitude": 24.135
+          },
+          {
+            "name": "Stuzhytsia – Uzhok",
+            "ref": "1133quinquies-004",
+            "latitude": 49.082,
+            "longitude": 22.59
+          },
+          {
+            "name": "Kalkalpen – Urlach",
+            "ref": "1133quinquies-017",
+            "latitude": 47.8,
+            "longitude": 14.2333333333
+          },
+          {
+            "name": "Synevyr – Darvaika",
+            "ref": "1133quinquies-066",
+            "latitude": 48.488,
+            "longitude": 23.773
+          },
+          {
+            "name": "Synevyr – Vilshany",
+            "ref": "1133quinquies-069",
+            "latitude": 48.35,
+            "longitude": 23.65
+          },
+          {
+            "name": "Synevyr – Kvasovets",
+            "ref": "1133quinquies-067",
+            "latitude": 48.378,
+            "longitude": 23.702
+          },
+          {
+            "name": "Codrul secular Șinca",
+            "ref": "1133quinquies-044",
+            "latitude": 45.6666666667,
+            "longitude": 25.1666666667
+          },
+          {
+            "name": "Uholka – Shyrikyi Luh",
+            "ref": "1133quinquies-006",
+            "latitude": 48.3,
+            "longitude": 23.6833333333
+          },
+          {
+            "name": "Dürrenstein-Lassingtal",
+            "ref": "1133quinquies-014",
+            "latitude": 47.74,
+            "longitude": 14.985
+          },
+          {
+            "name": "Paklenica National Park",
+            "ref": "1133quinquies-034",
+            "latitude": 44.3333333333,
+            "longitude": 15.5
+          },
+          {
+            "name": "Cheile Nerei-Beușnița",
+            "ref": "1133quinquies-043",
+            "latitude": 44.9,
+            "longitude": 21.8
+          },
+          {
+            "name": "Cozia – Masivul Cozia",
+            "ref": "1133quinquies-046",
+            "latitude": 45.3166666667,
+            "longitude": 24.3166666667
+          },
+          {
+            "name": "Falascone (Foresta Umbra)",
+            "ref": "1133quinquies-079",
+            "latitude": 41.807,
+            "longitude": 15.981
+          },
+          {
+            "name": "Forêt de la Bettlachstock",
+            "ref": "1133quinquies-073",
+            "latitude": 47.2166666667,
+            "longitude": 7.4
+          },
+          {
+            "name": "Kalkalpen – Hintergebirg",
+            "ref": "1133quinquies-015",
+            "latitude": 47.7333333333,
+            "longitude": 14.4666666667
+          },
+          {
+            "name": "Kalkalpen – Bodinggraben",
+            "ref": "1133quinquies-016",
+            "latitude": 47.7833333333,
+            "longitude": 14.35
+          },
+          {
+            "name": "Codrul Secular Slătioara",
+            "ref": "1133quinquies-045",
+            "latitude": 47.443,
+            "longitude": 25.629
+          },
+          {
+            "name": "Kalkalpen – Wilder Graben",
+            "ref": "1133quinquies-018",
+            "latitude": 47.83,
+            "longitude": 14.432
+          },
+          {
+            "name": "Hajdučki i Rožanski kukovi",
+            "ref": "1133quinquies-033",
+            "latitude": 44.768,
+            "longitude": 15.006
+          },
+          {
+            "name": "Pavari-Sfilzi (Foresta Umbra)",
+            "ref": "1133quinquies-080",
+            "latitude": 41.839,
+            "longitude": 16.027
+          },
+          {
+            "name": "Hayedos de Ayllon – Montejo",
+            "ref": "1133quinquies-058",
+            "latitude": 41.11,
+            "longitude": -3.499
+          },
+          {
+            "name": "Hayedos de Navarra – Aztaparreta",
+            "ref": "1133quinquies-060",
+            "latitude": 42.912,
+            "longitude": -0.818
+          },
+          {
+            "name": "Zacharovanyi Krai – Irshavka",
+            "ref": "1133quinquies-070",
+            "latitude": 48.454,
+            "longitude": 23.094
+          },
+          {
+            "name": "Groșii Țibleșului – Preluci",
+            "ref": "1133quinquies-052",
+            "latitude": 47.5333333333,
+            "longitude": 24.2166666667
+          },
+          {
+            "name": "Hayedos de Navarra – Lizardoia",
+            "ref": "1133quinquies-059",
+            "latitude": 43.005,
+            "longitude": -1.114
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle A",
+            "ref": "1133quinquies-020",
+            "latitude": 50.781,
+            "longitude": 4.427
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle B",
+            "ref": "1133quinquies-021",
+            "latitude": 50.784,
+            "longitude": 4.434
+          },
+          {
+            "name": "Central Balkan – Boatin Reserve",
+            "ref": "1133quinquies-024",
+            "latitude": 42.8,
+            "longitude": 24.2666666667
+          },
+          {
+            "name": "Zacharovanyi Krai – Velykyi Dil",
+            "ref": "1133quinquies-071",
+            "latitude": 48.421,
+            "longitude": 23.172
+          },
+          {
+            "name": "Pollinello (Pollino National Park)",
+            "ref": "1133quinquies-082",
+            "latitude": 39.897,
+            "longitude": 16.197
+          },
+          {
+            "name": "Central Balkan – Steneto Reserve",
+            "ref": "1133quinquies-027",
+            "latitude": 42.7333333333,
+            "longitude": 24.7
+          },
+          {
+            "name": "Central Balkan – Sokolna Reserve",
+            "ref": "1133quinquies-032",
+            "latitude": 42.6833333333,
+            "longitude": 25.1333333333
+          },
+          {
+            "name": "Hayedos de Ayllon – Tejera Negra",
+            "ref": "1133quinquies-057",
+            "latitude": 41.245,
+            "longitude": -3.388
+          },
+          {
+            "name": "Wolosatka stream valley (Bieszczady)",
+            "ref": "1133quinquies-088",
+            "latitude": 49.0666666667,
+            "longitude": 22.7333333333
+          },
+          {
+            "name": "Central Balkan – Dzhendema Reserve",
+            "ref": "1133quinquies-029",
+            "latitude": 42.6833333333,
+            "longitude": 24.9666666667
+          },
+          {
+            "name": "Terebowiec stream valley (Bieszczady)",
+            "ref": "1133quinquies-087",
+            "latitude": 49.095,
+            "longitude": 22.722
+          },
+          {
+            "name": "Havešová Primeval Forest (Poloniny)",
+            "ref": "1133quinquies-089",
+            "latitude": 49.01,
+            "longitude": 22.337
+          },
+          {
+            "name": "Stužica - Bukovské Vrchy (Poloniny)",
+            "ref": "1133quinquies-091",
+            "latitude": 49.085,
+            "longitude": 22.526
+          },
+          {
+            "name": "Central Balkan – Tsarichina Reserve",
+            "ref": "1133quinquies-025",
+            "latitude": 42.774,
+            "longitude": 24.411
+          },
+          {
+            "name": "Central Balkan – Stara Reka Reserve",
+            "ref": "1133quinquies-028",
+            "latitude": 42.697,
+            "longitude": 24.81
+          },
+          {
+            "name": "Cozzo Ferriero (Pollino National Park)",
+            "ref": "1133quinquies-081",
+            "latitude": 39.908,
+            "longitude": 16.105
+          },
+          {
+            "name": "Central Balkan – Kozya stena Reserve",
+            "ref": "1133quinquies-026",
+            "latitude": 42.795,
+            "longitude": 24.523
+          },
+          {
+            "name": "Central Balkan – Peesh skali Reserve",
+            "ref": "1133quinquies-031",
+            "latitude": 42.766,
+            "longitude": 25.076
+          },
+          {
+            "name": "Groșii Țibleșului – Izvorul Șurii",
+            "ref": "1133quinquies-051",
+            "latitude": 47.553,
+            "longitude": 24.187
+          },
+          {
+            "name": "Polonina Wetlinska and Smerek (Bieszczady)",
+            "ref": "1133quinquies-086",
+            "latitude": 49.175,
+            "longitude": 22.527
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Cuesta Fria",
+            "ref": "1133quinquies-061",
+            "latitude": 43.1666666667,
+            "longitude": -4.9833333333
+          },
+          {
+            "name": "Central Balkan – Severen Dzhendem Reserve",
+            "ref": "1133quinquies-030",
+            "latitude": 42.744,
+            "longitude": 24.94
+          },
+          {
+            "name": "Domogled – Valea Cernei – Iauna Craiovei",
+            "ref": "1133quinquies-049",
+            "latitude": 45.107,
+            "longitude": 22.566
+          },
+          {
+            "name": "Domogled – Valea Cernei – Ciucevele Cerne",
+            "ref": "1133quinquies-050",
+            "latitude": 45.25,
+            "longitude": 22.84
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Canal de Asotin",
+            "ref": "1133quinquies-062",
+            "latitude": 43.171,
+            "longitude": -4.889
+          },
+          {
+            "name": "Border Ridge and Gorna Solinka valley (Bieszczady)",
+            "ref": "1133quinquies-085",
+            "latitude": 49.098,
+            "longitude": 22.563
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton A",
+            "ref": "1133quinquies-022",
+            "latitude": 50.734,
+            "longitude": 4.437
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton B",
+            "ref": "1133quinquies-023",
+            "latitude": 50.727,
+            "longitude": 4.431
+          },
+          {
+            "name": "Sonian Forest – Forest Reserve “Joseph Zwaenepoel”",
+            "ref": "1133quinquies-019",
+            "latitude": 50.757,
+            "longitude": 4.416
+          },
+          {
+            "name": "Domogled – Valea Cernei – Domogled-Coronini – Bedina",
+            "ref": "1133quinquies-048",
+            "latitude": 44.9333333333,
+            "longitude": 22.4666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1133",
+        "unesco_documents": "https://whc.unesco.org/en/list/1133/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1133/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1133/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. North Macedonia Spain Italy France Poland Albania Austria Belgium Croatia Romania Ukraine Bulgaria Slovenia Slovakia Switzerland Bosnia and Herzegovina Germany Czechia Europe and North America Natural"
+    }
+  ]
+}

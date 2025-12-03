@@ -1,0 +1,220 @@
+{
+  "site_key": "cultural_heritage_sites_of_ancient_khuttal",
+  "uuid": "d1c7684d-010b-5376-8c86-0b2f3223e2f6",
+  "unesco_id": "1627",
+  "names": {
+    "en": "Cultural Heritage Sites of Ancient Khuttal",
+    "fr": "Sites du patrimoine culturel du Khuttal ancien",
+    "es": "Sitios del Patrimonio Cultural del Antiguo Khuttal",
+    "ru": "Объекты культурного наследия Древнего Хутталя",
+    "ar": "مواقع التراث الثقافي لختال القديمة",
+    "zh": "古骨咄的文化遗产地"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "TJK": {
+        "name": "Tajikistan",
+        "iso2": "TJ",
+        "iso3": "TJK"
+      }
+    },
+    "region": {
+      "name": "Asia and the Pacific",
+      "code": "APA"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+      "fr": "Le Khuttal ancien était un royaume médiéval, situé entre les rivières Panj et Vakhch et les contreforts du Pamir. Ce bien comprend une série de dix sites et un monument témoignant de son rôle entre les VIIe et XVIe siècles lors des échanges commerciaux des Routes de la Soie. Le Khuttal fournissait des produits de grande valeur : sel, or, argent et races de chevaux locales, et servait de carrefour culturel, religieux et technologique. Ses vestiges archéologiques comme les temples bouddhistes, les palais, les établissements, les sites de fabrication et les caravansérails, illustrent son importance stratégique et les interactions florissantes avec les empires voisins.",
+      "es": "El antiguo Khuttal era un reino medieval situado entre los ríos Panj y Vakhsh y el piemonte de Pamir. El bien patrimonial incluye diez sitios y un monumento representativos de su importancia de los siglos VII al XVI en el comercio de las Rutas de la Seda. Khuttal aportaba bienes valiosos como sal, oro, plata y caballos, y sirvió como centro de intercambios culturales, religiosos y tecnológicos. La diversidad de restos arqueológicos —templos budistas, palacios, asentamientos, centros de fabricación y caravasares— ilustra su importancia estratégica y las vibrantes interacciones con los imperios vecinos.",
+      "ru": "Древний Хуттал был средневековым царством, расположенным между реками Пяндж и Вахш и предгорьями Памира. В состав объекта входят десять археологических памятников и один монумент. Они отражают роль Хутталя в торговле на Великом шёлковом пути с VII по XVI века. Хуттал поставлял лошадей и такие ценные ресурсы, как соль, золото и серебро, а также служил центром культурного, религиозного и технологического обмена. Разнообразные археологические свидетельства — буддийские храмы, дворцы, поселения, ремесленные центры и караван-сараи — иллюстрируют стратегическое положение Хутталя и его активное взаимодействие с соседними империями.",
+      "ar": "كانت ختال القديمة مملكة من العصور الوسطى تقع بين نهري بانج وفخش وسفوح جبل البامير. ويتضمن هذا العنصر عشرة مواقع ومعلماً أثرياً واحداً، تبين دور هذه المملكة التجاري على طرق الحرير بين القرنين السابع والسادس عشر. وقد ساهمت ختال في تقديم سلع قيِّمة مثل الملح والذهب والفضة والأحصنة، وكانت مركزاً للتبادل الثقافي والديني والتكنولوجي. وتظهر أهميتها الاستراتيجية وتفاعلها الحيوي مع الإمبراطوريات المجاورة من خلال ما بقي من آثارها المتنوعة من معابد بوذية وقصور ومستوطنات ومراكز تصنيع وخانات.",
+      "zh": "中世纪王国骨咄（Khuttal）位于喷赤河与瓦赫什河之间的帕米尔山麓。该遗产由10处遗址和1处建筑组成，见证了王国在7-16世纪丝路贸易中的重要作用。其不仅输出食盐、金银、良驹等珍贵商品，更成为文化、宗教、技术交流中心。现存的佛寺、宫殿、民居聚落、手工业中心及商旅客栈等多类考古遗迹，生动展现了这一地区的重要战略地位及与周边帝国的密切往来。"
+    },
+    "full": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        3
+      ],
+      "natural": [],
+      "all": [
+        2,
+        3
+      ],
+      "display": "(ii)(iii)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 152.409,
+      "square_km": 1.52,
+      "square_miles": 0.617,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2025,
+      "all_dates": [
+        2025
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2025,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2e1984d530479d98e0c0ed4d8adbca81",
+      "filename": "site_1627_0001.jpg",
+      "dimensions": {
+        "width": 5472,
+        "height": 3648
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/220718/site_1627_0001.jpg",
+        "https://whc.unesco.org/document/220719/site_1627_0002.jpg",
+        "https://whc.unesco.org/document/220720/site_1627_0003.jpg",
+        "https://whc.unesco.org/document/220721/site_1627_0004.jpg",
+        "https://whc.unesco.org/document/220722/site_1627_0005.jpg",
+        "https://whc.unesco.org/document/220723/site_1627_0006.jpg",
+        "https://whc.unesco.org/document/220724/site_1627_0007.jpg",
+        "https://whc.unesco.org/document/220725/site_1627_0008.jpg",
+        "https://whc.unesco.org/document/220726/site_1627_0009.jpg"
+      ],
+      "count": 9
+    }
+  },
+  "components": {
+    "count": 11,
+    "locations": [
+      {
+        "name": "Zoli Zard",
+        "ref": "1627-005",
+        "latitude": 38.1284444445,
+        "longitude": 69.3269666667
+      },
+      {
+        "name": "Shahrtepa",
+        "ref": "1627-010",
+        "latitude": 37.5474722222,
+        "longitude": 69.3702027778
+      },
+      {
+        "name": "Manzaratepa",
+        "ref": "1627-004",
+        "latitude": 37.8291666667,
+        "longitude": 69.5898222222
+      },
+      {
+        "name": "Kalai Hulbuk",
+        "ref": "1627-002",
+        "latitude": 37.7777416667,
+        "longitude": 69.5567305556
+      },
+      {
+        "name": "Shahristoni Hulbuk",
+        "ref": "1627-003",
+        "latitude": 37.7836388889,
+        "longitude": 69.5605166667
+      },
+      {
+        "name": "Tohir Caravansarai",
+        "ref": "1627-009",
+        "latitude": 37.7443944444,
+        "longitude": 69.2987138889
+      },
+      {
+        "name": "Halevard (Kofirkala)",
+        "ref": "1627-007",
+        "latitude": 37.5886833333,
+        "longitude": 68.6466277777
+      },
+      {
+        "name": "Shahristoni Zoli Zar",
+        "ref": "1627-008",
+        "latitude": 37.6495527777,
+        "longitude": 69.4677833334
+      },
+      {
+        "name": "Makbarai Mavlono Tojiddin",
+        "ref": "1627-006",
+        "latitude": 38.1347305555,
+        "longitude": 69.3443583333
+      },
+      {
+        "name": "Khishttepa Buddhist temple",
+        "ref": "1627-011",
+        "latitude": 38.3198027778,
+        "longitude": 69.9336472222
+      },
+      {
+        "name": "Ajinatepa Buddhist monastery",
+        "ref": "1627-001",
+        "latitude": 37.7980666666,
+        "longitude": 68.8544361111
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1627",
+    "unesco_documents": "https://whc.unesco.org/en/list/1627/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1627/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1627/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Unknown",
+    "geographic_type": "River/Valley",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2020s",
+    "era": "Recent Period (2020+)",
+    "age_years": 0,
+    "inscription_year": 2025
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Cultural Heritage Sites of Ancient Khuttal Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires. Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires. Tajikistan Asia and the Pacific Cultural"
+}

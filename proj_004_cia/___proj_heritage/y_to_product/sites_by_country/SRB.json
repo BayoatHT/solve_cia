@@ -1,0 +1,952 @@
+{
+  "country": {
+    "code": "SRB",
+    "name": "Serbia"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "stari_ras_and_sopocani",
+      "uuid": "aa65d179-9297-5204-94fe-ec0b0b59bd8a",
+      "unesco_id": "96",
+      "names": {
+        "en": "Stari Ras and Sopoćani",
+        "fr": "Vieux Ras avec Sopoćani",
+        "es": "Stari Ras y Sopoćani",
+        "ru": "Древний город Стари-Рас и монастырь Сопочани",
+        "ar": "مدينة ستاري راس القديمة وسوبوتشاني",
+        "zh": "斯塔里斯和索泼查尼修道院"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "On the outskirts of Stari Ras, the first capital of Serbia, there is an impressive group of medieval monuments consisting of fortresses, churches and monasteries. The monastery at Sopoćani is a reminder of the contacts between Western civilization and the Byzantine world.",
+          "fr": "Aux environs de l’ancienne ville de Ras, première capitale de la Serbie, un impressionnant groupe de monuments médiévaux comprenant des forteresses, des églises et des monastères, dont celui de Sopoćani, rappellent les contacts entre les civilisations occidentales et le monde byzantin.",
+          "es": "En los alrededores de la antigua ciudad de Ras, primera capital de Serbia, un conjunto impresionante de monumentos medievales formado por fortalezas, iglesias y monasterios, entre los que destaca el de Sopoćani, testimonio histórico excepcional de los contactos entre la civilización occidental y el mundo bizantino.",
+          "ru": "На окраине Стари-Рас, первой столицы Сербии, находится выразительная группа средневековых памятников, состоящая из крепостей, церквей и монастырей. Монастырь Сопочани – это напоминание о связях между западной цивилизацией и византийским миром.",
+          "ar": "في ضواحي مدينة راس القديمة التي كانت العاصمة الأولى لصربيا، تعود الروابط بين الحضارات الغربية والعالم البيزنظي الى الذاكرة إزاء مجموعة مثيرة من النصب التي تُرقى الى القرون الوسطى والمؤلفة من قلاع وكنائس وأديرة كدير سوبوتشاني .",
+          "zh": "塞尔维亚的第一个首都位于斯塔里斯的郊区。这里有一系列令人印象深刻的中世纪遗址包括城堡、教堂和修道院。索泼查尼修道院是西方文明和拜占庭世界之间联系的见证。"
+        },
+        "full": "On the outskirts of Stari Ras, the first capital of Serbia, there is an impressive group of medieval monuments consisting of fortresses, churches and monasteries. The monastery at Sopoćani is a reminder of the contacts between Western civilization and the Byzantine world.",
+        "justification": "Brief synthesis Stari Ras and Sopoćani is a serial property consisting of four separate components located in the Raška region of southern Serbia: Sopoćani Monastery, Djurdjevi Stupovi Monastery, Holy Apostles St Peter and St Paul Church (St Peter’s Church), and the archaeological site of the Medieval Town of Ras. The impressive collection of three ecclesiastical monuments dating from the 10th to the 13th centuries eminently illustrates the birth of artistic activity in medieval Serbia, which attained the highest standards in the art and culture of the Byzantine Empire and the regions of Central and Southeastern Europe. The unique architectural complex formed by numerous structures in Stari Ras (Old Ras), situated at a crossroads of eastern and western influences,testifies to the period from 12th to the early 14th centuries when the ancient town was the first capital of the Serbian state. The frescoes in the Sopoćani Monastery church, dating from about 1270-1276, are among the finest in Byzantine and Serbian medieval art. These exceptional paintings represent the work of the best artists of that period who were unable to work in the territory of the Byzantine Empire and found refuge at the court of the Serbian king. At Sopoćani these artists introduced a refined spirit of antiquity to the prevailing medieval conventions. St George’s Church in the Djurdjevi Stupovi Monastery, founded in 1170-1171, is the earliest example of a distinctive new regional architecture that blended Romanesque and Byzantine styles. Known as the Raška School, this style came to dominate architecture in this area for almost a century and a half. The church also features two layers of preserved frescoes dating from 1175 and 1282-1283 that are among the finest from that period in the Balkans. The preserved frescoes in St Peter’s Church, built in the 10th century on the foundations of a 6thcentury baptistery and now the oldest surviving Christian church in the Balkans, also present evidence of the developments that took place in pictorial art between the 10th and 14th centuries. Stari Ras is located along the mountainous setting near the confluence of the Raška and Sebečevo rivers, and it became the first capital of the Serbian independent state on the accession of the Nemanjić dynasty in 1159. It was the focal point of all the decisive events underlying the state’s birth, development and consolidation. Now an archaeological site, it contains the remains of structures built from about the 9th century onwards, including the hilltop fortress of Gradina and the lower town of Trgovište. The combination of historical, cultural, artistic and natural values gives this group of monuments its significance. Together, they represent a unique contribution of the Serbian nation to the culture of Slavonic and other nations during the Middle Ages. Criterion (i): Sopoćani Monastery is renowned for the exceptional quality of its decorative frescoes. The frescoes in the narthex, which opens to two projecting chapels, provide a valuable historical record of the family of the founder of this monastery. The plastic quality of these compositions, mostly carried out in the 13th century, testifies to the vitality of Byzantine art at a time when Constantinople was in the hands of the Crusaders. The composition of the frescoes that adorn St George’s Church in the Djurdjevi Stupovi Monastery is original in the treatment of the figures in the manner of icons and draws its inspiration from ancient art. St Peter’s Church, the seat of the Bishop of Raška, was also decorated with frescoes mainly in the 13th century. Criterion (iii): The ancient town of Ras drew its strength from its location at a crossroads and was enriched through its contact with both eastern and western influences. Its numerous monuments form a unique architectural complex that testifies to the period when the capital of the Serbian state was located in Stari Ras. These buildings, erected for the most part between the 9th and 11th centuries, express in their plan and pictorial decoration an architectural interest that is characteristic of the Raška School. Integrity All the elements that sustain the Outstanding Universal Value of Stari Ras and Sopoćani are located within the boundaries of the 199-ha serial property. There is also a very large 9,936-ha buffer zone. The property is therefore of adequate size to ensure the complete representation of the features and processes that convey its significance. The state of conservation of all the components, including the remains of the fortress of Gradina and the lower town of Trgovište, and especially the very delicate wall paintings, is good, and their condition is constantly monitored by the relevant experts. Conservation and restoration works in the exonarthex of the Sopoćani Monastery church and St George’s Church in Djurdjevi Stupovi Monastery were in the service of restoring their original appearance and were preceded by serious archaeological and architectural investigations. The property does not suffer unduly from adverse effects of development and/or neglect. Authenticity A complete and intact set of attributes conveys the Outstanding Universal Value of Stari Ras and Sopoćani, including their forms and designs, materials and substance, and uses and functions. All conservation and restoration works have been carried out in the original materials and traditional techniques and do not threaten the authenticity of the monuments. They are accompanied by detailed architectural, artistic, archaeological and historical documentation that justifies their selection and assures their authenticity. Known threats and risks to the property include development pressures related to the nearby city of Novi Pazar, environmental pressure and the number of inhabitants. Rehabilitation of the original function of Djurdjevi Stupovi Monastery, while a positive action in terms of sustainable use, is also considered to be a potential threat to its authenticity. Protection and management requirements The owner of the three ecclesiastical monuments in the serial property is the Serbian Orthodox Church, and the owner of the Stari Ras archaeological site (including the fortress of Gradina and lower town of Trgovište) is the state. The owner of most of the area included in the buffer zone is the Republic of Serbia. Stari Ras and Sopoćani benefit from the highest level of legal protection in the Republic of Serbia, established by the 1994 Law of Cultural Heritage. The area around Stari Ras and Sopoćani is additionally protected by the Ras-Sopoćani Landscape of Outstanding Interest (1995) and the Spatial Plan of the Republic of Serbia (Official Gazette of the Republic of Serbia, June 1996). Management of the property is the responsibility of the Serbian Orthodox Church and the Government of the Republic of Serbia. Maintenance of the monuments is funded by the Serbian Orthodox Church, the Republic of Serbia, and the Municipality of the nearby town of Novi Pazar. Jurisdiction is divided among several governmental institutions, including the Institute for the Protection of Cultural Monuments of Serbia for preventive protection, conservation, restoration and presentation; the Institute for the Protection of Cultural Monuments of Serbia, the Archaeological Institute, and the Ras Museum in Novi Pazar for archaeological research; and the Ras Museum in Novi Pazar for maintenance of the archaeological sites and safekeeping of the archaeological material. All monastery and protected area conservation and restoration work projects are subject to approval, clearance and monitoring by the expert committee responsible for Stari Ras and Sopoćani, an agency of the Serbian Ministry of Culture. The Institute for the Protection of Cultural Monuments of Serbia is responsible for preparing a management plan, which has been in progress since 2010. Key indicators for monitoring the property have been identified, though there is no formal monitoring programme. Sustaining the Outstanding Universal Value of Stari Ras and Sopoćani over time will require completing, approving and implementing the management plan for the serial property; implementing a formal monitoring programme; and addressing the known and potential threats and risks to the property, including development pressures, environmental pressure, the number of inhabitants and the rehabilitation of the original function of Djurdjevi Stupovi Monastery."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 198.72,
+          "square_km": 1.99,
+          "square_miles": 0.804,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7e9c95a06e8d1a36e05d19fcd05ce233",
+          "filename": "site_0096_0001-500-0-20241206173704.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 370
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108802/site_0096_0001.jpg",
+            "https://whc.unesco.org/document/218333/site_0096_0030.jpg",
+            "https://whc.unesco.org/document/108806/site_0096_0003.jpg",
+            "https://whc.unesco.org/document/118258/site_0096_0004.jpg",
+            "https://whc.unesco.org/document/118259/site_0096_0005.jpg",
+            "https://whc.unesco.org/document/118261/site_0096_0007.jpg",
+            "https://whc.unesco.org/document/118262/site_0096_0008.jpg",
+            "https://whc.unesco.org/document/118263/site_0096_0009.jpg",
+            "https://whc.unesco.org/document/118264/site_0096_0010.jpg",
+            "https://whc.unesco.org/document/118265/site_0096_0011.jpg",
+            "https://whc.unesco.org/document/118266/site_0096_0012.jpg",
+            "https://whc.unesco.org/document/118267/site_0096_0013.jpg",
+            "https://whc.unesco.org/document/118303/site_0096_0015.jpg",
+            "https://whc.unesco.org/document/118304/site_0096_0016.jpg",
+            "https://whc.unesco.org/document/118305/site_0096_0017.jpg",
+            "https://whc.unesco.org/document/118306/site_0096_0018.jpg",
+            "https://whc.unesco.org/document/118307/site_0096_0019.jpg",
+            "https://whc.unesco.org/document/118308/site_0096_0020.jpg",
+            "https://whc.unesco.org/document/118309/site_0096_0021.jpg",
+            "https://whc.unesco.org/document/118310/site_0096_0022.jpg",
+            "https://whc.unesco.org/document/118311/site_0096_0023.jpg",
+            "https://whc.unesco.org/document/118312/site_0096_0024.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "St. Peter's Church",
+            "ref": "96-003",
+            "latitude": 43.1655555556,
+            "longitude": 20.5261111111
+          },
+          {
+            "name": "Sopoćani Monastery",
+            "ref": "96-002",
+            "latitude": 43.1316666667,
+            "longitude": 20.3791666667
+          },
+          {
+            "name": "Mediaeval Town of  Ras",
+            "ref": "96-001",
+            "latitude": 43.1188888889,
+            "longitude": 20.4227777778
+          },
+          {
+            "name": "Monastery of Djurdjevi Stupovi",
+            "ref": "96-004",
+            "latitude": 43.1708888889,
+            "longitude": 20.4988055556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/96",
+        "unesco_documents": "https://whc.unesco.org/en/list/96/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/96/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/96/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stari Ras and Sopoćani On the outskirts of Stari Ras, the first capital of Serbia, there is an impressive group of medieval monuments consisting of fortresses, churches and monasteries. The monastery at Sopoćani is a reminder of the contacts between Western civilization and the Byzantine world. On the outskirts of Stari Ras, the first capital of Serbia, there is an impressive group of medieval monuments consisting of fortresses, churches and monasteries. The monastery at Sopoćani is a reminder of the contacts between Western civilization and the Byzantine world. Serbia Europe and North America Cultural"
+    },
+    {
+      "site_key": "stecci_medieval_tombstone_graveyards",
+      "uuid": "f52c601b-885d-5718-af2b-60cc12213ac6",
+      "unesco_id": "1504",
+      "names": {
+        "en": "Stećci Medieval Tombstone Graveyards",
+        "fr": "Cimetières de tombes médiévales stećci",
+        "es": "Cementerios de tumbas medievales “stećci”",
+        "ru": "Стечки – средневековые надгробья",
+        "ar": "مقابر العصور الوسطى-ستيكي",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "MNE": {
+            "name": "Montenegro",
+            "iso2": "ME",
+            "iso3": "MNE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 4
+      },
+      "descriptions": {
+        "short": {
+          "en": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+          "fr": "Ce bien en série regroupe 28 sites, situés en Bosnie-Herzégovine, à l’ouest de la Serbie, à l’ouest du Monténégro, ainsi qu'au centre et au sud de la Croatie, qui représentent des cimetières et des tombes médiévales, ou stećci, propres à ces régions. Ces cimetières, qui datent du XIIe siècle au XVIe siècle, sont organisés en rangées, comme c’était la coutume en Europe depuis le Moyen Âge. Les stećci sont pour la plupart sculptés en pierre calcaire. Ils comportent une grande diversité de motifs décoratifs et d’inscriptions qui témoignent des continuités iconographiques dans l’Europe médiévale et de traditions locales particulières.",
+          "es": "Este sitio seriado está integrado por tumbas medievales (“stećci”) de 30 lugares diferentes situados en Bosnia y Herzegovina, en el centro y sur de Croacia, en la parte occidental de Montenegro y al oeste de Serbia. Estos monumentos funerarios, característicos de esas regiones, datan de los siglos XII a XVI y están dispuestos en filas en cementerios, tal y como se acostumbró a hacer en Europa desde la Edad Media. En su mayoría están esculpidos en piedra caliza con una gran variedad de motivos ornamentales e inscripciones, que muestran no sólo la continuidad que se da en los elementos medievales europeos de este tipo, sino también la persistencia de tradiciones locales específicas más antiguas.",
+          "ru": "В состав объекта входят 30 некрополей, расположенных в Боснии и Герцеговине, на западе Сербии и Черногории, а также в центре и на юге Хорватии. Стечки представляют характерные для данного региона средневековые могильные памятники, датируемые XII-XVI веками. Захоронения расположены в ряд, как это было принято в Европе со времен Средневековья. Cтечки вырезаны преимущественно из известняка и содержат множество разнообразных декоративных элементов и надписей, свидетельствующих об иконографической общности, присущей средневековой Европе, и специфических, более древних местных традициях.",
+          "ar": "يضم هذه المقابر 30 موقعاً موزعة بين البوسنة والهرسك وغرب كل من صربيا والجبل الأسود وفي وسط وجنوب كرواتيا. وتجسّد هذه المناطق مثالاً على مقابر العصور الوسطى. وتعود هذه المقابر على وجه التحديد إلى الفترة الممتدة بين القرنين الثاني عشر والسادس عشر حيث بنيت في صفوف على غرار العادة التي كانت سائدة في أوروبا منذ القرون الوسطى. أما قبور الستيكي تحديداً، فقد بنيت معظمها من الحجارة الجيريّة المنحوتة. وتشهد هذه القبور على مجموعة متنوّعة من الأنماط الزخرفية والعبارات التي تشهد على استمراريّة الأسلوب التصويري في أوروبا في القرون الوسطى بالإضافة إلى أقدم التقاليد المحليّة في هذه المنطقة.",
+          "zh": ""
+        },
+        "full": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+        "justification": "Brief synthesis The serial property of 28 component sites includes a selection of 4,000 medieval tombstones (stećci) on the territory of four states: Bosnia and Herzegovina, the Republic of Croatia, Montenegro and the Republic of Serbia. These monolithic stone tombstones (stećci) were created in the period from the second half of the 12th century to the 16th century, although they were most intensively made during the 14th and 15th centuries. The stećci are exceptional testimony to the spiritual, artistic and historical aspects of the medieval cultures of southeastern Europe, an area where traditions and influences of the European west, east and south entwined with earlier traditions. The stećci are notable for their inter-confessionality, used for burial by all three medieval Christian communities, including the Orthodox Church, the Catholic Church and the Church of Bosnia (which lasted for about three centuries until the second half of the 15th century). The characteristics that distinguish stećci from the overall corpus of Europe’s medieval heritage and sepulchral art, include the vast number of preserved monuments (over 70,000 located within over 3,300 sites), the diversity of forms and motifs, the richness of reliefs, epigraphy and the richness of the intangible cultural heritage. The selected components represent a range of graveyard scales and settings. Criterion (iii): A remarkable number of stećci, of diversified form, are found in this part of southeast Europe, conveying an exceptional testimony to medieval European artistic and archaeological heritage, with traces of earlier influences (prehistoric, roman and early medieval). The extremely large number of preserved stećci (estimated to be more than 70,000) and variety of their forms (slabs, chests, gabled roof tombstones, pillars and monumental crosses) are well represented. Their reliefs, including decorative, symbolic, and religious motives as well as scenes from everyday life, are an extraordinary testimony of medieval culture. Inscriptions in the selected graveyards offer an exceptional historical resource, and are associated with the cultures and histories of the medieval states in this region. Criterion (vi): The stećci have been deeply embedded in historical and continual cultural traditions and beliefs and toponyms demonstrate the historical meanings and significance of the stećci. The stećci are associated with local folk and fairy tales, superstitions and customs; and their epigraphy and reliefs have significantly influenced the contemporary literature and other forms of art in all four countries, but also wider in the region. Integrity The integrity of the serial property is based on the ability of the selected 28 components to represent the widespread phenomena, importance and diversity of the stećci in southeast Europe. Each of the components has been conserved in situ. The state of conservation of the burial grounds and tombstones is generally stable, and each of the components are relatively well preserved. Their conditions could be improved through maintenance and active management to prevent natural processes of deterioration. The tombstones are not currently affected by development pressures. The boundaries of the components include the attributes necessary to express the Outstanding Universal Value of the serial property. Some of the buffer zones were revised during the evaluation process to better incorporate and preserve the important characteristics of the settings in which the burial grounds are located. Authenticity The authenticity of the serial property is established through the graveyards, tombstones (stećci) and associated sepulchral art of the medieval period. The stećci demonstrate the merging of religions, chivalry and folk cultures of this period. The authenticity of the selected components is demonstrated by the archaeological and historical contexts and evidence, the diversity of types of tombstones, and the widespread occurrence of this phenomenon in this part of southeast Europe. The authenticity of the sites was one of the bases on which the selection of components was made. The stećci were carved from single stone which reflected the skills and knowledge of the master craftsmen. Decorations and inscriptions testify original aspects of the emergence and study of stećci. Protection and management requirements Legal protection of the 28 sites with stećci is ensured by the legislation applicable in the participating States Parties. Although the legal and administrative systems for the protection and management of cultural heritage differ, the highest level of protection in each of the States Parties has been provided for the graveyards and tombstones. Transnational coordination is established through the International Coordination Committee and through the implementation of common strategies, principles and standards. Each State Party is responsible for the protection, conservation and management of necropolises with stećci tombstones that are on its territory. Common management plan documents have been prepared for each inscribed component by the four States Parties. These documents ensure the management of each component of the serial property according to an agreed approach and a common vision, uniform conservation standards, shared management principles and shared presentation objectives. Each of the four States Parties has appointed a coordinator, and together they form the International Coordination Body responsible for the development of the joint management of the serial transnational property. Inventorying and research about the stećci have been a focus since the 1970s and is ongoing. There is a need to continue to improve the mapping and cataloguing of the inscribed components in line with the management system. The inscribed components are generally in a stable state of conservation, with minimal interventions. The main pressures are natural processes of physical deterioration, and condition assessments have been incorporated into the site management plans. Continued development and implementation of active conservation programmes based on the advice of expert conservators is required. Community involvement in the management and maintenance of the stećci is evident and active. There is a need to integrate Heritage Impact Assessments and Disaster Risk Management approaches and mechanisms into the management system, in order to ensure that future proposals, programs or projects are assessed in relation to their potential impact on the Outstanding Universal Value of the serial property. Visitor pressure is not a current threat. Visitor management is currently planned and implemented at the site level. Presentation and interpretation are approached by promoting the designated sites and other tourist destinations. The management plans outline current and planned tourism infrastructure for each of the components. The monitoring indicators could be augmented by additional measures related to levels of visitation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 49.15,
+          "square_km": 0.49,
+          "square_miles": 0.199,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d4b8b32a455c1808160b60274be9f3a3",
+          "filename": "site_1504_0001.jpg",
+          "dimensions": {
+            "width": 7147,
+            "height": 4747
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/141946/site_1504_0001.jpg",
+            "https://whc.unesco.org/document/141952/site_1504_0007.jpg",
+            "https://whc.unesco.org/document/141980/site_1504_0033.jpg",
+            "https://whc.unesco.org/document/218411/site_1504_0046.jpg",
+            "https://whc.unesco.org/document/222615/site_1504_0047.jpg",
+            "https://whc.unesco.org/document/222616/site_1504_0048.jpg",
+            "https://whc.unesco.org/document/222617/site_1504_0049.jpg",
+            "https://whc.unesco.org/document/141947/site_1504_0002.jpg",
+            "https://whc.unesco.org/document/141948/site_1504_0003.jpg",
+            "https://whc.unesco.org/document/141949/site_1504_0004.jpg",
+            "https://whc.unesco.org/document/141950/site_1504_0005.jpg",
+            "https://whc.unesco.org/document/141951/site_1504_0006.jpg",
+            "https://whc.unesco.org/document/141953/site_1504_0008.jpg",
+            "https://whc.unesco.org/document/141954/site_1504_0009.jpg",
+            "https://whc.unesco.org/document/141955/site_1504_0010.jpg",
+            "https://whc.unesco.org/document/141956/site_1504_0011.jpg",
+            "https://whc.unesco.org/document/141957/site_1504_0012.jpg",
+            "https://whc.unesco.org/document/141958/site_1504_0013.jpg",
+            "https://whc.unesco.org/document/141959/site_1504_0014.jpg",
+            "https://whc.unesco.org/document/141960/site_1504_0015.jpg",
+            "https://whc.unesco.org/document/141961/site_1504_0016.jpg",
+            "https://whc.unesco.org/document/141962/site_1504_0017.jpg",
+            "https://whc.unesco.org/document/141963/site_1504_0018.jpg",
+            "https://whc.unesco.org/document/141965/site_1504_0019.jpg",
+            "https://whc.unesco.org/document/141966/site_1504_0020.jpg",
+            "https://whc.unesco.org/document/141968/site_1504_0021.jpg",
+            "https://whc.unesco.org/document/141969/site_1504_0022.jpg",
+            "https://whc.unesco.org/document/141970/site_1504_0023.jpg",
+            "https://whc.unesco.org/document/141971/site_1504_0024.jpg",
+            "https://whc.unesco.org/document/141972/site_1504_0025.jpg",
+            "https://whc.unesco.org/document/141973/site_1504_0026.jpg",
+            "https://whc.unesco.org/document/141974/site_1504_0027.jpg",
+            "https://whc.unesco.org/document/141975/site_1504_0028.jpg",
+            "https://whc.unesco.org/document/141976/site_1504_0029.jpg",
+            "https://whc.unesco.org/document/141977/site_1504_0030.jpg",
+            "https://whc.unesco.org/document/141978/site_1504_0031.jpg",
+            "https://whc.unesco.org/document/141979/site_1504_0032.jpg",
+            "https://whc.unesco.org/document/141981/site_1504_0034.jpg",
+            "https://whc.unesco.org/document/141982/site_1504_0035.jpg",
+            "https://whc.unesco.org/document/141983/site_1504_0036.jpg",
+            "https://whc.unesco.org/document/141984/site_1504_0037.jpg",
+            "https://whc.unesco.org/document/141985/site_1504_0038.jpg",
+            "https://whc.unesco.org/document/141986/site_1504_0039.jpg",
+            "https://whc.unesco.org/document/141987/site_1504_0040.jpg",
+            "https://whc.unesco.org/document/141988/site_1504_0041.jpg",
+            "https://whc.unesco.org/document/141989/site_1504_0042.jpg",
+            "https://whc.unesco.org/document/141990/site_1504_0043.jpg",
+            "https://whc.unesco.org/document/141991/site_1504_0044.jpg",
+            "https://whc.unesco.org/document/141992/site_1504_0045.jpg"
+          ],
+          "count": 49
+        }
+      },
+      "components": {
+        "count": 28,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1504",
+        "unesco_documents": "https://whc.unesco.org/en/list/1504/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1504/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1504/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stećci Medieval Tombstone Graveyards This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions. This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions. Serbia Croatia Montenegro Bosnia and Herzegovina Europe and North America Cultural"
+    },
+    {
+      "site_key": "studenica_monastery",
+      "uuid": "74e4a803-5e8d-514c-86f3-3d9ae14b8148",
+      "unesco_id": "389",
+      "names": {
+        "en": "Studenica Monastery",
+        "fr": "Monastère de Studenica",
+        "es": "Monasterio de Studenica",
+        "ru": "Монастырь Студеница",
+        "ar": "دير ستودينسكا",
+        "zh": "斯图德尼察修道院"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting.",
+          "fr": "Fondé vers la fin du XIIe siècle, peu après son abdication, par Stevan Nemanja, créateur de l’État serbe médiéval, le monastère de Studenica est le plus vaste et le plus riche des monastères orthodoxes de Serbie. Ses deux monuments principaux, l’église de la Vierge et l’église du Roi, construits en marbre blanc, en font un véritable conservatoire de la peinture byzantine des XIIIe et XIVe siècles.",
+          "es": "Fundado por Stevan Nemanja, creador del Estado serbio medieval, poco después de su abdicación, hacia finales del siglo XII, el cenobio de Studenica es el más vasto y rico de los monasterios ortodoxos de Serbia. Sus dos monumentos principales, la iglesia de la Virgen y la del Rey, construidas en mármol blanco, albergan un auténtico museo de la pintura bizantina de los siglos XIII y XIV.Fundado por Stevan Nemanja, creador del Estado serbio medieval, poco después de su abdicación, hacia finales del siglo XII, el cenobio de Studenica es el más vasto y rico de los monasterios ortodoxos de Serbia. Sus dos monumentos principales, la iglesia de la Virgen y la del Rey, construidas en mármol blanco, albergan un auténtico museo de la pintura bizantina de los siglos XIII y XIV.",
+          "ru": "Монастырь Студеница был основан в конце ХII в. Стефаном Неманей, основоположником средневекового сербского государства, вскоре после его отречения. Это крупнейший и богатейший из православных монастырей Сербии. Два его главных памятника – церковь Богоматери и Королевская церковь - построены из белого мрамора и содержат бесценные собрания византийской живописи ХIII-ХIV вв.",
+          "ar": "بعد استسلامه بفترة وجيزة وفي نهاية القرن الثاني عشر، عمد ستيفان نيمانيا الذي أسس دولة صربيا في القرون الوسطى الى بناء هذا الدير الذي يعتبر أكبر الأديرة الارثذكسية الصربية حجماً وأكثرها عنى. كما ان نصبيه الرئيسَين المتمثلين في كنيسة العذراء وكنيسة الملك والمصنوعين من الرخام الأبيض يجعلان منه معهداً حقيقياً لفن الرسم البيزنطي الخاص بالقرن الثالث عشر والرابع عشر.",
+          "zh": "斯图德尼察修道院创建于12世纪晚期，由中世纪塞尔维亚共和国的创建者斯特凡-纳曼亚大公在退位之后不久创建。这个修道院是塞尔维亚地区最大、最富有的传统修道院。修道院中的两座主要纪念碑、圣母大教堂及国王大教堂均采用白色大理石建造而成，同时这些建筑物中还收藏了13世纪和14世纪时期的拜占庭艺术绘画，这些绘画都是无价之宝。"
+        },
+        "full": "The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting.",
+        "justification": "Brief synthesis Studenica Monastery, located in the Raška district of central Serbia, is the largest and richest of Serbia’s Orthodox monasteries. It was founded near Studenica river in the late 12th century by Stefan Nemanja, also known as Saint Simeon, who established the medieval Serbian state. His remains, as well as those of his wife Anastasia and of the first Serbian king, Stephen the First-Crowned, rest in this monastery. It is there that Stefan Nemanja’s youngest son, Saint Sava Nemanjić, initiated the independent Serbian Orthodox Church in 1219 and wrote the first literary work in the Serbian language. The complex’s two principal monuments, the Church of the Virgin and the King’s Church, enshrine priceless collections of 13th- and 14th-century Byzantine paintings. Studenica became the most important monastery in Serbia, and has remained so to the present day. Studenica is an outstanding and well-preserved example of a Serbian Orthodox Church monastery. Enclosed by an almost circular wall strengthened with two fortified gates, it features an array of exceptional monuments, including the main church at the centre and monastic facilities along the encircling wall. Churches and hermitages are located in the area surrounding the monastery, as well as the quarries and vestiges of a settlement for the workers who mined and shaped the marble used to build the Church of the Virgin. The Church of the Virgin, which served as a model for other monastic churches in the region, was built in the distinctive Raška School of eastern medieval church architecture that blended the Romanesque and Byzantine styles. The exterior of the domed single-nave church is reminiscent of Italian Romanesque cathedrals, while interior wall paintings in the naos and the sanctuary reflect trends of monumental paintings that emerged after the fall of the Byzantine capital of Constantinople to the Crusaders. Characterized by a new concept of space and a new expressiveness, these paintings represent a milestone in the histories of both Byzantine and Western art. The modestly scaled King’s Church was founded in 1314 by King Milutin, who commissioned the renowned Salonican painters Michael and Eutychius to decorate the church’s interior with frescoes. At the King’s Church these court painters created the most perfect expression of their style. Their remarkable Cycle of the Life of the Virgin Mary is among the leading works of Byzantine art, its density of forms, volumetric rendering of faces as well as bright colors, shadows, and light being perfectly executed a secco. Criterion (i): The King’s Church houses the most beautiful frescoes painted by Michael and Eutychios, the famous painters from Salonica. Not long after the church was built, they painted the Cycle of the Life of the Virgin Mary, which is among the leading works of Byzantine art. After having worked at the Church of Peribleptos in Ohrid and having painted a series of Serbian churches for King Milutin (those of the Virgin of Ljevisa, Zica, Staro Nagoricino, Gracanica, etc.), these painters found the most perfect expression of their style in the Studenica King’s Church. With highlighting in bright colors, shadows and light executed a secco, the density of forms and volumetric rendering of faces are combined with an astounding execution, the perfection of which is very close to that of icons,. Criterion (ii): The Church of the Virgin served as a model for other churches built in a distinctive style called the Raška School, which constitutes a special branch in eastern medieval church architecture. This royal mausoleum was imitated at Banjska, Dečani and the Holy Archangels of Prizren. The wall paintings of the naos and the sanctuary, executed in 1208-1209, are among the first examples of the “monumental style” which emerged in various regions after the fall of Constantinople in 1204 to the Crusaders. These paintings, which are characterized by a new concept of space and a new expressiveness, are an essential milestone in the history not only of Byzantine art, but also of Western art. Cimabue, Duccio and Giotto were also a part of this trend in the second half of the 13th century. Criterion (iv): Studenica is an outstanding example of a monastery in the Serbian Orthodox Church. It has had the good fortune of preserving not only an array of exceptional monuments (churches, refectories, monks’ quarters from the 13th to the 18th centuries) inside its circular wall, which has two fortified gates, but also extremely significant surroundings. In the protected zone there is a host of churches and hermitages, the marble quarries from which the blocks for the Church of the Virgin Mary were drawn and the remains of a medieval settlement for the quarry workers and stonecutters. Criterion (vi): Studenica represents the high point of Serbian history. The monastery contains the remains of the first Serbian ruler and the Studenica founder, Saint Simeon, the remains of his wife Anastasia, and also the remains, shroud and coffin of the first Serbian king, Stephen the First-Crowned (Stefan Prvovenčani). This is where Saint Sava Nemanjić, the founder’s youngest son, wrote the first literary work in the Serbian language. From here he also founded the Serbian Orthodox Church, which gained independence from the Ecumenical Patriarchate. Up until the 19th century, Studenica remained the symbol of this culture, in somewhat the same way that Rila Monastery (included on the World Heritage List in 1983) was that of Bulgarian culture. Integrity All the elements that sustain the Outstanding Universal Value of Studenica Monastery are located within the boundaries of the 1.16-ha property. There is also a large 269-ha buffer zone. The property is therefore of adequate size to ensure the complete representation of the features and processes that convey its significance. The state of conservation of all the monuments, especially the very delicate wall paintings, is good, and their condition is constantly monitored by relevant experts. Conservation and restoration works in the exonarthex of the Church of the Virgin were in the service of restoring its original appearance and were preceded by serious archaeological and architectural investigations. The property does not suffer unduly from adverse effects of development and/or neglect. Authenticity A complete and intact set of attributes conveys the Outstanding Universal Value of the Studenica Monastery, including its forms and designs, materials and substance as well as uses and functions. All conservation and restoration works have been carried out in the original materials and traditional techniques and in no way threaten the authenticity of the monuments. They are accompanied by detailed architectural, artistic, archaeological, and historical documentation that justifies their selection and assures their authenticity. Known threats and risks to the property include environmental pressure and the number of inhabitants. Water accumulation near the monastery is also considered to be a potential threat. Protection and management requirements The owner of the property is the Serbian Orthodox Church, and the owner of most of the area included in the buffer zone is the Republic of Serbia. Studenica Monastery benefits from the highest level of legal protection in the Republic of Serbia, established by the 1994 Law of Cultural Heritage. The monastery area is additionally protected by the Special Purpose Spatial Plan of the Golija Natural Park and the Golija – Studenica Biosphere Reserve (MAB); the Official Gazette of the Republic of Serbia, No. 16/2009; the Kraljevo Municipality Spatial Plan (in preparation); and the Construction and Zoning Master Plan for the Studenica Monastery protected surrounding area (in preparation). Management of the property is the responsibility of the Serbian Orthodox Church and the Government of the Republic of Serbia. Maintenance of the property is funded by the Serbian Orthodox Church, the Republic of Serbia, and the Municipality of the nearby town of Kraljevo. Jurisdiction is divided among several governmental institutions, including the Institute for the Protection of Cultural Monuments of Serbia and the Regional Institute for the Protection of Cultural Monuments in Kraljevo for preventive protection, conservation, restoration, and presentation; the Institute for the Protection of Cultural Monuments of Serbia for archaeological research; and the local museum in Kraljevo for the safekeeping of archaeological material. All monastery and protected area conservation and restoration work projects are subject to approval, clearance, and monitoring by the expert committee responsible for the Studenica Monastery, which is an agency of the Serbian Ministry of Culture. The Institute for the Protection of Cultural Monuments of Serbia is responsible for preparing a management plan, which has been in progress since 2011. Key indicators for monitoring the property have been identified, though there is no formal monitoring programme. Sustaining the Outstanding Universal Value of Studenica Monastery over time will require completing, approving, and implementing the management plan for the property, the Kraljevo Municipality Spatial Plan, and the Construction and Zoning Master Plan for the Studenica Monastery protected surrounding area; implementing a formal monitoring programme; and addressing the known threats and risks to the property, including environmental pressure, the number of inhabitants, and water accumulation near the monastery."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            4
+          ],
+          "display": "(i)(ii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.16,
+          "square_km": 0.01,
+          "square_miles": 0.005,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1986,
+          "all_dates": [
+            1986
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1986,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f9963a75d8690d046a8828f2309d99ce",
+          "filename": "site_0389_0017-500-0-20241211103224.jpg",
+          "dimensions": {
+            "width": 480,
+            "height": 320
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/118283/site_0389_0017.jpg",
+            "https://whc.unesco.org/document/218397/site_0389_0032.jpg",
+            "https://whc.unesco.org/document/218398/site_0389_0033.jpg",
+            "https://whc.unesco.org/document/111164/site_0389_0003.jpg",
+            "https://whc.unesco.org/document/118270/site_0389_0004.jpg",
+            "https://whc.unesco.org/document/118271/site_0389_0005.jpg",
+            "https://whc.unesco.org/document/118272/site_0389_0006.jpg",
+            "https://whc.unesco.org/document/118273/site_0389_0007.jpg",
+            "https://whc.unesco.org/document/118274/site_0389_0008.jpg",
+            "https://whc.unesco.org/document/118275/site_0389_0009.jpg",
+            "https://whc.unesco.org/document/118276/site_0389_0010.jpg",
+            "https://whc.unesco.org/document/118277/site_0389_0011.jpg",
+            "https://whc.unesco.org/document/118278/site_0389_0012.jpg",
+            "https://whc.unesco.org/document/118279/site_0389_0013.jpg",
+            "https://whc.unesco.org/document/118280/site_0389_0014.jpg",
+            "https://whc.unesco.org/document/118281/site_0389_0015.jpg",
+            "https://whc.unesco.org/document/118282/site_0389_0016.jpg",
+            "https://whc.unesco.org/document/118284/site_0389_0018.jpg",
+            "https://whc.unesco.org/document/118285/site_0389_0019.jpg",
+            "https://whc.unesco.org/document/118286/site_0389_0020.jpg",
+            "https://whc.unesco.org/document/118287/site_0389_0021.jpg",
+            "https://whc.unesco.org/document/156296/site_0389_0022.jpg",
+            "https://whc.unesco.org/document/156297/site_0389_0023.jpg",
+            "https://whc.unesco.org/document/156298/site_0389_0024.jpg",
+            "https://whc.unesco.org/document/156299/site_0389_0025.jpg",
+            "https://whc.unesco.org/document/156300/site_0389_0026.jpg",
+            "https://whc.unesco.org/document/156301/site_0389_0027.jpg",
+            "https://whc.unesco.org/document/156302/site_0389_0028.jpg",
+            "https://whc.unesco.org/document/156303/site_0389_0029.jpg"
+          ],
+          "count": 29
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Studenica Monastery",
+            "ref": "389",
+            "latitude": 43.4865277778,
+            "longitude": 20.5316666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/389",
+        "unesco_documents": "https://whc.unesco.org/en/list/389/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/389/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/389/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 39,
+        "inscription_year": 1986
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Studenica Monastery The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting. The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting. Serbia Europe and North America Cultural"
+    },
+    {
+      "site_key": "medieval_monuments_in_kosovo",
+      "uuid": "3dc34e09-97a2-5132-b007-3857ee95477e",
+      "unesco_id": "724",
+      "names": {
+        "en": "Medieval Monuments in Kosovo",
+        "fr": "Monuments médiévaux au Kosovo",
+        "es": "Monumentos medievales en Kosovo",
+        "ru": "Средневековые памятники в Косово",
+        "ar": "آثار من القرون الوسطى في كوسوفو",
+        "zh": "科索沃中世纪古迹"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The four edifices of the site reflect the high points of the Byzantine-Romanesque ecclesiastical culture, with its distinct style of wall painting, which developed in the Balkans between the 13th and 17th centuries. The Dečani Monastery was built in the mid-14th century for the Serbian king Stefan Dečanski and is also his mausoleum. The Patriarchate of Peć Monastery is a group of four domed churches featuring series of wall paintings. The 13th-century frescoes of the Church of Holy Apostles are painted in a unique, monumental style. Early 14th-century frescoes in the church of the Holy Virgin of Ljevisa represent the appearance of the new so-called Palaiologian Renaissance style, combining the influences of the eastern Orthodox Byzantine and the Western Romanesque traditions. The style played a decisive role in subsequent Balkan art.",
+          "fr": "Les quatre éléments du site reflètent l'apogée de la culture ecclésiastique byzantine et romane avec un style particulier de peintures murales qui s'est développé dans les Balkans entre les XIIIe et XVIIe siècles. Le Monastère Dečani a été construit à la moitié du XIVe siècle par le roi de Serbie Stefan Dečanski ainsi que son mausolée. Situé à la périphérie de Peć, le Patriarcat du Monastère de Peć se compose d'un groupe de quatre églises avec dômes et comportant des peintures murales. Les fresques du XIIIe siècle de l'Eglise des Saints-Apôtres reflètent la phase mature d'un style de peinture monumental sans équivalent. Les fresques du début du XIVe siècle de l'Eglise de la Sainte Vierge de Ljeviša marquent l'apparition d'un nouveau style, le style de la Renaissance des Paléologues de Byzance, qui combine des éléments orthodoxes orientaux et romans occidentaux. Le style a joué un rôle décisif dans le développement de l'art dans les Balkans.",
+          "es": "Los cuatro componentes del sitio son un testimonio del apogeo de la cultura eclesiástica bizantino-románica de la región balcánica entre los siglos XIII y XVII, que se caracterizó por sus pinturas murales de peculiar factura. El monasterio de Dečani es el mausoleo del rey de Serbia, Stefan Dečanski, que ordenó su construcción a mediados del siglo XIV. El Patriarcado del Monasterio de Peć, situado en los alrededores de la ciudad de este nombre, comprende cuatro iglesias con cúpula ornamentadas con pinturas murales. Los frescos del siglo XIII de la iglesia de los Santos Apóstoles son un ejemplo excepcional del periodo de madurez de un estilo único de pintura monumental. Los frescos de principios del siglo XIV de la iglesia de la Santa Virgen de Ljeviša son representativos del surgimiento de un nuevo estilo denominado paleólogo-bizantino, en el que se mezclan las influencias del arte ortodoxo oriental y las tradiciones del arte románico occidental. Este estilo ejerció una influencia decisiva en el arte balcánico de épocas posteriores.",
+          "ru": "Монастырь Дечани у подножья гор Проклетье, в западной части провинции Косово, был построен в середине XIV в. для сербского короля Стефана Дечанского. Это также место его погребения. Монастырь представляет последний важный этап византийско-романской архитектуры в этом регионе и является крупнейшим из всех средневековых храмов на Балканах. В нем находится уникальная, хорошо сохранившаяся византийская живопись, которая покрывает практически все интерьеры церкви, с более чем 1000 изображений отдельных святых. В нем также находится множество романских скульптур. Дечанская сокровищница – богатейшая в Сербии, она включает около 60 уникальных икон ХIV-ХVII вв. Здания, дополнительно включенные в состав этого объекта в 2006 г. отражают высокий уровень византийско-романской религиозной культуры, которая развивалась на Балканах в период с ХIII по ХVII вв. с характерным для нее стилем стенных росписей. Комплекс Патриархии монастыря на окраине города Печ – это группа из четырех купольных церквей, имеющих ряд стенных росписей. Фреска ХIII в. церкви Святых Апостолов выполнена в уникальном монументальном стиле. Фреска начала ХIV в. церкви Богоматери отражает появление нового стиля – т.н. ренессанса Палеологов, соединяющего влияния восточной православной Византии и западных романских традиций. Этот стиль сыграл определяющую роль в последующем развитии искусства на Балканах.",
+          "ar": "تشهد عناصر الموقع الأربعة على ذروة ثقافة الكنسية البيزنطية والرومانية بلوحاتها الجدراية ذات الطراز المميز الذي تطوّر في البلقان بين القرنين الثالث عشر والسابع عشر. وقد بني دير ديتشاني في منتصف القرن الرابع عشر على يد ملك صربيا ستيفان ديكانسكي كما هي حال ضريحه. وتتألف بطريركية دير بيتش القائمة عند تخوم مدينة بيتش من اربع كنائس مزودة بقبة ولوحات جدارية. أما الرسوم الجدارية في كنيسة الرسل والعائدة الى القرن الثالث عشر فتشهد على مرحلة ناضجة من طراز اللوحات الضخمة المنقطعة النظير، في حين تشير جداريات كنيسة السيدة العذراء في لجيفيجا العائدة الى القرن الرابع عشر الى بروز اسلوب جديد يعرف بأسلوب نهضة علماء الآثار في بيزنطة الذي يقوم على مزج العناصر الأرثذكسية الشرقية بالرومانة الغربية، وقد لعب هذا الأسلوب دوراً حاسماً في تطوّر الفن في البلقان.",
+          "zh": "该遗址的四个组成部分，体现了拜占庭和罗马教会文化鼎盛时期的情景，这种文化于13世纪至17世纪期间在巴尔干半岛发展起来，其壁画具有独特的风格。佩奇修道院主教管辖区位于佩奇市郊，它包括由四座带圆屋顶的、墙上都绘有壁画的教堂组成的一组建筑群。圣·阿皮特勒教堂13世纪的壁画反映出无与伦比的壁画风格。而圣母教堂14世纪初期的壁画则标志着一种新风格的出现，即帕莱奥洛格•德比藏斯文艺复兴时期的风格，它将东方正统观念与西方罗马画法融为一体。壁画风格在巴尔干半岛艺术发展史上曾经发挥了决定性作用。"
+        },
+        "full": "The four edifices of the site reflect the high points of the Byzantine-Romanesque ecclesiastical culture, with its distinct style of wall painting, which developed in the Balkans between the 13th and 17th centuries. The Dečani Monastery was built in the mid-14th century for the Serbian king Stefan Dečanski and is also his mausoleum. The Patriarchate of Peć Monastery is a group of four domed churches featuring series of wall paintings. The 13th-century frescoes of the Church of Holy Apostles are painted in a unique, monumental style. Early 14th-century frescoes in the church of the Holy Virgin of Ljevisa represent the appearance of the new so-called Palaiologian Renaissance style, combining the influences of the eastern Orthodox Byzantine and the Western Romanesque traditions. The style played a decisive role in subsequent Balkan art.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2.8802,
+          "square_km": 0.03,
+          "square_miles": 0.012,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004,
+            2006
+          ],
+          "extensions": [
+            2006
+          ],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2006,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2006",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6f37ec08fe8a904796287c4411d07cca",
+          "filename": "site_0724_0001.jpg",
+          "dimensions": {
+            "width": 2677,
+            "height": 2008
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112862/site_0724_0001.jpg",
+            "https://whc.unesco.org/document/218399/site_0724_0016.jpg",
+            "https://whc.unesco.org/document/218400/site_0724_0017.jpg",
+            "https://whc.unesco.org/document/218401/site_0724_0018.jpg",
+            "https://whc.unesco.org/document/218402/site_0724_0019.jpg",
+            "https://whc.unesco.org/document/112866/site_0724_0003.jpg",
+            "https://whc.unesco.org/document/112868/site_0724_0004.jpg",
+            "https://whc.unesco.org/document/112870/site_0724_0005.jpg",
+            "https://whc.unesco.org/document/112872/site_0724_0006.jpg",
+            "https://whc.unesco.org/document/112874/site_0724_0007.jpg",
+            "https://whc.unesco.org/document/112876/site_0724_0008.jpg",
+            "https://whc.unesco.org/document/112878/site_0724_0009.jpg",
+            "https://whc.unesco.org/document/112881/site_0724_0010.jpg",
+            "https://whc.unesco.org/document/112883/site_0724_0011.jpg",
+            "https://whc.unesco.org/document/112885/site_0724_0012.jpg",
+            "https://whc.unesco.org/document/112887/site_0724_0013.jpg",
+            "https://whc.unesco.org/document/165788/site_0724_0014.jpg",
+            "https://whc.unesco.org/document/165789/site_0724_0015.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Dečani Monastery",
+            "ref": "724-001",
+            "latitude": 42.5333333333,
+            "longitude": 20.2666666667
+          },
+          {
+            "name": "Gračanica Monastery",
+            "ref": "724-004bis",
+            "latitude": 42.5833333333,
+            "longitude": 21.1833333333
+          },
+          {
+            "name": "Patriarchate of Peć Monastery",
+            "ref": "724-002bis",
+            "latitude": 42.65,
+            "longitude": 20.25
+          },
+          {
+            "name": "Church of the Virgin of Leviša",
+            "ref": "724-003bis",
+            "latitude": 42.2,
+            "longitude": 20.7333333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/724",
+        "unesco_documents": "https://whc.unesco.org/en/list/724/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/724/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/724/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Medieval Monuments in Kosovo The four edifices of the site reflect the high points of the Byzantine-Romanesque ecclesiastical culture, with its distinct style of wall painting, which developed in the Balkans between the 13th and 17th centuries. The Dečani Monastery was built in the mid-14th century for the Serbian king Stefan Dečanski and is also his mausoleum. The Patriarchate of Peć Monastery is a group of four domed churches featuring series of wall paintings. The 13th-century frescoes of the Church of Holy Apostles are painted in a unique, monumental style. Early 14th-century frescoes in the church of the Holy Virgin of Ljevisa represent the appearance of the new so-called Palaiologian Renaissance style, combining the influences of the eastern Orthodox Byzantine and the Western Romanesque traditions. The style played a decisive role in subsequent Balkan art. The four edifices of the site reflect the high points of the Byzantine-Romanesque ecclesiastical culture, with its distinct style of wall painting, which developed in the Balkans between the 13th and 17th centuries. The Dečani Monastery was built in the mid-14th century for the Serbian king Stefan Dečanski and is also his mausoleum. The Patriarchate of Peć Monastery is a group of four domed churches featuring series of wall paintings. The 13th-century frescoes of the Church of Holy Apostles are painted in a unique, monumental style. Early 14th-century frescoes in the church of the Holy Virgin of Ljevisa represent the appearance of the new so-called Palaiologian Renaissance style, combining the influences of the eastern Orthodox Byzantine and the Western Romanesque traditions. The style played a decisive role in subsequent Balkan art. Serbia Europe and North America Cultural"
+    },
+    {
+      "site_key": "gamzigrad_romuliana_palace_of_galerius",
+      "uuid": "73ac0f8f-84a6-5f1d-afdd-424c5846afae",
+      "unesco_id": "1253",
+      "names": {
+        "en": "Gamzigrad-Romuliana, Palace of Galerius",
+        "fr": "Gamzigrad-Romuliana, palais de Galère",
+        "es": "Gamzigrado-Romuliana – Palacio de Galerio",
+        "ru": "Дворец Галерия «Гамзиград-Ромулиана»",
+        "ar": "غامزيغراد- روموليانا، قصر غاليريوس",
+        "zh": "贾姆济格勒－罗慕利亚纳的加莱里乌斯宫"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SRB": {
+            "name": "Serbia",
+            "iso2": "RS",
+            "iso3": "SRB"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Late Roman fortified palace compound and memorial complex of Gamzigrad-Romuliana, Palace of Galerius, in the east of Serbia, was commissioned by Emperor Caius Valerius Galerius Maximianus, in the late 3rd and early 4th centuries. It was known as Felix Romuliana, named after the emperor’s mother. The site consists of fortifications, the palace in the north-western part of the complex, basilicas, temples, hot baths, memorial complex, and a tetrapylon. The group of buildings is also unique in its intertwining of ceremonial and memorial functions.",
+          "fr": "Gamzigrad, à l’est de la Serbie, est un palais fortifié de l’époque romaine tardive, associé à un mémorial sur la colline adjacente. Il fut édifié à la fin du IIIe siècle et au début du IVe siècle, sur ordre de l’empereur Caius Valerius Galerius Maximianus et est connu sous le nom de Felix Romuliana, du nom de la mère de l’empereur. Le site est constitué de fortifications, d’un palais dans la partie nord-ouest de l’ensemble, de basiliques, temples, thermes, mémorial et d’un tétrapyle. Le groupe de constructions est aussi unique en ce qu’il entremêle cérémonial et mémorial.",
+          "es": "Situado al este de Serbia, el sitio de Gamzigrado es un complejo monumental de la época romana tardía formado por una serie de edificios palatinos fortificados y un conjunto construcciones conmemorativas situado en una colina adyacente. Su construcción, ordenada por el emperador romano Cayo Valerio Galerio Maximiano, data de finales del siglo III y principios del siglo IV. El sitio, designado con el nombre de la madre del emperador, Felix Romuliana, comprende, además del palacio situado en la parte noroccidental, una serie de fortificaciones, basílicas, templos, termas y edificios conmemorativos, así como un tetrapylon. Este vasto complejo monumental es un ejemplo único en su género del entrelazamiento de las funciones ceremoniales y conmemorativas.",
+          "ru": "Архитектурный ансамбль, включающий замок позднего периода Римской империи и мемориал, был внесен в Список как образец традиционной архитектуры Римской империи периода второй тетрархии. Сочетание церемониальных элементов с чертами мемориала составляют еще одну отличительную особенность этого ансамбля. Пространственная связь между двумя архитектурными группами объекта устанавливается с помощью тетрапилона, расположенного на перекрестке между дворцом с его фортификациями – символами мирского - с одной стороны, и мавзолеями и мемориальными сооружениями – символами духовного – с другой.",
+          "ar": "غامزيغراد قصر روماني محصَّن وقديم يقابله مجمَّع تذكاري على هضبة مجاورة. بني القصر في أواخر القرن الثالث ومطلع القرن الرابع بتفويض من الامبراطور الروماني كايوس فاليريوس غاليريوس ماكسيميانوس، وكان يُدعى قصر فيليكس روموليانا، نسبةً إلى والدة الامبراطور. ويحوي الموقع تحصينات عدة، فيما القصر الواقع في شمال غرب المجمَّع يؤوي معابد وحمامات ساخنة ومجمَّعاً تذكارياً وبوابات ضخمة. كما يوفر الموقع شهادة فريدة عن تقاليد البناء الرومانية، ويزاوج بين الوظائف الاحتفالية والتذكارية.",
+          "zh": "贾姆济格勒－罗慕利亚纳的加莱里乌斯宫位于塞尔维亚东部，建于3世纪末至4世纪初的罗马帝国末期，是皇帝加莱里乌斯下令修建的。这座堡垒式宫殿以皇太后菲利克斯•罗慕利亚纳的名字命名，包括城堡、位于建筑群西北部的宫殿、教堂、修道院、浴室、礼拜堂和一座凯旋门。这处遗产是罗马传统建筑的典型代表，同时带有第二次四君主制时期的思想烙印。这处建筑群的独特之处，还在于将举行仪式和纪念活动的功能集于一身。整个建筑群分为两大部分，中间以凯旋门相连。巨大的拱门横跨道路，一侧是堡垒和宫殿。另一侧是墓地和纪念碑。"
+        },
+        "full": "The Late Roman fortified palace compound and memorial complex of Gamzigrad-Romuliana, Palace of Galerius, in the east of Serbia, was commissioned by Emperor Caius Valerius Galerius Maximianus, in the late 3rd and early 4th centuries. It was known as Felix Romuliana, named after the emperor’s mother. The site consists of fortifications, the palace in the north-western part of the complex, basilicas, temples, hot baths, memorial complex, and a tetrapylon. The group of buildings is also unique in its intertwining of ceremonial and memorial functions.",
+        "justification": "Gamzigrad-Romuliana is a Late Roman palace and memorial complex built in the late 3rd and early 4th centuries, commissioned by the Emperor Galerius Maximianus. The strong fortifications of the palace are an allusion to the fact that the Tetrarchy Emperors were all senior military leaders. The spatial and visual relationships between the palace and the memorial complex, where the mausoleums of the Emperor and his mother Romula are located, are unique. Criterion (iii): The fortifications, the palace, and the memorial complex are a unique testimony of the Roman construction tradition pervaded by the ideological programme of the Second Tetrachy and Galerius himself as their builder. Criterion (iv): The group of buildings comprising the architectural complex of the Emperor Galerius is unique in that it intertwines the ceremonial and the memorial programme. The relation between two spatial ensembles is stressed by placing the Tetrapylon on the crossroads between the worldly fortification with the palace and the other-worldly mausoleums and consecration monuments. The integrity and authenticity of Gamzigrad-Romuliana are clearly demonstrated: relatively few excavations have been carried out to date and there has been no attempt to reconstruct the much degraded remains. There are no plans for reconstruction beyond what is needed for conservation and can be substantiated through research, as these would diminish the level of authenticity. The property is protected by: the Decision by the Institute for the Preservation and Scientific Examination of the Cultural Goods of the PR of Serbia (No 407/48, 19 March 1948); the Decision on the Identification of Immovable Cultural Goods of Outstanding and of Great Importance (Official Gazette 14/79); the Cultural Properties Law (The Official Gazette of the Republic of Serbia, No 71/94). A buffer zone has been established. The conservation of the remains is satisfactory. The property is managed at the level of the Republic of Serbia by the Institute for the Protection of Cultural Monuments of Serbia."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 179.217,
+          "square_km": 1.79,
+          "square_miles": 0.725,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/48eb3aba8fbed6b6949539ed1f9106c3",
+          "filename": "site_1253_0001-500-0-20241211112913.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 404
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114259/site_1253_0001.jpg",
+            "https://whc.unesco.org/document/218407/site_1253_0017.jpg",
+            "https://whc.unesco.org/document/218408/site_1253_0018.jpg",
+            "https://whc.unesco.org/document/114261/site_1253_0002.jpg",
+            "https://whc.unesco.org/document/114263/site_1253_0003.jpg",
+            "https://whc.unesco.org/document/114265/site_1253_0004.jpg",
+            "https://whc.unesco.org/document/114267/site_1253_0005.jpg",
+            "https://whc.unesco.org/document/122719/site_1253_0007.jpg",
+            "https://whc.unesco.org/document/122720/site_1253_0008.jpg",
+            "https://whc.unesco.org/document/122721/site_1253_0009.jpg",
+            "https://whc.unesco.org/document/122722/site_1253_0010.jpg",
+            "https://whc.unesco.org/document/122723/site_1253_0011.jpg",
+            "https://whc.unesco.org/document/122724/site_1253_0012.jpg",
+            "https://whc.unesco.org/document/122725/site_1253_0013.jpg",
+            "https://whc.unesco.org/document/122726/site_1253_0014.jpg",
+            "https://whc.unesco.org/document/122727/site_1253_0015.jpg",
+            "https://whc.unesco.org/document/122926/site_1253_0016.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1253",
+        "unesco_documents": "https://whc.unesco.org/en/list/1253/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1253/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1253/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Gamzigrad-Romuliana, Palace of Galerius The Late Roman fortified palace compound and memorial complex of Gamzigrad-Romuliana, Palace of Galerius, in the east of Serbia, was commissioned by Emperor Caius Valerius Galerius Maximianus, in the late 3rd and early 4th centuries. It was known as Felix Romuliana, named after the emperor’s mother. The site consists of fortifications, the palace in the north-western part of the complex, basilicas, temples, hot baths, memorial complex, and a tetrapylon. The group of buildings is also unique in its intertwining of ceremonial and memorial functions. The Late Roman fortified palace compound and memorial complex of Gamzigrad-Romuliana, Palace of Galerius, in the east of Serbia, was commissioned by Emperor Caius Valerius Galerius Maximianus, in the late 3rd and early 4th centuries. It was known as Felix Romuliana, named after the emperor’s mother. The site consists of fortifications, the palace in the north-western part of the complex, basilicas, temples, hot baths, memorial complex, and a tetrapylon. The group of buildings is also unique in its intertwining of ceremonial and memorial functions. Serbia Europe and North America Cultural"
+    }
+  ]
+}

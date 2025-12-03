@@ -1,0 +1,918 @@
+{
+  "country": {
+    "code": "KHM",
+    "name": "Cambodia"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "koh_ker_archaeological_site_of_ancient_lingapura_or_chok_gargyar",
+      "uuid": "17020353-eb7c-5eab-8200-c330c69ecd99",
+      "unesco_id": "1667",
+      "names": {
+        "en": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+        "fr": "Koh Ker : site archéologique de l’ancienne Lingapura ou Chok Gargyar",
+        "es": "Koh Ker: sitio arqueológico de la antigua Lingapura o Chok Gargyar",
+        "ru": "Кох Кер: Археологический памятник древнего Лингапура или Чок Гаргьяр",
+        "ar": "كوه كير: الموقع الأثري للنغابورا القديمة أو تشوك غرغيار",
+        "zh": "贡开：林迦之城（荣耀之城）考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KHM": {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "iso3": "KHM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The archaeological site of Koh Ker is a sacred urban ensemble of numerous temples and sanctuaries including sculptures, inscriptions, wall paintings, and archaeological remains. Constructed over a twenty-three-year period, it was one of two rival Khmer Empire capitals – the other being Angkor – and was the sole capital from 928 to 944 CE. Established by King Jayavarman IV, his sacred city was believed to be laid out on the basis of ancient Indian religious concepts of the universe. The new city demonstrated unconventional city planning, artistic expression and construction technology, especially the use of very large monolithic stone blocks.",
+          "fr": "Le site archéologique de Koh Ker est un ensemble urbain sacré comportant de nombreux temples et sanctuaires renfermant des sculptures, des inscriptions, des peintures murales et des vestiges archéologiques. Construite en une période de vingt-trois ans, elle a été l’une des deux capitales rivales de l’Empire khmer (avec Angkor) et est restée l’unique capitale entre 928 et 944 de notre ère. Établie par le roi Jayavarman IV, la ville sacrée a probablement été conçue en suivant les anciens concepts religieux indiens concernant l’univers. La nouvelle ville est un modèle tout à fait original d’urbanisme, d’expression artistique et de technologie de construction avec, notamment, d’énormes blocs de pierre monolithiques.",
+          "es": "El sitio arqueológico de Koh Ker es un conjunto urbano sagrado constituido por numerosos templos y santuarios que incluye esculturas, inscripciones, pinturas murales y restos arqueológicos. Construida a lo largo de un periodo de veintitrés años, fue una de las dos capitales rivales del Imperio Jémer ­–la otra era Angkor– y fue la única capital entre 928 y 944 d. C. Fundada por el rey Jayavarman IV, se cree que su ciudad sagrada se basó en los antiguos conceptos religiosos indios del universo. La nueva ciudad demostró una planificación urbanística, una expresión artística y una tecnología de construcción poco convencionales, especialmente en el uso de bloques de piedra monolíticos de gran tamaño.",
+          "ru": "Археологический памятник Кох Кер представляет собой священный городской ансамбль, включающий многочисленные храмы и святилища, в том числе скульптуры, надписи, настенные росписи и археологические остатки. Построенный в течение двадцати трех лет, он был одной из двух соперничающих столиц Кхмерской империи (второй был Ангкор) и являлся единственной столицей с 928 по 944 г. н.э. Основанный королем Джаяварманом IV священный город, как считается, был заложен на основе древнеиндийских религиозных представлений о Вселенной. Новый город демонстрировал нетрадиционную планировку, художественную выразительность и технологию строительства, в частности, использование очень больших монолитных каменных блоков.",
+          "ar": "الموقع الأثري لكوه كير عبارة عن مجمع حضري مقدس للعديد من المعابد التي تضم منحوتات ونقوشاً ورسومات جدارية وأطلالاً أثرية. وقد استغرق بناء هذا الموقع ثلاثة وعشرين عاماً، وكان أحد العاصمتين المتنافستين لإمبراطورية الخمير حيث كانت أنغكور العاصمة الأخرى، وكان العاصمة الوحيدة من عام 928 إلى عام 944م. وقد أنشأ الملك جيافارمان الرابع مدينته المقدسة التي يُعتقد أنها قامت على أساس مفاهيم دينية هندية قديمة للكون. وتمتاز هذه المدينة الجديدة بأنها غير تقليدية سواء من ناحية مخططها الحضري أو من ناحية أشكال التعبير الفني فيها والتكنولوجيا المستخدمة في بنائها، ولا سيما استخدام كتل حجرية كبيرة",
+          "zh": "贡开遗址是由众多寺庙和圣殿组成的神圣城市群，包括雕塑、铭文、壁画和考古遗迹。贡开城历经23年建成，一度与吴哥竞争高棉帝国都城之位，并在公元928-944年享有这一尊荣。这座圣城由国王阇耶跋摩四世建立，据信其布局遵循古印度教宇宙观。它展现出非典型的城市规划、高超的艺术表现和建筑技术，其中超大型单体石块的应用尤为突出。"
+        },
+        "full": "The archaeological site of Koh Ker is a sacred urban ensemble of numerous temples and sanctuaries including sculptures, inscriptions, wall paintings, and archaeological remains. Constructed over a twenty-three-year period, it was one of two rival Khmer Empire capitals – the other being Angkor – and was the sole capital from 928 to 944 CE. Established by King Jayavarman IV, his sacred city was believed to be laid out on the basis of ancient Indian religious concepts of the universe. The new city demonstrated unconventional city planning, artistic expression and construction technology, especially the use of very large monolithic stone blocks.",
+        "justification": "Brief synthesis Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar was a capital of the Khmer Empire between 921 and 944 CE. Partially hidden in a dense broad-leaf forest between the Dangrek and Kulen mountain ranges on a gently sloping hill some eighty kilometres northeast of Angkor, the archaeological site comprises numerous temples and sanctuaries with associated sculptures, inscriptions, and wall paintings, archaeological remains and hydraulic structures. Established by King Jayavarman IV in 921 CE, Koh Ker was one of two rival capitals of the Khmer Empire that co-existed between 921 and 928 CE – the other being Angkor – and the sole capital until 944 CE, after which the Empire’s political centre moved back to Angkor. Constructed in a single phase over a twenty-three-year period, the sacred city was believed to be laid out on the basis of ancient Indian concepts of the universe. Koh Ker demonstrated markedly unconventional city planning and architectural features, which were primarily the result of the combination of King Jayavarman IV’s grand political ambition and the two outstanding innovations that helped to materialise this ambition: the artistic expressions of the Koh Ker Style, and the construction technology using very large monolithic stone blocks. Although short-lived as a capital and thus acting only as an interlude in Khmer history, these innovations had a profound and lasting influence on urban construction and artistic expression in the region. Criterion (ii): The archaeological site of Koh Ker exhibits in an exceptional way the interchange of human values that resulted in the Koh Ker Style, a sculptural expression featuring bold, expressive imagery and a dynamic sense of movement that resulted from the fusion of Indian religious and artistic symbolism with local design concepts and artistic craftsmanship. The Koh Ker Style, though formed within a short period of twenty-three years in the 10th century, had an enduring influence on the artistic expression of the subsequent period of the Khmer Empire and other Southeast Asian countries. Criterion (iv): The archaeological site of Koh Ker is a prototype of a new urban landscape featured by grand-scale buildings, thanks to the use of colossal monolithic stone blocks for construction and sculptures. It had inaugurated a centuries-long phase of stone temple construction across the Khmer Empire and became a source of inspiration for the great monuments of Angkor and Southeast Asia in later centuries. Integrity All attributes necessary to express the Outstanding Universal Value of the property, including the temples and sanctuaries, archaeological remains and hydraulic structures, are included within the property. The layout and built environment of the entire ancient capital are evident. Many looted sculptures have been repatriated. Threats to the attributes are under control. Authenticity The link between the property's attributes and its Outstanding Universal Value is truthfully expressed, and the archaeological remains can be said to truthfully convey their meaning; there are no conjectural reconstructions. The absence of later modifications or reuse after its abandonment in the 15th century has left the property with a high level of authenticity in terms of its location and setting, forms and designs, and materials and substances, as demonstrated by the archaeological evidence. The geographical location of the ancient capital city, the layout of the original urban plan, and the archaeological remains of the temples, royal palace, hydraulic systems, sculptures, inscriptions, and wall painting are authentically preserved in situ. The property is the same size and is in almost the same condition as at the time of its documentation in the late 19th century. Protection and management requirements Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar is protected by the Law on the Protection of Cultural Heritage (1996). The Royal Decree on the Establishment of Koh Ker Temple Site, NS/RKT/0504/070, of 2004, as amended in 2020, defines the boundaries of the property, the buffer zone, and the satellite zone beyond the buffer zone. The National Authority for Preah Vihear (NAPV) is the dedicated governmental authority that oversees policy formulation and implementation for the protection and conservation of the property, and for combating illegal destruction, alteration, excavation, alienation or exportation of cultural objects at both Preah Vihear and Koh Ker. The NAPV technical teams, together with the active participation of the community, undertake activities for the conservation and promotion of the property according to a Comprehensive Cultural Management Plan. The International Coordinating Committee for Preah Vihear advises and monitors all NAPV activities. Heritage Impact Assessment mechanisms have been embedded in the current management system. Risk management for both the natural environment and the cultural heritage is carried out by staff with adequate equipment following established procedures. Specific long-term expectations include building up staff capacity."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1187.61,
+          "square_km": 11.88,
+          "square_miles": 4.806,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4cedbef7f49f31ed66ce6a83c772e896",
+          "filename": "site_1667_0001.jpg",
+          "dimensions": {
+            "width": 6000,
+            "height": 4000
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/191203/site_1667_0001.jpg",
+            "https://whc.unesco.org/document/191204/site_1667_0002.jpg",
+            "https://whc.unesco.org/document/191205/site_1667_0003.jpg",
+            "https://whc.unesco.org/document/191210/site_1667_0008.jpg",
+            "https://whc.unesco.org/document/191211/site_1667_0009.jpg",
+            "https://whc.unesco.org/document/191212/site_1667_0010.jpg",
+            "https://whc.unesco.org/document/191213/site_1667_0011.jpg",
+            "https://whc.unesco.org/document/191214/site_1667_0012.jpg",
+            "https://whc.unesco.org/document/191215/site_1667_0013.jpg",
+            "https://whc.unesco.org/document/191216/site_1667_0014.jpg",
+            "https://whc.unesco.org/document/191217/site_1667_0015.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+            "ref": "1667",
+            "latitude": 13.7830555556,
+            "longitude": 104.5372222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1667",
+        "unesco_documents": "https://whc.unesco.org/en/list/1667/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1667/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1667/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar The archaeological site of Koh Ker is a sacred urban ensemble of numerous temples and sanctuaries including sculptures, inscriptions, wall paintings, and archaeological remains. Constructed over a twenty-three-year period, it was one of two rival Khmer Empire capitals – the other being Angkor – and was the sole capital from 928 to 944 CE. Established by King Jayavarman IV, his sacred city was believed to be laid out on the basis of ancient Indian religious concepts of the universe. The new city demonstrated unconventional city planning, artistic expression and construction technology, especially the use of very large monolithic stone blocks. The archaeological site of Koh Ker is a sacred urban ensemble of numerous temples and sanctuaries including sculptures, inscriptions, wall paintings, and archaeological remains. Constructed over a twenty-three-year period, it was one of two rival Khmer Empire capitals – the other being Angkor – and was the sole capital from 928 to 944 CE. Established by King Jayavarman IV, his sacred city was believed to be laid out on the basis of ancient Indian religious concepts of the universe. The new city demonstrated unconventional city planning, artistic expression and construction technology, especially the use of very large monolithic stone blocks. Cambodia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "temple_zone_of_sambor_prei_kuk_archaeological_site_of_ancient_ishanapura",
+      "uuid": "4307a46a-498f-559a-8d5c-f2b250d25f5b",
+      "unesco_id": "1532",
+      "names": {
+        "en": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",
+        "fr": "Zone des temples de Sambor Prei Kuk, site archéologique de l’ancienne Ishanapura",
+        "es": "Zona de los templos de Sambor Prei Kuk, sitio arqueológico de la antigua Ishanapura",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KHM": {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "iso3": "KHM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The archaeological site of Sambor Prei Kuk, “the temple in the richness of the forest” in the Khmer language, has been identified as Ishanapura, the capital of the Chenla Empire that flourished in the late 6th and early 7th centuries AD. The property comprises more than a hundred temples, ten of which are octagonal, unique specimens of their genre in South-East Asia. Decorated sandstone elements in the site are characteristic of the pre-Angkor decorative idiom, known as the Sambor Prei Kuk Style. Some of these elements, including lintels, pediments and colonnades, are true masterpieces. The art and architecture developed here became models for other parts of the region and lay the ground for the unique Khmer style of the Angkor period.",
+          "fr": "Le site archéologique de Sambor Prei Kuk, « le temple dans la forêt luxuriante » en langue khmère, a été identifié comme étant Ishanapura, la capitale de l'empire Chenla qui prospéra de la fin du VIe siècle au début du VIIe siècle de notre ère. Le bien comprend plus d’une centaine de temples, dont dix temples octogonaux qui constituent des spécimens uniques en leur genre en Asie du Sud-Est. Leur décoration architecturale en grès est caractéristique du style pré-angkorien, le style dit de Sambor Prei Kuk, et certains des éléments (linteaux, frontons, colonnades...) sont de véritables chefs-d'oeuvre. L'art et l'architecture développés sur ce site devinrent un modèle qui s'est diffusé dans d'autres parties de la région et a posé les fondations du style khmer unique de la période angkorienne.",
+          "es": "Al sitio arqueológico de Sambor Prei Kuk, “el templo en el bosque frondoso” en lengua jémer, se lo identifica con Ishanapura, que fue capital del imperio Chenla y prosperó desde finales del siglo VI hasta principios del siglo VII de nuestra era. Los vestigios de esta ciudad se extienden en un área de 25 km2 y contenían un centro urbano fortificado y numerosos templos, entre ellos diez templos octogonales que constituyen ejemplos únicos en su género en el sureste asiático. Sus ornamentos arquitectónicos de arenisca son característicos del estilo pre-angkoriano, llamado estilo de Sambor Prei Kuk, y algunos de sus elementos –dinteles, frontones y columnatas– son verdaderas obras maestras del mismo. El arte y la arquitectura desarrollados en este sitio se convirtieron en un modelo que se difundió hasta otras zonas de la región, sentando las bases del estilo jémer único propio del periodo angkoriano.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "The archaeological site of Sambor Prei Kuk, “the temple in the richness of the forest” in the Khmer language, has been identified as Ishanapura, the capital of the Chenla Empire that flourished in the late 6th and early 7th centuries AD. The property comprises more than a hundred temples, ten of which are octagonal, unique specimens of their genre in South-East Asia. Decorated sandstone elements in the site are characteristic of the pre-Angkor decorative idiom, known as the Sambor Prei Kuk Style. Some of these elements, including lintels, pediments and colonnades, are true masterpieces. The art and architecture developed here became models for other parts of the region and lay the ground for the unique Khmer style of the Angkor period.",
+        "justification": "Brief synthesis Sambor Prei Kuk Temple Zone is part of the remains of ancient Ishanapura the temple in the lush forest, which was the capital of the Chenla Empire that flourished over much of Southeast Asia in the late 6th and early 7th centuries AD, and whose architectural achievements laid the foundations for those of the later Khmer Empire. The extensive Temple Zone of 840 hectares lies to the east of the remains of the moated city and is linked to the river Stung Sen and a possible harbour of Ishanapura by three earthen causeways between 600 and 700 metres in length. Within the Temple Zone, an outstanding ensemble of 186 fired brick temples with sandstone detailing reflects the introduction of technical and spiritual ideas of the Hindu Hariharan and Sakabrahmana cults from India and Persia respectively and the resulting convergence of these with animist and Buddhist elements that produced the unique Sambor Prei Kuk artistic style, which later heralded the Khmer style developed in Angkor. Inscriptions in Sanskrit and old Khmer on some of the temples reflect the adoption of a “God-King” in the centralized state, while others record temple activities, the names of kings and other individuals, details of religious and political life, and suggest the overall boundaries of the empire. The temple reliefs are the first signs of visual narratives in temple decoration which go beyond the earlier standard heraldic displays of deities in small medallions or small figures riding mythological animals. There are three main temple complexes of Prasat Yeai (Southern Group), Prasat Tao (Central Group), Prasat Sambor (Northern Group, including the Prasat Sandan Group and Prasat Bos Ream). Each has a central tower on a raised platform surrounded by smaller towers and other structures, and are enclosed by square brick and/or laterite walls, two for the central and south groups but three for the Prasat Sambor complex with each outer wall extending to 389 metres. These three groups contain 125 individual temples with 46 other temples and structures in the surrounding area including the Prasat Trapeang Ropeak and Prasat Kuok Troung groups. To the north, a satellite zone of 16 temples in the Prasat Srei Krup Leak and Prasat Robang Romeas groups display the architectural transition from the earlier Zhenla (Chenla) architectural style to that of Sambor Prei Kuk. In this area extensive archaeology layers built upon each other remain to be uncovered. The temples are constructed in a variety of shapes, configurations, and sizes, but of special note are 11 octagonal temples, designed in accordance with the general principles of the ancient Indian Manuals of Architecture, (although with no known Indian precedent). These are seen to represent the flying octagonal palace of Indra or Vimana Trivishtapa, the heaven of Indra and of 33 gods. The outside walls are decorated with Hindu iconography, and in six temples there are exquisite sculptural depictions of flying palaces. The extensive ensemble of religious buildings and their ancillary structures together with 102 hydraulic features display achievements in planning, technical ingenuity, execution, and resource management not previously seen in Southeast Asia. Criterion (ii): The Sambor Prei Kuk architectural and artistic style of the Temple Zone of Ishanapura, as exemplified in the layout, architectural forms and sculptured reflects on 186 fired bricks temples with sandstone detailing, presents a vivid convergence of spiritual and technical influences between Hindu cults predominantly from India and Persia and elements of animism and Buddhism, which became a model that spread to other parts of the region and eventually led to the crystallization of the unique Khmer style of the Angkorian period. Criterion (iii): The Temple Zone of Sambor Prei Kuk of Ancient Ishanapura, in terms of the scale and scope of its surviving buildings and watercourses, is an outstanding testimony to the cultural traditions of the Chenla Kingdom, which flourished over much of Southeast Asia in the late 6th and early 7th centuries AD, and whose architectural achievements laid the foundations for those of the later Khmer civilization in the Angkorian period. Criterion (vi): The temple inscriptions in the Khmer language of the Temple Zone of Sambor Prei Kuk reflect the concept of the God-King, which according to legends originated in Vat Phou, was further developed during the Angkor period, and then much later influenced Thailand’s four pillared administrative system in Ayutthaya. It remained a concept that was fundamental to the political and governance systems of Cambodia and Thailand until the beginning of the 20th century. Integrity The property covers the Temple Zone of Sambor Prei Kuk and its entire surroundings together with the wooded area that is the origin of the site's current name. All the still-standing buildings, most of the known remains of the hydraulic elements, all causeways and all the currently known temples and areas identified as holding further of archaeological remains of temples are contained within the boundaries. The Temples zone has suffered from the ravages of time, vagaries of climate and recent historical events as well as forest encroachment, all of which have led to the degradation of some monuments. Over time, parts of the monuments and objects belonging to the temples have been moved and/or looted. However, the main disaster was the international conflict that placed Cambodia in a war zone from the late 1960s to the early 1990s. Despite these tragic events, the major temples retain their original form and materials, despite repairs and modifications carried out from the 7th to the 11th century. Although a number of decorative elements, statues, and inscriptions remain in situ, most of the important sculptural masterpieces are in storage or exhibited in museums. Archaeological surveys have indicated that many of the buried structures are in good condition. The system of dykes, canals, and hydraulic features, numbering 102 sites, are intact, with many still in use today. Authenticity Despite decay, the still-standing temples display authenticity in form and design and demonstrate Indian cultural and architectural influence during the Chenla period in a unique Sambor Prei Kuk Style. In terms of materials, the remnant features retain their original substance because of sympathetic restoration to damaged brickwork that continues traditional techniques and the use of old bricks. This helps maintain the authenticity of form, function, and visual qualities. In addition, and by comparison with Angkor, there have been relatively fewer physical interventions and no hypothetical reconstruction. Minor reconstruction activity has occurred in some temples, but mainly to ensure structural stability and all restoration interventions are reversible. Many other temple remains are highly vulnerable and await consolidation and conservation. Protection and management requirements The Temple Zone of Sambor Prei Kuk, archaeological site of ancient Ishanapura and buffer zone is protected by the Royal Decree of 24 December 2014 and by the Law on the Protection of Cultural Heritage (Royal decision NS/RKM/0196/26 dated 25 January 1996). Within this framework, the National Authority for Sambor Prei Kuk (NASPK) is responsible for the overall management of the property and its buffer zone, including conservation, protection, restoration, development activities in progress, as well as for the interpretation of its heritage values for visitors. Work is guided by a Management Plan. Conservation activities are carried out in accordance with a fifteen-year Conservation Plan, based on a detailed risk analysis of the temples, and in accordance with a Conservation Manual that delineates conservation approaches for the highly fragile temples and their sensitive surroundings. NASPK is supported by a local NGO, The Conservation and Development Community for Sambor Prei Kuk, established in 2004 with the agreement of the Ministry of Culture and Fine Arts, which has played a crucial role in the sustainable conservation of cultural heritage and in developing engagement with the local community."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 840.03,
+          "square_km": 8.4,
+          "square_miles": 3.399,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2017,
+          "all_dates": [
+            2017
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2017,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a110971af23295308b8e40e93b6c85fc",
+          "filename": "site_1532_0004.jpg",
+          "dimensions": {
+            "width": 3936,
+            "height": 2624
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/159037/site_1532_0004.jpg",
+            "https://whc.unesco.org/document/159047/site_1532_0014.jpg",
+            "https://whc.unesco.org/document/159034/site_1532_0001.jpg",
+            "https://whc.unesco.org/document/159035/site_1532_0002.jpg",
+            "https://whc.unesco.org/document/159036/site_1532_0003.jpg",
+            "https://whc.unesco.org/document/159038/site_1532_0005.jpg",
+            "https://whc.unesco.org/document/159039/site_1532_0006.jpg",
+            "https://whc.unesco.org/document/159040/site_1532_0007.jpg",
+            "https://whc.unesco.org/document/159041/site_1532_0008.jpg",
+            "https://whc.unesco.org/document/159042/site_1532_0009.jpg",
+            "https://whc.unesco.org/document/159043/site_1532_0010.jpg",
+            "https://whc.unesco.org/document/159044/site_1532_0011.jpg",
+            "https://whc.unesco.org/document/159045/site_1532_0012.jpg",
+            "https://whc.unesco.org/document/159046/site_1532_0013.jpg",
+            "https://whc.unesco.org/document/159048/site_1532_0015.jpg",
+            "https://whc.unesco.org/document/159049/site_1532_0016.jpg",
+            "https://whc.unesco.org/document/159050/site_1532_0017.jpg",
+            "https://whc.unesco.org/document/159051/site_1532_0018.jpg",
+            "https://whc.unesco.org/document/159052/site_1532_0019.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1532",
+        "unesco_documents": "https://whc.unesco.org/en/list/1532/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1532/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1532/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 8,
+        "inscription_year": 2017
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura The archaeological site of Sambor Prei Kuk, “the temple in the richness of the forest” in the Khmer language, has been identified as Ishanapura, the capital of the Chenla Empire that flourished in the late 6th and early 7th centuries AD. The property comprises more than a hundred temples, ten of which are octagonal, unique specimens of their genre in South-East Asia. Decorated sandstone elements in the site are characteristic of the pre-Angkor decorative idiom, known as the Sambor Prei Kuk Style. Some of these elements, including lintels, pediments and colonnades, are true masterpieces. The art and architecture developed here became models for other parts of the region and lay the ground for the unique Khmer style of the Angkor period. The archaeological site of Sambor Prei Kuk, “the temple in the richness of the forest” in the Khmer language, has been identified as Ishanapura, the capital of the Chenla Empire that flourished in the late 6th and early 7th centuries AD. The property comprises more than a hundred temples, ten of which are octagonal, unique specimens of their genre in South-East Asia. Decorated sandstone elements in the site are characteristic of the pre-Angkor decorative idiom, known as the Sambor Prei Kuk Style. Some of these elements, including lintels, pediments and colonnades, are true masterpieces. The art and architecture developed here became models for other parts of the region and lay the ground for the unique Khmer style of the Angkor period. Cambodia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "cambodian_memorial_sites_from_centres_of_repression_to_places_of_peace_and_reflection",
+      "uuid": "00a4af3d-5c3f-5cf4-bcf1-24c484da6db8",
+      "unesco_id": "1748",
+      "names": {
+        "en": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+        "fr": "Sites mémoriels du Cambodge : des centres de répression devenus lieux de paix et de réflexion",
+        "es": "Sitios conmemorativos de Camboya: de centros de represión a lugares de paz y reflexión",
+        "ru": "Мемориальные комплексы Камбоджи: От центров репрессий к пространствам мира и осмысления",
+        "ar": "مواقع الذاكرة الكمبودية: من مراكز قمع إلى مواطن سلام وتأمل",
+        "zh": "柬埔寨纪念地：从压迫中心到和平与反思之所"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KHM": {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "iso3": "KHM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property consists of three locations that reflect the human rights abuses of the Khmer Rouge regime in Cambodia from 1971 to 1979. The three component parts represent the widespread violence during this period: the former M-13 prison (early repression), the Tuol Sleng Genocide Museum (former S-21 prison), and the Choeung Ek Genocidal Center (former execution site of S-21). These places have been preserved and memorialized since the regime’s fall. The Tuol Sleng Museum maintains extensive archives and collections related to this period, mainly documented by the Extraordinary Chambers in the Courts of Cambodia (ECCC).",
+          "fr": "Ce bien en série est composé de trois lieux témoignant des violations des droits humains perpétrées au Cambodge par le régime khmer rouge entre 1971 et 1979. Ses trois éléments constitutifs, l’ancienne prison M-13 (phase initiale de répression), le musée du Génocide de Tuol Sleng (ancienne prison S-21) et le Centre génocidaire de Choeung Ek (ancien site d’exécution de la prison S-21), témoignent de la violence généralisée de cette période. Après la chute du régime, ces sites ont été préservés et transformés en lieux de mémoire. Le musée du Génocide de Tuol Sleng conserve d’importantes archives et collections de cette période, principalement documentée par les Chambres extraordinaires au sein des tribunaux cambodgiens (ECCC).",
+          "es": "El sitio se compone de tres ubicaciones que reflejan los abusos de los derechos humanos cometidos por el régimen de los Jemeres Rojos en Camboya entre 1971 y 1979. Los tres lugares que lo componen representan la violencia generalizada durante este período: la antigua prisión M-13 (represión temprana), el Museo del Genocidio Tuol Sleng (antigua prisión S-21) y el Centro Genocida Choeung Ek (antiguo lugar de ejecución del S-21). Después de la caída del régimen, estos lugares fueron preservados y convertidos en sitios conmemorativos. El Museo Tuol Sleng conserva extensos archivos y colecciones sobre este período, documentados principalmente por las Cámaras Extraordinarias de los Tribunales de Camboya (ECCC por sus siglas en inglés).",
+          "ru": "Объект включает три локации, отражающие нарушения прав человека, совершённые режимом красных кхмеров в Камбодже в 1971–1979 годах. Эти места свидетельствуют о масштабном насилии того времени: бывшая тюрьма М-13 (период ранних репрессий), Музей геноцида Туол Сленг (бывшая тюрьма S-21) и Центр геноцида Чоенг Эк (бывшее место казней заключённых S-21). После падения режима они были сохранены и превращены в мемориальные пространства. Музей Туол Сленг располагает обширными архивами и коллекциями, посвящёнными этому периоду, большая часть которых была задокументирована Чрезвычайными палатами в судах Камбоджи (ЧПСК).",
+          "ar": "يتألف الموقع من ثلاث مناطق توثق الانتهاكات الجسيمة التي طالت حقوق الإنسان في ظل نظام الخمير الحمر في كمبوديا خلال الفترة الممتدة من 1971 إلى 1979. وهذه المكونات الثلاثة توثق العنف المُستشري خلال تلك المرحلة، وهي: سجن M – 13 السابق (بدايات القمع)، ومتحف تول سلينغ للإبادة الجماعية (الذي كان يُعرف سابقاً باسم سجن S-21)، ومركز تشوينغ إيك للإبادة الجماعية (الموقع السابق لتنفيذ أحكام الإعدام الصادرة عن سجن S – 21). حوفظ على هذه المواقع وخُلّدت ذكراها منذ سقوط النظام، ويوجد في متحف تول سلينغ محفوظات ومجموعات مستفيضة بشأن هذه الفترة ووثقت الدوائر الاستثنائية في المحاكم الكمبودية معظم هذه المحفوظات والمجموعات.",
+          "zh": "该遗产由3部分组成，反映了红色高棉政权在1971–1979年对柬埔寨人权的严重践踏。这些体现彼时大范围暴行的遗址分别为：M-13监狱（前期）、吐斯廉屠杀博物馆（S-21监狱）、琼邑克杀戮场（S-21监狱刑场）。政权垮台后，这些地点得到保存并被设为纪念地。吐斯廉博物馆收藏了大量该时期档案和物品，多数来自柬埔寨法院特别法庭的记录。"
+        },
+        "full": "The property consists of three locations that reflect the human rights abuses of the Khmer Rouge regime in Cambodia from 1971 to 1979. The three component parts represent the widespread violence during this period: the former M-13 prison (early repression), the Tuol Sleng Genocide Museum (former S-21 prison), and the Choeung Ek Genocidal Center (former execution site of S-21). These places have been preserved and memorialized since the regime’s fall. The Tuol Sleng Museum maintains extensive archives and collections related to this period, mainly documented by the Extraordinary Chambers in the Courts of Cambodia (ECCC).",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [],
+          "all": [],
+          "display": "",
+          "count": 0,
+          "type": "Unknown"
+        },
+        "area": {
+          "hectares": 3.9,
+          "square_km": 0.04,
+          "square_miles": 0.016,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d54411e45edab89cb1ce731394ca177b",
+          "filename": "site_1748_0001.jpg",
+          "dimensions": {
+            "width": 3840,
+            "height": 2160
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/220580/site_1748_0001.jpg",
+            "https://whc.unesco.org/document/220581/site_1748_0002.jpg",
+            "https://whc.unesco.org/document/220582/site_1748_0003.jpg",
+            "https://whc.unesco.org/document/220583/site_1748_0004.jpg",
+            "https://whc.unesco.org/document/220584/site_1748_0005.jpg",
+            "https://whc.unesco.org/document/220585/site_1748_0006.jpg",
+            "https://whc.unesco.org/document/220586/site_1748_0007.jpg",
+            "https://whc.unesco.org/document/220587/site_1748_0008.jpg",
+            "https://whc.unesco.org/document/220588/site_1748_0009.jpg",
+            "https://whc.unesco.org/document/220589/site_1748_0010.jpg",
+            "https://whc.unesco.org/document/220590/site_1748_0011.jpg",
+            "https://whc.unesco.org/document/220591/site_1748_0012.jpg",
+            "https://whc.unesco.org/document/220592/site_1748_0013.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Former M-13 prison",
+            "ref": "1748-001",
+            "latitude": 11.7701611111,
+            "longitude": 104.384813889
+          },
+          {
+            "name": "Tuol Sleng Genocide Museum (former S-21 prison)",
+            "ref": "1748-002",
+            "latitude": 11.5495055555,
+            "longitude": 104.917577778
+          },
+          {
+            "name": "Choeung Ek Genocidal Center (former execution site of  S-21)",
+            "ref": "1748-003",
+            "latitude": 11.4844222222,
+            "longitude": 104.902111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1748",
+        "unesco_documents": "https://whc.unesco.org/en/list/1748/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1748/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1748/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection The property consists of three locations that reflect the human rights abuses of the Khmer Rouge regime in Cambodia from 1971 to 1979. The three component parts represent the widespread violence during this period: the former M-13 prison (early repression), the Tuol Sleng Genocide Museum (former S-21 prison), and the Choeung Ek Genocidal Center (former execution site of S-21). These places have been preserved and memorialized since the regime’s fall. The Tuol Sleng Museum maintains extensive archives and collections related to this period, mainly documented by the Extraordinary Chambers in the Courts of Cambodia (ECCC). The property consists of three locations that reflect the human rights abuses of the Khmer Rouge regime in Cambodia from 1971 to 1979. The three component parts represent the widespread violence during this period: the former M-13 prison (early repression), the Tuol Sleng Genocide Museum (former S-21 prison), and the Choeung Ek Genocidal Center (former execution site of S-21). These places have been preserved and memorialized since the regime’s fall. The Tuol Sleng Museum maintains extensive archives and collections related to this period, mainly documented by the Extraordinary Chambers in the Courts of Cambodia (ECCC). Cambodia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "angkor",
+      "uuid": "6f624642-a8e7-5794-9406-0895e982de7a",
+      "unesco_id": "668",
+      "names": {
+        "en": "Angkor",
+        "fr": "Angkor",
+        "es": "Angkor",
+        "ru": "Ангкор",
+        "ar": "أنغكور",
+        "zh": "吴哥窟"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KHM": {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "iso3": "KHM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings.",
+          "fr": "Angkor est l’un des principaux sites archéologiques de l’Asie du Sud-Est. S’étendant sur quelque 400 km2 couverts en partie par la forêt, le parc archéologique d’Angkor recèle les admirables vestiges des différentes capitales de l’Empire khmer qui rayonna entre le IXe et le XVe siècle : le célèbre temple d’Angkor Vat et, à Angkor Thom, le temple du Bayon orné d’innombrables sculptures. L’UNESCO a mis en œuvre un vaste programme de sauvegarde de ce site symbole et de son environnement.",
+          "es": "Angkor es uno de los sitios arqueológicos más importantes del Asia Sudoriental. Se extiende por unos 400 km2, cubiertos en gran parte por la selva, y encierra los admirables vestigios de las distintas capitales del Imperio Jémer, que estuvo en su apogeo entre los siglos IX y XIV. Entre esos vestigios destacan el célebre templo de Angkor Vat y el del Bayon, situado en Angkor Thom, que está ornamentado con innumerables esculturas. La UNESCO ha puesto en marcha un vasto programa de salvaguardia de este sitio simbólico y de su entorno.",
+          "ru": "Ангкор является одним из важнейших археологических объектов в Юго-Восточной Азии. Раскинувшийся на площади, превышающей вместе с лесными массивами 400 кв. км, Ангкорский археологический парк располагает великолепными руинами, сохранившимися от нескольких столиц империи Кхмеров IX–XV вв. Это знаменитый храм Ангкор-Ват, храм Байон в Ангкор-Тхоме с бесчисленными скульптурными украшениями. ЮНЕСКО разработала комплексную программу охраны этого имеющего символическое значение объекта и его окружения.",
+          "ar": "يمثّل موقع أنغكور أحد أهم المواقع الأثرية في جنوب شرق آسيا. تمتد هذه الحديقة الأثرية على حوالى 400 كم٢ من الأراضي المغطاة جزئياً بالغابات وتزخر بالآثار الرائعة للعواصم المختلفة لإمبراطورية الخمير التي سطع نجمها بين القرن التاسع والقرن الخامس عشر. ومن أبرز هذه الآثار، معبد أنغكور فات الشهير ومعبد بايون، في أنغكور توم، المزيّن بالعديد من المنحوتات. ولقد وضعت اليونسكو برنامجاً واسع النطاق لحماية هذه الموقع الرمزي والبيئة المحيطة به.",
+          "zh": "吴哥窟是东南亚最重要的考古学遗址之一。吴哥窟遗址公园占地面积达400多平方公里，包括森林地区，有9至15世纪高棉王国(the Khmer Empire)各个时期首都的辉煌遗迹，其中包括了著名的吴哥寺(Angkor Wat)，以及坐落在吴哥索姆(Angkor Thom)以无数雕塑饰品而著称的白永寺庙(Bayon Temple)。联合国教科文组织已经对这一遗址及其周边制定了一项覆盖范围广泛的保护计划。"
+        },
+        "full": "Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings.",
+        "justification": "Brief synthesis Angkor, in Cambodia’s northern province of Siem Reap, is one of the most important archaeological sites of Southeast Asia. It extends over approximately 400 square kilometres and consists of scores of temples, hydraulic structures (basins, dykes, reservoirs, canals) as well as communication routes. For several centuries Angkor, was the centre of the Khmer Kingdom. With impressive monuments, several different ancient urban plans and large water reservoirs, the site is a unique concentration of features testifying to an exceptional civilization. Temples such as Angkor Wat, the Bayon, Preah Khan and Ta Prohm, exemplars of Khmer architecture, are closely linked to their geographical context as well as being imbued with symbolic significance. The architecture and layout of the successive capitals bear witness to a high level of social order and ranking within the Khmer Empire. Angkor is therefore a major site exemplifying cultural, religious and symbolic values, as well as containing high architectural, archaeological and artistic significance. The park is inhabited, and many villages, some of whom the ancestors are dating back to the Angkor period are scattered throughout the park. The population practices agriculture and more specifically rice cultivation. Criterion (i): The Angkor complex represents the entire range of Khmer art from the 9th to the 14th centuries, and includes a number of indisputable artistic masterpieces (e.g. Angkor Wat, the Bayon, Banteay Srei). Criterion (ii): The influence of Khmer art as developed at Angkor was a profound one over much of South-east Asia and played a fundamental role in its distinctive evolution. Criterion (iii): The Khmer Empire of the 9th-14th centuries encompassed much of South-east Asia and played a formative role in the political and cultural development of the region. All that remains of that civilization is its rich heritage of cult structures in brick and stone. Criterion (iv): Khmer architecture evolved largely from that of the Indian sub-continent, from which it soon became clearly distinct as it developed its own special characteristics, some independently evolved and others acquired from neighboring cultural traditions. The result was a new artistic horizon in oriental art and architecture. Integrity The Angkor complex encompasses all major architectural buildings and hydrological engineering systems from the Khmer period and most of these “barays” and canals still exist today. All the individual aspects illustrate the intactness of the site very much reflecting the splendor of the cities that once were. The site integrity however, is put under dual pressures: endogenous: exerted by more than 100,000 inhabitants distributed over 112 historic settlements scattered over the site, who constantly try to expand their dwelling areas; exogenous: related to the proximity of the town of Siem Reap, the seat of the province and a tourism hub. Authenticity Previous conservation and restoration works at Angkor between 1907 and 1992, especially by the École Française d’Extrême-Orient (EFEO), the Archaeological Survey of India, the Polish conservation body PKZ, and the World Monuments Fund have had no significant impact on the overall authenticity of the monuments that make up the Angkor complex and do not obtrude upon the overall impression gained from individual monuments. Protection and management requirements The property is legally protected by the Royal Decree on the Zoning of the Region of Siem Reap/Angkor adopted on 28 May 1994 and the Law on the protection of the natural and cultural heritage promulgated on 25 January 1996, the Royal Decree on the creation of the APSARA National Authority (Authority for the protection of the site and the management of the Angkor Region) adopted on 19 February 1995, the No. 70 SSR government Decision, dated 16 September 2004 providing for land‐use in the Angkor Park: “All lands located in zone 1 and 2 of the Angkor site are State properties”, and the sub-decree No. 50 ANK/BK on the organisation and functioning of the APSARA National Authority adopted on 9 May 2008, specifically provided for the establishment of a Department of Land‐use and Habitat Management in the Angkor Park. In order to strengthen and to clarify the ownership and building codes in the protected zones 1 and 2, boundary posts have been put in 2004 and 2009 and the action was completed in 2012. As off 1993, the ICC-Angkor (International Coordinating Committee for the Safeguarding and Development of the historic site of Angkor) created on 13 October 1993, ensures the coordination of the successive scientific, restoration and conservation related projects, executed by the Royal Cambodian Government and its international partners. It ensures the consistency of the various projects, and defines, when necessary, technical and financial standards and calls the attention of all the concerned parties when required. It also contributes to the overall management of the property and its sustainable development. The successful conservation of the property by the APSARA National Authority, monitored by the ICC-Angkor, was crowned by the removal of the property from the World Heritage List in danger in 2004. Angkor is one of the largest archaeological sites in operation in the world. Tourism represents an enormous economic potential but it can also generate irreparable destructions of the tangible as well as intangible cultural heritage. Many research projects have been undertaken, since the international safeguarding program was first launched in 1993.The scientific objectives of the research (e.g. anthropological studies on socio-economic conditions) result in a better knowledge and understanding of the history of the site, and its inhabitants that constitute a rich exceptional legacy of the intangible heritage. The purpose is to associate the “intangible culture” to the enhancement of the monuments in order to sensitize the local population to the importance and necessity of its protection and preservation and assist in the development of the site as Angkor is a living heritage site where Khmer people in general, but especially the local population, are known to be particularly conservative with respect to ancestral traditions and where they adhere to a great number of archaic cultural practices that have disappeared elsewhere. The inhabitants venerate the temple deities and organize ceremonies and rituals in their honor, involving prayers, traditional music and dance. Moreover, the Angkor Archaeological Park is very rich in medicinal plants, used by the local population for treatment of diseases. The plants are prepared and then brought to different temple sites for blessing by the gods. The Preah Khan temple is considered to have been a university of medicine and the NeakPoan an ancient hospital. These aspects of intangible heritage are further enriched by the traditional textile and basket weaving practices and palm sugar production, which all result in products that are being sold on local markets and to the tourists, thus contributing to the sustainable development and livelihood of the population living in and around the World Heritage site. A Public Investigation Unit was created as « measure instrument » for identifying the needs, expectations and behaviors of visitors in order to set policies, monitor its evolution, prepare a flux management policy and promote the unknown sites. The management of the Angkor Site, which is inhabited, also takes into consideration the population living in the property by associating them to the tourist economic growth in order to strive for sustainable development and poverty reduction. Two major contributions supporting the APSARA National Authority in this matter are: The Angkor Management Plan (AMP) and Community Development Participation Project (CDPP), a bilateral cooperation with the Government of New Zealand. The AMP helps the APSARA National Authority to reorganize and strengthen the institutional aspects, and the CDPP prepares the land use map with an experimental participation of the communities and supports small projects related to tourist development in order to improve the income of villagers living in the protected zones; The Heritage Management Framework composed of a Tourism Management Plan and a Risk map on monuments and natural resources; a multilateral cooperation with the Government of Australia and UNESCO. Preliminary analytical and planning work for the management strategy will take into account the necessity to preserve the special atmosphere of Angkor. All decisions must guarantee physical, spiritual, and emotional accessibility to the site for the visitors."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "display": "(i)(ii)(iii)(iv)",
+          "count": 4,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 40100,
+          "square_km": 401.0,
+          "square_miles": 162.279,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1992,
+          "all_dates": [
+            1992
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1992,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/dcb6971242b306f36d4e1b9847cdb26f",
+          "filename": "site_0668_0001.jpg",
+          "dimensions": {
+            "width": 1280,
+            "height": 960
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112162/site_0668_0001.jpg",
+            "https://whc.unesco.org/document/112164/site_0668_0002.jpg",
+            "https://whc.unesco.org/document/112166/site_0668_0003.jpg",
+            "https://whc.unesco.org/document/112168/site_0668_0004.jpg",
+            "https://whc.unesco.org/document/112169/site_0668_0005.jpg",
+            "https://whc.unesco.org/document/112171/site_0668_0006.jpg",
+            "https://whc.unesco.org/document/112173/site_0668_0007.jpg",
+            "https://whc.unesco.org/document/112175/site_0668_0008.jpg",
+            "https://whc.unesco.org/document/112177/site_0668_0009.jpg",
+            "https://whc.unesco.org/document/112179/site_0668_0010.jpg",
+            "https://whc.unesco.org/document/112183/site_0668_0012.jpg",
+            "https://whc.unesco.org/document/112187/site_0668_0014.jpg",
+            "https://whc.unesco.org/document/112191/site_0668_0016.jpg",
+            "https://whc.unesco.org/document/112193/site_0668_0017.jpg",
+            "https://whc.unesco.org/document/112196/site_0668_0019.jpg",
+            "https://whc.unesco.org/document/112198/site_0668_0020.jpg",
+            "https://whc.unesco.org/document/112200/site_0668_0021.jpg",
+            "https://whc.unesco.org/document/112202/site_0668_0022.jpg",
+            "https://whc.unesco.org/document/112206/site_0668_0024.jpg",
+            "https://whc.unesco.org/document/112208/site_0668_0025.jpg",
+            "https://whc.unesco.org/document/112210/site_0668_0026.jpg",
+            "https://whc.unesco.org/document/112212/site_0668_0027.jpg",
+            "https://whc.unesco.org/document/112215/site_0668_0029.jpg",
+            "https://whc.unesco.org/document/112219/site_0668_0031.jpg",
+            "https://whc.unesco.org/document/112221/site_0668_0032.jpg",
+            "https://whc.unesco.org/document/112223/site_0668_0033.jpg",
+            "https://whc.unesco.org/document/112225/site_0668_0034.jpg",
+            "https://whc.unesco.org/document/112227/site_0668_0035.jpg",
+            "https://whc.unesco.org/document/112229/site_0668_0036.jpg",
+            "https://whc.unesco.org/document/112232/site_0668_0037.jpg",
+            "https://whc.unesco.org/document/112234/site_0668_0038.jpg",
+            "https://whc.unesco.org/document/112237/site_0668_0040.jpg",
+            "https://whc.unesco.org/document/112239/site_0668_0041.jpg",
+            "https://whc.unesco.org/document/118941/site_0668_0048.jpg",
+            "https://whc.unesco.org/document/118942/site_0668_0049.jpg",
+            "https://whc.unesco.org/document/118943/site_0668_0050.jpg",
+            "https://whc.unesco.org/document/118946/site_0668_0053.jpg",
+            "https://whc.unesco.org/document/118948/site_0668_0054.jpg",
+            "https://whc.unesco.org/document/118949/site_0668_0055.jpg",
+            "https://whc.unesco.org/document/121931/site_0668_0056.jpg",
+            "https://whc.unesco.org/document/121932/site_0668_0057.jpg",
+            "https://whc.unesco.org/document/121986/site_0668_0058.jpg",
+            "https://whc.unesco.org/document/122751/site_0668_0059.jpg",
+            "https://whc.unesco.org/document/125334/site_0668_0060.jpg",
+            "https://whc.unesco.org/document/125336/site_0668_0061.jpg",
+            "https://whc.unesco.org/document/125337/site_0668_0062.jpg",
+            "https://whc.unesco.org/document/125338/site_0668_0063.jpg",
+            "https://whc.unesco.org/document/125339/site_0668_0064.jpg",
+            "https://whc.unesco.org/document/125340/site_0668_0065.jpg",
+            "https://whc.unesco.org/document/125341/site_0668_0066.jpg",
+            "https://whc.unesco.org/document/127038/site_0668_0067.jpg",
+            "https://whc.unesco.org/document/129249/site_0668_0071.jpg",
+            "https://whc.unesco.org/document/129251/site_0668_0073.jpg",
+            "https://whc.unesco.org/document/129252/site_0668_0074.jpg",
+            "https://whc.unesco.org/document/129257/site_0668_0079.jpg",
+            "https://whc.unesco.org/document/130833/site_0668_0103.jpg",
+            "https://whc.unesco.org/document/130844/site_0668_0114.jpg",
+            "https://whc.unesco.org/document/130849/site_0668_0119.jpg",
+            "https://whc.unesco.org/document/130883/site_0668_0153.jpg",
+            "https://whc.unesco.org/document/132790/site_0668_0179.jpg",
+            "https://whc.unesco.org/document/133133/site_0668_0183.jpg",
+            "https://whc.unesco.org/document/133135/site_0668_0185.jpg",
+            "https://whc.unesco.org/document/133136/site_0668_0186.jpg"
+          ],
+          "count": 63
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Angkor",
+            "ref": "668-001",
+            "latitude": 13.4388888889,
+            "longitude": 103.8677777778
+          },
+          {
+            "name": "Roluos",
+            "ref": "668-002",
+            "latitude": 13.335717,
+            "longitude": 103.974007
+          },
+          {
+            "name": "Banteay Srei",
+            "ref": "668-003",
+            "latitude": 13.599384,
+            "longitude": 103.963762
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/668",
+        "unesco_documents": "https://whc.unesco.org/en/list/668/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/668/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/668/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 33,
+        "inscription_year": 1992
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Angkor Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings. Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings. Cambodia Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "temple_of_preah_vihear",
+      "uuid": "d396875b-c9e0-5c28-aed7-3d1c64fe3269",
+      "unesco_id": "1224",
+      "names": {
+        "en": "Temple of Preah Vihear",
+        "fr": "Temple de Preah Vihear",
+        "es": "Sitio sagrado del templo de Preah Vihear",
+        "ru": "Храм Преах Вихеар",
+        "ar": "معبد بريه فيهير",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KHM": {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "iso3": "KHM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on the edge of a plateau that dominates the plain of Cambodia, the Temple of Preah Vihear is dedicated to Shiva. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800 metre long axis and dates back to the first half of the 11th century AD. Nevertheless, its complex history can be traced to the 9th century, when the hermitage was founded. This site is particularly well preserved, mainly due to its remote location. The site is exceptional for the quality of its architecture, which is adapted to the natural environment and the religious function of the temple, as well as for the exceptional quality of its carved stone ornamentation.",
+          "fr": "Le temple de Preah Vihear, dédié à Shiva, se trouve au bord d’un plateau qui domine la plaine du Cambodge. Composé d'une série de sanctuaires reliés par un système de chaussées et d'escaliers s'étendant sur un axe de 800 m, le temple date de la première moitié du XIe siècle. Son histoire complexe remonte cependant au IXe siècle, époque à laquelle un ermitage a été fondé. Ce site est particulièrement bien préservé, essentiellement en raison de sa situation reculée. L'ensemble est exceptionnel pour son architecture, adaptée à la fois aux contraintes naturelles du site et aux fonctions religieuses du temple, ainsi que pour la qualité des ornementations de pierre sculptée.",
+          "es": "Los edificios que componen este santuario dedicado a Shiva están situados en el extremo de una meseta que domina la llanura de Camboya. El templo, compuesto por una serie de santuarios conectados por un sistema de pavimentación y de escaleras a lo largo de un eje de 800 metros, data de la primera mitad del siglo XI a. de C. Sin embargo, su compleja historia se remonta a la creación de una comunidad de eremitas en el siglo IX. El sitio se ha conservado prácticamente en su estado original, debido en gran medida a su situación apartada, cerca de Tailandia. El sitio es excepcional por la calidad de su arquitectura, adaptada al medio ambiente natural y a la función religiosa del templo, así como por por la calidad de sus ornamentaciones de piedra tallada.",
+          "ru": "посвященный богу Шиве, расположен на обрыве плато, возвышающемся над камбоджийской равниной. Строительство храма относится к первой половине XI века н.э. Тем не менее, его сложная история прослеживается вплоть до 9 века, когда здесь поселились отшельники. Храм хорошо сохранился, в частности, благодаря своему удаленному местоположению, поблизости с Тайландом. Уникальность объекта выражается в его архитектурном решении, вписывающемся в природную среду и позволяющем храму выполнять свою религиозную функцию, а также в высокой художественной ценности декоративных элементов, выполненных резьбой по камню.",
+          "ar": "يقع الموقع عند حافة الأراضي المنبسطة والمطلة على سهل كمبوديا. المباني التي تشكل هذا المعبد مهداة للإلهة شيفا. ويرقى المعبد إلى النصف الأول من القرن الحادي عشر الميلادي. لكن تاريخه المعقد يعود في الواقع إلى القرن التاسع. الموقع مُصان على نحو لافت، وهذا يُعزى بالأخص إلى مكانه الجغرافي النائي، بالقرب من الحدود مع تايلندا. ويكتسي قيمة استثنائية لثلاثة أسباب: موقعه الطبيعي الناتئ، بمنحدراته الصخرية الشاهقة والمطلة على سهل شاسع وسلسلة جبلية؛ نوعية هندسته المعمارية المتكيفة مع البيئة الطبيعية ومع الوظيفة الدينية للمعبد، وأخيراً، الجودة الاستثنائية لزخارفه الحجرية المنحوتة.",
+          "zh": ""
+        },
+        "full": "Situated on the edge of a plateau that dominates the plain of Cambodia, the Temple of Preah Vihear is dedicated to Shiva. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800 metre long axis and dates back to the first half of the 11th century AD. Nevertheless, its complex history can be traced to the 9th century, when the hermitage was founded. This site is particularly well preserved, mainly due to its remote location. The site is exceptional for the quality of its architecture, which is adapted to the natural environment and the religious function of the temple, as well as for the exceptional quality of its carved stone ornamentation.",
+        "justification": "The Temple of Preah Vihear, a unique architectural complex of a series of sanctuaries linked by a system of pavements and staircases on an 800 metre long axis, is an outstanding masterpiece of Khmer architecture, in terms of plan, decoration and relationship to the spectacular landscape environment. Criterion (i): Preah Vihear is an outstanding masterpiece of Khmer architecture. It is very ‘pure’ both in plan and in the detail of its decoration. Authenticity, in terms of the way the buildings and their materials express well the values of the property, has been established. The attributes of the property comprise the temple complex; the integrity of the property has to a degree been compromised by the absence of part of the promontory from the perimeter of the property. The protective measures for the Temple, in terms of legal protection are adequate; the progress made in defining the parameters of the Management Plan needs to be consolidated into an approved, full Management Plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1
+          ],
+          "natural": [],
+          "all": [
+            1
+          ],
+          "display": "(i)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 154.7,
+          "square_km": 1.55,
+          "square_miles": 0.626,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/014d737fb0d818286744f606c02a2617",
+          "filename": "site_1224_0013.jpg",
+          "dimensions": {
+            "width": 4278,
+            "height": 1916
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/123642/site_1224_0013.jpg",
+            "https://whc.unesco.org/document/123643/site_1224_0014.jpg",
+            "https://whc.unesco.org/document/123644/site_1224_0015.jpg",
+            "https://whc.unesco.org/document/123645/site_1224_0016.jpg",
+            "https://whc.unesco.org/document/123646/site_1224_0017.jpg",
+            "https://whc.unesco.org/document/129336/site_1224_0018.jpg",
+            "https://whc.unesco.org/document/129337/site_1224_0019.jpg",
+            "https://whc.unesco.org/document/129338/site_1224_0020.jpg",
+            "https://whc.unesco.org/document/129339/site_1224_0021.jpg",
+            "https://whc.unesco.org/document/129340/site_1224_0022.jpg",
+            "https://whc.unesco.org/document/129341/site_1224_0023.jpg",
+            "https://whc.unesco.org/document/113952/site_1224_0001.jpg",
+            "https://whc.unesco.org/document/122447/site_1224_0002.jpg",
+            "https://whc.unesco.org/document/122448/site_1224_0003.jpg",
+            "https://whc.unesco.org/document/122450/site_1224_0005.jpg",
+            "https://whc.unesco.org/document/122451/site_1224_0006.jpg",
+            "https://whc.unesco.org/document/122452/site_1224_0007.jpg",
+            "https://whc.unesco.org/document/122453/site_1224_0008.jpg",
+            "https://whc.unesco.org/document/122454/site_1224_0009.jpg",
+            "https://whc.unesco.org/document/122455/site_1224_0010.jpg",
+            "https://whc.unesco.org/document/122456/site_1224_0011.jpg",
+            "https://whc.unesco.org/document/122457/site_1224_0012.jpg",
+            "https://whc.unesco.org/document/157602/site_1224_0025.jpg",
+            "https://whc.unesco.org/document/157603/site_1224_0026.jpg",
+            "https://whc.unesco.org/document/157604/site_1224_0027.jpg",
+            "https://whc.unesco.org/document/157605/site_1224_0028.jpg",
+            "https://whc.unesco.org/document/157606/site_1224_0029.jpg",
+            "https://whc.unesco.org/document/157607/site_1224_0030.jpg"
+          ],
+          "count": 28
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Temple of Preah Vihear",
+            "ref": "1224rev",
+            "latitude": 14.390841,
+            "longitude": 104.680325
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1224",
+        "unesco_documents": "https://whc.unesco.org/en/list/1224/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1224/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1224/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Temple of Preah Vihear Situated on the edge of a plateau that dominates the plain of Cambodia, the Temple of Preah Vihear is dedicated to Shiva. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800 metre long axis and dates back to the first half of the 11th century AD. Nevertheless, its complex history can be traced to the 9th century, when the hermitage was founded. This site is particularly well preserved, mainly due to its remote location. The site is exceptional for the quality of its architecture, which is adapted to the natural environment and the religious function of the temple, as well as for the exceptional quality of its carved stone ornamentation. Situated on the edge of a plateau that dominates the plain of Cambodia, the Temple of Preah Vihear is dedicated to Shiva. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800 metre long axis and dates back to the first half of the 11th century AD. Nevertheless, its complex history can be traced to the 9th century, when the hermitage was founded. This site is particularly well preserved, mainly due to its remote location. The site is exceptional for the quality of its architecture, which is adapted to the natural environment and the religious function of the temple, as well as for the exceptional quality of its carved stone ornamentation. Cambodia Asia and the Pacific Cultural"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "site_key": "pitons_management_area",
+  "uuid": "61787d21-7bf4-569a-acc6-b66de316ac8f",
+  "unesco_id": "1161",
+  "names": {
+    "en": "Pitons Management Area",
+    "fr": "Zone de gestion des Pitons",
+    "es": "Zona de gestión de los Pitones",
+    "ru": "Охраняемый природный район Питон",
+    "ar": "منطقة إدارة القمم البركانية",
+    "zh": "皮通山保护区"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "LCA": {
+        "name": "Saint Lucia",
+        "iso2": "LC",
+        "iso3": "LCA"
+      }
+    },
+    "region": {
+      "name": "Latin America and the Caribbean",
+      "code": "LAC"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians.",
+      "fr": "Le site de 2 909 ha, proche de la ville de Soufrière, comprend les Pitons, deux aiguilles volcaniques jaillissant, côte à côte, de la mer (respectivement à 770 m et 743 m de hauteur). Gros Piton et Petit Piton sont reliés par la crête du Piton Mitan. Le complexe volcanique de la zone comporte un champ géothermique (solfatare) avec des fumerolles sulfureuses et des sources chaudes. Des récifs coralliens couvrent presque 60 % de la zone marine du site. Une étude a révélé 168 espèces de poissons, 60 espèces de cnidaires, dont des coraux, 8 mollusques, 14 éponges, 11 échinodermes, 15 arthropodes et 8 annélides. La végétation terrestre dominante est une forêt tropicale humide qui devient forêt subtropicale pluviale avec de petites zones de forêt sèche et des régions de bois de lutins humides sur les sommets. Au moins 148 espèces de plantes ont été recensées sur Gros Piton, 97 sur Petit Piton et la crête intermédiaire. Il y a 8 espèces d’arbres rares. Sur Gros Piton, on trouve quelque 27 espèces d’oiseaux (dont 5 sont endémiques), 3 rongeurs indigènes, 1 opossum, 3 chauves-souris, 8 reptiles et 3 amphibiens.",
+      "es": "Este sitio de 2.909 hectáreas se halla en las cercanías de la ciudad de Soufriere. Comprende dos agujas volcánicas, el Gran Pitón (770 m.) y el Pequeño Pitón (743 m.), que surgen juntas del mar y están unidas por una cresta montañosa llamada el Pitón Mediano. Este conjunto volcánico comprende una zona geotérmica con fumarolas sulfurosas y aguas calientes. Casi un 60% del área marina del sitio está cubierta por corales. Un estudio ha puesto de manifiesto la existencia de 168 especies de peces sarcopterigios y actinopterigios, 60 especies de celenterados –comprendidos los corales–, ocho de moluscos, 14 de esponjas, 11 de equinodermos, 15 de artrópodos y ocho de gusanos anélidos. La vegetación terrestre predominante es el bosque húmedo tropical, que con la altura se convierte en bosque de lluvia subtropical con zonas reducidas de bosque seco y en áreas de bosque enano húmedo en las cumbres. En el Gran Pitón se han catalogado 148 especies vegetales como mínimo, mientras que en el Pequeño Pitón y la cresta intermedia se han localizado 97. Hay ocho especies de árboles raros. El Gran Pitón alberga 27 especies de aves (cinco endémicas), tres de roedores autóctonos, tres de murciélagos, ocho de reptiles, tres de anfibios y una de zarigüeya.",
+      "ru": "Участок площадью 2,9 тыс. га, лежащий неподалеку от города Суфриер, включает два вулканических останца (770 м – Грос-Питон и 743 м – Пти-Питон), возвышающихся рядом у берега моря, и соединенных между собой хребтом Питон-Митан. Вулканический ландшафт включает геотермальное поле с сернистыми источниками и фумаролами – парогазовыми струями. Коралловые рифы занимают около 60% морской части объекта наследия. Обследования выявили здесь десятки видов рыб, а также различные кораллы, моллюски, губки и т.д. На побережье встречается морская черепаха бисса, в прибрежной акватории – китовые акулы и киты гринды. На суше преобладают дождевые тропические леса, которые переходят во влажные субтропические леса. Не менее 148 видов растений зафиксировано в районе Грос-Питон, а на Пти-Питон – 97 видов. На соединяющем оба пика хребте, в числе прочего, обнаружено восемь редких видов деревьев. Грос-Питон служит убежищем для 27 видов птиц (из них пять – эндемики), трех аборигенных видов грызунов, опоссума, трех видов летучих мышей, восьми – рептилий и трех – амфибий.",
+      "ar": "يتضمن هذا الموقع الممتد على مساحة 2909 هكتارات والمجاور لمدينة سوفريير قمتي بيتون البركانيتين المنبثقتين جنباً الى جنب من البحر (بارتفاع 770و743 متراً على التوالي) والموصولتين بفوهة ميتان. ويتضمن هذا المجمّع البركاني حقلاً حرارياً جوفياً (منجم كبريت) فيه دخان بركاني كبيريتي وينابيع حارة، بينما تغطي الشُعب المرجانية حوالى 60% من المنطقة البحرية من الموقع. وقد أشارت دراسة الى وجود 861 صنفاً من الأسماك و60 صنفاً من العدارات الرئوية كالمرجان و8 رخويات و14 اسفنجات و11 حيواناً قنفذياً و15 حيواناً مفصلي الأرجل و8 حلقيات. أما الحياة النباتية الأرضية الغالبة فتتمثل في غابة مدارية رطبة تصبح غابة شبه مدارية ماطرة فيها مناطق صغيرة من الغابات الجافة وغابات الشياطين الرطبة على القمم. وقد تم احصاء حد أدنى من 148 صنفاً من المزروعات على القمة الكبيرة و97 على القمة الصغيرة والفوهة التي تربطهما، ناهيك عن 8 أصناف من الأشجار النادرة. ويحتضن الجبل الكبير أيضاً 27 صنفاً من الطيور (خمسة منها مستوطنة) و3 قوارض بلدية وأوبوسوم واحد و3 خفافيش و8 زواحف و3 ضفدعيات.",
+      "zh": "皮通山保护区紧邻苏弗里耶尔镇，面积为2909公顷。保护区内有皮通山，两处最高的火山分别高达770米和743米。延绵的山峰和山脊连接，一直延伸到海面。火山群包括一个地热带，那里温泉密布，硫磺色的烟雾缭绕。珊瑚暗礁覆盖了几乎60%的海面。一项调查研究显示，这里有168种长须鲸，包括珊瑚在内的60种刺胞动物、8种软体动物、14种海绵、11种棘皮类动物、15种节肢动物和8种A 环节蠕虫。玳瑁乌龟在近海岸出没，海面上还能看见鲸鲨和领航鲸的身影。主要的陆地植物为潮湿热带林和亚热带雨林，在山顶还有一小部分干燥林和高山矮曲林。据记载，大皮通山至少有148种植物，小皮通山和中间的山脊至少有97种植物，其中有8种珍稀树种。皮通山还是约27种鸟类（其中5种为当地鸟类）、3种当地啮齿动物、1种负鼠、3种蝙蝠、8种爬虫动物和3种两栖动物的栖息地。"
+    },
+    "full": "The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians.",
+    "justification": "Brief synthesis Belonging to the Lesser Antilles, the volcanic island of Saint Lucia is located in the Eastern Caribbean Sea and surrounded by the Atlantic Ocean. The Pitons Management Area (PMA) in the Southwest of Saint Lucia is a multiple use conservation and management area of 1,134 hectares of land and 875 hectares of sea, respectively, totaling 2,909 hectares. The eponymous Pitons, two towering volcanic spires, are the major iconic landmark of the island. These spectacular twin pinnacles, Gros Piton and Petit Piton, rise side by side from the sea to 770 and 743 m.a.s.l., respectively. They are bridged by an inland ridge and tower above an accessible caldera-like formation known as the Qualibou Depression. The PMA finds itself within the Soufriere Volcanic Centre and encompasses a wide range of its diverse geological features, including a site of geothermal activity with fumaroles and hot springs, known as the Sulphur Springs. Petroglyphs and diverse artifacts bear witness of the Amerindian Carib population which historically inhabited what is now the PMA. Despite the small extension there is a high diversity of terrestrial habitats, flora and fauna. The dominant vegetation is comprised of various forest types, including rare elfin woodland on the summits. Small, little disturbed patches of natural forests remain, preserved by the steepness of the land. The Marine Management Area within the PMA is a strip of roughly 11 km long and about one kilometre wide along the shore. It comprises a steeply sloping continental shelf with healthy fringing and patch reefs covering more than 60 % of the marine area, boulders and sandy plains. The diverse marine and coastal habitats harbour important marine life. Hawksbill turtles are seen inshore, and whale sharks and pilot whales offshore. Criterion (vii): The PMA derives its primary visual impact and aesthetic qualities from the Pitons, two adjacent forest-clad volcanic spires rising abruptly from the sea to heights greater than 700 m.a.s.l. The Pitons predominate over the Saint Lucian landscape, being visible from virtually every part of the island and providing a distinctive landmark for seafarers. The combination of the Pitons against the backdrop of unspoilt lush and diverse natural tropical vegetation and a varying topography in a coastal setting gives the property its stunning natural beauty. Criterion (viii): The PMA contains the greater part of a collapsed stratovolcano contained within the volcanic system, known to geologists as the Soufriere Volcanic Centre. Prominent within the volcanic landscape are two remnant volcanic peaks, Gros Piton and Petit Piton. The Pitons occur with a variety of other volcanic features including cumulo domes, explosion craters, pyroclastic deposits (pumice and ash), and lava flows. Collectively, these fully illustrate the volcanic history of an andesitic composite volcano associated with crustal plate subduction. Integrity The boundaries of PMA have been determined to cover the area’s outstanding volcanic features and were extended during the nomination process. The expanded area includes a broader range of volcanic features, but also a greater proportion of privately owned and rural residential land. The land boundary of the PMA is based on natural and man-made elements, including land contour, water courses, roadways and land tenure. Slightly more than half of the PMA is on governmental land with the remaining land in private hands. While the conservation areas and the marine portions of the PMA are uninhabited, there are approximately 1,500 residents living within the Terrestrial Multiple Use Zones. The zonation responds to the different demands in a property that explicitly attempts to strike a balance between resource use and nature conservation. The marine boundary about one kilometre off-shore, is the 75m depth contour, which circumscribes the coral reef. Within the PMA, the Soufriere Marine Management Area (SMMA) is a multiple use marine area in its own right. Given the predominance of the volcanic phenomena and the scenic beauty, the boundaries adequately cover the key values. The challenge will be to monitor, prepare for and manage natural and man-made threats, including in particular construction of hotels and other buildings which may compromise the visual integrity of the property. Protection and management requirements The PMA is a multiple use area based on a Cabinet Decree and was gazetted under the Physical Planning and Development Act of 2001. The Soufriere Marine Management Area (SMMA), established in 1994 under the Fisheries Act, represents the marine component of the PMA. In 2003, the PMA was also declared an Environmental Protection Area and in 2011 a Special Enforcement Area, the latter in response to unauthorized development. There are multiple further statutes applying to the PMA, including on agriculture, forestry, fisheries, soil and water conservation and wildlife protection amounting to a comprehensive legal and policy framework. The management draws on comprehensive consultation with governmental and civil society stakeholders, including communities in the hinterland of the PMA, and benefits from ecological, socio-economic and cultural research. A Management Plan guides the management of the site. Despite the comprehensive legal and management framework, a number of threats require permanent attention. Both in the short and longer term the increasingly strong pressure to construct hotels and residential buildings is the single most important threat to the integrity of the relatively small property. This includes central areas of the property of fundamental importance for the visual integrity of the PMA and steep slopes susceptible to erosion. Both the terrestrial and the marine areas of the PMA are important tourist destinations, which adds to the encroachment pressure but may also lead to other impacts. The rugged terrain provides a degree of natural protection against encroachment and other terrestrial land use, such as agriculture, grazing, extraction of timber and fuel wood, as well as tourism. Still, management is needed both within the propriety and its adjacent communities to maintain the visual attractiveness of the PMA and to minimize the impacts on flora and fauna. There is a need for systematic monitoring and law enforcement, including on private lands. On the latter, lands management arrangements with the owners in line with the values and management objectives of the PMA are needed. Under certain circumstances purchasing of private land may be considered. Such measures will also benefit the water quality of the marine areas which may be affected by sedimentation and pollution from land-based sources. As for the marine areas, over-fishing and excessive harvesting of other living marine resources could represent a threat and require monitoring. As in most island settings alien invasive species threaten the local ecosystems. Consequently, monitoring, prevention, control and when possible eradication must be part of management efforts. Furthermore, PMA is susceptible to natural disasters in the form of hurricanes and other severe weather events, possibly aggravated by future climate change. Both terrestrial habitats and reefs are known to be affected by such weather events, through negative impacts from high levels of rainfall, sedimentation and wave action."
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        7,
+        8
+      ],
+      "all": [
+        7,
+        8
+      ],
+      "display": "(vii)(viii)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 2909,
+      "square_km": 29.09,
+      "square_miles": 11.772,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2004,
+      "all_dates": [
+        2004
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2004,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/03710024fd2ee1c94184b2b960fe48a2",
+      "filename": "site_1161_0004.jpg",
+      "dimensions": {
+        "width": 3264,
+        "height": 2448
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/123322/site_1161_0004.jpg",
+        "https://whc.unesco.org/document/123323/site_1161_0005.jpg",
+        "https://whc.unesco.org/document/128350/site_1161_0006.jpg",
+        "https://whc.unesco.org/document/128351/site_1161_0007.jpg",
+        "https://whc.unesco.org/document/128352/site_1161_0008.jpg",
+        "https://whc.unesco.org/document/128353/site_1161_0009.jpg",
+        "https://whc.unesco.org/document/128354/site_1161_0010.jpg",
+        "https://whc.unesco.org/document/128355/site_1161_0011.jpg",
+        "https://whc.unesco.org/document/128356/site_1161_0012.jpg",
+        "https://whc.unesco.org/document/128358/site_1161_0013.jpg",
+        "https://whc.unesco.org/document/128359/site_1161_0014.jpg",
+        "https://whc.unesco.org/document/128362/site_1161_0015.jpg"
+      ],
+      "count": 12
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Pitons Management Area",
+        "ref": "1161",
+        "latitude": 13.80708333,
+        "longitude": -61.07036111
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1161",
+    "unesco_documents": "https://whc.unesco.org/en/list/1161/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1161/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1161/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Americas",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "2000s",
+    "era": "Modern Period (2000-2009)",
+    "age_years": 21,
+    "inscription_year": 2004
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Pitons Management Area The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians. The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians. Saint Lucia Latin America and the Caribbean Natural"
+}

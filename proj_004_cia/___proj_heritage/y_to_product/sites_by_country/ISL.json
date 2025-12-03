@@ -1,0 +1,510 @@
+{
+  "country": {
+    "code": "ISL",
+    "name": "Iceland"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "vatnajokull_national_park_dynamic_nature_of_fire_and_ice",
+      "uuid": "3956ac9b-20b8-55e3-a36b-ad089a8661e9",
+      "unesco_id": "1604",
+      "names": {
+        "en": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+        "fr": "Parc national du Vatnajökull – la nature dynamique du feu et de la glace",
+        "es": "Parque Nacional del Vatnajökull – La naturaleza dinámica del fuego y el hielo",
+        "ru": "Национальный парк Ватнайёкюдль – динамичная природа льда и огня",
+        "ar": "حديقة فاتناكوكول الوطنية - الطبيعة الديناميكية للنار والجليد",
+        "zh": "瓦特纳冰川国家公园-火与冰的动态"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISL": {
+            "name": "Iceland",
+            "iso2": "IS",
+            "iso3": "ISL"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age.",
+          "fr": "Le bien, qui couvre plus de 1 400 000 ha, soit près de 14 % de l’Islande, est une région volcanique emblématique. Il compte dix volcans centraux, dont huit sous-glaciaires. Deux de ces derniers sont parmi les plus actifs d’Islande. L’interaction entre les volcans et les fissures qui sous-tendent la calotte glaciaire du Vatnajökull prend différentes formes dont la plus spectaculaire est le jökulhlaup : une inondation soudaine causée par la rupture de la marge d’un glacier durant une éruption. Ce phénomène récurrent a fait apparaître des plaines de sable uniques au monde, des réseaux fluviaux ainsi que des canyons en évolution rapide. Les zones volcaniques abritent une faune endémique des eaux souterraines qui a survécu à la période glaciaire.",
+          "es": "Este sitio natural de 1.400.000 hectáreas de superficie abarca una región volcánica emblemática de Islandia. El parque del Vatnajökull cuenta con diez volcanes importantes, de los cuales ocho son subglaciares, y entre estos últimos hay dos que figuran entre los más activos de toda Islandia. La interacción geológica entre las erupciones volcánicas y las grietas subyacentes al casquete glaciar del parque puede dar lugar a fenómenos diversos. El más espectacular sin duda es el denominado “jökulhlaup”, esto es, la inundación repentina ocasionada por la ruptura de la margen de un glaciar en el transcurso de una erupción. Este fenómeno, que es recurrente, deja al descubierto planicies de arena únicas en el mundo, así como redes fluviales y cañones cuya morfología evoluciona a gran velocidad. Las zonas volcánicas albergan una fauna endémica de aguas subterráneas que logró sobrevivir al periodo glaciar.",
+          "ru": "Этот объект, характеризующийся вулканической активностью, занимает площадь более 1 400 000 га, что составляет почти 14% территории Исландии. Объект включает десять вулканов центрального типа, в том числе восемь подледниковых вулканов. Два из них являются одними из самых активных вулканов в Исландии. Взаимодействие между вулканами и трещинами под ледяным покровом Ватнайёкюдль принимает различные формы, наиболее впечатляющей из которых является йоукюльхлёйп: внезапное наводнение, вызванное частичными обрушениями ледника во время вулканического подлёдного извержения. Такое периодически повторяющееся явление стало причиной формирования уникальных зандровых равнин, речных систем и каньонов. Зоны вулканической активности являются домом для переживших ледниковый период эндемичных видов фауны подземных вод.",
+          "ar": "يمثل هذا الموقع، الذي يغطي أكثر من 1400000 هكتار، منطقة بركانية مميّزة. ويوجد فيه عشرة براكين مركزية بما في ذلك ثمانية من البراكين تحت الجليدية ومنها اثنين من البراكين الأكثر نشاطاً في آيسلندا. ويولد التفاعل بين البراكين والشقوق الطبقة الجليدية في فاتناكوكول والتي تتخذ أشكالاً مختلفة، وأبرزها: الفيضان الجليدية المعروفة باسم يوكلهوب، وهي فيضانات تتشكل على نحو مفاجئ بفعل حدوث انهيارات على جوانب الأنهار الجليدية جرّاء ذوبانها. وتؤدي هذه الظاهرة المتكررة إلى تشكّل سهول رملية وأودية فريدة من نوعها ونظم أنهار سريعة التدفق. وتعدّ المناطق البركانية موطناً لحيوانات المياه الجوفية التي نجت من العصر الجليدي.",
+          "zh": "该遗产地是典型的火山地区，占地面积逾140万公顷，接近冰岛领土面积的14%。瓦特纳冰川国家公园内有10座中心式火山，其中8座为冰川火山。这些火山中有2座位居冰岛最活跃的火山之列。火山与瓦特纳冰盖裂缝之间的相互作用形成了各种自然景观，其中最引人注目的是火山爆发期间冰川边缘突然崩裂引发的大洪水。这一现象的反复出现催生了世界上独一无二的沙原、河网和变化迅速的峡谷。当地火山地区还生活着冰川时期遗存的、生活在地下水中的典型动物。"
+        },
+        "full": "This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age.",
+        "justification": "Brief synthesis The property, totalling over 1,400,000 ha, comprises the whole of Vatnajökull National Park, plus two contiguous protected areas. At its heart lies the c.780,000 ha Vatnajökull ice cap in southeast Iceland. Iceland includes the only part of the actively spreading Mid-Atlantic Ridge exposed above sea level, with the tectonic plates on either side moving apart by some 19 mm each year. This movement is accommodated in rift zones, two of which, the Eastern and Northern Volcanic Zones, pass through the property. Underneath their intersection is a mantle plume providing a generous source of magma. The property contains ten central volcanoes, eight of which are subglacial. Two of the latter are among the four most active in Iceland. Most of the property’s bedrock is basaltic, the oldest being erupted some 10 million years ago and the most recent in 2015. Outside of the ice cap, the terrain varies from extensive, flat lava flows to mountains, including tuyas and tindar (ridges) of brown hyaloclastites, erupted in fissure eruptions beneath ice age glaciers. The latter occur nowhere else in the world in such numbers. The property comprises an entire system where magma and the lithosphere are incessantly interacting with the cryosphere, hydrosphere and atmosphere to create extremely dynamic and diverse geological processes and landforms that are currently underrepresented or not found on the World Heritage List. It was here that the phrase “Fire and Ice” was coined. The Vatnajökull ice cap reached its greatest extent by the end of the 18th century and has on average been retreating since then. Recently, its retreat has accelerated in response to global warming, making the property a prime locality for exploring the impacts of climate change on glaciers and the landforms left behind when they retreat. The volcanic zones of the property hold endemic groundwater fauna that has survived the ice age and single-celled organisms prosper in the inhospitable environment of subglacial lakes that may replicate conditions on early Earth and the icy satellites of Jupiter and Saturn. Criterion (viii): The coexistence and ongoing interaction of an active oceanic rift on land, a mantle plume, the atmosphere and an ice cap, which has varied in size and extent over the past 2.8 million years, make the property unique in a global context. Earth system interactions are constantly building and reshaping the property, creating remarkably diverse landscapes and a wide variety of tectonic, volcanic and glaciovolcanic features. Especially interesting and unique in this regard are the basaltic lava shields (Iceland shields), volcanic fissures and cone rows, vast flood lavas, and features of ice dominant glacio-volcanism, such as tuyas and tindar. Interestingly, the well exposed volcanic features of the property have been used as analogues for similar features on the planet Mars. Geothermal heat and subglacial eruptions produce meltwater and jökulhlaups that maintain globally unique sandur plains, to the north and south of the Vatnajökull ice cap, as well as rapidly evolving canyons. In addition, the property contains a dynamic array of glacial- and geomorphological features, created by expanding or retreating glaciers responding to changes in climate. These features can be easily accessed and explored at the snouts of Vatnajökull’s many outlet glaciers and their forelands, especially in the southern lowlands, making the property a flagship glacial research location. Integrity The property covers over 25% of the central highlands of Iceland and extends onto lowland areas to the south to cover a total of approximately 12% of the country. Most of the property corresponds to an IUCN Category II protected area. Its integrity is reflected in the inclusion of entire and intact landscape and geophysical units, minimal human use and intervention, and scientific interest in the property. The site contains the entire Vatnajökull ice cap, with all its subsidiary glaciers as they stood in 1998. It spans some 200 km of divergent plate boundary and encompasses ten central volcanoes and large parts of the accompanying fissure swarms and subsidiary landforms. The area is largely intact and remote from habituated areas with some 85% of the property classified as wilderness. An intense international scientific interest in the property is evidenced by at least 281 scientific peer reviewed papers, published over the last decade, on various aspects of plate tectonics, volcanism, glaciovolcanism, glaciology, glacial geomorphology and ecology. There has been no destructive human development within the property’s boundaries. A few historic farms exist, but today only a few park employees live there on a year-round basis. Management and protection requirements The large majority of the property is protected by the Act on Vatnajökull National Park No. 60/2007 and Regulation No. 608/2008 (with subsequent amendments), whilst Herðubreiðarlindir and Lónsöræfi Nature Reserves are protected according to the Nature Conservation Act No. 47/1971. A range of other important national legislation is in place to ensure protection. Most of the land adjacent to the property is subject to the law on public land, where any invasive use requires approval by the Prime Minister’s Office. The government agency Vatnajökull National Park (Vatnajökulsþjóðgarður) is the primary state agency responsible for implementing the park legislation, and is an effective organization, supported at all levels by the Icelandic government, local municipalities and businesses. There is mature governance in place together with experienced staff responsible for management employed on a long-term basis, including a strong complement of permanent and temporary staff. There is a comprehensive Management Strategy and action plan in place, that have achieved a notably high level of local input to decision making, and which are subject to regular review and updating. Areas added to the national park since 2013 are progressively integrated into management arrangements. An effective long-term monitoring system is in place, using space- and ground-based observations, for improved evaluation of seismo-tectonic movements and volcanic hazards as well as for glacial flow and fluctuations and key aspects of the property’s biota. The property has an adequate and secure budget to cover essential staff and operations, with the principal financial support from the central government and up to 30% which is generated from its own income. Significant other support has also come from the government controlled Tourist Site Protection Fund and the non-profit organisation Friends of Vatnajökull. There is a need to sustain and further increase resourcing to ensure the management needs of the property are fully met. Risk management is a major issue in this highly dynamic setting where natural hazards are common. Other essential management issues include preventing wear and tear of nature at popular visitor destinations within the property, resolving visitor use conflicts, and addressing occasional illegal activities in the property when they arise. There is a need to develop and maintain adequate facilities for educating, managing and guiding the ever-increasing numbers of visitors, which were approaching one million in 2017, ensuring that any such provision is designed, assessed and implemented in a manner that ensures the protection of the property’s conservation significance. There is also a need to continue to work with local communities, organizations and businesses around the park to maintain their involvement and help them benefit from the park."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            8
+          ],
+          "all": [
+            8
+          ],
+          "display": "(viii)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1482000,
+          "square_km": 14820.0,
+          "square_miles": 5997.45,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6594b768eab9e70b60d31b462248c9a2",
+          "filename": "site_1604_0006.jpg",
+          "dimensions": {
+            "width": 5945,
+            "height": 3941
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/166208/site_1604_0006.jpg",
+            "https://whc.unesco.org/document/166209/site_1604_0007.jpg",
+            "https://whc.unesco.org/document/166211/site_1604_0009.jpg",
+            "https://whc.unesco.org/document/166219/site_1604_0017.jpg",
+            "https://whc.unesco.org/document/166203/site_1604_0001.jpg",
+            "https://whc.unesco.org/document/166204/site_1604_0002.jpg",
+            "https://whc.unesco.org/document/166205/site_1604_0003.jpg",
+            "https://whc.unesco.org/document/166206/site_1604_0004.jpg",
+            "https://whc.unesco.org/document/166207/site_1604_0005.jpg",
+            "https://whc.unesco.org/document/166210/site_1604_0008.jpg",
+            "https://whc.unesco.org/document/166212/site_1604_0010.jpg",
+            "https://whc.unesco.org/document/166213/site_1604_0011.jpg",
+            "https://whc.unesco.org/document/166215/site_1604_0013.jpg",
+            "https://whc.unesco.org/document/166218/site_1604_0016.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+            "ref": "1604",
+            "latitude": 64.577363,
+            "longitude": -16.8815404444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1604",
+        "unesco_documents": "https://whc.unesco.org/en/list/1604/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1604/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1604/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Vatnajökull National Park - Dynamic Nature of Fire and Ice This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age. This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age. Iceland Europe and North America Natural"
+    },
+    {
+      "site_key": "thingvellir_national_park",
+      "uuid": "c2780b89-33fc-5eb8-adee-fa69fce12003",
+      "unesco_id": "1152",
+      "names": {
+        "en": "Þingvellir National Park",
+        "fr": "Parc national de Þingvellir",
+        "es": "Parque Nacional de Þingvellir",
+        "ru": "Национальный парк Тингвеллир",
+        "ar": "المنتزه الوطني في ثينغفيلير",
+        "zh": "平位利尔国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISL": {
+            "name": "Iceland",
+            "iso2": "IS",
+            "iso3": "ISL"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years.",
+          "fr": "Þingvellir (Thingvellir) est le site en plein air de l'Althing, assemblée plénière représentant l'ensemble de l'Islande, qui s'est tenu à partir de 930 jusqu'en 1798. Durant une session annuelle qui durait une quinzaine de jours, l'assemblée élaborait des lois conçues comme des pactes entre hommes libres et réglait les différends. Pour la population islandaise, l'Althing est un lieu aux profondes résonances historiques et symboliques. L'ensemble comprend le Parc national du Þingvellir ainsi que les vestiges de l'Althing proprement dit, soit des fragments de quelque 50 cabanes de tourbe et de pierre. Il devrait subsister des vestiges du Xe siècle enfouis sous terre. Le site comprend également des vestiges de l'activité agricole au cours des XVIIIe et XIXe siècles. Le parc est un témoignage de l'aménagement du paysage sur près d'un millénaire.",
+          "es": "En Þingvellir (Thingvellir) se congregó por primera vez en el año 930 la asamblea denominada Althing, que representaba a todos los habitantes de Islandia. Este órgano legislativo y judicial siguió reuniéndose al aire libre durante dos semanas por año hasta 1798, zanjando litigios y promulgando leyes que se consideraban pactos establecidos entre hombres libres. El Althing tiene, por consiguiente, un hondo significado histórico y simbólico para el pueblo islandés. El sitio comprende el Parque Nacional de Thingvellir y los vestigios del Althing, formados por restos de cincuenta chozas construidas con turba y piedras. Se cree que también hay enterrados vestigios arqueológicos del siglo X. El sitio posee además huellas de actividades agrícolas que datan de los siglos XVIII y XIX. En el parque también se puede apreciar cómo los seres humanos configuraron el paisaje durante más de un milenio.",
+          "ru": "Тингвеллир – это национальный парк на месте, где в 930 г. был основан и до 1798 г. продолжал собираться Альтинг – национальное собрание под открытым небом. В течение примерно двух недель в году собрание принимало законы, представлявшие собой соглашения между свободными людьми, и решало споры. Альтинг имеет огромное историческое и символическое значение для народа Исландии. Размещенный в районе активной вулканической деятельности, объект включает национальный парк Тингвеллир и остатки самого Альтинга: фрагменты примерно 50 укрытий, сооруженных из камня и торфа.",
+          "ar": "ثينغفيلير هي الموقع المكشوف (في الهواء الطلق) للـألثينغ – الجمعية العامة التي تمثل مجموع آيسلندا – التي انعقدت ابتداءً من العام 930 وحتى العام 1798. وخلال دورة سنوية كانت تمتد على مدى خمسة عشر يومًا، كانت الجمعية تصوغ قوانين – تعتمَد كمواثيق بين أشخاص أحرار – وتتولى تسوية النزاعات. بالنسبة إلى الشعب الإيسلندي، الألثينغ مكان فيه أصداء تاريخية ورمزية عميقة. وتشمل المجموعة المنتزه الوطني في ثينغفيلير وآثار ألثينغ بحدّ ذاتها، أي قطعًا من 50 كوخًا من الخُثّ والحجر. ولا بدّ أيضًا من وجود آثار من القرن العاشر مطمورة تحت الأرض. كما يشمل الموقع أيضًا آثارًا للنشاط الزراعي الذي كان قائمًا في القرنين الثامن عشر والتاسع عشر. والمنتزه شهادة على ترتيب المناظر طوال ألفية كاملة.",
+          "zh": "平位利尔（丁威勒）国家公园是一个曾经在冰岛历史上很受关注的会议——阿尔廷（露天议会）的召开地。阿尔廷始于公元930年，并一直持续到公元1798年。每年, 在两周多的时间内，阿尔廷制订相关的法律，强调自由民主的理念，并解决争议。对于冰岛人民来说，阿尔廷具有深远的历史渊源和象征作用。遗址包括平位利尔国家公园和阿尔廷会址，即大约50个用草皮和石头建造的摊棚的碎片。10世纪时的废墟被认为已深埋地下。该遗址还有18世纪和19世纪遗留下来的农用工具。该公园展示了一千多年间景观的保护方式。"
+        },
+        "full": "Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years.",
+        "justification": "Brief synthesis A rift valley with its high cliffs makes Þingvellir National Park a magnificent natural backdrop for the open air parliamentary assembly (or Alþing) of Iceland, which was held there annually from around 930 AD to 1798. Over two weeks a year, the assembly set laws – seen as a covenant between free people – and settled disputes. The Alþing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Alþing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The property also includes Þingvellir Church and adjacent farm, the population of arctic char in Lake Þingvallavatn as well as remains of agricultural use from the 18th and 19th centuries. Its dramatic history dating back to the establishment of the Alþing gives insight into how a Viking Age pioneer community organized its society from scratch and evolved towards the modern world. Þingvellir National Park is located in an active volcanic area, just 49 km east of Reykjavík, the capital of Iceland, and covers 24,000 ha, of which 9,270 ha constitute the World Heritage property. Its best-defined feature is a major rift, which has produced dramatic fissures and cliffs demonstrating inter-continental drifting in a spectacular and understandable way. The National Park is enclosed by a varied belt of mountains on three sides, featuring grass-covered lava fields, and Lake Þingvallavatn lies at its southern end. This outstanding scenery gives the area its unparalleled value. The World Heritage property contains the physical remains of the Alþing and its long persistence at Þingvellir. There is a well-known kinship between the Alþing, Þingvellir, and Germanic Law and governance, documented through the Icelandic sagas and the written codification of the Grágás Laws. This closeness was strengthened in the 19th century by the independence movement and a growing appreciation of landscape values and their perceived association with ‘natural’ and ‘noble’ laws. Furthermore, the Alþing is closely linked to its hinterland (now the landscape of the National Park), an agricultural land that was traditionally used as grazing grounds for those attending the Alþing, and across which the tracks led to the Assembly grounds. The fossilised cultural landscape of the park reflects the evolution of the farming landscape over the past thousand years, with its abandoned farms, fields, tracks; associations with people and events recorded in place names and archival evidence also document the settlement in Iceland as well as the high natural values of this landscape. The inspirational qualities of Þingvellir’s landscape, derived from its unchanged dramatic beauty, its association with national events and ancient systems of law and governance, have lent the area its iconic status and turned it into the spiritual centre of Iceland. Criterion (iii): The Alþing and its hinterland, the Þingvellir National Park, represent, through the remains of the assembly ground, the booths for those who attended, and through landscape evidence of settlement extending back possibly to the time the assembly was established, a unique reflection of medieval Norse/Germanic culture and one that persisted in essence from its foundation in 930 AD until the 18th century. Criterion (vi): Pride in the strong association of the Alþing to medieval Norse/Germanic governance, known through the 12th century Icelandic sagas and reinforced during the fight for independence in the 19th century, have, together with the powerful natural setting of the assembly grounds, given the site iconic status as a shrine for the national Icelandic identity. Integrity The World Heritage property has all the necessary attributes to express the Outstanding Universal Value of the Alþing and its surrounding landscape, and the assembly area and its setting in the unspoiled landscape are protected. Located in an active seismic zone, the land is subject to natural change. The floor of the valley has subsided by some 3-4 metres since the Alþing was founded at Þingvellir and will continue to do so. In 2004, the National Park was enlarged by legislative Act no. 47/2004 and the enlarged protection area surrounds the World Heritage property, and provides protection equivalent to a buffer zone. Authenticity The overall cultural landscape has changed little since the 10th century, and more recent buildings such as the Þingvellir Church and Farm respect traditional styles. The property lacked authenticity in two specific aspects at the time of inscription: summer houses and conifer trees. Contemporary “summer houses” are particularly intrusive along the western shores of Lake Þingvallavatn, southwest of the innermost assembly site, and a few can also be found in the wider landscape to the east of the assembly site, and can affect the inspirational and spiritual values of the property. The conifer trees in the innermost assembly site have since then been cut down. At the time of inscription, the hotel Valholl was located in the inner core of the nominated area, yet it burnt down in 2009. Protection and management requirements Þingvellir National Park has remained under the same administration arrangement (the Þingvellir Commission) since it was founded in 1930. Thus, the supervisory duties of the National Park administration and its responsibility for conditions in the Park and its impact area are very strong. The Park administration pursues all possibilities to ensure that the National Park does not deteriorate and that it is run in a sustainable fashion. Four permanent staff work for the Þingvellir National Park on a year-round basis. The Director is in charge of its day-to-day operation, finances and the staff, an interpretive manager, head warden and a secretary. From 1 April to 1 November, 10-12 seasonal rangers work in the park. They are responsible for supervision, interpretive services and minor maintenance work, along with other permanent employees. Experts on conservation and preservation of archaeological monuments and sites are consulted via the Archaeological Heritage Agency of Iceland. The Þingvellir Commission schedules regular revisions of the Management Plan. Its main objectives are to safeguard the natural historical area and heritage sites of the National Park for the future, while also making preparations for visitors, whose numbers may be expected to rise steadily. As seismic activities are a natural phenomenon in the area, any threats from such occurrences will be dealt with appropriately as they occur. The 2004 ICOMOS evaluation made 6 recommendations with respect to Þingvellir´s inscription on the World Heritage List, dealing with archaeological research, holiday houses, forestry and infrastructure (roads, bridges and car parks). Those recommendations, and any subsequent recommendations made by the World Heritage Committee and its Advisory Bodies, are met with ad-hoc projects or are addressed in revisions of the management plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 9270,
+          "square_km": 92.7,
+          "square_miles": 37.514,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/874f8a9c428dd8d65ee994be90c87c2a",
+          "filename": "site_1152_0001.jpg",
+          "dimensions": {
+            "width": 2592,
+            "height": 1944
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113422/site_1152_0001.jpg",
+            "https://whc.unesco.org/document/113424/site_1152_0002.jpg",
+            "https://whc.unesco.org/document/113430/site_1152_0005.jpg",
+            "https://whc.unesco.org/document/113432/site_1152_0006.jpg",
+            "https://whc.unesco.org/document/113434/site_1152_0007.jpg",
+            "https://whc.unesco.org/document/113436/site_1152_0008.jpg",
+            "https://whc.unesco.org/document/113438/site_1152_0009.jpg",
+            "https://whc.unesco.org/document/113440/site_1152_0010.jpg",
+            "https://whc.unesco.org/document/120514/site_1152_0011.jpg",
+            "https://whc.unesco.org/document/120515/site_1152_0012.jpg",
+            "https://whc.unesco.org/document/125460/site_1152_0013.jpg",
+            "https://whc.unesco.org/document/125461/site_1152_0014.jpg",
+            "https://whc.unesco.org/document/125462/site_1152_0015.jpg",
+            "https://whc.unesco.org/document/125463/site_1152_0016.jpg",
+            "https://whc.unesco.org/document/125464/site_1152_0017.jpg",
+            "https://whc.unesco.org/document/125465/site_1152_0018.jpg",
+            "https://whc.unesco.org/document/138162/site_1152_0019.jpg",
+            "https://whc.unesco.org/document/138163/site_1152_0020.jpg",
+            "https://whc.unesco.org/document/138164/site_1152_0021.jpg",
+            "https://whc.unesco.org/document/138165/site_1152_0022.jpg",
+            "https://whc.unesco.org/document/138166/site_1152_0023.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Þingvellir National Park",
+            "ref": "1152",
+            "latitude": 64.25380556,
+            "longitude": -21.03725
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1152",
+        "unesco_documents": "https://whc.unesco.org/en/list/1152/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1152/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1152/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Þingvellir National Park Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years. Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years. Iceland Europe and North America Cultural"
+    },
+    {
+      "site_key": "surtsey",
+      "uuid": "8168ad4a-85b0-5ff4-acdc-efcdf7184f19",
+      "unesco_id": "1267",
+      "names": {
+        "en": "Surtsey",
+        "fr": "Surtsey",
+        "es": "Surtsey",
+        "ru": "Суртсей",
+        "ar": "سورتسي",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "ISL": {
+            "name": "Iceland",
+            "iso2": "IS",
+            "iso3": "ISL"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, is a new island formed by volcanic eruptions that took place from 1963 to 1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. Free from human interference, Surtsey has been producing unique long-term information on the colonisation process of new land by plant and animal life. Since they began studying the island in 1964, scientists have observed the arrival of seeds carried by ocean currents, the appearance of moulds, bacteria and fungi, followed in 1965 by the first vascular plant, of which there were 10 species by the end of the first decade. By 2004, they numbered 60 together with 75 bryophytes, 71 lichens and 24 fungi. Eighty-nine species of birds have been recorded on Surtsey, 57 of which breed elsewhere in Iceland. The 141 ha island is also home to 335 species of invertebrates.",
+          "fr": "Surtsey, située à environ 32 km au sud de la côte islandaise, est une nouvelle île volcanique créée par des éruptions qui ont eu lieu de 1963 à 1967. Protégée dès sa naissance, elle fournit au monde un laboratoire naturel tout à fait remarquable. Libre de toute interférence humaine, Surtsey est une source unique et continue d’informations sur la colonisation d’une nouvelle terre par la vie végétale et animale. Depuis qu’ils ont commencé à observer l’île, en 1964, les scientifiques ont vu l’arrivée de graines transportées par les courants marins, l’apparition de moisissures, de bactéries et de champignons. A suivi, en 1965, une première plante vasculaire, bientôt rejointe par d’autres. Dix espèces se sont établies pendant la première décennie. En 2004, on en dénombrait 60, avec 75 bryophytes, 71 lichens et 24 champignons. On a répertorié à ce jour 89 espèces d’oiseaux à Surtsey, dont 57 se reproduisent aussi ailleurs en Islande. Les 141 ha de l’île servent également d’habitat à 335 espèces d’invertébrés.",
+          "es": "Situada a unos 32 kilómetros al sur de la costa islandesa, Surtsey es una nueva isla creada por las erupciones volcánicas que se produjeron entre 1963 y 1967. Su característica más notable estriba en el hecho de que ofrece al mundo un laboratorio natural intacto por haber sido protegida desde que emergió de las aguas. Libre de toda injerencia humana, Surtsey es una fuente excepcional de información a largo plazo sobre el proceso de colonización de una porción reciente de tierra por las formas de vida vegetales y animales. Desde 1964, año en que empezaron a estudiar este proceso, los científicos han observado la llegada de semillas transportadas por las corrientes marinas y la aparición de mohos, bacterias y hongos. En 1965 brotó la primera planta vascular y diez años después se contabilizaban ya diez especies de vegetales de este tipo. En 2004 se catalogaron 60 plantas vasculares, 75 briofitas, 71 líquenes y 24 hongos. Hasta la fecha se han contabilizado también 89 especies de pájaros, de las que 57 se reproducen en países distintos de Islandia. Las 141 hectáreas de la isla albergan, además, 335 especies de invertebrados.",
+          "ru": "Суртсей, остров вулканического происхождения, расположенный в 32 км от южного побережья Исландии, образовался в результате вулканических извержений в 1963-1967 годах. Его уникальность состоит в том, что он охранялся с самого начала своего образования, в результате чего стал предметом изучения мировой науки с лабораторно чистыми условиями для работы. Не подвергающийся воздействию человеческой деятельности, остров дает возможность получать уникальную информацию о процессе заселения земного новообразования растениями и животными. С началом научных работ на острове в 1964 году, ученые наблюдали за тем, как приживались семена, занесенные сюда океанскими течениями, а также грибы, бактерии и плесень. В 1965 году появилось первое сосудистое растение. К концу первого десятилетия на острове стало произрастать 10 видов растений, а к 2004 году их было уже 60. Их дополняют 75 видов мхов, 71 вид лишайников и 24 вида плесневых культур. Было установлено, что на острове водятся 85 видов птиц, из которых 57 выводят своих птенцов и в других районах Исландии. На острове площадью в 141 га насчитывается 335 видов беспозвоночных животных.",
+          "ar": "تقع هذه الجزيرة على مسافة 32 كلم تقريباً من الساحل الآيسلندي جنوباً، وهي جزيرة بركانية جديدة برزت على أثر مراحل الثوران البركاني المتتالية بين عامي 1963 و1967. موقع لافت جداً بالنظر إلى الحماية التامة المطبَّقة عليه منذ ولادته، ويوفر للعالم مختبراً طبيعياً بكراً. سورتسي لا تخضع لأي تدخل بشري، وهي مصدر فريد ومتواصل للمعلومات بشأن استيطان الحياة النباتية والحيوانية لأرض جديدة. فمنذ أن بدأ العلماء بمراقبة هذه العملية في عام 4691، شهدوا وصول البزور المنقولة بواسطة التيارات البحرية، وظهور العفن والبكتيريا والفطريات. وقد تلا ذلك، في عام 1965، ظهور أول نبتة قنوية، وقد انضمت إليها 9 أنواع أخرى خلال العقد الأول من ولادة الجزيرة. في عام 2004، بلغ عددها 06 نبتة، كما أحصيَ 75 نوعاً من الطحلبيات، و71 نوعاً من جزاز الصخر، و21 نوعاً من الفطريات، و89 نوعاً من الطيور، علماً أن 57 نوعاً من هذه الطيور تتكاثر في أمكنة أخرى من آيسلندا. وتشكل الجزيرة (141 هكتاراً) موئلاً ل335 نوعاً من اللافقاريات أيضاً.تورتسي مختبر بحجم طبيعي رسالة اليونسكو (2008)",
+          "zh": ""
+        },
+        "full": "Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, is a new island formed by volcanic eruptions that took place from 1963 to 1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. Free from human interference, Surtsey has been producing unique long-term information on the colonisation process of new land by plant and animal life. Since they began studying the island in 1964, scientists have observed the arrival of seeds carried by ocean currents, the appearance of moulds, bacteria and fungi, followed in 1965 by the first vascular plant, of which there were 10 species by the end of the first decade. By 2004, they numbered 60 together with 75 bryophytes, 71 lichens and 24 fungi. Eighty-nine species of birds have been recorded on Surtsey, 57 of which breed elsewhere in Iceland. The 141 ha island is also home to 335 species of invertebrates.",
+        "justification": "Surtsey is a new island formed by volcanic eruptions in 1963-67. It has been legally protected from its birth and provides the world with a pristine natural laboratory. Free from human interference, Surtsey has produced long-term information on the colonisation process of new land by plant and animal life. Criterion (ix): Ongoing biological and ecological processes: Surtsey was born as a new volcanic island in 1963-67 and since that time has played a major role in studies of succession and colonisation. It has been the site of one of the few long term studies worldwide on primary succession, providing a unique scientific record of the process of colonisation of land by plants, animals and marine organisms. Not only is it geographically isolated, but it has been legally protected from its birth, providing the world with a pristine natural laboratory, free from human interference. Above all, because of its continuing protection, Surtsey will continue to provide invaluable data on biological colonisation long into the future. Integrity The property includes the whole island and an adequate surrounding marine area, and thus all the areas that are essential for the long term conservation of the ecological processes on Surtsey. There is also a relatively small but functional marine buffer zone that is not part of the inscribed property. It is noted that part of the evolution of Surtsey is the process of coastal erosion which has already halved the area of the island and over time is predicted to remove another two thirds leaving only the most resistant core. Protection and management requirements Surtsey is a highly controlled, isolated environment and so threats are very limited. The purpose of strictly prohibiting visits to Surtsey is to ensure that colonisation by plants and animals, biotic succession and the shaping of geological formations will be as natural as possible and that human disruption will be minimised. It is prohibited to go ashore or dive by the island, to disturb the natural features, introduce organisms, minerals and soils or leave waste on the island. Nearby construction is also strictly controlled. The most significant management issue will be to retain the level of control and protection from human influence that has characterised the protective history of Surtsey. It is noted that, as an island ecosystem, there is the potential for human disturbance and pollution from a very wide area. Contingency planning, for example for oil spills, is required for the property and its wider surroundings. Given the lack of access a creative and positive approach to presenting the property will be required to ensure that visitors are able to appreciate, but not disturb, its values."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 3370,
+          "square_km": 33.7,
+          "square_miles": 13.638,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/792ff0dc9562d336f2442e32d63d7b94",
+          "filename": "site_1267_0003-500-0-20231020113951.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/131190/site_1267_0003.jpg",
+            "https://whc.unesco.org/document/114388/site_1267_0001.jpg",
+            "https://whc.unesco.org/document/131189/site_1267_0002.jpg",
+            "https://whc.unesco.org/document/131191/site_1267_0004.jpg",
+            "https://whc.unesco.org/document/131192/site_1267_0005.jpg",
+            "https://whc.unesco.org/document/131193/site_1267_0006.jpg",
+            "https://whc.unesco.org/document/131194/site_1267_0007.jpg",
+            "https://whc.unesco.org/document/131195/site_1267_0008.jpg",
+            "https://whc.unesco.org/document/131196/site_1267_0009.jpg",
+            "https://whc.unesco.org/document/131197/site_1267_0010.jpg",
+            "https://whc.unesco.org/document/131198/site_1267_0011.jpg",
+            "https://whc.unesco.org/document/131199/site_1267_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Surtsey",
+            "ref": "1267",
+            "latitude": 63.3030555556,
+            "longitude": -20.6022222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1267",
+        "unesco_documents": "https://whc.unesco.org/en/list/1267/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1267/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1267/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Surtsey Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, is a new island formed by volcanic eruptions that took place from 1963 to 1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. Free from human interference, Surtsey has been producing unique long-term information on the colonisation process of new land by plant and animal life. Since they began studying the island in 1964, scientists have observed the arrival of seeds carried by ocean currents, the appearance of moulds, bacteria and fungi, followed in 1965 by the first vascular plant, of which there were 10 species by the end of the first decade. By 2004, they numbered 60 together with 75 bryophytes, 71 lichens and 24 fungi. Eighty-nine species of birds have been recorded on Surtsey, 57 of which breed elsewhere in Iceland. The 141 ha island is also home to 335 species of invertebrates. Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, is a new island formed by volcanic eruptions that took place from 1963 to 1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. Free from human interference, Surtsey has been producing unique long-term information on the colonisation process of new land by plant and animal life. Since they began studying the island in 1964, scientists have observed the arrival of seeds carried by ocean currents, the appearance of moulds, bacteria and fungi, followed in 1965 by the first vascular plant, of which there were 10 species by the end of the first decade. By 2004, they numbered 60 together with 75 bryophytes, 71 lichens and 24 fungi. Eighty-nine species of birds have been recorded on Surtsey, 57 of which breed elsewhere in Iceland. The 141 ha island is also home to 335 species of invertebrates. Iceland Europe and North America Natural"
+    }
+  ]
+}

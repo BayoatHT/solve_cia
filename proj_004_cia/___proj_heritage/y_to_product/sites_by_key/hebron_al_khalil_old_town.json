@@ -1,0 +1,191 @@
+{
+  "site_key": "hebron_al_khalil_old_town",
+  "uuid": "bcce0d76-6ba0-5643-9baa-498e1a64ade7",
+  "unesco_id": "1565",
+  "names": {
+    "en": "Hebron/Al-Khalil Old Town",
+    "fr": "Vieille ville d’Hébron/Al-Khalil",
+    "es": "Ciudad Vieja de Hebrón /Al-Khalil",
+    "ru": "",
+    "ar": "",
+    "zh": ""
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "PSE": {
+        "name": "Palestine",
+        "iso2": "PS",
+        "iso3": "PSE"
+      }
+    },
+    "region": {
+      "name": "Arab States",
+      "code": "ARB"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system.",
+      "fr": "L’utilisation d’une pierre calcaire locale a marqué la construction de la vieille ville d’Hébron/Al-Khalil au cours de la période mamelouke, entre 1250 et 1517. Le centre d’intérêt de la ville était le site de la mosquée Al-Ibrahim/le tombeau des Patriarches, dont les édifices se trouvent dans l’enceinte construite au ier siècle de notre ère pour protéger les tombes du patriarche Abraham/Ibrahim et de sa famille. Ce lieu devint un site de pèlerinage pour les trois religions monothéistes : judaïsme, christianisme et islam. La ville était située au croisement de routes commerciales de caravanes cheminant entre le sud de la Palestine, le Sinaï, l’est de la Jordanie et le nord de la péninsule arabique. Bien que la période ottomane (1517-1917) qui a suivi ait annoncé une extension de la ville aux zones environnantes et qu’elle ait apporté de nombreux ajouts architecturaux, en particulier la surélévation des maisons avec la construction d’étages supplémentaires, la morphologie globale de la ville mamelouke a persisté dans l’organisation hiérarchique des quartiers, déterminés par des rassemblements autour de l’origine ethnique, de la religion ou de la profession, et des maisons dont les pièces sont organisées selon un système d’arborescence.",
+      "es": "El uso de un tipo de piedra calcárea local marcó la construcción de la Ciudad Vieja de Hebrón/Al Khalil en el periodo mameluco, entre 1250 y 1517. El centro de interés de la ciudad era el sitio de la Mezquita Al-Ibrahim/Tumba de los Patriarcas, cuyos edificios se encuentran en un recinto construido en el siglo I de nuestra era para proteger las tumbas del patriarca Abraham/Ibrahim y sus familiares. Este lugar se convirtió en sitio de peregrinación para las tres religiones monoteístas: judaísmo, cristianismo e islam. La ciudad se encontraba en la encrucijada de rutas de comercio de las caravanas que viajaban entre el sur de Palestina, el Sinaí, el este de Jordania y el norte de la Península Arábiga. Aunque en el periodo otomano que siguió (1517-1917) la ciudad se extendió a áreas circundantes y atrajo numerosas nuevas realizaciones arquitectónicas, en particular la elevación del nivel de los tejados de las viviendas y la construcción de más plantas en las mismas, la morfología general de la ciudad mameluca ha persistido en la organización jerárquica de los barrios, repartidos entre distintos grupos étnicos, religiosos o profesionales y viviendas con grupos de habitaciones organizados según un sistema de arborescencia.",
+      "ru": "",
+      "ar": "",
+      "zh": ""
+    },
+    "full": "The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        2,
+        4
+      ],
+      "natural": [],
+      "all": [
+        2,
+        4
+      ],
+      "display": "(ii)(iv)",
+      "count": 2,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 20.6,
+      "square_km": 0.21,
+      "square_miles": 0.083,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2017,
+      "all_dates": [
+        2017
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2017,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": true,
+      "details": "Y 2017",
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/034276944bdad6ac86b3d1693fe325db",
+      "filename": "site_1565_0042-500-0-20241106113555.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 333
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/209517/site_1565_0042.jpg",
+        "https://whc.unesco.org/document/209518/site_1565_0043.jpg",
+        "https://whc.unesco.org/document/209519/site_1565_0044.jpg",
+        "https://whc.unesco.org/document/209520/site_1565_0045.jpg",
+        "https://whc.unesco.org/document/158965/site_1565_0001.jpg",
+        "https://whc.unesco.org/document/158966/site_1565_0002.jpg",
+        "https://whc.unesco.org/document/158967/site_1565_0003.jpg",
+        "https://whc.unesco.org/document/158968/site_1565_0004.jpg",
+        "https://whc.unesco.org/document/158969/site_1565_0005.jpg",
+        "https://whc.unesco.org/document/158970/site_1565_0006.jpg",
+        "https://whc.unesco.org/document/158971/site_1565_0007.jpg",
+        "https://whc.unesco.org/document/158972/site_1565_0008.jpg",
+        "https://whc.unesco.org/document/158973/site_1565_0009.jpg",
+        "https://whc.unesco.org/document/158974/site_1565_0010.jpg",
+        "https://whc.unesco.org/document/158975/site_1565_0011.jpg",
+        "https://whc.unesco.org/document/158976/site_1565_0012.jpg",
+        "https://whc.unesco.org/document/158978/site_1565_0014.jpg",
+        "https://whc.unesco.org/document/158980/site_1565_0016.jpg",
+        "https://whc.unesco.org/document/158981/site_1565_0017.jpg",
+        "https://whc.unesco.org/document/158982/site_1565_0018.jpg",
+        "https://whc.unesco.org/document/158983/site_1565_0019.jpg",
+        "https://whc.unesco.org/document/158984/site_1565_0020.jpg",
+        "https://whc.unesco.org/document/158985/site_1565_0021.jpg",
+        "https://whc.unesco.org/document/158986/site_1565_0022.jpg",
+        "https://whc.unesco.org/document/158987/site_1565_0023.jpg",
+        "https://whc.unesco.org/document/158988/site_1565_0024.jpg",
+        "https://whc.unesco.org/document/158989/site_1565_0025.jpg",
+        "https://whc.unesco.org/document/158990/site_1565_0026.jpg",
+        "https://whc.unesco.org/document/158991/site_1565_0027.jpg",
+        "https://whc.unesco.org/document/158992/site_1565_0028.jpg",
+        "https://whc.unesco.org/document/158994/site_1565_0030.jpg",
+        "https://whc.unesco.org/document/158995/site_1565_0031.jpg",
+        "https://whc.unesco.org/document/158997/site_1565_0033.jpg",
+        "https://whc.unesco.org/document/158999/site_1565_0035.jpg",
+        "https://whc.unesco.org/document/159000/site_1565_0036.jpg",
+        "https://whc.unesco.org/document/159001/site_1565_0037.jpg",
+        "https://whc.unesco.org/document/159002/site_1565_0038.jpg",
+        "https://whc.unesco.org/document/159003/site_1565_0039.jpg",
+        "https://whc.unesco.org/document/159004/site_1565_0040.jpg",
+        "https://whc.unesco.org/document/159005/site_1565_0041.jpg"
+      ],
+      "count": 40
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Hebron/Al-Khalil Old Town",
+        "ref": "1565",
+        "latitude": 31.5244444444,
+        "longitude": 35.1083333333
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1565",
+    "unesco_documents": "https://whc.unesco.org/en/list/1565/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1565/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1565/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Asia",
+    "geographic_type": "Urban",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2010s",
+    "era": "Contemporary Period (2010-2019)",
+    "age_years": 8,
+    "inscription_year": 2017
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Hebron/Al-Khalil Old Town The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system. The use of a local limestone shaped the construction of the old town of Hebron/Al-Khalil during the Mamluk period between 1250 and 1517. The centre of interest of the town was the site of Al-Ibrahimi Mosque/The tomb of the Patriarchs whose buildings are in a compound built in the 1st century AD to protect the tombs of the patriarch Abraham/Ibrahim and his family. This place became a site of pilgrimage for the three monotheistic religions: Judaism, Christianity and Islam. The town was sited at the crossroads of trade routes for caravans travelling between southern Palestine, Sinai, Eastern Jordan and the north of the Arabian Peninsula. Although the subsequent Ottoman Period (1517-1917) heralded an extension of the town to the surrounding areas and brought numerous architectural additions, particularly the raising of the roof level of houses to provide more upper stories, the overall Mamluk morphology of the town is seen to have persisted with its hierarchy of areas, quarters based on ethnic, religious or professional groupings, and houses with groups of rooms organized according to a tree-shaped system. Palestine Arab States Cultural"
+}

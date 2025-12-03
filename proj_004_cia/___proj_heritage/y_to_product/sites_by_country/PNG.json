@@ -1,0 +1,169 @@
+{
+  "country": {
+    "code": "PNG",
+    "name": "Papua New Guinea"
+  },
+  "total_sites": 1,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 0,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "kuk_early_agricultural_site",
+      "uuid": "9648471f-ef38-5d5f-abc1-c5d99be5f754",
+      "unesco_id": "887",
+      "names": {
+        "en": "Kuk Early Agricultural Site",
+        "fr": "Ancien site agricole de Kuk",
+        "es": "Antiguo sitio agrícola de Kuk",
+        "ru": "Древнее земледельческое поселение Кука",
+        "ar": "موقع كوك الزراعي البدائي",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PNG": {
+            "name": "Papua New Guinea",
+            "iso2": "PG",
+            "iso3": "PNG"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Kuk Early Agricultural Site consists of 116 ha of swamps in the western highlands of New Guinea 1,500 metres above sea-level. Archaeological excavation has revealed the landscape to be one of wetland reclamation worked almost continuously for 7,000, and possibly for 10,000 years. It contains well-preserved archaeological remains demonstrating the technological leap which transformed plant exploitation to agriculture around 6,500 years ago. It is an excellent example of transformation of agricultural practices over time, from cultivation mounds to draining the wetlands through the digging of ditches with wooden tools. Kuk is one of the few places in the world where archaeological evidence suggests independent agricultural development and changes in agricultural practice over such a long period of time.",
+          "fr": "L’ancien site agricole de Kuk, en Papouasie Nouvelle Guinée, comprend 116 ha de marécages dans l’ouest de l’île de la Nouvelle-Guinée, à 1500 m d’altitude. Des fouilles archéologiques ont révélé que ces marais ont été cultivés presque continuellement depuis 7000, voire 10 000 ans. Le site présente des vestiges archéologiques bien conservés montrant l’évolution technologique qui a transformé l’exploitation des plantes en agriculture, il y a environ 6500 ans. C’est un excellent exemple d’évolution des pratiques agricoles à travers les âges depuis la culture sur des buttes jusqu’au drainage des marécages par le creusement de fossés avec des outils en bois. Kuk est l’un des rares endroits au monde où des vestiges archéologiques montrent un développement indépendant de l’agriculture sur sept à dix millénaires.",
+          "es": "Este sitio abarca 116 hectáreas de terrenos pantanosos del sur de Nueva Guinea situados a unos 1.500 metros de altura. Las excavaciones arqueológicas han mostrado que estos humedales fueron cultivados casi sin interrupción desde unos 7.000 a 10.000 años atrás. En Kuk se conservan, en muy buen estado, vestigios del salto técnico cualitativo que transformó el mero aprovechamiento de las plantas en agricultura hace unos 6.500 años. El sitio es un ejemplo excelente de la evolución de las prácticas agrícolas a lo largo del tiempo, desde el cultivo en montículos a orillas de los pantanos hasta el drenaje de éstos mediante la excavación de zanjas con aperos de madera. Kuk es uno de los pocos sitios del mundo donde los vestigios arqueológicos muestran el desarrollo autónomo de la agricultura a lo largo de un periodo tan largo.",
+          "ru": "Древнее земледельческое поселение Кука занимает 116 гектаров болотистой местности на юге Новой Гвинеи (1 500 метров над уровнем моря). Археологические раскопки свидетельствуют о том, что эти болота обрабатывались в течение 7-10 тысяч лет. Здесь сохранились следы перехода от простого использования человеком растений к их выращиванию, произошедшего около 6 500 лет назад. Это прекрасный пример развития сельскохозяйственного производства: от обработки пригорков до осушения болот с помощью рытья канав деревянными инструментами. Это одно из немногих мест в мире, где имеются археологические свидетельства изолированного развития сельского хозяйства на протяжении 7-10 тысячелетий.",
+          "ar": "الموقع كناية عن 116 هكتاراً من المستنقعات، وهو قائم في المرتفعات الجنوبية لغينيا الجديدة، على ارتفاع 1500 متر من سطح البحر. كشفت الحفريات الأثرية أن هذه المنطقة كانت تشكل أحد مراكز استصلاح الأراضي الرطبة على نحو متواصل لمدة 000 7 عام، ولربما 000 10 عام. وهي تحوي آثاراً جيدة الحفظ، تثبت حدوث الوثبة التكنولوجية التي أدت إلى تحول كبير في الأساليب الزراعية قبل نحو 6500 عام. كما أنها تقدم خير مثال على تحول الممارسات الزراعية على مر الزمن، ولا سيما حفر القنوات بواسطة الأدوات الخشبية. ويشكل موقع كوك أحد الأمكنة القليلة في العالم التي تشير فيها الأدلة الأثرية إلى مراحل تطور الزراعة المستقلة والتغيرات في الممارسة الزراعية لفترة تتراوح بين 000 7 و000 10 عام.المهد العالمي للزراعة رسالة اليونسكو (2008)",
+          "zh": ""
+        },
+        "full": "Kuk Early Agricultural Site consists of 116 ha of swamps in the western highlands of New Guinea 1,500 metres above sea-level. Archaeological excavation has revealed the landscape to be one of wetland reclamation worked almost continuously for 7,000, and possibly for 10,000 years. It contains well-preserved archaeological remains demonstrating the technological leap which transformed plant exploitation to agriculture around 6,500 years ago. It is an excellent example of transformation of agricultural practices over time, from cultivation mounds to draining the wetlands through the digging of ditches with wooden tools. Kuk is one of the few places in the world where archaeological evidence suggests independent agricultural development and changes in agricultural practice over such a long period of time.",
+        "justification": "The Kuk Early Agricultural Site, a well-preserved buried archaeological testimony, demonstrates an independent technological leap which transformed plant exploitation to agriculture around 7,000-6,400 years ago, based on vegetative propagation of bananas, taro and yam. It is an excellent example of transformation of agricultural practices over time from mounds on wetland margins around 7,000-6,400 years ago to drainage of the wetlands through digging of ditches with wooden tools from 4,000 BP to the present. The archaeological evidence reveals remarkably persistent but episodic traditional land-use and practices where the genesis of that land-use can be established and changes in practice over time demonstrated from possibly as early as 10,000 BP to the present day. Criterion (iii): The extent of the evidence of early agriculture on the Kuk site can be seen as an exceptional testimony to a type of exploitation of the land which reflects the culture of early man in the region. Criterion (iv): Kuk is one of the few places in the world where archaeological evidence suggests independent agricultural development and changes in agricultural practice over a 7,000 and possibly a 10,000 year time span. Archaeological investigations have been intensive rather than extensive and excavations have affected only a minor proportion of the core area of the site. Modern farming activities at Kuk remain relatively low-key and do not intrude upon the archaeological features of the site. The integrity of the site is thus maintained. The excavations and scientific work that have been done at the site are of the highest international professional standard and thus the excavated remains retain their authenticity. Contemporary land-use has been restricted to modern versions of traditional activities and is supportive to the authenticity of the core evidence on the site. The legal protection in place is adequate, but customary protection needs confirmation as soon as possible through the designation of the property as a Conservation Area and through the associated formal land management agreement with the local community for aspects of site management. The Management Plan should be completed as soon as possible and formally resourced and implemented, and a formal memoranda of understanding established among relevant national, provincial and local government authorities and other stakeholders concerning management responsibilities on the ground and reporting lines."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 116,
+          "square_km": 1.16,
+          "square_miles": 0.469,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1137f5970146a99d2303a2c75c50673f",
+          "filename": "site_0887_0008.jpg",
+          "dimensions": {
+            "width": 2288,
+            "height": 3336
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/203844/site_0887_0008.jpg",
+            "https://whc.unesco.org/document/130633/site_0887_0007.jpg"
+          ],
+          "count": 2
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Kuk Early Agricultural Site",
+            "ref": "887",
+            "latitude": -5.7837111111,
+            "longitude": 144.3317222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/887",
+        "unesco_documents": "https://whc.unesco.org/en/list/887/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/887/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/887/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kuk Early Agricultural Site Kuk Early Agricultural Site consists of 116 ha of swamps in the western highlands of New Guinea 1,500 metres above sea-level. Archaeological excavation has revealed the landscape to be one of wetland reclamation worked almost continuously for 7,000, and possibly for 10,000 years. It contains well-preserved archaeological remains demonstrating the technological leap which transformed plant exploitation to agriculture around 6,500 years ago. It is an excellent example of transformation of agricultural practices over time, from cultivation mounds to draining the wetlands through the digging of ditches with wooden tools. Kuk is one of the few places in the world where archaeological evidence suggests independent agricultural development and changes in agricultural practice over such a long period of time. Kuk Early Agricultural Site consists of 116 ha of swamps in the western highlands of New Guinea 1,500 metres above sea-level. Archaeological excavation has revealed the landscape to be one of wetland reclamation worked almost continuously for 7,000, and possibly for 10,000 years. It contains well-preserved archaeological remains demonstrating the technological leap which transformed plant exploitation to agriculture around 6,500 years ago. It is an excellent example of transformation of agricultural practices over time, from cultivation mounds to draining the wetlands through the digging of ditches with wooden tools. Kuk is one of the few places in the world where archaeological evidence suggests independent agricultural development and changes in agricultural practice over such a long period of time. Papua New Guinea Asia and the Pacific Cultural"
+    }
+  ]
+}

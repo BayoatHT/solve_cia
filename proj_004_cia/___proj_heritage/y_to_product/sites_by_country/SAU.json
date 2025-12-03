@@ -1,0 +1,1478 @@
+{
+  "country": {
+    "code": "SAU",
+    "name": "Saudi Arabia"
+  },
+  "total_sites": 8,
+  "sites_by_category": {
+    "Cultural": 7,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "uruq_bani_maarid",
+      "uuid": "b8372f7c-6986-5422-b533-20fe759af096",
+      "unesco_id": "1699",
+      "names": {
+        "en": "‘Uruq Bani Ma’arid",
+        "fr": "‘Uruq Bani Ma’arid",
+        "es": "‘Uruq Bani Maraud",
+        "ru": "Урук Бани Маарид",
+        "ar": "عروق بني معارض",
+        "zh": "奥鲁克·巴尼·马阿里德"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property encompasses the western part of the greatest expanse of windblown sand on Earth, known as Ar Rub' al-KhaIi, and conserves a portion of one of the Earth’s most spectacular desert landscapes. The varied topography of the property creates a wide range of ecosystems. The site is globally notable due to the reintroduction of iconic desert animals, including the Arabian Oryx (Oryx leucoryx) and Arabian Sand Gazelle (Gazella marica). In the case of the oryx, this was after decades of extinction in the wild. The mobile dunes also provide an excellent and well-oxygenated habitat for sand-diving invertebrates and reptiles, while incised wadis in the limestone plateau harbor rare relict plants. The area has also been used for generations by pastoral, nomadic Bedu.",
+          "fr": "Le bien englobe la partie occidentale de la plus grande étendue de sable soufflé par le vent sur Terre, connue sous le nom d'Ar Rub' al-KhaIi, et conserve une partie de l'un des paysages désertiques les plus spectaculaires de la planète. La topographie variée du site crée une large gamme d'écosystèmes. Le site est mondialement connu pour la réintroduction d'animaux emblématiques du désert, notamment l'oryx d'Arabie (Oryx leucoryx) et la gazelle des sables d'Arabie (Gazella marica). Dans le cas de l'oryx, cette réintroduction a eu lieu après des décennies d'extinction à l'état sauvage. Les dunes mobiles constituent également un habitat excellent et bien oxygéné pour les invertébrés et les reptiles qui plongent dans le sable, tandis que les oueds encaissés dans le plateau calcaire abritent des plantes reliques rares. La région est également utilisée depuis des générations par les Bedu nomades et pastoraux.",
+          "es": "El sitio comprende la parte occidental de la mayor extensión de arena arrastrada por el viento que existe en la Tierra, conocida como Ar Rub’ al-KhaIi, y conserva uno de los paisajes desérticos más espectaculares del planeta. La variada topografía de la zona crea una amplia gama de hábitats de vida salvaje, y el sitio destaca, a escala mundial, por la reintroducción de especies emblemáticas de animales icónicos del desierto, como el órix árabe (Oryx leucoryx) y la gacela de arena árabe (Gazella marica), en sus entornos naturales. Las dunas móviles también proporcionan un hábitat excelente y bien oxigenado para invertebrados y reptiles.",
+          "ru": "Территория заповедника охватывает западную часть величайшего на Земле песчаного пространства, известного как Руб-эль-Хали, и сохраняет один из самых впечатляющих пустынных ландшафтов Земли. Разнообразный рельеф территории создает широкий спектр мест обитания диких животных, и этот объект имеет мировое значение благодаря реинтродукции знаковых пустынных животных в их естественную среду обитания, включая аравийского орикса (Oryx leucoryx) и аравийскую песчаную газель (Gazella marica). Подвижные дюны также являются прекрасной и хорошо насыщенной кислородом средой обитания для ныряющих в песок беспозвоночных и рептилий.",
+          "ar": "يضم هذا العنصر الجزء الغربي من أكبر مساحة رملية على وجه الأرض، أي صحراء الربع الخالي، وهو يحفظ أحد أكثر المناظر الصحراوية روعة في العالم. ويتشكل في هذا الموقع بفضل تضاريسه المتنوعة طيف واسع من الموائل، وما يميزه على الصعيد العالمي هو إعادة حيوانات صحراوية مميزة إلى موائلها الطبيعية، ومن بين هذه الحيوانات هناك المها العربي (Oryx leucoryx) وغزال الريم (Gazella marica). وتمثل الكثبان المتحركة موئلاً ممتازاً ذا نسبة جيدة من الأكسيجين بالنسبة إلى اللافقاريات والزواحف التي تختبئ في الرمل.",
+          "zh": "该遗产位于世界最大的流动沙漠鲁卜哈利沙漠的西部，拥有极为壮观的沙漠景观。多样的地形地貌为种类丰富的野生动物创造了生存空间。阿拉伯大羚羊、阿拉伯瞪羚等标志性沙漠动物曾在野外灭绝，数十年后它们被重新引入这片自然栖息地，为这里赢得了全球关注。流动沙丘还为潜沙无脊椎动物和爬行动物提供了氧气充足的舒适环境。"
+        },
+        "full": "The property encompasses the western part of the greatest expanse of windblown sand on Earth, known as Ar Rub' al-KhaIi, and conserves a portion of one of the Earth’s most spectacular desert landscapes. The varied topography of the property creates a wide range of ecosystems. The site is globally notable due to the reintroduction of iconic desert animals, including the Arabian Oryx (Oryx leucoryx) and Arabian Sand Gazelle (Gazella marica). In the case of the oryx, this was after decades of extinction in the wild. The mobile dunes also provide an excellent and well-oxygenated habitat for sand-diving invertebrates and reptiles, while incised wadis in the limestone plateau harbor rare relict plants. The area has also been used for generations by pastoral, nomadic Bedu.",
+        "justification": "Brief synthesis 'Uruq Bani Ma'arid is situated at the western edge of Ar-Rub' al-Khali, known to be the largest continuous sand sea on Earth. The property’s hyper-arid desert represents iconic wilderness of Arabia and conserves one of the Earth’s most spectacular desert landscapes with a wide variety of wildlife habitats. It harbours greater biological diversity than any other part of Ar-Rub' al-Khali and features one of the world’s largest longitudinal sand dune systems overlying a dissected limestone plateau, and the southern end of the Tuwayq Escarpment with its vegetated wadis, gravel plains, and inter-dune corridors. The gradient of natural habitats embraced within the property forms the building blocks of a functioning ecological network of patterns and processes supporting the survival and viability of key plant and animal species of global importance, including successfully reintroduced species. 'Uruq Bani Ma'arid is the last place where Arabian Oryx were observed in the wild, and it is now the focus of an intensive and successful reintroduction program for Arabian Oryx and other keystone species, such as the Arabian Sand Gazelle, and the Arabian Mountain Gazelle. Located at the southern end of the Jabal Tuwayq limestone escarpment, the area covered by the property exemplifies the interaction of Ar-Rub' al-Khali’s dunes with the escarpment creating a topographic diversity that distinguishes the property from the surrounding areas of the Ar-Rub' al-KhaIi. Where the dynamic sand dunes witness the process of species adaptation to extreme physical environments, the more stable escarpment provides the sporadic refuge needed for the survival of the property’s free-ranging species. In total, the property encompasses 1.27 million hectares of intact desert ecosystems with a buffer zone of 80,600 hectares. Criterion (vii): 'Uruq Bani Ma'arid is an iconic hyper-arid sand desert representing the largest sand sea on Earth, Ar-Rub' al-Khali. Where the sands meet the Tuwayq escarpment, they form an extraordinary spectrum of juxtaposed contrasts and fusions of forms and colours. 35 longitudinal sand dunes (‘uruq in Arabic) reach up to 200 km in length and rise up to 170 m in height. Their wavelength ranges between 2.5 and 4.5 km. The property is also distinguished by the widespread presence of zibars, which are particularly well-developed in the property. Zibars are features that are generally of low relief, without well-formed slip faces, and composed of coarse and relatively poorly-sorted sand. The property serves as an ecological refuge for iconic wildlife of the desert and offers a world-class panorama of the windblown sands of the Ar-Rub' al-Khali desert, with some of the world’s highest longitudinal dune fields, and inter-dunal corridors, eastward-flowing high vegetation wadis, the Tuwayq Escarpment engulfed by westward flowing sands, and low sand plains to the west of the escarpment. A wide spectrum of colour harmonies derives from the resonance of contrasting hues of the sand grains in the ripples that cover the dunes. A true portrait of the desert where the light-coloured Arabian Oryx (or wudayhi, meaning clear in Arabic) contrasts against the large-scale and dramatic backdrop of the hyper-arid environment. Criterion (ix): The varied topography of the property creates a wide range of wildlife habitats and niches, including ecological refuges for the Arabian Oryx, Arabian Sand Gazelles and Arabian Mountain Gazelles, successfully reintroduced into their natural habitats (in the case of the Arabian Oryx, after decades of extinction in the wild), with each having 19%, 25% and 2% respectively of their total worldwide population present within the property. The animal populations are completely free ranging in a huge area with a high level of ecological integrity. Ingenious adaptations by plant and animal species to the hostile environment and speciation processes can be observed. The Arabian Sand Gazelle is adapted to great extremes of temperature and drought and the Arabian Oryx is able to adapt to rising temperatures. The property counts 526 recorded species at the time of inscription, forming an intact ecosystem. The Tuwayq Escarpment and its associated network of inland wadis play a vital role to support woody perennial plants, which are essential as feeding and shelter areas for the flagship species. Whilst low on biodiversity compared to other desert properties globally, 'Uruq Bani Ma'arid appears to exhibit the richest flora in the Ar-Rub’ al-Khali with 118 plant species recorded and a high level of endemism. The area also hosts five reptile species endemic to Arabia and it is a critical site for plant conservation, with locally endemic, near-endemic, regionally endemic and/or regional range-restricted taxa. Integrity The property stands out due to its large size and high level of integrity with impacts from tree-cutting, overgrazing, hunting and other drivers of desertification largely being absent. The vast area of the property ensures representation of the hyper-arid desert ecosystem with all its elements covered and subject to undisturbed evolution. The trophic network is intact and in balance. However, it is important to note the fragile nature of the property’s ecosystem, especially in the context of climate change. The configuration of 'Uruq Bani Ma'arid, combining sand dune systems with an escarpment and incised plateau creates an exceptional “edge effect” for the survival of wildlife in a hyper-arid environment. Integrity is maintained thanks to the property’s remoteness and long distance to major developments. A rugged terrain and harsh climate have deterred permanent human residence and large-scale resource use. Protection and management requirements The property is congruent with the 'Uruq Bani Ma'arid Protected Area, which effectively protects flagship species. It is important to maintain the high level of intactness of the property and to ensure the desert ecosystem remains undisturbed and will not be affected by camel grazing and illegal wildlife hunting. It is excluded from oil and gas exploration and extraction, which is confirmed by Royal endorsement. Requirements of environmental audit, rehabilitation of former quarry sites, and needs to monitor private farms in the vicinity of the protected area are receiving adequate attention at the time of inscription. In 1996, 'Uruq Bani Ma'arid was designated a protected area by Royal Decree and it enjoys the highest level of protection at the national level. The property is entirely state-owned with no private lands or land claims within its boundaries. It is adequately protected by national legislation. The main legislative framework is the national environmental protection law of 2020, which represents a legal umbrella. It is executed through several bylaws, including an updated protected areas bylaw, ratified by the Government in September 2021, which is the main legislative instrument pertaining to protected areas. The National Centre for Wildlife is the national authority in charge of proposing, managing, and supervising protected areas. Other legislative frameworks regulate human activities primarily outside protected areas, including the national wildlife hunting regulation, wood cutting regulation, environmental violations and penalties regulation, environmental licensing for the construction and operation of development activities regulation, and the environmental rehabilitation and degraded and polluted sites regulation. Increased camel grazing, occurring in the sustainable resource use zone, and illegal wildlife hunting are the main activities that could become a concern. They are both adequately addressed by the management team at the time of inscription. A buffer zone to the west protects the property against environmental degradation from nearby development activities. A three-year management plan guides the property’s transition from a national protected area to a World Heritage property. Implementation started in 2021 and all required human, financial, and logistical resources have been allocated, along with national and international technical expertise. On-site management is guaranteed by more than 140 staff and sustainable funding is provided by the Government. In 2021, an updated zoning plan was developed, representing a ten-year conservation vision for the protected area as a natural World Heritage property. This will ensure the highest level of integrity and effective long-term protection of the property’s natural values and attributes. At the time of inscription, the property is divided into four distinctive zones balancing conservation and sustainable development objectives: wilderness zone (54%), nature-culture ecotourism zone (2%), sustainable resources use zone (44%), and the general use zone (less than 0.5%), in addition to a buffer zone of 80,600 hectares."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9
+          ],
+          "all": [
+            7,
+            9
+          ],
+          "display": "(vii)(ix)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1276500,
+          "square_km": 12765.0,
+          "square_miles": 5165.82,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4becd0a4bfab9e60c9867651be0139e5",
+          "filename": "site_1699_0001.jpg",
+          "dimensions": {
+            "width": 1844,
+            "height": 1243
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/193058/site_1699_0001.jpg",
+            "https://whc.unesco.org/document/193059/site_1699_0002.jpg",
+            "https://whc.unesco.org/document/193060/site_1699_0003.jpg",
+            "https://whc.unesco.org/document/193061/site_1699_0004.jpg",
+            "https://whc.unesco.org/document/193062/site_1699_0005.jpg",
+            "https://whc.unesco.org/document/193063/site_1699_0006.jpg",
+            "https://whc.unesco.org/document/193064/site_1699_0007.jpg",
+            "https://whc.unesco.org/document/193065/site_1699_0008.jpg",
+            "https://whc.unesco.org/document/193066/site_1699_0009.jpg",
+            "https://whc.unesco.org/document/193067/site_1699_0010.jpg",
+            "https://whc.unesco.org/document/193068/site_1699_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "‘Uruq Bani Ma’arid",
+            "ref": "1699",
+            "latitude": 19.3638888889,
+            "longitude": 45.5983333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1699",
+        "unesco_documents": "https://whc.unesco.org/en/list/1699/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1699/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1699/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "‘Uruq Bani Ma’arid The property encompasses the western part of the greatest expanse of windblown sand on Earth, known as Ar Rub' al-KhaIi, and conserves a portion of one of the Earth’s most spectacular desert landscapes. The varied topography of the property creates a wide range of ecosystems. The site is globally notable due to the reintroduction of iconic desert animals, including the Arabian Oryx (Oryx leucoryx) and Arabian Sand Gazelle (Gazella marica). In the case of the oryx, this was after decades of extinction in the wild. The mobile dunes also provide an excellent and well-oxygenated habitat for sand-diving invertebrates and reptiles, while incised wadis in the limestone plateau harbor rare relict plants. The area has also been used for generations by pastoral, nomadic Bedu. The property encompasses the western part of the greatest expanse of windblown sand on Earth, known as Ar Rub' al-KhaIi, and conserves a portion of one of the Earth’s most spectacular desert landscapes. The varied topography of the property creates a wide range of ecosystems. The site is globally notable due to the reintroduction of iconic desert animals, including the Arabian Oryx (Oryx leucoryx) and Arabian Sand Gazelle (Gazella marica). In the case of the oryx, this was after decades of extinction in the wild. The mobile dunes also provide an excellent and well-oxygenated habitat for sand-diving invertebrates and reptiles, while incised wadis in the limestone plateau harbor rare relict plants. The area has also been used for generations by pastoral, nomadic Bedu. Saudi Arabia Arab States Natural"
+    },
+    {
+      "site_key": "rock_art_in_the_hail_region_of_saudi_arabia",
+      "uuid": "8874058c-74a5-51e5-ad85-cc275f09086c",
+      "unesco_id": "1472",
+      "names": {
+        "en": "Rock Art in the Hail Region of Saudi Arabia",
+        "fr": "Art rupestre de la région de Hail en Arabie saoudite",
+        "es": "Arte rupestre de la región de Hail en Arabia Saudita",
+        "ru": "Наскальная живопись в провинции Хаиль",
+        "ar": "الفن الصخري في منطقة حائل بالمملكة العربية السعودية",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property includes two components situated in a desert landscape: Jabel Umm Sinman at Jubbah and the Jabal al-Manjor and Raat at Shuwaymis. A lake once situated at the foot of the Umm Sinman hill range that has now disappeared used to be a source of fresh water for people and animals in the southern part of the Great Narfoud Desert. The ancestors of today’s Arab populations have left traces of their passages in numerous petroglyphs and inscriptions on the rock face. Jabal al-Manjor and Raat form the rocky escarpment of a wadi now covered in sand. They show numerous representations of human and animal figures covering 10,000 years of history.",
+          "fr": "Ce bien en série est composé de deux sites au paysage désertique : le djebel Umm Sinman à Jubbah et les djebels al-Manjor et Raat à Shuwaymis. La chaîne de collines d’Umm Sinman surplombe un lac d’eau douce, aujourd’hui disparu, qui fournissait de l’eau aux hommes et aux animaux dans la partie sud du grand désert de Nefoud. Les ancêtres des populations arabes actuelles y ont laissé des traces de leur présence sur de nombreux panneaux de pétroglyphes et de nombreuses inscriptions. Les djebels al-Manjor et Raat forment les escarpements rocheux d’un oued aujourd’hui ensablé présentant un grand nombre de représentations humaines et animales qui couvrent près de 10 000 ans d’histoire humaine.",
+          "es": "Este lugar seriado está compuesto por dos sitios de paisaje desierto: el djebel (monte) Umm Simmam, en Jubbah, y los djebel al-Manjor y Raat, en Shuwaymis. La cadena de colinas de Umm Sinman domina un lago de agua dulce, hoy desaparecido, que abastecía a hombres y animales en la parte sur del gran desierto de Nefud. Los djebel al-Manjor y Raat forman escarpes rocosos de un uadi (rambla) hoy cubierto de arena que presentan representaciones humanas y animales que cubren más de 10.000 años de historia humana.",
+          "ru": "Кластерный объект включает два участка, расположенных в пустынной местности: гору Умм Синман близ города Джубба и горы аль-Манджор и Раат в районе Шуваймис. Гряда холмов Умм Синман возвышается над местом, где находилось исчезнувшее ныне пресноводное озеро. Это озеро в южной части пустыни Большой Нефуд служило источником воды как для людей, так и для животных. Предки современных арабов оставили здесь большое количество петроглифов и наскальных рисунков. На уступах скалистых гор аль-Манджор и Раат, у подножия которых когда-то протекала река, сегодня засыпанная песками, можно увидеть многочисленные изображения людей и животных, нанесённые здесь на протяжении почти 10 тысяч лет истории человечества.",
+          "ar": "يتألف هذا الممتلك التسلسلي من موقعين صحراويين يوجد بهما جبل أم سنمان في جبة وجبال المنجور وراطا في الشويمس. أما سلسلة مرتفعات أم سنمان فهي تشرف على بحيرة من المياه العذبة لم يبق منها أثر في الوقت الراهن كانت توفر المياه للناس وللحيوانات في الجزء الجنوبي من صحراء النفود الكبرى. وقد ترك أسلاف الجماعات السكانية العربية الحالية آثاراً تدل على تواجدهم، وذلك في العديد من ألواح النقوش الصخرية والكثير من النقوش الأخرى. وتؤلف جبال المنجور وراطا منحدرات صخرية لواد تغطيه الرمال في الوقت الحاضر ويمثل عدداً كبيراً من الأشكال الآدمية والحيوانية يمتد تاريخها إلى 10000 سنة.",
+          "zh": ""
+        },
+        "full": "This property includes two components situated in a desert landscape: Jabel Umm Sinman at Jubbah and the Jabal al-Manjor and Raat at Shuwaymis. A lake once situated at the foot of the Umm Sinman hill range that has now disappeared used to be a source of fresh water for people and animals in the southern part of the Great Narfoud Desert. The ancestors of today’s Arab populations have left traces of their passages in numerous petroglyphs and inscriptions on the rock face. Jabal al-Manjor and Raat form the rocky escarpment of a wadi now covered in sand. They show numerous representations of human and animal figures covering 10,000 years of history.",
+        "justification": "Brief synthesis The serial property of the ‘Rock Art in the Hail Region’ is comprised of two components: Jabal Umm Sinman at Jubbah, located approximately 90 km northwest of the city of Hail, and Jabal Al-Manjor and Jabal Raat at Shuwaymis, approximately 250 km south of Hail. At Jabal Umm Sinman Jubbah, the ancestors of present-day Arabs left marks of their presence in numerous petroglyph panels and inscriptions within a landscape that once overlooked a freshwater lake; and at Jabal Al-Manjor and Jabal Raat, Shuwaymis, the large number of petroglyphs and inscriptions has been attributed to almost 10,000 years of human history within a valley with flowing water. Together, these components contain the biggest and richest rock art complexes in the Kingdom of Saudi Arabia and the wider region. Processes of desertification from the mid-Holocene altered the local environmental context and patterns of human settlement in these areas, and these changes are expressed in the numerous petroglyph panels and rich inscriptions. The attributes of the property include the large number of petroglyphs, inscriptions, archaeological features and the environmental setting. Criterion (i): The rock art of Jabal Umm Sinman Jubbah and Jabal Al-Major and Jabal Raat near Shuwaymis contain an exceptionally large number of petroglyphs, created by using a range of techniques with simple stone hammers, against a background of gradual environmental deterioration, and are visually stunning expressions of the human creative genius. Criterion (iii): The rock art at Jabal Umm Sinman at Jubbah and Jabal Al-Major and Jabal Raat at Shuwaymis provide an exceptional testimony to the challenges of past societies in response to environmental catastrophes. In addition, the petroglyphs at Shuwaymis provide an exceptional testimony of a society that vanished, leaving behind an exceptionally detailed record of its existence. Integrity The serial approach is justified for this property, and together, the components of the Rock Art of the Hail Region contain all the attributes necessary to express the Outstanding Universal Value. The boundaries of the components of the property are appropriate, and buffer zones have been established. The buffer zone of Jabal Umm Sinman should be extended 1.0 to 1.5 km to the west and south to adequately protect the visual setting and views. Work to lessen the visual impacts on the setting of Jabal Umm Sinman are recommended for the tall water tower and dam constructed by the Municipality of Jubbah. The components of the property have been extensively documented and generally exhibit a good state of conservation, although vulnerabilities exist due to some threats from vandalism, development in the buffer zone and lack of preparedness for increased future tourism activity. Authenticity The authenticity of the serial property and of each component is demonstrated by the diversity and large number of petroglyphs located within the components at Jabal Umm Sinman and Jabal Al-Manjor and Raat, and that all have retained their original location, setting, materials, form and design. Protection and management requirements Protection is provided through the new antiquities, museums, and urban heritage law, that was approved by the council of ministers Resolution No. M/3 in 1/9/1436 AH, corresponding to 18/6/2015. The Government of Saudi Arabia, and the Regional government of the Hail Region provide substantial resources for the safeguarding of the two components of the property (Jabal Umm Sinman, Jabal Al-Manjor, and Jabal Raat). The Regional Antiquities & Museums office in Hail is responsible for the protection and management of rock art, inscriptions and archaeological sites in the region, and any noted interference or damage to rock art can be reported directly to the Ministry of the Interior by the Saudi Commission for Tourism and National Heritage (SCTH) or by the inhabitants or reported to the local police by site guards or citizens (including local Bedouin tribes). The local community therefore plays an important role in protecting the sites, and in welcoming visitors. The property is managed by the Regional Branch of the SCTH in Hail, which operates under the supervision of the SCTH head office in Riyadh. There are on-site staff, and site guards for both sites. A management plan that considers the long-term development and protection of the component sites was developed with the nomination to the World Heritage List; and there are also Regional and local tourism plans in place (dated 2002 and 2004 respectively). A tourism management strategy that includes provisions for the interpretation of the property has been drafted, and there are plans for improved visitor infrastructure. While there are adequate monitoring arrangements for the rock art, monitoring for development and tourism activities could be further developed, given the expected increase in visitor numbers. Heritage Impact Assessment processes are to be established."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2043.8,
+          "square_km": 20.44,
+          "square_miles": 8.271,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2015,
+          "all_dates": [
+            2015
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2015,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0a6cb78ffd1799b12e6c18dadc112d61",
+          "filename": "site_1472_0004.jpg",
+          "dimensions": {
+            "width": 11811,
+            "height": 8858
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/136188/site_1472_0004.jpg",
+            "https://whc.unesco.org/document/136192/site_1472_0008.jpg",
+            "https://whc.unesco.org/document/182389/site_1472_0011.jpg",
+            "https://whc.unesco.org/document/182390/site_1472_0012.jpg",
+            "https://whc.unesco.org/document/182391/site_1472_0013.jpg",
+            "https://whc.unesco.org/document/182392/site_1472_0014.jpg",
+            "https://whc.unesco.org/document/182393/site_1472_0015.jpg",
+            "https://whc.unesco.org/document/182394/site_1472_0016.jpg",
+            "https://whc.unesco.org/document/182395/site_1472_0017.jpg",
+            "https://whc.unesco.org/document/136185/site_1472_0001.jpg",
+            "https://whc.unesco.org/document/136186/site_1472_0002.jpg",
+            "https://whc.unesco.org/document/136187/site_1472_0003.jpg",
+            "https://whc.unesco.org/document/136189/site_1472_0005.jpg",
+            "https://whc.unesco.org/document/136190/site_1472_0006.jpg",
+            "https://whc.unesco.org/document/136191/site_1472_0007.jpg",
+            "https://whc.unesco.org/document/136193/site_1472_0009.jpg",
+            "https://whc.unesco.org/document/136194/site_1472_0010.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Jabal Umm Sinman",
+            "ref": "1472-001",
+            "latitude": 28.0105555556,
+            "longitude": 40.9130555556
+          },
+          {
+            "name": "Jabal al-Manjor and Jabal Raat",
+            "ref": "1472-002",
+            "latitude": 26.1536111111,
+            "longitude": 39.8916666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1472",
+        "unesco_documents": "https://whc.unesco.org/en/list/1472/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1472/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1472/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 10,
+        "inscription_year": 2015
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rock Art in the Hail Region of Saudi Arabia This property includes two components situated in a desert landscape: Jabel Umm Sinman at Jubbah and the Jabal al-Manjor and Raat at Shuwaymis. A lake once situated at the foot of the Umm Sinman hill range that has now disappeared used to be a source of fresh water for people and animals in the southern part of the Great Narfoud Desert. The ancestors of today’s Arab populations have left traces of their passages in numerous petroglyphs and inscriptions on the rock face. Jabal al-Manjor and Raat form the rocky escarpment of a wadi now covered in sand. They show numerous representations of human and animal figures covering 10,000 years of history. This property includes two components situated in a desert landscape: Jabel Umm Sinman at Jubbah and the Jabal al-Manjor and Raat at Shuwaymis. A lake once situated at the foot of the Umm Sinman hill range that has now disappeared used to be a source of fresh water for people and animals in the southern part of the Great Narfoud Desert. The ancestors of today’s Arab populations have left traces of their passages in numerous petroglyphs and inscriptions on the rock face. Jabal al-Manjor and Raat form the rocky escarpment of a wadi now covered in sand. They show numerous representations of human and animal figures covering 10,000 years of history. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "at_turaif_district_in_ad_dir_iyah",
+      "uuid": "559a15f3-a760-55d5-b7d8-f260ebb336e8",
+      "unesco_id": "1329",
+      "names": {
+        "en": "At-Turaif District in ad-Dir'iyah",
+        "fr": "District d’at-Turaif à ad-Dir’iyah",
+        "es": "Distrito de At Turaif en ad Dir’iyá",
+        "ru": "Район ad-Dir’iyah в городе ad-Dir’iyah",
+        "ar": "حي الطريف في الدرعية",
+        "zh": "德拉伊耶遗址的阿图赖夫区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian peninsula. In the 18th and early 19th century, its political and religious role increased, and the citadel at at-Turaif became the centre of the temporal power of the House of Saud and the spread of the Salafiyya reform inside the Muslim religion. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir’iyah oasis.",
+          "fr": "Ce site fut la première capitale de la dynastie saoudienne, dans le centre de la péninsule arabique, au nord-ouest de Ryad. Fondée au 15e siècle, elle témoigne du style architectural Nadji, propre au cœur de la péninsule arabique. Au 15e et au début du 19e siècle, son rôle politique et religieux s'est accru et la citadelle d'at-Turaif est devenue le centre du pouvoir temporel des Saoud et de la diffusion de la réforme salafiyya au sein de la religion musulmane. Le bien comprend des vestiges de nombreux palais et d'un ensemble urbain érigé en bordure de l'oasis ad-Dir'iyah.",
+          "es": "El sitio, situado al noroeste de Riad, en el corazón de la Península Arábiga, albergó la primera capital de la dinastía saudí. Fundado en el siglo XV, contiene testimonios del estilo arquitectónico najdi, característico del centro de la Península Arábiga. En el siglo XVIII y principios del siglo XIX, su papel político y religioso se hizo más importante y la Ciudadela de At-Turaif se convirtió en el centro del poder temporal de la casa de Saud y de la expansión del reformismo salafiyya en el seno de la religión musulmana. El sitio inscrito incluye los vestigios de numerosos palacios y un conjunto urbano construido en los confines del oasis de ad-Diriyá.",
+          "ru": "Этот объект являлся первой столицей Династии Саудитов, в самом сердце Аравийского полуострова на северо-западе от Эр-Рияда. Основанный в15 веке, он свидетельствует об архитектурном стиле Najdi, свойственном центру Аравийского полуострова. В 18 и начале 19 вв., его политическое и религиозное значение выросло, и цитадель в at-Turaif стала центром временной власти Саудитов и источником распространения Ваххабизма в мусульманской религии. Объект включает руины множества дворцов и городской ансамбль, построенный на краю оазиса ad-Dir’iyah.",
+          "ar": "شكل هذا المكان الذي يقع في قلب شبه الجزيرة العربية، شمال غرب الرياض، أول عاصمة لأسرة آل سعود. ويحمل حي الطُّريف الذي أُسس في القرن الخامس عشر آثار الأسلوب المعماري النجدي الذي يتفرد به وسط شبه الجزيرة العربية. وتنامى في القرن الثامن عشر وبداية القرن التاسع عشر، الدور السياسي والديني لحي الطريف وأضحى مركزاً لسلطة آل سعود وانتشار الإصلاح السلفي في الإسلام. ويضم هذا الممتلك آثار الكثير من القصور، فضلاً عن مدينة بُنيت على ضفاف واحة الدرعية.",
+          "zh": "此处遗址是沙特王朝的第一任首都所在地，位于阿拉伯半岛中部，利雅得西北部,始建于15世纪。这里仍然可以看到阿拉伯半岛中部特有的纳吉迪建筑风格。18 世纪期间及19世纪初，随着政治和宗教的作用加强，阿图赖夫区的城堡成为了沙特王室临时权力中心，以及穆斯林宗教内部传播瓦哈比教派改革的中心。这一遗址包括了许多宫殿遗迹和一处在德拉伊耶绿洲边缘兴建的城市区域。"
+        },
+        "full": "This property was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian peninsula. In the 18th and early 19th century, its political and religious role increased, and the citadel at at-Turaif became the centre of the temporal power of the House of Saud and the spread of the Salafiyya reform inside the Muslim religion. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir’iyah oasis.",
+        "justification": "Brief synthesis The At-Turaif District in ad-Dir'iyah was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian Peninsula. In the 18th and the early 19th century, its regional political and religious role increased, and the citadel of at-Turaif became the centre of the temporal power of the House of Saud and the spread of the Islamic reform movement in Arabia, Salafiyya. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir'iyah oasis. Criterion (iv): The citadel of at-Turaif is representative of a diversified and fortified urban ensemble within an oasis. It comprises many palaces and is an outstanding example of the Najdi architectural and decorative style characteristic of the centre of the Arabian Peninsula. It bears witness to a building method that is well adapted to its environment, to the use of adobe in major palatial complexes, along with a remarkable sense of geometrical decoration. Criterion (v): The site of at-Turaif District in ad-Dir'iyah illustrates a significant phase in the human settlement of the central Arabian plateau, when in the mid-18th century Ad-Dir'iyah became the capital of an independent Arab State and an important religious centre. At-Turaif District in Ad-Dir'iyah is an outstanding example of traditional human settlement in a desert environment. Criterion (vi): The At-Turaif District was the first historic centre with a unifying power in the Arabian Peninsula. Its influence was greatly strengthened by the teachings of Sheikh Mohammad Bin Abdul Wahhab, a great reformer of Sunni Islam who lived, preached and died in the city. After his enduring alliance with the Saudi Dynasty, in the middle of the 18th century, it is from ad-Dir'iyah that the message of Salafiyya spread throughout the Arabian Peninsula and the Muslim world. Integrity The property comprises the remains of a relatively comprehensive urban ensemble of which the vast majority of the components are still in place, although many buildings are in ruins. The initial planning is well preserved and can be clearly observed in its road network. The structural integrity of the property is thus acceptable. The property has not been subject to excessively aggressive modern development, as it was abandoned for a long time, and the integrity of the landscape appears to be satisfactory, although fragile. Authenticity The urban and architectural components of the property that have not been altered or reconstructed during 20th century reemployments or restorations are authentic. The buildings are generally in a state of ruins or vestiges. A major programme of restoration work is in place, which respects the original locations, plans and techniques. It must take particular care to preserve the attributes of the authenticity of its buildings and the road network. Vigilance must be ongoing and reinforced by a conservation programme which takes priority over other considerations. Protection and management requirements Since 1976, the property has been under the protection of the Antiquities Act 26M, 1392 (1972). This law protects the moveable and immoveable ancient heritage registered as antiquity, a term that can apply to vestiges which are at least two-hundred years old. The Ministry of Education and the Council of Antiquities are responsible for enforcement of the law. This is strengthened by a police department under the responsibility of the governor. A new bill that systematically provides for a protection zone of 200 m around the boundaries of the property is pending approval. A detailed global management plan of the property is being prepared by the Saudi Commission for Tourism and Antiquities (SCTA) and the designers of the Living Heritage Museum, the future management structure of the property. This should give priority to the organisation and monitoring of the conservation of the different historic components comprising the property. A scientific conservation committee must be established with broad powers to define, supervise and monitor the work programmes and projects for the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 28.78,
+          "square_km": 0.29,
+          "square_miles": 0.116,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2010,
+          "all_dates": [
+            2010
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2010,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b8ad9b77a94d99291f21d57ef61266a5",
+          "filename": "site_1329_0001-500-0-20200605161133.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 292
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114910/site_1329_0001.jpg",
+            "https://whc.unesco.org/document/182370/site_1329_0024.jpg",
+            "https://whc.unesco.org/document/182371/site_1329_0025.jpg",
+            "https://whc.unesco.org/document/182372/site_1329_0026.jpg",
+            "https://whc.unesco.org/document/182373/site_1329_0027.jpg",
+            "https://whc.unesco.org/document/182374/site_1329_0028.jpg",
+            "https://whc.unesco.org/document/182375/site_1329_0029.jpg",
+            "https://whc.unesco.org/document/182376/site_1329_0030.jpg",
+            "https://whc.unesco.org/document/114912/site_1329_0002.jpg",
+            "https://whc.unesco.org/document/114914/site_1329_0003.jpg",
+            "https://whc.unesco.org/document/114916/site_1329_0004.jpg",
+            "https://whc.unesco.org/document/114918/site_1329_0005.jpg",
+            "https://whc.unesco.org/document/114919/site_1329_0006.jpg",
+            "https://whc.unesco.org/document/114921/site_1329_0007.jpg",
+            "https://whc.unesco.org/document/114923/site_1329_0008.jpg",
+            "https://whc.unesco.org/document/114925/site_1329_0009.jpg",
+            "https://whc.unesco.org/document/114927/site_1329_0010.jpg",
+            "https://whc.unesco.org/document/114929/site_1329_0011.jpg",
+            "https://whc.unesco.org/document/114931/site_1329_0012.jpg",
+            "https://whc.unesco.org/document/114933/site_1329_0013.jpg",
+            "https://whc.unesco.org/document/132580/site_1329_0014.jpg",
+            "https://whc.unesco.org/document/132582/site_1329_0015.jpg",
+            "https://whc.unesco.org/document/132584/site_1329_0016.jpg",
+            "https://whc.unesco.org/document/132585/site_1329_0017.jpg",
+            "https://whc.unesco.org/document/132586/site_1329_0018.jpg",
+            "https://whc.unesco.org/document/132588/site_1329_0020.jpg",
+            "https://whc.unesco.org/document/132590/site_1329_0022.jpg",
+            "https://whc.unesco.org/document/132591/site_1329_0023.jpg"
+          ],
+          "count": 28
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "At-Turaif District in ad-Dir'iyah",
+            "ref": "1329",
+            "latitude": 24.7341333333,
+            "longitude": 46.5724666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1329",
+        "unesco_documents": "https://whc.unesco.org/en/list/1329/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1329/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1329/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 15,
+        "inscription_year": 2010
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "At-Turaif District in ad-Dir'iyah This property was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian peninsula. In the 18th and early 19th century, its political and religious role increased, and the citadel at at-Turaif became the centre of the temporal power of the House of Saud and the spread of the Salafiyya reform inside the Muslim religion. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir’iyah oasis. This property was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian peninsula. In the 18th and early 19th century, its political and religious role increased, and the citadel at at-Turaif became the centre of the temporal power of the House of Saud and the spread of the Salafiyya reform inside the Muslim religion. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir’iyah oasis. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "the_cultural_landscape_of_al_faw_archaeological_area",
+      "uuid": "f34bf445-660c-58b4-801f-32f28df89875",
+      "unesco_id": "1712",
+      "names": {
+        "en": "The Cultural Landscape of Al-Faw Archaeological Area",
+        "fr": "Le paysage culturel de la zone archéologique d’Al-Faw",
+        "es": "Paisaje cultural de la zona arqueológica de Al-Faw",
+        "ru": "Культурный ландшафт археологической зоны Аль-Фау",
+        "ar": "المنظر الثقافي لمنطقة الفاو الأثرية (المملكة العربية",
+        "zh": "法乌考古区文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Lying at a strategic point of the ancient trade routes of the Arabian Peninsula, the property was abruptly abandoned around the 5th century CE. Nearly 12,000 archaeological remains have been found, spanning from prehistoric times to the Late pre-Islamic era, testifying to the successive occupation of three different populations and their adaptation to the evolving environmental conditions. Archaeological features include the Palaeolithic and Neolithic tools of early people, tapered structures, cairns and circular constructions, the sacred mountain of Khashm Qaryah, rock carvings, funerary tumuli and cairns in the valley, forts/caravanserai, the oasis and its ancient water management system, and the vestiges of the city of Qaryat al-Faw.",
+          "fr": "Situé en un point stratégique des anciennes routes commerciales de la péninsule arabique, le bien a été brusquement abandonné vers le Ve siècle de notre ère. Près de 12 000 vestiges archéologiques datant des temps préhistoriques à l’époque préislamique tardive y ont été découverts, témoignant de son occupation successive par trois populations différentes, ainsi que de leur adaptation face à l’évolution des conditions environnementales. Les caractéristiques archéologiques comprennent les outils paléolithiques et néolithiques des peuples anciens, ainsi que des structures effilées, des cairns et des constructions circulaires, la montagne sacrée de Khashm Qaryah, des gravures rupestres, un paysage funéraire composé de tumulus et de cairns dans la vallée, des forts/caravansérails, l’oasis et son ancien système de gestion de l’eau et les vestiges de la ville de Qaryat al-Faw.",
+          "es": "El sitio, ubicado en un punto estratégico de las antiguas rutas comerciales de la península arábiga, fue abandonado abruptamente en torno al siglo V e. c. Se han hallado cerca de 12 000 restos arqueológicos que abarcan desde la prehistoria hasta la época preislámica tardía y que atestiguan la ocupación sucesiva de tres poblaciones diferentes, así como su adaptación a la evolución de las condiciones ambientales. Entre los elementos arqueológicos encontrados destacan las herramientas paleolíticas y neolíticas de los primeros pobladores, estructuras cónicas, túmulos y construcciones circulares, la montaña sagrada de Khashm Qaryah, grabados rupestres, fuertes/caravasar, el oasis y su antiguo sistema de gestión del agua, y los vestigios de la ciudad de Qaryat al-Faw.",
+          "ru": "Это место, расположенное в стратегически важной точке древних торговых путей Аравийского полуострова, было внезапно покинуто около V века н. э. Здесь было найдено почти 12 000 археологических останков, относящихся к периоду от доисторической до поздней доисламской эпохи. Эти находки свидетельствуют о последовательном освоении территории тремя различными группами населения и их адаптации к меняющимся условиям окружающей среды. Археологические артефакты включают в себя орудия труда ранних людей эпохи палеолита и неолита, конусообразные конструкции, каирны и круговые сооружения, священную гору Хашм-Карьях, наскальные рисунки, погребальные курганы и каирны в долине, крепости/караван-сараи, оазис, древнюю систему водоснабжения, а также руины города Карьят-аль-Фау.",
+          "ar": "يكمن هذا الموقع في نقطة استراتيجية من طرق التجارة القديمة في شبه الجزيرة العربية، وقد هُجر فجأة قرابة القرن الخامس الميلادي. وقد وُجدت فيه 12000 قطعة تقريباً من البقايا الأثرية التي تعود إلى فترة تمتد من عصور ما قبل التاريخ إلى أواخر عصر ما قبل الإسلام، وهي تشهد على تعاقب ثلاثة شعوب مختلفة على الموقع، كما تشهد على تأقلمها مع تطور الظروف البيئية. ومن السمات الأثرية التي يحملها الموقع هناك الأدوات التي استخدمتها الشعوب الأولى وتعود للعصر الحجري القديم والعصر الحجري الحديث، والبنى المستدقة والأكوام الصخرية والمباني الدائرية، والجبل المقدس المعروف باسم خشم قرية، والنقوش على الصخور، إلى جانب التلال والأكوام الصخرية الجنائزية، والحصون/الخانات، والواحة مع النظام القديم لإدارة المياه فيها وأطلال قرية الفاو.",
+          "zh": "法乌（al-Faw）古城坐落于阿拉伯半岛古代贸易路线的战略要冲，在公元5世纪左右突遭遗弃。目前发现的近1.2万处考古遗迹涵盖史前时代至前伊斯兰时代后期，见证了3个族群先后在此居住的痕迹，以及他们对不断变化环境条件的适应过程。考古遗迹包括旧石器时代和新石器时代的早期人类工具、锥形结构、石堆和圆形建筑、哈希姆·卡里亚（Khashm Qaryah）圣山、石刻、山谷中的土冢和石冢、堡垒/商队驿站、绿洲和古老的水务系统，以及法乌古城遗址。"
+        },
+        "full": "Lying at a strategic point of the ancient trade routes of the Arabian Peninsula, the property was abruptly abandoned around the 5th century CE. Nearly 12,000 archaeological remains have been found, spanning from prehistoric times to the Late pre-Islamic era, testifying to the successive occupation of three different populations and their adaptation to the evolving environmental conditions. Archaeological features include the Palaeolithic and Neolithic tools of early people, tapered structures, cairns and circular constructions, the sacred mountain of Khashm Qaryah, rock carvings, funerary tumuli and cairns in the valley, forts/caravanserai, the oasis and its ancient water management system, and the vestiges of the city of Qaryat al-Faw.",
+        "justification": "Brief synthesis The Cultural Landscape of Al-Faw Archaeological Area is located at the junction of the Empty Quarter Desert and the Wajid sandstone outcrops of the Jabal Tuwayq Plateau and escarpment in the south of Saudi Arabia. It is an exceptional physical testimony to the successive human occupations from the Palaeolithic to the Late pre-Islamic era, showing how different peoples adapted to the evolving natural environment in the inland region of Arabia, which experienced a much wetter climate, before becoming a drier region, and finally one of the driest deserts in the world. The vast relict cultural landscape encapsulates extremely rich archaeological remains, including the flint tools of the Palaeolithic and Neolithic periods; a huge number of funerary “avenues” of stone structures dating from the second half of the 3rd millennium to the beginning of the 2nd millennium BCE and radiating out from the oasis; and numerous tumuli at the foothills of Jabal Tuwayq dating from 2000-1900 BCE. These are associated with a group of nomads linked to the Gulf and the Mesopotamian civilisation. The remains of the antique caravan city of Qaryat al-Faw and its oasis, which appeared in the middle of the 1st millennium BCE and lasted almost a millennium until the irreversible depletion of water resources led to its abandonment in the 5th century CE, exhibit a rich urban and architectural legacy, with a vast irrigation network and a large area of ancient plantation pits to sustain the oasis economy. As an important caravan relay on the route leading from Najran to central and eastern Arabia, the forts/caravanserais, commercial quarters, residential areas, and necropolises bear witness to a thriving and cosmopolitan caravan city and the capital of the kingdom of Kinda, a federal organisation of Arabian desert tribes. The presence of various groups is manifested by the linguistic diversity of inscriptions and rock carvings found at the sacred mountain of Khashm Qaryah and in the residential areas and necropolises. Criterion (ii): The Cultural Landscape of Al-Faw Archaeological Area exhibits an important interchange of human values, from the middle of the 1st millennium BCE to the 5th century CE, between the southern Arabian Peninsula, the Red Sea, and Yemen, as well as the Northwest of Arabia, the Fertile Crescent, and the Mediterranean world, and finally the Gulf region, Mesopotamia, and Persia in the east. The rich collection of archaeological findings and inscriptions is a tangible manifestation of the role of the site as an important meeting place for different groups of people who built the caravan city of Qaryat al-Faw and the influences and cultural exchanges between the tribes of the desert and the trading groups that occupied and resided in the area over time. Criterion (v): The Cultural Landscape of Al-Faw Archaeological Area is an outstanding example of traditional human settlement and land use over millennia. The large quantity and diversity of archaeological remains provide valuable information that demonstrates the variety of ways in which humans have interacted with the environment for millennia, taking advantage of the natural conditions at different times. It also illustrates the vulnerability of human settlement and land use under the impact of irreversible climate change. Integrity The vast property area includes all the archaeological remains, such as the Palaeolithic and Neolithic stone tools; the tapered structure; cairns and circular constructions; the rock inscriptions, paintings, and engravings on the cliff of the sacred mountain of Khashm Qaryah and other parts of the property; the huge number of tumuli and cairns in the valley; the forts/caravanserais; the oasis and its water management system; and the ruin of the City of Qaryat. These archaeological remains, together with the landscape in the property area, testify to the multifaceted cultures and belief systems of the populations that once occupied the site, their interaction with both the environment and with other parts of the world through trade, political, and military activities. Preserved by the desert environment since the site was abandoned in the 5th century CE, the archaeological resources have remained intact. While a few factors affect the property, such as the natural deterioration of the exposed archaeological remains and farming in the buffer zone, these factors are under control thanks to preventive interventions and legal provisions. Authenticity Encapsulated by the desert environment, the property remained as it was after its abrupt abandonment in the 5th century CE. With all the archaeological structures and remains undisturbed by human activities, only slow natural deterioration occurred over time. The natural setting and the landscape in the property have undergone a certain degree of natural evolution, such as the collapse of some parts of the cliff, which buried some tumuli and cairns at the escarpment. While considering that the natural deterioration of the archaeological remains and the natural evolution of the landscape are also part of the authentic process of the history of the site, the source of information preserved at the property is credible. Protection and management requirements The property is registered as a National Heritage Site and is protected under the Law of Antiquities, Museums and Urban Heritage. The escarpment and the plateau are also protected under the Protected Areas Law as part of the ‘Uruq Bani Mu’arid Protected Area. Tribal law helps to protect the landscape from disturbance. The property is entirely state-owned. The vast buffer zone encompasses a significant stretch of the cliff, escarpment, and desert and is mostly composed of public lands. It provides an additional layer of protection to the cultural landscape, while the Respect Zone adds another layer of protection to the visual quality of the landscape, preventing the property from future encroachment by farming and other types of development. Responsibility for managing the property is shared between the Heritage Commission of the Saudi Ministry of Culture and the National Centre for Wildlife. A joint management framework is being established to coordinate the efforts of the cultural and natural conservation sectors. This framework is guided by the Management Charter and is supported by the Higher Committee, the Scientific Committee, and the Local Committee. The management plan is a contractual agreement and a collective commitment of the Kingdom of Saudi Arabia, the Ministry of Culture, the Heritage Commission, the National Centre for Wildlife, and the local authorities concerned. It is a guiding document for the medium- and long-term protection, conservation, management, and monitoring of the property. The Heritage Impact Assessment mechanism has been embedded in the management system, and the decision-making process is accessible to the local communities. Future research is planned on both the archaeology of the property and the artefacts retrieved during the excavations. Tourism management is at an incipient stage, and the presentation and interpretation of the values of the site should be improved by placing the narratives in the regional context."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            5
+          ],
+          "display": "(ii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 4847.73,
+          "square_km": 48.48,
+          "square_miles": 19.618,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2024,
+          "all_dates": [
+            2024
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2024,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f94cfc87e228a497a0775911e03692c3",
+          "filename": "site_1712_0008.jpg",
+          "dimensions": {
+            "width": 8189,
+            "height": 4725
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/206944/site_1712_0008.jpg",
+            "https://whc.unesco.org/document/206950/site_1712_0014.jpg",
+            "https://whc.unesco.org/document/198596/site_1712_0001.jpg",
+            "https://whc.unesco.org/document/198600/site_1712_0005.jpg",
+            "https://whc.unesco.org/document/206951/site_1712_0015.jpg",
+            "https://whc.unesco.org/document/198597/site_1712_0002.jpg",
+            "https://whc.unesco.org/document/198599/site_1712_0004.jpg",
+            "https://whc.unesco.org/document/198601/site_1712_0006.jpg",
+            "https://whc.unesco.org/document/206943/site_1712_0007.jpg",
+            "https://whc.unesco.org/document/206945/site_1712_0009.jpg",
+            "https://whc.unesco.org/document/206946/site_1712_0010.jpg",
+            "https://whc.unesco.org/document/206947/site_1712_0011.jpg",
+            "https://whc.unesco.org/document/206948/site_1712_0012.jpg",
+            "https://whc.unesco.org/document/206949/site_1712_0013.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "The Cultural Landscape of Al-Faw Archaeological Area",
+            "ref": "1712",
+            "latitude": 19.7649166667,
+            "longitude": 45.1633888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1712",
+        "unesco_documents": "https://whc.unesco.org/en/list/1712/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1712/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1712/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 1,
+        "inscription_year": 2024
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Cultural Landscape of Al-Faw Archaeological Area Lying at a strategic point of the ancient trade routes of the Arabian Peninsula, the property was abruptly abandoned around the 5th century CE. Nearly 12,000 archaeological remains have been found, spanning from prehistoric times to the Late pre-Islamic era, testifying to the successive occupation of three different populations and their adaptation to the evolving environmental conditions. Archaeological features include the Palaeolithic and Neolithic tools of early people, tapered structures, cairns and circular constructions, the sacred mountain of Khashm Qaryah, rock carvings, funerary tumuli and cairns in the valley, forts/caravanserai, the oasis and its ancient water management system, and the vestiges of the city of Qaryat al-Faw. Lying at a strategic point of the ancient trade routes of the Arabian Peninsula, the property was abruptly abandoned around the 5th century CE. Nearly 12,000 archaeological remains have been found, spanning from prehistoric times to the Late pre-Islamic era, testifying to the successive occupation of three different populations and their adaptation to the evolving environmental conditions. Archaeological features include the Palaeolithic and Neolithic tools of early people, tapered structures, cairns and circular constructions, the sacred mountain of Khashm Qaryah, rock carvings, funerary tumuli and cairns in the valley, forts/caravanserai, the oasis and its ancient water management system, and the vestiges of the city of Qaryat al-Faw. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "hegra_archaeological_site_al_hijr_mada_in_salih",
+      "uuid": "0e85f3b9-39ab-5f01-831d-dc76d537052a",
+      "unesco_id": "1293",
+      "names": {
+        "en": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
+        "fr": "Site archéologique de Hegra (al-Hijr / Madā ͐ in Ṣāliḥ)",
+        "es": "El sitio arqueológico de Al Hijr – Madain Salih",
+        "ru": "Археологический объект Аль-Хиджр",
+        "ar": "الحجر (مدائن صالح)",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first World Heritage property to be inscribed in Saudi Arabia. Formerly known as Hegra it is the largest conserved site of the civilization of the Nabataeans south of Petra in Jordan. It features well-preserved monumental tombs with decorated facades dating from the 1st century BC to the 1st century AD. The site also features some 50 inscriptions of the pre-Nabataean period and some cave drawings. Al-Hijr bears a unique testimony to Nabataean civilization. With its 111 monumental tombs, 94 of which are decorated, and water wells, the site is an outstanding example of the Nabataeans’ architectural accomplishment and hydraulic expertise.",
+          "fr": "Le Site archéologique de Hegra (al-Hijr / Madā ͐ in Ṣāliḥ), est le premier site de ce pays inscrit sur la Liste du patrimoine mondial. Anciennement appelé Hegra, il s’agit du plus important site conservé de la civilisation des Nabatéens au sud de Pétra (Jordanie), il comporte notamment des tombes monumentales aux façades décorées, datant principalement du 1er siècle avant J.C. au 1er siècle après J.C. Le site compte aussi une cinquantaine d’inscriptions de la période pré-nabatéenne et des dessins rupestres. Al-Hijr est un témoignage unique de la civilisation nabatéenne. Avec ses 111 tombes monumentales, dont 94 avec des façades décorées, et ses puits, le site est un exemple exceptionnel de la qualité de l’architecture des Nabatéens et de leur maîtrise des techniques hydrauliques.",
+          "es": "Es el primer sitio del Patrimonio Mundial inscrito en este país. Conocido en la antigüedad con el nombre de Hegra en la Antigüedad, es el sitio de la civilización nabatea mejor conservado al sur de Petra (Jordania). Comprende una serie de tumbas monumentales con fachadas ornamentadas, que se hallan en buen estado de conservación y datan de los siglos I a.C. y I d.C. Posee además medio centenar de inscripciones del periodo prenabateo y algunas pinturas rupestres. Al Hijr constituye un testimonio excepcional de la civilización nabatea. Sus pozos y sus 111 sepulturas monumentales, entre las que figuran 94 ornamentadas, son una muestra excepcional de las realizaciones arquitectónicas de los nabateos y de su dominio de las técnicas hidráulicas.",
+          "ru": "Это первый объект всемирного наследия в Саудовской Аравии. Ранее известный как Хегра, объект является крупнейшим сохранившимся памятником набатейской цивилизации, расположенным к югу от города Петра в Иордании. Здесь хорошо сохранились монументальные надгробные памятники с богато украшенными фасадами, относящиеся к периоду с I века до н.э. по I век н.э. Кроме того, на территории объекта сохранились около 50 надписей эпохи, предшествовавшей набатейской, а также несколько пещерных рисунков. Аль-Хиджр – уникальное свидетельство набатейской цивилизации. 111 сохранившихся здесь монументальных надгробий, 94 из которых богато украшены, и система колодцев являются выдающимися примерами набатейской архитектуры и накопленного опыта гидростроительства.",
+          "ar": "يشكل موقع الحجر الأثري (مدائن صالح) في المملكة العربية السعودية، أول موقع لها يدرج في قائمة التراث العالمي. كان يسمى في الماضي الحجرة، وهو أكبر موقع مُصان لحضارة الأنباط جنوب البتراء بالأردن. ويحوي مقابر ضخمة مُصانة جيداً، تعود واجهاتها المزخرفة إلى القرن الأول قبل الميلاد وصولاً إلى القرن الأول الميلادي. الموقع قائم على مسافة 500 كلم من جنوب شرق البتراء، ويشمل حوالي 50 نقشاً من الحقبة السابقة للأنباط، وعدداً من رسوم الكهوف. يحمل موقع الحجر شهادة فريدة عن حضارة الأنباط. وتعتبَر مقابره الضخمة البالغ عددها 111 مقبرة (وقد زُين 94 منها بالزخارف)، وآباره المائية، مثلاً استثنائياً عن الإنجازات المعمارية للأنباط وخبراتهم الهيدرولوجية.",
+          "zh": ""
+        },
+        "full": "The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first World Heritage property to be inscribed in Saudi Arabia. Formerly known as Hegra it is the largest conserved site of the civilization of the Nabataeans south of Petra in Jordan. It features well-preserved monumental tombs with decorated facades dating from the 1st century BC to the 1st century AD. The site also features some 50 inscriptions of the pre-Nabataean period and some cave drawings. Al-Hijr bears a unique testimony to Nabataean civilization. With its 111 monumental tombs, 94 of which are decorated, and water wells, the site is an outstanding example of the Nabataeans’ architectural accomplishment and hydraulic expertise.",
+        "justification": "The archaeological site of Al-Hijr is a major site of the Nabataean civilisation, in the south of its zone of influence. Its integrity is remarkable and it is well conserved. It includes a major ensemble of tombs and monuments, whose architecture and decorations are directly cut into the sandstone. It bears witness to the encounter between a variety of decorative and architectural influences (Assyrian, Egyptian, Phoenician, Hellenistic), and the epigraphic presence of several ancient languages (Lihyanite, Thamudic, Nabataean, Greek, Latin). It bears witness to the development of Nabataean agricultural techniques using a large number of artificial wells in rocky ground. The wells are still in use. The ancient city of Hegra/Al-Hijr bears witness to the international caravan trade during late Antiquity. Criterion (ii): The site of Al-Hijr is located at a meeting point between various civilisations of late Antiquity, on a trade route between the Arabian Peninsula, the Mediterranean world and Asia. It bears outstanding witness to important cultural exchanges in architecture, decoration, language use and the caravan trade. Although the Nabataean city was abandoned during the pre-Islamic period, the route continued to play its international role for caravans and then for the pilgrimage to Mecca, up to its modernisation by the construction of the railway at the start of the 20th century. Criterion (iii): The site of Al-Hijr bears unique testimony to the Nabataean civilisation, between the 2nd and 3rd centuries BC and the pre-Islamic period, and particularly in the 1st century AD. It is an outstanding illustration of the architectural style specific to the Nabataeans, consisting of monuments directly cut into the rock, and with facades bearing a large number of decorative motifs. The site includes a set of wells, most of which were sunk into the rock, demonstrating the Nabataeans' mastery of hydraulic techniques for agricultural purposes. The testimony borne by Al-Hijr to the Nabataean civilisation is of outstanding integrity and authenticity, because of its early abandonment and the benefit over a very long period of highly favourable climatic conditions. The State Party has begun to set up an extremely comprehensive Local Management Unit, and this process is now under way. The announced management plan should enable satisfactory protection of the property. With this in mind, the plan should organise systematic monitoring of the conservation of the site, and prepare a project for the presentation of the Outstanding Universal Value of the property for the benefit both of visitors and of the population of the region."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1621.2,
+          "square_km": 16.21,
+          "square_miles": 6.561,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/064fa6c4d18c41025583815aff9ffd1e",
+          "filename": "site_1293_0001.jpg",
+          "dimensions": {
+            "width": 2592,
+            "height": 1944
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114607/site_1293_0001.jpg",
+            "https://whc.unesco.org/document/114609/site_1293_0002.jpg",
+            "https://whc.unesco.org/document/114611/site_1293_0003.jpg",
+            "https://whc.unesco.org/document/114614/site_1293_0004.jpg",
+            "https://whc.unesco.org/document/114616/site_1293_0005.jpg",
+            "https://whc.unesco.org/document/114618/site_1293_0006.jpg",
+            "https://whc.unesco.org/document/114620/site_1293_0007.jpg",
+            "https://whc.unesco.org/document/114622/site_1293_0008.jpg",
+            "https://whc.unesco.org/document/114624/site_1293_0009.jpg",
+            "https://whc.unesco.org/document/114626/site_1293_0010.jpg",
+            "https://whc.unesco.org/document/114628/site_1293_0011.jpg",
+            "https://whc.unesco.org/document/114630/site_1293_0012.jpg",
+            "https://whc.unesco.org/document/114632/site_1293_0013.jpg",
+            "https://whc.unesco.org/document/114634/site_1293_0014.jpg",
+            "https://whc.unesco.org/document/114636/site_1293_0015.jpg",
+            "https://whc.unesco.org/document/114638/site_1293_0016.jpg",
+            "https://whc.unesco.org/document/114640/site_1293_0017.jpg",
+            "https://whc.unesco.org/document/114642/site_1293_0018.jpg",
+            "https://whc.unesco.org/document/114644/site_1293_0019.jpg",
+            "https://whc.unesco.org/document/114646/site_1293_0020.jpg",
+            "https://whc.unesco.org/document/114648/site_1293_0021.jpg",
+            "https://whc.unesco.org/document/114650/site_1293_0022.jpg",
+            "https://whc.unesco.org/document/114652/site_1293_0023.jpg",
+            "https://whc.unesco.org/document/114654/site_1293_0024.jpg",
+            "https://whc.unesco.org/document/114656/site_1293_0025.jpg",
+            "https://whc.unesco.org/document/114658/site_1293_0026.jpg",
+            "https://whc.unesco.org/document/114659/site_1293_0027.jpg",
+            "https://whc.unesco.org/document/132572/site_1293_0028.jpg",
+            "https://whc.unesco.org/document/132574/site_1293_0030.jpg",
+            "https://whc.unesco.org/document/132577/site_1293_0033.jpg",
+            "https://whc.unesco.org/document/132578/site_1293_0034.jpg",
+            "https://whc.unesco.org/document/132581/site_1293_0036.jpg",
+            "https://whc.unesco.org/document/132583/site_1293_0037.jpg",
+            "https://whc.unesco.org/document/182397/site_1293_0038.jpg",
+            "https://whc.unesco.org/document/182398/site_1293_0039.jpg",
+            "https://whc.unesco.org/document/182399/site_1293_0040.jpg",
+            "https://whc.unesco.org/document/182400/site_1293_0041.jpg",
+            "https://whc.unesco.org/document/182401/site_1293_0042.jpg",
+            "https://whc.unesco.org/document/182402/site_1293_0043.jpg",
+            "https://whc.unesco.org/document/182403/site_1293_0044.jpg"
+          ],
+          "count": 40
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
+            "ref": "1293",
+            "latitude": 26.7836111111,
+            "longitude": 37.955
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1293",
+        "unesco_documents": "https://whc.unesco.org/en/list/1293/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1293/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1293/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first World Heritage property to be inscribed in Saudi Arabia. Formerly known as Hegra it is the largest conserved site of the civilization of the Nabataeans south of Petra in Jordan. It features well-preserved monumental tombs with decorated facades dating from the 1st century BC to the 1st century AD. The site also features some 50 inscriptions of the pre-Nabataean period and some cave drawings. Al-Hijr bears a unique testimony to Nabataean civilization. With its 111 monumental tombs, 94 of which are decorated, and water wells, the site is an outstanding example of the Nabataeans’ architectural accomplishment and hydraulic expertise. The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first World Heritage property to be inscribed in Saudi Arabia. Formerly known as Hegra it is the largest conserved site of the civilization of the Nabataeans south of Petra in Jordan. It features well-preserved monumental tombs with decorated facades dating from the 1st century BC to the 1st century AD. The site also features some 50 inscriptions of the pre-Nabataean period and some cave drawings. Al-Hijr bears a unique testimony to Nabataean civilization. With its 111 monumental tombs, 94 of which are decorated, and water wells, the site is an outstanding example of the Nabataeans’ architectural accomplishment and hydraulic expertise. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "hima_cultural_area",
+      "uuid": "2c42773b-52cb-5b0a-8668-d4f49faba986",
+      "unesco_id": "1619",
+      "names": {
+        "en": "Ḥimā Cultural Area",
+        "fr": "Aire culturelle de Ḥimā",
+        "es": "Área cultural Ḥimā",
+        "ru": "Культурный район Хима",
+        "ar": "منطقة حمى الثقافية",
+        "zh": "奈季兰的希马岩画"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located in an arid, mountainous area of southwest Saudi Arabia, on one of the Arabian Peninsula’s ancient caravan routes, Ḥimā Cultural Area contains a substantial collection of rock art images depicting hunting, fauna, flora and lifestyles in a cultural continuity of 7,000 years. Travellers and armies camping on the site left a wealth of rock inscriptions and petroglyphs through the ages and until the late 20th century, most of which are preserved in pristine condition. Inscriptions are in different scripts, including Musnad, South-Arabian, Thamudic, Greek and Arabic. The property and its buffer zone are also rich in unexcavated archaeological resources in the form of cairns, stone structures, interments, stone tool scatters and ancient wells. This location is at the oldest known toll station on an important ancient desert caravan route, where the wells of Bi’r Ḥimā date back at least 3,000 years and still produce fresh water.",
+          "fr": "Situé dans une zone aride et montagneuse du sud-ouest de l’Arabie saoudite, sur l’une des anciennes routes caravanières de la péninsule arabique, le site de l’Aire culturelle de Ḥimā comprend un ensemble important de représentations d’art rupestre ayant pour thèmes la chasse, la faune, la flore et les modes de vie sur une période culturelle ininterrompue de 7 000 ans. Les voyageurs et les militaires qui ont stationné sur le site y ont laissé une multitude d’inscriptions rupestres et de pétroglyphes à différentes époques, et ce, jusqu’à la fin du XXe siècle, la plupart étant parfaitement conservés. Les inscriptions utilisent différents alphabets, notamment musnad, sudarabique, thamoudique, grec et arabe. Le bien et sa zone tampon sont également riches en ressources archéologiques non fouillées : cairns, structures en pierre, sépultures, éparpillements d’outils en pierre et puits anciens. Cet emplacement coïncide avec celui du plus ancien poste de péage connu sur une ancienne route caravanière du désert importante, où les puits de Bi’r Ḥimā datent d’au moins 3 000 ans et donnent toujours de l’eau douce.",
+          "es": "El sitio de Ḥimā se halla en una zona montañosa árida del sudoeste de Arabia Saudita por la que pasaba una de las antiguas rutas de las caravanas que transitaban por la Península Arábiga. Este sitio posee un importante conjunto de imágenes rupestres que describen la flora, la fauna, las formas de vida y las actividades cinegéticas humanas a lo largo de un periodo continuado de 7.000 años. Los viajeros y ejércitos que acampaban en este lugar fueron dejando en todas las épocas, hasta finales del siglo XX, inscripciones y petroglifos que en su mayoría se conservan en su estado primitivo. Las inscripciones están escritas en diferentes alfabetos: sudarábigo antiguo (“musnad”) y moderno, nordarábigo antiguo (“tamúdico”), griego y árabe. En este lugar y en su zona tampón abundan vestigios arqueológicos inexplorados hasta la fecha: mojones, estructuras pétreas, sepulturas, conjuntos de instrumentos de piedra dispersos y pozos abandonados. El sitio se halla en el puesto de peaje más antiguo de una ruta de caravanas ancestral, donde los pozos de Bi’r Ḥimā siguen proporcionando agua dulce sin interrupción desde hace 3.000 años.",
+          "ru": "Расположенный в засушливой горной местности на юго-западе Саудовской Аравии, на одном из древних караванных маршрутов Аравийского полуострова, Культурный район Хима содержит значительную коллекцию наскальных изображений, иллюстрирующих сцены охоты, фауну, флору и образ жизни в условиях культурной преемственности на протяжении 7000 лет. Путешественники и армии, разбивавшие лагеря в этой местности, оставляли множество наскальных надписей и петроглифов на протяжении веков и до конца ХХ века, большинство из которых сохранились в первозданном виде. Надписи были выполнены на разных языках, в том числе на муснадском, арамейско-набатейском, южно-арабском, на языке Талмуда, греческом и арабском. Этот объект и его буферная зона также богаты неизведанными археологическими ресурсами в виде кернов, каменных сооружений, захоронений, каменных орудий и древних колодцев. Это место находится на территории старейшего из известных пропускных пунктов на важном древнем пустынном караванном маршруте, где колодцы Бир Хима датируются по крайней мере 3000 лет и до сих пор являются источниками пресной воды.",
+          "ar": "تقع حمى في منطقة جبلية قاحلة في جنوب غرب المملكة العربية السعودية، وعلى أحد أقدم طرق القوافل القديمة التي كانت تعبر شبه الجزيرة العربية، وتتضمن منطقة حمى الثقافية مجموعة كبيرة من الصور المنقوشة على الصخور التي تصوِّر الصيد والحيوانات والنباتات وأساليب الحياة لثقافة امتدت على 7 آلاف عام دون انقطاع. وكان المسافرون والجيوش، الذين يحلُّون في المكان، على مرِّ العصور وحتى وقت متأخر من القرن العشرين، يتركون خلفهم الكثير من الكتابات والنقوش على الصخور التي بقي معظمها محفوظاً على حاله. وتأتي الكتابات على الصخور بعدة خطوط منها خط المسند والآرامي-النبطي والكتابة العربية الجنوبية والخط الثمودي والكتابة اليونانية والعربية. كما أنَّ هذا الموقع والمنطقة المحيطة به يذخران بآثار لم يجري التنقيب عنها بعد، وهي تتكون من أرجام وهياكل حجرية ومدافن وأدوات حجرية مبعثرة وآبار قديمة. ويقع هذا الموقع في أقدم محطة معروفة لتقاضي الرسوم وهي كائنة على أحد الطرق الهامة القديمة للقوافل، حيث توجد بئر حمى التي يرجع تاريخها إلى 3 آلاف عام مضى على الأقل، والتي لا تزال تعطي المياه العذبة حتى الآن.",
+          "zh": "奈季兰的希马岩画位于沙特西南部的干旱山区，处在阿拉伯半岛的一条古老商队路线上，包含了大量描绘狩猎、动植物以及生活方式的岩画，时间跨度长达7000年。在这里安营扎寨的旅人和军队在不同时期留下了大量的岩画与铭文，一直延续到20世纪末，大部分都保持着原始状态。铭文用不同的文字书写，包括古南阿拉伯文、阿拉姆-纳巴泰文、南阿拉伯文、萨姆得克文、希腊文和阿拉伯文。该遗产区及其缓冲区还蕴藏着丰富的未发掘考古资源，包括石冢、石构、墓葬、石器及古井等。此地亦是古代一条沙漠商队重要路线上已知的最古老收费站，这里的Bi’r Ḥimā古井已有逾3000年历史，至今仍是淡水水源。"
+        },
+        "full": "Located in an arid, mountainous area of southwest Saudi Arabia, on one of the Arabian Peninsula’s ancient caravan routes, Ḥimā Cultural Area contains a substantial collection of rock art images depicting hunting, fauna, flora and lifestyles in a cultural continuity of 7,000 years. Travellers and armies camping on the site left a wealth of rock inscriptions and petroglyphs through the ages and until the late 20th century, most of which are preserved in pristine condition. Inscriptions are in different scripts, including Musnad, South-Arabian, Thamudic, Greek and Arabic. The property and its buffer zone are also rich in unexcavated archaeological resources in the form of cairns, stone structures, interments, stone tool scatters and ancient wells. This location is at the oldest known toll station on an important ancient desert caravan route, where the wells of Bi’r Ḥimā date back at least 3,000 years and still produce fresh water.",
+        "justification": "Brief synthesis Ḥimā Cultural Area is located in southwest Saudi Arabia on one of the ancient caravan routes of the Arabian Peninsula. The region contains some of the most significant and ancient desert wells in the Middle East. The passage of large armies and myriad caravans through the region has resulted in an unequalled historical library on rock, comprising vast numbers of rock inscriptions and petroglyphs that reflect Arabia’s history over the duration of the Holocene period. These spectacular petroglyphs cover a period of at least 7000 years, continuing up to the last 30 years. Most are preserved in pristine condition. Inscriptions are in different scripts, including Musnad, Aramaic-Nabatean, South-Arabian, Thamudic, Greek and Arabic. Criterion (iii): The Ḥimā Cultural Area bears an exceptional testimony to a number of ancient traditions over the span of many millennia, chronicling the history of the Arab people more effectively than any other place and thus representing an immense outdoor library of that history. The property bears an exceptional testimony to a long series of cultural traditions, arguably from the Paleolithic and at the very least to the Neolithic and stretching from then until the present day. Over this long period, the people passing through the region left a pristine record of their presence and passage in the form of rock inscriptions and rock art, the former in some cases describing their lived context and environment, the themes in the rock art reflecting the changing character of the environment and how they adapted to it. Integrity The size of the Ḥimā Cultural Area is adequate to ensure the integrity of the property. The six component parts that comprise the serial property – possibly containing more than 100,000 petroglyphs – encompass the region’s largest and most significant concentrations of rock art and rock inscription sites. The property is free from development except for site protection works and the small township of Ḥimā. The archaeological resources within the property remain almost totally intact, as well as the ‘untouched’ nature of the desert landscape. Due to the highly arid environment of the Ḥimā Cultural Area and the Bedouin custodianship since time immemorial, its Outstanding Universal Value has been exceptionally well preserved. Authenticity The rock art and rock inscriptions within the property retain the qualities of their original form and design, and notably remain in their original location and setting within the desert environment. To some extent even their traditional function within a cultural tradition has been preserved. The authenticity of the petroglyphs is clear from their patinated condition, state of weathering and fractures in rock panels that have been determined to postdate the images. Other scientific work as well as stylistic similarities with direct-dated rock art elsewhere in Saudi Arabia also confirm their authenticity. Some engravings have been “refreshed,” as certain sections have been re-pecked. However, most of these were done in ancient times and could be considered part of their authenticity, as they manifest the active role these images played in the lives of people. The rock inscriptions are fresher and brighter than most of the rock art. There are several different recognizable types of script, the older ones being more patinated. Some of the inscriptions describe events that occurred at known dates. The location, width and depth of the wells at Bi’r Ḥimā are original, but the above-ground walling is recently built to ensure safety. The well walls and paths around the site are recent additions that are fully reversible. Protection and management requirements The Ḥimā Cultural Area and its buffer zone are protected and managed by the Heritage Commission, Ministry of Culture. They are in the ownership of the Government of Saudi Arabia. The rock art and inscriptions within the property are protected as an archaeological monument. The property is protected at the highest level within its jurisdiction by Royal Decree and by the Law for Antiquities. For the effective monitoring, conservation, protection and management of the property, a database of maps and consistent site records for all sites inventoried within the property and the buffer zone are being compiled and made internally accessible to staff. The Management Plan (2018) includes clear sets of objectives and responsibilities identified, though there is a need for certain specialized staff with training in heritage management, archaeology and rock art conservation. The Tourism Management Plan (2018) addresses the potential growth in tourism in a sensible and practical way. A conservation management strategy should be created, implemented and integrated into the management plan of the property along with a monitoring program that identifies measurable key indicators, periodicity and responsible authorities. Capacity building is required in the fields of archaeology, heritage management and rock art conservation in order to implement the monitoring, conservation and management plans and programs. Heritage Impact Assessments are required to be carried out for any projects related to tourism activities and infrastructures at Najd Khayran before they are implemented."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 242.17,
+          "square_km": 2.42,
+          "square_miles": 0.98,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/73bd33bd918eeab3af07ebd694e58ca8",
+          "filename": "site_1619_0001.jpg",
+          "dimensions": {
+            "width": 3872,
+            "height": 2592
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/172349/site_1619_0001.jpg",
+            "https://whc.unesco.org/document/172350/site_1619_0002.jpg",
+            "https://whc.unesco.org/document/172351/site_1619_0003.jpg",
+            "https://whc.unesco.org/document/172352/site_1619_0004.jpg",
+            "https://whc.unesco.org/document/172353/site_1619_0005.jpg",
+            "https://whc.unesco.org/document/172354/site_1619_0006.jpg",
+            "https://whc.unesco.org/document/172355/site_1619_0007.jpg",
+            "https://whc.unesco.org/document/172356/site_1619_0008.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 6,
+        "locations": [
+          {
+            "name": "Saidah",
+            "ref": "1619bis-002",
+            "latitude": 18.24375,
+            "longitude": 44.4628583333
+          },
+          {
+            "name": "Dhibah",
+            "ref": "1619bis-004",
+            "latitude": 18.3030416667,
+            "longitude": 44.5150555556
+          },
+          {
+            "name": "Minshaf",
+            "ref": "1619bis-005",
+            "latitude": 18.3167083334,
+            "longitude": 44.5453333333
+          },
+          {
+            "name": "Hima Wells",
+            "ref": "1619bis-001",
+            "latitude": 18.2506587672,
+            "longitude": 44.4510430516
+          },
+          {
+            "name": "‘An Jamal",
+            "ref": "1619bis-003",
+            "latitude": 18.2969416666,
+            "longitude": 44.5146
+          },
+          {
+            "name": "Najd Khayran",
+            "ref": "1619bis-006",
+            "latitude": 18.3507333333,
+            "longitude": 44.5158944444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1619",
+        "unesco_documents": "https://whc.unesco.org/en/list/1619/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1619/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1619/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ḥimā Cultural Area Located in an arid, mountainous area of southwest Saudi Arabia, on one of the Arabian Peninsula’s ancient caravan routes, Ḥimā Cultural Area contains a substantial collection of rock art images depicting hunting, fauna, flora and lifestyles in a cultural continuity of 7,000 years. Travellers and armies camping on the site left a wealth of rock inscriptions and petroglyphs through the ages and until the late 20th century, most of which are preserved in pristine condition. Inscriptions are in different scripts, including Musnad, South-Arabian, Thamudic, Greek and Arabic. The property and its buffer zone are also rich in unexcavated archaeological resources in the form of cairns, stone structures, interments, stone tool scatters and ancient wells. This location is at the oldest known toll station on an important ancient desert caravan route, where the wells of Bi’r Ḥimā date back at least 3,000 years and still produce fresh water. Located in an arid, mountainous area of southwest Saudi Arabia, on one of the Arabian Peninsula’s ancient caravan routes, Ḥimā Cultural Area contains a substantial collection of rock art images depicting hunting, fauna, flora and lifestyles in a cultural continuity of 7,000 years. Travellers and armies camping on the site left a wealth of rock inscriptions and petroglyphs through the ages and until the late 20th century, most of which are preserved in pristine condition. Inscriptions are in different scripts, including Musnad, South-Arabian, Thamudic, Greek and Arabic. The property and its buffer zone are also rich in unexcavated archaeological resources in the form of cairns, stone structures, interments, stone tool scatters and ancient wells. This location is at the oldest known toll station on an important ancient desert caravan route, where the wells of Bi’r Ḥimā date back at least 3,000 years and still produce fresh water. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "historic_jeddah_the_gate_to_makkah",
+      "uuid": "3352f6c7-8cf8-5126-9a9e-61f460a3fc01",
+      "unesco_id": "1361",
+      "names": {
+        "en": "Historic Jeddah, the Gate to Makkah",
+        "fr": "Ville historique de Djeddah, la porte de La Mecque",
+        "es": "Centro histórico de Yeda, Puerta de La Meca",
+        "ru": "Исторический город Джидда - ворота в Мекку",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th century AD it was established as a major port for Indian Ocean trade routes, channelling goods to Mecca. It was also the gateway for Muslim pilgrims to Mecca who arrived by sea. These twin roles saw the city develop into a thriving multicultural centre, characterized by a distinctive architectural tradition, including tower houses built in the late 19th century by the city’s mercantile elites, and combining Red Sea coastal coral building traditions with influences and crafts from along the trade routes.",
+          "fr": "Sur la rive orientale de la mer Rouge, Djedda a été à partir du VIIe siècle l’un des ports les plus importants sur les routes commerciales de l’océan Indien. C’est ici qu’arrivaient les marchandises à destination de La Mecque. C’était aussi le port d’arrivée pour les pèlerins voyageant par la mer. Ce double rôle a permis le développement d’une ville multiculturelle, caractérisée par une tradition architecturale originale, née de la fusion des traditions de construction en corail de la région côtière de la mer Rouge avec des idées et savoir-faire glanés le long des routes commerciales. Au XIXe siècle, les élites marchandes y ont notamment bâti de superbes maisons-tours.",
+          "es": "Situada en la costa oriental del Mar Rojo, Yeda se convirtió a partir del siglo VII en una importante ciudad portuaria por la que transitaban las mercancías llegadas por las rutas marítimas comerciales del Océano Índico con destino a La Meca. También se convirtió en el puerto de llegada de los peregrinos musulmanes que viajaban por mar para dirigirse a esta ciudad santa. Gracias a esa doble función, Yeda llegó a ser un pujante centro urbano multicultural, cuyas construcciones tradicionales características comprenden, entre otras, casas-torres edificadas a finales del siglo XIX por los mercaderes pudientes de la ciudad. En esas construcciones se combina la tradición arquitectónica local de uso de rocas coralinas del Mar Rojo con influencias y técnicas artesanales importadas a través de las rutas comerciales del Océano Índico.",
+          "ru": "Объект расположен на восточном побережье Красного моря. В VII веке Джидда стал главным портовым городом, в который корабли, везущие товары в Мекку, прибывали по торговым путям Индийского океана. Помимо этого, для мусульман-паломников, направляющихся в Мекку морем, Джидда была своеобразными воротами в этот священный город. Благодаря этим двум факторам Джидда превратилась в процветающий межкультурный центр с особой архитектурой, нашедшей отражение в построенных торговой элитой башнях конца XIX века. Кроме того, архитектура Джидды сочетает в себе традиции строительства с использованием кораллов, характерного для прибрежных районов Красного моря, с идеями и методами, пришедшими издалека по торговым путям.",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th century AD it was established as a major port for Indian Ocean trade routes, channelling goods to Mecca. It was also the gateway for Muslim pilgrims to Mecca who arrived by sea. These twin roles saw the city develop into a thriving multicultural centre, characterized by a distinctive architectural tradition, including tower houses built in the late 19th century by the city’s mercantile elites, and combining Red Sea coastal coral building traditions with influences and crafts from along the trade routes.",
+        "justification": "Brief synthesis Historic Jeddah is an outstanding reflection of the Red sea architectural tradition, a construction style once common to cities on both coasts of the Red sea, of which only scant vestiges are preserved outside the kingdom of Saudi Arabia and the nominated property. The style is characterized by the imposing tower houses decorated by large wooden Roshan built in the late 19th century by the city`s mercantile elites, and also by lower coral stone houses, mosques, ribat-s, suqs and small public squares that together compose a vibrant space. Historic Jeddah had a symbolic role as a gate to Makkah for Muslim pilgrims reaching Arabia by boat since the 7th century AH when the 3rd Caliph Othman ibn Affan made it the official port of Makkah. This strict association with the Muslim annual pilgrimage (Hajj) gave Historic Jeddah a cosmopolitan population where Muslims from Asia, Africa and the Middle East resided and worked, contributing to the city`s growth and prosperity. Historic Jeddah reflects the final flourishing of the Indian Ocean sea trade after the opening of the Suez Canal in 1869 and the introduction of steamboats that linked Europe with India and Asia. This brought enormous wealth to many merchants who built lavishly decorated houses, and it also led to developments of suqs and mosques. In addition, the increase in sea going vessels allowed many more pilgrims to make the pilgrimage to Makkah, resulting in an expansion in the provision of accommodation for these visitors. Criterion (ii): The cityscape of Historic Jeddah is the result of an important exchange of human values, technical Know-how, building materials and techniques across the Red Sea region and along the Indian Ocean routes between the 16th and the early 20th centuries. Historic Jeddah represents this cultural world that thrived, thanks to international sea trade; possessed a shared geographical, cultural and religious background; and built settlements with specific and innovative technical and aesthetic solutions to cope with the extreme climatic conditions of the region (humidity and heat). Jeddah was, for centuries, the most important, largest and richest among these settlements and today, Historic Jeddah is the last surviving urban site along the Red Sea coast that still preserves the ensemble of the attributes of this culture: commercial-based economy, multi-cultural environment, isolated outward-oriented houses, coral masonry construction, precious woodwork decorating the facades, and specific technical devices to aid internal ventilation. Criterion (iv): Historic Jeddah is an outstanding reflection of its final flourishing as a trading and pilgrimage city and, the only surviving urban ensemble of the Red Sea cultural world. Jeddah’s Roshan tower houses are an outstanding example of a typology of buildings unique within the Arab and Moslem world. Their specific aesthetic and functional patterns - absence of courtyard, decorated Roshan façades, ground floor room used for offices and commerce, rooms rented for pilgrims - reflect their adaptation to both the hot and humid climate of the Red Sea and to the specificity of Jeddah, the Gate to the Holy City of Makkah for the pilgrims arriving by sea, and an important international commercial pole. The development of the Roshan tower houses in the second half of 19th century illustrates the evolution of the patterns of trade and pilgrimages in the Arabian Peninsula and in Asia following the opening of the Suez Canal in 1869 and the development of steamboat navigation routes linking Europe with India and East Asia. The extraordinary relevance of Jeddah’s tower houses is further increased by the fact that they are not only unique within the Red Sea culture region, an architectural typology born in Jeddah that spread to the nearby Hejaz cities of Al-Madinah, Makkah and Taif from where it has since completely disappeared under the pressure of modern development. The overall landscape of Jeddah is characterised not only by the aesthetically remarkable tower houses, but also by the dense accumulations of lower houses, the ensembles of structures that related to trade, religion and the accommodation of pilgrims, and for the overall urban form and its division into clearly defined quarters. Criterion (vi): Historic Jeddah is directly associated, both at the symbolic intangible level and at the architectural and urban level with the Hajj, the yearly Muslim pilgrimage to the Holy City of Makkah. Jeddah was the landing harbour for all the pilgrims that reached Arabia by sea, and for centuries, up to the present, the city lived in function of the pilgrimages.The goods the pilgrimage brought with them from Asia and Africa and sold in the city, the religious debates with Ulama(s) from Java and India, the spices, the food, and the intangible heritage of the city were all related to the pilgrimage that has immensely contributed to defining the identity of Jeddah. The association with Hajj is also very evident in the urban structure of the nominated property and is found in the traditional souks running East –West from the sea to Makkah Gate, the Ribat(s) and the Wakala(s) that used to host the pilgrims; in the architecture, notably in the facades and internal structure of the houses; and in the very social fabric of the city, where Muslims from all over the world mingled, lived, and worked together. The ensemble of these elements, tangible and intangible, demonstrates the intimate and long-lasting connection between the pilgrimage and the nominated property and is an example of the very rich cultural diversity resulting from this religious event unique in the whole Islamic World. Integrity The nominated property covers about one-third of the original walled-in city and contains an ensemble of the attributes that convey its Outstanding Universal Value, such as the main examples of Jeddah`s Roshan tower houses, outward-oriented houses, coral masonry construction, precious woodwork decorating the facades and specific technical devices for internal ventilation, as well as lower houses, the ensembles of structures that related to trade, religion and the accommodation of pilgrims, and for the overall urban form and its division into clearly defined quarters. Furthermore, Historic Jeddah, the Gate to Makkah is an urban environment boasting a strong trade-based economy intimately associated, both at the symbolic intangible level and at the architectural and urban level, with the Hajj, and a multi-cultural social framework where Muslims from all over the world live and work together. Its complete representation of the features and processes conveying its significance. Notwithstanding the inevitable decay of the historic structures and the overall evolution of its urban surroundings, the nominated property still possesses all the necessary attributes complying with the concept of intactness, including the commercial processes, the social relationships and the dynamic functions essential to define its distinctive character. As many of the attributes are highly vulnerable to decay and lack of conservation, there needs to be a precise delineation of what survives in terms of buildings and urban plan, as a basis for integrity, and also for future protection and conservation, and a clear understanding of the threshold beyond which integrity would no longer be intact if further buildings were lost. Authenticity Historic Jeddah, the Gate to Makkah is a living urban environment primarily hosting residential and commercial activities, with mosques and charitable structures. The nominated property represents an authentic and traditional urban environment where the headquarters of century old economic enterprises, retail shops, traditional souks, small cafes, popular restaurants, and street food vendors are still concentrated. A surprisingly rich human environment where Yemeni, Sudanese, Somali, Pakistani and Indian migrant workers purchase and market their products to Saudi and non- Saudi clients in crowded traditional souks. Far from a frozen and dead tourist attraction, the nominated property is an authentic sector of the city that still fully conveys the image of what this Red Sea commercial and pilgrimage city used to be. Its historic houses have not been substantially altered by modern additions and in-depth transformations, and the high Roshan tower houses are mostly well preserved. Historic mosques have preserved their function and role for the community and most of their original features. Buildings have only been subject to minor maintenance that has rarely reached the original masonries and their embedded wooden beams, preserving the overall authenticity of the site. Nevertheless the city is a shadow of the thriving, prosperous place it used to be and an understanding of its former importance will only fully emerge once its many buildings are nursed back to life. Protection and management requirements The Saudi Council of Ministers has passed the New Antiquities, Museums and Urban Heritage Law by the Royal Decree Number (M/3) dated November 2nd 2014 providing the legal basis for the protection of Historic Jeddah. The daily management of the nominated property is the responsibility of the local branches of the Municipality of Jeddah and SCTA, located in the heart of the old city. Their staff is in charge of supervising maintenance, cleaning, protection and presentation of the site. A parallel, traditional system, depending from the Ministry of Interior, is responsible of the social welfare of the population and of the security arrangement in the area in coordination with Police and Civil Defence. This traditional mechanism, based on the charismatic figure of the Umdah(s), permits to reach the ensemble of the population and to involve merchants, and owners’ associations in the management of the property. A Management Plan is being developed. The preservation of the Outstanding Universal Value of the site is guaranteed by the new Urban Regulation approved by the Jeddah municipality in 2011 that sets precise and strict obligations for the property and its buffer zone. The key long-term requirement and most relevant priorities for the protection and management of the property include the reduction of the rate of decay of the historic houses, which are often abandoned and squatted by poor immigrants and the control of the speculative moves that jeopardize the ensemble of the historic city. The new Urban Regulation defines standard and official rules that can be verified and implemented on site. The involvement of merchants and owners, and punctual restoration and revitalization projects are expected to set a new virtuous circle to tackle the most significant threats to the property reducing its vulnerability to negative development that could affect its authenticity and integrity. The general strategy for the preservation and revitalization of the area is being drawn by the Saudi Commission for Tourism and Antiquities (SCTA) in coordination with the Jeddah Municipality and the participation of the civil society. A detailed Conservation Strategy is being developed to set out how the massive, long-term conservation project to turn round the fortunes of the property, through stabilising and conserving the historic buildings and generating new uses, will be initiated, resourced and approved. It should also be underpinned by detailed surveys and analysis of the properties."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 17.92,
+          "square_km": 0.18,
+          "square_miles": 0.073,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/77c4b13c999920f412350c40338aa6b1",
+          "filename": "site_1361_0005-500-0-20200605161638.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/130791/site_1361_0005.jpg",
+            "https://whc.unesco.org/document/182377/site_1361_0010.jpg",
+            "https://whc.unesco.org/document/182378/site_1361_0011.jpg",
+            "https://whc.unesco.org/document/182379/site_1361_0012.jpg",
+            "https://whc.unesco.org/document/182380/site_1361_0013.jpg",
+            "https://whc.unesco.org/document/182381/site_1361_0014.jpg",
+            "https://whc.unesco.org/document/182382/site_1361_0015.jpg",
+            "https://whc.unesco.org/document/182383/site_1361_0016.jpg",
+            "https://whc.unesco.org/document/182384/site_1361_0017.jpg",
+            "https://whc.unesco.org/document/182385/site_1361_0018.jpg",
+            "https://whc.unesco.org/document/182386/site_1361_0019.jpg",
+            "https://whc.unesco.org/document/182387/site_1361_0020.jpg",
+            "https://whc.unesco.org/document/182388/site_1361_0021.jpg",
+            "https://whc.unesco.org/document/130787/site_1361_0001.jpg",
+            "https://whc.unesco.org/document/130788/site_1361_0002.jpg",
+            "https://whc.unesco.org/document/130789/site_1361_0003.jpg",
+            "https://whc.unesco.org/document/130790/site_1361_0004.jpg",
+            "https://whc.unesco.org/document/130792/site_1361_0006.jpg",
+            "https://whc.unesco.org/document/130793/site_1361_0007.jpg",
+            "https://whc.unesco.org/document/130794/site_1361_0008.jpg",
+            "https://whc.unesco.org/document/130795/site_1361_0009.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1361",
+        "unesco_documents": "https://whc.unesco.org/en/list/1361/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1361/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1361/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Jeddah, the Gate to Makkah Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th century AD it was established as a major port for Indian Ocean trade routes, channelling goods to Mecca. It was also the gateway for Muslim pilgrims to Mecca who arrived by sea. These twin roles saw the city develop into a thriving multicultural centre, characterized by a distinctive architectural tradition, including tower houses built in the late 19th century by the city’s mercantile elites, and combining Red Sea coastal coral building traditions with influences and crafts from along the trade routes. Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th century AD it was established as a major port for Indian Ocean trade routes, channelling goods to Mecca. It was also the gateway for Muslim pilgrims to Mecca who arrived by sea. These twin roles saw the city develop into a thriving multicultural centre, characterized by a distinctive architectural tradition, including tower houses built in the late 19th century by the city’s mercantile elites, and combining Red Sea coastal coral building traditions with influences and crafts from along the trade routes. Saudi Arabia Arab States Cultural"
+    },
+    {
+      "site_key": "al_ahsa_oasis_an_evolving_cultural_landscape",
+      "uuid": "9f16e238-9cd7-5c36-895d-ad852b9e1fa6",
+      "unesco_id": "1563",
+      "names": {
+        "en": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+        "fr": "Oasis d’Al-Ahsa, un paysage culturel en évolution",
+        "es": "Oasis de Al –Ahsa, un paisaje cultural en evolución",
+        "ru": "Оазис Аль-Ахса, меняющийся культурный ландшафт",
+        "ar": "واحة الأحساء، منظر ثقافي آخذ بالتغير",
+        "zh": "哈萨绿洲，变迁的文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "SAU": {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "iso3": "SAU"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property comprising gardens, canals, springs, wells and a drainage lake, as well as historical buildings, urban fabric and archaeological sites. They represent traces of continued human settlement in the Gulf region from the Neolithic to the present, as can be seen from remaining historic fortresses, mosques, wells, canals and other water management systems. With its 2.5 million date palms, it is the largest oasis in the world. Al-Ahsa is also a unique geocultural landscape and an exceptional example of human interaction with the environment.",
+          "fr": "Située dans la partie orientale de la péninsule arabique, l'oasis d'Al-Ahsa est un bien en série qui comprend des jardins, des canaux, des sources, des puits, un lac de drainage, des bâtiments historiques, un tissu urbain et des sites archéologiques qui sont considérés comme représentant les traces d'une occupation humaine sédentaire dans la région du Golfe depuis la période néolithique jusqu'à nos jours. Cela se manifeste notamment par les forteresses historiques subsistantes, les mosquées, les sources, les canaux et autres dispositifs de gestion de l'eau. Avec ses 2,5 millions de palmiers, il s'agit de la plus vaste oasis au monde. Ce paysage géoculturel unique est aussi un exemple exceptionnel d'interaction humaine avec l'environnement.",
+          "es": "Situado en la parte oriental de la Península Arábiga, el oasis de Al-Ahsa es un sitio serial que comprende jardines, canales, manantiales, pozos, un lago de drenaje, edificios históricos, un tejido urbano y sitios arqueológicos que se considera representan huellas de ocupación humana sedentaria en la región del Golfo desde el Neolítico hasta nuestros días. Esto se manifiesta en particular en las fortalezas históricas subsistentes, las mezquitas, los manantiales, los canales y otros dispositivos de gestión del agua. Con 2,5 millones de palmeras, Al-Ahsa es el mayor oasis del mundo. Este paisaje geocultural único es un ejemplo excepcional de interacción humana con el medio ambiente.",
+          "ru": "Оазис Аль-Ахса – это системный объект, расположенный в восточной части Аравийского полуострова. Он включает сады, каналы, источники, колодцы, дренажное озеро, исторические здания, городскую застройку и археологические объекты. Считается, что данные элементы свидетельствуют об оседлом образе жизни человека в регионе Персидского залива от неолитического периода до настоящего времени. Лучшим подтверждением этому служат сохранившиеся исторические крепости, мечети, колодцы, каналы и другие системы управления водными ресурсами. Объект «Оазис Аль-Ахса» - самый большой оазис в мире, в котором насчитывается 2,5 млн. пальм. Этот уникальный геокультурный ландшафт также является выдающимся примером взаимодействия человека с окружающей средой.",
+          "ar": "تضمّ واحة الأحساء، الواقعة في الجزء الشرقي من شبه الجزيرة العربية، مجموعة من المواقع مثل الحدائق وقنوات الري وعيون المياه العذبة والآبار وبحيرة الأصفر ومبان تاريخية ونسيج حضري ومواقع أثرية تقف شاهداً على توطن البشر واستقرارهم في منطقة الخليج منذ العصر الحجري الحديث حتى يومنا هذا. ويتمثل ذلك في الحصون التاريخية المتبقية والجوامع والينابيع والقنوات وغيرها من نظم إدارة المياه. وتعدّ واحة الأحساء أكبر واحات النخيل في العالم إذ يصل عدد أشجار النخيل فيها إلى 2،5 مليون شجرة. ويعد هذا المنظر الطبيعي الثقافي الفريد مثالاً استثنائياً على التفاعل بين البشر والبيئة المحيطة بهم.",
+          "zh": "哈萨绿洲地处阿拉伯半岛东部，由花园、运河、泉眼、水井、排水湖，以及历史建筑、城市机构和考古遗址等一系列遗产组成。从留存至今的古堡、清真寺、水井、运河和其他水务系统可以看出，这里代表了海湾地区从新石器时代到现在持续人类定居的痕迹。这个世界上最大的绿洲拥有250万棵椰枣树。作为一处独特的地理文化景观，哈萨绿洲还是人类与环境相处的典范。"
+        },
+        "full": "In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property comprising gardens, canals, springs, wells and a drainage lake, as well as historical buildings, urban fabric and archaeological sites. They represent traces of continued human settlement in the Gulf region from the Neolithic to the present, as can be seen from remaining historic fortresses, mosques, wells, canals and other water management systems. With its 2.5 million date palms, it is the largest oasis in the world. Al-Ahsa is also a unique geocultural landscape and an exceptional example of human interaction with the environment.",
+        "justification": "Brief synthesis Al-Ahsa Oasis is located in the eastern part of the Arabian Peninsula, bordered on the north by Abqaiq province, on the east by the Gulf, on the west by the desert of Ad-Dahna and on the south by the desert of Ar-Rub' Al-Khali (the Empty Quarter). The oasis landscape that evolved over millennia presents a way of life typical of the Gulf region of the Arabian Peninsula. This cultural landscape consists of gardens, canals, springs, wells, an agricultural drainage lake, as well as historic buildings. Al-Ahsa Oasis is composed of twelve component parts forming the largest oasis in the world with more than 2.5 million palm trees, urban fabric and archaeological sites that represent the evolution of an ancient cultural tradition and the traces of sedentary human occupation in the Gulf region of the Arabian Peninsula from the Neolithic Period up to the present. The landscape of Al-Ahsa in the past and now represents the different phases of the oasis’s evolution and the interaction of natural and cultural heritage. Criterion (iii): The continuity of the oasis agricultural tradition is represented by an organically evolved cultural landscape with an agricultural organization based upon the distribution of the spring water through a network of open-air canals. Al-Ahsa Oasis cultural landscape materializes the vivacity and modernity of this specific land-use tradition and shows its continuing relevance at the local and regional scale. Criterion (iv): This large cultural landscape is composed of different zones covering the oasis’ gardens, mountains, caves, villages, mosques and springs, but also archaeological sites and a small section of the historic centre of Al-Hofuf with the main monuments embodying the political control over the area and its commercial role throughout the past centuries. The vestiges of the villages, fortresses, mosques, markets and houses, though often in a ruinous shape, preserve a complete catalogue of the architectural elements composing the urban settlement of Al-Ahsa from the early Islamic period to the Saudi Kingdom. Criterion (v): The oasis is an outstanding example of traditional human settlement developed in a desert environment exemplifying the intimate link between landscape, natural resources and the human efforts to settle the land. The rich water table close to the surface permitted the growth of a large oasis settlement. Water was originating from surface springs and drawn from wells reaching the shallow water table. Some of these springs and wells are still visible in the site, living memory of the traditional farming techniques. Integrity The property shows the sustainable evolution of the oasis and of its associated human settlements, where the physical and functional relations between the natural landscape, the water springs, the water canalization system, the villages, and the cities create a continuously evolving human-created oasis environment. Al-Ahsa Oasis remains today the largest agricultural area in the Arabian Peninsula, and a working and living environment that has developed in direct continuity with its origins and its past. The component parts of the property possess an evident topographical integrity presenting the ensemble of the elements that characterize and make an oasis possible: water springs, caves, mountains, flatlands, modern and historic canals and water lifting mechanisms, human settlements and natural drainage areas. The continuing use of the oasis as major agricultural zone where high-quality dates are produced and exported throughout the world, and the persistence of traditions and built elements from the past eras, are authentic in use preserving both the agricultural and the settlement / commercial integrity of the oasis functions. Throughout the millennia, while constantly evolving, the integrity of relationships between the palm groves, the water sources and canals, the human settlements and the natural landscape has remained constant, adapting to the needs of the human societies that developed in the area. Water distribution and water abduction modifications in the past 40 years have aimed to maintain the very agricultural function of the oasis. The extraordinary integrity of this urban / natural landscape can still be fully appreciated when observing from an elevated point the “sea” of palm trees and gardens that extends in every direction almost endlessly. The sheer size of the property permits to ensure the complete representation of all tangible attributes of the cultural landscape and of the social processes conveying its Outstanding Universal Value. The oasis constituting elements are contained within the boundaries of the property and clearly manifest their significance and exceptionality. The unique scale of Al-Ahsa Oasis, the largest oasis in the world, is mirrored by the very size of the property, while its historic depth and the complexity of traditional oasis agricultural methods are represented by the major archaeological zones within the property, covering thousands of years of human settlement, and by the persistence of traditional oasis agricultural crops beside the dominant date palm, including the red rice variety typical of Al-Ahsa. The integrity of the property is reinforced by the continuity of human presence in the oasis villages and by the existence of both traditional historic souks (like Al-Qaysariyah in Al-Hofuf) and modern markets for the exchange of agricultural and handicrafts products of the oasis. Landscape views and intangible attributes relating, for example, to food traditions, work songs and clothes contribute to expressing the property’s Outstanding Universal Value. All the integrity aspects (composition, relationships and functionality of attributes) necessary to sustain the Outstanding Universal Value are represented, and the serial site as a whole, with its component parts, allows the expression of the significance of the property to the highest degree. Authenticity The oasis was, and remains, a major source of agricultural crops, the most important of which is palm dates. Al-Ahsa oasis, with its different and interconnected sectors, was the largest oasis in the world and the largest producer of dates even before the 1960s and the introduction of “mass production” techniques. Palm dates are the main agricultural staple of Al-Ahsa oasis, local communities are involved in packaging and making use of modern technologies to assure the wide spread marketing and distribution of their product. The State Party supports grassroots organic farmers, and the Saudi Government graciously donates the surplus of palm dates from Al-Ahsa to the United Nations World Food Programme. Strict regulations for farms permit developments only on the edges of roads and highways, as well as up to 15% of the agricultural parcel set in private farms for agricultural services or rural housing under the controls of the municipal building code. Moreover, a royal decree prevents the conversion of agricultural parcels into urban uses. In addition, development of the surrounding areas in Al-Asfar Lake is still under evaluation and has not been adopted nor developed. Protection and management requirements Al-Ahsa Oasis is protected under the Saudi Law of Antiquities, Museums and Urban Heritage, Royal Decree No. 9/M (dated, 09/01/1436 AH corresponding to 01/11/2014). The Antiquity Law introduces and details the concept of Urban Heritage protection, paving the way for effective protection of historic monuments and districts inside the Oasis. Article 46 of the law defines the coordination mechanism between relevant governmental entities pertaining to the protection and development of urban heritage areas. Archaeological sites and listed historic buildings are also protected by the 09/01/1436 AH Law and are managed by the Saudi Commission for Heritage. Environmental protection of the nominated property is covered by Articles 15, 16, 17 and 32 of the 1992 Basic Law of Governance (referred to as “the constitution of Saudi Arabia”). Development is regulated by the Public Environmental Law (No. M/34 dated 16 October 2001). Urban regulations on the local level are defined by Al-Ahsa 2030 Master Plan and the Indicative Plan Report for Al-Ahsa Metropolitan area (2014), which synchronizes studies, approval plans, and regulations that are issued by Ministry of Municipalities and Rural Affairs. The Plan protects agricultural land located within an urban context, which is relevant to component part As-Seef and buffer zones ii and iii. The Ministry of Environment Water and Agriculture (MEWA) and its affiliate Al-Hassa Irrigation and Drainage Company (HIDC) regulate water management for landscape and agricultural lands. They function under the ‘Regulation Concerning the Protection of Water Sources’, issued by Royal Decree No. M/34 of year 1400 H/1979 AD. The property is currently managed by five national level main stakeholders and ten local level main stakeholders. The ‘Oasis Higher Management Committee’ under the direction of Al-Ahsa Governor, which meets on a monthly basis, carries out the coordination of all stakeholders. A Management Scheme, formally approved by the Governor of Al-Ahsa, aims to better coordinate and integrate management mechanisms of the oasis at Municipal and Provincial levels on the one hand, and to coordinate field activities with the headquarters of the Ministry of Municipalities and Rural Affairs and the other relevant governmental entities on the other hand. The Management Scheme consists of a ‘Higher Committee’ (HC) and a ‘Site Management Unit’ (SMU) based in Al-Ahsa Municipality. The Site Management Unit will take on the role of site manager and will be responsible for verifying all planning regulations for the property, its buffer zones and the larger urban and natural setting, in order to ensure their conformity with the requirements and principles of the World Heritage Convention. An independent ‘Scientific Committee’ will be established to provide technical advice to local leadership for the management of the property. Within the framework of the Management Plan Guidelines, a number of initiatives for the conservation and development of the oasis have been identified such as: landscape initiatives, architectural and urban initiatives, archaeology and cultural initiatives. An Action Plan is to be completed. The Higher Committee will be responsible for overseeing the implementation of the Action Plan. The intended development of a comprehensive strategy for the sustainable development of the oasis will include risk preparedness. The Site Management Unit will oversee the realization of the risk management strategy in coordination with national security and civil defence. Sustainable cultural tourism strategy is one of the priorities of the site management plan, with the intention to offer a holistic presentation of the property including tangible and intangible aspects. It is part of a large-scale regional tourism plan for the Eastern Province and the Gulf coastal area. The management plan foresees an important role for the civil society and local community in supporting the sustainable development and conservation of the property. The management of the oasis should include a specific component of studying, understanding, monitoring and conserving the biodiversity of the oasis as an integral part of its heritage protection and sustainability. The monitoring regime, once in place, could be improved by more precise periodicity."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 8544,
+          "square_km": 85.44,
+          "square_miles": 34.576,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2018,
+          "all_dates": [
+            2018
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2018,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0d2d99ef3b0ded1a79962e8f0b284e79",
+          "filename": "site_1563_0005.jpg",
+          "dimensions": {
+            "width": 4252,
+            "height": 2835
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/166906/site_1563_0005.jpg",
+            "https://whc.unesco.org/document/182363/site_1563_0014.jpg",
+            "https://whc.unesco.org/document/182364/site_1563_0015.jpg",
+            "https://whc.unesco.org/document/182365/site_1563_0016.jpg",
+            "https://whc.unesco.org/document/182366/site_1563_0017.jpg",
+            "https://whc.unesco.org/document/182367/site_1563_0018.jpg",
+            "https://whc.unesco.org/document/182368/site_1563_0019.jpg",
+            "https://whc.unesco.org/document/182369/site_1563_0020.jpg",
+            "https://whc.unesco.org/document/166902/site_1563_0001.jpg",
+            "https://whc.unesco.org/document/166903/site_1563_0002.jpg",
+            "https://whc.unesco.org/document/166904/site_1563_0003.jpg",
+            "https://whc.unesco.org/document/166905/site_1563_0004.jpg",
+            "https://whc.unesco.org/document/166907/site_1563_0006.jpg",
+            "https://whc.unesco.org/document/166908/site_1563_0007.jpg",
+            "https://whc.unesco.org/document/166909/site_1563_0008.jpg",
+            "https://whc.unesco.org/document/166910/site_1563_0009.jpg",
+            "https://whc.unesco.org/document/166911/site_1563_0010.jpg",
+            "https://whc.unesco.org/document/166912/site_1563_0011.jpg",
+            "https://whc.unesco.org/document/166913/site_1563_0012.jpg",
+            "https://whc.unesco.org/document/166914/site_1563_0013.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 12,
+        "locations": [
+          {
+            "name": "As-Seef",
+            "ref": "1563-003",
+            "latitude": 25.3785194444,
+            "longitude": 49.5757138889
+          },
+          {
+            "name": "Qasr Khuzam",
+            "ref": "1563-006",
+            "latitude": 25.368025,
+            "longitude": 49.5769166667
+          },
+          {
+            "name": "Qasr Sahood",
+            "ref": "1563-007",
+            "latitude": 25.4141333333,
+            "longitude": 49.5833666667
+          },
+          {
+            "name": "Qasr Ibrahim",
+            "ref": "1563-004",
+            "latitude": 25.3789222222,
+            "longitude": 49.5868083333
+          },
+          {
+            "name": "Eastern Oasis",
+            "ref": "1563-001",
+            "latitude": 25.4021666667,
+            "longitude": 49.6305666667
+          },
+          {
+            "name": "Al-Asfar Lake",
+            "ref": "1563-012",
+            "latitude": 25.5317111111,
+            "longitude": 49.7943583333
+          },
+          {
+            "name": "Jawatha Mosque",
+            "ref": "1563-009",
+            "latitude": 25.4698083333,
+            "longitude": 49.6784805556
+          },
+          {
+            "name": "Northern Oasis",
+            "ref": "1563-002",
+            "latitude": 25.4863,
+            "longitude": 49.5905361111
+          },
+          {
+            "name": "Al-`Oyun village",
+            "ref": "1563-010",
+            "latitude": 25.6040833333,
+            "longitude": 49.570825
+          },
+          {
+            "name": "Suq al-Qaysariyah",
+            "ref": "1563-005",
+            "latitude": 25.3764111111,
+            "longitude": 49.5891472222
+          },
+          {
+            "name": "Jawatha archaeological site",
+            "ref": "1563-008",
+            "latitude": 25.4803888889,
+            "longitude": 49.6704861111
+          },
+          {
+            "name": "`Ain Qinas archaeological site",
+            "ref": "1563-011",
+            "latitude": 25.5923361111,
+            "longitude": 49.5999583333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1563",
+        "unesco_documents": "https://whc.unesco.org/en/list/1563/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1563/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1563/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 7,
+        "inscription_year": 2018
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Al-Ahsa Oasis, an Evolving Cultural Landscape In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property comprising gardens, canals, springs, wells and a drainage lake, as well as historical buildings, urban fabric and archaeological sites. They represent traces of continued human settlement in the Gulf region from the Neolithic to the present, as can be seen from remaining historic fortresses, mosques, wells, canals and other water management systems. With its 2.5 million date palms, it is the largest oasis in the world. Al-Ahsa is also a unique geocultural landscape and an exceptional example of human interaction with the environment. In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property comprising gardens, canals, springs, wells and a drainage lake, as well as historical buildings, urban fabric and archaeological sites. They represent traces of continued human settlement in the Gulf region from the Neolithic to the present, as can be seen from remaining historic fortresses, mosques, wells, canals and other water management systems. With its 2.5 million date palms, it is the largest oasis in the world. Al-Ahsa is also a unique geocultural landscape and an exceptional example of human interaction with the environment. Saudi Arabia Arab States Cultural"
+    }
+  ]
+}

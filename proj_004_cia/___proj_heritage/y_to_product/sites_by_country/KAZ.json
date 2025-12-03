@@ -1,0 +1,1437 @@
+{
+  "country": {
+    "code": "KAZ",
+    "name": "Kazakhstan"
+  },
+  "total_sites": 6,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 3,
+    "Mixed": 0
+  },
+  "transboundary_count": 3,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "cold_winter_deserts_of_turan",
+      "uuid": "eb0ae8d4-1d3e-578c-9255-d92f7d6dde5c",
+      "unesco_id": "1693",
+      "names": {
+        "en": "Cold Winter Deserts of Turan",
+        "fr": "Déserts turaniens à hiver froid",
+        "es": "Desiertos invernales fríos de Turán",
+        "ru": "Туранские пустыни умеренного пояса",
+        "ar": "لصحاري الباردة في طوران",
+        "zh": "图兰的冷冬沙漠"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          },
+          "TKM": {
+            "name": "Turkmenistan",
+            "iso2": "TM",
+            "iso3": "TKM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+          "fr": "Ce bien en série transnational comprend quatorze éléments constitutifs, distribués à travers les zones arides de la zone tempérée de l’Asie centrale, entre la mer Caspienne et les hautes montagnes turaniennes. La zone est sujette à des conditions climatiques extrêmes avec des hivers très froids et des étés chauds, et possède une flore et une faune exceptionnellement diverses qui se sont adaptées à ces conditions rigoureuses. Le bien représente aussi une diversité considérable d’écosystèmes de désert, s’étendant sur plus de 1 500 kilomètres d’est en ouest. Les éléments constitutifs se complètent du point de vue de la biodiversité, des types de déserts et des processus écologiques.",
+          "es": "Este sitio transnacional comprende catorce partes que se extienden por zonas áridas de las regiones templadas de Asia Central, entre el mar Caspio y las altas montañas de Turán. La zona está sometida a condiciones climáticas extremas, con inviernos muy fríos y veranos calurosos, y cuenta con una flora y una fauna excepcionalmente diversas que se han adaptado a las duras inclemencias del lugar. El sitio también posee una considerable diversidad de ecosistemas desérticos que se extienden a lo largo de más de 1.500 kilómetros de este a oeste. Cada una de las partes que lo componen complementa a las demás en términos de biodiversidad, tipos de desierto y procesos ecológicos en evolución.",
+          "ru": "Этот транснациональный объект включает в себя четырнадцать составных частей, расположенных в засушливых районах умеренного пояса Центральной Азии между Каспийским морем и Туранскими горами. Здесь царят экстремальные климатические условия с очень холодной зимой и жарким летом, а также исключительно разнообразная флора и фауна, приспособившаяся к суровым условиям. Кроме того, территория представляет собой значительное разнообразие пустынных экосистем, протянувшихся более чем на 1500 км. с востока на запад. Каждая из составных частей дополняет другие с точки зрения биоразнообразия, типов пустынь и протекающих экологических процессов.",
+          "ar": "يتألف هذا الموقع العابر للحدود من أربعة عشر جزءاً موجودة في المناطق القاحلة في المنطقة المعتدلة في آسيا الوسطى بين بحر قزوين وجبال توران الشاهقة. تتعرض المنطقة إلى أحوال مناخية قاسية تتميز ببرد الشتاء القارس وشدة حرارة الصيف فيها. ويحتضن الموقع تنوعاً استثنائياً من النباتات والحيوانات التي تكيفت مع الظروف القاسية. ويحتوي الموقع أيضاً على تنوع كبير من النظم البيئية الصحراوية، التي تمتد على مسافة تزيد على 1500 كيلومتر من الشرق إلى الغرب. تؤدي أجزاء الموقع دوراً تكامليّاً، إذ يُكمّل كل منها الآخر من حيث التنوع البيولوجي والخصائص الصحراوية والعمليات البيئية الجارية.",
+          "zh": "该跨境遗产由10个部分组成，分布在里海和图兰高山之间的中亚温带干旱地区。这里气候条件极端恶劣，冬季严寒、夏季酷热。区域内动植物种类异常丰富，它们已适应了恶劣的气候。该遗产还展现了多样化的沙漠生态系统，东西跨度1500多公里，各组成部分在生物多样性、沙漠类型和持续变化的生态进程方面不尽相同。"
+        },
+        "full": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 3366441,
+          "square_km": 33664.41,
+          "square_miles": 13623.524,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/824e9f59d70b296f68727f3aa99ec03c",
+          "filename": "site_1693_0001.jpg",
+          "dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/193069/site_1693_0001.jpg",
+            "https://whc.unesco.org/document/193070/site_1693_0002.jpg",
+            "https://whc.unesco.org/document/193071/site_1693_0003.jpg",
+            "https://whc.unesco.org/document/193072/site_1693_0004.jpg",
+            "https://whc.unesco.org/document/193073/site_1693_0005.jpg",
+            "https://whc.unesco.org/document/193074/site_1693_0006.jpg",
+            "https://whc.unesco.org/document/193075/site_1693_0007.jpg",
+            "https://whc.unesco.org/document/193076/site_1693_0008.jpg",
+            "https://whc.unesco.org/document/193077/site_1693_0009.jpg",
+            "https://whc.unesco.org/document/193078/site_1693_0010.jpg",
+            "https://whc.unesco.org/document/193079/site_1693_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 14,
+        "locations": [
+          {
+            "name": "Repetek",
+            "ref": "1693-008",
+            "latitude": 38.6016666667,
+            "longitude": 63.2502777778
+          },
+          {
+            "name": "Yeradzhi",
+            "ref": "1693-009",
+            "latitude": 38.785,
+            "longitude": 62.5044444444
+          },
+          {
+            "name": "Saigachy",
+            "ref": "1693-010",
+            "latitude": 45.1505555556,
+            "longitude": 57.7291666667
+          },
+          {
+            "name": "Gaplangyr",
+            "ref": "1693-007",
+            "latitude": 41.5741666667,
+            "longitude": 57.4861111111
+          },
+          {
+            "name": "Kaskakulan",
+            "ref": "1693-005",
+            "latitude": 45.7158333333,
+            "longitude": 61.0297222223
+          },
+          {
+            "name": "Saigachy-Duana",
+            "ref": "1693-012",
+            "latitude": 45.335,
+            "longitude": 58.4513888889
+          },
+          {
+            "name": "Altyn-Emel East",
+            "ref": "1693-001",
+            "latitude": 44.0258333334,
+            "longitude": 79.0341666666
+          },
+          {
+            "name": "Altyn-Emel West",
+            "ref": "1693-003",
+            "latitude": 43.9852777777,
+            "longitude": 78.3041666667
+          },
+          {
+            "name": "Saigachy-Beleuli",
+            "ref": "1693-011",
+            "latitude": 44.5630555556,
+            "longitude": 57.2191666667
+          },
+          {
+            "name": "Southern Ustyurt",
+            "ref": "1693-014",
+            "latitude": 42.0813888889,
+            "longitude": 56.6647222222
+          },
+          {
+            "name": "Bereketli Garagum",
+            "ref": "1693-006",
+            "latitude": 39.662,
+            "longitude": 59.361
+          },
+          {
+            "name": "Saigachy-Zhideyli",
+            "ref": "1693-013",
+            "latitude": 44.9666666667,
+            "longitude": 58.2511111111
+          },
+          {
+            "name": "Altyn-Emel Central",
+            "ref": "1693-002",
+            "latitude": 43.8936111111,
+            "longitude": 78.6558333333
+          },
+          {
+            "name": "Barsakelmes island",
+            "ref": "1693-004",
+            "latitude": 45.6538888889,
+            "longitude": 59.9372222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1693",
+        "unesco_documents": "https://whc.unesco.org/en/list/1693/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1693/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1693/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cold Winter Deserts of Turan This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes. This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes. Kazakhstan Uzbekistan Turkmenistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "western_tien_shan",
+      "uuid": "7695dfdf-924f-59bc-bd7b-e1eb60e45c6c",
+      "unesco_id": "1490",
+      "names": {
+        "en": "Western Tien-Shan",
+        "fr": "Tien Shan occidental",
+        "es": "Tien-Shan occidental",
+        "ru": "Западный Тянь-Шань",
+        "ar": "موقع تيان شان الغربي",
+        "zh": "西部天山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          },
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+          "fr": "Ce bien transnational se trouve dans le système de montagnes du Tien Shan, l'une des plus grandes chaînes de montagnes du monde. Le Tien Shan occidental varie en altitude de 700 à 4 503 m. Ce site comprend une grande diversité de paysages qui abritent une biodiversité́ exceptionnellement riche. Il est important au plan mondial comme centre d’origine d’un certain nombre d’espèces d’arbres fruitiers cultivés, et pour sa grande diversité de types de forêts et d’associations uniques de communautés de plantes.",
+          "es": "Este sitio transnacional de Asia Central se encuentra en la cadena montañosa de Tien-Shan, una de las siete mayores del mundo. Los diferentes elementos de su sistema montañoso tienen altitudes que varían entre 700 y 4.503 metros. Se trata de un sitio con gran diversidad de paisajes que albergan una biodiversidad excepcionalmente rica. La región de Tien-Shan occidental es importante en el plano mundial como centro de origen de varias especies de árboles frutales cultivados así como por su gran diversidad de tipos de bosque y por sus asociaciones únicas de plantas.",
+          "ru": "Этот трансграничный объект является частью центрально-азиатской горной системы Тянь-Шань – одной из семи крупнейших горных цепей мира. Высота различных участков западного Тянь-Шаня варьирует от 700 до 4503 метров. Данный объект изобилует разнообразными ландшафтами, для которых характерно исключительно богатое биоразнообразие. Регион западного Тянь-Шаня имеет мировое значение, так как является местом происхождения ряда видов фруктовых деревьев и отличается большим разнообразием типов лесов и уникальным растительным миром.",
+          "ar": "يوجد هذا الموقع العابر للحدود الوطنيّة في سلسلة جبال تيان شان التي تعد واحدة من أكبر السلسلات الجبلية في العالم. ويقع هذا المكان بالتحديد على ارتفاع يتراوح بين 700 و 4503 متراً. ويحوي مجموعة من المناظر الطبيعيّة الخلابة التي تحتضن في طياتها تنوعاً بيولوجيا غنياً. وتعود أهمية هذا الموقع العالميّة لكونه مركزاً لمجموعة من محاصيل الفواكه ومجموعة متنوّعة من الغابات وجمعيات نباتيّة محليّة فريدة.",
+          "zh": "这处跨国境遗产地位于世界上最大的山脉之一，天山山脉。西部天山位于海拔700米至4503米地带，地貌多样，生物种群极其丰富。这里不仅以多种水果作物的发源地而拥有世界性的重要地位，而且还拥有多样的森林类型和独特的植物群落体系。"
+        },
+        "full": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 528177.6,
+          "square_km": 5281.78,
+          "square_miles": 2137.462,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f07f31e6a527c7c18dc513209e21ce88",
+          "filename": "site_1490_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/141995/site_1490_0001.jpg",
+            "https://whc.unesco.org/document/141997/site_1490_0003.jpg",
+            "https://whc.unesco.org/document/141998/site_1490_0004.jpg",
+            "https://whc.unesco.org/document/141999/site_1490_0005.jpg",
+            "https://whc.unesco.org/document/142000/site_1490_0006.jpg",
+            "https://whc.unesco.org/document/142001/site_1490_0007.jpg",
+            "https://whc.unesco.org/document/142002/site_1490_0008.jpg",
+            "https://whc.unesco.org/document/142003/site_1490_0009.jpg",
+            "https://whc.unesco.org/document/142004/site_1490_0010.jpg",
+            "https://whc.unesco.org/document/142005/site_1490_0011.jpg",
+            "https://whc.unesco.org/document/142006/site_1490_0012.jpg",
+            "https://whc.unesco.org/document/142007/site_1490_0013.jpg",
+            "https://whc.unesco.org/document/142008/site_1490_0014.jpg",
+            "https://whc.unesco.org/document/142009/site_1490_0015.jpg",
+            "https://whc.unesco.org/document/142010/site_1490_0016.jpg",
+            "https://whc.unesco.org/document/142011/site_1490_0017.jpg",
+            "https://whc.unesco.org/document/142012/site_1490_0018.jpg",
+            "https://whc.unesco.org/document/142013/site_1490_0019.jpg",
+            "https://whc.unesco.org/document/142014/site_1490_0020.jpg",
+            "https://whc.unesco.org/document/142015/site_1490_0021.jpg",
+            "https://whc.unesco.org/document/142016/site_1490_0022.jpg",
+            "https://whc.unesco.org/document/142017/site_1490_0023.jpg",
+            "https://whc.unesco.org/document/142018/site_1490_0024.jpg",
+            "https://whc.unesco.org/document/142019/site_1490_0025.jpg",
+            "https://whc.unesco.org/document/142020/site_1490_0026.jpg",
+            "https://whc.unesco.org/document/142021/site_1490_0027.jpg",
+            "https://whc.unesco.org/document/142022/site_1490_0028.jpg",
+            "https://whc.unesco.org/document/142023/site_1490_0029.jpg",
+            "https://whc.unesco.org/document/142024/site_1490_0030.jpg",
+            "https://whc.unesco.org/document/142025/site_1490_0031.jpg",
+            "https://whc.unesco.org/document/148461/site_1490_0032.jpg",
+            "https://whc.unesco.org/document/148462/site_1490_0033.jpg",
+            "https://whc.unesco.org/document/148463/site_1490_0034.jpg",
+            "https://whc.unesco.org/document/148464/site_1490_0035.jpg",
+            "https://whc.unesco.org/document/148465/site_1490_0036.jpg",
+            "https://whc.unesco.org/document/148466/site_1490_0037.jpg",
+            "https://whc.unesco.org/document/148467/site_1490_0038.jpg",
+            "https://whc.unesco.org/document/148468/site_1490_0039.jpg",
+            "https://whc.unesco.org/document/148469/site_1490_0040.jpg",
+            "https://whc.unesco.org/document/148470/site_1490_0041.jpg",
+            "https://whc.unesco.org/document/157050/site_1490_0042.jpg",
+            "https://whc.unesco.org/document/157051/site_1490_0043.jpg",
+            "https://whc.unesco.org/document/157052/site_1490_0044.jpg",
+            "https://whc.unesco.org/document/157053/site_1490_0045.jpg",
+            "https://whc.unesco.org/document/157054/site_1490_0046.jpg",
+            "https://whc.unesco.org/document/157055/site_1490_0047.jpg",
+            "https://whc.unesco.org/document/157056/site_1490_0048.jpg",
+            "https://whc.unesco.org/document/157057/site_1490_0049.jpg"
+          ],
+          "count": 48
+        }
+      },
+      "components": {
+        "count": 13,
+        "locations": [
+          {
+            "name": "Padysha-Ata State Nature Reserve",
+            "ref": "1490-011",
+            "latitude": 41.7244444444,
+            "longitude": 71.5783333333
+          },
+          {
+            "name": "Karatau State Nature Reserve (Kazakhstan)",
+            "ref": "1490-001",
+            "latitude": 43.7333333333,
+            "longitude": 68.6788888889
+          },
+          {
+            "name": "Sary-Chelek State Biosphere Nature Reserve",
+            "ref": "1490-008",
+            "latitude": 41.8736111111,
+            "longitude": 71.9372222222
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve – main part",
+            "ref": "1490-009",
+            "latitude": 41.5919444444,
+            "longitude": 70.4577777778
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – main part",
+            "ref": "1490-002",
+            "latitude": 42.2761111111,
+            "longitude": 70.6741666667
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve - Shandalash area",
+            "ref": "1490-010",
+            "latitude": 42.075,
+            "longitude": 71.3
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Boraldaitau area",
+            "ref": "1490-005",
+            "latitude": 41.957699,
+            "longitude": 70.013503
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Sairam-Ugam area",
+            "ref": "1490-007",
+            "latitude": 42.13801,
+            "longitude": 70.26977
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Irsu-Daubabin area",
+            "ref": "1490-006",
+            "latitude": 42.404225,
+            "longitude": 70.270334
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Maidantal area",
+            "ref": "1490-012",
+            "latitude": 41.3013888889,
+            "longitude": 70.255
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Aulie paleontological area",
+            "ref": "1490-004",
+            "latitude": 42.905,
+            "longitude": 70.0
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Bashkizilsay area",
+            "ref": "1490-013",
+            "latitude": 41.21,
+            "longitude": 69.9341666667
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Karabastau paleontological area",
+            "ref": "1490-003",
+            "latitude": 42.94,
+            "longitude": 69.915
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1490",
+        "unesco_documents": "https://whc.unesco.org/en/list/1490/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1490/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1490/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Western Tien-Shan The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. Kyrgyzstan Kazakhstan Uzbekistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "silk_roads_the_routes_network_of_chang_an_tianshan_corridor",
+      "uuid": "f497d3de-f8ca-5278-931c-1fd2a496c881",
+      "unesco_id": "1442",
+      "names": {
+        "en": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+        "fr": "Routes de la soie : le réseau de routes du corridor de Chang’an-Tian-shan",
+        "es": "Ruta de la Seda: red viaria del corredor Chang'an-Tianshan",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CHN": {
+            "name": "China",
+            "iso2": "CN",
+            "iso3": "CHN"
+          },
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          },
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings.",
+          "fr": "Cette section des Routes de la soie s’étend sur 5 000 km, de Chang’an/Luoyang, capitale centrale de la Chine sous les dynasties Han et Tang, jusqu’à la région de Jetyssou, en Asie centrale. Ce corridor a pris forme entre le IIe siècle av. J.-C. et le Ier siècle apr. J.-C. ; il a été utilisé jusqu’au XVIe siècle, reliant de nombreuses civilisations et facilitant des échanges à longue distance en matière de commerce mais aussi de croyances religieuses, de connaissances scientifiques, d’innovations technologiques, de pratiques culturelles et artistiques. Parmi les 33 sites inclus dans la nomination figurent d’importants ensembles de villes/palais de différents empires ou royaumes de khans, des établissements de commerce, des temples de grottes bouddhistes, des voies antiques, des relais de poste, des cols, des tours balises, des parties de la Grand Muraille, des fortifications, des tombes et des édifices religieux.",
+          "es": "",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings.",
+        "justification": "Brief synthesis The Silk Roads were an interconnected web of routes linking the ancient societies of Asia, the Subcontinent, Central Asia, Western Asia and the Near East, and contributed to the development of many of the world's great civilizations. They represent one of the world’s preeminent long-distance communication networks stretching as the crow flies to around 7,500 km but extending to in excess of 35,000 km along specific routes. While some of these routes had been in use for millennia, by the 2nd century BC the volume of exchange had increased substantially, as had the long distance trade between east and west in high value goods, and the political, social and cultural impacts of these movements had far-reaching consequences upon all the societies that encountered them. The routes served principally to transfer raw materials, foodstuffs, and luxury goods. Some areas had a monopoly on certain materials or goods: notably China, who supplied Central Asia, the Subcontinent, West Asia and the Mediterranean world with silk. Many of the high value trade goods were transported over vast distances – by pack animals and river craft – and probably by a string of different merchants. The Tian-shan corridor is one section or corridor of this extensive overall Silk Roads network. Extending across a distance of around 5,000 km, it encompassed a complex network of trade routes extending to some 8,700 km that developed to link Chang’an in central China with the heartland of Central Asia between the 2nd century BC and 1st century AD, when long distance trade in high value goods, particularly silk, started to expand between the Chinese and Roman Empires. It flourished between the 6th and 14th century AD and remained in use as a major trade route until the 16th century. The extremes of geography along the routes graphically illustrate the challenges of this long distance trade. Falling to 154 metres below sea level and rising to 7,400 metres above sea level, the routes touch great rivers, alpine lakes, crusty salt flats, vast deserts, snow-capped mountains and ‘fecund’ prairies. The climate varies from extreme drought to semi-humid; while vegetation covers temperate forests, temperate deserts, temperate steppes, alpine steppes and oases. Starting on the Loess plateau at Chang’an, the central capital of China in the Han and Tang Dynasties, the routes of the Tian-shan corridor passed westwards through the Hosi Corridor across the Qin and Qilian Mountains to the Yumen Pass of Dunhuang. From Loulan/Hami, they continued along the northern and southern flanks of the Tian-shan Mountain and then through passes to reach the Ili, Chuy and Talas valleys in the Zhetysu Region of Central Asia, linking two of the great power centres that drove the Silk Roads trade. Thirty-three sites along the corridor include capital cities palace complexes of various empires and Khan Kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of the Great Wall, fortifications, tombs and religious buildings. The formal system of posthouses and beacon towers provided by the Chinese Empire facilitated trade, as did the system of forts, caravanserai and way stations operated by states in the Zhetysu region. In and around Chang’an, a succession of palaces reflect the power centre of the Chinese Empire over 1,200 years; while the cities of the Chuy valley are witness to the power centre of the Zhetysu region from the 9th to the 14th centuries and their organisation of the long distance trade. The series of Buddhist pagodas and large, elaborate cave temples extending from Kucha (now Kuqa County) in the west to Luoyong in the east, record the eastward transmission of Buddhism from India via Karakorum, and demonstrate an evolution in the design of stupas as local ideas were absorbed. Their elaboration reflects the sponsorship of local authorities and the central Chinese imperial government as well as donations of wealthy merchants, and the influence of monks that travelled the routes, many of whose journeys were documented from 2nd century BC onwards. Other religious buildings reflect the co-existence of many religions (as well as many ethnic groups) along the corridor including Zoroastrianism, the main religion of the Sogdians of Zhetysu region, Manichaeism in the Chuy and Talas valleys and in Qocho city and Luoyong, Nestorian Christianity also in Qocho city, around Xinjiang and in Chang’an, and Islam in Burana. The massive scale of the trading activities fostered large, prosperous and thriving towns and cities that also reflect the interface between settled and nomadic communities in a variety of ways: the mutual inter-dependence of nomads and farmers and different peoples such as between Turks and Sogdians in the Zhetysu region; the transformation of nomadic communities to settled communities in the Tian-shan mountains, resulting in highly distinctive construction and planning such as semi-underground buildings; and in the Hosi corridor the planned agricultural expansion of the 1,000 mile corridor after the 1st century BC as an agricultural garrison and its transformation to settled agricultural communities. Diverse and large scale water management systems were essential to facilitate the growth of towns, trading settlements, forts, and caravanserai and the agriculture necessary to support them, such as the extensive Karez underground water channels of the extremely arid Turpan basin, many still in use, that supplied water to Qocho city, and were supplemented by deep wells inside Yar city; the grand scale of the network of open canals and ditches along the Hosi corridor that drew river water to the settlements, 90 km of which survive around Suoyang city; and in the Zhetsyu region, river water distribution through canals and pipes and collection in reservoirs. As well as conduits for goods and people, the routes allowed the exceptional flow of ideas, beliefs and technological innovations such as those related to architecture and town planning that shaped the urban spaces and peoples’ lives in many fundamental ways. Criterion (ii): The vastness of the continental routes networks, the ultra-long duration of use, the diversity of heritage remains and their dynamic interlinks, the richness of the cultural exchange they facilitated, the varied geographical environments they connected and crossed, clearly demonstrates the extensive interaction that took place within various cultural regions, especially the nomadic steppe and settled agrarian/oasis/pastoral civilizations, on the Eurasian continent between the 2nd century BC and the 16th century AD. These interaction and influences were profound in terms of developments in architecture and city planning, religions and beliefs, urban culture and habitation, merchandise trade and interethnic relations in all regions along the routes. The Tian-shan corridor is an extraordinary example in world history of how a dynamic channel linking civilizations and cultures across the Eurasian continent, realized the broadest and most long-lasting interchange among civilizations and cultures. Criterion (iii): The Tian-shan corridor bears an exceptional witness to traditions of communication and exchange in economy and culture, and to social development across the Eurasian continent between the 2nd century BC to the 16th century AD. Trade had a profound influence on the settlement structure of the landscape, through the development of towns and cities that brought together nomadic and settled communities, through water management systems that underpinned those settlements, through the extensive network of forts, beacon towers, way stations and caravanserai that accommodated travellers and ensured their safety, through the sequence of Buddhist shrines and cave temples, and through manifestations of other religions such as Zoroastrianism, Manichaeism, Nestorian Christianity and Islam that resulted from the cosmopolitan, multi-ethnic communities that organised and benefitted from the high value trade. Criterion (v): The Tian-shan corridor is an outstanding example of the way high value, long-distance trade prompted the growth of sizeable towns and cities, supported by elaborate, sophisticated water management systems that harvested water from rivers, wells and underground springs for residents, travellers and the irrigation of crops. Criterion (vi): The Tian-shan Corridor is directly associated with Zhang Qian’s diplomatic mission to the Western Regions, a milestone event in the history of human civilization and cultural interchange in the Eurasian Continent. It also reflects in a profound way the tangible impact of Buddhism into ancient China which had significant impact on cultures of East Asia, and the spread of Nestorian Christianity (which reached China in 500 AD), Manichaeism, Zoroastrianism and early Islam. Many of the towns and cities along the corridor also reflect in an exceptional way the impact of ideas that flowed along the routes related to harnessing water power, architecture and town planning. Integrity The nomination sets out clearly why the nominated series as a whole should be seen to have integrity and, through a detailed analysis, how each of the individual sites can also be seen to have integrity. The overall series adequately reflects the significant characteristics of the Tian-Shan corridor and the attributes of Outstanding Universal Value in terms the representation of towns and cities, smaller trading settlements, transport and defence facilities, religious sites and tombs and water management. The one area that could be strengthened is the ensemble of way stations, beacons, watch towers and caravanserai that facilitated regular trade and reflects the everyday use of the route. One watch tower has been nominated and one post house. Although these are significant, they do not fully demonstrate the extent of the formal support that was provided for trade and travellers. The numerous sites of beacon towers and forts that survive between the Hoxi corridor and the Tian-shan range need further survey and research in order to identify those that might be added to the series. Likewise formal structures in Zhetysu region also need further identification and research. In terms of individual sites, although it is recognised that some are vulnerable in the face of pressure including urban, rural development, infrastructural development, tourism or changes in agricultural practices, for the majority of these the pressures are adequately contained. There is a need to ensure that new interventions such as screen walls at some sites built in traditional style do not confuse the archaeological record. For some sites, in order to fully understand the relationship between urban areas and their surrounding desert landscapes, and in particular the trade routes, there is a need for further ground surveys or remote sensing of surrounding areas. The extensive, intact water management systems, necessary for their survival, are currently outside the boundaries of some sites and in some cases outside the buffer zones. Consideration needs to be given to assessing the way these water management systems contribute to the integrity of the sites and in places minor adjustments to the boundaries need to be considered. Authenticity The overall series includes adequate sites to fully convey the particular strengths and characteristics of this Tian-shan corridor. The authenticity of individual sites is mostly satisfactory. If the full value of these sites is to be clearly conveyed, then more surveys, research and explanation are needed to show how the sites relate to the routes to which they are linked and, in the case of settlements, to show how they survived in desert areas through the use of sophisticated water management techniques. In the Zhetysu region, all the eleven archaeological sites are backfilled and covered for protection and to control deterioration, which in the current absence of adequate means to stabilise exposed bricks is essential. Fully understanding the significance of the remains is difficult. There is a need to explore innovative ways of highlighting the scope and range of urban functions. There is also a need for more archaeological and academic research to clarify the functions particularly of urban sites and to link them more clearly through interpretation to the ancient routes to which they were associated. Protection and Management requirements An Intergovernmental Coordinating Committee for the overall Silk Roads was formed in 2009. This is a steering committee composed of representatives of all States Parties involved in the nominations of all Silk Roads corridors. The ICOMOS International Conservation Centre – Xi’an (IICC-X) is the Secretariat for Committee. The Committee oversees the development of trans-national serial nominations of corridors identified in the ICOMOS Silk Roads Thematic Study. In terms of management, this Committee aims to implement a coordinated management system based on mutual agreement and to provide guidelines on conservation principles, methods, and management. For the Tian-shan corridor, the formal agreement between all the participating States Parties in the Committee has been augmented with a specific agreement between the three States Parties, in particular for the coordinated management of the sites in the corridor. A first agreement between the three States Parties was signed in May 2012 and a further detailed agreement was signed in February 2014. These agreements set out the management mechanisms, and identify principles and rules of conservation management. They also set out suggestions for exchange and collaboration on conservation, interpretation, presentation and publicity. The Steering Committee for the corridor consists of Vice Ministers. There is also a Working Group consisting of two experts and one government official from each State Party, and a Secretariat - the ICOMOS International Conservation Centre in Xi’an (IICC-X). Regular meetings are held between the three States Parties. Collaboration is supported by the development of an on-line platform at the IICC-X. This is in three languages, English, Russian and Chinese. It collects and promotes information on the conservation initiatives along the Silk Roads. This international collaboration needs to be supported by national collaboration, particularly in Kazakhstan and Kyrgyzstan, if the many fragile archaeological sites are to share information on the most advanced techniques and conservation measures that are appropriate and beneficial for the sites. Within China, this management structure is well developed and appears effective. Within Kazakhstan and Kyrgyzstan this collaboration needs to be reinforced. Management Plans are in place for all the individual sites in China. For Kazakhstan a timetable for developing detailed management plans that would provide strategies for conservation and visitor management, including interpretation, for all sites had been approved and the work will be undertaken between 2014 and 2016. It is essential that these plans go beyond archaeological excavation to encompass on-going management, site surveillance, conservation, environment protection and tourism management. In Kyrgyzstan, all three sites have management plans for 2011 – 2015 that include proposals for improving the conservation of the sites, visitor facilities, and monitoring. Although the need for tourism plans is acknowledged in each of the three countries, and these have been put in place in China and are being implemented, and a plan has been approved for the Chuy Valley, there is an urgent need to tourism plans to be put in place for the remaining sites and implemented to ensure they are well prepared for an increase in visitors, who do not become the agents of their destruction. As the majority of the thirty-three nominated sites are archaeological sites, there is also need for good information that allows understanding of their layout, function and history, why they are of significance and particularly their relationship to the Silk Roads routes, to water and its management which was so crucial for survival, to trade and to each other. Many are associated with remarkable finds but these are often in museums some distance from the sites. And these museums do not always provide specific information about the Silk Roads and how they relate to the sites. Given the scale and scope of the Tian-shan corridor and the remoteness of some sites, there is a need for innovative techniques to provide the necessary information and interpretation. The magnitude of this Silk Roads corridor, the number of sites, the comparative fragility of many of them and the enormous distances between them, makes monitoring a formidable task. Nevertheless monitoring (combined with adequate physical protection) is a crucial tool. In China all sites have up to date monitoring equipment. How this data is analysed and used will be crucial and more capacity building for these tasks would seem to be required. In the more remote sites in Kazakhstan, regular monitoring by trained staff is unlikely to be totally adequate (or in places technically feasible) and needs to be augmented by other means. In this context, the involvement of local communities needs to be encouraged. As with It is also recommended that the latest approaches to remote sensing and video links are explored that might be used to support staff on the ground in both Kazakhstan and Kyrgyzstan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            5
+          ],
+          "display": "(ii)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 42668.16,
+          "square_km": 426.68,
+          "square_miles": 172.672,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f397dedbb99095760fbb933b9746cae1",
+          "filename": "site_1442_0021-500-0-20241025160718.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209135/site_1442_0021.jpg",
+            "https://whc.unesco.org/document/209136/site_1442_0022.jpg",
+            "https://whc.unesco.org/document/129557/site_1442_0001.jpg",
+            "https://whc.unesco.org/document/129558/site_1442_0002.jpg",
+            "https://whc.unesco.org/document/129559/site_1442_0003.jpg",
+            "https://whc.unesco.org/document/129560/site_1442_0004.jpg",
+            "https://whc.unesco.org/document/129561/site_1442_0005.jpg",
+            "https://whc.unesco.org/document/129562/site_1442_0006.jpg",
+            "https://whc.unesco.org/document/129563/site_1442_0007.jpg",
+            "https://whc.unesco.org/document/129564/site_1442_0008.jpg",
+            "https://whc.unesco.org/document/129565/site_1442_0009.jpg",
+            "https://whc.unesco.org/document/129566/site_1442_0010.jpg",
+            "https://whc.unesco.org/document/133515/site_1442_0012.jpg",
+            "https://whc.unesco.org/document/133517/site_1442_0013.jpg",
+            "https://whc.unesco.org/document/133519/site_1442_0015.jpg",
+            "https://whc.unesco.org/document/133523/site_1442_0018.jpg",
+            "https://whc.unesco.org/document/133527/site_1442_0020.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 33,
+        "locations": [
+          {
+            "name": "Site of Kulan",
+            "ref": "1442-014",
+            "latitude": 42.9144444444,
+            "longitude": 72.7494444444
+          },
+          {
+            "name": "Site of Ornek",
+            "ref": "1442-015",
+            "latitude": 42.8944444444,
+            "longitude": 72.1477777777
+          },
+          {
+            "name": "Site of Talgar",
+            "ref": "1442-012",
+            "latitude": 43.2777777778,
+            "longitude": 77.2222222223
+          },
+          {
+            "name": "Site of Aktobe",
+            "ref": "1442-013",
+            "latitude": 43.2261111111,
+            "longitude": 74.0336111111
+          },
+          {
+            "name": "Site of Kayalyk",
+            "ref": "1442-011",
+            "latitude": 45.6655555556,
+            "longitude": 80.2605555556
+          },
+          {
+            "name": "Site of Akyrtas",
+            "ref": "1442-016",
+            "latitude": 42.9536111111,
+            "longitude": 71.8027777778
+          },
+          {
+            "name": "Site of Kostobe",
+            "ref": "1442-017",
+            "latitude": 42.99,
+            "longitude": 71.5236111111
+          },
+          {
+            "name": "Site of Yar City",
+            "ref": "1442-006",
+            "latitude": 42.9525,
+            "longitude": 89.0616666667
+          },
+          {
+            "name": "Xingjiaosi Pagodas",
+            "ref": "1442-032",
+            "latitude": 34.0913888889,
+            "longitude": 109.034166667
+          },
+          {
+            "name": "Tomb of Zhang Qian",
+            "ref": "1442-033",
+            "latitude": 33.1588888889,
+            "longitude": 107.291111111
+          },
+          {
+            "name": "Site of Qocho City",
+            "ref": "1442-005",
+            "latitude": 42.8525,
+            "longitude": 89.5277777778
+          },
+          {
+            "name": "Site of Yumen Pass",
+            "ref": "1442-022",
+            "latitude": 40.3536111111,
+            "longitude": 93.8638888889
+          },
+          {
+            "name": "Site of Karamergen",
+            "ref": "1442-024",
+            "latitude": 45.9080555556,
+            "longitude": 75.6630555556
+          },
+          {
+            "name": "Site of Suoyang City",
+            "ref": "1442-020",
+            "latitude": 40.2466666666,
+            "longitude": 96.2030555556
+          },
+          {
+            "name": "Subash Buddhist Ruins",
+            "ref": "1442-026",
+            "latitude": 41.8558333333,
+            "longitude": 83.0511111111
+          },
+          {
+            "name": "Bin County Cave Temple",
+            "ref": "1442-029",
+            "latitude": 35.0733333334,
+            "longitude": 107.992222222
+          },
+          {
+            "name": "Site of Bashbaliq City",
+            "ref": "1442-007",
+            "latitude": 44.0969444444,
+            "longitude": 89.2075
+          },
+          {
+            "name": "Kizilgaha Beacon Tower",
+            "ref": "1442-023",
+            "latitude": 41.7902777777,
+            "longitude": 82.8986111111
+          },
+          {
+            "name": "Great Wild Goose Pagoda",
+            "ref": "1442-030",
+            "latitude": 34.2197222223,
+            "longitude": 108.959444444
+          },
+          {
+            "name": "Small Wild Goose Pagoda",
+            "ref": "1442-031",
+            "latitude": 34.2408333333,
+            "longitude": 108.937222222
+          },
+          {
+            "name": "Kizil Cave-Temple Complex",
+            "ref": "1442-025",
+            "latitude": 41.7838888889,
+            "longitude": 82.5055555556
+          },
+          {
+            "name": "Site of Xuanquan Posthouse",
+            "ref": "1442-021",
+            "latitude": 40.2647222222,
+            "longitude": 95.3294444445
+          },
+          {
+            "name": "Bingling Cave-Temple Complex",
+            "ref": "1442-027",
+            "latitude": 35.8078888889,
+            "longitude": 103.0468055556
+          },
+          {
+            "name": "Maijishan Cave-Temple Complex",
+            "ref": "1442-028",
+            "latitude": 34.3508333333,
+            "longitude": 106.002777778
+          },
+          {
+            "name": "City of Suyab (Site of Ak-Beshim)",
+            "ref": "1442-008",
+            "latitude": 42.8019444444,
+            "longitude": 75.2033333333
+          },
+          {
+            "name": "City of Balasagun (Site of Burana)",
+            "ref": "1442-009",
+            "latitude": 42.7466666666,
+            "longitude": 75.2502777778
+          },
+          {
+            "name": "City of Nevaket (Site of Krasnaya Rechka)",
+            "ref": "1442-010",
+            "latitude": 42.9122222222,
+            "longitude": 75.015
+          },
+          {
+            "name": "Site of Shihao Section of Xiaohan Ancient Route",
+            "ref": "1442-019",
+            "latitude": 34.7186111111,
+            "longitude": 111.509444444
+          },
+          {
+            "name": "Site of Han’gu Pass of Han Dynasty in Xin’an County",
+            "ref": "1442-018",
+            "latitude": 34.7205555556,
+            "longitude": 112.165833333
+          },
+          {
+            "name": "Site of Daming Palace in Chang’an City of Tang Dynasty",
+            "ref": "1442-003",
+            "latitude": 34.2958333333,
+            "longitude": 108.958333333
+          },
+          {
+            "name": "Site of Luoyang City from the Eastern Han to Northern Wei Dynasty",
+            "ref": "1442-002",
+            "latitude": 34.7311111111,
+            "longitude": 112.621388889
+          },
+          {
+            "name": "Site of Weiyang Palace in Chang’an City of the Western Han Dynasty",
+            "ref": "1442-001",
+            "latitude": 34.3044444444,
+            "longitude": 108.8572222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1442",
+        "unesco_documents": "https://whc.unesco.org/en/list/1442/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1442/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1442/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings. This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings. China Kyrgyzstan Kazakhstan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "mausoleum_of_khoja_ahmed_yasawi",
+      "uuid": "cf708ebd-d5c2-5657-abf2-7ac57c4ccb41",
+      "unesco_id": "1103",
+      "names": {
+        "en": "Mausoleum of Khoja Ahmed Yasawi",
+        "fr": "Mausolée de Khoja Ahmad Yasawi",
+        "es": "Mausoleo de Khoja Ahmad Yasawi",
+        "ru": "Мавзолей Ходжи Ахмеда Яссави (город Туркестан)",
+        "ar": "ضريح الخوجه أحمد يسوي",
+        "zh": "霍贾•艾哈迈德•亚萨维陵墓"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was built at the time of Timur (Tamerlane), from 1389 to 1405. In this partly unfinished building, Persian master builders experimented with architectural and structural solutions later used in the construction of Samarkand, the capital of the Timurid Empire. Today, it is one of the largest and best-preserved constructions of the Timurid period.",
+          "fr": "Le mausolée de Khoja Ahmad Yasawi, dans la ville de Yasi, aujourd’hui appelée Turkestan, fut construit à l’époque de Tamerlan, de 1389 à 1405. Dans ce bâtiment, dont certaines parties demeurèrent inachevées, les maîtres constructeurs perses expérimentèrent de nouvelles solutions architecturales et structurelles qui furent ensuite adoptées pour la construction de Samarkand, capitale de l’Empire timuride. C’est aujourd’hui l’une des constructions les plus grandes et les mieux conservées de l’époque timuride.",
+          "es": "Este mausoleo está situado en la ciudad de Yasi, hoy denominada Turkestán, y fue construido entre 1389 y 1405, en tiempos de Tamerlán. En este edificio, que quedó inconcluso en parte, los maestros de obras persas experimentaron nuevas soluciones estructurales y arquitectónicas que se utilizarían posteriormente en la construcción de Samarcanda, la capital del Imperio Timúrida. Es una de las construcciones más monumentales y mejor conservadas de la época timúrida.",
+          "ru": "Мавзолей Ходжи Ахмеда Яссави в городе Ясы (ныне Туркестан) был построен в период правления Тимура (Тамерлана) в конце XIV-начале XV вв. При сооружении этого не совсем законченного здания персидские зодчие применяли ряд новаторских архитектурных и строительных решений, которые были использованы также при возведении Самарканда, столицы империи Тимуридов. Сегодня мавзолей является одним из самых значительных и хорошо сохранившихся сооружений той эпохи.",
+          "ar": "تمّ إنشاء ضريح الخوجه أحمد يسوي في مدينة ياسي المعروفة اليوم باسم تركستان في عهد تيمورلنك من 1389 حتى 1405. في هذا المبنى حيث لا يزال بعض الأجزاء منه غير منتهية، اختبر المهندسون الفرس تجارب هندسيّةً و بنيويّةً جديدةً تمّ اعتمادها في ما بعد لبناء سمرقند عاصمة الامبراطوريّة التيموريّة. وهو الآن من أكبر المباني المتبقيّة من العصر التيموري وتتمّ المُحافظة عليه بأفضل الطرق.",
+          "zh": "霍贾·艾哈迈德·亚萨维陵墓，位于突厥斯坦（以前称为亚瑟市），建造于帖木儿时期，即公元1389年至1405年。就是从这座未完工的建筑中，波斯高明的建筑者们试验了各种建筑方法，后来使用到了帖木儿王国都城撒马尔罕的建造中。今天，霍贾·艾哈迈德·亚萨维陵墓成为了帖木儿时期规模最大、保存最完整的建筑之一。"
+        },
+        "full": "The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was built at the time of Timur (Tamerlane), from 1389 to 1405. In this partly unfinished building, Persian master builders experimented with architectural and structural solutions later used in the construction of Samarkand, the capital of the Timurid Empire. Today, it is one of the largest and best-preserved constructions of the Timurid period.",
+        "justification": "Brief synthesis The Mausoleum of Khoja Ahmed Yaswi, a distinguished Sufi master of the 12th century, is situated in southern Kazakhstan, in the north-eastern section of the city of Turkestan (Yasi). Built between 1389 and 1405, by order of Timur (Tamerlane), the ruler of Central Asia, it replaced a smaller 12th century mausoleum. Construction of the building was halted in 1405, with the death of Timur, and was never completed. The property (0.55 ha) is limited to the mausoleum, which stands within a former citadel and the archaeological area of the medieval town of Yasi; the latter serves as the buffer zone (79.36 ha) for the property. Rectangular in plan and 38.7 meters in height, the mausoleum is one of the largest and best-preserved examples of Timurid construction. Timur, himself, is reported to have participated in its construction and skilled Persian craftsmen were employed to work on the project. Its innovative spatial arrangements, vaults, domes, and decoration were prototypes that served as models for other major buildings of the Timurid period, in particular in Samarkand. It was left unfinished, providing documented evidence of the construction methods at that time and by having a unique architectural image. Considered to be an outstanding example of Timurid design that contributed to the development of Islamic religious architecture, the mausoleum is constructed of fired brick and contains thirty-five rooms that accommodate a range of functions. It is a multifunctional structure of the khanaqa type, with functions of a mausoleum and a mosque. A conic-spherical dome, the largest in Central Asia, sits above the Main Hall (Kazandyk). Other notable attributes include fragments of original wall paintings in the mosque, alabaster stalactites (muqarnas) in the intrados of the domes, glazed tiles featuring geometric patterns with epigraphic ornaments on the exterior and interior walls, fine Kufic and Suls inscriptions on the walls, and texts from the Qu’ran on the drums of the domes. The principal entrance and parts of the interior were left unfinished, providing exceptional evidence of the construction methods of the period. The property, burials and remains of the old town offer significant testimony to the history of Central Asia. The mausoleum is closely associated with the diffusion of Islam in this region with the help of Sufi orders, and with the political ideology of Timur. Criterion (i): The Mausoleum of Khoja Ahmed Yasawi is an outstanding achievement in the Timurid architecture, and it has significantly contributed to the development of Islamic religious architecture. Criterion (iii): The mausoleum and its property represent an exceptional testimony to the culture of the Central Asian region, and to the development of building technology. Criterion (iv): The Mausoleum of Khoja Ahmed Yasawi was a prototype for the development of a major building type in the Timurid period, becoming a significant reference in the history of Timurid architecture. Integrity All components of the Mausoleum of Khoja Ahmed Yasawi have been included within the boundaries of the property. Its historic setting, the former citadel and archaeological remains of the medieval town of Yasi, serve as the buffer zone for the property. The Mausoleum of Khoja Ahmed Yaswi is considered to be stable, although deterioration associated with rising damp and salts, due to the high water table, can potentially threaten structural integrity. To maintain the conditions of integrity, the impact of high water table levels needs to be mitigated as well as the impact of other humidity factors that can increase the risk of condensation and salt migration. The Mausoleum stands within the former old town area, an archaeological area where the houses were destroyed in the 19th century. Since no rebuilding has taken place, it possesses valuable potential for medieval archaeology, since cultural layers of all the stages of evolution of this important religious, cultural, economic and administrative centre of a large region have been preserved. The northern part of the old citadel wall was rebuilt in the 1970s, providing an enclosure for the mausoleum and adjacent buildings. The new town of Turkestan, which developed to the west, has maintained a low skyline, allowing the mausoleum to stand out as a major monument within its context and maintain the required visual integrity. Since Turkestan is situated in a vast plain, any high-rise buildings outside the buffer zone would have a significant impact on the visual integrity of the mausoleum. This needs to be controlled by the continuous enforcement of adequate planning regulations to ensure the required protection. Authenticity The Mausoleum of Khoja Ahmed Yaswi maintains an exceptionally high degree of authenticity as a monument as it has preserved its architectural design and workmanship, as well as the original materials. It has not been subject to any major changes over time and can be considered a genuine representation of the architecture of the Timurid period. Although it suffered from inappropriate use and neglect, particularly during the mid-19th century, it has been better preserved than other examples of Timurid monuments, including the Bibi Khanum Shrine in Samarkand, which is of comparable size. The mausoleum has preserved its original vaults’ structures and a large part of its external decoration. Original remains of the wall paintings are visible in the interior, and it is possible that more may be discovered under the whitewashed surfaces when further restoration work is undertaken. The muqarnas of the ceilings are still in place. The unfinished state of the principal entrance and parts of the interior are of added interest, serving as documentary evidence of the construction methods of the period. Protection and management requirements The Mausoleum of Khoja Ahmed Yaswi is a national monument, inscribed on the List of National Properties of Kazakhstan (decree 38 of 26.01.1982). It is owned by the state and protected by the Law of the Republic of Kazakhstan on Protection and Use of Historical and Cultural Heritage (No 1488-XII, 02.07.1992). The mausoleum site is included in the Plan of Zones of protection of monuments of the history and culture of the city of Turkestan (1986), which was prepared under the supervision of the Ministry of Culture, by the State Institute for Scientific Research and Planning on Monuments of Material Culture (NIPI PMK, Almaty). The site within its boundaries has the highest level of protection. Adjacent to its boundaries are Zones of planning control with different regulations and a Zone of protected natural setting. The Plan was approved by the Committee of Culture and confirmed by the decree 628 of 22.11.1988 and it is still in force. At the national level, the management of the property is under the responsibility of the Committee of Culture of the Ministry of Culture and Information. Locally, the care of the mausoleum and its setting is under the responsibility of the ‘Azret-Sultan’ State Historical and Cultural Reserve Museum which was founded under the Committee of Culture of the Ministry of Culture and Information (decree 265 of 28.08.1989). Reserve Museum includes architectural complex of Khoja Ahmed Yasawi mausoleum, archaeological remains of the medieval town of Yasi within the boundaries of the buffer zone and the adjacent secondary monuments. The main task of the Reserve Museum is to provide protection and preservation to archaeological and architectural monuments in their authentic state, to their interiors, historical setting and related territories. Reserve Museum builds its activities in cooperation with the Institute of “Kasrestavratziya”, Institute of Archaeology of the Academy of Sciences and other interested organizations, conducts historical studies of the site and its monuments, develop museum funds and collections for scientific research and to make them acceptable for wide public. Since the property was inscribed on the World Heritage List, annual budget and permanent staff of the Reserve-Museum have increased. From the year 2006, the State Enterprise “Kazrestavratziya”, under the Ministry of Culture, has been responsible for conservation projects and their implementation. The Protection Zoning Plan (Plan of Zones of protection of monuments of the history and culture of the city of Turkestan) (1986) has not been integrated into the last development plan for Turkestan. The Museum and “Kazrestavratziya” are working on the revision of the Protection Zoning Plan and on its legal adoption and integration into the new Master Plan for the City of Turkestan, in order to strengthen control over construction that is underway just outside the buffer zone. This measure will ensure that the increased pressure on the property and its buffer zone, as a result of illegal and high-rise construction, is comprehensively addressed. The Management Plan for the 2004-2009 period was not implemented and needs to be updated. A new five-year Management Plan for the Protection and Preservation of the Mausoleum of Khoja Ahmed Yasawi and architectural and archaeological monuments of Ancient Town of Turkestan, whose focus is the property and its buffer zone, is under elaboration. The Ministry of Culture is planning to revise and update the long-term management plan for the Mausoleum, which will address safeguarding, research, conservation, monitoring, maintenance, education and training, visitor controls, raising of public awareness, and risk preparedness. The management plan, to be developed in cooperation with organizations and authorities linked to the site, should include conservation guidelines so that adequate methods are identified for the restoration of the wall paintings, metal works, wood works, and surface finishes. To ensure the sustained management and conservation of the property, adequate financial, technical and material resources will need to be secured. A qualified permanent technical team of specialized technicians and skilled craftsmen dedicated to the maintenance of the property will need to be maintained. A documentation centre for the property and the buffer zone will also be important tools to facilitate conservation and management endeavours and to promote larger awareness of legislative and heritage preservation issues."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3,
+            4
+          ],
+          "display": "(i)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.55,
+          "square_km": 0.01,
+          "square_miles": 0.002,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2003,
+          "all_dates": [
+            2003
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2003,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/fc122bf5b82b53ad9bea7714d833bb47",
+          "filename": "site_1103_0003-500-0-20130916122809.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/124296/site_1103_0003.jpg",
+            "https://whc.unesco.org/document/124297/site_1103_0004.jpg",
+            "https://whc.unesco.org/document/124298/site_1103_0005.jpg",
+            "https://whc.unesco.org/document/124301/site_1103_0007.jpg",
+            "https://whc.unesco.org/document/124302/site_1103_0008.jpg",
+            "https://whc.unesco.org/document/147302/site_1103_0009.jpg",
+            "https://whc.unesco.org/document/147303/site_1103_0010.jpg",
+            "https://whc.unesco.org/document/147304/site_1103_0011.jpg",
+            "https://whc.unesco.org/document/147305/site_1103_0012.jpg",
+            "https://whc.unesco.org/document/147306/site_1103_0013.jpg",
+            "https://whc.unesco.org/document/147307/site_1103_0014.jpg",
+            "https://whc.unesco.org/document/147308/site_1103_0015.jpg",
+            "https://whc.unesco.org/document/147309/site_1103_0016.jpg",
+            "https://whc.unesco.org/document/147310/site_1103_0017.jpg",
+            "https://whc.unesco.org/document/147311/site_1103_0018.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Mausoleum of Khoja Ahmed Yasawi",
+            "ref": "1103",
+            "latitude": 43.2976944444,
+            "longitude": 68.2710555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1103",
+        "unesco_documents": "https://whc.unesco.org/en/list/1103/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1103/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1103/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 22,
+        "inscription_year": 2003
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Mausoleum of Khoja Ahmed Yasawi The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was built at the time of Timur (Tamerlane), from 1389 to 1405. In this partly unfinished building, Persian master builders experimented with architectural and structural solutions later used in the construction of Samarkand, the capital of the Timurid Empire. Today, it is one of the largest and best-preserved constructions of the Timurid period. The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was built at the time of Timur (Tamerlane), from 1389 to 1405. In this partly unfinished building, Persian master builders experimented with architectural and structural solutions later used in the construction of Samarkand, the capital of the Timurid Empire. Today, it is one of the largest and best-preserved constructions of the Timurid period. Kazakhstan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "saryarka_steppe_and_lakes_of_northern_kazakhstan",
+      "uuid": "d12938fc-3aad-5a50-bf6a-6c3a81ba52f5",
+      "unesco_id": "1102",
+      "names": {
+        "en": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+        "fr": "Saryarka - Steppe et lacs du Kazakhstan septentrional",
+        "es": "Saryarka – Estepa y lagos del Kazajstán septentrional",
+        "ru": "Сары-Арка – степь и озера северного Казахстана",
+        "ar": "سارياركا – سُهب وبحيرات شمال كازاخستان",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin.",
+          "fr": "Saryarka – Steppe et lacs du Kazakhstan septentrional, comprend deux zones protégées : la Réserve naturelle d’Etat de Naurzum et la Réserve naturelle d’Etat de Korgalzhyn totalisant une surface de 450 344 ha. On y trouve des zones humides d’une importance exceptionnelle pour les oiseaux d’eaux, notamment des espèces en danger, comme la grue de Sibérie, le pélican frisé ou l’aigle de Pallas pour n’en citer que quelques-uns. Ces zones humides représentent un carrefour et des sites de repos essentiels sur les voies de migration d’oiseaux d’Asie centrale, des oiseaux d’eau venus d’Afrique, d’Europe ou d’Asie du sud vers leur site de reproduction en Sibérie occidentale et orientale. Les 200 000 ha de steppe d’Asie Centrale compris dans le site offrent un refuge à plus de la moitié de la flore de steppe de la région, à un bon nombre d’oiseaux menacés et à l’antilope saïga. En danger critique d’extinction, cette dernière espèce était autrefois abondante mais sa population a été dramatiquement réduite par le braconnage. Le site comprend aussi deux groupes de lacs d’eau douce et d’eau salée situés dans un bassin versant compris entre des rivières s’écoulant vers le nord et l’Arctique et vers le sud et le bassin Aral-Irtysh.",
+          "es": "Este sitio comprende dos zonas protegidas que totalizan una superficie de 450.344 hectáreas: la Reserva Natural Estatal de Naurzum y la Reserva Natural Estatal de Korgalzhyn. Ambas reservas poseen humedales de gran importancia para algunas aves acuáticas migratorias como la grulla blanca de Siberia –una especie sumamente rara– el pelícano de Dalmacia y el pigargo de Pallas, entre otras muchas más. Estos humedales son una encrucijada y una escala de importancia fundamental en la ruta migratoria seguida en el Asia Central por aves procedentes de África, Europa y Asia Meridional, que se dirigen hacia sus lugares de reproducción situados en el este y el oeste de Siberia. Las 200.000 hectáreas de estepa característica del Asia Central que comprende este sitio albergan más de la mitad de la flora esteparia de toda la región, así como algunas especies de pájaros amenazadas y el antílope saiga. Este mamífero en peligro de extinción era antaño muy abundante, pero su población se ha reducido en proporciones muy considerables a causa de la caza furtiva. El sitio posee también dos conjuntos de lagos de agua dulce y salada situados en la divisoria de las aguas entre ríos que fluyen hacia el Ártico, por el norte, y hacia las cuencas del Mar de Aral y del río Irtich, por el sur.",
+          "ru": "Объект включает два государственных природных заповедника «Наурзум» и «Коргалжин» общей площадью 450 344 га. Заболоченные земли, покрывающие большую часть территории объекта, чрезвычайно важны для жизнедеятельности перелетных водоплавающих птиц, среди которых целый ряд вымирающих видов. Достаточно упомянуть таких, как крайне редкий белый сибирский журавль, кудрявый пеликан и орлан-долгохвост. Этот район Центральной Азии, где сходятся маршруты перелетных птиц, направляющихся из Африки, Европы и Южной Азии к местам гнездования в западной и восточной Сибири, служит местом массовой остановки. 200 000 га центрально-азиатской степи, также вошедших в состав объекта, являются местом обитания более половины животных видов степной флоры региона, ряда видов исчезающих птиц, и особо охраняемого вида - сайги (разновидность антилопы), чье в прошлом богатое поголовье резко сократилось по причине браконьерства. Объект также включает две группы озер – с пресной и соленой водой. Они расположены на водоразделе, отделяющем реки, текущие на север - к Арктике, и на юг – к Арало-Иртышскому бассейну.",
+          "ar": "تشمل منطقتين محميتين: المحمية الطبيعية لولاية نورزوم والمحمية الطبيعية لولاية كورغالزهين، التي تبلغ مساحتهما معاً 344 450 هكتاراً. توجد في هذا الموقع مناطق رطبة ذات أهمية استثنائية بالنسبة لطيور الماء، ولا سيما الأنواع المهددة منها، مثل كركي سيبيريا، والبجع المجعَّد، وصقر بالاس وغيرها. تمثل هذه المناطق الرطبة ملتقى طرق ومواقع أساسية للراحة على طرق هجرة الطيور باتجاه آسيا الوسطى، وبالنسبة للطيور المائية المهاجرة من أفريقيا وأوروبا وآسيا الجنوبية نحو موقع تكاثرها في سيبيريا الغربية والشرقية. وتوفر سُهب آسيا الوسطى (000 200 هكتار) ضمن هذا الموقع، مأوىً لأكثر من نصف الأنواع النباتية المتواجدة في منطقة السُهب، ولعدد كبير من أنواع الطيور المهددة، وظبي سايغا المهدد بالانقراض، وكان في الماضي نوعاً منتشراً على نطاق واسع، لكنه تعرض طويلاً للصيد غير المشروع. وتشكل السُهب المنتمية إلى الموقع ضمن منطقة آسيا الوسطى – ونصفها بكر – جزءاً من المروج المعتدلة التي تعاني حالياً من تمثيل ضعيف على قائمة التراث العالمي. كما يشمل الموقع مجموعتين من بحيرات المياه العذبة والمياه المالحة القائمتين في مستجمع للمياه بين أنهار تجري باتجاه الشمال ومنطقة القطب الشمالي، وباتجاه الجنوب وحوض آرال – إرتيش.",
+          "zh": ""
+        },
+        "full": "Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin.",
+        "justification": "Values Saryarka - Steppe and Lakes of Northern Kazakhstan protects substantial, largely undisturbed areas of Central Asian steppe and lakes in the Korgalzhyn and Naurzum State Nature Reserves. The property’s wetland areas are of outstanding importance for migratory waterbirds, including substantial populations of globally threatened species, as they are key stopover points and crossroads on the Central Asian flyways. The property’s steppe areas provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope. Criterion (ix): Ongoing biological and ecological processes: The property contains substantial areas of steppe and lakes with largely undisturbed associated biological and ecological processes. The seasonal dynamics of the hydrology, chemistry and biology of the lakes, with the diverse flora and fauna of the wetlands have evolved through complex wetting and drying cycles, and are of global significance and scientific interest. The wetlands of Korgalzhyn and Naurzum State Nature Reserves are key stopover points and crossroads on the Central Asian migratory bird flyways and are of outstanding importance for migratory waterbirds on their way from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The property also contains over 200,000 ha of Central Asian steppe, more than half of which is pristine, and which is part of the temperate grassland biome. Criterion (x): Biological diversity and threatened species: Korgalzhyn and Naurzum State Nature Reserves protect large areas of natural steppe and lake habitats that sustain a diverse range of Central Asian flora and fauna and support vast numbers of migratory birds, including substantial populations of many globally threatened species. The Korgalzhyn-Tengiz lakes provide feeding grounds for up to 15-16 million birds, including flocks of up to 2.5 million geese. They also support up to 350,000 nesting waterfowl, while the Naurzum lakes support up to 500,000 nesting waterfowl. The property’s steppe areas provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, a once abundant species much reduced across its range by poaching pressure. Integrity The property contains high quality steppe and lake habitats that are essential for the long term conservation of the region’s biological diversity and each of its two component areas is of sufficient size to maintain associated biological and ecological processes. Korgalzhyn and Naurzum State Nature Reserves have benefited from long-term legal protection as strict nature reserves. Korgalzhyn is completely surrounded by a buffer zone, while Naurzum consists of three strictly protected areas, each surrounded by a buffer zone and linked together by an ecological corridor. The reserves are complementary in their values despite the 350 km distance between them. The property and the buffer zones, which are not part of the inscribed property, are adequately demarcated in the field. Requirements for Protection and Management The property has effective legal protection, is currently well managed and benefits from strong support and funding from the government and international partners. An integrated management plan has been developed for the property and the government has committed human and financial resources for its effective implementation. All land in the reserves is state owned and no permanent settlements are allowed. No uses of wild animals and plants are allowed and there is limited visitor access to the property. At present there are only few visitors to the property but tourism is likely to increase in the future and needs to be well planned and managed. Another key management priority is the maintenance of the hydrological regimes on which the viability of the property’s wetland ecosystems depend, in the case of Lake Tengiz primarily the inflows from the Nura River."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 450344,
+          "square_km": 4503.44,
+          "square_miles": 1822.48,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a8614810325f621cabb0fe2a42151726",
+          "filename": "site_1102_0005.jpg",
+          "dimensions": {
+            "width": 1000,
+            "height": 665
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/147329/site_1102_0005.jpg",
+            "https://whc.unesco.org/document/203865/site_1102_0012.jpg",
+            "https://whc.unesco.org/document/147326/site_1102_0002.jpg",
+            "https://whc.unesco.org/document/147327/site_1102_0003.jpg",
+            "https://whc.unesco.org/document/147328/site_1102_0004.jpg",
+            "https://whc.unesco.org/document/147330/site_1102_0006.jpg",
+            "https://whc.unesco.org/document/147331/site_1102_0007.jpg",
+            "https://whc.unesco.org/document/147332/site_1102_0008.jpg",
+            "https://whc.unesco.org/document/147333/site_1102_0009.jpg",
+            "https://whc.unesco.org/document/147334/site_1102_0010.jpg",
+            "https://whc.unesco.org/document/147335/site_1102_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Naurzum State Nature Reserve - NSNR Main Area Naurzum - Kargay Cluster",
+            "ref": "1102rev-001a",
+            "latitude": 51.4861111111,
+            "longitude": 64.3036111111
+          },
+          {
+            "name": "Naurzum State Nature Reserve – NSNR Eco-Corridor linking the upper cluster (only buffer zone)",
+            "ref": "1102rev-001d",
+            "latitude": 51.6272222222,
+            "longitude": 63.9875
+          },
+          {
+            "name": "Korgalzhyn State Nature Reserve – NSNR Cluster",
+            "ref": "1102rev-002",
+            "latitude": 50.4333333333,
+            "longitude": 69.1888888889
+          },
+          {
+            "name": "Naurzum State Nature Reserve – NSNR Sypsyn-Aebu Cluster",
+            "ref": "1102rev-001b",
+            "latitude": 51.3902777778,
+            "longitude": 63.8225
+          },
+          {
+            "name": "Naurzum State Nature Reserve – NSNR Tersek-Karagay Cluster",
+            "ref": "1102rev-001c",
+            "latitude": 51.7925,
+            "longitude": 63.8263888889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1102",
+        "unesco_documents": "https://whc.unesco.org/en/list/1102/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1102/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1102/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Saryarka – Steppe and Lakes of Northern Kazakhstan Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin. Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin. Kazakhstan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "petroglyphs_of_the_archaeological_landscape_of_tanbaly",
+      "uuid": "9e5a845d-bcb5-50ac-bd84-b7b097658770",
+      "unesco_id": "1145",
+      "names": {
+        "en": "Petroglyphs of the Archaeological Landscape of Tanbaly",
+        "fr": "Pétroglyphes du paysage archéologique de Tanbaly",
+        "es": "Petroglifos del paisaje arqueológico de Tanbaly",
+        "ru": "Петроглифы археологического ландшафта Танбалы",
+        "ar": "النقوش على الحجر في المنظر الأثري في تامغالي",
+        "zh": "泰姆格里考古景观岩刻"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Set around the lush Tanbaly Gorge, amidst the vast, arid Chu-Ili mountains, is a remarkable concentration of some 5,000 petroglyphs (rock carvings) dating from the second half of the second millennium BC to the beginning of the 20th century. Distributed among 48 complexes with associated settlements and burial grounds, they are testimonies to the husbandry, social organization and rituals of pastoral peoples. Human settlements in the site are often multilayered and show occupation through the ages. A huge number of ancient tombs are also to be found including stone enclosures with boxes and cists (middle and late Bronze Age), and mounds (kurgans) of stone and earth (early Iron Age to the present). The central canyon contains the densest concentration of engravings and what are believed to be altars, suggesting that these places were used for sacrificial offerings.",
+          "fr": "Les environs de la gorge de Tanbaly, relativement luxuriante par rapport aux vastes et arides monts Chu-Ili, recèlent une remarquable concentration de quelque 5 000 pétroglyphes (gravures sur pierre) ; leur datation va de la seconde moitié du deuxième millénaire av. J.-C. au début du XXe siècle. Répartis en 48 ensembles avec les sites funéraires et les peuplements associés, ils témoignent de l’élevage, de l’organisation sociale et des rituels des peuplades de pasteurs. Les vestiges des peuplements humains, souvent stratifiés en plusieurs couches, révèlent les activités à travers les âges. On y trouve également une grande abondance de sites funéraires antiques, dont des enceintes de pierres avec des urnes et des cistes (milieu et fin de l’âge de bronze) et des tertres de pierre et de terre (kugans) érigés au-dessus des tombes (des débuts de l’âge du fer jusqu’à l’époque actuelle). La gorge centrale contient la plus forte concentration de gravures et ce qui est estimé être des autels, suggérant que ces lieux étaient utilisés pour des offrandes sacrificielles.",
+          "es": "En las proximidades del desfiladero de Tanbaly–donde crece una vegetación relativamente frondosa en comparación con la de los vastos y áridos Montes Chu-Ili, en los que está encajonado– existe un notable conjunto de 5.000 petroglifos. Los primeros datan del segundo milenio antes de nuestra era y los últimos de principios del siglo XX. Están repartidos en 48 emplazamientos, donde existen vestigios de asentamientos humanos y sitios funerarios que constituyen un testimonio de los tipos de ganadería practicados por pueblos dedicados al pastoreo, así como de sus modos de organización social y ritos religiosos. Los vestigios de los asentamientos humanos presentan una estratificación en múltiples capas que atestiguan la ocupación del territorio a lo largo de las distintas eras de la humanidad. Se han encontrado también numerosos sitios funerarios con recintos en forma de cofre, o cámaras hechas con losas, que datan de mediados y finales de la Edad de Bronce, así como tumbas rematadas por kurgans, túmulos construidos con piedras y tierra. La concentración más densa de petroglifos se da en la parte central del desfiladero, donde también hay vestigios de presuntos altares que, al parecer, servían para ofrendar sacrificios.",
+          "ru": "В ущелье Танбалы, которое располагается посреди обширных засушливых Чу-Илийских гор, отмечено уникальное скопление около 5 тыс. петроглифов (наскальных рисунков), датируемых от второй половины 2-го тысячелетия до н.э до начала XX в. Здесь обнаружено огромное количество древних захоронений, включая каменные ящики-цисты (средний и поздний бронзовый век), а также курганы, сложенные из земли и камней (начиная с раннего железного века до настоящего времени). Центральный комплекс выделяется самой плотной концентрацией петроглифов и, предположительно, алтарей, что указывает на возможное церемониальное предназначение этого места для жертвоприношений.",
+          "ar": "تحتوي ضواحي وادي تامغالي الفخمة نسبيًا مُقارنةً مع جبال شو-ايلي الواسعة و الجافة على تجمِّعٍ مهمٍّ لخمسة آلاف نقشة على الحجر وتعود هذه النقوش إلى النّصف الثاني من القرن الثاني قبل الميلاد حتى بداية القرن العشرين. وبصفتها موزّعة على 48 مجموعة مع المواقع المأتميّة والأماكن المُرتبطة بها، تشهد على التربية والتنظيم الاجتماعي والديني لمجموعات الرهبان. وتكشف آثار المجموعات الانسانيّة المقسَّمة في أغلب الأحيان إلى عدّة طبقات، النشاطات التي كانوا يقومون بها على مرّ السّنين. كما نجد أيضًا العديد من المواقع المأتميّة القديمة، منها أسوارُ الحجار مع المرمدات والنواويس (من منتصف ونهاية العصر البرونزي) والتّلال الحجريّة والرملية (كوغان) التي نُصبت في أسفل القبور (من بدايات العصر الحديدي حتى نهاية العصر الحالي). ويحتوي المضيق المركزي على أكبر تجمّعٍ للنقوش ويرجّح أن تكون مذابحَ، أي أنَّ هذه الأماكن كانت تُستعمل للتّقديمات القربانيّة.",
+          "zh": "置身于泰姆格里大峡谷，在辽阔的群山环抱中，有一组值得注意的多达5000多件的岩石雕刻。其创作年代跨越公元前1000年到20世纪初整整3000年。这些作品散布在远古人类居住的建筑和坟墓的48个遗址上，反映了当地人耕种、社会组织和宗教仪式等情况。遗址中的人类住所通常是多层的，各个年代都有人居住。这里，还有大面积的古代墓群，其中包括带有盒形和箱形石坟的石围栏（铜器时代的中期和晚期），以及建在坟墓（铁器时代至今）上的土石堆（坟头）。峡谷中部有密集的雕版画，它们被认为是远古祭坛的遗迹，表明这些地方曾用于摆放祭品。"
+        },
+        "full": "Set around the lush Tanbaly Gorge, amidst the vast, arid Chu-Ili mountains, is a remarkable concentration of some 5,000 petroglyphs (rock carvings) dating from the second half of the second millennium BC to the beginning of the 20th century. Distributed among 48 complexes with associated settlements and burial grounds, they are testimonies to the husbandry, social organization and rituals of pastoral peoples. Human settlements in the site are often multilayered and show occupation through the ages. A huge number of ancient tombs are also to be found including stone enclosures with boxes and cists (middle and late Bronze Age), and mounds (kurgans) of stone and earth (early Iron Age to the present). The central canyon contains the densest concentration of engravings and what are believed to be altars, suggesting that these places were used for sacrificial offerings.",
+        "justification": "Brief synthesis Towards the western end of the Tienshan Mountains in the southeast of Kazakhstan, the Chu-Ili mountain spur forms a canyon around the Tanbaly Gorge. An abundance of springs, rich vegetation and shelter distinguishes the area from the arid mountains that fringe the border of Kazakhstan with Kyrgyzstan to the south, and from the flat dry plains of central Kazakhstan to the north. The Gorge and its surrounding rocky landscape, where shiny black stones rise up rhythmically in steps, have attracted pastoral communities since the Bronze Age, and have come to be imbued with strong symbolic associations. The Archaeological Landscape of Tanbaly features a remarkable concentration of some 5,000 petroglyphs, associated settlements and burial grounds, which together provide testimony to the husbandry, social organization and rituals of pastoral peoples from the Bronze Age right through to the early 20th century. The large size of the early petroglyphs, their unique images and the quality of their iconography sets them apart from the wealth of rock art in Central Asia. The property covers a roughly circular area of 900 ha and includes the 982m peak of Mt.Tanbaly. The Tanbaly River flows through the centre and out onto the plain below, to the north. Surrounding the property is a large buffer zone of 2900 ha, which to the northwest and southeast of the property includes outliers of the petroglyphs, and further burial mounds and ancient settlements. Petroglyphs on unsheltered rock faces, which have been formed using a picketing technique with stone or metal tools, are the most abundant monuments on the property. Images have been recorded in 48 different complexes, of which the most important are five complexes, displaying about 3,000 images. By far the most exceptional engravings come from the earliest period and are characterized by large figures deeply cut in a sharp way with a wide repertoires of images including unique forms such as solar deities, zoomorphic beings dressed in furs, syncretic subjects, disguised people, and a wide range of animals. The delineation of the property into a sacred core and outer residential periphery, combined with sacred images of sun-heads, altars, and enclosed cult areas, provide a unique assembly, which has maintained persistent sacred associations from the Bronze Age to the present day. Criterion (iii): The dense and coherent group of petroglyphs, with sacred images, altars and cult areas, together with their associated settlements and burial sites, provide a substantial testimony to the lives and beliefs of pastoral peoples of the central Asian steppes from the Bronze Age to the present day. Integrity The natural landscape creates a discrete and finite setting for the rock art. The whole of the concentrated central area and the immediate peripheral area have been included within the boundaries of the property. The Petroglyphs within Archaeological Landscape of Tanbaly still keeps its pristine character and essential natural and cultural features intact. It also has well-preserved cultural layers, representing the evidence of all the stages of development of this important cult centre of a large region. However, the road across the northern part of the property, constructed in the Soviet period, creates a visual intrusion that needs to be addressed. The concrete posts of the former electricity line and some modern sheepfolds have been removed after the inscription of the property on the World Heritage List. As development and settlement of neighbouring properties is proceeding rapidly, to protect the integrity of the landscape, strong planning and control regulations will need to be enforced to regulate the design, height and scale of new buildings and urban infrastructure. The main elements of the cultural landscape are the petroglyphs of the different levels of visibility (from bluish black ones of the Bronze and Early Iron Age to the light grey carvings of the latest time), the low stone-earth mounds and stone tombs hardly visible on the surface, the ruins of stone dwellings and enclosures. Despite of the fact that some parts of the rock massifs have traces of ancient destruction (Groups II-III) and modern graffiti (Groups IV-V), as a whole the gallery of petroglyphs preserved its integrity and representativeness. The traces of the past archaeological excavations (dump piles, shallow digs of the burials) are inconsiderable, partly removed and not noticeable in the whole context of the other sites and the landscape. The main threats to the physical integrity of the property come from weathering in combination with the geological formation of the rocks. Water ingress and stratification of the bedrock parallel to the surface make the rock face vulnerable to exfoliation. The high water table and its salinity also affect the bones and artefacts (grave goods) that can be found in the burials. These decay factors are also exacerbated by the extreme variation in temperatures daily and seasonally. There is also a threat of earthquake activity in the Almaty region, and fires in the steppes. In terms of human factors, uncontrolled visitation and graffiti pose a threat to the integrity of the component parts. Authenticity The natural and cultural features and setting of the property, Petroglyphs within Archaeological Landscape of Tanbaly, maintain a high degree of authenticity. All of the important components of the cultic centre are present and clearly legible. Protection and management requirements The Petroglyphs within Archaeological Landscape of Tanbaly is a Property of National Significance, inscribed on the List of Monuments of History and Culture in 2001. It is owned by the State and protected under the 1992 Law on the Protection and Use of Historical and Cultural Heritage. The property and its buffer zone are a territory of the State Archaeological Reserve of Tanbaly, a reserve-museum established under the Ministry of Culture of the Republic of Kazakhstan in 2003, as a permanent management agency for the property. The management authority has offices at the visitor centre on the territory adjacent to the buffer zone and comprises five departments: administration, scientific research, archive, logistics, and security services. A representative’s office for the reserve-museum is housed in the regional administrative centre of Usyn-Agash. The activities of the reserve-museum staff are focused on ensuring proper protection and conservation of the property and buffer zone, and its cultural and natural components. These activities are based on the property’s Management Plan, which is updated every five years and the General Concept for the State Reserve-Museums Development (2009). The activities are also focused on developing cooperation between all interested institutions in the fields of conservation, scientific research, tourism, education, among others. Among the current priorities of the reserve-museum is updating the management plan developed by the joint UNESCO- Norwegian-Kazakhstan project for the 2012-2017 period. The most important issues affecting the property’s protection and conservation will be considered in the context of this project."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 900,
+          "square_km": 9.0,
+          "square_miles": 3.642,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/58eb205d81d572648dddab243b91b0f5",
+          "filename": "site_1145_0007.jpg",
+          "dimensions": {
+            "width": 3008,
+            "height": 2000
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115295/site_1145_0007.jpg",
+            "https://whc.unesco.org/document/115296/site_1145_0008.jpg",
+            "https://whc.unesco.org/document/115297/site_1145_0009.jpg",
+            "https://whc.unesco.org/document/115298/site_1145_0010.jpg",
+            "https://whc.unesco.org/document/115299/site_1145_0011.jpg",
+            "https://whc.unesco.org/document/115300/site_1145_0012.jpg",
+            "https://whc.unesco.org/document/115301/site_1145_0013.jpg",
+            "https://whc.unesco.org/document/115302/site_1145_0014.jpg",
+            "https://whc.unesco.org/document/130055/site_1145_0016.jpg",
+            "https://whc.unesco.org/document/130056/site_1145_0017.jpg",
+            "https://whc.unesco.org/document/130057/site_1145_0018.jpg",
+            "https://whc.unesco.org/document/130058/site_1145_0019.jpg",
+            "https://whc.unesco.org/document/130059/site_1145_0020.jpg",
+            "https://whc.unesco.org/document/147312/site_1145_0022.jpg",
+            "https://whc.unesco.org/document/147313/site_1145_0023.jpg",
+            "https://whc.unesco.org/document/147314/site_1145_0024.jpg",
+            "https://whc.unesco.org/document/147315/site_1145_0025.jpg",
+            "https://whc.unesco.org/document/147316/site_1145_0026.jpg",
+            "https://whc.unesco.org/document/147317/site_1145_0027.jpg",
+            "https://whc.unesco.org/document/147318/site_1145_0028.jpg",
+            "https://whc.unesco.org/document/147319/site_1145_0029.jpg",
+            "https://whc.unesco.org/document/147320/site_1145_0030.jpg",
+            "https://whc.unesco.org/document/147321/site_1145_0031.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Petroglyphs of the Archaeological Landscape of Tanbaly",
+            "ref": "1145",
+            "latitude": 43.80333333,
+            "longitude": 75.535
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1145",
+        "unesco_documents": "https://whc.unesco.org/en/list/1145/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1145/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1145/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Petroglyphs of the Archaeological Landscape of Tanbaly Set around the lush Tanbaly Gorge, amidst the vast, arid Chu-Ili mountains, is a remarkable concentration of some 5,000 petroglyphs (rock carvings) dating from the second half of the second millennium BC to the beginning of the 20th century. Distributed among 48 complexes with associated settlements and burial grounds, they are testimonies to the husbandry, social organization and rituals of pastoral peoples. Human settlements in the site are often multilayered and show occupation through the ages. A huge number of ancient tombs are also to be found including stone enclosures with boxes and cists (middle and late Bronze Age), and mounds (kurgans) of stone and earth (early Iron Age to the present). The central canyon contains the densest concentration of engravings and what are believed to be altars, suggesting that these places were used for sacrificial offerings. Set around the lush Tanbaly Gorge, amidst the vast, arid Chu-Ili mountains, is a remarkable concentration of some 5,000 petroglyphs (rock carvings) dating from the second half of the second millennium BC to the beginning of the 20th century. Distributed among 48 complexes with associated settlements and burial grounds, they are testimonies to the husbandry, social organization and rituals of pastoral peoples. Human settlements in the site are often multilayered and show occupation through the ages. A huge number of ancient tombs are also to be found including stone enclosures with boxes and cists (middle and late Bronze Age), and mounds (kurgans) of stone and earth (early Iron Age to the present). The central canyon contains the densest concentration of engravings and what are believed to be altars, suggesting that these places were used for sacrificial offerings. Kazakhstan Asia and the Pacific Cultural"
+    }
+  ]
+}

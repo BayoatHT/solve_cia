@@ -1,0 +1,2008 @@
+{
+  "country": {
+    "code": "BOL",
+    "name": "Bolivia"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 6,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "jesuit_missions_of_the_chiquitos",
+      "uuid": "61e98bea-2e67-581d-95ce-51410751e1f3",
+      "unesco_id": "529",
+      "names": {
+        "en": "Jesuit Missions of the Chiquitos",
+        "fr": "Missions jésuites de Chiquitos",
+        "es": "Misiones jesuí­ticas de Chiquitos",
+        "ru": "Иезуитские миссии на землях индейцев чикитос",
+        "ar": "الإرساليات اليسوعية في محافظة الـ تشيكيتوس",
+        "zh": "奇基托斯耶稣传教区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the ‘ideal cities’ of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos.",
+          "fr": "Six ensembles de « réductions » (installations des Indiens christianisés) inspirées des cités idéales des philosophes du XVIe siècle que les jésuites fondèrent de 1696 à 1760 et où se mêlent étroitement architecture catholique et traditions locales, San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael et San José forment aujourd’hui un patrimoine toujours vivant sur l’ancien territoire des Chiquitos.",
+          "es": "Este sitio comprende seis reducciones fundadas por los jesuitas entre 1696 y 1760. La organización de estas poblaciones de indios convertidos al cristianismo se inspiró en las ciudades ideales de los filósofos del siglo XVI. El estilo de las construcciones es fruto de la fusión de la arquitectura católica con las tradiciones locales. Las seis poblaciones de San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael y San José, ubicadas en el antiguo territorio de los indios chiquitos, forman todaví­a hoy un patrimonio vivo.",
+          "ru": "В период с 1696 по 1760 гг. шесть ансамблей «редусьонес» (поселений обращенных в христианство индейцев) были созданы иезуитами, которые вдохновлялись мечтами об идеальных городах философов XVI в. Миссии были построены в стиле, соединявшем черты католической архитектуры и местные традиции. Эти шесть сохранившихся миссий – Сан-Франциско-Хавьер, Консепсьон, Санта-Ана, Сан-Мигель, Сан-Рафаэль и Сан-Хосе – представляют собой живое наследие индейцев чикитос.",
+          "ar": "أسس اليسوعيون بين العام 1696 و1760 ستّ مجّمعات من مستوطنات للهنود المعتنقين الديانة المسيحية، إسترشاداً بالمدن المثالية التي تصوّرها فلاسفة القرن السادس عشر. وتمزج هذه المستوطنات بين الأسلوب الهندسي الكاثوليكي والتقاليد المحلية. ولا تزال إرساليات سان فرانسيسكو خافيير، وكونسيبسيون، وسانتا آنا، وسان ميغيل، وسان رافائيل، وسان خوسيه تشكّل تراثاً حيّاً على أرض التشيكيتوس القديمة.",
+          "zh": "由于受到16世纪哲学家关于“理想城市”观念的影响，耶稣会的一些教士于1696至1760年间建立了六个当地基督教徒聚落，其建筑风格完美地融合了天主教建筑和当地传统。现存的六处遗址分别是圣弗朗西斯科哈维尔(San Francisco Javier)、康塞普西翁(Concepción)、圣阿尼娅(Santa Ana)、圣米格尔(Santa Ana)、圣拉斐尔(San Rafael)和圣霍斯(San José)，共同构成了前奇基托斯地区活的遗产。"
+        },
+        "full": "Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the ‘ideal cities’ of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos.",
+        "justification": "Brief Synthesis Between 1691 and 1760, a series of remarkable reducciones de indios (mission settlements of Christianized Indians) largely inspired by the “ideal cities” envisioned by 16th-century humanist philosophers was founded by the Society of Jesus in the Chiquitos territory of eastern Bolivia. Here on the semi-arid frontier of Spanish South America now known as Chiquitanía the Jesuits and their indigenous charges blended European architecture with local traditions. The six historic missions that remain intact – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – today make up a living yet vulnerable heritage in the territory of Chiquitanía. The idealized urban model for the missions featured houses for the Indians regularly spaced along the three sides of a rectangular square, with the fourth side reserved for the church, workshops and schools. The churches are remarkable examples of the adaptation of European Christian religious architecture to local conditions and traditions. They resemble large houses with a gable roof overhanging a west gallery extended as a porch. Long walls defining three interior aisles divided by wooden columns and two exterior galleries, also supported by columns, constitute a unique type of architecture, distinguished by the special treatment of the carved wooden columns and banisters. The church at San José is the only exception, being of stone construction and inspired stylistically by a baroque model. In addition to rich interior decoration, many of these churches house remarkable popular art objects such as sculptures, paintings, altars and pulpits. Unlike other Jesuit missions in South America, the Jesuit Missions of the Chiquitos survived the expulsion of the Society of Jesus in 1767, though by the 1850s the reducciones system of the missions had disappeared. These traditional architectural ensembles have more recently become vulnerable under the impact of changes following the agrarian reform of 1953 that threatened the local social and economic infrastructure. Criterion (iv): The churches of the Jesuit Missions of the Chiquitos in Bolivia, large houses with a double-sloping roof and large porch roof overhanging a west gallery, are a remarkable example of the adaptation of Christian religious architecture to local conditions and traditions. Long walls defining three interior naves divided by wooden columns and two exterior galleries, also supported by columns, constitute – except in the case of San José where construction, in stone, was inspired by a baroque model – a very unique type of architecture marked by the special treatment of the wooden columns and banisters. Criterion (v) : These traditional architectural ensembles, that often enclose remarkable popular art objects (e.g., at the church of Santa Ana), have become vulnerable under the impact of changes that threatened the Chiquitos populations following the agrarian reform of 1953. Integrity Within the boundaries of the Jesuit Missions of the Chiquitos are located all the elements necessary to express the Outstanding Universal Value of the property. The 7.160,75 has. that includes the urban centers of municipalities where are located the six Jesuit Missions of Chiquitos property’s boundaries are therefore adequate in size to ensure the complete representation of the features that convey the property’s significance, and the property does not suffer from adverse effects of development or neglect. Authenticity The Jesuit Missions of the Chiquitos is authentic in terms of the ensemble’s forms and designs, materials and substances, and locations and settings. Conservation and rehabilitation activities at the missions were undertaken from the 1970s through the 1990s by the Swiss architect Hans Roth and others. In general, the church restorations were oriented at structural reinforcement, restitution of lost parts, integration of murals, and recovery of mouldings and cornices (San Rafael, Santa Ana). Because the missions are located within villages, modernisation constitutes a permanent threat to the property. Protection and management requirements The Jesuit Missions of the Chiquitos were declared a National Monument of Bolivia by Decreto Supremo of 4 January 1950; Historical and Cultural Monuments of Bolivia by Law No. 2164 of 18 December 2000; and Cultural, Historical and Religious Heritage by the Autonomous Department of Santa Cruz by Law No. 42 of 23 April 2012. Commitments to preserve the missions were made in August 1990 by means of specific resolutions of the Committee Pro Santa Cruz and the Development Corporation of Santa Cruz (Corporación de Desarrollo de Santa Cruz: CORDECRUZ), and by Consejo de Plan Regulador Resolution No. 03/90 of the Board of Directors of the Council of the Regulating Board of Santa Cruz de la Sierra. Commitments to effect the adequate protection of the missions and their churches at the local level were made by Ordinance No. 9/90 of the Municipal Board of Concepción, Ordinance No. 10/90 of the Municipal Board of San Miguel de Velasco, Ordinance No. 11/90 of the Municipal Board of San José de Chiquitos, and Ordinance No. 12/90 of the Municipal Board of San Javier. There are no buffer zones for the inscribed property. The property is managed by the Ministry of Cultures of the Plurinational State of Bolivia. The Plan Misiones, Plan de Rehabilitación Integral de las Misiones Jesuíticas de Chiquitos (Comprehensive Rehabilitation Plan of the Jesuit Missions of Chiquitos) was created in 2007 by the Agencia Española de Cooperación Internacional (Spanish Agency for International Cooperation), the Diocese of San Ignacio de Velasco and the Vicariate of Ñuflo de Chávez. The central objective of the Plan Misiones has been to improve the living conditions of local people through the recovery, conservation and rehabilitation of the Chiquitano mission heritage. The plan has four main components: Planning, Regulations, Intervention, and Communication and Awareness. Building on a comprehensive heritage inventory, the Planning component includes Urban Management Plans (Planes de Ordenamiento Urbano (POU)) and Heritage Areas Revitalization Plans (Planes de Revitalización de Áreas Patrimoniales (PRAP)). These plans led to the identification and drafting of special plans such as the Improvement Plan for Housing and Public Spaces (Plan de Mejoramiento de Vivienda y Espacios Públicos (PMV)). Sustaining the Outstanding Universal Value of the property over time will require ensuring this value as well as the authenticity and integrity of the property are not compromised by modernisation or other identified or potential threats. Because the missions are located within villages, modernisation constitutes a permanent threat to the site. Legal protection had therefore to be strengthened."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1990,
+          "all_dates": [
+            1990
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1990,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a073c1dc2d1de3432740197bd6542f20",
+          "filename": "site_0529_0001-500-0-20151104160542.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 300
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110700/site_0529_0001.jpg",
+            "https://whc.unesco.org/document/110702/site_0529_0002.jpg",
+            "https://whc.unesco.org/document/110704/site_0529_0003.jpg",
+            "https://whc.unesco.org/document/110706/site_0529_0004.jpg",
+            "https://whc.unesco.org/document/110708/site_0529_0005.jpg",
+            "https://whc.unesco.org/document/110710/site_0529_0006.jpg",
+            "https://whc.unesco.org/document/110712/site_0529_0007.jpg",
+            "https://whc.unesco.org/document/110714/site_0529_0008.jpg",
+            "https://whc.unesco.org/document/110716/site_0529_0009.jpg",
+            "https://whc.unesco.org/document/110718/site_0529_0010.jpg",
+            "https://whc.unesco.org/document/110722/site_0529_0012.jpg",
+            "https://whc.unesco.org/document/110724/site_0529_0013.jpg",
+            "https://whc.unesco.org/document/110726/site_0529_0014.jpg",
+            "https://whc.unesco.org/document/110728/site_0529_0015.jpg",
+            "https://whc.unesco.org/document/110730/site_0529_0016.jpg",
+            "https://whc.unesco.org/document/110731/site_0529_0017.jpg",
+            "https://whc.unesco.org/document/110733/site_0529_0018.jpg",
+            "https://whc.unesco.org/document/110735/site_0529_0019.jpg",
+            "https://whc.unesco.org/document/110737/site_0529_0020.jpg",
+            "https://whc.unesco.org/document/110739/site_0529_0021.jpg",
+            "https://whc.unesco.org/document/110741/site_0529_0022.jpg",
+            "https://whc.unesco.org/document/110743/site_0529_0023.jpg",
+            "https://whc.unesco.org/document/110745/site_0529_0024.jpg",
+            "https://whc.unesco.org/document/110747/site_0529_0025.jpg",
+            "https://whc.unesco.org/document/110749/site_0529_0026.jpg",
+            "https://whc.unesco.org/document/110751/site_0529_0027.jpg"
+          ],
+          "count": 26
+        }
+      },
+      "components": {
+        "count": 6,
+        "locations": [
+          {
+            "name": "Mission of Santa Ana",
+            "ref": "529-003",
+            "latitude": -16.583559,
+            "longitude": -60.687518
+          },
+          {
+            "name": "Mission of San José",
+            "ref": "529-006",
+            "latitude": -17.845528,
+            "longitude": -60.741764
+          },
+          {
+            "name": "Mission of San Miguel",
+            "ref": "529-004",
+            "latitude": -16.698221,
+            "longitude": -60.968993
+          },
+          {
+            "name": "Mission of San Rafael",
+            "ref": "529-005",
+            "latitude": -16.786605,
+            "longitude": -60.674951
+          },
+          {
+            "name": "Mission of Concepción",
+            "ref": "529-002",
+            "latitude": -16.13531,
+            "longitude": -62.023439
+          },
+          {
+            "name": "Mission of San Francisco Javier",
+            "ref": "529-001",
+            "latitude": -16.274059,
+            "longitude": -62.505472
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/529",
+        "unesco_documents": "https://whc.unesco.org/en/list/529/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/529/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/529/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 35,
+        "inscription_year": 1990
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Jesuit Missions of the Chiquitos Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the ‘ideal cities’ of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos. Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the ‘ideal cities’ of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos. Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "qhapaq_nan_andean_road_system",
+      "uuid": "2f179b38-86d7-533e-8e4a-36ab67985b06",
+      "unesco_id": "1459",
+      "names": {
+        "en": "Qhapaq Ñan, Andean Road System",
+        "fr": "Qhapaq Ñan, réseau de routes andin",
+        "es": "Qhapaq Ñan - Sistema vial andino",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PER": {
+            "name": "Peru",
+            "iso2": "PE",
+            "iso3": "PER"
+          },
+          "CHL": {
+            "name": "Chile",
+            "iso2": "CL",
+            "iso3": "CHL"
+          },
+          "ECU": {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "iso3": "ECU"
+          },
+          "COL": {
+            "name": "Colombia",
+            "iso2": "CO",
+            "iso3": "COL"
+          },
+          "ARG": {
+            "name": "Argentina",
+            "iso2": "AR",
+            "iso3": "ARG"
+          },
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": true,
+        "country_count": 6
+      },
+      "descriptions": {
+        "short": {
+          "en": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+          "fr": "Ce grand réseau de routes de communication, de commerce et de défense parcourt plus de 30 000 km. Construit par les Incas sur plusieurs siècles et en partie basé sur une infrastructure préinca, ce réseau extraordinaire traversant l’un des terrains géographiques les plus difficiles du monde relie les sommets enneigés des Andes (à plus de 6 000 m) à la côte en passant par des forêts tropicales humides, des vallées fertiles et des déserts. Le Qhapac Ñan qui a atteint son extension maximale au XVe siècle s’étendait sur toute la longueur et la largeur des Andes. Le bien comprend 273 sites individuels s’étendant sur plus de 6 000 km. Ils ont été choisis pour illustrer les réalisations architecturales, techniques, politiques, sociales du réseau ainsi que son infrastructure associée, destinée au commerce, à l’hébergement et au stockage des marchandises, et des sites d’importance religieuse.",
+          "es": "Se trata de una vasta red viaria de unos 30.000 kilómetros construida a lo largo de varios siglos por los incas –aprovechando en parte infraestructuras preincaicas ya existentes– con vistas a facilitar las comunicaciones, los transportes y el comercio, y también con fines defensivos. Este extraordinario sistema de caminos se extiende por una de las zonas geográficas del mundo de mayores contrastes, desde las cumbres nevadas de los Andes que se yerguen a más de 6.000 metros de altitud hasta la costa del Pacífico, pasando por bosques tropicales húmedos, valles fértiles y desiertos de aridez absoluta. La red viaria alcanzó su máxima expansión en el siglo XV, llegando a extenderse por todo lo largo y ancho de la cordillera andina. El nuevo sitio del patrimonio mundial, que consta de 274 componentes y se extiende a lo largo de más de 5.000 kilómetros. Los componentes se han seleccionado para poner de relieve la importante función social y política de la red viaria; las obras maestras de arquitectura e ingeniería y las infraestructuras conexas dedicadas a las actividades mercantiles, el alojamiento y el almacenamiento de mercancías; y los sitios con un significado religioso.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.",
+        "justification": "Brief synthesis Qhapaq Ñan, Andean Road System is an extensive Inca communication, trade and defence network of roads and associated structures covering more than 30,000 kilometres. Constructed by the Prehispanic Andean communities over several centuries, the network reached its maximum expansion in the 15th century, during the consolidation of the Tawantinsuyu, when it spread across the length and breadth of the Andes. The network is based on four main routes, which originate from the central square of Cusco, the capital of the Tawantinsuyu. These main routes are connected to several other road networks of lower hierarchy, which created linkages and cross-connections. 137 component areas and 308 associated archaeological sites, covering 616.06 kilometers of the Qhapaq Ñan highlight the achievements of the Incas in architecture and engineering along with its associated infrastructure for trade, storage and accommodation as well as sites of religious significance. The road network was the outcome of a political project implemented by the Incas linking towns and centers of production and worship together under an economic, social and cultural programme in the service of the State. The Qhapaq Ñan, Andean Road System is an extraordinary road network through one of the world’s most extreme geographical terrains used over several centuries by caravans, travellers, messengers, armies and whole population groups amounting up to 40,000 people. It was the lifeline of the Tawantinsuyu, linking towns and centres of production and worship over long distances. Towns, villages and rural areas were thus integrated into a single road grid. Several local communities who remain traditional guardians and custodians of Qhapaq Ñan segments continue to safeguard associated intangible cultural traditions including languages. The Qhapaq Ñan by its sheer scale and quality of the road, is a unique achievement of engineering skills in most varied geographical terrains, linking snow-capped mountain ranges of the Andes, at an altitude of more than 6,600 metres high, to the coast, running through hot rainforests, fertile valleys and absolute deserts. It demonstrates mastery in engineering technology used to resolved myriad problems posed by the Andes variable landscape by means of variable road construction technologies, bridges, stairs, ditches and cobblestone pavings. Criterion (ii): The Qhapaq Ñan exhibits important processes of interchange of goods, communication and cultural traditions within a cultural area of the world which created a vast empire of up to 4,200km in extension at its height in the 15th century. It is based on the integration of prior Andean ancestral knowledge and the specifics of Andean communities and cultures forming a state organizational system that enabled the exchange of social, political and economic values for imperial policy. Several roadside structures provide lasting evidence of valuable resources and goods traded along the network, such as precious metals, muyu (spondylus shell), foodstuffs, military supplies, feathers, wood, coca and textiles transported from the areas where they were collected, produced or manufactured, to Inca centres of various types and to the capital itself. Several communities, who remain custodians of components of this vast Inca communication network, are living reminders of the exchange of cultural values and language. Criterion (iii): The Qhapaq Ñan is an exceptional and unique testimony to the Inca civilization based on the values and principles of reciprocity, redistribution and duality constructed in a singular system of organization called Tawantinsuyu. The road network was the life giving support to the Inca Empire integrated into the Andean landscape. As a testimony to the Inca Empire, it illustrates thousands of years of cultural evolution and was an omnipresent symbol of the Empire’s strength and extension throughout the Andes. This testimony influences the communities along the Qhapaq Ñan until today, in particular with relation to the social fabric of local communities and the cultural philosophies that give meaning to relationships among people and between people and the land. Most importantly, life is still defined by links among close kin and an ethic of mutual support. Criterion (iv): The Qhapaq Ñan, Andean Road System is an outstanding example of a type of technological ensemble which despite the most difficult geographical conditions created a continuous and functioning communication and trade system with exceptional technological and engineering skills in rural and remote settings. Several elements illustrate characteristic typologies in terms of walls, roads, steps, roadside ditches, sewage pipes, drains, etc., with construction methods unique to the Qhapaq Ñan while varying according to location and regional context. Many of these elements were standardized by the Inca State, which allowed for the control of equal conditions along the road network. Criterion (vi): The Qhapaq Ñan played an essential role in the organization of space and society in a wide geographical area along the Andes, where the roads were used as a means to share cultural values with outstanding intangible significance. The Qhapaq Ñan continues today to provide communities with a sense of identity and to enable their cultural practices, cultural expressions and traditional skills to continue to be transmitted from generation to generation. Members of these communities base their own existence on an Andean cosmovision, which is unique in the World. This cosmovision applies to all aspects of everyday life. Today, Qhapaq Ñan is directly associated with the intangible values shared by the communities in the Andean World, such as traditional trade, ritual practices, and the use of ancient technology, among others, which are living traditions and beliefs essential to the cultural identity of the communities concerned. The Andean Road System continues to serve its original functions of integration, communication, exchange and flow of goods and knowledge, and - despite the current modern trade and social changes - keeps its pertinence and importance throughout the centuries and its role as a cultural reference which contributes to reinforcing the identity within the Andean world. Integrity The series of sites inscribed as the best representation of the Qhapaq Ñan is exhaustive and illustrates the variety of typological, functional and communicative elements, which allow for a full understanding of its historic and contemporary role. The number of segments is adequate to communicate the key features of the heritage route, despite the fact that these are fragmented in individual site components, which represent the best preserved segments of the previously continuous road network. For a number of site components the condition of integrity remains vulnerable and it is recommended that the States Parties develop criteria to define minimum intactness in relation to the different technological and architectural categories identified and the different geographical regions and levels of remoteness. According to these criteria, the condition of integrity should be monitored in the future to ensure that intactness can be guaranteed in the long term and that the site components remain free from threats which may reduce the condition of integrity. To ensure that the distinct relations between different sites in terms of continuity despite their fragmentation can be well understood by future visitors, it is recommended that appropriate maps or a GIS system be developed which illustrates the functional and social relations between the different site components and highlights their role in the overall Qhapaq Ñan network. Authenticity The authenticity of the Qhapaq Ñan component sites is very high in that the characteristic features retain their form and design and the variety of specific well-preserved types of architectural and engineering achievements facilitate communication of the overall form and design of the network. The materials used are mainly stone and earth, with stone type varying from region to region, and repair and maintenance measures where necessary are undertaken in traditional techniques and material. These are predominantly driven by the local populations, who remain knowledgeable in traditional road management techniques and who are the key partners in maintaining the roadbed and associated features. At sites which have been of specific archaeological or cultural interest professional stabilization and restoration techniques have been applied and implemented with great respect to the original materials and substance. On the road sections, local management systems govern decision-making processes, often with a large degree of community involvement and these have retained highest degrees of authenticity as reuse of the historic materials remains more efficient than the introduction of new materials. The setting and visual surroundings of most of Qhapaq Ñan’s components is very good and in many cases pristine. For several summit ceremonial sites, settings include horizon ranges of 360 degrees for many kilometres in all directions. The Qhapaq Ñan also passes through very beautiful landscapes, the beauty of which depends on fragile view sheds associated which need to be monitored to ensure that any modern developments in the landscape have as minimal visual impact as possible. Several sites are difficult to access and their remoteness has over centuries preserved them in a very good condition. A majority of Qhapaq Ñan components is located in rural settings which fortunately left them free of noticeable modern intrusions. Associated intangible values and management practices remain very strong, especially in the most remote sections of the road network and contribute to the safeguarding of authentic management mechanisms. The information sources of spirit and feeling as well as atmosphere are very relevant as many of the communities have strong associations to the Qhapaq Ñan and continue to remain guardians of some of the ceremonial structures. Protection and management requirements As a transnational serial property the Qhapaq Ñan covers the jurisdiction of six countries at national and local levels, including, in one instance, regulations of seven regional authorities. A number of international joint declarations and Statements of Commitment have been signed by the participating States Parties between 2010 and 2012 which highlight their agreement to protect the segments of the Qhapaq Ñan at the highest possible level. The protection put in place in light of these agreements follow the respective national heritage legislations and provide protection at the highest national level to all property components. The States Parties have designed two overarching management frameworks, one for the candidature phase of the nomination and a second that will become operational once the inscription is achieved. The preparation phase was guided by a Paris-based international Coordination Committee while the overarching management framework following World Heritage inscription is guided by regional networks among the participating States Parties. The State Party of Peru committed to support the establishment of a technical coordination secretariat where information will be gathered and communicated to the experts in all Qhapaq Ñan states and where frequent meetings among the technical experts will be organized. Within the national contexts management systems have been developed in cooperation with the local communities and include concerns of perpetuation of the living traditions associated with the Qhapaq Ñan. The majority of these are traditional management systems which have been in existence for centuries and have developed from the local community levels to more formalized agreements with the concerned governmental authorities. The importance of preserving the actual road trace in areas that are being cultivated by the communities should be highlighted as part of the management agreements. Several local communities explicitly expressed their interest in tourism activities which they intend to be managed and driven at the community level. Limited presentation and interpretation facilities are at present available along the Qhapaq Ñan and local communities sharing their experiences and stories with visitors are a key basis of interpretation. Some territories of the Qhapaq Ñan, Andean Road System are seismically active areas and especially the architectural structures seem to be endangered by earthquakes. Adequate risk protection schemes need to be developed to ensure safety of humans as well as cultural resources in the event of natural disasters. An overall policy framework for the Qhapaq Ñan was created with the Management Strategy document undersigned at high level by the six States Parties on 29 November 2012. In addition to this multinational agreement management plans are intended to be developed at a regional level for each individual section of the road network. The management strategy framework illustrates the initial implementation of key management aspects, in particular the social and participation strategies intended to enable local communities to develop owner- and guardianship of the Qhapaq Ñan and its serial components. Further management and conservation plan components remain under development and should integrate adequate risk preparedness and disaster management as well as visitor management strategies."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            4
+          ],
+          "display": "(ii)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3642.8067,
+          "square_km": 36.43,
+          "square_miles": 14.742,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2014,
+          "all_dates": [
+            2014
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2014,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/56195c2fc3c25e375e33ff406a1ede86",
+          "filename": "site_1459_0065-500-0-20241107142213.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209587/site_1459_0065.jpg",
+            "https://whc.unesco.org/document/209588/site_1459_0066.jpg",
+            "https://whc.unesco.org/document/209589/site_1459_0067.jpg",
+            "https://whc.unesco.org/document/209590/site_1459_0068.jpg",
+            "https://whc.unesco.org/document/209591/site_1459_0069.jpg",
+            "https://whc.unesco.org/document/209592/site_1459_0070.jpg",
+            "https://whc.unesco.org/document/209593/site_1459_0071.jpg",
+            "https://whc.unesco.org/document/129445/site_1459_0001.jpg",
+            "https://whc.unesco.org/document/129446/site_1459_0002.jpg",
+            "https://whc.unesco.org/document/129447/site_1459_0003.jpg",
+            "https://whc.unesco.org/document/129448/site_1459_0004.jpg",
+            "https://whc.unesco.org/document/129449/site_1459_0005.jpg",
+            "https://whc.unesco.org/document/129450/site_1459_0006.jpg",
+            "https://whc.unesco.org/document/129451/site_1459_0007.jpg",
+            "https://whc.unesco.org/document/129452/site_1459_0008.jpg",
+            "https://whc.unesco.org/document/129453/site_1459_0009.jpg",
+            "https://whc.unesco.org/document/129454/site_1459_0010.jpg",
+            "https://whc.unesco.org/document/129455/site_1459_0011.jpg",
+            "https://whc.unesco.org/document/129456/site_1459_0012.jpg",
+            "https://whc.unesco.org/document/129457/site_1459_0013.jpg",
+            "https://whc.unesco.org/document/129458/site_1459_0014.jpg",
+            "https://whc.unesco.org/document/129459/site_1459_0015.jpg",
+            "https://whc.unesco.org/document/129482/site_1459_0021.jpg",
+            "https://whc.unesco.org/document/129483/site_1459_0022.jpg",
+            "https://whc.unesco.org/document/129484/site_1459_0023.jpg",
+            "https://whc.unesco.org/document/129485/site_1459_0024.jpg",
+            "https://whc.unesco.org/document/129486/site_1459_0025.jpg",
+            "https://whc.unesco.org/document/129487/site_1459_0026.jpg",
+            "https://whc.unesco.org/document/129488/site_1459_0027.jpg",
+            "https://whc.unesco.org/document/129489/site_1459_0028.jpg",
+            "https://whc.unesco.org/document/129490/site_1459_0029.jpg",
+            "https://whc.unesco.org/document/129491/site_1459_0030.jpg",
+            "https://whc.unesco.org/document/129492/site_1459_0031.jpg",
+            "https://whc.unesco.org/document/129493/site_1459_0032.jpg",
+            "https://whc.unesco.org/document/129494/site_1459_0033.jpg",
+            "https://whc.unesco.org/document/129495/site_1459_0034.jpg",
+            "https://whc.unesco.org/document/129496/site_1459_0035.jpg",
+            "https://whc.unesco.org/document/129497/site_1459_0036.jpg",
+            "https://whc.unesco.org/document/129499/site_1459_0037.jpg",
+            "https://whc.unesco.org/document/129500/site_1459_0038.jpg",
+            "https://whc.unesco.org/document/129501/site_1459_0039.jpg",
+            "https://whc.unesco.org/document/129502/site_1459_0040.jpg",
+            "https://whc.unesco.org/document/129503/site_1459_0041.jpg",
+            "https://whc.unesco.org/document/129504/site_1459_0042.jpg",
+            "https://whc.unesco.org/document/129505/site_1459_0043.jpg",
+            "https://whc.unesco.org/document/129506/site_1459_0044.jpg",
+            "https://whc.unesco.org/document/129507/site_1459_0045.jpg",
+            "https://whc.unesco.org/document/129508/site_1459_0046.jpg",
+            "https://whc.unesco.org/document/129509/site_1459_0047.jpg",
+            "https://whc.unesco.org/document/129510/site_1459_0048.jpg",
+            "https://whc.unesco.org/document/129511/site_1459_0049.jpg",
+            "https://whc.unesco.org/document/129512/site_1459_0050.jpg",
+            "https://whc.unesco.org/document/129513/site_1459_0051.jpg",
+            "https://whc.unesco.org/document/129514/site_1459_0052.jpg",
+            "https://whc.unesco.org/document/129515/site_1459_0053.jpg",
+            "https://whc.unesco.org/document/129516/site_1459_0054.jpg",
+            "https://whc.unesco.org/document/129517/site_1459_0055.jpg",
+            "https://whc.unesco.org/document/129518/site_1459_0056.jpg",
+            "https://whc.unesco.org/document/129519/site_1459_0057.jpg",
+            "https://whc.unesco.org/document/129520/site_1459_0058.jpg",
+            "https://whc.unesco.org/document/129521/site_1459_0059.jpg",
+            "https://whc.unesco.org/document/129522/site_1459_0060.jpg",
+            "https://whc.unesco.org/document/129523/site_1459_0061.jpg",
+            "https://whc.unesco.org/document/129524/site_1459_0062.jpg",
+            "https://whc.unesco.org/document/129525/site_1459_0063.jpg",
+            "https://whc.unesco.org/document/129526/site_1459_0064.jpg"
+          ],
+          "count": 66
+        }
+      },
+      "components": {
+        "count": 137,
+        "locations": [
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cerro Vicuña- Quebrada La Tuna)",
+            "ref": "1459-047",
+            "latitude": -26.55,
+            "longitude": -69.7833333333
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llano San Juan-Llanada San Juan)",
+            "ref": "1459-036",
+            "latitude": -26.3333333333,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del Inca Sur -Cerro Bonete)",
+            "ref": "1459-046",
+            "latitude": -26.5166666667,
+            "longitude": -69.75
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Llanada San Juan-Quebrada La Sal)",
+            "ref": "1459-037",
+            "latitude": -26.35,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Quebrada La Sal – Tambo La Sal)",
+            "ref": "1459-038",
+            "latitude": -26.3666666667,
+            "longitude": -69.6
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Quebrada La Tuna-Casa de Domeyko)",
+            "ref": "1459-048",
+            "latitude": -26.5666666667,
+            "longitude": -69.8
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Portal del Inca – Llano San Juan)",
+            "ref": "1459-035",
+            "latitude": -26.3,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-049",
+            "latitude": -26.6,
+            "longitude": -69.8333333333
+          },
+          {
+            "name": "Segment Pampa del Inca-Finca de Chañaral (Sector Casa de Domeyko - Finca Chañaral)",
+            "ref": "1459-050",
+            "latitude": -26.6333333333,
+            "longitude": -69.85
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Cuesta Topon Azul Llano de Topon Azul)",
+            "ref": "1459-041",
+            "latitude": -26.4,
+            "longitude": -69.65
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Tambo el Jardín – Cuesta Topon Azul)",
+            "ref": "1459-040",
+            "latitude": -26.3833333333,
+            "longitude": -69.6333333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano de Topon Azul Sierra Caballo Muerto)",
+            "ref": "1459-042",
+            "latitude": -26.4166666667,
+            "longitude": -69.6666666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto- Llano del Inca Norte)",
+            "ref": "1459-043",
+            "latitude": -26.4333333333,
+            "longitude": -69.6833333333
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Llano del inca Norte-Sierra Caballo Muerto Oeste)",
+            "ref": "1459-044",
+            "latitude": -26.4666666667,
+            "longitude": -69.7166666667
+          },
+          {
+            "name": "Segment Río de La Sal - Pampa del Inca (Sector Sierra Caballo Muerto Oeste - Llano del Inca Sur)",
+            "ref": "1459-045",
+            "latitude": -26.5,
+            "longitude": -69.7333333333
+          },
+          {
+            "name": "La Paz",
+            "ref": "1459-054",
+            "latitude": 0.9,
+            "longitude": -77.55
+          },
+          {
+            "name": "Rumichaca",
+            "ref": "1459-051",
+            "latitude": 0.8,
+            "longitude": -77.65
+          },
+          {
+            "name": "San Pedro",
+            "ref": "1459-052",
+            "latitude": 0.8166666667,
+            "longitude": -77.55
+          },
+          {
+            "name": "Chitarran",
+            "ref": "1459-055",
+            "latitude": 0.9,
+            "longitude": -77.45
+          },
+          {
+            "name": "Inantaz",
+            "ref": "1459-058",
+            "latitude": 1.1,
+            "longitude": -77.4
+          },
+          {
+            "name": "La Cofradía",
+            "ref": "1459-053",
+            "latitude": 0.9,
+            "longitude": -77.5666666667
+          },
+          {
+            "name": "Los Ajos",
+            "ref": "1459-059",
+            "latitude": 1.1333333333,
+            "longitude": -77.35
+          },
+          {
+            "name": "Rosal de Chapal",
+            "ref": "1459-056",
+            "latitude": 0.9333333333,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Rumichaca",
+            "ref": "1459-060",
+            "latitude": 0.813553,
+            "longitude": -77.664324
+          },
+          {
+            "name": "Guapuscal Bajo",
+            "ref": "1459-057",
+            "latitude": 1.05,
+            "longitude": -77.4166666667
+          },
+          {
+            "name": "Segment Tiwanacu",
+            "ref": "1459-015",
+            "latitude": -16.55,
+            "longitude": -68.6666666667
+          },
+          {
+            "name": "Segment Ranchillos",
+            "ref": "1459-012",
+            "latitude": -32.6,
+            "longitude": -69.4666666667
+          },
+          {
+            "name": "Segment Turi Norte",
+            "ref": "1459-027",
+            "latitude": -22.2166666667,
+            "longitude": -68.2666666667
+          },
+          {
+            "name": "Segment Cupo-Topain",
+            "ref": "1459-026",
+            "latitude": -22.15,
+            "longitude": -68.3
+          },
+          {
+            "name": "Segment Pulcas - Troya A",
+            "ref": "1459-061",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Pulcas - Troya B",
+            "ref": "1459-062",
+            "latitude": 0.75,
+            "longitude": -77.6833333333
+          },
+          {
+            "name": "Segment Chiwuanquiri",
+            "ref": "1459-106",
+            "latitude": -14.3666666667,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Catarpe Norte",
+            "ref": "1459-028",
+            "latitude": -22.8333333333,
+            "longitude": -68.2166666667
+          },
+          {
+            "name": "Segment Pimán - Caranqui",
+            "ref": "1459-067",
+            "latitude": 0.3666666667,
+            "longitude": -78.0833333333
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-124",
+            "latitude": -9.5,
+            "longitude": -77.0166666667
+          },
+          {
+            "name": "Segment Ayash - Taulli",
+            "ref": "1459-125",
+            "latitude": -9.4833333333,
+            "longitude": -77.0333333333
+          },
+          {
+            "name": "Segment Puente del Inca",
+            "ref": "1459-013",
+            "latitude": -32.8166666667,
+            "longitude": -69.9
+          },
+          {
+            "name": "Segment Jayllihuaya-Ichu",
+            "ref": "1459-092",
+            "latitude": -15.8666666667,
+            "longitude": -69.95
+          },
+          {
+            "name": "Segment Aypate - El Arco",
+            "ref": "1459-137",
+            "latitude": -4.7,
+            "longitude": -79.5666666667
+          },
+          {
+            "name": "Segment Mamamag - Mamamag",
+            "ref": "1459-074",
+            "latitude": -2.8166666667,
+            "longitude": -79.2
+          },
+          {
+            "name": "Segment Masho - Piticocha",
+            "ref": "1459-108",
+            "latitude": -12.0666666667,
+            "longitude": -76.0
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-115",
+            "latitude": -12.0666666667,
+            "longitude": -76.7666666667
+          },
+          {
+            "name": "Segment Molle - Huarangal",
+            "ref": "1459-116",
+            "latitude": -12.0833333333,
+            "longitude": -76.75
+          },
+          {
+            "name": "Segment Taulli - Tambillo",
+            "ref": "1459-126",
+            "latitude": -9.45,
+            "longitude": -77.0666666667
+          },
+          {
+            "name": "Segment Loma Virgen - Chiquito",
+            "ref": "1459-065",
+            "latitude": 0.5333333333,
+            "longitude": -78.0666666667
+          },
+          {
+            "name": "Segment Pomata-Chaca Chaca",
+            "ref": "1459-095",
+            "latitude": -16.3,
+            "longitude": -69.2666666667
+          },
+          {
+            "name": "Segment Tambillo - Pincosh",
+            "ref": "1459-127",
+            "latitude": -9.4333333333,
+            "longitude": -77.0833333333
+          },
+          {
+            "name": "Segment Pariachuco - Tauli",
+            "ref": "1459-135",
+            "latitude": -8.3166666667,
+            "longitude": -77.8166666667
+          },
+          {
+            "name": "Segment Llano de los Leones",
+            "ref": "1459-010",
+            "latitude": -29.0833333333,
+            "longitude": -69.3333333333
+          },
+          {
+            "name": "Segment Kallamarka-Apacheta",
+            "ref": "1459-016",
+            "latitude": -16.6333333333,
+            "longitude": -68.5333333333
+          },
+          {
+            "name": "Segment Juan Montalvo - Cabuyal",
+            "ref": "1459-066",
+            "latitude": 0.5833333333,
+            "longitude": -78.1
+          },
+          {
+            "name": "Segment Llaviuco - Llaviuco",
+            "ref": "1459-073",
+            "latitude": -2.8333333333,
+            "longitude": -79.15
+          },
+          {
+            "name": "Segment Huaricashash - Isco",
+            "ref": "1459-120",
+            "latitude": -9.7666666667,
+            "longitude": -76.8833333333
+          },
+          {
+            "name": "Segment Inka Hamash - Ayash",
+            "ref": "1459-123",
+            "latitude": -9.5333333333,
+            "longitude": -76.9833333333
+          },
+          {
+            "name": "Segment Las Peras-Sauzalito",
+            "ref": "1459-004",
+            "latitude": -24.8166666667,
+            "longitude": -66.15
+          },
+          {
+            "name": "Segment Desaguadero Titijoni",
+            "ref": "1459-014",
+            "latitude": -16.55,
+            "longitude": -69.0166666667
+          },
+          {
+            "name": "Segment La Paz - Quebrada Tupala",
+            "ref": "1459-064",
+            "latitude": 0.5,
+            "longitude": -77.85
+          },
+          {
+            "name": "Segment Paucarcolla-Yanamayo",
+            "ref": "1459-090",
+            "latitude": -15.7666666667,
+            "longitude": -70.05
+          },
+          {
+            "name": "Segment Canrash - Torrepampa",
+            "ref": "1459-131",
+            "latitude": -8.9,
+            "longitude": -77.3166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Tastil",
+            "ref": "1459-002",
+            "latitude": -24.45,
+            "longitude": -65.95
+          },
+          {
+            "name": "Segment Angualasto-Colangüil",
+            "ref": "1459-009",
+            "latitude": -30.05,
+            "longitude": -69.1666666667
+          },
+          {
+            "name": "Segment Mariscal Sucre - El Tambo",
+            "ref": "1459-063",
+            "latitude": 0.5833333333,
+            "longitude": -77.7333333333
+          },
+          {
+            "name": "Segment Paredones - Paredones",
+            "ref": "1459-075",
+            "latitude": -2.7333333333,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Kutacoca-Choquequirao",
+            "ref": "1459-105",
+            "latitude": -13.35,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Pucará del Aconquija",
+            "ref": "1459-007",
+            "latitude": -27.7,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Ccaje-Sisipampa-Pomata",
+            "ref": "1459-094",
+            "latitude": -16.25,
+            "longitude": -69.3
+          },
+          {
+            "name": "Segment Casila Alto - Chillaco",
+            "ref": "1459-110",
+            "latitude": -12.0666666667,
+            "longitude": -76.5166666667
+          },
+          {
+            "name": "Segment Tambo Chico - Taparaku",
+            "ref": "1459-121",
+            "latitude": -9.6666666667,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Campana Pucará - Quitoloma",
+            "ref": "1459-068",
+            "latitude": -0.05,
+            "longitude": -78.2
+          },
+          {
+            "name": "Segment Machucucho-Choquecancha",
+            "ref": "1459-098",
+            "latitude": -13.0333333333,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Choquecancha-Paucarpata",
+            "ref": "1459-099",
+            "latitude": -13.0166666667,
+            "longitude": -72.0333333333
+          },
+          {
+            "name": "Segment Otutococha - QÑ-HH-051",
+            "ref": "1459-129",
+            "latitude": -9.1166666667,
+            "longitude": -77.2
+          },
+          {
+            "name": "Segment Machaqmarka-Raqchi-Qquea",
+            "ref": "1459-087",
+            "latitude": -14.1666666667,
+            "longitude": -71.35
+          },
+          {
+            "name": "Segment Vitkus-Abra Choqetakarpu",
+            "ref": "1459-102",
+            "latitude": -13.15,
+            "longitude": -72.9
+          },
+          {
+            "name": "Segment QÑ-HH-051 - Inca Misana",
+            "ref": "1459-130",
+            "latitude": -9.0666666667,
+            "longitude": -77.2333333333
+          },
+          {
+            "name": "Subsection Achupallas - Ingapirca",
+            "ref": "1459-069",
+            "latitude": -2.3333333333,
+            "longitude": -78.7833333333
+          },
+          {
+            "name": "Segment Hierba Buena-Hierba Buena",
+            "ref": "1459-076",
+            "latitude": -2.7166666667,
+            "longitude": -79.4166666667
+          },
+          {
+            "name": "Segment San Antonio - San Antonio",
+            "ref": "1459-077",
+            "latitude": -2.9,
+            "longitude": -79.4
+          },
+          {
+            "name": "Segment Arbolera-Parcco Chua Chua",
+            "ref": "1459-096",
+            "latitude": -16.4166666667,
+            "longitude": -69.1333333333
+          },
+          {
+            "name": "Segment Abra Choqetakarpu-Toroyoq",
+            "ref": "1459-104",
+            "latitude": -13.7333333333,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Taparaku - Tambo de Llata",
+            "ref": "1459-122",
+            "latitude": -9.6333333333,
+            "longitude": -76.95
+          },
+          {
+            "name": "Segment Quinrraycueva - Pariachuco",
+            "ref": "1459-134",
+            "latitude": -8.3833333333,
+            "longitude": -77.7666666667
+          },
+          {
+            "name": "Subsection Los Corrales-Las Pircas",
+            "ref": "1459-008",
+            "latitude": -28.8666666667,
+            "longitude": -67.9333333333
+          },
+          {
+            "name": "Segment Santa Martha - Santa Martha",
+            "ref": "1459-078",
+            "latitude": -2.9166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Botija Paqui - Botija Paqui",
+            "ref": "1459-079",
+            "latitude": -2.6833333333,
+            "longitude": -79.55
+          },
+          {
+            "name": "Segment Ciudadela - Vinoyaco Grande",
+            "ref": "1459-081",
+            "latitude": -3.7333333333,
+            "longitude": -79.25
+          },
+          {
+            "name": "Segment Inca Mach’ay-Samarinapata",
+            "ref": "1459-103",
+            "latitude": -13.2,
+            "longitude": -72.8833333333
+          },
+          {
+            "name": "Segment Quebrada Verde - Pachacamac",
+            "ref": "1459-117",
+            "latitude": -12.253358,
+            "longitude": -76.904472
+          },
+          {
+            "name": "Segment El Tambo - Honorato Vásquez",
+            "ref": "1459-071",
+            "latitude": -2.5166666667,
+            "longitude": -78.9166666667
+          },
+          {
+            "name": "Segment Santa Rosa de Chontay - Molle",
+            "ref": "1459-114",
+            "latitude": -12.0333333333,
+            "longitude": -76.7166666667
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-118",
+            "latitude": -9.8833333333,
+            "longitude": -76.8
+          },
+          {
+            "name": "Segment Huánuco Pampa - Huaricashash",
+            "ref": "1459-119",
+            "latitude": -9.85,
+            "longitude": -76.85
+          },
+          {
+            "name": "Segment Cotocancha - Alturas de Torre",
+            "ref": "1459-133",
+            "latitude": -8.75,
+            "longitude": -77.45
+          },
+          {
+            "name": "Segment Quebrada Grande-Las escaleras",
+            "ref": "1459-001",
+            "latitude": -23.3666666667,
+            "longitude": -64.9666666667
+          },
+          {
+            "name": "Segment Caragshillo - Cañaro - Tuncarta",
+            "ref": "1459-080",
+            "latitude": -3.604644,
+            "longitude": -79.221228
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-111",
+            "latitude": -12.0166666667,
+            "longitude": -76.65
+          },
+          {
+            "name": "Segment Sisicaya - Santa Rosa de Chontay",
+            "ref": "1459-112",
+            "latitude": -12.0166666667,
+            "longitude": -76.6666666667
+          },
+          {
+            "name": "Subsection Abra de ChaupiyacoLas Capillas",
+            "ref": "1459-003",
+            "latitude": -24.5833333333,
+            "longitude": -66.0333333333
+          },
+          {
+            "name": "Segment San José - Llamacanchi - Las Limas",
+            "ref": "1459-083",
+            "latitude": -4.5166666667,
+            "longitude": -79.4333333333
+          },
+          {
+            "name": "Segment Complejo Arqueológico La Ciudacita",
+            "ref": "1459-006",
+            "latitude": -27.1666666667,
+            "longitude": -66.0
+          },
+          {
+            "name": "Segment Palcañán Grande - Palcañán Chico",
+            "ref": "1459-070",
+            "latitude": -2.3166666667,
+            "longitude": -78.8
+          },
+          {
+            "name": "Segment San Juan de Tantaranche - Huarochiri",
+            "ref": "1459-109",
+            "latitude": -12.1333333333,
+            "longitude": -76.2166666667
+          },
+          {
+            "name": "Subsection Ciénaga de Yalguaraz-San Alberto",
+            "ref": "1459-011",
+            "latitude": -32.1,
+            "longitude": -69.35
+          },
+          {
+            "name": "Segment Cusipata-Santa Cruz de Occobamba Norte",
+            "ref": "1459-086",
+            "latitude": -13.95,
+            "longitude": -71.4833333333
+          },
+          {
+            "name": "Segment Complejo Ceremonial Volcán Llullaillaco",
+            "ref": "1459-005",
+            "latitude": -24.7,
+            "longitude": -68.5166666667
+          },
+          {
+            "name": "Segment Peine Norte (Sector Tambillo Verde Peine)",
+            "ref": "1459-034",
+            "latitude": -23.6333333333,
+            "longitude": -68.05
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Socoroma-Tantalcollo)",
+            "ref": "1459-018",
+            "latitude": -18.2833333333,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Collcas de Zapahuira)",
+            "ref": "1459-020",
+            "latitude": -18.35,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Socoroma Sur (Sector Tantalcollo-Zapahuira)",
+            "ref": "1459-019",
+            "latitude": -18.3166666667,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Putre Sur (Sector Quebrada de AromaSocoroma)",
+            "ref": "1459-017",
+            "latitude": -18.25,
+            "longitude": -69.5833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Bajada Lasana - Lasana)",
+            "ref": "1459-025",
+            "latitude": -22.25,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Llano Camar – Camar Sur)",
+            "ref": "1459-030",
+            "latitude": -23.4333333333,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Cerro de Cojitambo (Loma Curiquinga) - Rumiurco",
+            "ref": "1459-072",
+            "latitude": -2.7833333333,
+            "longitude": -78.85
+          },
+          {
+            "name": "Segment Camar Sur (Sector Tambo de Camar – Llano Camar)",
+            "ref": "1459-029",
+            "latitude": -23.4166666667,
+            "longitude": -67.9833333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Lasana Norte – Los Chorros)",
+            "ref": "1459-023",
+            "latitude": -22.1833333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Subsection Quebrada Huatuchi - Plaza del Inca - Las Aradas",
+            "ref": "1459-082",
+            "latitude": -4.3333333333,
+            "longitude": -79.3333333333
+          },
+          {
+            "name": "Segment Lasana Norte (Sector Los Chorros – Bajada Lasana)",
+            "ref": "1459-024",
+            "latitude": -22.2,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Camar Sur (Sector Camar Sur – Pampa Algarrobilla)",
+            "ref": "1459-031",
+            "latitude": -23.4666666667,
+            "longitude": -68.0
+          },
+          {
+            "name": "Segment Peine Norte (Sector Peine Norte – Tambillo Verde)",
+            "ref": "1459-033",
+            "latitude": -23.5833333333,
+            "longitude": -68.0333333333
+          },
+          {
+            "name": "Segment Escalerilla/ Casa Blanca - Cerro Huaylillas/Cushuro",
+            "ref": "1459-136",
+            "latitude": -7.9333333333,
+            "longitude": -78.0
+          },
+          {
+            "name": "Segment Camar Sur (Sector Pampa Algarrobilla – Peine Norte)",
+            "ref": "1459-032",
+            "latitude": -23.5333333333,
+            "longitude": -68.0166666667
+          },
+          {
+            "name": "Segment Portal del Inca - Río de La Sal (Sector Tambo La Sal)",
+            "ref": "1459-039",
+            "latitude": -26.3666666667,
+            "longitude": -69.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Incahuasi Norte – Lasana Norte)",
+            "ref": "1459-022",
+            "latitude": -22.1333333333,
+            "longitude": -68.6166666667
+          },
+          {
+            "name": "Segment Incahuasi Norte (Sector Tambo Incahuasi – Incahuasi Norte)",
+            "ref": "1459-021",
+            "latitude": -22.1,
+            "longitude": -68.6166666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1459",
+        "unesco_documents": "https://whc.unesco.org/en/list/1459/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1459/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1459/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 11,
+        "inscription_year": 2014
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Qhapaq Ñan, Andean Road System This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance. Peru Chile Ecuador Colombia Argentina Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "fuerte_de_samaipata",
+      "uuid": "a6d5e793-ffda-50d7-bb47-a75e7a5cb9e6",
+      "unesco_id": "883",
+      "names": {
+        "en": "Fuerte de Samaipata",
+        "fr": "Fort de Samaipata",
+        "es": "Fuerte de Samaipata",
+        "ru": "Археологический памятник Фуэрте-де-Самайпата",
+        "ar": "قلعة ساماي باتا",
+        "zh": "萨迈帕塔考古遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The archaeological site of Samaipata consists of two parts: the hill with its many carvings, believed to have been the ceremonial centre of the old town (14th–16th centuries), and the area to the south of the hill, which formed the administrative and residential district. The huge sculptured rock, dominating the town below, is a unique testimony to pre-Hispanic traditions and beliefs, and has no parallel anywhere in the Americas.",
+          "fr": "Le site archéologique de Samaipata comprend deux éléments : la colline, qui, avec ses nombreuses gravures, semble avoir constitué le centre cérémoniel de la ville ancienne (XIVe-XVIe siècle), et la zone au sud de la colline, qui formait le quartier administratif et résidentiel. L’énorme rocher sculpté de Samaipata, qui domine la ville située en contrebas, constitue un témoignage unique des traditions et croyances préhispaniques, sans égal sur tout le continent américain.",
+          "es": "El sitio arqueológico de Samaipata consta de dos partes: el cerro, que posee numerosos grabados rupestres y fue probablemente el centro ceremonial de la antigua ciudad durante los siglos XIV a XVI; y la zona situada al sur del cerro, donde se hallaban los edificios administrativos y las viviendas. La gigantesca roca esculpida que domina la ciudad desde lo alto es un testimonio, único en su género, de las tradiciones y creencias prehispí¡nicas y no tiene parangón en toda América.",
+          "ru": "Археологический памятник Самайпата состоит из двух частей: холма с многочисленными наскальными резными орнаментами, вероятно, бывшим церемониальным центром древнего города (XIV-XVI вв.), и территории к югу от холма, представлявшей административный и жилой район. Огромный холм, возвышающийся над расположенными внизу руинами, служит редчайшим напоминанием о доиспанских традициях и верованиях, не имеющим аналогов в Америке.",
+          "ar": "يتألف موقع ساماي باتا الأثري من عنصرين أساسيين هما: التلّة التي يبدو من خلال نقوشاتها العديدة أنّها شكّلت المركز الرسمي للمدينة القديمة (بين القرن الرابع عشر والسادس عشر)، والمنطقة الواقعة جنوب التلة والتي كانت تمثّل الحي الإداري والسكني للمدينة. وتُعدّ هذه الصخرة الضخمة المحفورة التي تطلّ على المدينة الجاثمة في أسفلها خير شهادة على التقاليد والمعتقدات الشائعة ما قبل الغزو الإسباني والتي لا مثيل في كافة أرجاء القارة الأميركية.",
+          "zh": "萨迈帕塔考古遗址由两部分组成：一部分是一座小山丘，山上有许多雕刻，被认为是14世纪到16世纪当地古镇举行仪式的中心；另一部分位于小山丘南面，是当时的行政和住宅区。一块巨型雕刻石块占据了小镇下方的大部分面积，是古拉丁美洲文化传统和信仰的唯一见证，在美洲再无可与之媲美之石刻。"
+        },
+        "full": "The archaeological site of Samaipata consists of two parts: the hill with its many carvings, believed to have been the ceremonial centre of the old town (14th–16th centuries), and the area to the south of the hill, which formed the administrative and residential district. The huge sculptured rock, dominating the town below, is a unique testimony to pre-Hispanic traditions and beliefs, and has no parallel anywhere in the Americas.",
+        "justification": "Brief synthesisLocated in the Province of Florida, Department of Santa Cruz, the archaeological site of Fuerte de Samaipata consists of two clearly identified parts: the hill with its many carvings, believed to have been the Ceremonial Centre and area to the south of the hill, which formed the administrative and residential district and the political administration. The site is known to have been occupied and used as a ritual and residential centre by people belonging to the Mojocoyas culture as early as AD 300, and it was at this time that work began on the shaping of this great rock. It was occupied in the 14th century by the Inca, who made it a provincial capital. This is confirmed by the features that have been discovered by excavation - a large central plaza with monumental public buildings around it and terracing of the neighbouring hillsides for agriculture - which are characteristic of this type of Inca settlement. It formed a bulwark against the incursions of the warlike Chiriguanos of the Chaco region in the 1520s. The strategic location of the site, which had attracted the Inca to it, was also recognized by the Spaniards. The silver mines of the Cerro Rico at Potosí began to be worked in 1545 and the colonial settlement of Samaipata became an important staging post on the highway from Asunción and Santa Cruz to the colonial centres in the High Andes such as La Plata (modern Sucre), Cochabamba and Potosí. With the establishment of the new town of Samaipata in the Valle de la Purificación, the ancient settlement had no further military importance and was abandoned. The Ceremonial Centre consists of a huge monolithic rock of red sandstone composition of dimensions 220 m long, by approximately 60 m wide, fully carved with a variety of representations of animals, geometric shapes, niches, canals, vessels of great religious significance, which was done by specialist craftsmen, sculptors, with great skill and mastery of the stone. This monument, dominating the town below, is one of the most colossal pre-Columbian ceremonial works of the Andes and the Amazon regions, testimony of hydraulic use, the cult of deities and entities represented in nature as sacred animals in purification and fertility rituals. It is a unique testimony to pre-Hispanic traditions and beliefs, and has no parallel anywhere in the Americas. The carvings in the western part include two felines on a circular base, the only examples of high-relief carving in the whole site. The remains of a stone wall of the Inca period cut across a number of the carvings, indicating a pre-Inca date. These include two parallel channels, between and alongside them there are smaller channels cut in zigzag patterns, giving rise to the local name for this feature, El Dorso de la Serpiente. At the highest point is Coro de los Sacerdotes, which consists of a deeply cut circle with triangular and rectangular niches cut into its walls. Further to the east is a structure which probably represents the head of a feline. Most of the southern face of the rock was originally dominated by a series of at least five temples or sanctuaries; of which only the niches cut into their walls survive. The Casa Colonial is situated on an artificial platform at the foot of the rock. Excavations have revealed evidence of Inca and pre-Inca structures here, and so it is known as the Plaza of the Three Cultures. The house of the colonial period, only the stone lower walls of which survive, is in characteristic Arab-Andalusian style, with a central open courtyard. The administrative and political sector is situated on a series of three artificial platforms to the south of the rock. It is made up of a series of architectural structures corresponding to different periods of cultural settlements: the Ajllahuasi or house of the chosen - housing for women whose role was to make the clothes of the Inca, as well as to be sacrificed in rituals as wives of the Inca, the compound Kallanka for military use, the Court or commercial area which was used for the exchange of products, Tambo a space for the provision of arms, clothing and utensils, less complex terraced agricultural crops and residential areas used for surveillance. The archaeological site of El Fuerte de Samaipata constitutes a complex artistic, architectural and urban form alone testifies to the existence of the extraordinary development of pre-Columbian cultures in the Andes-Amazon region with high ceremonial and religious tradition embodied dramatically the colossal carved stone. Criterion (ii): The sculptured rock at Samaipata is the dominant ceremonial feature of an urban settlement that represents the apogee of this form of prehispanic religious and political centre. Criterion (iii): Samaipata bear outstanding witness to the existence in this Andean region of a culture with highly developed religious traditions illustrates dramatically in the form of immense rock sculptures. Integrity The archaeological site of El Fuerte de Samaipata contains all the elements to convey the Outstanding Universal Value of the property. The rock, with carved figures and designs in a single monument, and other archaeological elements, are in a fair state of preservation and their overall integrity has not been affected by developments from cities, and towns. However, environmental factors and weathering constitute threats to their material integrity. Authenticity The conservation of the different architectural, urban and genuine characteristics of the rock carvings remain as witnesses of their functionality, beauty and genuine religious significance. The authenticity of the site is very high, since it has been deserted for centuries and only recently the subject of carefully controlled scientific excavation projects. Although it is threatened and subject to natural degradation processes, it maintains its original attributes. Protection and management requirements The site was known and visited by 18th century scholars and travellers and was later declared a national monument by Supreme Decree no. 2741 in 1951, under the provisions of the National Monuments Act. This covered 20 ha of the archaeological area and around 260 ha around the site were donated to the State by the landowner in 1997. The total area is protected by Municipal Ordinance no 5/97 of the Municipality of Samaipata as an eco-archaeological park. Subsequently, the Bolivian State, in the theme of conservation, protection and safeguard of El Fuerte de Samaipata, has established regulations on the following levels of government: national, departmental and local. The following legislative measures of protection are focused on guaranteeing the survival of the cultural heritage: The Political Constitution Of the Bolivian State, Art. 191; Law National Monument 8/05/1927; D.S. Complementary procedure on heritage Nº 05918-06/11/1961; and, R.M. Regulation of Excavations N º 082/97-03/06/1997. The agencies in charge of the management of the site are the Municipal Government of Samaipata through the Centre of Samaipata's Archaeological Investigations (CIAAS) which was created in 1974 by Supreme Decree N º 11290 and is responsible for the follow-up to excavation of the archaeological warehouses; conservation and systematic restoration of the archaeological warehouses; exhibition of materials and scientific publications. The management plan for the property mainly includes the definition of the circuit controlled for visitors, and the technical definition of the treatments for the rock. The Secretariat of Culture, through the DIINAR and the CIAAS, the Municipal Government of Samaipata, and the Prefecture of the Department of Santa Cruz, have included in their Development Plans, the actions related to the conservation of the site emphasizing maintenance and the study of the composition of the rock. Also, there are number of regional plans that strengthen Samaipata's conservation, and especially to the need to develop a viable tourism strategy, bearing in mind the presence of the National Park Amboró that guarantees the biodiversity and environmental quality of the whole province."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1998,
+          "all_dates": [
+            1998
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1998,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a1e909bff627912da4163ef567988e7e",
+          "filename": "site_0883_0001-500-0-20080602163551.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113149/site_0883_0001.jpg",
+            "https://whc.unesco.org/document/113151/site_0883_0002.jpg",
+            "https://whc.unesco.org/document/113153/site_0883_0003.jpg",
+            "https://whc.unesco.org/document/113155/site_0883_0004.jpg",
+            "https://whc.unesco.org/document/113157/site_0883_0005.jpg",
+            "https://whc.unesco.org/document/113159/site_0883_0006.jpg",
+            "https://whc.unesco.org/document/124905/site_0883_0007.jpg",
+            "https://whc.unesco.org/document/124906/site_0883_0008.jpg",
+            "https://whc.unesco.org/document/124907/site_0883_0009.jpg",
+            "https://whc.unesco.org/document/124908/site_0883_0010.jpg",
+            "https://whc.unesco.org/document/124909/site_0883_0011.jpg",
+            "https://whc.unesco.org/document/124910/site_0883_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Fuerte de Samaipata",
+            "ref": "883",
+            "latitude": -18.178323,
+            "longitude": -63.820485
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/883",
+        "unesco_documents": "https://whc.unesco.org/en/list/883/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/883/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/883/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 27,
+        "inscription_year": 1998
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fuerte de Samaipata The archaeological site of Samaipata consists of two parts: the hill with its many carvings, believed to have been the ceremonial centre of the old town (14th–16th centuries), and the area to the south of the hill, which formed the administrative and residential district. The huge sculptured rock, dominating the town below, is a unique testimony to pre-Hispanic traditions and beliefs, and has no parallel anywhere in the Americas. The archaeological site of Samaipata consists of two parts: the hill with its many carvings, believed to have been the ceremonial centre of the old town (14th–16th centuries), and the area to the south of the hill, which formed the administrative and residential district. The huge sculptured rock, dominating the town below, is a unique testimony to pre-Hispanic traditions and beliefs, and has no parallel anywhere in the Americas. Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "city_of_potosi",
+      "uuid": "6dfa11d5-d34c-52c3-b033-585565d6cb23",
+      "unesco_id": "420",
+      "names": {
+        "en": "City of Potosí",
+        "fr": "Ville de Potosí",
+        "es": "Ciudad de Potosí­",
+        "ru": "Горнозаводской город Потоси",
+        "ar": "مدينة بوتوسي",
+        "zh": "波托西城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived.",
+          "fr": "L’endroit était considéré au XVIe siècle comme le plus grand complexe industriel du monde. L’extraction du minerai d’argent était assurée par une série de moulins à eau. L’ensemble actuel comprend les monuments industriels du Cerro Rico, où l’eau est amenée par un système compliqué d’aqueducs et de lacs artificiels, la ville coloniale avec la Casa de la Moneda, l’église de San Lorenzo, des demeures nobles et les « barrios mitayos » qui étaient les quartiers ouvriers.",
+          "es": "En el siglo XVI, se consideraba que Potosí­ era el mayor complejo industrial del mundo. La extracción de su mineral de plata se efectuaba mediante molinos hidrí¡ulicos. El sitio actual comprende no sólo las antiguas instalaciones industriales del Cerro Rico, a las que llega el agua por medio de un sistema intrincado de acueductos y lagos artificiales, sino también el barrio colonial con la Casa de la Moneda, la iglesia de San Lorenzo, varias mansiones nobles y los barrios de los mitayos que trabajaban en las minas.",
+          "ru": "В XVI в. этот регион считался самым большим в мире промышленным комплексом. Извлечение серебряной руды осуществлялось группой фабрик, работавших с использованием гидравлической энергии. Объект состоит из индустриальных памятников Серро-Рико, куда доступ воды обеспечивался сложной системой акведуков и водохранилищ; колониального города с Монетным двором; церковью Сан-Лоренцо; несколькими домами аристократов и «барриос митайос» – территориями, где жили рабочие.",
+          "ar": "كان هذا الموقع يُعتبر في القرن السادس عشر أكبر تجمّع صناعي في العالم حيث كان يستخرج معدن الفضة بواسطة سلسلة من الطواحين المائية. أمّا التجمّع الحالي، فيضم النصب الصناعية في سيرو ريكو حيث تُجرّ المياه بواسطة نظام معقّد من القنوات المائية والبحيرات الإصطناعية، وكذلك مدينة كازا دي لا مونيدا الاستعمارية، وكنيسة سان لورنزو، والمنازل الفخمة وأحياء العمّال، المسمّاة بالإسبانية باريوس ميتايوس.",
+          "zh": "在16世纪，波托西城被认为是世界上最大的工业复合体。银矿提炼的需要使得这里出现了一系列的水利矿场。遗址包括塞雷里科(Cerro Rico)工业建筑，复杂的引水渠和人造湖系统为该地提供水源；这座殖民城拥有卡萨德拉莫内达集镇(the Casa de la Moneda)、圣洛伦佐教堂(the Church of San Lorenzo)、一些贵族住宅区和工人居住区(barrios mitayos)。"
+        },
+        "full": "In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived.",
+        "justification": "Brief synthesis Potosí is the example par excellence of a major silvers mine of the modern era, reputed to be the world’s largest industrial complex in the 16th century. A small pre-Hispanic-period hamlet perched at an altitude of 4,000 m in the icy solitude of the Bolivian Andes, Potosí became an “Imperial City” following the visit of Francisco de Toledo in 1572. It and its region prospered enormously following the discovery of the New World’s biggest silver lodes in the Cerro de Potosí south of the city. The major colonial-era supplier of silver for Spain, Potosí was directly and tangibly associated with the massive import of precious metals to Seville, which precipitated a flood of Spanish currency and resulted in globally significant economic changes in the 16th century. The whole industrial production chain from the mines to the Royal Mint has been conserved, and the underlying social context is equally well illustrated, with quarters for the Spanish colonists and for the forced labourers separated from each other by an artificial river. Potosí also exerted a lasting influence on the development of architecture and monumental arts in the central region of the Andes by spreading the forms of a baroque style that incorporated native Indian influences. By the 17th century there were 160,000 colonists living in Potosí along with 13,500 Indians who were forced to work in the mines under the system of mita (mandatory labour). The Cerro de Potosí reached full production capacity after 1580, when a Peruvian-developed mining technique known as patio, in which the extraction of silver ore relied on a series of hydraulic mills and mercury amalgamation, was implemented. The industrial infrastructure comprised 22 lagunas or reservoirs, from which a forced flow of water produced the hydraulic power to activate 140 ingenios or mills to grind silver ore. The ground ore was amalgamated with mercury in refractory earthen kilns, moulded into bars, stamped with the mark of the Royal Mint and taken to Spain. The city and region retain evocative evidence of this activity, which slowed significantly after 1800 but still continues. This includes mines, notably the Royal mine complex, the biggest and best-conserved of the some 5,000 operations that riddled the high plateau and its valleys, dams that controlled the water that activated the ore-grinding mills, aqueducts, milling centres and kilns. Other evidence includes the superb monuments of the colonial city, among them 22 parish or monastic churches, the imposing Compañía de Jesús (Society of Jesus) tower and the Cathedral. The Casa de la Moneda (Royal Mint), reconstructed in 1759, as well as a number of patrician homes, whose luxury contrasted with the bareness of the rancherias of the native quarter, also remain. Many of these edifices are in an “Andean Baroque” style that incorporates Indian influences. This inventive architecture, which reflects the rich social and religious life of the time, had a lasting influence on the development of architecture and monumental arts in the central region of the Andes. Criterion (ii): The “Imperial City” of Potosí, such as it became following the visit of Francisco de Toledo in 1572, exerted lasting influence on the development of architecture and monumental arts in the central region of the Andes by spreading the forms of a baroque style incorporating Indian influences. Criterion (iv): Potosí is the one example par excellence of a major silver mine in modern times. The industrial infrastructure comprised 22 lagunas or reservoirs, from which a forced flow of water produced the hydraulic power to activate the 140 ingenios or mills to grind silver ore. The ground ore was then amalgamated with mercury in refractory earthen kilns called huayras or guayras. It was then molded into bars and stamped with the mark of the Royal Mint. From the mine to the Royal Mint (reconstructed in 1759), the whole production chain is conserved, along with the dams, aqueducts, milling centres and kilns. The social context is equally well represented: the Spanish zone, with its monuments, and the very poor native zone are separated by an artificial river. Criterion (vi): Potosí is directly and tangibly associated with an event of outstanding universal significance: the economic change brought about in the 16th century by the flood of Spanish currency resulting from the massive import of precious metals in Seville. Integrity Within the boundaries of the property are located all the elements necessary to express the Outstanding Universal Value of the City of Potosí, including the ensemble’s industrial mining and urban components such as the system of artificial lakes, the mines, the mineral processing mills, the architecture and urban form and the natural environment, all dominated by the majestic presence of Cerro de Potosí. Authenticity The City of Potosí is authentic in terms of the ensemble’s forms and designs, materials and substances, and location and setting. Still dominated by the majestic Cerro de Potosí, the “Imperial City” of Potosí’s streets, squares, civic and religious buildings, parishes and churches remain as faithful witnesses of its great splendour and tell the important history of mining in the Americas. The degradation of Cerro de Potosí (also called Cerro Rico Rich Mountain or Sumaj Orcko) by continuing mining operations has long been a concern, as hundreds of years of mining have left the mountain porous and unstable. The Bolivian Mining Corporation included the preservation of the form, topography and natural environment of the mountain as one of the objectives for its future exploitation. Nevertheless, recommendations by a World Heritage Centre/ICOMOS technical mission in 2005 to improve the security and stability of the property, as well as other conditions necessary to allow for sustainable mining activities, were not addressed and portions of the summit of the mountain have collapsed. The authenticity of the property is thus threatened, and urgent and appropriate action must be taken to protect human lives, to improve working conditions and to prevent further deterioration of this vulnerable component of the property. Protection and management requirements The City of Potosí is protected under the Constitución Política del Estado (Political Constitution of the State), Art. 191; Ley del Monumento Nacional (National Monument Act), 8/5/1927; Normas Complementarias sobre patrimonio Artístico, Histórico, Arqueológico y Monumenta (Complementary Standards on Artistic, Historical, Archaeological and Monumental Heritage), Decreto Supremo (D.S.) No. 05918 of 6/11/1961; Créase la Comisión Nacional de Restauración y Puesta en Valor de Potosí (Establishment of the National Commission for the Restoration and Revitalization of Potosí), D.S. No. 15616 of 11/7/1978; Normas sobre defensa del Tesoro Cultural de la Nación (Standards for the Protection of the National Cultural Treasure), Decreto Ley (D.L.) No. 15900 of 19/10/1978; and Act No. 600 of 23/2/1984 to finance the implementation of the designation of the City of Potosí as a “Monumental City of America” by the General Assembly of the Organization of American States in 1979. In addition the Plan de Rehabilitación de las Áreas Históricas de Potosí - PRAHP (Rehabilitation Plan of the Historic Areas of Potosí), its Regulations and several studies also encompass the protection of the property. There is no participatory conservation management plan for the property. Restoration work is realized by international support from UNESCO, the Organization of American States and the governments of Spain and the Federal Republic of Germany. The Ministry of Culture of the Plurinational State of Bolivia is in charge of conservation and preservation work. The Proyecto de la calle Quijarro (Quijarro Street Project) was developed in 1981 to encourage rehabilitation of homes in the historic downtown areas; basic services are provided in collaboration with the Municipality - of Potosí. However, it should be noted that there is a strong economic downturn in the region. It is expected that cultural tourism will help provide social, economic and educational support. Sustaining the Outstanding Universal Value of the property over time will require fully implementing the emergency and other measures identified by the 2011 technical mission; finalizing and implementing an approved Strategic Emergency Plan, including rationalization and planning of industrial exploitation in the area; developing and implementing approved measures to ensure the structural stability of the top of the mountain; modifying Article 6 of Supreme Decree 27787 to halt all exploration, extraction and any other interventions under and above ground between altitudes 4,400 m and 4,700 m; completing an analysis and modelling based on recent geophysical studies to further identify the anomalies affecting the mountain; putting in place a monitoring system; finalizing and submitting a participatory Management Plan for the property; and delimiting a buffer zone for the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 2210.93,
+          "square_km": 22.11,
+          "square_miles": 8.947,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1987,
+          "all_dates": [
+            1987
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1987,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2014",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9a5c87f613e9d7cc7eaab21dbf51a492",
+          "filename": "site_0420_0001-500-0-20151104160302.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109545/site_0420_0001.jpg",
+            "https://whc.unesco.org/document/109547/site_0420_0002.jpg",
+            "https://whc.unesco.org/document/109550/site_0420_0003.jpg",
+            "https://whc.unesco.org/document/120655/site_0420_0004.jpg",
+            "https://whc.unesco.org/document/120656/site_0420_0005.jpg",
+            "https://whc.unesco.org/document/120658/site_0420_0007.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "City of Potosí",
+            "ref": "420bis",
+            "latitude": -19.599112,
+            "longitude": -65.749813
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/420",
+        "unesco_documents": "https://whc.unesco.org/en/list/420/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/420/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/420/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 38,
+        "inscription_year": 1987
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "City of Potosí In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived. In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived. Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "historic_city_of_sucre",
+      "uuid": "074fb7b9-43f5-59d5-b0d1-975f2f689be8",
+      "unesco_id": "566",
+      "names": {
+        "en": "Historic City of Sucre",
+        "fr": "Ville historique de Sucre",
+        "es": "Ciudad histórica de Sucre",
+        "ru": "Исторический город Сукре",
+        "ar": "مدينة سوكريه التاريخية",
+        "zh": "苏克雷古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe.",
+          "fr": "Première capitale de la Bolivie, Sucre fut fondée par les Espagnols dans la première moitié du XVIe siècle. Elle possède de nombreux édifices religieux comme San Lazaro, San Francisco et Santo Domingo qui offrent une image bien conservée de l’alliance architecturale de traditions locales à des styles importés d’Europe.",
+          "es": "Fundada por los españoles en la primera mitad del siglo XVI, Sucre fue la primera capital de Bolivia. Cuenta con numerosas iglesias bien conservadas de esa época –por ejemplo, las de San Lí¡zaro, San Francisco y Santo Domingo– que ilustran la mezcla de las tradiciones arquitectónicos locales con los estilos importados de Europa.",
+          "ru": "Сукре, первая столица Боливии, была основана испанцами в первой половине XVI в. Хорошо сохранившиеся религиозные здания XVI в., такие как Сан-Ласаро и Санто-Доминго, иллюстрируют смешение местных архитектурных традиций со стилями, заимствованными из Европы.",
+          "ar": "أسس الإسبان مدينة سوكريه، العاصمة الأولى لبوليفيا، في النصف الأول من القرن السادس عشر. وهي تضم العديد من المباني الدينية كسان لازارو وسان فرانسيسكو وسانتو دومينغو التي تعكس جميعها صورة محفوظة عن المزيج الهندسي بين التقاليد المحلية والأنماط المستوردة من أوروبا.",
+          "zh": "玻利维亚第一个首都苏克雷城是16世纪上半叶由西班牙人建立的。当地保存完好的一些16世纪宗教建筑，例如圣洛伦佐教堂(San Lázaro)、圣弗朗西斯科教堂(San Francisco)和圣多明戈教堂(Santo Domingo)，都体现了当地建筑特色和欧洲外来建筑风格的融合。"
+        },
+        "full": "Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe.",
+        "justification": "Brief synthesis The Historic City of Sucre, located in the foothills of the Sica Sica and Churuquella in central-south of Bolivia, is an excellent, intact and well-preserved illustration of the architectural blending achieved in Latin America through the assimilation of local traditions and styles imported from Europe. Founded by the Spanish in 1538 as Ciudad de la Plata de la Nueva Toledo (Silver Town of New Toledo) on the lands of the Yampara, indigenous culture of the Characas confederation, La Plata was for many years the judicial, religious and cultural centre of the region. The city was renamed in honour of the deceased leader of the fight for Independence, Antonio Jose de Sucre in 1839, when it was declared the first capital of Bolivia The historic city was designed according to a simple urban plan with checkerboard- patterned streets, similar to other towns founded by the Spanish in America in the 16th century. The mineral wealth of the nearby city of Potosi influenced the economic development of La Plata that was also an important cultural centre (University of Saint-Francois-Xavier, the Royal Academia Carolina, and San Isabel de Hungria Seminario) and the seat of the Characas Audiencia, forerunner of the present Supreme Court. In 1609, the city became the seat of an archbishopric and during the 17th century La Plata served as a religious centre for the Spanish eastern territories. Many religious buildings located on the 113.76 ha of the historic centre of the city bear witness to the period that marked the beginnings of the Spanish city, including churches dating back to the 16th century, such as San Lázaro, San Francisco, Santo Domingo and the Metropolitan Cathedral, the construction of which began in 1559 and was completed 250 years later. The Casa de la Libertad (House of Freedom), constructed in 1621 as part of the Convent of the Jesuits, is considered to be the most important historic monument of Bolivia because it was here where the events leading to the independence of the country took place. The buildings of the 18th century are characteristic of the local architecture and similar to those built during the same period at Potosi. The more recent buildings (late 18th century and early 19th century) retained the patios that characterized earlier times but were adapted to the Neoclassical style imported from metropolitan Spain. The buildings of Sucre illustrate eloquently the blending of local architectural traditions and styles imported from Europe, including those at the beginning of the Renaissance, Mudejar, Gothic, Baroque and Neoclassical periods, between the 16th and 19th centuries. Criterion (iv): The rich heritage of the Historic Centre of the Spanish city of Sucre (La Plata) is an excellent intact and well-preserved illustration of this architectural blending achieved in Latin America through the assimilation of local traditions and styles imported from Europe. Integrity The boundary of the property includes all the necessary components that comprise the Outstanding Universal Value of the Historic City of Sucre, with buildings built between the 16th and 19th centuries that illustrate the assimilation and blending of local architectural traditions and styles imported from Europe. Thus, the area covered by the boundary is sufficient (472.8 ha) to enable a full representation of the characteristics and process that transmit the importance of this property. Furthermore, the property has not suffered any negative effects from development or lack of maintenance. There is a buffer zone of 358.24 ha. Authenticity The Historic City of Sucre is authentic in terms of form and design, material and substance, as well as location and surroundings. Its buildings, architectural result of the symbiosis of local and imported styles, have been maintained and conserved in a homogenous and harmonious manner, in both form and surroundings, in harmony with the environment. Protection and management requirements The Historic City of Sucre is protected by various national laws, supreme decrees, national and municipal orders and resolutions that specifically determine legal protection measures including, among others, the Political Constitution of the State, Article 191; the Law on National Monuments, 8/5/1927; Art Monuments: the Designation, in Sucre, of 8 national monuments, Article 8 of the Supreme Decree (S.D.) 11/4/1930; the Designation as historic city the old city centre of Sucre. S.D. No. 9004 of 27/11/1969; the Designation as National Monuments of the buildings and structures located in Sucre, S.D. No. 9365 of 27/8/1970; Additional Standards on artistic, historical and archaeological heritage and monuments, S.D. No. 05918 of 6/11/1961; and the Heritage Promotion Law No.2068 of 12/4/2000. The Agency responsible for the management of the property is the Ministry of Culture, attached to the national government. It has elaborated preservation and conservation policies such as the Historic Heritage Regulation (Chapter IV) and the Monitoring of the treatment of Historic Heritage (Chapter III) of the Regulatory Plan for Sucre in 1974. The Plan involves social, economic and educational support through the development of cultural tourism envisaged as a resource to maintain and preserve the historic city centre. The key municipal tools include the Master Plan for the Revitalization of the Historic City Centre, approved by O.M. No. 083/08; and the Regulation for Conservation of the Historic Zones of Sucre approved by O.M. No. 003/98, the legal and technical instrument that controls interventions in the three protected zones of the historic city centre and includes encouragements and penalties. The Unidad Mixta Municipal de Patrimonio Histórico – Plan de Rehabilitación de las Areas Históricas de Sucre “PRAHS” (Mixed Municipal Unit of the Direction of Historical Heritage – Rehabilitation Plan for the Historical Areas of Sucre “PRAHS”) is responsible for respect of the regulation; any action or intervention in the historic city centre must have the approval of this unit. The preservation and conservation of the Historic City of Sucre are based on international standards, with national and international funding. The maintenance of the Outstanding Universal Value of the property over time will require verification and monitoring of its authenticity and integrity to ensure that they are not endangered by potential or identified threats. The development plan for Sucre should, however, strengthen the aspects linked to cultural heritage preservation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1991,
+          "all_dates": [
+            1991
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1991,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5ce3ee112e5c1c5c1706355c9d1fe4a9",
+          "filename": "site_0566_0001-500-0-20151104160403.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111142/site_0566_0001.jpg",
+            "https://whc.unesco.org/document/111144/site_0566_0002.jpg",
+            "https://whc.unesco.org/document/111147/site_0566_0003.jpg",
+            "https://whc.unesco.org/document/120659/site_0566_0005.jpg",
+            "https://whc.unesco.org/document/120660/site_0566_0006.jpg",
+            "https://whc.unesco.org/document/125019/site_0566_0007.jpg",
+            "https://whc.unesco.org/document/125020/site_0566_0008.jpg",
+            "https://whc.unesco.org/document/125021/site_0566_0009.jpg",
+            "https://whc.unesco.org/document/125022/site_0566_0010.jpg",
+            "https://whc.unesco.org/document/125024/site_0566_0011.jpg",
+            "https://whc.unesco.org/document/125025/site_0566_0012.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic City of Sucre",
+            "ref": "566",
+            "latitude": -19.04799,
+            "longitude": -65.259592
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/566",
+        "unesco_documents": "https://whc.unesco.org/en/list/566/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/566/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/566/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 34,
+        "inscription_year": 1991
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic City of Sucre Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe. Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe. Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "tiwanaku_spiritual_and_political_centre_of_the_tiwanaku_culture",
+      "uuid": "ce8796b7-cc2a-53ac-9aec-b32a344f7200",
+      "unesco_id": "567",
+      "names": {
+        "en": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+        "fr": "Tiwanaku : centre spirituel et politique de la culture tiwanaku",
+        "es": "Tiwanaku: centro espiritual y político de la cultura Tiwanaku",
+        "ru": "Древний город Тиауанако: духовный и политический центр доиспанской индейской культуры",
+        "ar": "التيواناكو: المركز الروحي والسياسي لثقافة تيواناكو",
+        "zh": "蒂瓦纳科文化的精神和政治中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The city of Tiwanaku, capital of a powerful pre-Hispanic empire that dominated a large area of the southern Andes and beyond, reached its apogee between 500 and 900 AD. Its monumental remains testify to the cultural and political significance of this civilisation, which is distinct from any of the other pre-Hispanic empires of the Americas.",
+          "fr": "La ville de Tiwanaku fut la capitale d'un puissant empire préhispanique qui étendit son influence sur une vaste zone des Andes méridionales et au-delà, et atteignit son apogée entre 500 et 900 de notre ère. Les vestiges de ses monuments témoignent de l'importance culturelle et politique de cette civilisation qui se distingue nettement des autres empires préhispaniques des Amériques.",
+          "es": "Tiwanaku fue la capital de un poderoso imperio prehispánico que alcanzó su apogeo entre los años 500 y 900 de nuestra era. Su influencia se extendió por una vasta zona de los Andes meridionales y otras regiones adyacentes. Los vestigios de sus monumentos atestiguan la importancia cultural y política de una civilización netamente diferenciada de las restantes culturas prehispánicas de América.",
+          "ru": "Город Тиауанако, столица мощной доиспанской империи, которая господствовала на огромном пространстве, занимаемом Южными Андами и их окрестностями, достигла своего апогея в период с 500 до 900 гг. н.э. Памятники свидетельствуют о культурной и политической значимости этой цивилизации, которая выделяется среди всех других доиспанских империй Америки.",
+          "ar": "كانت مدينة تيواناكو عاصمة لإمبراطورية قوية بسطت نفوذها قبل الغزو الإسباني على منطقة واسعة من الأنديز الجنوبية وغيرها من المناطق وبلغت ذروتها بين العام500 و900 ب.م. وتشهد آثار هذه المواقع على الأهمية الثقافية والسياسية التي ترتديها هذه الحضارة المتميّزة عن سائر الإمبراطوريات السابقة للغزو الإسباني في الأميركيتين.",
+          "zh": "蒂瓦纳科城(Tiwanaku)是古拉丁美洲印第安王国的首都，当时这一强大的帝国统治了南安第斯山脉及之外的广阔地区。公元500年至900年间，蒂瓦纳科城达到了鼎盛时期。这一地区的文明与美洲其他地方的古拉丁美洲帝国文明有所不同，其历史遗迹证明了这一文明在文化和政治上的重要性。"
+        },
+        "full": "The city of Tiwanaku, capital of a powerful pre-Hispanic empire that dominated a large area of the southern Andes and beyond, reached its apogee between 500 and 900 AD. Its monumental remains testify to the cultural and political significance of this civilisation, which is distinct from any of the other pre-Hispanic empires of the Americas.",
+        "justification": "Brief synthesis Tiwanaku is located near the southern shores of Lake Titicaca on the Altiplano, at an altitude of 3,850 m., in the Province of Ingavi, Department of La Paz. Most of the ancient city, which was largely built from adobe, has been overlaid by the modern town. However, the monumental stone buildings of the ceremonial centre survive in the protected archaeological zones. Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture began as a small settlement which later flourished into a planned city between 400 A.D. and 900 A.D. The maximum expression of this culture is reflected in the civic - ceremonial organized spatially with a centre oriented toward to the cardinal points, constructed with impressive ashlars stones carved accurately and equipped with a complex system of underground drainage that was controlling the flow of rain waters. The public - religious space of this city is shaped by a series of architectural structures that correspond to different periods of cultural accessions: Temple Semi-underground, Kalasasaya's Temple, Akapana's Pyramid, Pumapumku's Pyramid. In addition, the area politician - administrative officer is represented by structures as the Palace of Putuni and Kantatallita. This architectural complex reflects the complex political structure of the period and its strong religious nature. The most imposing monument at Tiwanaku is the Pyramid of Akapana. It is a pyramid originally with seven superimposed platforms with stone retaining walls rising to a height of over 18m. Only the lowest of these and part of one of the intermediate walls survive intact. Investigations have shown that it was originally clad in sandstone and andisite and surmounted by a temple. It is surrounded by very well-preserved drainage canals. The walls of the small semi-subterranean temple (Templete) are made up of 48 pillars in red sandstone. There are many carved stone heads set into the walls, doubtless symbolizing an earlier practice of exposing the severed heads of defeated enemies in the temple. To the north of the Akapana is the Kalasasaya, a large rectangular open temple, believed to have been used as an observatory. It is entered by a flight of seven steps in the centre of the eastern wall. The interior contains two carved monoliths and the monumental Gate of the Sun, one of the most important specimens of the art of Tiwanaku. It was made from a single slab of andesite cut to form a large doorway with niches (Hornacinas) on either side. Above the doorway is an elaborate bas-relief frieze depicting a central deity, standing on a stepped platform, wearing an elaborate head-dress, and holding a staff in each hand. The deity is flanked by rows of anthropomorphic birds and along the bottom of the panel there is a series of human faces. The ensemble has been interpreted as an agricultural calendar. The settlers of this city perfected the technology for carving and polishing different stone materials for the construction, which, together with architectural technology, enriched the monumental spaces. . The economic base of this city is evidenced through the almost 50.000 agricultural fields, known locally as Sukakollos, characterized by their irrigation technology which allowed the different cultures to easily adapt to the climate conditions. The artificial terraces constitute an important contribution to agriculture and made possible a sustained form of farming and consequently the cultural evolution of the Tiwanaku Empire. These innovations were subsequently taken up by succeeding civilizations and were extended as far as Cuzco. The social dynamics of this population of the highland plateau were sustained in strong religious components that are expressed in a diverse iconography of stylized of zoomorphic and anthropomorphous images. The political and ideological power represented in different material supports extended to the borders coming up to the population’s vallunas and to more remote coastal areas. Many towns and colonies were set up in the vast region under Tiwanaku rule. The political dominance of Tiwanaku began to decline in the 11th century, and its empire collapsed in the first half of the 12th century. Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture is one of the urban accessions the most important pre-Inca of the Andean region of South America. Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture was the capital of a powerful empire that lasted several centuries and it was characterized by the use of new technologies and materials for the architecture, pottery, textiles, metals, and basket-making. It was the epicentre of knowledge and ‘saberes’ due to the fact that it expanded its sphere of influence to the interandean valleys and the coast. The politics and ideology had a religious character and it incorporated to the sphere of influence to different ethnic groups that lived in different regions. This multiethnic character takes form of the stylistic and iconographic diversity of his archaeological materials. The monumental buildings of his administrative and religious centre are a witness of the economic and political force of the cardinal city and of his empire. Criterion (iii): The ruins of Tiwanaku bear striking witness to the power of the empire that played a leading role in the development of the Andean prehispanic civilization. Criterion (iv): The buildings of Tiwanaku are exceptional examples of the ceremonial and public architecture and art of one of the most important manifestations of the civilizations of the Andean region. Integrity All the attributes to convey the Outstanding Universal Value of the property are located within its boundaries. The archaeological remains have maintained to a certain extent their physical integrity although systematic conservation and maintenance measures will be required to ensure their physical stability and the protection against the adverse effect of climatic conditions in the long term. Similarly, effective enforcement of regulatory measures for the protection of the large areas of the ancient urban complex, that exist beneath the modern village of Tiwanaku and farmhouses, is crucial for maintaining the integrity of these remains. Authenticity As with most archaeological sites, Tiwanaku preserves a very high degree of authenticity. However, a conservation plan with precise guidelines for interventions, which take into consideration the original form and design, as well as the materials used for construction, will need to be implemented to ensure that the conditions of authenticity continue to be met. Protection and management requirements The Bolivian State has established regulations at the national, departmental and local government levels for the conservation, protection and safeguarding of the property. These include: The Political Constitution of the Bolivian State, Art. 191, Law 03/10/1906; D.S. 11/11/1909; Law 8/05/1927; D.L. 08/01/1945; D.S. Nº 05918-06/11/1961; R.M. Nº 1652-27/11/1961; D.S. 7234-30/06/1965; R.M. Nº 082/97-03/06/1997; D.S. Nº25263-30/12/1998. The departmental regulation: RAP Nº 0107-19/02/1999. Agreements between the Institutions of the Bolivian State and Tiwanaku's Municipality: Record of commitment for Tiwanaku 22/02/1999; Agreement of Interinstitutional cooperation between the Viceminister of Culture and Tiwanaku's Municipality 01/12/1998. Certification Municipal of protection to archaeological heritage Tiwanaku's 08/01/2000. The limits for the protection and safeguard of the property were established by means of the D.S. 25647-14/01/2000, where it is stipulated that the cultural heritage is of property of the State and divided it in three areas. The first two areas (Kalasasaya, with 23.5 ha and Pumapunku, with 7.0 ha) are physically protected, the third area (Mollukontu, with 41 ha) is going to be protected as part of the main plan of conservation. To guarantee the integrity and the authenticity of the areas declared property of the Bolivian State, there is delimited a protection zone that consists of a perimeter band, a 100 meters wide, surrounding the three archaeological areas before indicated as a single polygonal one. There is also a programme for the acquisition of other areas for of the Bolivian State. In addition, planning tools exist through the main plan of Tiwanaku (1999-2009) and a main plan of conservation. The main plan will entail the implementation of the following programmes: archaeological investigations, conservation and restoration, investigation in anthropology, infrastructure in general, dissemination and communication and administration of the site. This will also complement the main conservation plan that will address natural and human factors that affect the site Tiwanaku."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 71.5,
+          "square_km": 0.71,
+          "square_miles": 0.289,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b6ce1faba2f8399a03c5d4ab107478ba",
+          "filename": "site_0567_0001.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111151/site_0567_0001.jpg",
+            "https://whc.unesco.org/document/111157/site_0567_0004.jpg",
+            "https://whc.unesco.org/document/111161/site_0567_0006.jpg",
+            "https://whc.unesco.org/document/111163/site_0567_0007.jpg",
+            "https://whc.unesco.org/document/111165/site_0567_0008.jpg",
+            "https://whc.unesco.org/document/111167/site_0567_0009.jpg",
+            "https://whc.unesco.org/document/121816/site_0567_0010.jpg",
+            "https://whc.unesco.org/document/121817/site_0567_0011.jpg",
+            "https://whc.unesco.org/document/121818/site_0567_0012.jpg",
+            "https://whc.unesco.org/document/121819/site_0567_0013.jpg",
+            "https://whc.unesco.org/document/121820/site_0567_0014.jpg",
+            "https://whc.unesco.org/document/121821/site_0567_0015.jpg",
+            "https://whc.unesco.org/document/128454/site_0567_0016.jpg",
+            "https://whc.unesco.org/document/128455/site_0567_0017.jpg",
+            "https://whc.unesco.org/document/128456/site_0567_0018.jpg",
+            "https://whc.unesco.org/document/128457/site_0567_0019.jpg",
+            "https://whc.unesco.org/document/128458/site_0567_0020.jpg",
+            "https://whc.unesco.org/document/128459/site_0567_0021.jpg",
+            "https://whc.unesco.org/document/128460/site_0567_0022.jpg",
+            "https://whc.unesco.org/document/128461/site_0567_0023.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+            "ref": "567rev",
+            "latitude": -16.555003,
+            "longitude": -68.673278
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/567",
+        "unesco_documents": "https://whc.unesco.org/en/list/567/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/567/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/567/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture The city of Tiwanaku, capital of a powerful pre-Hispanic empire that dominated a large area of the southern Andes and beyond, reached its apogee between 500 and 900 AD. Its monumental remains testify to the cultural and political significance of this civilisation, which is distinct from any of the other pre-Hispanic empires of the Americas. The city of Tiwanaku, capital of a powerful pre-Hispanic empire that dominated a large area of the southern Andes and beyond, reached its apogee between 500 and 900 AD. Its monumental remains testify to the cultural and political significance of this civilisation, which is distinct from any of the other pre-Hispanic empires of the Americas. Bolivia Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "noel_kempff_mercado_national_park",
+      "uuid": "1f666f49-1530-52ec-919a-b7a1ca17db8b",
+      "unesco_id": "967",
+      "names": {
+        "en": "Noel Kempff Mercado National Park",
+        "fr": "Parc national Noel Kempff Mercado",
+        "es": "Parque Nacional Noel Kempff Mercado",
+        "ru": "Национальный парк Ноэль-Кемпфф-Меркадо",
+        "ar": "المنتزه الوطني نويل كمبف ميركادو",
+        "zh": "挪尔•肯普夫墨卡多国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BOL": {
+            "name": "Bolivia",
+            "iso2": "BO",
+            "iso3": "BOL"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+          "fr": "Ce parc national est l'un des plus grands (1 523 000 ha) et des plus intacts du bassin amazonien. Variant en altitude de 200 m à près de 1 000 m, il offre une riche mosaïque d'habitats allant des forêts sempervirentes amazoniennes de haute altitude à la savane et à la forêt du Cerrado. Le parc présente une histoire évolutionnaire couvrant plus d'un milliard d'années depuis le Précambrien. Il abrite des populations viables de nombreux grands vertébrés en péril ou menacés d'extinction au niveau mondial, une flore estimée à 4 000 espèces et plus de 600 espèces d'oiseaux.",
+          "es": "El Parque Nacional Noel Kempff Mercado es uno de los más grandes (1.523.000 hectáreas) y mejor conservados de la cuenca del Amazonas. Con altitudes que oscilan entre los 200 y 1.000 metros, posee un rico mosaico de hábitats que van desde el bosque montañoso amazónico de hoja perenne hasta la sabana y el cerrado. El parque ilustra la historia de la evolución a lo largo de 1.000 millones de años, desde el Periodo Precámbrico. Además, alberga poblaciones viables de vertebrados de gran tamaño en peligro de extinción en todo el mundo, una flora de 4.000 especies y más de 600 variedades de pájaros.",
+          "ru": "Национальный парк Ноэль-Кемпфф-Меркадо – один из самых крупных по площади (1,5 млн. га) и наиболее сохранных парков во всем бассейне Амазонки. Высотные отметки колеблются от 200 м и почти до 1000 м, что определяет большое ландшафтное разнообразие – от лесистых саванн («кампос-серрадо») до вечнозеленых горных амазонских лесов. Примечательна геологическая история этой местности, насчитывающая около миллиарда лет, – начиная с докембрия. В парке произрастает около 4 тыс. видов растений, обитает свыше 600 видов птиц, а также отмечены жизнеспособные популяции многих видов позвоночных животных, которые признаны редкими и исчезающими в глобальном масштабе.",
+          "ar": "يُعتبر هذا المنتزه الوطني أحد المنتزهات الأكبر مساحة (1523000 هكتار) وأقلّها استغلالاً في الحوض الأمازوني. يتراوح ارتفاعه بين 200 متر وحوالى 1000 متر، وهو بذلك يشكّل فسيفساء غنية من المساكن الطبيعية التي تتنوّع بين الغابات الأمازونية الدائمة الخضرة الواقعة على علو مرتفع والسهول العشبية وغابة السيرادو. ويحمل المنتزه في طيّاته تاريخاً تطورياً يمتّد على أكثر من مليار سنة منذ العصر ما قبل الكمبريّ. وهو يأوي أجناساً قابلة للحياة من العديد من الفقريات الكبيرة المعرّضة للخطر أو المهددة بالإنقراض على المستوى العالمي، ويتغنّى بثروة نباتية تُقدّر بـ 4000 صنف نباتي وبأكثر من 600 جنس من الطيور.",
+          "zh": "这座国家公园（占地1 523 000公顷）是亚马逊盆地最大和保护最为完好的公园之一，海拔高度从200米到近1000米。该公园有着各种各样的生物栖息地，包括赛拉多(Cerrado)大草原、森林和亚马逊高地常青林。肯普夫国家公园展示了距今10多亿年前到寒武纪之间的自然进化历程，据估计，公园内生存有约4000种植物、600多种鸟类和许多世界上濒危的脊椎动物。"
+        },
+        "full": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1523446,
+          "square_km": 15234.46,
+          "square_miles": 6165.177,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7ecfd51e9621156afe0b40b3196fc8f8",
+          "filename": "site_0967_0001-500-0-20090924163735.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 334
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113883/site_0967_0001.jpg"
+          ],
+          "count": 1
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Noel Kempff Mercado National Park",
+            "ref": "967",
+            "latitude": -14.26667,
+            "longitude": -60.86667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/967",
+        "unesco_documents": "https://whc.unesco.org/en/list/967/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/967/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/967/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Noel Kempff Mercado National Park The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park. The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park. Bolivia Latin America and the Caribbean Natural"
+    }
+  ]
+}

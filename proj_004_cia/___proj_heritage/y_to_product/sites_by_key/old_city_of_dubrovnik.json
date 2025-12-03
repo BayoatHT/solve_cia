@@ -1,0 +1,201 @@
+{
+  "site_key": "old_city_of_dubrovnik",
+  "uuid": "675a9783-885b-5017-8b25-6d849b4b0649",
+  "unesco_id": "95",
+  "names": {
+    "en": "Old City of Dubrovnik",
+    "fr": "Vieille ville de Dubrovnik",
+    "es": "Ciudad vieja de Dubrovnik",
+    "ru": "Старый город в Дубровнике",
+    "ar": "مدينة دوبروفنيك القديمة",
+    "zh": "杜布罗夫尼克古城"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "HRV": {
+        "name": "Croatia",
+        "iso2": "HR",
+        "iso3": "HRV"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO.",
+      "fr": "Sur une presqu'île de la côte dalmate, la « perle de l'Adriatique » est devenue une importante puissance maritime méditerranéenne à partir du XIIIe siècle. Bien que sévèrement endommagée par un tremblement de terre en 1667, Dubrovnik a pu préserver ses beaux monuments, églises, monastères, palais et fontaines de style gothique, Renaissance et baroque. De nouveau endommagée dans les années 1990 lors du conflit armé dans la région, la ville fait l'objet d'un grand programme de restauration coordonné par l'UNESCO.",
+      "es": "Edificada en una península de la costa dálmata, la “Perla del Adriático” fue una importante potencia marítima mediterránea desde el siglo XIII. A pesar de los graves estragos provocados por un terremoto ocurrido en 1667, Dubrovnik ha conservado sus hermosos monumentos –iglesias, monasterios, palacios y fuentes– de estilo gótico, renacentista y barroco. Tras haber sufrido daños considerables durante el conflicto bélico que azotó la región en el decenio de 1990, la ciudad se ha beneficiado de un importante programa de restauración coordinado por la UNESCO.",
+      "ru": "Жемчужина Адриатики, расположенная на далматинском побережье, являлась важной политической силой на Средиземноморье начиная с XIII в. Дубровник, хотя и сильно пострадавший при землетрясении 1667 г., сохранил свои прекрасные готические, ренесcансные и барочные церкви, монастыри, дворцы и фонтаны. Вновь пострадавший в 1990-х гг. в вооруженном конфликте, город восстанавливается в рамках большой реставрационной программы, координируемой ЮНЕСКО.",
+      "ar": "على شبه جزيرة من ساحل دالماتيا، استحالت درّة الأدرياتيكي قوّةً بحريّةً متوسطيّةً كبيرةً بدءاً من القرن الثالث عشر. مع أنّ دوبروفينك تضررت نتيجة زلزال وقع عام 1667، إلاّ أنّها تمكّنت من المحافطة على تحفها الجميلة وكنائسها وأديرتها وقصورها وينابيعها ذات الطراز القوطي والنهضوي والباروكي. وتضررت المنطقة مجدداً في التسعينات نتيجة النزاع المسلّح في المنطقة فأستُهل لحينه برنامج إعادة الترميم بالتنسيق مع اليونسكو.",
+      "zh": "这座古城位于达尔马提亚海岸(Dalmatian coast)，有“亚得里亚海明珠”之称，从13世纪开始就成为地中海的一支重要海上力量。虽然在1667年的地震中遭到严重损坏，杜布罗夫尼克仍保留了其美丽的哥特式、文艺复兴式和巴洛克式的教堂、修道院、宫殿和喷泉。20世纪90年代古城又在武装冲突中遭到损毁。现在联合国教科文组织以其为重点协调组织了一项重大修复计划，对其进行修复。"
+    },
+    "full": "The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Cultural",
+      "id": 1
+    },
+    "criteria": {
+      "cultural": [
+        1,
+        3,
+        4
+      ],
+      "natural": [],
+      "all": [
+        1,
+        3,
+        4
+      ],
+      "display": "(i)(iii)(iv)",
+      "count": 3,
+      "type": "Cultural"
+    },
+    "area": {
+      "hectares": 96.7,
+      "square_km": 0.97,
+      "square_miles": 0.391,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1979,
+      "all_dates": [
+        1979,
+        1994
+      ],
+      "extensions": [
+        1994
+      ],
+      "timeline": [
+        {
+          "year": 1979,
+          "event": "Inscribed"
+        },
+        {
+          "year": 1994,
+          "event": "Extended"
+        }
+      ],
+      "extension_count": 1
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e6b84f942cc155c7d23d8587f3f2aa3b",
+      "filename": "site_0095_0025-500-0-20251022175024.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 334
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/122651/site_0095_0025.jpg",
+        "https://whc.unesco.org/document/122653/site_0095_0027.jpg",
+        "https://whc.unesco.org/document/122654/site_0095_0028.jpg",
+        "https://whc.unesco.org/document/108767/site_0095_0001.jpg",
+        "https://whc.unesco.org/document/108769/site_0095_0002.jpg",
+        "https://whc.unesco.org/document/108771/site_0095_0003.jpg",
+        "https://whc.unesco.org/document/108773/site_0095_0004.jpg",
+        "https://whc.unesco.org/document/108775/site_0095_0005.jpg",
+        "https://whc.unesco.org/document/108777/site_0095_0006.jpg",
+        "https://whc.unesco.org/document/108779/site_0095_0007.jpg",
+        "https://whc.unesco.org/document/108781/site_0095_0008.jpg",
+        "https://whc.unesco.org/document/108783/site_0095_0009.jpg",
+        "https://whc.unesco.org/document/108785/site_0095_0010.jpg",
+        "https://whc.unesco.org/document/108787/site_0095_0011.jpg",
+        "https://whc.unesco.org/document/108791/site_0095_0013.jpg",
+        "https://whc.unesco.org/document/108792/site_0095_0014.jpg",
+        "https://whc.unesco.org/document/108794/site_0095_0015.jpg",
+        "https://whc.unesco.org/document/108796/site_0095_0016.jpg",
+        "https://whc.unesco.org/document/108798/site_0095_0017.jpg",
+        "https://whc.unesco.org/document/120523/site_0095_0019.jpg",
+        "https://whc.unesco.org/document/120524/site_0095_0020.jpg",
+        "https://whc.unesco.org/document/120525/site_0095_0021.jpg",
+        "https://whc.unesco.org/document/120526/site_0095_0022.jpg",
+        "https://whc.unesco.org/document/120527/site_0095_0023.jpg",
+        "https://whc.unesco.org/document/120528/site_0095_0024.jpg",
+        "https://whc.unesco.org/document/124211/site_0095_0029.jpg",
+        "https://whc.unesco.org/document/124212/site_0095_0030.jpg",
+        "https://whc.unesco.org/document/124213/site_0095_0031.jpg",
+        "https://whc.unesco.org/document/124214/site_0095_0032.jpg",
+        "https://whc.unesco.org/document/131006/site_0095_0033.jpg",
+        "https://whc.unesco.org/document/131007/site_0095_0034.jpg",
+        "https://whc.unesco.org/document/131008/site_0095_0035.jpg",
+        "https://whc.unesco.org/document/131009/site_0095_0036.jpg",
+        "https://whc.unesco.org/document/131010/site_0095_0037.jpg",
+        "https://whc.unesco.org/document/131011/site_0095_0038.jpg"
+      ],
+      "count": 35
+    }
+  },
+  "components": {
+    "count": 2,
+    "locations": [
+      {
+        "name": "Lokrum Island",
+        "ref": "95ter-002",
+        "latitude": 42.6289444445,
+        "longitude": 18.1180555556
+      },
+      {
+        "name": "Old City of Dubrovnik",
+        "ref": "95ter-001",
+        "latitude": 42.6414166666,
+        "longitude": 18.1088611111
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/95",
+    "unesco_documents": "https://whc.unesco.org/en/list/95/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/95/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/95/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Coastal",
+    "has_coordinates": false,
+    "is_coastal": true
+  },
+  "historical_context": {
+    "decade": "1970s",
+    "era": "Early Heritage Period (1972-1979)",
+    "age_years": 46,
+    "inscription_year": 1979
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Old City of Dubrovnik The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO. The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO. Croatia Europe and North America Cultural"
+}

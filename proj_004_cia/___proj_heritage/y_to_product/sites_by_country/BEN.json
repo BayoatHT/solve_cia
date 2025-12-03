@@ -1,0 +1,630 @@
+{
+  "country": {
+    "code": "BEN",
+    "name": "Benin"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 2,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "koutammakou_the_land_of_the_batammariba",
+      "uuid": "56858eb1-4b16-5f7d-bb6b-b8f129923b37",
+      "unesco_id": "1140",
+      "names": {
+        "en": "Koutammakou, the Land of the Batammariba",
+        "fr": "Koutammakou, le pays des Batammariba",
+        "es": "Kutammaku, el país de los Batammariba",
+        "ru": "земля народности батаммариба",
+        "ar": "كوتاماكو، وطن باتاماريبا توسيع موقع",
+        "zh": "古帕玛库，巴塔马利巴人之地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TGO": {
+            "name": "Togo",
+            "iso2": "TG",
+            "iso3": "TGO"
+          },
+          "BEN": {
+            "name": "Benin",
+            "iso2": "BJ",
+            "iso3": "BEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Koutammakou landscape in north-eastern Togo and neighbouring Benin is home to the Batammariba, whose remarkable mud tower-houses are known as takienta (sikien in the plural). Nature is strongly associated with the rituals and beliefs of society here. The landscape is exceptional due to the architecture of the tower-houses which reflect the social structure; its farmland and forest; and the associations between people and landscape. The buildings are grouped in villages, which also include ceremonial spaces, springs, sacred rocks and sites reserved for initiation ceremonies.",
+          "fr": "Le paysage du Koutammakou, dans le nord-est du Togo et le Bénin voisin, abrite les Batammariba, dont les remarquables maisons-tours en terre sont connues sous le nom de takienta (sikien au pluriel). Ici, la nature est fortement associée aux rituels et aux croyances de la société. Le paysage est exceptionnel en raison de l'architecture des maisons-tours qui reflètent la structure sociale, de ses terres agricoles et de ses forêts, et des associations entre les gens et le paysage. Les bâtiments sont regroupés en villages, qui comprennent également des espaces cérémoniels, des sources, des rochers sacrés et des sites réservés aux cérémonies d'initiation.",
+          "es": "Este sitio es una extensión del paisaje de Kutammaku, en el noreste de Togo, hogar de los batammariba. La extensión del sitio se encuentra en la vecina Benin y encarna el uso característico y original de la tierra de los batammariba, cuyas viviendas se conocen como takienta (sikien, en plural). También forman parte de este paisaje cultural las arboledas, los manantiales y las rocas sagradas, las laderas en terrazas y las redes de muros de contención de agua, así como los bosques y las especies vegetales utilizadas en la construcción de sikien, asociadas a los rituales y creencias de los batammariba.",
+          "ru": "Этот объект является продолжением ландшафта Кутаммаку на северо-востоке Того, где живут батаммариба. Продолжение участка находится в соседнем Бенине и отражает характерное и исконное землепользование батаммариба, чьи жилища известны как такьента (сикиен во множественном числе). Рощи, источники и священные камни, террасированные склоны и сети водоподпорных стен, а также леса и виды растений, используемые при строительстве сикиен, связанные с ритуалами и верованиями батаммариба, также являются частью этого культурного ландшафта.",
+          "ar": "توسيع موقع كوتاماكو، وطن باتاماريبا، توغو، المُدرج في عام 2004. يعتبر هذا الموقع امتداداً لمناظر كوتاماكو في شمال شرق توغو، وهو موطن باتاماريبا. يقع امتداد الموقع في بنن المجاورة ويجسّد الشكل المميز والأصلي لاستخدام أراضي الباتاماريبا، التي تُعرف مساكنها باسم تاكينتا (سيكيين بصيغة الجمع). وتعتبر البساتين والينابيع والصخور المقدسة والمنحدرات المتدرجة وشبكات الجدران الاستنادية للمياه والغابات وأنواع النباتات المستخدمة في بناء مساكن السيكين، المرتبطة بطقوس ومعتقدات باتاماريبا، جزءاً من هذا المشهد الثقافي.",
+          "zh": "该遗产是位于多哥东北部的世界遗产古帕玛库景观的扩展，这里是巴塔马利巴人的家园。新增区域位于邻国贝宁，展示了巴塔马利巴人独特的土地利用方式。他们的居所被称为塔钦特（多个则称西钦）。树林、泉水、圣石、开垦成梯田的山坡、保水墙组成的网络、建房及仪式和信仰中会用到的植物物种，这些都是文化景观的组成部分。"
+        },
+        "full": "The Koutammakou landscape in north-eastern Togo and neighbouring Benin is home to the Batammariba, whose remarkable mud tower-houses are known as takienta (sikien in the plural). Nature is strongly associated with the rituals and beliefs of society here. The landscape is exceptional due to the architecture of the tower-houses which reflect the social structure; its farmland and forest; and the associations between people and landscape. The buildings are grouped in villages, which also include ceremonial spaces, springs, sacred rocks and sites reserved for initiation ceremonies.",
+        "justification": "Brief synthesis Koutammakou is the name of a large territory in north-western Benin and north-eastern Togo. Dominated for the most part by the Atacora Mountains, this living cultural landscape is inhabited by the Batammariba, a people whose remarkable mud tower-houses known as sikien (takienta in the singular) have become a symbol of Togo and Benin. It forms a coherent cultural continuum, with the Beninese part home to the historical birthplace of the Batammariba. Koutammakou is an eminent example of the occupation of land by a people in constant search of harmony between humans and their natural environment. The Koutammakou cultural landscape has a wholly distinctive character. The takienta, the basic family dwelling which serves a technical, utilitarian and symbolic purpose, is truly one-of-a-kind. While many of the habitats in the region have fairly strong symbolic dimensions, no others demonstrate such a close interrelationship between symbolism, function and technique. This particular type of habitat, whose style is based on circular or elliptical shapes, is the ingenious brainchild of the Batammariba, which means Those who shape the earth in Ditammari (the language of the Otammari people). Koutammakou is a continuing living landscape representing the features of a farming society working in harmony with the landscape, where nature underpins beliefs, rituals and daily life. It comprises such tangible elements as caves, springs and sacred places, ritual and funerary spaces, groves, sikien, fields, terraced hills, networks of low water-retaining walls, wild and domestic animals (only small game remains in Koutammakou today), as well as intangible elements including beliefs, craft skills, songs, dances and traditional sports. Criterion (v): Koutammakou is an outstanding example of a traditional settlement system that is still going strong to this day, is subject to traditional and sustainable systems and practices, and reflects the unique culture of the Batammariba, particularly the mud tower-houses known as sikien (takienta in the singular). Criterion (vi): Koutammakou is an eloquent testimony to the strength of the spiritual association between people and landscape, as manifested in the harmony between the Batammariba and the surrounding natural resources. Integrity The Koutammakou cultural landscape as a whole reflects every aspect of Batammariba life, and therefore the socio-economic and cultural system that exists within the property. The Beninese part reinforces the historical integrity of Koutammakou by including the historical birthplace of the Batammariba (before their dispersal), occupied since the 6th century. The religious centres of Koubonku and Koubentiégou remain sacred places for the Batammariba, who continue to celebrate major worship ceremonies and initiation festivals there. Traditional housing is still a model today. Throughout the region, it is evident that the life cycle of buildings goes on: construction, abandonment, destruction and rebuilding on the ruins. While close observation shows that there have been changes in the materials used, the traditional model persists, because the takienta is more than a dwelling: it is a temple dedicated to the worship of ancestors. As such, even the space on the ground floor reserved for animals and the presence of granaries on the terrace remain essential elements. For example, many so-called modern houses (rectangular dwellings with tin roofs) are complemented by traditional dwellings which, though sometimes smaller in scale, nonetheless retain all their traditional architectural features and the intangible dimensions of the worship practices, beliefs and rituals associated with these buildings. Right across Koutammakou, several thousand sikien have thus been identified, including 1,400 still inhabited in Benin and 1,716 in Togo. Maintaining the sikien (mud tower-houses) requires the perpetuation of local building traditions and the use of local materials. The natural environment has suffered from some over-exploitation and it is becoming increasingly difficult to find enough wood and straw for new houses close to the villages. The integrity of the intangible aspects is in an excellent state of conservation: the link between attributes and symbolism - sacred woods, ritual paths, and the conservation of traditions and ways of life, which is reflected in the construction of the sikien. Authenticity The cultural landscape of Koutammakou reflects a particular way of life and processes and practices that have endured for centuries. To preserve its authenticity, maintaining these traditional practices is essential. Education, the centralization of administrative power, religions, tourism, monetarization and the emergence of new needs are all wielding an influence. Despite these changes, which are tending to disrupt Tammari society, there are still very strong traditional nuclei in all the villages that form this melting pot, where the unique culture of the Batammariba is perpetuated through time and space. Cultural expressions persist in spite of the upheavals caused by globalization. Respect for the spirits of the ancestors and the rites of passage for boys (difoini) and girls (dikuntri) endure with as much interest for the local populations as for the diaspora. As such, although semi-urban centres have developed (Nadoba, Warengo, Koutougou in Togo, Natta, Natitingou and Boukombé in Benin), the cultural landscape that can be seen today is unchanged, with villages of sikien surrounded by modern, detached houses which are well spaced out and set in the middle of their arable plot of land. The environment continues to be preserved for ritual (groves) and medicinal (plants) purposes as well as for the materials needed to build the sikien. Measures will be needed, however, to replant certain plant species used in traditional architecture and to demarcate areas closed to grazing. Whilst the younger generations in semi-urban centres are losing interest in this form of architecture, the guardians of the tradition continue to uphold and pass on the knowledge and skills associated with the sikien building culture. In addition, the Batammariba meet every year for a big festival organized alternately in Benin (FACTAM) and Togo (FESTAMBER). In Benin and Togo, projects are encouraging community involvement in the conservation, enhancement and promotion of Tammari culture. Protection and management requirements The Koutammakou region benefits from two types of protection: modern legal protection and traditional protection. Among the full legal apparatus, the Togolese part is protected by Law 90-24 of 23 November 1990 on the protection of national cultural heritage, Order No. 010/MCJS of 17 July 2003 on the inclusion of sites and monuments on the national heritage list of cultural properties, Order No. 124/MC/CAB of 1 October 2003 setting the geographical limits of the site and determining the components of Koutammakou, Decree No. 2010-173/PR of 15 December 2021 on the National Commission for Cultural Heritage in Togo, Law No. 2018-011 of 31 January 2018 amending Law No. 2007-011 of 13 March 2007 on decentralization and local freedoms, the Order on the composition and powers of the Koutammakou management committee, and Order No. 015/MCCSFC/CAB/18 of 17 May 2018 creating the Koutammakou conservation and promotion department. The Benin part is protected by Interministerial Decree 2020 No. 71/MTCA/MCVDD/MEF/DC/SGM/CTJ/CTC/DPC/ CCJ/SA058SGG20 fixing its geographical limits and determining its components in Benin, Law No. 91-006 of 25 February 1991 on the Cultural Charter in the Republic of Benin, Law No. 2007-20 of 23 August 2007 on the protection of cultural heritage and natural heritage of a cultural nature in the Republic of Benin and Decree No. 2019-521 of 27 November 2019 on the powers, organization and functioning of the Ministry of Tourism, Culture and the Arts. To guarantee the property’s preservation amid the urbanization of urban centres, steps are also being taken in Togo to draw up the local urbanization plan (PUL), and in Benin to draft the municipal development master plans for Boukombé, Toucountouna and Natitingou. Although the effects of changing lifestyles and the impact of climate change are now being felt in traditional Batammariba society, there are still many guardians of tradition who keep the rituals and beliefs of the Tammari people alive. Traditional practices, which cover not only technical processes but also social observances with repercussions on land management, include: respect for ancestors; observance of taboos and restrictions; absolute obedience to elders, religious leaders and clan chiefs; perpetuation of traditional rules, reaffirmed through initiation ceremonies; carefully prescribed roles for each clan member; and continuing respect for the tangible and intangible values associated with the landscape. These objectives are fully in line with the Koutammakou management plans of Togo and Benin, which are managed respectively by two separate departments for the conservation and promotion of Koutammakou. The ultimate aim is to set up a transnational management body for the property, under the supervision of the two cultural heritage directorates in Togo and Benin, with definition of the operating procedures and remit of this body. The management plan (2021-2025) for the Beninese part has therefore been drawn up in line with the guiding principles and guidelines of the management plan for the Togolese part, finalized in 2021 to cover the period 2022-2024. The purpose of the latter is to shore up or complement traditional protection in order to guarantee the proper conservation of the site and the intangible elements that underpin it. The objectives are to encourage the use of traditional materials for the construction of sikien to preserve the authenticity and integrity of the site, control the unmanaged exploitation of wood in fallow areas, achieve sustainable development within a living cultural landscape, showcase Tammari culture and promote a form of tourism that respects the values of the site. However, several key aspects will require further action for the Beninese part, such as the definition of clear protection and conservation priorities for areas with high concentrations of attributes, or greater involvement of the Batammariba in the management of the property and consideration of the traditional management and conservation practices of Koutammakou."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            5
+          ],
+          "natural": [],
+          "all": [
+            5
+          ],
+          "display": "(v)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 271826,
+          "square_km": 2718.26,
+          "square_miles": 1100.042,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2004,
+          "all_dates": [
+            2004,
+            2023
+          ],
+          "extensions": [
+            2023
+          ],
+          "timeline": [
+            {
+              "year": 2004,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2023,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7e1be95515c5b45e55826321d980b655",
+          "filename": "site_1140_0018.jpg",
+          "dimensions": {
+            "width": 3826,
+            "height": 1618
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/191156/site_1140_0018.jpg",
+            "https://whc.unesco.org/document/191157/site_1140_0019.jpg",
+            "https://whc.unesco.org/document/191158/site_1140_0020.jpg",
+            "https://whc.unesco.org/document/191159/site_1140_0021.jpg",
+            "https://whc.unesco.org/document/191160/site_1140_0022.jpg",
+            "https://whc.unesco.org/document/191161/site_1140_0023.jpg",
+            "https://whc.unesco.org/document/191162/site_1140_0024.jpg",
+            "https://whc.unesco.org/document/191163/site_1140_0025.jpg",
+            "https://whc.unesco.org/document/191165/site_1140_0027.jpg",
+            "https://whc.unesco.org/document/191166/site_1140_0028.jpg",
+            "https://whc.unesco.org/document/115261/site_1140_0001.jpg",
+            "https://whc.unesco.org/document/185457/site_1140_0017.jpg",
+            "https://whc.unesco.org/document/133064/site_1140_0008.jpg",
+            "https://whc.unesco.org/document/133066/site_1140_0010.jpg",
+            "https://whc.unesco.org/document/133068/site_1140_0012.jpg",
+            "https://whc.unesco.org/document/133070/site_1140_0014.jpg",
+            "https://whc.unesco.org/document/133071/site_1140_0015.jpg",
+            "https://whc.unesco.org/document/133072/site_1140_0016.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1140",
+        "unesco_documents": "https://whc.unesco.org/en/list/1140/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1140/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1140/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 21,
+        "inscription_year": 2004
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Koutammakou, the Land of the Batammariba The Koutammakou landscape in north-eastern Togo and neighbouring Benin is home to the Batammariba, whose remarkable mud tower-houses are known as takienta (sikien in the plural). Nature is strongly associated with the rituals and beliefs of society here. The landscape is exceptional due to the architecture of the tower-houses which reflect the social structure; its farmland and forest; and the associations between people and landscape. The buildings are grouped in villages, which also include ceremonial spaces, springs, sacred rocks and sites reserved for initiation ceremonies. The Koutammakou landscape in north-eastern Togo and neighbouring Benin is home to the Batammariba, whose remarkable mud tower-houses are known as takienta (sikien in the plural). Nature is strongly associated with the rituals and beliefs of society here. The landscape is exceptional due to the architecture of the tower-houses which reflect the social structure; its farmland and forest; and the associations between people and landscape. The buildings are grouped in villages, which also include ceremonial spaces, springs, sacred rocks and sites reserved for initiation ceremonies. Togo Benin Africa Cultural"
+    },
+    {
+      "site_key": "w_arly_pendjari_complex",
+      "uuid": "54781160-1361-500f-b4a6-7301e4bbc2fe",
+      "unesco_id": "749",
+      "names": {
+        "en": "W-Arly-Pendjari Complex",
+        "fr": "Complexe W-Arly-Pendjari",
+        "es": "Conjunto de la W, Arly y Pendjari",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BEN": {
+            "name": "Benin",
+            "iso2": "BJ",
+            "iso3": "BEN"
+          },
+          "NER": {
+            "name": "Niger",
+            "iso2": "NE",
+            "iso3": "NER"
+          },
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+          "fr": "Cette extension transnationale (Bénin, Burkina Faso) au Parc national du W au Niger, inscrit en 1996 sur la Liste du patrimoine mondial, couvre une vaste étendue de savane soudano-sahélienne intacte, avec des types de végétation comme les prairies, les brousses arbustives, les savanes boisées ou les vastes forêts-galeries. Il s’agit du plus grand et du plus important continuum d’écosystèmes terrestres, semi-aquatiques et aquatiques de la ceinture de savanes d’Afrique de l’Ouest. Le bien sert de refuge à des espèces animales qui ont disparu ailleurs en Afrique de l’Ouest ou sont très menacées. Il accueille notamment la plus grande population d’éléphants d’Afrique de l’Ouest et la plupart des grands mammifères typiques de la région, comme le lamantin d’Afrique, le guépard, le lion ou le léopard. Il abrite aussi la seule population viable de lions de la région.",
+          "es": "Esta extensión transnacional del Parque Nacional de la W del Níger, inscrito en 1996, abarca terrenos pertenecientes a Benin y Burkina Faso. El sitio es una vasta sabana intacta de tipo sudanés-saheliano con diversas clases de formaciones vegetales: praderas, malezas arbustivas, sabanas boscosas y bosques abiertos. Constituye el conjunto más vasto y continuo de ecosistemas de sabana terrestres, acuáticos y semiacuáticos del África Occidental. Su territorio no sólo sirve de refugio a especies animales amenazadas o en peligro de extinción, sino que además alberga la mayor población de elefantes y la única población viable de leones del África Occidental, y también una gran mayoría de los grandes mamíferos característicos de esta región, como manatíes, gatopardos y leopardos.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+        "justification": "Brief synthesis The W-Arly-Pendjari Complex is a transnational property shared between the Republic of Niger, Burkina Faso and the Republic of Benin in West Africa. Located in the transition zone between the savannas of the Sudanese region and the forested Guinean region, the W-Arly-Pendjari Complex lies at the heart of the most extensive protected area block in the West African Woodlands/Savanna Biogeographical Province and includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. The property encompasses 1,714,831 ha and is a contiguous mosaic of nine protected areas. It includes the trinational complex of W Regional Park (shared between Benin, Burkina Faso and Niger), Arly National Park (Burkina Faso), Pendjari National Park (Benin) and the hunting zones of Koakrana and Kourtiagou (Burkina Faso) and Konkombri and Mékrou (Benin). Criterion (ix): Stretching across three countries, W-Arly-Pendjari Complex is the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. Situated within the Volta River basin it comprises a dynamic system, where the ebb and flow of water with alternating wet and dry seasons creates a rich variety of plant communities and associated fauna. The Complex is a major expanse of intact Sudano-Sahelian savanna, with numerous and diverse types of vegetation such as grassland, shrub, wooded savannah, open forests and extensive gallery and riparian forests as well as the rare semi-deciduous forest of Bondjagou within Pendjari National Park. The long-term effects of fire linked to human occupation, perhaps dating back some 50,000 years, have shaped the vegetation of the property, and the continued traditional use of fire maintains the diversity of vegetation types, which in turn provide habitat for the property’s characteristic wildlife. Criterion (x): The property and the broader landscape are a refuge for species of fauna that have disappeared or are highly threatened in most of the rest of West Africa. The W-Arly-Pendjari Complex is particularly crucial to the conservation of the last healthy populations of mammals belonging to the Sahelian and Sudanian domains. The Complex includes the largest and most ecologically secure elephant population in West Africa, representing 85% of the region's savanna elephants. It also protects almost the complete assemblage of characteristic flora and fauna, providing crucial habitat for most of the large mammal species typical of West Africa, such as African Manatee, Cheetah, Lion, Leopard, African Wild Dog and Topi Antelope. It harbours the only viable population of lion in the area and probably the only population of cheetah in West Africa. The site exhibits particularly high levels of endemism among fish species and is home to seven of the nine endemic fish species reported in the Volta Basin. Integrity The W-Arly-Pendjari Complex is of sufficient size to permit unimpeded ecological function and the overall integrity of the system is good amongst protected areas in West Africa, many of which have suffered significant degradation from anthropogenic pressures. Covering a comparatively large area of 1,714,831 ha, the trinational property contains a representative suite of Sudano-Sahelian ecosystems that are in good condition. It includes a large variety of habitats indispensable for the survival of characteristic species and is large enough to support the healthy populations of large mammal species such as elephant and lion which range over wide territories. The W National Park and the Arly-Pendjari Regional Park complexes are connected through the four hunting reserves, allowing for connectivity across the property and free movements of animals in the complex. Hunting within the hunting reserves has, to date, been sustainably managed and these reserves include natural systems and habitat that are regarded as being of a similar quality to that within the national parks, thereby enhancing resilience. The hunting reserves would be considered equivalent to IUCN Category VI and the activity, at the time of inscription, does not appear to be negatively impacting on the property’s Outstanding Universal Value as a whole. The buffer zone of W-Arly-Pendjari Complex consists of areas of different protection status (hunting reserves, wildlife reserves, and special legally designated buffer zones) all established by national laws and covers a total area of 1,332,147 ha. The buffer zones are designed to strengthen integrity and are managed as to mitigate impacts from surrounding human activities. Protection and management requirements The property benefits from long-term legal protection through national laws and receives financial and technical support from the States and some development partners. Five of the protected areas making up the W-Arly-Pendjari Complex are protected as national parks (managed as IUCN Category II). The four hunting reserves within Benin and Burkina Faso are also managed under the same regime as national parks, noting that sustainable hunting is permitted. The hunting in these reserves is regulated through annual quotas, closely monitored and aimed at generating benefits for local communities and conservation of nature. Although the boundaries of the property are clearly defined, known by the surrounding population and regulated, there are threats such as poaching, illegal grazing and encroachment of agricultural land which persist. Adequate measures must be undertaken to address these threats including working closely with agricultural development sectors to regulate, incentivize and raise awareness among communities surrounding the property. Monitoring of the scale of transhumance activities, which are a long-standing use, is important to ensure so that it remains sustainable in relation to the property’s Outstanding Universal Value. The property is managed in Benin by the Centre National de Gestion des Réserves de Faune (CENAGREF); in Burkina Faso, Arly National Park is managed by the Office National des Aires Protégées (OFINAP) and W National Park, Burkina Faso is managed by the Direction Générale des Eaux et Forêts (DGEF). The W National Park, Niger is managed by the Direction Générale des Eaux et Forêts (DGEF) / Ministère de l'Environnement et du Développement Durable (MEDD). The multi-agency responsibilities across the three States Parties require considerable and sustained effort to ensure effective coordination and harmonization of protected area policies and practice. All national parks in the Complex have a 10-year management plan all following a joint “Schéma Directeur d’Aménagement du complexe” to foster coordination. A workable system of transboundary governance is in place under a tripartite management agreement (now quadripartite with the integration of the State Party of Togo). However, ongoing efforts are needed to improve the levels of transnational cooperation for the property. Ongoing attention is needed to ensure that the traditional application of fire continues to support fire regimes which maintain Outstanding Universal Value, particularly under the influence of climate change. Similarly the three States Parties should work cooperatively with UEMOA (Union Economique et Monétaire Ouest Africaine) to plan, monitor and act such that transhumance movements taking place in the property and its buffer zones do not adversely impact on the Outstanding Universal Value. There is also a need to sustain long-term adequate funding for the W-Arly-Pendjari Complex. The States Parties should ensure that adequate government funding is provided to manage the Complex and the necessary coordination. The West African Savannah Foundation (FSOA) created in 2012 is an endowment fund which requires further investment to ensure sustainability. It is critical that the FSOA becomes a source of funding for the entire Complex and continues to be supported and grow. Furthermore, it is important that all protected areas within the Complex are eligible to access this endowment fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1714831,
+          "square_km": 17148.31,
+          "square_miles": 6939.686,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996,
+            2017
+          ],
+          "extensions": [
+            2017
+          ],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3d04dea2d10f98ec9e8cf54015fd790c",
+          "filename": "site_0749_0001.jpg",
+          "dimensions": {
+            "width": 8100,
+            "height": 4147
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113111/site_0749_0001.jpg",
+            "https://whc.unesco.org/document/135503/site_0749_0002.jpg",
+            "https://whc.unesco.org/document/135504/site_0749_0003.jpg",
+            "https://whc.unesco.org/document/135505/site_0749_0004.jpg",
+            "https://whc.unesco.org/document/135506/site_0749_0005.jpg",
+            "https://whc.unesco.org/document/135508/site_0749_0007.jpg",
+            "https://whc.unesco.org/document/135509/site_0749_0008.jpg",
+            "https://whc.unesco.org/document/135510/site_0749_0009.jpg",
+            "https://whc.unesco.org/document/135511/site_0749_0010.jpg",
+            "https://whc.unesco.org/document/135512/site_0749_0011.jpg",
+            "https://whc.unesco.org/document/135513/site_0749_0012.jpg",
+            "https://whc.unesco.org/document/135514/site_0749_0013.jpg",
+            "https://whc.unesco.org/document/135515/site_0749_0014.jpg",
+            "https://whc.unesco.org/document/135516/site_0749_0015.jpg",
+            "https://whc.unesco.org/document/135517/site_0749_0016.jpg",
+            "https://whc.unesco.org/document/135518/site_0749_0017.jpg",
+            "https://whc.unesco.org/document/135519/site_0749_0018.jpg",
+            "https://whc.unesco.org/document/135520/site_0749_0019.jpg",
+            "https://whc.unesco.org/document/135521/site_0749_0020.jpg",
+            "https://whc.unesco.org/document/135522/site_0749_0021.jpg",
+            "https://whc.unesco.org/document/135523/site_0749_0022.jpg",
+            "https://whc.unesco.org/document/135524/site_0749_0023.jpg",
+            "https://whc.unesco.org/document/135525/site_0749_0024.jpg",
+            "https://whc.unesco.org/document/135526/site_0749_0025.jpg",
+            "https://whc.unesco.org/document/135527/site_0749_0026.jpg",
+            "https://whc.unesco.org/document/135528/site_0749_0027.jpg",
+            "https://whc.unesco.org/document/135529/site_0749_0028.jpg",
+            "https://whc.unesco.org/document/135530/site_0749_0029.jpg",
+            "https://whc.unesco.org/document/135531/site_0749_0030.jpg",
+            "https://whc.unesco.org/document/135532/site_0749_0031.jpg",
+            "https://whc.unesco.org/document/147408/site_0749_0032.jpg",
+            "https://whc.unesco.org/document/147409/site_0749_0033.jpg",
+            "https://whc.unesco.org/document/147410/site_0749_0034.jpg",
+            "https://whc.unesco.org/document/147411/site_0749_0035.jpg",
+            "https://whc.unesco.org/document/147412/site_0749_0036.jpg",
+            "https://whc.unesco.org/document/147413/site_0749_0037.jpg",
+            "https://whc.unesco.org/document/147414/site_0749_0038.jpg",
+            "https://whc.unesco.org/document/147415/site_0749_0039.jpg",
+            "https://whc.unesco.org/document/147416/site_0749_0040.jpg",
+            "https://whc.unesco.org/document/147417/site_0749_0041.jpg",
+            "https://whc.unesco.org/document/147418/site_0749_0042.jpg",
+            "https://whc.unesco.org/document/147419/site_0749_0043.jpg",
+            "https://whc.unesco.org/document/147420/site_0749_0044.jpg",
+            "https://whc.unesco.org/document/147421/site_0749_0045.jpg",
+            "https://whc.unesco.org/document/147422/site_0749_0046.jpg",
+            "https://whc.unesco.org/document/147423/site_0749_0047.jpg",
+            "https://whc.unesco.org/document/147424/site_0749_0048.jpg",
+            "https://whc.unesco.org/document/147425/site_0749_0049.jpg",
+            "https://whc.unesco.org/document/147426/site_0749_0050.jpg",
+            "https://whc.unesco.org/document/147427/site_0749_0051.jpg",
+            "https://whc.unesco.org/document/147428/site_0749_0052.jpg",
+            "https://whc.unesco.org/document/147429/site_0749_0053.jpg",
+            "https://whc.unesco.org/document/147430/site_0749_0054.jpg",
+            "https://whc.unesco.org/document/147431/site_0749_0055.jpg",
+            "https://whc.unesco.org/document/147432/site_0749_0056.jpg",
+            "https://whc.unesco.org/document/147433/site_0749_0057.jpg",
+            "https://whc.unesco.org/document/147434/site_0749_0058.jpg",
+            "https://whc.unesco.org/document/147435/site_0749_0059.jpg",
+            "https://whc.unesco.org/document/147436/site_0749_0060.jpg",
+            "https://whc.unesco.org/document/147437/site_0749_0061.jpg",
+            "https://whc.unesco.org/document/147438/site_0749_0062.jpg",
+            "https://whc.unesco.org/document/147439/site_0749_0063.jpg",
+            "https://whc.unesco.org/document/147440/site_0749_0064.jpg",
+            "https://whc.unesco.org/document/147441/site_0749_0065.jpg",
+            "https://whc.unesco.org/document/147442/site_0749_0066.jpg",
+            "https://whc.unesco.org/document/147443/site_0749_0067.jpg",
+            "https://whc.unesco.org/document/147444/site_0749_0068.jpg",
+            "https://whc.unesco.org/document/147445/site_0749_0069.jpg",
+            "https://whc.unesco.org/document/147446/site_0749_0070.jpg",
+            "https://whc.unesco.org/document/147447/site_0749_0071.jpg",
+            "https://whc.unesco.org/document/147448/site_0749_0072.jpg",
+            "https://whc.unesco.org/document/147449/site_0749_0073.jpg",
+            "https://whc.unesco.org/document/147450/site_0749_0074.jpg",
+            "https://whc.unesco.org/document/147451/site_0749_0075.jpg",
+            "https://whc.unesco.org/document/147452/site_0749_0076.jpg",
+            "https://whc.unesco.org/document/147453/site_0749_0077.jpg",
+            "https://whc.unesco.org/document/147454/site_0749_0078.jpg",
+            "https://whc.unesco.org/document/147455/site_0749_0079.jpg"
+          ],
+          "count": 78
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.8841666667,
+            "longitude": 2.6544444444
+          },
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.9,
+            "longitude": 2.1616666667
+          },
+          {
+            "name": "W National Park of Niger",
+            "ref": "749ter-001",
+            "latitude": 12.317,
+            "longitude": 2.272
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/749",
+        "unesco_documents": "https://whc.unesco.org/en/list/749/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/749/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/749/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "W-Arly-Pendjari Complex This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. Benin Niger Burkina Faso Africa Natural"
+    },
+    {
+      "site_key": "royal_palaces_of_abomey",
+      "uuid": "db8b540d-b4f9-56cf-ab79-8b6c17562a26",
+      "unesco_id": "323",
+      "names": {
+        "en": "Royal Palaces of Abomey",
+        "fr": "Palais royaux d'Abomey",
+        "es": "Palacios reales de Abomey",
+        "ru": "Королевские дворцы Абомея",
+        "ar": "القصور الملكية في أبوميه",
+        "zh": "阿波美皇宫"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BEN": {
+            "name": "Benin",
+            "iso2": "BJ",
+            "iso3": "BEN"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom.",
+          "fr": "De 1625 à 1900, douze rois se succédèrent à la tête du puissant royaume d’Abomey. A l’exception du roi Akaba, qui utilisa un enclos distinct, chacun fit édifier son palais à l’intérieur d’un enclos entouré de murs de pisé tout en conservant certaines caractéristiques de l’architecture des palais précédents dans l’organisation de l’espace et le choix des matériaux. Les palais d’Abomey fournissent un témoignage exceptionnel sur un royaume disparu.",
+          "es": "Entre 1625 y 1900 se sucedieron doce reyes en el trono del poderoso reino de Abomey. Todos ellos hicieron construir su propio palacio dentro un mismo recinto cercado por muros de adobe, excepto el rey Akaba que edificó su mansión en un recinto aparte. Cada palacio presenta características arquitectónicas comunes con los construidos precedentemente, en lo que respecta a la estructuración del espacio y los materiales utilizados. Los palacios reales de Abomey constituyen un testimonio excepcional de este reino hoy desaparecido.",
+          "ru": "За период 1625-1900 гг. сменилось 12 правителей могущественного королевства Абомей. За исключением короля Акаба, имевшего свою отдельную резиденцию, дворцы этих правителей располагались в пределах одной и той же огороженной стеной территории. Каждый новый дворец воздвигался рядом с прежними, с использованием традиционных строительных материалов. Королевские дворцы Абомея – уникальная память об этом исчезнувшем государстве.",
+          "ar": "بين العام 1625 و1900، توالى إثنا عشر ملكاً على عرش مملكة أبوميه النافذة. وباستثناء الملك أكابا الذي أقام في ملكية مسيّجة منفصلة، حرص كلّ ملك على بناء قصره الخاص داخل سور من التراب المدكوك، مع المحافظة على بعض الخصائص الهندسية للقصور السابقة لجهة تنظيم المساحة واختيار المواد. ولعلّ قصور أبوميه شهادة إستثنائية عن هذه المملكة الزائلة.",
+          "zh": "1625至1900年间，阿波美王朝12位皇帝相继执政，王朝处于鼎盛时期。除了阿卡巴皇帝(King Akaba)另选地点修建了宫殿之外，其余的各位皇帝都把皇宫建在了同一个地方，这样既可以保持与原有宫殿的联系，也能够充分利用空间和各种资源。虽然阿波美王朝早已退出了历史舞台，但是阿波美皇宫一直在向世人展示着这一强大帝国当年的辉煌。"
+        },
+        "full": "From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom.",
+        "justification": "Brief synthesis The Royal Palaces of Abomey are the major material testimony to the Kingdom of Dahomey which developed from the mid-17th century in accordance with the precept enunciated by its founder, Wegbaja, “that the kingdom shall always be made greater”. Under the twelve kings who succeeded from 1625 to 1900, the kingdom established itself as one of the most powerful of the western coast of Africa. The site of the Royal Palaces of Abomey covers an area of 47 ha, and consists of a set of ten palaces, some of which are built next to each other and others which are superimposed, according to the succession to the throne. These palaces obey the principles relating to the culture Aja-Fon, and constitute not only the decision-making centre of the kingdom, but also the centre for the development of craft techniques, and storage for the treasures of the kingdom. The site consists of two parts since the palace of King Akaba is separated from that of his father Wegbaja by one of the main roads of the city and some residential areas. These two areas are enclosed by partially preserved cob walls. The palaces have organizational constants because each is surrounded by walls and built around three courtyards (outer, inner, private). The use of traditional materials and polychrome bas-reliefs are important architectural features. Today, the palaces are no longer inhabited, but those of King Ghézo and King Glélé house the Historical Museum of Abomey, which illustrates the history of the kingdom and its symbolism through a desire for independence, resistance and fight against colonial occupation. Criterion (iii): The Royal Palaces of Abomey are a group of monuments of great historical and cultural value because of the conditions that led to their erection and the events they have witnessed. They are the living expression of a culture and an organized power, testimony to the glorious past of the kings who ruled the Kingdom of Dahomey from 1620 to 1900. Criterion (iv): Organised as a series of courtyards of increasing importance, the access to each being provided by portals built astride the walls of the main enclosure, the Royal Palaces of Abomey are a unique architectural ensemble. These complex fortified structures illustrate the ingenuity developed by the royal power, from the mid-17th century, to comply with the precept laid down by the founder of the kingdom Wegbaja “that the kingdom shall always be made greater”. Integrity An inventory drawn up in 1995 with support from the World Heritage Centre identified and mapped 184 components. Similarly, the dimensions of the property were rectified from 44 to 47 ha, and its boundaries protected by a clearly defined buffer zone. Today, more than half of these components have been restored in accordance with accepted conservation standards and with the support of UNESCO and some partners of the State of Benin, including the royal families. Authenticity The authenticity of the site is based on the continuous functionality of the palaces. The more-or-less regular celebration of traditional ceremonies and the organization of rehabilitation work on the buildings for special events, respecting traditional know-how, strengthen the authenticity of the site. Furthermore, certain elements such as the Djexo (hut that houses the spirit of the king), Adoxo (tomb of the king) and other sacred places have always been given particular attention with regard to the respect of traditional materials. Laterite, water, wood, straw and traditional building techniques remain references for any intervention that should enable good transmission of this heritage to future generations. All in all, many initiatives have been taken in a dynamic perspective and with the logic of continuity of the tradition. Protection and management requirements The adoption and promulgation of Law No. 2007-20 of 23 August 2007 on the protection of cultural heritage and natural heritage of cultural significance in the Republic of Benin, and the decree on urban planning regulation of the buffer zone of the site listed by the City of Abomey in 2006, provide a secure framework for the protection of the property. In addition, the site of the Royal Palaces of Abomey has always included sacred spaces that are respected by the royal families and populations. The organisation of ritual ceremonies is another manner of appropriate safeguard. The administrative, technical and participatory management of the site is regulated by decrees of the Minister of Culture. In addition to the existence of a technical structure of daily management directed by the Site Manager, a Management Board involving all the stakeholders (city hall, populations, royal families, heritage specialists, State), enables dynamic participatory management of this property. The activities undertaken on the site respect the provisions of the plan for the conservation, management and enhancement of the site. The precariousness of building materials used on the site, the human activities and the natural phenomena that might threaten the conservation status of the property are all elements that receive special attention through a risk management plan and a monitoring mechanism, with regard to both management issues and different means of intervention on the site."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 47.6,
+          "square_km": 0.48,
+          "square_miles": 0.193,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a59f8aeb5e2a87cb5df0121a853a6616",
+          "filename": "site_0323_0002-500-0-20121213105419.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/120902/site_0323_0002.jpg",
+            "https://whc.unesco.org/document/120903/site_0323_0003.jpg",
+            "https://whc.unesco.org/document/120904/site_0323_0004.jpg",
+            "https://whc.unesco.org/document/120905/site_0323_0005.jpg",
+            "https://whc.unesco.org/document/120906/site_0323_0006.jpg",
+            "https://whc.unesco.org/document/120907/site_0323_0007.jpg",
+            "https://whc.unesco.org/document/120908/site_0323_0008.jpg",
+            "https://whc.unesco.org/document/120909/site_0323_0009.jpg",
+            "https://whc.unesco.org/document/129349/site_0323_0010.jpg",
+            "https://whc.unesco.org/document/129350/site_0323_0011.jpg",
+            "https://whc.unesco.org/document/133464/site_0323_0012.jpg",
+            "https://whc.unesco.org/document/133465/site_0323_0013.jpg",
+            "https://whc.unesco.org/document/133466/site_0323_0014.jpg",
+            "https://whc.unesco.org/document/133467/site_0323_0015.jpg",
+            "https://whc.unesco.org/document/133469/site_0323_0017.jpg",
+            "https://whc.unesco.org/document/133470/site_0323_0018.jpg",
+            "https://whc.unesco.org/document/133471/site_0323_0019.jpg",
+            "https://whc.unesco.org/document/133472/site_0323_0020.jpg",
+            "https://whc.unesco.org/document/133473/site_0323_0021.jpg",
+            "https://whc.unesco.org/document/133474/site_0323_0022.jpg",
+            "https://whc.unesco.org/document/133475/site_0323_0023.jpg",
+            "https://whc.unesco.org/document/133476/site_0323_0024.jpg",
+            "https://whc.unesco.org/document/133477/site_0323_0025.jpg",
+            "https://whc.unesco.org/document/133478/site_0323_0026.jpg",
+            "https://whc.unesco.org/document/133479/site_0323_0027.jpg",
+            "https://whc.unesco.org/document/133480/site_0323_0028.jpg",
+            "https://whc.unesco.org/document/133486/site_0323_0032.jpg",
+            "https://whc.unesco.org/document/133490/site_0323_0036.jpg",
+            "https://whc.unesco.org/document/133491/site_0323_0037.jpg",
+            "https://whc.unesco.org/document/133492/site_0323_0038.jpg",
+            "https://whc.unesco.org/document/133493/site_0323_0039.jpg",
+            "https://whc.unesco.org/document/133494/site_0323_0040.jpg",
+            "https://whc.unesco.org/document/133495/site_0323_0041.jpg"
+          ],
+          "count": 33
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Aire du roi Akaba",
+            "ref": "323-001",
+            "latitude": 7.1944444444,
+            "longitude": 1.9930555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/323",
+        "unesco_documents": "https://whc.unesco.org/en/list/323/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/323/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/323/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Royal Palaces of Abomey From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom. From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom. Benin Africa Cultural"
+    }
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "country": {
+    "code": "PAN",
+    "name": "Panama"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 3,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "darien_national_park",
+      "uuid": "b99dab8b-fb81-5a3f-9265-c08b0058b5c8",
+      "unesco_id": "159",
+      "names": {
+        "en": "Darien National Park",
+        "fr": "Parc national du Darien",
+        "es": "Parque Nacional del Darién",
+        "ru": "Национальный парк Дарьен",
+        "ar": "منتزه داريان الوطني",
+        "zh": "达连国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park.",
+          "fr": "Pont naturel entre l'Amérique du Sud et l'Amérique centrale, le parc du Darien présente une exceptionnelle variété d'habitats : plages de sable, côtes rocheuses, mangroves, marécages, forêts tropicales de basse et moyenne altitude abritant une faune et une flore remarquables. Deux tribus indiennes vivent dans le parc.",
+          "es": "Nexo natural entre Sudamérica y Centroamérica, el Parque Nacional del Darién posee una excepcional variedad de hábitats –playas de arena, litorales rocosos, manglares, marismas y bosques tropicales de tierras altas y bajas– que albergan una fauna y flora excepcionales. Dos tribus indias pueblan el territorio del parque.",
+          "ru": "Находящийся на границе двух континентов Нового Света, этот парк включает самые разнообразные ландшафты: песчаные пляжи, скалистые берега, мангры, болота, равнинные и горные влажно-тропические леса, – и все это насыщено многообразной дикой жизнью. На территории парка проживают два индейских племени.",
+          "ar": "يوفر منتزه داريان الذي يشكل جسرًا طبيعيًا بين اميركا الجنوبية واميركا الوسطى، تنوعًّا استثنائيًّا من المساكن: الشواطئ الرملية والسواحل الصخرية والمنغروف والمستنقعات والغابات الاستوائية المنخفضة والمتوسطة الارتفاع التي تأوي مجموعة فريدة من الحيوانات والنباتات. ولا بد من الاشارة الى ان قبيلتَيْن هنديتَيْن تعيشان في المنتزه.",
+          "zh": "达连国家公园成为连接新世界两个大洲间的桥梁，这里拥有非常丰富的地理环境，如沙滩、岩石海岸、红树林、沼泽和洼地以及山地热带丛林，其间生长着奇异的野生动植物。公园里还有两个印第安部落。"
+        },
+        "full": "Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park.",
+        "justification": "Brief synthesis Darien National Park extends across some 575.000 hectares in the Darien Province of Southeastern Panama. The largest protected area in Panama, Darien is also among the largest and most valuable protected areas in Central America. The property includes a stretch of the Pacific Coast and almost the entire border with neighbouring Colombia. This includes a shared border with Los Katios National Park, likewise a World Heritage property. From sea level to Cerro Tacarcuna at 1,875 m.a.s.l., the property boasts an exceptional variety of coastal, lowland and mountain ecosystems and habitats. There are sandy beaches, rocky shores and mangroves along the coast, countless wetlands, rivers and creeks, palm forests and various types of rainforest, including the most extensive lowland rainforest on Central America's Pacific Coast. The property is also culturally and ethnically diverse, as evidenced by major archaeological findings, as well as Afro-descendants and indigenous peoples of the Embera, Wounaan, Kuna and others living within the property to this day. Darien National Park was groundbreaking by explicitly including a cultural dimension in the management and conservation of a protected area. The large size and remoteness across a broad spectrum of habitats favour the continuation of evolutionary processes in an area of both cultural significance and exceptional diversity of flora and fauna with a high degree of endemism in numerous taxonomic groups. With future research likely to lead to further discoveries, hundreds of vertebrates and thousands of invertebrates have already been recorded. Among the impressive 169 documented species of mammals are the critically endangered Brown-headed Spider Monkey, the endangered Central American Tapir, the vulnerable Giant Anteater and near-threatened species like Jaguar, Bush Dog and White-lipped Peccary. The more than 530 recorded species of birds include the endangered Great Green Macaw, the vulnerable Great Curassow and a major population of the near-threatened Harpy Eagle. Criterion (vii): The diversity of natural features in the property at the scale of a large and mostly undisturbed landscape is breathtaking. From the Pacific Coast to the highest peak of Darien Province, Darien National Park is one of the most diverse regions in all of Central America with an extraordinary range of landscapes. The main ranges, the Darien Range in the North, Pirre and Setetule in the heart of the property and the Sapo and Jurado Ranges in the South, are of volcanic origin, as illustrated by tuffs and lava. The many beautiful rivers and creeks, in particular the mighty Tuira and Balsas Rivers, are the arteries of the property. Of major importance for wildlife, they also serve as the only access and travel routes for inhabitants, researchers, visitors and park staff throughout most of the property to this day. Criterion (ix): Biogeographically speaking, the location at the southernmost end of the geologically young land bridge connecting South America and Central America is a rare and scientifically fascinating setting. Darien National Park is within the area of first contact and interchange between two major, previously isolated landmasses, which is reflected in its biodiversity. The property is within the Southern limit of Mesoamerican elements of flora and fauna while also being influenced by elements of South American rainforests, a link between Central and South America all the way to the Amazon. The property contains the most extensive lowland tropical forest on the Pacific coast of Central America, permitting the conservation and continuation of ecological and evolutionary processes at a large scale. The uninterrupted altitudinal transition of different forest types from the coastal lowlands to the mountains allows the migration, of many species, an increasingly rare large-scale setting and interaction between different ecosystems which contributes to resilience in the face of anticipated climate change. Criterion (x): Hundreds of vertebrates and thousands of invertebrates have been recorded in Darien National Park. With detailed research still scarce, there is an almost certain potential for further discoveries, especially in the poorly known and isolated cloud forests in higher elevations. Among the impressive 169 documented species of mammals are the critically endangered Brown-headed Spider Monkey, the endangered Central American Tapir, the vulnerable Giant Anteater and near-threatened species like Jaguar, Bush Dog and White-lipped Peccary. The many other charismatic species include Puma, Ocelot, Margay and Jaguarundi. The avifauna is particularly rich with 533 recorded species, for instance the endangered Great Green Macaw, the vulnerable Great Curassow and a major population of the near-threatened Harpy Eagle. There is a notable diversity of reptiles and amphibians with 99 and 78 confirmed species, respectively. The probably incomplete inventory of freshwater fish stands at 50. Endemism is considerable across many taxonomic groups of flora and fauna. There are even several endemic tree species among the more than 40 recorded endemic plants. A number of endemic mammals are restricted to the property, for instance the Darien Pocket Gopher and Slaty Slender Mouse Opossum. Integrity With its approximately 575,000 hectares, the Darien National Park is Panama's by far largest protected area, conserving a diverse and largely unaltered landscape. The scale and inaccessibility of the property and the coverage of the complete altitudinal variation from the Pacific Coast to the highest peak of the Province add up to promising conservation prospects. It also deserves to be mentioned that there are several other protected areas in the vicinity, including, most prominently, the contiguous Los Katios National Park, a World Heritage property of 72.000 hectares in neighbouring Colombia. Unlike in small, increasingly isolated protected areas, this situation allows for viable populations of flora and fauna, including large predators, provided adequate management can be assured. From an integrity perspective it is noteworthy that the property edges on a part of the Pacific known for its very high conservation values, with many species of cetaceans, marine top predators and several species of marine turtles. Given the interaction between marine and terrestrial ecosystems, as exemplfied most strikingly in the vast mangroves, an integrated consideration of marine values in regional conservation strategies may further add to the integrity of Darien National Park. Challenges to the future integrity of Darien National Park stem from possible changes of resource use patterns and intensity of inhabitants of the property, pressures from the advancing agricultural frontier in neighbouring areas, and the possible completion of the Pan-American Highway and other infrastructure. Protection and management Requirements Part of what is today the property has been under formal protection since 1972, when the Alto Darien Protection Forest was declared. The latter was reclassified as a national park by Presidential Decree in 1980. World Heritage status since 1981 and international designation as a biosphere reserve by UNESCO and parts of the area by the Ramsar Convention add a layer of recognition and protection. Darien National Park is state-owned with customary tenure of the indigenous inhabitants accepted in a part of the property. Originally managed by the National Institute for Renewable Natural Resources (INRENAREA), Darien National Park is today under the authority of the National Environmental Authority (ANAM). The private non-profit organisation ANCON was a major long term supporter, with additional technical and financial contributions from various international agencies and non-governmental organisations. A particularity of the border setting is the strategic importance of the dense mountain forests of the Darien Gap as a natural barrier to livestock diseases, with corresponding legal requirements applicable to parts of the park. Despite the size, remote location and contiguity with adjacent conservation areas in Panama and neighbouring Colombia, the property has not escaped human pressure. It is necessary to further engage in participatory natural resource management with the communities living in the property, respecting local rights while preventing developments incompatible with conservation objectives. Zonation is used as an adequate management tool to this end. The expanding agricultural frontier and related colonization near the property have resulted in major deforestation and timber extraction and continue to occur in poorly controlled fashion. Responses are needed to prevent undesired development from extending into the property. The border setting presents certain challenges, including security considerations, but also opportunities, such as for example, cooperation and coordination with Los Katios National Park in neighbouring Colombia, a World Heritage property within a shared ecosystem with a common cultural and ethnic history. Broader development in the transboundary region has been controversially debated for decades. Of particular conservation concern is the possible completion of the Pan-American Highway, which would likely induce fundamental change to an area that continues to be difficult to access. Other potential infrastructure projects likewise require careful assessments of benefits and negative social and environmental impacts."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 579000,
+          "square_km": 5790.0,
+          "square_miles": 2343.133,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e5fb77a65aa7658615009b5b9dca4318",
+          "filename": "site_0159_0002-500-0-20151105151403.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108513/site_0159_0002.jpg",
+            "https://whc.unesco.org/document/108515/site_0159_0003.jpg",
+            "https://whc.unesco.org/document/124802/site_0159_0006.jpg",
+            "https://whc.unesco.org/document/124803/site_0159_0007.jpg",
+            "https://whc.unesco.org/document/124804/site_0159_0008.jpg",
+            "https://whc.unesco.org/document/124805/site_0159_0009.jpg",
+            "https://whc.unesco.org/document/124806/site_0159_0010.jpg",
+            "https://whc.unesco.org/document/124807/site_0159_0011.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Darien National Park",
+            "ref": "159",
+            "latitude": 7.736111111,
+            "longitude": -77.54722222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/159",
+        "unesco_documents": "https://whc.unesco.org/en/list/159/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/159/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/159/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Darien National Park Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park. Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park. Panama Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "coiba_national_park_and_its_special_zone_of_marine_protection",
+      "uuid": "e18fb1c5-f47d-5a87-ae31-a9d5d0bf5165",
+      "unesco_id": "1138",
+      "names": {
+        "en": "Coiba National Park and its Special Zone of Marine Protection",
+        "fr": "Parc national de Coiba et sa zone spéciale de protection marine",
+        "es": "Parque Nacional de Coiba y su zona especial de protección marina",
+        "ru": "Национальный парк Койба и его особо охраняемая акватория",
+        "ar": "منتزه كويبا الوطني ومنطقة كويبا الخاصة للحماية البحرية",
+        "zh": "柯义巴岛国家公园及其海洋特别保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Coiba National Park, off the southwest coast of Panama, protects Coiba Island, 38 smaller islands and the surrounding marine areas within the Gulf of Chiriqui. Protected from the cold winds and effects of El Niño, Coiba’s Pacific tropical moist forest maintains exceptionally high levels of endemism of mammals, birds and plants due to the ongoing evolution of new species. It is also the last refuge for a number of threatened animals such as the crested eagle. The property is an outstanding natural laboratory for scientific research and provides a key ecological link to the Tropical Eastern Pacific for the transit and survival of pelagic fish and marine mammals.",
+          "fr": "Le Parc national de Coiba, au large de la côte ouest du Panama, protège l’île de Coiba, 38 îlots et les zones marines environnantes dans le golfe de Chiriqui. Abritées des vents froids et des effets d’El Niño, les forêts tropicales humides du Pacifique de Coiba entretiennent un niveau d’endémisme exceptionnel pour les mammifères, les oiseaux et les plantes en raison de l’évolution en cours de nouvelles espèces. C’est le dernier refuge d’un certain nombre d’espèces menacées telles que la harpie huppée. Le bien est un laboratoire naturel exceptionnel pour la recherche scientifique et sert de lien écologique clé dans le Pacifique tropical oriental pour le transit et la survie de poissons pélagiques et de mammifères marins.",
+          "es": "El Parque Nacional de Coiba, situado frente a la costa sudoeste de Panamá, en el Golfo de Chiriquí, protege la isla de Coiba y otras 38 islas e islotes menores, así como las zonas marinas circundantes. Amparado contra los vientos fríos y la corriente de El Niño, el bosque tropical húmedo de Coiba es un lugar de formación de nuevas especies, como lo demuestra el alto nivel de endemismo de muchos de sus mamíferos, pájaros y plantas. Último refugio de varias especies en peligro como el águila arpía, este sitio es un laboratorio natural excepcional para la investigación científica y un nexo ecológico fundamental en el Pacífico tropical oriental para el tránsito y la supervivencia de especies de peces pelágicos y mamíferos marinos.",
+          "ru": "Национальный парк Койба, располагающийся у юго-западного тихоокеанского побережья Панамы, включает крупный остров Койба, 38 более мелких островов, а также прилегающую акваторию в заливе Чирики. Будучи защищенными от прохладных ветров и испытывая воздействие теплого течения Эль-Ниньо, здешние влажнотропические леса поддерживают исключительно высокий уровень эндемизма среди млекопитающих, птиц и растений, причем процессы видообразования продолжаются и поныне. Парк служит последним убежищем для целого ряда исчезающих видов, например, для хищной птицы гарпии. Данный район представляет собой прекрасную естественную лабораторию для проведения научных изысканий, он имеет также ключевое значение для сохранения пелагических рыб и морских млекопитающих.",
+          "ar": "يوفّر منتز كويبا الوطني، في عرض بحر الساحل الغربي لباناما، حمايةً لجزيرة كويبا ومجموعة مؤلفة من 38 جزيرة صغيرة والمناطق البحرية المجاورة في خليج شيريكي. كما أن الغابات الاستوائيّة الرطبة الواقعة في المحيط الهادي لجزيرة كويبا، التي تنأى عن الهواء البارد وآثار إعصار النينيو، تؤمن مستوى استيطان استثنائي للثدييات والطيور والنباتات بفعل التطور الراهن للأنواع الجديدة. إنه الملجأ الأخير لعددٍ معيَّنٍ من الأنواع المهدَّدة كالخفاش ذي القنبرة، ومختبر طبيعي استثنائي للبحث العلمي. يوفّر هذا المنتزه رابطًا بيئيًّا أساسيًّا في المنطقة الاستوائية الشرقية للمحيط الهادي لتسهيل مرور الأسماك المحيطية والثدييات البحرية وبقائها حيَّة.",
+          "zh": "柯义巴岛国家公园远离巴拿马西南海岸，保护着柯义巴岛、38个小岛和奇里基湾内四周的海域。柯义巴的太平洋热带雨林没有受到冷风和厄尔尼诺影响，由于新物种的持续进化，它包含了极高水平的地方性哺乳动物、鸟类和植物。这还是像冠鹰一样的许多濒危动物的最后庇护所。这里是科学家进行研究的重要的自然实验室，并为远洋鱼和海洋哺乳动物的转移和生存提供了炎热的东部太平洋关键生态链。"
+        },
+        "full": "Coiba National Park, off the southwest coast of Panama, protects Coiba Island, 38 smaller islands and the surrounding marine areas within the Gulf of Chiriqui. Protected from the cold winds and effects of El Niño, Coiba’s Pacific tropical moist forest maintains exceptionally high levels of endemism of mammals, birds and plants due to the ongoing evolution of new species. It is also the last refuge for a number of threatened animals such as the crested eagle. The property is an outstanding natural laboratory for scientific research and provides a key ecological link to the Tropical Eastern Pacific for the transit and survival of pelagic fish and marine mammals.",
+        "justification": "Brief synthesis Coiba National Park and its Special Zone of Marine Protection, is located in the Republic of Panama in the Gulf of Chiriqui, in the western sector of the country. The property protects Coiba Island along with 38 smaller islands and the surrounding marine area and is immersed in the Tropical Eastern Pacific, forming part of the Tropical Eastern Pacific Marine Corridor (CMAR). It is the last refuge for a number of threatened animals and an essential area for migratory species, including the essentials for the maintenance of the ecological balance of the oceanic masses, and valuable habitat for cetaceans, sharks, sea turtles and a large variety of pelagic fish species of high importance to regional level fisheries. The property contains marine environments that have characteristics of both a continental and oceanic influence, and include insular marine coastal and terrestrial island ecosystems. This wide range of environments and resulting habitats is a result of the property’s location, close to the edge of the continental platform and at the same time to the mainland. These features combine to produce landscapes of incomparable beauty that are home to an exceptionally high level of endemism for mammals, birds and plants. An outstanding natural laboratory, the property provides a key ecological link to the Tropical Eastern Pacific and an important area for scientific research. The size and length of the property allows for the protection of a whole and healthy ecosystem that is one of the last major refuges for rare and endangered species of tropical America. The conservation of the property is the main objective of close cooperation between the several stakeholders that form the Coiba National Park’s Directors Board, the authority responsible for the governance and management of the property. Criterion (ix): Despite the short time of isolation of the islands of the Gulf of Chiriquí on an evolutionary timeframe, new species are being formed, which is evident from the levels of endemism reported for many groups (mammals, birds, plants), making the property an outstanding natural laboratory for scientific research. Furthermore the Eastern Pacific reefs, such as those within the property, are characterized by complex biological interactions of their inhabitants and provide a key ecological link in the Tropical Eastern Pacific for the transit and survival of numerous pelagic fish as well as marine mammals. Criterion (x): The forests of Coiba Island possess a high variety of endemic birds, mammals and plants. Coiba Island also serves as the last refuge for a number of threatened species that have largely disappeared from the rest of Panama, such as the Crested Eagle and the Scarlet Macaw. Furthermore the marine ecosystems within the property are repositories of extraordinary biodiversity conditioned to the ability of the Gulf of Chiriquí to buffer against temperature extremes associated to El Niño/Southern Oscilation phenomenon. The property includes 760 species of marine fishes, 33 species of sharks and 20 species of cetaceans. The islands within the property are the only group of inshore islands in the tropical eastern Pacific that have significant populations of trans-Pacific fishes, namely, Indo-Pacific species that have established themselves in the eastern Pacific. Integrity The boundaries of the property are legally defined and contain a core protection area, consisting of the Coiba National Park and a designated buffer area, providing an essential zoning system to safeguard the beauty of the area and protect its important natural values. It contains the necessary elements to ensure the permanence of the necessary processes for long-term conservation of the ecosystems and the unique biological diversity of the property. The property encompasses the Island of Coiba in its entirety, thus providing refuge for its endemic species as well as for species that have largely disappeared from mainland Panama. It is a large area whose boundaries encompass 430,825 ha, comprising a marine component covering oceanic ecosystems including continental environments, islands with abrupt topography and legal protection. Combined with difficult access in many areas the legal protection assists in keeping the property relatively unaltered and with minimal human intervention. The existence and integration of other marine protected areas at both national and regional levels, provides additional contributions to the protection of the special values that make the property exceptional. A number of factors could threaten the integrity of it property’s attributes and require attention, such as illegal fishing, both in regards to scale and equipment used, introduced species and ecotourism development projects. Additionally, climatic changes could also affect the conservation of the ecosystems within the property. Protection and management requirements Coiba National Park encompasses over 270,125 ha of which 216,500 ha are marine and 53,625 ha are insular and include Coiba Island along with 38 smaller islands. The Special Zone of Marine Protection is included within the boundaries of the property as a buffer area to the core area of the National Park and encompasses an additional 160,700 ha. Combined the National Park and the SZMP includes 53,761 ha of terrestrial habitats and 377,064 ha of marine area. The property is protected under National Law 44, signed by the Legislative Assembly of the Republic of Panama on 26th July 2004, establishing Coiba National Park and a Special Zone of Marine Protection within the Gulf of Chiriqui. National Law 44 established the boundaries of the National Park along with its Zone of Marine Protection as well as the protection and management regulations for both of these areas. The property is subject to national level management which is supported by the legal and institutional framework that allows for the execution of an innovative governance model, through cooperative and coordinated participation of different stakeholders. The National Park was created by Resolution No. 021 (1991) of the National Authority of the Environment and the property is operationally managed by the National Environmental Authority and administratively by both national and local authorities along with members of civil society such as environmental NGOs and productive sectors. This approach to management works towards ensuring the property has the basic funding requirements for its management. It also assists in achieving the management objective of ensuring the conservation, protection and continuity of the ecological processes. In order to achieve this it is necessary to maintain and promote coordinated and participatory environmental management among communities, national authorities, users and stakeholders. Fishing pressures on both the Coiba National Park and the Special Zone of Marine Protection is one of the threats and impacts on the property and along with infrastructure development, agriculture, forest cutting, human settlements and exploration and exploitation of mineral resources, while strictly prohibited remain potential threats. These issues have been extensively addressed by the management authority, along with NGOs that support continued conservation efforts and require ongoing investment in regards to monitoring Escuchar Leer fonéticamente. Tourism interest in the property has grown and is expected to increase with the number of visitors growing rapidly. Tourism activities include use of the beaches and coastal areas as well as underwater activities and need to be monitored and managed so as to prevent significant impacts on the property and its values. As with other Marine Protected Areas, both in the region and world wide, the property faces the threats and impacts resulting from climate change such as coral bleaching, stronger and more frequent hurricanes and sea level rise."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 270125,
+          "square_km": 2701.25,
+          "square_miles": 1093.159,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/00976f1c4ac62d3d493bf784b484cb89",
+          "filename": "site_1138_0001-500-0-20151126161220.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 335
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/115256/site_1138_0001.jpg",
+            "https://whc.unesco.org/document/139328/site_1138_0002.jpg",
+            "https://whc.unesco.org/document/139329/site_1138_0003.jpg",
+            "https://whc.unesco.org/document/139330/site_1138_0004.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Coiba National Park and its Special Zone of Marine Protection",
+            "ref": "1138rev",
+            "latitude": 7.433,
+            "longitude": -81.766
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1138",
+        "unesco_documents": "https://whc.unesco.org/en/list/1138/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1138/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1138/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Coiba National Park and its Special Zone of Marine Protection Coiba National Park, off the southwest coast of Panama, protects Coiba Island, 38 smaller islands and the surrounding marine areas within the Gulf of Chiriqui. Protected from the cold winds and effects of El Niño, Coiba’s Pacific tropical moist forest maintains exceptionally high levels of endemism of mammals, birds and plants due to the ongoing evolution of new species. It is also the last refuge for a number of threatened animals such as the crested eagle. The property is an outstanding natural laboratory for scientific research and provides a key ecological link to the Tropical Eastern Pacific for the transit and survival of pelagic fish and marine mammals. Coiba National Park, off the southwest coast of Panama, protects Coiba Island, 38 smaller islands and the surrounding marine areas within the Gulf of Chiriqui. Protected from the cold winds and effects of El Niño, Coiba’s Pacific tropical moist forest maintains exceptionally high levels of endemism of mammals, birds and plants due to the ongoing evolution of new species. It is also the last refuge for a number of threatened animals such as the crested eagle. The property is an outstanding natural laboratory for scientific research and provides a key ecological link to the Tropical Eastern Pacific for the transit and survival of pelagic fish and marine mammals. Panama Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "talamanca_range_la_amistad_reserves_la_amistad_national_park",
+      "uuid": "0015d9db-e9e6-5049-90f7-c2ef87204108",
+      "unesco_id": "205",
+      "names": {
+        "en": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+        "fr": "Réserves de la cordillère de Talamanca-La Amistad / Parc national La Amistad",
+        "es": "Reservas de la Cordillera de Talamanca–La Amistad /Parque Nacional de la Amistad",
+        "ru": "Резерваты Таламанка-Рейндж и Ла-Амистад",
+        "ar": "محميّات سلسلة جبال تالامنكا – لا أميستاد/ منتزه لا أميستدا الوطني",
+        "zh": "塔拉曼卡仰芝－拉阿米斯泰德保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          },
+          "CRI": {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "iso3": "CRI"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama.",
+          "fr": "Dans cet unique endroit de l'Amérique centrale où les glaciations du quaternaire ont laissé leur marque, une situation géographique particulière a permis des échanges génétiques entre la faune et la flore de l'Amérique du Nord et celles de l'Amérique du Sud. Des forêts tropicales couvrent la plus grande partie du site. Quatre tribus indiennes différentes habitent ce site, qui bénéficie d'une étroite coopération entre le Costa Rica et le Panamá.",
+          "es": "La ubicación geográfica de este sitio excepcional de Centroamérica –que conserva huellas de las glaciaciones de la Era Cuaternaria– ha facilitado el contacto entre la flora y la fauna de América del Norte y América del Sur. La mayor parte de la superficie de esta región, habitada por cuatro tribus indígenas distintas, está cubierta por bosques lluviosos tropicales. La conservación del sitio es objeto de una estrecha cooperación entre Costa Rica y Panamá.",
+          "ru": "Этот уникальный уголок Центральной Америки, служивший мостом для соприкосновения флоры и фауны Северной Америки и Южной Америки, располагается там, где четвертичный ледник оставил свои следы. На этой территории, большая часть которой покрыта влажно-тропическими лесами, проживают четыре индейских племени.",
+          "ar": "في هذا الموقع الفريد من نوعه في أمريكا الوسطى حيث خلّف جليد الدهر الرابع بصماته، موقع جغرافي فريدٌ من نوعه سمح بالتبادل الجيني بين أصناف أمريكا الشماليّة والجنوبيّة النباتيّة والحيوانيّة. وتغطّي غابات استوائيّة الجزء الأكبر من الموقع. وتقطن قبائل هنديّة مختلفة أربعة في هذا الموقع الذين يفيد من تعاونٍ وثيقٍ بين كوستاريكا وباناما.",
+          "zh": "这一独特的遗址位于中美洲，这里有第四纪冰川的痕迹，北美和南美的动植物在这里杂植。热带雨林覆盖了大部分地区。四个不同的印第安部落生活在这片土地上，他们从哥斯达黎加与巴拿马的密切合作中受益匪浅。"
+        },
+        "full": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama.",
+        "justification": "Brief synthesis The Talamanca Range-La Amistad Reserves / La Amistad National Park extends along the border between Panama and Costa Rica. The transboundary property covers large tracts of the highest and wildest non-volcanic mountain range in Central America and is one of that region's outstanding conservation areas. The Talamanca Mountains contain one of the major remaining blocks of natural forest in Central America with no other protected area complex in Central America containing a comparable altitudinal variation. The property has many peaks exceeding 3,000 m.a.s.l. on both sides of the border, including Cerro Chirripo, the highest elevation in Costa Rica and all of southern Central America at 3,819 m.a.s.l. The surface area of the property 570,045 hectares, of which 221,000 hectares are on the Panamanian side. The beautiful and rugged mountain landscape harbours extraordinary biological and cultural diversity. Pre-ceramic archaeological sites indicate that the Talamanca Range has a history of many millennia of human occupation. There are several indigenous peoples on both sides of the border within and near the property. In terms of biological diversity, there is a wide range of ecosystems, an unusual richness of species per area unit and an extraordinary degree of endemism. The scenic mountains and foothills contain impressive footprints of Quaternary glaciation, such as glacial cirques, lakes and valleys shaped by glaciers, phenomena not found elsewhere in the region. The property is a large and mostly intact part of the land-bridge where the faunas and floras of North and South America have met. The enormous variety of environmental conditions, such as microclimate and altitude leads to an impressive spectrum of ecosystems. The many forest types include tropical lowland rainforest, montane forest, cloud forest and oak forest. Other particularities of major conservation value include high altitude bogs and Isthmus Paramo in the highest elevations, a rare tropical alpine grassland. Longstanding isolation of what can be described as an archipelago of mountain islands has favoured remarkable speciation and endemism. Some 10,000 flowering plants have been recorded. Many of the region's large mammals have important populations within the property, overall 215 species of mammals have been recorded. Around 600 species of birds have been documented, as well as some 250 species of reptiles and amphibians and 115 species of freshwater fish. Most taxonomic groups show a high degree of endemism. The large extension and the transboundary conservation approach entail a great potential for the management and conservation of an extraordinary large-scale mountain ecosystem shared by Costa Rica and Panama. Criterion (vii): The property harbours exceptionally beautiful mountain landscapes. Much of the rugged terrain is covered by vast forests. Within the region, the unusual high altitude grasslands are restricted to the property, allowing extraordinary panoramic views. The remarkable vestiges of Quaternary glaciation add to the particularity of the landscape through the cirques, shapes of valleys and glacial lakes. The Talamanca Range hosts countless rivers and creeks, some of them forming spectacular waterfalls. In addition to scenic values the Talamanca Mountains also have major spiritual value for local communities. Criterion (viii): The Talamanca Range is a very particular sample of the recent geological history of the Central American Isthmus, the relatively narrow strip of land connecting North and South America and separating the Pacific and Atlantic Oceans. The property shows impressive marks of Quaternary glacial activity, which has shaped glacial cirques, glacial lakes and deep, “U”-shaped valleys, which cannot be found anywhere else in Central America. Criterion (ix): As a large and mostly intact part of a geologically young land bridge, what is today the property is a meeting point of flora and fauna coming from North and South America. Many of the original species of the previously disconnected sub-continents reach their distribution boundaries in the Talamanca Mountains. Jointly with the climatic variation, the complex relief and huge altitudinal range and heterogeneity of many other environmental conditions this biogeographic location has resulted in a complex mosaic of ecosystems and habitats of global importance for conservation and science. The mosaic includes oak forests, different types of tropical rainforest, cloud forest and the rare high altitude bogs and grasslands. The latter, referred to as “Isthmus Paramo”, is regionally restricted to the property and extremely rich in endemic species. Evolutionary processes triggered a speciation with extraordinary levels of endemism across numerous taxonomic groups. Many endemic species are restricted to single peaks of the mountain range. Ecologically, these peaks can be compared to islands of an archipelago. Criterion (x): The property boasts an exuberant biological diversity of both flora and fauna with an elevated degree of endemism across numerous taxonomic groups, often exceeding one third of the species within a taxonomic group. The Talamanca Mountains host some 10,000 flowering plants and over 4,000 non-vascular plants. There are approximately 1,000 fern species and about 900 species of lichen. Many of the region's large mammals have important populations within the property; overall 215 species of mammals have been recorded. The property hosts viable populations of many rare, vulnerable and endangered species, which include all cat species of Central America, the endangered species Ornate Spider Monkey and Central American Tapir, as well as the vulnerable Black-crowned Central American Squirrel Monkey. Some 600 bird species include the resplendent Quetzal and several species of rare raptors. Other vertebrates include some 250 species of reptiles and amphibians and remarkable 115 species of freshwater fish. Of the amphibians, six species are restricted to the Cordillera, such as the endangered Splendid Poison Frog. Integrity The property comprises large parts of the Talamanca Mountains, including essential areas to maintain the visual integrity of the area's landscape beauty. The size and relative intactness enables the long term continuation of the processes that have shaped the ecosystems and habitats and their associated biological diversity. The rugged terrain, difficult access and the formal protection status have kept human impacts at bay. The vast transboundary complex of protected areas encompasses many environmental gradients, including an impressive altitudinal gradient. Thereby, the property offers a valuable opportunity for the conservation of viable populations of species requiring large ranges and habitat diversity in order to perform daily, seasonal or altitudinal migrations. The anticipated climate change casts a shadow on the property. At the same time, due to the size and altitudinal range, the property is expected to be more resilient than smaller, isolated protected areas. Despite the protection status, some threats are tangible or on the horizon and might impact on the integrity in the long term, therefore requiring careful attention. These include forest fires, illegal extraction of flora and fauna, encroachment and infrastructure plans. Protection and management requirements Following up on a joint declaration by the Presidents of the two countries in 1979, Costa Rica nominated several contiguous protected areas, which were inscribed on the World Heritage List in 1983. In 1990, Panama's adjacent La Amistad National Park was inscribed on the World Heritage List as an extension to the Costa Rican property, thereby forming one of the very few transboundary World Heritage properties, an excellent intergovernmental framework for coordinated and cooperative management and conservation. The bi-national Transboundary Protected Area Technical Commission monitors the agreement and steers negotiations between the many private and public groups and agencies active in Talamanca. In both countries, there is a strong legal and institutional framework for the protection and management of the individual protected areas, which belong to various categories. In this sense, management is under the authority of the national environmental authorities of both countries, which is also the source of basic financing. At the same time, there are many initiatives at the local level with the support of many conservation groups, including as regards financing. One of the particularities and indeed values of the property is the large size and composition of many contiguous components across an international border. This signifies a major potential in terms of securing the continuity of the ecological processes at the landscape level, but also a continuous challenge. Insufficient funding in the past has resulted in shortcomings in terms of staff, equipment and infrastructure. More importantly, broader developments on both sides of the international border require attention to prevent deterioration or loss of the property's exceptional conservation values. There is encroachment along the advancing agricultural frontier for subsistence, plantations and cattle ranching, particularly along the Pacific slopes and along roads. Past encroachment has facilitated settlements, logging, forest fires, grazing, fishing and poaching, illegal extraction of flora and fauna, all jointly fragmenting the forests and deteriorating the natural resources. A balance must also be sought and maintained between the traditional but dynamic livelihood systems of indigenous residents with resource use including free-range grazing, hunting, fishing and collection of medicinal plants. Other documented challenges include the looting of archaeological sites and unregulated tourism. It is indispensable to involve the resource-dependent local and indigenous communities in the management. Zonation and the definition of a buffer zone for the property are promising instruments to this effect. Major projects foreseen in and around the property include oil exploration, mining copper mining, hydropower, transmission lines, and road construction, all requiring full consideration of social and ecological impacts. The existing alliance between the governments of Panama and Costa Rica requires consolidation, with harmonized management frameworks at the landscape level"
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(vii)(viii)(ix)(x)",
+          "count": 4,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 570045,
+          "square_km": 5700.45,
+          "square_miles": 2306.894,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983,
+            1990
+          ],
+          "extensions": [
+            1990
+          ],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            },
+            {
+              "year": 1990,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/76faacdce3aecef7422355489c713c80",
+          "filename": "site_0205_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109132/site_0205_0001.jpg",
+            "https://whc.unesco.org/document/109133/site_0205_0002.jpg",
+            "https://whc.unesco.org/document/109134/site_0205_0003.jpg",
+            "https://whc.unesco.org/document/109135/site_0205_0004.jpg",
+            "https://whc.unesco.org/document/109136/site_0205_0005.jpg",
+            "https://whc.unesco.org/document/120522/site_0205_0008.jpg",
+            "https://whc.unesco.org/document/131952/site_0205_0009.jpg",
+            "https://whc.unesco.org/document/131953/site_0205_0010.jpg",
+            "https://whc.unesco.org/document/131954/site_0205_0011.jpg",
+            "https://whc.unesco.org/document/131955/site_0205_0012.jpg",
+            "https://whc.unesco.org/document/131956/site_0205_0013.jpg",
+            "https://whc.unesco.org/document/131957/site_0205_0014.jpg",
+            "https://whc.unesco.org/document/136933/site_0205_0015.jpg",
+            "https://whc.unesco.org/document/136934/site_0205_0016.jpg",
+            "https://whc.unesco.org/document/136935/site_0205_0017.jpg",
+            "https://whc.unesco.org/document/136936/site_0205_0018.jpg",
+            "https://whc.unesco.org/document/136937/site_0205_0019.jpg",
+            "https://whc.unesco.org/document/136938/site_0205_0020.jpg",
+            "https://whc.unesco.org/document/136939/site_0205_0021.jpg",
+            "https://whc.unesco.org/document/136940/site_0205_0022.jpg",
+            "https://whc.unesco.org/document/136941/site_0205_0023.jpg",
+            "https://whc.unesco.org/document/136942/site_0205_0024.jpg"
+          ],
+          "count": 22
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+            "ref": "205bis",
+            "latitude": 9.407083333,
+            "longitude": -82.93880556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/205",
+        "unesco_documents": "https://whc.unesco.org/en/list/205/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/205/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/205/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Talamanca Range-La Amistad Reserves / La Amistad National Park The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama. The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama. Panama Costa Rica Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "fortifications_on_the_caribbean_side_of_panama_portobelo_san_lorenzo",
+      "uuid": "d66c7b0d-6de1-5616-869e-feeffccca3f1",
+      "unesco_id": "135",
+      "names": {
+        "en": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+        "fr": "Fortifications de la côte caraïbe du Panama : Portobelo, San Lorenzo",
+        "es": "Fortificaciones de la costa caribeña de Panamá: Portobelo y San Lorenzo",
+        "ru": "Укрепления на карибском побережье Панамы: Портобело и Сан-Лоренцо",
+        "ar": "تحصينات الساحل الكاريبي في باناما: بورتوبيلو سان لورينزو",
+        "zh": "巴拿马加勒比海岸的防御工事：波托韦洛－圣洛伦索"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade.",
+          "fr": "Magnifiques exemples de l'architecture militaire des XVIIe et XVIIIe siècles, ces forts de la côte caraïbe du Panamá faisaient partie du système défensif mis en place par la Couronne d'Espagne pour protéger le grand commerce transatlantique.",
+          "es": "Estos fuertes panameños son magníficos prototipos de la arquitectura militar de los siglos XVII y XVIII y para brindar protección al comercio transatlántico. Espléndidos ejemplos de la arquitectura militar de los siglos XVII y XVIII, estos fuertes de la costa caribeña de Panamá formaban parte del sistema defensivo creado por la Corona de España para proteger el comercio transatlántico.",
+          "ru": "Панамские форты, расположенные на карибском побережье страны представляют собой великолепные примеры военной архитектуры XVII-XVIII вв. Форты являются звеньями единой оборонительной системы, созданной испанцами для защиты трансатлантической торговли.",
+          "ar": "كانت تحصينات الساحل الكاريبي في باناما التي تشكل الامثلة الدقيقة عن الهندسة العسكرية في القرنَيْن السابع عشر والثامن عشر، جزءًا من النظام الدفاعي الذي وضعته العائلة المالكة الاسبانية لحماية التجارة المهمة وراء الاطلسي.",
+          "zh": "作为17世纪和18世纪军事建筑的优美典范，这些加勒比海岸的巴拿马城堡成为西班牙王室保护跨大西洋贸易的防御体系的一个部分。"
+        },
+        "full": "Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade.",
+        "justification": "Brief synthesis The Fortifications on the Caribbean side of Panamá: Portobelo and San Lorenzo are located along the coast of the Province of Colón. There are diverse fortification sites around the Bay of Portobelo, denominated San Fernando fortifications: Lower Battery, Upper Battery and Hilltop Stronghold; San Jerónimo Battery Fort; Santiago fortifications: Castle of Santiago de la Gloria, Battery and Hilltop Stronghold; the old Santiago Fortress; ruins of Fort Farnese; the La Trinchera site; the Buenaventura Battery; and the San Cristóbal site. Forty-three kilometers away, at the mouth the Chagres River stands the San Lorenzo Castle (originally “San Lorenzo el Real del Chagre”) with its Upper Battery as a separate structure. The component parts of the property represent characteristic examples of military architecture developed by the Spanish Empire in its New World territories largely between the 17th and the 18th centuries. The first plans for fortifying the entrance to the Bay of Portobelo and the mouth of the Chagres River were prepared in 1586 by Bautista Antonelli. Following his recommendations, the first fortifications in Portobelo were begun in the 1590’s. As a whole, these structures comprised a defensive line to protect Portobelo’s harbour and the mouth of the Chagres River, which were the Caribbean terminals of the transcontinental route across the Isthmus of Panama. The defensive system includes fortifications in different styles, some of them skilfully integrated into the natural landscape as part of its military defensive design. They were also adapted to the changing needs of defensive technologies in the course of three centuries in order to protect the capital resources sent from colonial America to Spain after crossing the Isthmus of Panama. In the earliest constructions, a military style with mediaeval features prevailed, while in the eighteenth century the structures were rebuilt in the neo-classical style, which can be observed at the forts of Santiago, San Jeronimo and San Fernando, and also at San Lorenzo. On the regional scale, these military compounds belonged to a larger defensive system, including Veracruz (Mexico), Cartagena (Colombia), and Havana (Cuba), to protect the route of commercial trade between the Americas and Spain. Portobelo, where the famous fairs were held, was one of the principal Caribbean ports and played a leading role controlling the imperial trade in the Americas. The site is a key element to the understanding of the adaptation of European building models and their impact on the New World transformation during the modern era. This property demonstrates the strategic organization of the territory and represents an important concept of defence and technology development mainly between the 17th and 18th centuries. The town of San Felipe de Portobelo was founded in March 20th, 1597, as a Caribbean Terminal of the trail through the Isthmus of Panama, to replace Nombre de Dios as a port of transit and trans-shipment. The need to ease the overland path along the Isthmus during the rainy season called for an alternative route. The Chagres River-Cruces path, a mixed fluvial and land trail, was the counterpart of Camino Real from Panama City to Portobelo, built as a response to this need. Criterion (i): The Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo are a masterpiece of human creative genius. Portobelo is a remarkable example of an open fortified town, destroyed and built several times. San Lorenzo underwent the same process of renovations along the colonial era. Criterion (iv): The Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo, a group of late 16th, 17th and 18th century fortifications, are among the most characteristic adaptations of Spanish military architecture to tropical climate and landscape features, and represent the structural and technological development of military structures in the Caribbean. Integrity The key elements that convey the Outstanding Universal Value of the property are located within the original boundaries. These features still illustrate the evolution of military architecture developed by the Spanish colonial empire to protect the commerce route which connected South America with Spain across the Isthmus of Panama. The major components of the fortified system are still visible at Portobelo, where most colonial fortresses continue to be a resemblance of the original; the same applies to the bay, where the forts are emplaced. Likewise, at San Lorenzo the fort and the Chagres river mouth have been maintained. However, the integrity of the property has been compromised to different degrees by environmental factors, by uncontrolled urban sprawl and development and by the lack of maintenance and management. A number of measures, including conservation works, enforcement of regulations and the operation of a site management unit, will need to be implemented in a sustained manner to prevent the further erosion of the conditions of integrity, particularly at the component parts located in Portobelo. Authenticity In terms of form, design, material and setting the components of the property have remained mostly unchanged through time, expressing the essence of the fortified system and the evolution of European models of military architecture from the late 16th to the 18th century in the Americas. The military structures have largely retained the overall original form, although most architectural finishes, decorative elements and some wall sections have been lost as a result of decay. The vulnerability to decay factors will need to be addressed through sustained conservation actions, carried out in accordance with scientific conservation principles and standards. Protection and management requirements The Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo are protected by general Panamanian legislation on heritage (Law 14/1982, updated by Law 58/2003) and by specific legal instruments for each site. Underwater historic vestiges are protected nationwide by Law 32/2003. Existing legislation underscores the protection of Portobelo (Law 91/1976 and Executive Decree 43/1999). Municipal Ordinance 32/2005 addresses long-standing land ownership issues in Portobelo’s historic core and surrounding National Park. On December 27, 2011, the National Heritage Directorate established new guidelines for architectural projects in monuments and historic sites in the erntire country, which also apply to the Fortifications on the Caribbean side of Panama (Resolution 172-11/DNPH). In the case of San Lorenzo, protection is granted by Law 61/1908, Law 68/1941, and the general heritage legislation mentioned above. However, due to its recent incorporation to the Panamanian administration after 83 years under United States government management, protection policies need to be strengthened. The Protection and Development Plan for the Interoceanic Region approved by Law 21/1997 also includes conservation norms for San Lorenzo. In April, 2005, the National Environment Authority (ANAM) published a Management Plan for Chagres National Park which includes conservation measures for San Lorenzo. Both fortified compounds are under the administration of the National Institute of Culture (Instituto Nacional de Cultura - INAC) through the National Heritage Directorate and since 2007 also by the Patronato Portobelo San Lorenzo, a mixed public-private organization currently responsible for management, conservation, and community outreach and fundraising. Its primary goals are protecting the architectural remains and making this heritage accessible to national and international communities. Among the requirements identified for the proper protection of the property is the creation of a Master Plan to guide all short- and long-term actions and strategies at both sites. Protection mechanisms at San Lorenzo need to be updated in the form of a specific site law (including detailed protective measurements and the enlargement of boundaries and a buffer zone creation); the San Lorenzo component has recently been segregated from Chagres National Park and is in the process of being transferred to INAC’s custody. At Portobelo, designation and effective protection and management of buffer zones for each fortified structure, is mandatory to guarantee its protection from the pressures of urban growth."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            4
+          ],
+          "display": "(i)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2012",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a6265a6e1e2b23ae6a4480a68b99e33c",
+          "filename": "site_0135_0001.jpg",
+          "dimensions": {
+            "width": 2816,
+            "height": 2112
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108167/site_0135_0001.jpg",
+            "https://whc.unesco.org/document/108169/site_0135_0002.jpg",
+            "https://whc.unesco.org/document/108171/site_0135_0003.jpg",
+            "https://whc.unesco.org/document/108173/site_0135_0004.jpg",
+            "https://whc.unesco.org/document/108175/site_0135_0005.jpg",
+            "https://whc.unesco.org/document/108177/site_0135_0006.jpg",
+            "https://whc.unesco.org/document/125859/site_0135_0009.jpg",
+            "https://whc.unesco.org/document/125860/site_0135_0010.jpg",
+            "https://whc.unesco.org/document/125861/site_0135_0011.jpg",
+            "https://whc.unesco.org/document/125862/site_0135_0012.jpg",
+            "https://whc.unesco.org/document/125863/site_0135_0013.jpg",
+            "https://whc.unesco.org/document/125864/site_0135_0014.jpg",
+            "https://whc.unesco.org/document/132384/site_0135_0015.jpg",
+            "https://whc.unesco.org/document/132385/site_0135_0016.jpg",
+            "https://whc.unesco.org/document/132386/site_0135_0017.jpg",
+            "https://whc.unesco.org/document/132387/site_0135_0018.jpg",
+            "https://whc.unesco.org/document/132389/site_0135_0020.jpg",
+            "https://whc.unesco.org/document/132390/site_0135_0021.jpg",
+            "https://whc.unesco.org/document/132391/site_0135_0022.jpg",
+            "https://whc.unesco.org/document/132392/site_0135_0023.jpg",
+            "https://whc.unesco.org/document/132393/site_0135_0024.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Portobelo",
+            "ref": "135-001",
+            "latitude": 9.5538888889,
+            "longitude": -79.6558333333
+          },
+          {
+            "name": "San Lorenzo",
+            "ref": "135-002",
+            "latitude": 9.3241666667,
+            "longitude": -80.0030555556
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/135",
+        "unesco_documents": "https://whc.unesco.org/en/list/135/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/135/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/135/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade. Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade. Panama Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "the_colonial_transisthmian_route_of_panama",
+      "uuid": "b6305ae6-1726-50d4-9c8b-38930eafdd33",
+      "unesco_id": "1582",
+      "names": {
+        "en": "The Colonial Transisthmian Route of Panamá",
+        "fr": "La route transisthmique coloniale du Panamá",
+        "es": "Ruta colonial transístmica de Panamá",
+        "ru": "Колониальный маршрут через Панамский перешеек",
+        "ar": "الطريق الاستعماري العابر لبرزخ بنما",
+        "zh": "殖民时期跨巴拿马地峡通道"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "PAN": {
+            "name": "Panama",
+            "iso2": "PA",
+            "iso3": "PAN"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century.",
+          "fr": "À partir du XVIe siècle, l’isthme de Panama est devenu un atout stratégique mondial, facilitant le transport des biens et des personnes entre la péninsule Ibérique et les colonies du royaume d’Espagne en Amérique, l’archipel des Philippines et les îles Canaries. Ce bien en série témoigne de la traversée de l’isthme et notamment des établissements fortifiés, des villes historiques et des sites archéologiques et tronçons de routes qui reliaient la mer des Caraïbes à l’océan Pacifique jusqu’au milieu du XVIIIe siècle.",
+          "es": "A partir del siglo XVI, el istmo de Panamá se convirtió en un activo estratégico global que facilitaba el transporte de mercancías y personas entre la Península Ibérica y las colonias del Reino de España en América, el archipiélago de Filipinas y las Islas Canarias. La ruta es testimonio del cruce del istmo, con asentamientos fortificados estratégicos, ciudades históricas, sitios arqueológicos y carreteras utilizadas para conectar el Mar Caribe y el Océano Pacífico hasta mediados del siglo XVIII.",
+          "ru": "Начиная с XVI века, Панамский перешеек приобрёл глобальное стратегическое значение, обеспечивая перемещение товаров и людей между Иберийским полуостровом, американскими колониями Испанской короны, Филиппинским архипелагом и Канарскими островами. Этот маршрут включает укреплённые поселения, исторические города, археологические памятники и дороги, по которым осуществлялось пересечение перешейка между Карибским морем и Тихим океаном вплоть до середины XVIII века.",
+          "ar": "بات برزخ بنما اعتباراً من القرن السادس عشر أحد الأصول الاستراتيجية على مستوى العالم، كونه يسهّل نقل البضائع والأشخاص بين شبه الجزيرة الإيبيرية والمستعمرات الإسبانية في أمريكا، وأرخبيل الفلبين، وجزر الكناري. ويقف هذا العنصر المتسلسل شاهداً على عبور البرزخ، إذ يضم مستوطنات محصّنة استراتيجية، ومدناً تاريخية، ومواقع أثرية، وطرقاً كانت تُستخدم لربط البحر الكاريبي بالمحيط الهادئ حتى منتصف القرن الثامن عشر.",
+          "zh": "自16世纪起，巴拿马地峡成为全球战略要道，为伊比利亚半岛与西班牙王国美洲殖民地、菲律宾群岛、加那利群岛之间的货物和人员运输提供便利。该系列遗产见证了穿越地峡的历程，包括防御性据点、历史城镇、考古遗址与直至18世纪中叶仍在用于连接加勒比海与太平洋的路网。"
+        },
+        "full": "From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 689.88,
+          "square_km": 6.9,
+          "square_miles": 2.792,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2025,
+          "all_dates": [
+            2025
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2025,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/aff772069907f06a599834a0618c4dd1",
+          "filename": "site_1582_0001.jpg",
+          "dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/219801/site_1582_0001.jpg",
+            "https://whc.unesco.org/document/219802/site_1582_0002.jpg",
+            "https://whc.unesco.org/document/219803/site_1582_0003.jpg",
+            "https://whc.unesco.org/document/219804/site_1582_0004.jpg",
+            "https://whc.unesco.org/document/219805/site_1582_0005.jpg",
+            "https://whc.unesco.org/document/219806/site_1582_0006.jpg",
+            "https://whc.unesco.org/document/219807/site_1582_0007.jpg",
+            "https://whc.unesco.org/document/219808/site_1582_0008.jpg",
+            "https://whc.unesco.org/document/219809/site_1582_0009.jpg",
+            "https://whc.unesco.org/document/219810/site_1582_0010.jpg",
+            "https://whc.unesco.org/document/219811/site_1582_0011.jpg",
+            "https://whc.unesco.org/document/219812/site_1582_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 6,
+        "locations": [
+          {
+            "name": "Castle of San Lorenzo",
+            "ref": "1582rev-001",
+            "latitude": 9.3231722223,
+            "longitude": -79.999775
+          },
+          {
+            "name": "Camino de Cruces Section 2",
+            "ref": "1582rev-003",
+            "latitude": 9.0844055555,
+            "longitude": -79.604625
+          },
+          {
+            "name": "Camino de Cruces Section 3",
+            "ref": "1582rev-004",
+            "latitude": 9.0156138889,
+            "longitude": -79.5758972223
+          },
+          {
+            "name": "Camino de Cruces Section 1",
+            "ref": "1582rev-002",
+            "latitude": 9.2949583333,
+            "longitude": -79.9716777778
+          },
+          {
+            "name": "Historic District of Panamá",
+            "ref": "1582rev-006",
+            "latitude": 8.9524305556,
+            "longitude": -79.5347416666
+          },
+          {
+            "name": "Archaeological Site of Panamá Viejo",
+            "ref": "1582rev-005",
+            "latitude": 9.0066583333,
+            "longitude": -79.4852722222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1582",
+        "unesco_documents": "https://whc.unesco.org/en/list/1582/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1582/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1582/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 0,
+        "inscription_year": 2025
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Colonial Transisthmian Route of Panamá From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century. From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century. Panama Latin America and the Caribbean Cultural"
+    }
+  ]
+}

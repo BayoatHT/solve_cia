@@ -1,0 +1,458 @@
+{
+  "country": {
+    "code": "MRT",
+    "name": "Mauritania"
+  },
+  "total_sites": 2,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "banc_d_arguin_national_park",
+      "uuid": "1fa39131-bfa0-5aa2-91fe-39d368b6ae4f",
+      "unesco_id": "506",
+      "names": {
+        "en": "Banc d'Arguin National Park",
+        "fr": "Parc national du banc d'Arguin",
+        "es": "Parque Nacional del Banco de Arguin",
+        "ru": "Национальный парк Банк д`Арген",
+        "ar": "المنتزه الوطني بانك دارغوين",
+        "zh": "阿尔金岩石礁国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MRT": {
+            "name": "Mauritania",
+            "iso2": "MR",
+            "iso3": "MRT"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found.",
+          "fr": "Situé le long de la côte atlantique, ce parc est formé de dunes de sable, de zones côtières marécageuses, de petites îles et d'eaux littorales peu profondes. L'austérité du désert et la richesse biologique de la zone marine créent un paysage terrestre et marin exceptionnellement contrasté. Une remarquable diversité d'oiseaux migrateurs y passent l'hiver. On y trouve également plusieurs espèces de tortues marines ainsi que des dauphins, que les pêcheurs utilisent pour rabattre les bancs de poissons.",
+          "es": "Situado a lo largo la costa del Atlántico, este parque abarca una vasta extensión de dunas, pantanos costeros, islotes y aguas litorales poco profundas. La aspereza del desierto y la riqueza biológica de la zona marina crean un paisaje terrestre y marino excepcionalmente contrastado. Este sitio sirve de lugar de invernada a una gran variedad de aves y es el hábitat de varias especies de tortugas marinas y delfines, que los pescadores utilizan para localizar los bancos de peces.",
+          "ru": "Парк располагается на побережье Атлантического океана и включает песчаные дюны, прибрежные болота, небольшие острова и мелководье. В переходной зоне между знойной пустыней и океаном сформировались исключительно ценные природные комплексы. Самые разнообразные мигрирующие птицы прилетают сюда на зимовку. Здесь обитают морские черепахи нескольких видов, а также дельфины, которых местные рыбаки используют для загона косяков рыбы.",
+          "ar": "يتألَّف هذا المنتزه الذي يقع على طول الساحل الاطلسي من تلالٍ رمليّةٍ ومن مناطقَ ساحليّةٍ مستنقعيّة ومن جزر صغيرة ومن مياه ساحلية غير عميقة. فقسوة الصحراء والثروة البيولوجية في المنطقة البحرية تشكّلان منظراً أرضيًا وبحريًا متناقضًا بامتياز، حيث تمضي العصافير المهاجرة الفريدة التنوّع فصل الشتاء. وفي هذا المنتزه أيضًا، عدّة أنواع من السلاحف البحريّة، بالاضافة الى الدلافين التي يستعملها الصيادون لتوجيه مسار أسراب السمك.",
+          "zh": "阿尔金岩石礁国家公园位于大西洋海岸，由沙丘、海岸沼泽、小岛和浅海湾构成。贫瘠的荒漠环境以及沿海地区的多样性，使得陆地与海岸的自然风光形成了强烈对照。种类繁多的候鸟在这里越冬。渔民们用来吸引大量鱼群的几种海龟和海豚在这里也可以找到。"
+        },
+        "full": "Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found.",
+        "justification": "Brief synthesis The Banc d'Arguin is one of the most important zones in the world for nesting birds and Palearctic migratory waders. Located along the Atlantic coast, this Park is formed of sand dunes, areas of coastal swamps, small islands and shallow coastal waters. The austerity of the desert and the biodiversity of the marine area results in a land and seascape of exceptional contrasting natural value. Criterion (ix): Banc d'Arguin National Park is an ecosystem rich in biodiversity of nutrients and organic matter due to the vast expanse of marshes covered with seagrass beds, and an important windblown sediment addition from the continent and the result of the permanent upwelling of the Cap Blanc. This wealth ensures the maintenance of a marine and coastal environment sufficiently rich and diverse to support important communities of fish, birds and marine mammals. Criterion (x): Banc d'Arguin National Park comprises the most important habitat of the Western Atlantic for nesting birds of west Africa and the Palearctic migratory waders. The vast expanses of marshes provide shelter to more than two million limicolous migrant birds from northern Europe, Siberia and Greenland. The nesting bird population is also remarkable in terms of diversity and number: between 25,000 and 40,000 pairs belonging to 15 bird species. The shallows and island area is also the centre of intense biological activity: there are 45 fish species, 11 species of shellfish and several species of mollusks. The property also contains several species of marine turtles, notably the green seaturtle (Chelonia mydas) on the IUCN Red List of Threatened Species. Among the mammals, there are still some remnant populations of Dorcas gazelle (Gazella dorcas). The bottlenose dolphin and the Atlantic hump-backed dolphin are frequently sighted in the property. Integrity The rectilinear boundaries of the property suggest that they were not based on ecological parameters, but more likely correspond to administrative requirements. The eastern limit extends inwards to a desert zone, in places up to 50 metres, and constitutes a wide band where activities incompatible with the conservation of the property may be conducted. Certain revisions to the southern limit, to exclude the village of Cape Timiris and the military base, would not detract from the value of the property and could eventually be envisaged. The marine boundary forms, also, a straight line and crosses the shallows of the property through the centre. It would be particularly justifiable that the whole shallows zone be included in the property. The satellite reserve of 200ha located at Cap Blanc constitutes the habitat for a monk seal colony and presents issues as regards its integrity. First, the reserve boundaries encompass the habitat of the 100 monk seals found in the region, the remainder using the area to the north known as the Côte des Phoques. This means that the condition of integrity that requires sufficient area to ensure continuity for the species is not satisfied. Second, the extension of the Cap Blanc Reserve to encompass the key breeding and nursery area at Côte des Phoques, is not possible as the international boundary in this area of the Western Sahara remains to be determined. For this reason, the World Heritage Committee decided to inscribe the property and exclude the Cap Blanc Reserve, the inscription of which can only be envisaged after the resolution of the issue of boundary limits and when the part of the Côte des Phoques could be included. The main threat to the property are projects likely to alter the traditional activities of local fishing. The introduction of new technologies and an increased catch could affect and seriously disturb the fish life of the region. Protection and management requirements Protection of the property is regulated by the statute for protected reserves. The property has a management plan. The main threats to the property are most linked to unregulated development of maritime activities and coastal infrastructures. Fishing activities have considerably increased and the material and methods of fishing have changed as have the species targeted. Consequently, protection of the marine resources against over-exploitation is essential. To mitigate the problem, the implementation of a surveillance programme on the risks to marine resources, including illegal commercial fishing. The risk of pollution by hydrocarbons on the international maritime route of western Africa and from the petroleum industries is also considerable. Urgent planning to cope with the eventuality of an oil spill, is required for the property and its surrounds. Another important issue in the management of the property is the prevention of poaching and logging causing the degradation of the terrestrial part of the property. As for the maritime part of the property, a full terrestrial surveillance programme is required. The possible impacts of climate change must also be studied."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1200000,
+          "square_km": 12000.0,
+          "square_miles": 4856.235,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1989,
+          "all_dates": [
+            1989
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1989,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6a0f56dd41f90be8d5bd902b05ff717b",
+          "filename": "site_0506_0001-500-0-20151105122824.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110502/site_0506_0001.jpg",
+            "https://whc.unesco.org/document/110504/site_0506_0002.jpg",
+            "https://whc.unesco.org/document/110505/site_0506_0003.jpg",
+            "https://whc.unesco.org/document/110507/site_0506_0004.jpg",
+            "https://whc.unesco.org/document/110509/site_0506_0005.jpg",
+            "https://whc.unesco.org/document/110511/site_0506_0006.jpg",
+            "https://whc.unesco.org/document/110513/site_0506_0007.jpg",
+            "https://whc.unesco.org/document/110515/site_0506_0008.jpg",
+            "https://whc.unesco.org/document/110517/site_0506_0009.jpg",
+            "https://whc.unesco.org/document/110519/site_0506_0010.jpg",
+            "https://whc.unesco.org/document/110520/site_0506_0011.jpg",
+            "https://whc.unesco.org/document/110522/site_0506_0012.jpg",
+            "https://whc.unesco.org/document/110524/site_0506_0013.jpg",
+            "https://whc.unesco.org/document/110526/site_0506_0014.jpg",
+            "https://whc.unesco.org/document/110528/site_0506_0015.jpg",
+            "https://whc.unesco.org/document/110530/site_0506_0016.jpg",
+            "https://whc.unesco.org/document/110532/site_0506_0017.jpg",
+            "https://whc.unesco.org/document/130392/site_0506_0018.jpg",
+            "https://whc.unesco.org/document/130393/site_0506_0019.jpg",
+            "https://whc.unesco.org/document/130394/site_0506_0020.jpg",
+            "https://whc.unesco.org/document/130395/site_0506_0021.jpg",
+            "https://whc.unesco.org/document/130396/site_0506_0022.jpg",
+            "https://whc.unesco.org/document/130397/site_0506_0023.jpg",
+            "https://whc.unesco.org/document/130398/site_0506_0024.jpg",
+            "https://whc.unesco.org/document/130399/site_0506_0025.jpg",
+            "https://whc.unesco.org/document/130400/site_0506_0026.jpg",
+            "https://whc.unesco.org/document/130401/site_0506_0027.jpg",
+            "https://whc.unesco.org/document/130402/site_0506_0028.jpg",
+            "https://whc.unesco.org/document/130403/site_0506_0029.jpg",
+            "https://whc.unesco.org/document/130404/site_0506_0030.jpg",
+            "https://whc.unesco.org/document/130405/site_0506_0031.jpg",
+            "https://whc.unesco.org/document/130406/site_0506_0032.jpg",
+            "https://whc.unesco.org/document/130407/site_0506_0033.jpg",
+            "https://whc.unesco.org/document/130408/site_0506_0034.jpg",
+            "https://whc.unesco.org/document/130409/site_0506_0035.jpg",
+            "https://whc.unesco.org/document/130410/site_0506_0036.jpg",
+            "https://whc.unesco.org/document/130411/site_0506_0037.jpg",
+            "https://whc.unesco.org/document/130412/site_0506_0038.jpg",
+            "https://whc.unesco.org/document/130413/site_0506_0039.jpg",
+            "https://whc.unesco.org/document/130414/site_0506_0040.jpg",
+            "https://whc.unesco.org/document/130415/site_0506_0041.jpg",
+            "https://whc.unesco.org/document/130416/site_0506_0042.jpg",
+            "https://whc.unesco.org/document/130417/site_0506_0043.jpg",
+            "https://whc.unesco.org/document/130418/site_0506_0044.jpg",
+            "https://whc.unesco.org/document/130419/site_0506_0045.jpg",
+            "https://whc.unesco.org/document/130420/site_0506_0046.jpg",
+            "https://whc.unesco.org/document/130421/site_0506_0047.jpg",
+            "https://whc.unesco.org/document/130422/site_0506_0048.jpg",
+            "https://whc.unesco.org/document/130423/site_0506_0049.jpg",
+            "https://whc.unesco.org/document/130424/site_0506_0050.jpg",
+            "https://whc.unesco.org/document/130425/site_0506_0051.jpg",
+            "https://whc.unesco.org/document/130426/site_0506_0052.jpg",
+            "https://whc.unesco.org/document/130427/site_0506_0053.jpg",
+            "https://whc.unesco.org/document/130428/site_0506_0054.jpg",
+            "https://whc.unesco.org/document/130429/site_0506_0055.jpg",
+            "https://whc.unesco.org/document/130430/site_0506_0056.jpg",
+            "https://whc.unesco.org/document/130431/site_0506_0057.jpg",
+            "https://whc.unesco.org/document/130432/site_0506_0058.jpg",
+            "https://whc.unesco.org/document/130433/site_0506_0059.jpg",
+            "https://whc.unesco.org/document/130434/site_0506_0060.jpg",
+            "https://whc.unesco.org/document/130435/site_0506_0061.jpg",
+            "https://whc.unesco.org/document/130436/site_0506_0062.jpg",
+            "https://whc.unesco.org/document/130437/site_0506_0063.jpg",
+            "https://whc.unesco.org/document/130438/site_0506_0064.jpg",
+            "https://whc.unesco.org/document/130439/site_0506_0065.jpg",
+            "https://whc.unesco.org/document/130440/site_0506_0066.jpg",
+            "https://whc.unesco.org/document/130441/site_0506_0067.jpg",
+            "https://whc.unesco.org/document/130442/site_0506_0068.jpg",
+            "https://whc.unesco.org/document/130443/site_0506_0069.jpg",
+            "https://whc.unesco.org/document/130444/site_0506_0070.jpg",
+            "https://whc.unesco.org/document/130445/site_0506_0071.jpg",
+            "https://whc.unesco.org/document/130446/site_0506_0072.jpg",
+            "https://whc.unesco.org/document/130447/site_0506_0073.jpg",
+            "https://whc.unesco.org/document/130448/site_0506_0074.jpg",
+            "https://whc.unesco.org/document/130449/site_0506_0075.jpg",
+            "https://whc.unesco.org/document/130450/site_0506_0076.jpg",
+            "https://whc.unesco.org/document/130451/site_0506_0077.jpg",
+            "https://whc.unesco.org/document/130452/site_0506_0078.jpg",
+            "https://whc.unesco.org/document/130453/site_0506_0079.jpg",
+            "https://whc.unesco.org/document/130454/site_0506_0080.jpg",
+            "https://whc.unesco.org/document/130455/site_0506_0081.jpg",
+            "https://whc.unesco.org/document/130456/site_0506_0082.jpg",
+            "https://whc.unesco.org/document/130457/site_0506_0083.jpg",
+            "https://whc.unesco.org/document/130458/site_0506_0084.jpg",
+            "https://whc.unesco.org/document/130459/site_0506_0085.jpg",
+            "https://whc.unesco.org/document/130460/site_0506_0086.jpg",
+            "https://whc.unesco.org/document/130461/site_0506_0087.jpg",
+            "https://whc.unesco.org/document/130462/site_0506_0088.jpg",
+            "https://whc.unesco.org/document/130463/site_0506_0089.jpg",
+            "https://whc.unesco.org/document/130464/site_0506_0090.jpg",
+            "https://whc.unesco.org/document/130465/site_0506_0091.jpg",
+            "https://whc.unesco.org/document/130466/site_0506_0092.jpg",
+            "https://whc.unesco.org/document/130467/site_0506_0093.jpg",
+            "https://whc.unesco.org/document/130468/site_0506_0094.jpg",
+            "https://whc.unesco.org/document/130469/site_0506_0095.jpg",
+            "https://whc.unesco.org/document/130470/site_0506_0096.jpg",
+            "https://whc.unesco.org/document/130471/site_0506_0097.jpg",
+            "https://whc.unesco.org/document/130472/site_0506_0098.jpg",
+            "https://whc.unesco.org/document/130473/site_0506_0099.jpg",
+            "https://whc.unesco.org/document/130474/site_0506_0100.jpg",
+            "https://whc.unesco.org/document/130475/site_0506_0101.jpg",
+            "https://whc.unesco.org/document/130476/site_0506_0102.jpg",
+            "https://whc.unesco.org/document/130477/site_0506_0103.jpg",
+            "https://whc.unesco.org/document/130478/site_0506_0104.jpg",
+            "https://whc.unesco.org/document/130479/site_0506_0105.jpg",
+            "https://whc.unesco.org/document/130480/site_0506_0106.jpg",
+            "https://whc.unesco.org/document/130481/site_0506_0107.jpg"
+          ],
+          "count": 107
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Banc d'Arguin National Park",
+            "ref": "506",
+            "latitude": 20.23472,
+            "longitude": -16.10889
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/506",
+        "unesco_documents": "https://whc.unesco.org/en/list/506/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/506/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/506/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 36,
+        "inscription_year": 1989
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Banc d'Arguin National Park Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found. Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found. Mauritania Arab States Natural"
+    },
+    {
+      "site_key": "ancient_i_ksour_i_of_ouadane_chinguetti_tichitt_and_oualata",
+      "uuid": "1893d3fe-c072-5da6-8b57-3df686fe9457",
+      "unesco_id": "750",
+      "names": {
+        "en": "Ancient <I>Ksour</I> of Ouadane, Chinguetti, Tichitt and Oualata",
+        "fr": "Anciens <I>ksour</I> de Ouadane, Chinguetti, Tichitt et Oualata",
+        "es": "Antiguos ksurs de Uadane, Chingueti, Tichit y Ualata",
+        "ru": "Ксары (укрепленные жилища) в Уадане, Шингетти, Тишите и Уалате",
+        "ar": "قصور وادان وشنقيطي وتشيت ووالاتا القديمة",
+        "zh": "瓦丹、欣盖提、提希特和瓦拉塔古镇"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MRT": {
+            "name": "Mauritania",
+            "iso2": "MR",
+            "iso3": "MRT"
+          }
+        },
+        "region": {
+          "name": "Arab States",
+          "code": "ARB"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded in the 11th and 12th centuries to serve the caravans crossing the Sahara, these trading and religious centres became focal points of Islamic culture. They have managed to preserve an urban fabric that evolved between the 12th and 16th centuries. Typically, houses with patios crowd along narrow streets around a mosque with a square minaret. They illustrate a traditional way of life centred on the nomadic culture of the people of the western Sahara.",
+          "fr": "Cités fondées aux XIe et XIIe siècles pour répondre aux besoins des caravanes traversant le Sahara, ces centres marchands et religieux devinrent des foyers de la culture islamique. Ils ont remarquablement préservé un tissu urbain élaboré entre le XIIe et le XVIe siècle, avec leurs maisons à patio se serrant en ruelles étroites autour d'une mosquée à minaret carré. Ils témoignent d'un mode de vie traditionnel, centré sur la culture nomade, des populations du Sahara occidental.",
+          "es": "Fundados en los siglos XI y XII para responder a las necesidades de las caravanas que atravesaban el Sahara, estos centros comerciales y religiosos se convirtieron en focos de propagación de la cultura islámica. Su tejido urbano, formado entre los siglos XII y XVI, se ha conservado admirablemente, con sus casas provistas de patios que se apiñan a lo largo de callejuelas estrechas en torno a una mezquita de minarete cuadrado. Todos ellos son ilustrativos del modo de vida tradicional de las poblaciones del Sahara Occidental, centrado en la cultura nómada.",
+          "ru": "Основанные в XI-XII вв. для обслуживания караванов, пересекающих Сахару, эти торговые и религиозные центры стали важными средоточиями исламской культуры. Они сумели сохранить городскую застройку, сложившуюся в XII-XVI вв. Обычно дома с внутренними дворами концентрировались вдоль узких улиц, окружая мечеть с квадратным минаретом. Все это иллюстрирует типичный жизненный уклад, основанный на культуре кочевничества народов западной Сахары.",
+          "ar": "تأسّست هذه المدن في القرنَيْن الحادي عشر والثاني عشر لتلبية احتياجات القوافل التي تعبر الصحراء. وأصبحت هذه المراكز المتحرّكة والدينية مقرّاتٍ للثقافة الاسلامية. كما حافظت بشكلٍ ملحوظٍ على نسيجها المدنيّ النهائي بين القرنَيْن الثاني عشر والسادس عشر، فكلّ منزل فيها يحتوي على صحن دار وهي تتقارب إلى درجة أنّه لا تفصل بينها سوى أزقّة ضيّقة، وهي تصطفّ حول مسجد يتميّز بمئذنة مربّعة. كما تشهد هذه المدن على طريقة عيشٍ تقليدية وتركّز على الثقافة البدويّة لشعوب الصحراء الغربية.",
+          "zh": "这些城镇建造于公元11世纪和12世纪，是贸易和宗教的中心，为经过撒哈拉沙漠的商队提供服务，并逐渐发展成为伊斯兰文化的中心。人们设法保存了公元12世纪到16世纪所建的城镇。沿着狭窄的街道是拥挤的带有天井的房子，环绕着一个有正方形尖塔的清真寺。这展示了具有西撒哈拉游牧文化人们的传统生活方式。"
+        },
+        "full": "Founded in the 11th and 12th centuries to serve the caravans crossing the Sahara, these trading and religious centres became focal points of Islamic culture. They have managed to preserve an urban fabric that evolved between the 12th and 16th centuries. Typically, houses with patios crowd along narrow streets around a mosque with a square minaret. They illustrate a traditional way of life centred on the nomadic culture of the people of the western Sahara.",
+        "justification": "Brief synthesis These four ancient towns, founded in the 11th and 12th centuries, were originally built to serve the important caravan trade routes that began crossing the Sahara. They comprise outstanding examples of settlements and were synonymous with cultural, social and economic life over numerous centuries. These trading and religious centres became the home of Islamic culture. Developed between the 12th and 16th centuries, the towns constitute a series of stages along the trans-Saharan trade route with a remarkably well preserved urban fabric, and houses with patios densely-packed into narrow streets around a mosque with a square minaret. They bear witness to a traditional lifestyle, centred on the nomadic culture of the populations of Western Sahara. The medieval towns retain a specific safeguarded urban morphology with narrow and winding lanes, houses built around central courtyards and an original decorative stone architecture. They also illustrate outstanding examples of the adaptation of urban life to the extreme climatic conditions of the desert, both as regards construction methods and the occupation of space and agricultural practices. The roots of the towns go back for more than seven centuries, resulting in urban ensembles that bear testimony to the intensity of changes linked with the important west-east and north-south trans-Saharan trade. The four towns were prosperous centres from which radiated an intense religious and cultural life. These ksour are located on the southern limits of the Saho-Sahelan desert and over time became obligatory stages for the caravan routes linking North Africa and the river regions of western Africa, but also the entire savanna zone. Criterion (iii): The Ksour bear unique witness to a nomadic culture and trade in a desert environment. Their roots go back to the Middle Ages. Established in a desert environment bordering the Maghreb and the large ensembles of the «bilad es-sudan», they were prosperous centres from which radiated an intense religious and cultural life. Criterion (iv): The ancient ksour are medieval towns with an outstanding example of the type of architectural ensembles illustrating seven centuries of human history. They contain an original and decorative stone architecture, and present a typical model of habitat of Saharan ksour, particularly well integrated to the environment. Their urban fabric is dense and closely-packed; with narrow and twisting lanes running between the blank outer walls of courtyard houses. Criterion (v): These living historic towns are an outstanding example of traditional human settlements and the last surviving evidence of an original and traditional mode of occupying space, very representative of the nomadic culture and long-distance trade in a desert environment. Due to these particular characteristics, warehouses were built to safeguard their goods, and the towns evolved to become the brilliant homes of Islamic culture and thought. Integrity (2009) The inscribed area incorporates all the attributes necessary to express Outstanding Universal Value. The setting of the towns and their relationship with the desert environment, essential in understanding their role, has become vulnerable in recent years due in part to development pressures. Authenticity (2009) At the time of inscription, the four towns had preserved their original form and materials to a remarkably high degree, essentially due to gradual deterioration and population migration over a long period when no restoration was undertaken. When restoration work began in the 1980s, the techniques employed were in full conformity with best practices. Recently, the authenticity of the site has become vulnerable to socio-economic and climatic changes, due both to transformations made to houses and the lack of technical competence. Management and protection requirements (2009) Law 46-2005 concerning the protection of tangible cultural heritage constitutes the legal framework for the management and presentation of the Ancient Ksour of Mauritania. The Ministry for Culture is the authority responsible for the enforcement of the laws concerning the protection of cultural properties. The Directorate of Cultural Heritage ensures that standards are being observed and is carrying out an inventory of the cultural properties in these towns. It supervises the work of the National Foundation of Ancient Towns that operates in these towns and ensures its management, conservation, presentation and development of socio-economic activities. The National Foundation for the Ancient Towns has developed a framework to be followed by a management plan once the fund is established for the ancient towns in the property and its buffer zones. The problem of sand drifts and desertification facing the towns as well as socio-economic changes, are all real challenges for the management of these towns in the preservation of these pearls of the Sahara. There is a need to reinforce conditions concerning protection, planning and management in order to respond to the challenges being faced, particularly, to ensure that the buildings conserve their distinctive structures, decoration, form and configuration."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/8eff7fd8a9cb911ea0fdd4e33e222075",
+          "filename": "site_0750_0001-500-0-20151105122717.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113113/site_0750_0001.jpg",
+            "https://whc.unesco.org/document/113114/site_0750_0002.jpg",
+            "https://whc.unesco.org/document/113117/site_0750_0003.jpg",
+            "https://whc.unesco.org/document/113118/site_0750_0004.jpg",
+            "https://whc.unesco.org/document/113120/site_0750_0005.jpg",
+            "https://whc.unesco.org/document/113122/site_0750_0006.jpg",
+            "https://whc.unesco.org/document/113124/site_0750_0007.jpg",
+            "https://whc.unesco.org/document/113126/site_0750_0008.jpg",
+            "https://whc.unesco.org/document/113128/site_0750_0009.jpg",
+            "https://whc.unesco.org/document/113130/site_0750_0010.jpg",
+            "https://whc.unesco.org/document/113131/site_0750_0011.jpg",
+            "https://whc.unesco.org/document/113133/site_0750_0012.jpg",
+            "https://whc.unesco.org/document/113135/site_0750_0013.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 4,
+        "locations": [
+          {
+            "name": "Ksour of Ouadane",
+            "ref": "750-001",
+            "latitude": 20.9288888889,
+            "longitude": -11.6236111111
+          },
+          {
+            "name": "Ksour of Tichitt",
+            "ref": "750-003",
+            "latitude": 18.4194444444,
+            "longitude": -9.4691666667
+          },
+          {
+            "name": "Ksour of Oualata",
+            "ref": "750-004",
+            "latitude": 17.3,
+            "longitude": -7.0333333333
+          },
+          {
+            "name": "Ksour of Chinguetti",
+            "ref": "750-002",
+            "latitude": 20.4633333333,
+            "longitude": -12.3666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/750",
+        "unesco_documents": "https://whc.unesco.org/en/list/750/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/750/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/750/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Asia",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient <I>Ksour</I> of Ouadane, Chinguetti, Tichitt and Oualata Founded in the 11th and 12th centuries to serve the caravans crossing the Sahara, these trading and religious centres became focal points of Islamic culture. They have managed to preserve an urban fabric that evolved between the 12th and 16th centuries. Typically, houses with patios crowd along narrow streets around a mosque with a square minaret. They illustrate a traditional way of life centred on the nomadic culture of the people of the western Sahara. Founded in the 11th and 12th centuries to serve the caravans crossing the Sahara, these trading and religious centres became focal points of Islamic culture. They have managed to preserve an urban fabric that evolved between the 12th and 16th centuries. Typically, houses with patios crowd along narrow streets around a mosque with a square minaret. They illustrate a traditional way of life centred on the nomadic culture of the people of the western Sahara. Mauritania Arab States Cultural"
+    }
+  ]
+}

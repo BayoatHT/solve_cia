@@ -1,0 +1,2357 @@
+{
+  "country": {
+    "code": "BGR",
+    "name": "Bulgaria"
+  },
+  "total_sites": 10,
+  "sites_by_category": {
+    "Cultural": 7,
+    "Natural": 3,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "pirin_national_park",
+      "uuid": "82eeafa8-8313-5041-92e3-6958d620972e",
+      "unesco_id": "225",
+      "names": {
+        "en": "Pirin National Park",
+        "fr": "Parc national de Pirin",
+        "es": "Parque Nacional de Pirin",
+        "ru": "Национальный парк Пирин",
+        "ar": "مرتع بيرين الوطني",
+        "zh": "皮林国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits.",
+          "fr": "Sur une étendue de plus de 27 000 ha, à une altitude de 1 008 à 2 914 m dans le massif du Pirin, dans le sud-ouest de la Bulgarie, le parc présente un paysage karstique des Balkans, avec ses lacs, ses cascades, ses grottes et ses forêts de pins. Il a été ajouté à la Liste du patrimoine mondial en 1983. L'extension inclut désormais l'ensemble du Parc national de Pirin, soient près de 40 000 ha, à l'exception de deux zones touristiques (ski). La partie principale de cette extension est une zone de hautes montagnes de plus de 2000 mètres d'altitude comprenant surtout des prairies alpines, des éboulis rocheux et des sommets.",
+          "es": "Situado en el macizo montañoso de Pirin, al sudoeste de Bulgaria, este parque se extiende por más de 27.400 hectáreas, a una altitud que oscila entre 1.008 y 2.914 metros. Su paisaje es típico de las zonas kársticas de los Balcanes, con sus lagos, cascadas, grutas y bosques de coníferas. El sitio se inscribió en la Lista del Patrimonio Mundial en 1983 y con su extensión actual abarca ahora unas 40.000 hectáreas de los montes de Pirin, esto es, la totalidad del parque nacional, exceptuadas dos zonas turísticas dedicadas al esquí. La zona añadida es en su mayor parte un macizo montañoso con praderas alpinas, desprendimientos rocosos y picos que culminan a más de 2.000 metros de altura.",
+          "ru": "Раскинувшийся в горах Пирин на юго-западе Болгарии на площади более чем в 27 000 га и на высоте 1 008-2 914 м, этот парк характеризуется балканским карстовым ландшафтом с его озерами, водопадами , пещерами и сосновыми лесами. Он был включен в Список всемирного наследия в 1983 году. Расширенный объект – это теперь весь Национальный парк Пирин, т.е. около 40000 га, за исключением двух туристических зон (специально выделенных для лыжного спорта). Его основная часть – это горный район, расположенный на высоте свыше 2000 метров и состоящий, в основном, из альпийских лугов, каменистых склонов и горных вершин.",
+          "ar": "على امتداد يصل إلى أكثر من 27 هكتاراً، وارتفاع يتراوح بين 1008 و2914 متراً، في الكتلة الجبلية في بيرين، الواقعة في جنوب غرب بلغاريا، يمثل مرتع بيرين الوطني منظراً مكوناً من الحجر الجيري (الكارست) للبلقان، بما يضمه من بحيرات، وشلالات، ومغاور ، وغابات الصنوبر. وقد أُدرج هذا المرتع في قائمة التراث العالمي في عام 1983. وتشمل عمليات التوسيع الآن جملة مراتع بيرين الوطنية، أي مساحة تبلغ نحو 40000 هكتار، فيما عدا منطقتين سياحيتين. ويشمل الجزء الرئيسي من عمليات التوسيع منطقة جبال يبلغ ارتفاعها أكثر من 2000 متراً، وتضم، على وجه الخصوص، مروجاً جبلية، وركاماً صخرية وقِمماً.",
+          "zh": "皮林公家公园位于保加利亚西南部的皮林山脉，占地2万7千多公顷，海拔高度介于1008米与2 914米之间。公园内景观主要为巴尔干喀斯特地形，冰川湖泊、瀑布、洞穴和松林等夹杂其间。这一遗址于1983列入《世界遗产名录》。扩展之后，将包括除了两个旅游区以外的整个皮林国家公园，占地约4万公顷。扩展的部分主要是一个海拔超过2000米的高山区，景观以高山草甸、岩屑堆和山峰为主。"
+        },
+        "full": "Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits.",
+        "justification": "Brief synthesis The World Heritage property covers an area of around 40,000 ha in the Pirin Mountains, southwest Bulgaria, and overlaps with the undeveloped areas of Pirin National Park. The diverse limestone mountain landscapes of the property include over 70 glacial lakes and a range of glacial landforms, with many waterfalls, rocky screes and caves. Forests are dominated by conifers, and the higher areas harbour alpine meadows below the summits. The property includes a range of endemic and relict species that are representative of the Balkan Pleistocene flora. Criterion (vii): The mountain scenery of Pirin National Park is of exceptional beauty. The high mountain peaks and crags contrast with meadows, rivers and waterfalls and provide the opportunity to experience the aesthetics of a Balkan mountain landscape. The ability to experience remoteness and naturalness is an important attribute of the Outstanding Universal Value of the property. Criterion (viii): The principal earth science values of the property relate to its glacial geomorphology, demonstrated through a range of features including cirques, deep valleys and over 70 glacial lakes. The mountains of the property show a variety of forms and have been developed in several different rock types. Functioning natural processes allow for study of the continued evolution of the landforms of the property, and help to understand other upland areas in the region. Criterion (ix): The property is a good example of the continuing evolution of flora, as evidenced by a number of endemic and relict species, and the property also protects an example of a functioning ecosystem that is representative of the important natural ecosystems of the Balkan uplands. Pirin’s natural coniferous forests include Macedonian Pine and Bosnian Pine, with many old growth trees. In total, there are 1,315 species of vascular plants, about one third of Bulgaria’s flora, including 86 Balkan endemics, 17 Bulgarian endemics and 18 local endemics. The fauna of Pirin National Park includes 45 mammal species, including brown bear, wolf and pine marten, and 159 bird species. Pirin is also home to eight species of amphibians, eleven species of reptiles and six fish species. Although the forests are affected by some historical use, the natural functioning of the ecosystem ensures the protection of its regionally significant biodiversity values. Integrity The original inscription of the property in 1983 proved to be inadequate in representing and maintaining the Outstanding Universal Value of Pirin, but an extension in 2010 has addressed the issues to the best possible degree and represents the minimum area of Pirin National Park that can be considered to correspond to the requirements of Outstanding Universal Value set out in the World Heritage Convention. The National Park is clearly defined from the point of view of its mountainous nature and ecology, and the boundaries of the property are of sufficient size to capture the natural values of Pirin. Adequate boundaries have been established through the extension of the initially inscribed property, to include the most remote areas of the interior of the National Park, and exclude adjacent areas that are not compatible with World Heritage status due to impacts on integrity from ski development. The values of the property as extended retain the attributes of a natural landscape but they closely adjoin areas subject to intensive tourism development that are a risk to the integrity of the property. Protection and management requirements The property is covered by national legislation which should ensure strong national protection of the values of the property, including the prevention of encroachment from adjoining development. It is essential that this legislation is rigorously enforced and is respected by all levels of government that have responsibilities in the area. The property also has an effective and functioning management plan, provided its implementation can be ensured through adequate resources to both maintain the necessary staffing levels and undertake the necessary management activities to protect and manage the property. A system of regular monitoring of the natural values of Pirin and ongoing programmes to maintain habitats and landforms in their natural state, avoid disturbance and other impacts on wildlife, and to preserve the aesthetic values of the property are required. The World Heritage property has long been subject to tourism pressure, largely caused by the development of ski facilities and ski runs. Small ski areas were developed at Bansko, Dobrinishte and Kulinoto in the 1980s and 1990s. Activities such as night skiing, off-piste skiing and heliskiing are activities which may affect the values and integrity of the property and require rigorous control. Bansko, adjoining the property, has become one of the most rapidly developing towns in Bulgaria with hotels and holiday resorts constructed literally on the park boundary. Tourism development within and around the property has not been effectively controlled in the past including some areas that were developed within the property and caused significant damage. The management plan for the property needs to ensure a long-term priority for the protection of the natural values of Pirin, and to guard against any encroachments and impacts within the property from skiing, sporting events or other inappropriate development. Equally the planning documents that are created by national, regional and local authorities need to similarly ensure the protection of the natural values of the property, and also integrate the benefits it provides as a natural landscape to the surrounding area. Other threats to the property include illegal logging, poaching and the use of snow mobiles and quad bikes. These uses require close monitoring, management and the enforcement of effective regulations. The management of visitor use to both prevent negative impacts and provide opportunities to experience the values of the property in a sustainable way is also an essential long term requirement for this property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            9
+          ],
+          "all": [
+            7,
+            8,
+            9
+          ],
+          "display": "(vii)(viii)(ix)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 38350.04,
+          "square_km": 383.5,
+          "square_miles": 155.197,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983,
+            2010
+          ],
+          "extensions": [
+            2010
+          ],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2010,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/cd4835c20de69cb48e6f3b39f3a6f93e",
+          "filename": "site_0225_0012.jpg",
+          "dimensions": {
+            "width": 2592,
+            "height": 1944
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/167522/site_0225_0012.jpg",
+            "https://whc.unesco.org/document/167523/site_0225_0013.jpg",
+            "https://whc.unesco.org/document/167524/site_0225_0014.jpg",
+            "https://whc.unesco.org/document/167525/site_0225_0015.jpg",
+            "https://whc.unesco.org/document/167526/site_0225_0016.jpg",
+            "https://whc.unesco.org/document/167527/site_0225_0017.jpg",
+            "https://whc.unesco.org/document/119225/site_0225_0003.jpg",
+            "https://whc.unesco.org/document/119226/site_0225_0004.jpg",
+            "https://whc.unesco.org/document/119227/site_0225_0005.jpg",
+            "https://whc.unesco.org/document/125516/site_0225_0006.jpg",
+            "https://whc.unesco.org/document/125517/site_0225_0007.jpg",
+            "https://whc.unesco.org/document/125518/site_0225_0008.jpg",
+            "https://whc.unesco.org/document/125519/site_0225_0009.jpg",
+            "https://whc.unesco.org/document/125520/site_0225_0010.jpg",
+            "https://whc.unesco.org/document/125521/site_0225_0011.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Pirin National Park",
+            "ref": "225bis",
+            "latitude": 41.7427222222,
+            "longitude": 23.4304722222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/225",
+        "unesco_documents": "https://whc.unesco.org/en/list/225/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/225/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/225/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Pirin National Park Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits. Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits. Bulgaria Europe and North America Natural"
+    },
+    {
+      "site_key": "rila_monastery",
+      "uuid": "cd0c653d-00d2-5188-8c05-609cb91847f1",
+      "unesco_id": "216",
+      "names": {
+        "en": "Rila Monastery",
+        "fr": "Monastère de Rila",
+        "es": "Monasterio de Rila",
+        "ru": "Рильский монастырь",
+        "ar": "دير ريلا",
+        "zh": "里拉修道院"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation.",
+          "fr": "Saint Jean de Rila, ermite canonisé par l’Église orthodoxe, a fondé le monastère de Rila au Xe siècle. Sa demeure d’ascète et sa tombe sont devenues lieux sacrés et ont été transformées en un ensemble monastique qui a tenu un rôle important dans la vie spirituelle et sociale de la Bulgarie médiévale. Ravagé par un incendie au début du XIXe siècle, l’ensemble a été rebâti entre 1834 et 1862. Ce monument caractéristique de la Renaissance bulgare (XVIIIe-XIXe siècles), symbolise la prise de conscience d’une identité culturelle slave après des siècles d’occupation.",
+          "es": "Este monasterio fue fundado en el siglo X por San Juan de Rila, un eremita canonizado por la Iglesia Ortodoxa. Su austera morada y su tumba se convirtieron con el tiempo en lugares sagrados, donde se creó un conjunto monástico que desempeñó un importante papel en la vida espiritual y social de la Bulgaria medieval. Destruido por un incendio, a comienzos del siglo XIX, el conjunto fue totalmente reconstruido entre 1834 y 1862. Este monumento ejemplar del Renacimiento Búlgaro (siglos XVIII y XIX) simboliza la toma de conciencia de una identidad cultural eslava después de siglos de ocupación.",
+          "ru": "Рильский монастырь был основан в X в. Св. Иваном Рильским, отшельником, канонизированным православной церковью. Его аскетическое жилище и могила стали священным местом и были преобразованы в монастырский комплекс, игравший важную роль в духовной и общественной жизни средневековой Болгарии. Разрушенный пожаром в начале XIX в. комплекс был восстановлен в 1834-1862 гг. Являющийся характерным примером Болгарского Возрождения (ХVIII-XIX вв.), этот памятник символизирует торжество славянской культурной идентичности после столетий чужеземного ига.",
+          "ar": "أسس القديس حنّا دي ريلا، وهو ناسك طوّبته الكنيسة الأرثوذكسية، دير ريلا في القرن العاشر. وأصبحت صومعته وضريحه أمكان مقدسة تمّ تحويلها إلى تجمّع رهباني إضطلع بدور هام في الحياة الروحية والإجتماعية البلغارية في العصور الوسطى. دُمرّ هذا التجمّع في حريق ضخم نشب في مطلع القرن التاسع عشر، ثم أعيد بناؤه بين عامَي 1834 و1862. ويرمز هذا النصب الدالّ على عصر النهضة البلغارية (في القرنين الثامن عشر والتاسع عشر) إلى الوعي بشأن الهوية الثقافية السلافية بعد عصور طويلة من الإحتلال.",
+          "zh": "里拉修道院是里拉的隐士圣约翰于公元10世纪建造的。约翰死后被东正教封为圣徒，所以他以前修道的地方和他的坟墓成为了圣地，并且成为了修道院。这个小修道院在中世纪保加利亚的宗教生活和社会生活中扮演着非常重要的角色。19世纪初，修道院毁于一次火灾，后又于1834至1862年间重建。里拉修道院是18和19世纪保加利亚文艺复兴时期的代表之作，表现了数个世纪的被占领历史后斯拉夫文化认同感的觉醒。"
+        },
+        "full": "Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation.",
+        "justification": "Brief synthesis In its complicated ten-century history the Rila monastery has been the hub of a strong spiritual and artistic influence over the Eastern Orthodox world during medieval times (11th-14th c.). Under Ottoman rule (1400-1878) the monastery influenced the development of the culture and the arts of all Christian nations within the Ottoman Empire. With its architecture, frescos etc. it represents a masterpiece of the creative genius of the Bulgarian people. Architectural styles have been preserved on the property as historical monuments of considerable time span (11th-19th c.). The basic architectural appearance is now one of the peak examples of building craftsmanship of the Balkan peoples from the early 19th c. As such it has exerted considerable influence on architecture and aesthetics within the Balkan area. Criterion (vi): Rila Monastery is considered a symbol of the 19th Century Bulgarian Renaissance which imparted Slavic values upon Rila in trying to reestablish an uninterrupted historic continuity. Integrity There have been no substantial changes to the integrity of the property since its inscription on the World Heritage List. Planned conservation works, that also involve the medieval and renaissance wood-carving and mural paintings existing in associated churches and chapels of the monastery complex, are being pursued to ensure their proper preservation. Protecting the Monastery from 'force effects' is also of major significance. A series of permanent geological engineering observations are being pursued, with associated report recommendations for ground-structure strengthening. Based on these results, other preservation and restoration works will be determined. A development plan is being prepared, and this will propose improvements for the communication and technical infrastructure to assist in preserving the property. Authenticity Rila Monastery is the most important spiritual and literary center of the Bulgarian national revival, with an uninterrupted history from the Middle Ages until present times. Reconstruction work was required following a fire, and sections of the monastery, a new church and other structures date to the 18th century. The property fully endorses authenticity requirements regarding location, context, concept, usage, function and tradition, where the spirit and feeling of the site are also properly preserved. Protection and management requirements The management is carried out on the basis of: - Religious Affairs Law - Property Law - Cultural Heritage Law (Official Gazette No 19 of 2009), and the by-law normative act, regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. - Legislative regimes for the preservation of the site and its buffer zone are in accordance, with a written statement from the 7.05.1992, of a Commission, appointed with an Order № RD-19-132/24.03.1992 of the Ministry of Culture. In addition to regulating the prohibitions, this also identifies allowed activities in the property and its buffer zone, and sets out the responsibilities of the interested parties, including the state, local institutions and owners. - The Protected areas Law (Official Gazette No133 of 1998 with amendments) - National Park Rila; Natural Park Rila Monastery; Rila Monastery Forest, was proclaimed for natural reserve in 1986; - Forest law (Official Gazette No125 of 1997 with amendments); - Management plan of Nature Park Rila Monastery has been operational since 2003. In order to maintain the proper conservation of the monastery, there is a need to implement the development plan of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [],
+          "all": [],
+          "display": "",
+          "count": 0,
+          "type": "Unknown"
+        },
+        "area": {
+          "hectares": 10.7,
+          "square_km": 0.11,
+          "square_miles": 0.043,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/c71b3815334274568864d90cb71b401f",
+          "filename": "site_0216_0001-500-0-20151104162507.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 373
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109164/site_0216_0001.jpg",
+            "https://whc.unesco.org/document/109165/site_0216_0002.jpg",
+            "https://whc.unesco.org/document/119213/site_0216_0003.jpg",
+            "https://whc.unesco.org/document/119214/site_0216_0004.jpg",
+            "https://whc.unesco.org/document/119215/site_0216_0005.jpg",
+            "https://whc.unesco.org/document/122580/site_0216_0006.jpg",
+            "https://whc.unesco.org/document/122581/site_0216_0007.jpg",
+            "https://whc.unesco.org/document/122583/site_0216_0009.jpg",
+            "https://whc.unesco.org/document/122584/site_0216_0010.jpg",
+            "https://whc.unesco.org/document/122585/site_0216_0011.jpg",
+            "https://whc.unesco.org/document/122586/site_0216_0012.jpg",
+            "https://whc.unesco.org/document/122587/site_0216_0013.jpg",
+            "https://whc.unesco.org/document/122588/site_0216_0014.jpg",
+            "https://whc.unesco.org/document/122589/site_0216_0015.jpg",
+            "https://whc.unesco.org/document/122590/site_0216_0016.jpg",
+            "https://whc.unesco.org/document/123863/site_0216_0018.jpg",
+            "https://whc.unesco.org/document/123864/site_0216_0019.jpg",
+            "https://whc.unesco.org/document/123866/site_0216_0021.jpg",
+            "https://whc.unesco.org/document/123867/site_0216_0022.jpg",
+            "https://whc.unesco.org/document/123868/site_0216_0023.jpg",
+            "https://whc.unesco.org/document/123869/site_0216_0024.jpg",
+            "https://whc.unesco.org/document/123870/site_0216_0025.jpg",
+            "https://whc.unesco.org/document/123871/site_0216_0026.jpg",
+            "https://whc.unesco.org/document/123872/site_0216_0027.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Rila Monastery Complex",
+            "ref": "216-001",
+            "latitude": 42.133298,
+            "longitude": 23.340187
+          },
+          {
+            "name": "Orlitsa Convent Complex",
+            "ref": "216-002",
+            "latitude": 42.1300545388,
+            "longitude": 23.16316717
+          },
+          {
+            "name": "\\Pchelino Convent\\ Complex",
+            "ref": "216-003",
+            "latitude": 42.1148458508,
+            "longitude": 23.3085522023
+          },
+          {
+            "name": "\\St. Luke Hermitage\\ Complex",
+            "ref": "216-004",
+            "latitude": 42.1456479867,
+            "longitude": 23.36062177
+          },
+          {
+            "name": "\\Grave of St. Ivan Rilski\\ Complex",
+            "ref": "216-005",
+            "latitude": 42.1502642957,
+            "longitude": 23.36870014
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/216",
+        "unesco_documents": "https://whc.unesco.org/en/list/216/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/216/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/216/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rila Monastery Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation. Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "madara_rider",
+      "uuid": "185c1067-3617-5642-9be9-e7b4c0529ce0",
+      "unesco_id": "43",
+      "names": {
+        "en": "Madara Rider",
+        "fr": "Cavalier de Madara",
+        "es": "El Caballero de Madara",
+        "ru": "Мадарский всадник",
+        "ar": "فارس مادارا",
+        "zh": "马达腊骑士崖雕"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801.",
+          "fr": "Le Cavalier de Madara, représentant un cavalier vainqueur d’un lion, est sculpté sur une falaise de 100 m de haut, près du village de Madara, dans le nord-est de la Bulgarie. Madara a été le premier lieu sacré du premier Empire bulgare, avant la conversion de la Bulgarie au IXe siècle. Les inscriptions qui figurent à côté de cette sculpture relatent des événements survenus entre 705 et 831.",
+          "es": "El Caballero de Madara es una figura esculpida en un peñasco de 100 metros de altura, que representa un jinete vencedor de un león. Recibe su nombre de la cercana aldea de Madara, situada al noreste de Bulgaria. Madara fue el lugar sagrado más importante del primer Imperio Búlgaro, antes de la conversión de este país al cristianismo en el siglo IX. Las inscripciones que acompañan la escultura relatan acontecimientos ocurridos entre los años 705 y 813 d.C.",
+          "ru": "Мадарский всадник – это фигура воина, побеждающего льва, вырезанная в утесе около деревни Мадара на северо-востоке Болгарии. Мадара была главным священным местом первого Болгарского царства до того, как Болгария в ХI в. приняла христианство. Надписи поблизости от скульптуры сообщают о событиях, которые происходили в этой местности между 705 и 801 гг.",
+          "ar": "يجسّد تمثال فارس مادارا فارساً يتغلّب على أحد الأسود وهو منحوت في جرف صخري يبلغ علوه 100 متر، بالقرب من بلدة مادارا، في شمال شرق بلغاريا. شكّلت مادارا أول مكان عبادة في الإمبراطورية البلغارية الأولى، قبل اعتناق بلغاريا الديانة المسيحية في القرن التاسع. وتسرد الكتابات المحفورة بجانب هذا التمثال بعض الأحداث التي جرت بين عامَي 705 و813.",
+          "zh": "马达腊骑士崖雕刻画的是一位骑士斗败狮子的场面，位于保加利亚东北部马达腊镇附近的一面高约100米的悬崖之上。在公元9世纪前，保加利亚人并不信仰基督教，那时马达腊是保加利亚第一帝国主要的宗教场所。在崖雕的边上还刻有铭文，讲述了公元705年至801年间发生的事件。"
+        },
+        "full": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801.",
+        "justification": "Brief synthesis The Madara Rider is a unique relief, an exceptional work of art, created during the first years of the formation of the Bulgarian State, at the beginning of the 8th century. It is the only relief of its kind, having no parallel in Europe. It has survived in its authentic state, with no alternation in the past or the present. It is outstanding not only as a work of Bulgarian sculpture, with its characteristically realist tendencies, but also as a piece of historical source material dating from the earliest years of the establishment of the Bulgarian state. The inscriptions around the relief are, in fact, a chronicle of important events concerning the reigns of very famous Khans: Tervel, Kormisos and Omurtag. Criterion (i): The Madara Rider is an exceptional work of art dating from the beginning of the 8th century. It is the only relief of its kind, having no parallel in Europe. Criterion (iii): The Madara Rider is outstanding not only as a work of the realist Bulgarian sculpture but also as a piece of historical source material from the earliest years of the Bulgarian state, since the inscriptions around the relief chronicle events in the reigns of famous Khans. Integrity The rock relief of the Madara Horseman encompass within its boundaries sufficient elements for its presentation. It lies within an archaeological reserve that includes other archaeological monuments, up to 2000 years old. The defined boundaries, and the protection zone, ensure the conservation of the property's surrounding. Due to the uncertain stability of the supporting rock, the relief has a serious and enduring conservation problem, although changes in the integrity of the property are not significant. A combination of wind erosion, and surface water run-off from heavy rain and melting snow, together with biological coatings, is causing the rock to erode. The property has been subject to numerous archaeological, geodesic, geological, hydrological, static, seismograph, physical chemistry and, lately, microbiological research investigations. These exceptional research efforts have been incorporated into a database, the results of which have defined the parameters for immediate conservation interventions. In 2007 an international project, seeking solutions for the conservation of the relief, was concluded and an evaluation of proposed interventions is pending. Authenticity The form and design, location and setting, materials and substance, and spirit and feeling of the Madara Horseman relief have retained their authenticity. Protection and management requirements Management is implemented by virtue of: - Cultural Heritage Law (Official Gazette No.19 of 2009) and subdelegated legislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. In addition, secondary legislation, issued by the Government in 1981 (Ordinance No. 22 on Protection of the Historical and Archaeological Reserves of Pliska, Preslav and Madara, promulgated in the Official Gazette No. 14 of 1981) also applies. In order to ensure the conservation of the relief, there is a need to implement the proposed interventions drawn by the 2007 International project."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.2,
+          "square_km": 0.01,
+          "square_miles": 0.005,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e30497b33f3b051d61326f132e6ba87c",
+          "filename": "site_0043_0001-500-0-20081229164058.jpg",
+          "dimensions": {
+            "width": 492,
+            "height": 369
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107944/site_0043_0001.jpg",
+            "https://whc.unesco.org/document/107946/site_0043_0002.jpg",
+            "https://whc.unesco.org/document/122465/site_0043_0003.jpg",
+            "https://whc.unesco.org/document/122466/site_0043_0004.jpg",
+            "https://whc.unesco.org/document/122467/site_0043_0005.jpg",
+            "https://whc.unesco.org/document/122468/site_0043_0006.jpg",
+            "https://whc.unesco.org/document/122469/site_0043_0007.jpg",
+            "https://whc.unesco.org/document/122470/site_0043_0008.jpg",
+            "https://whc.unesco.org/document/122473/site_0043_0011.jpg",
+            "https://whc.unesco.org/document/125522/site_0043_0012.jpg",
+            "https://whc.unesco.org/document/125523/site_0043_0013.jpg",
+            "https://whc.unesco.org/document/125524/site_0043_0014.jpg",
+            "https://whc.unesco.org/document/125525/site_0043_0015.jpg",
+            "https://whc.unesco.org/document/125527/site_0043_0017.jpg",
+            "https://whc.unesco.org/document/125528/site_0043_0018.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Madara Rider",
+            "ref": "43bis",
+            "latitude": 43.2774166667,
+            "longitude": 27.1189444444
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/43",
+        "unesco_documents": "https://whc.unesco.org/en/list/43/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/43/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/43/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Madara Rider The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801. The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "boyana_church",
+      "uuid": "94ee8ecf-afe3-5c71-8e87-20efb675834c",
+      "unesco_id": "42",
+      "names": {
+        "en": "Boyana Church",
+        "fr": "Église de Boyana",
+        "es": "Iglesia de Boyana",
+        "ru": "Боянская церковь (София)",
+        "ar": "كنيسة بويانا",
+        "zh": "博雅纳教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art.",
+          "fr": "Située à la périphérie de Sofia, l’église de Boyana se compose de trois bâtiments. L’église de l’Est a été construite au Xe siècle. Au milieu du XIIIe siècle, Sebastocrator Kaloyan a agrandi l’église et a demandé que l’on construise un second bâtiment de deux étages à côté de l’ancien. Ses fresques, peintes en 1259, constituent l’une des plus importantes collections de peintures médiévales. L’ensemble est complété par une troisième église, édifiée au début du XIXe siècle. Ce site comprend les monuments les plus parfaits et les mieux conservés de l’art médiéval d’Europe de l’Est.",
+          "es": "Emplazada en las afueras de Sofí­a, la iglesia de Boyana comprende tres edificios. La iglesia de la parte oriental, fue construida en el siglo X. A mediados del siglo XIII, el sebastocrator Kaloyan ordenó que se agrandara la iglesia primigenia y se construyese otra de dos plantas junto a ella. Los frescos de esta segunda iglesia, pintados en 1259, constituyen uno de los mí¡s valiosos conjuntos de la pintura medieval. A comienzos del siglo XIX se edificó una tercera iglesia, ultimí¡ndose así­ la configuración definitiva del sitio, que es uno de los monumentos mí¡s completos y mejor conservados del arte medieval de Europa Oriental.",
+          "ru": "Расположенный в предместьях Софии, ансамбль Боянской церкви состоит из трех зданий. Восточная церковь была построена в X в.и расширена в начале XIII в. царем Калояном, который приказал возвести рядом и второе двухэтажное здание. Фрески этой второй церкви, выполненные в 1259 г., являются одним из наиболее значительных собраний средневековой живописи. Ансамбль завершает третья церковь, построенная в начале XIX в. Весь этот объект наследия представляет собой один из наиболее полных и великолепно сохранившихся памятников средневекового искусства на востоке Европы.",
+          "ar": "تتألف كنيسة بويانا الواقعة في محيط العاصمة صوفيا من ثلاثة أبنية أساسية. شُيّدت الكنيسة الشرقية في القرن العاشر وفي منتصف القرن الثالث عشر، وسّع سيباستوكراطور كالويان الكنيسة وطلب تشييد بناء ثان من طبقتين بالقرب من المبنى القديم. وتشكّل جدرانيات هذه الكنيسة التي رُسمت في العام 1259 إحدى أهم المجموعات الفنية في القرون الوسطى. واستُكمل هذا البناء الضخم بكنيسة ثالثة في مطلع القرن التاسع عشر. يحوي هذا الموقع على أحد أجمل النصب وأفضلها حالاً من الفن الخاص بالقرون الوسطى في أوروبا الشرقية.",
+          "zh": "博雅纳教堂位于索菲亚城郊外，由三座建筑物组成。东侧的教堂最初建于公元10世纪，后于公元13世纪初由卡洛扬大总督指挥扩建。卡洛扬大总督还决定在东侧教堂旁再建一座双层教堂。第二个教堂里有绘于公元1259年的壁画，这些艺术品使该世界遗产成为了最重要的中世纪绘画收藏地之一。第三座教堂建于19世纪初，最终构成了一个完整的教堂群。该遗产是最完整、保存最完好的建筑之一，体现了东欧中世纪的艺术风格。"
+        },
+        "full": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art.",
+        "justification": "Brief synthesis There are several layers of wall paintings in the interior from the 11th, 13th, 15-17th and 19th centuries which testify to the high level of wall painting during the different periods. The paintings with the most outstanding artistic value are those from 13th century. Whilst they interpret the Byzantine canon, the images have a special spiritual expressiveness and vitality and are painted in harmonious proportions. Criterion (ii): From an architectural point of view, Boyana Church is a pure example of a church with a Greek cross ground-plan with dome, richly decorated facades and decoration of ceramic elements. It is one of the most remarkable medieval monuments with especially fine wall paintings. Criterion (iii): The Boyana Church is composed of three parts, each built at a different period - 10 century, 13th century and 19th century which constitute a homogenous whole. Integrity The integrity of Boyana church is fully assured. In 1917 a park was created around the church, thereby securing its immediate surroundings through being separated from the impact of modern traffic. The property has also remained intact from historic invasions, and other destructive threats. Three separate zones are defined in the property boundaries and buffer zone, through which appropriate control measures are applied. Authenticity The concept, form and development of the three constructional phases of the property, from the 10th-11th; 13th; and 19th centuries, are clearly evident. Necessary conservation and restoration works have been completed. Where sufficient evidence existed, later façade renders have been removed to reveal the original appearance of walls. To safeguard and present the internal 11th and 12th centuries fresco fragments, those from the 13th century, and the later 1882 additions in the antechamber, they were cleaned, refilled and conserved. This work was completed in 2008. The property is now air-conditioned, and under constant surveillance. Protection and management requirements The management is implemented by virtue of: Cultural Heritage Law (Official Gazette No 19 of 2009) and subdelegated legislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. Instructions on the Protection and Preservation of the World Monument Boyana Church and its Protective Zone were adopted by Official Cover Letter No.RD-91-00-17, signed by the Chairman of the Culture Committee, and dated 10.08.1989. These Instructions are mandatory and set out the responsibilities of the interested parties, including the state, local institutions and owners."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.68,
+          "square_km": 0.01,
+          "square_miles": 0.003,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://whc.unesco.org/document/107938/site_0042_0001.JPG",
+          "filename": null,
+          "dimensions": null,
+          "available": true,
+          "source": "gallery_first"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107938/site_0042_0001.JPG",
+            "https://whc.unesco.org/document/107940/site_0042_0002.JPG",
+            "https://whc.unesco.org/document/107942/site_0042_0003.JPG",
+            "https://whc.unesco.org/document/122458/site_0042_0004.jpg",
+            "https://whc.unesco.org/document/122459/site_0042_0005.jpg",
+            "https://whc.unesco.org/document/122460/site_0042_0006.jpg",
+            "https://whc.unesco.org/document/122461/site_0042_0007.jpg",
+            "https://whc.unesco.org/document/122462/site_0042_0008.jpg",
+            "https://whc.unesco.org/document/122463/site_0042_0009.jpg",
+            "https://whc.unesco.org/document/122464/site_0042_0010.jpg",
+            "https://whc.unesco.org/document/139733/site_0042_0011.jpg",
+            "https://whc.unesco.org/document/139734/site_0042_0012.jpg",
+            "https://whc.unesco.org/document/139735/site_0042_0013.jpg",
+            "https://whc.unesco.org/document/139736/site_0042_0014.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Boyana Church",
+            "ref": "42bis",
+            "latitude": 42.6451666667,
+            "longitude": 23.2655277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/42",
+        "unesco_documents": "https://whc.unesco.org/en/list/42/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/42/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/42/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Boyana Church Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art. Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "thracian_tomb_of_sveshtari",
+      "uuid": "ab4e2646-69be-53ee-b88d-fb60064d9043",
+      "unesco_id": "359",
+      "names": {
+        "en": "Thracian Tomb of Sveshtari",
+        "fr": "Tombeau thrace de Svechtari",
+        "es": "Tumba tracia de Svestari",
+        "ru": "Фракийская гробница в Свештарах",
+        "ar": "الضريح التراقي في سفيشتاري",
+        "zh": "斯韦什塔里的色雷斯人墓"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers.",
+          "fr": "Découvert en 1982, près du village de Svechtari, ce tombeau thrace du IIIe siècle av. J.-C. illustre les principes fondamentaux de construction des bâtiments religieux thraces. Le tombeau présente un décor architectural unique avec ses cariatides polychromes mi-humaines mi-végétales et ses peintures murales. Les dix silhouettes féminines réalisées en haut-relief sur les murs de la chambre centrale et le dessin graphique de la lunette de sa voûte sont les seules décorations de ce type découvertes jusqu’ici sur le territoire thrace. C’est un témoignage remarquable sur la culture des Gètes, population thrace qui fut au contact des mondes hellénistique et hyperboréen, selon les termes de la géographie antique.",
+          "es": "Descubierta en 1982, cerca de la aldea de Svestari, esta tumba del siglo III a.C. es representativa de los principios esenciales aplicados por los tracios en la construcción de sus edificios religiosos. La ornamentación arquitectónica de la sepultura es única, con sus frescos y sus diez carií¡tides polí­cromas, mitad mujeres y mitad plantas. Estas diez figuras femeninas esculpidas en altorrelieve en la cí¡mara central, así­ como la decoración de la luneta de la bóveda, son los únicos ejemplos artí­sticos de este tipo encontrados hasta ahora en el antiguo territorio tracio. La tumba es un testimonio excepcional de la cultura de los getas, pueblo tracio que estuvo en contacto con el mundo helénico y el hiperbóreo, según los geógrafos de la Antigüedad.",
+          "ru": "Обнаруженная в 1982 г. около села Свештары эта фракийская гробница, датируемая III в. до н.э., отражает основные принципы построения фракийских культовых сооружений. Гробница имеет уникальное архитектурное оформление многоцветными кариатидами (в виде полулюдей – полудеревьев) и стенными росписями. 10 женских фигур, выполненных в высоком рельефе на стенах центральной камеры, и украшения люнетов ее свода являются единственными образчиками такого рода, обнаруженными к настоящему времени во фракийских землях. Гробница - значимое свидетельство культуры гетов и фракийцев, находившихся по представлению географов древности в контакте и с эллинистическим, и с северным (гиперборейским) мирами.",
+          "ar": "اكتُشف هذا الضريح التراقي الذي يرقى إلى القرن الثالث قبل الميلاد في العام 1982 بالقرب من بلدة سفيشتاري، وهو يعكس المبادئ الأساسية لتشييد النصب الدينية التراقية. يتميّز هذا الضريح بتصميم هندسي فريد في نوعه يظهر من خلال مجموعة الأعمدة المتعددة الألوان التي تتخذ شكل امرأة في نصفها الأعلى وشكل نبتة في نصفها الأسفل وكذلك من خلال رسومه الجدارية. ولعلّ التماثيل النسائية العشرة المنحوتة بشكل ناتئ على جدران الغرفة الوسطى والرسم التخطيطي على فتحة القبة هي الزخرفات الوحيدة من هذا القبيل التي تم اكتشافها على الأراضي التراقية حتى يومنا هذا. ويعطي هذا الموقع شهادة واضحة على ثقافة الشعب الدجيتي، وهو شعب تراقي عايش العالمين الهليني والشمالي، بحسب تصنيفات علم الجغرافيا القديمة.",
+          "zh": "这个遗迹是1982年在保加利亚斯韦什塔里村附近发现的。这座公元前3世纪的色雷斯人古墓体现了色雷斯人宗教建筑的基本结构特点。古墓内有独特的建筑装饰、多彩的半人半植物女像柱和各种壁画。中央墓室墙上雕刻的10个女神雕像和拱顶的弦月窗式装饰是至今为止在色雷斯岛上发现的唯一一处。这个遗迹证明了盖塔人的文化，根据古代地理学，当时的色雷斯人与古希腊人和居住在北方的民族有着联系。"
+        },
+        "full": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers.",
+        "justification": "Brief synthesis The Thracian Tomb near Sveshtari is an extremely rare and very well preserved monument of the sepulchral architecture containing remarkable elements in terms of their quality and style sculpture and painting. The Tomb is also remarkable for the fact that it represents local art, inspired by Hellenism, a rare case of an interrupted creative process which possesses specific characteristics. Criterion (i): The Thracian Tomb near Sveshtari is a unique artistic achievement with its half human, half vegetable caryatids enclosed in a chiton in the shape of an upside down palmette. The fact the original polychromy has been preserved with its ochre, brown, blue, red and lilac shades adds to the bewitching charm of an expressive composition where the anthropomorphic supports conjure up the image of a choir of mourners frozen in the abstract positions of a ritual dance. Criterion (iii): The tomb is exceptional testimony to the culture of the Getes, Thracian peoples living in the north of Hemus (contemporary Stara Planina), in contact with the Greek and Hyperborean worlds according to the ancient geographers. The Tomb is also remarkable for the fact that it represents local art inspired by Hellenism, a rare case of an interrupted creative process, which possesses specific characteristics. This monument is unique in its architectural décor and in the specific character of the funeral rites revealed by the excavation. Integrity The integrity of the site is consistent with its unchanged character, and the surrounding area. The monument is located within the archaeological reserve Sborianovo, where more than 40 Thracian sepulchral mounds, various sanctuaries, ancient and medieval villages, buildings, a fortress, mausoleum and a minaret from the ottoman period, exist. The property encompasses within its boundaries all the components necessary to convey its Outstanding Universal Value. Authenticity The Property retains its authenticity, being preserved in its original location by a moisture-isolating protective shell when the external sepulchral mound was reinstated. The enclosing embankment also emerges as a unique element in the surrounding landscape. The general condition of the original stone figures and pictorial elements of the construction is good, and the spatial organization of the Tomb is retained unaltered. The conservation work has been completed with minimal and discrete interference. The Tomb is open for visitors whilst meeting technical conservation requirements. Protection and management requirements The management is implemented under: - Cultural Heritage Law (Official Gazette No.19 of 2009) andsubdelegatedlegislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. - The Instructions of the Ministry of Culture and the Ministry of Construction, Architecture, and Public Works on preservation of culture monuments and territory usage of the Historical-Archaeological Reserve Sboryanovo and its protection area (Letter No.RD-91-00 10/25.04.1990 of the Ministry of Culture); - The Spatial Planning Act - (Official Gazette, No.1 of 2001 with amendments) and subdelegated legislation relates to spatial and urban planning, investment projects and buildings in Bulgaria. It also determines particular territorial and spatial protection, and the territories of cultural heritage."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3
+          ],
+          "display": "(i)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.9,
+          "square_km": 0.01,
+          "square_miles": 0.004,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6033671530c500c2180a47f785dcc48b",
+          "filename": "site_0359_0001-500-0-20090924180152.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 366
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110783/site_0359_0001.jpg",
+            "https://whc.unesco.org/document/119231/site_0359_0002.jpg",
+            "https://whc.unesco.org/document/119232/site_0359_0003.jpg",
+            "https://whc.unesco.org/document/119233/site_0359_0004.jpg",
+            "https://whc.unesco.org/document/122614/site_0359_0006.jpg",
+            "https://whc.unesco.org/document/122617/site_0359_0009.jpg",
+            "https://whc.unesco.org/document/122619/site_0359_0011.jpg",
+            "https://whc.unesco.org/document/122620/site_0359_0012.jpg",
+            "https://whc.unesco.org/document/122622/site_0359_0014.jpg"
+          ],
+          "count": 9
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Thracian Tomb of Sveshtari",
+            "ref": "359bis",
+            "latitude": 43.7449166667,
+            "longitude": 26.7665277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/359",
+        "unesco_documents": "https://whc.unesco.org/en/list/359/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/359/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/359/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Thracian Tomb of Sveshtari Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers. Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "ancient_and_primeval_beech_forests_of_the_carpathians_and_other_regions_of_europe",
+      "uuid": "a3e04083-f693-5147-bc20-4f6dbcbff76e",
+      "unesco_id": "1133",
+      "names": {
+        "en": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "fr": "Forêts primaires et anciennes de hêtres des Carpates et d’autres régions d’Europe",
+        "es": "Bosques antiguos y primarios de hayas de los Cárpatos y otras regiones de Europa",
+        "ru": "Древние и первобытные буковые леса Карпат и других регионов Европы",
+        "ar": "غابات الزان القديمة وغابات الزان البدائية لمنطقة الكربات وغيرها من مناطق أوروبا",
+        "zh": "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MKD": {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "iso3": "MKD"
+          },
+          "ESP": {
+            "name": "Spain",
+            "iso2": "ES",
+            "iso3": "ESP"
+          },
+          "ITA": {
+            "name": "Italy",
+            "iso2": "IT",
+            "iso3": "ITA"
+          },
+          "FRA": {
+            "name": "France",
+            "iso2": "FR",
+            "iso3": "FRA"
+          },
+          "POL": {
+            "name": "Poland",
+            "iso2": "PL",
+            "iso3": "POL"
+          },
+          "ALB": {
+            "name": "Albania",
+            "iso2": "AL",
+            "iso3": "ALB"
+          },
+          "AUT": {
+            "name": "Austria",
+            "iso2": "AT",
+            "iso3": "AUT"
+          },
+          "BEL": {
+            "name": "Belgium",
+            "iso2": "BE",
+            "iso3": "BEL"
+          },
+          "HRV": {
+            "name": "Croatia",
+            "iso2": "HR",
+            "iso3": "HRV"
+          },
+          "ROU": {
+            "name": "Romania",
+            "iso2": "RO",
+            "iso3": "ROU"
+          },
+          "UKR": {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "iso3": "UKR"
+          },
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          },
+          "SVN": {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "iso3": "SVN"
+          },
+          "SVK": {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "iso3": "SVK"
+          },
+          "CHE": {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "iso3": "CHE"
+          },
+          "BIH": {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "iso3": "BIH"
+          },
+          "DEU": {
+            "name": "Germany",
+            "iso2": "DE",
+            "iso3": "DEU"
+          },
+          "CZE": {
+            "name": "Czechia",
+            "iso2": "CZ",
+            "iso3": "CZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 18
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+          "fr": "Ce bien transnational, composé de 93 éléments constitutifs, s’étend sur 18 pays. Depuis la fin de la dernière période glaciaire, le hêtre d’Europe s’est répandu à partir de quelques refuges isolés dans les Alpes, les Carpates, les Dinarides, la Méditerranée et les Pyrénées, en l’espace de quelques milliers d’années, un processus qui se poursuit encore aujourd’hui. Le succès de la progression du hêtre s’explique par son adaptabilité et sa tolérance à différentes conditions climatiques, géographiques et physiques.",
+          "es": "",
+          "ru": "Расширение территории транснационального серийного объекта всемирного наследия «Древние и первобытные буковые леса Карпат и других регионов Европы» еще на десять европейских стран повышает исключительную универсальную ценность и целостность объекта, который теперь состоит из 93 составных частей в 18 странах. Расширенная территория объекта представляет собой выдающийся пример относительно нетронутых сложных лесов умеренного пояса и демонстрирует широкий спектр комплексных экологических моделей и процессов чистых и смешанных европейских буковых насаждений в различных экологических условиях.",
+          "ar": "يُعتبر توسيع الموقع المتسلسل العابر للحدود الوطنية لموقع غابات الزان البدائية في منطقة الكاربات ومناطق أخرى في أوروبا عبر عشرة بلدان أوروبية إضافية، بمثابة جرعة تعزيز للقيمة العالمية الاستثنائية للموقع وسلامته. ويضم الموقع الموسّع حالياً 93 عنصراً موزَّعاً في 18 بلداً، ويقدّم مثالاً استثنائياً للغابات المداريّة المعقدة التي تنعم بالهدوء نوعاً ما. ويستعرض الموقع طيفاً واسعاً من النماذج البيئية الشاملة، فضلاً عن العمليات البيئيّة الإيكولوجيّة للأنواع النقيّة والمختلطة للزان الأوروبي في سلسلة متنوعة من الظروف البيئية.",
+          "zh": "此次扩展将有10个欧洲国家新加入“喀尔巴阡山脉及欧洲其它地区的原始山毛榉林”这一跨境世界遗产项目，提升了该遗产地的突出普遍价值和完整性，至此该遗产地包含分布在18个国家的93个部分。扩展后的遗产地是相对未受干扰的温带森林群的杰出范例，展示了在各种环境条件下欧洲山毛榉纯林和混交林的广泛综合生态模式和过程。"
+        },
+        "full": "This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+        "justification": "Brief synthesis The “Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe” are a transnational serial property comprising 93 component parts across 18 countries. They represent an outstanding example of relatively undisturbed, complex temperate forests and exhibit a wide spectrum of comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental conditions. During each glacial phase (ice ages) of the last 1 million years, European beech (Fagus sylvatica) survived the unfavourable climatic conditions in refuge areas in the southern parts of the European continent. These refuge areas have been documented by scientists through palaeoecological analysis and using the latest techniques in genetic coding. After the last Ice Age, around 11,000 years ago, beech started expanding its range from these southern refuge areas to eventually cover large parts of the European continent. During this expansion process, which is still ongoing, beech formed different types of plant communities while occupying largely different environments. The interplay between a diversity of environments, climatic gradients and different species gene pools has and continues to shape this high diversity of beech forest communities. These forests contain an invaluable population of old trees and a genetic reservoir of beech and many other species, which are associated with and dependent on these old-growth forest habitats. Criterion (ix): The property is indispensable for the understanding of the history and evolution of the genus Fagus which, given its wide distribution in the Northern Hemisphere and its ecological importance, is globally significant. These largely undisturbed, complex temperate forests exhibit comprehensive ecological patterns and processes of pure and mixed stands of European beech across a variety of environmental gradients, including climatic and geological conditions, spanning almost all European Beech Forest Regions. Forests are included from all altitudinal zones from coastal areas to the treeline and, include the best remaining examples from the range limits of the European beech forest. Beech is one of the most important features in the Temperate Broadleaf Forest Biome and represents an outstanding example of the re-colonization and development of terrestrial ecosystems and communities since the last Ice Age. The continuing northern and westward expansion of beech from its original glacial refuge areas in the eastern and southern parts of Europe can be tracked along natural corridors and stepping stones spanning the continent. The dominance of beech across extensive areas of Europe is a living testimony of the tree’s genetic adaptability, a process which is still ongoing. Integrity The selected component parts represent the diversity of ancient and primeval beech forests found across Europe in terms of different climatic and geological conditions and altitudinal zones. The property includes component parts, which convey its Outstanding Universal Value (OUV), and represent the variability of European beech forest ecosystems. Together these component parts contribute to the integrity of the property as a whole. Additionally, each component part needs to demonstrate integrity at the local level by representing the full suite of natural forest development processes in its particular geographical and ecological setting within the series. Most of the component parts are of sufficient size to maintain such natural processes necessary for their long-term ecological viability. The most significant threats to the property are logging and habitat fragmentation. Logging activities in the vicinity of component parts can cause microclimatic changes and nutrient mobilising effects, with negative impacts on the integrity of the property. Land use change in the surrounding landscapes can lead to increased habitat fragmentation, which would be of particular concern for smaller component parts. Infrastructure development is a potential threat only in the surroundings of a few component parts. Climate change already poses a risk to some component parts and further impacts can be anticipated, including changes in species composition and habitat shifting. However, it should be noted that one of the attributes of the Outstanding Universal Value of the property is its demonstration of the ability of beech to adapt to different ecological and climatic regimes throughout its range. Therefore, potential future changes need to be monitored and documented in order to better understand these processes. The above-mentioned threats may affect the integrity of the component parts to a different extent and in different ways, for example through the reduction of structural diversity, fragmentation, loss of connectivity, biomass loss and changed microclimate, which reduce ecosystem functionality and adaptive capacity as a whole. To cope with these threats, buffer zones are established and are managed accordingly by the responsible management bodies. Protection and management requirements A strict non-intervention management is essential for the conservation of the OUV of this serial property across all its component parts. The majority of the 93 component parts are protected by law as strict forest reserves, wilderness areas, core areas of biosphere reserves or national parks (IUCN category I or II). Some of the component parts are protected and managed by Forest Management Plans (with regulations ensuring no logging in old-growth forests). As it is of uppermost importance to guarantee strong protection status in the long term, the protection status will be improved where needed. To ensure the viability of the four component parts smaller than the established minimum size of 50 ha, an enlargement of the component parts with further non-intervention management will be considered by the States Parties. Additionally, an effective management of buffer zones to protect the property from external threats and to safeguard its integrity is of uppermost importance. The integrity of each component part is the responsibility of the State Party and is ensured by the relevant local management units. For the coherent protection and management of the property, as well as to coordinate activities between the management units and the 18 States Parties, a functional organisational structure should be established. To ensure this aspect, an Integrated Management System was developed during the nomination process and will be maintained to allow effective and coordinated management and protection of the property as a whole. The Joint Management Committee, comprising representatives of all States Parties, formulated a Joint Declaration of Intent. This Declaration regulates and structures the cooperation between all the States Parties whose territory is included in the property and ensures the commitment to protect and strengthen the Outstanding Universal Value of the property. The position of a coordinator will be established and maintained to support the Joint Management Committee and the States Parties in their work. The Integrated Management System and the management plans of the component parts will ensure a non-intervention management approach for the component parts while the buffer zones will be managed to avoid negative impacts on the Outstanding Universal Value of the property with a specific focus on ensuring integrity remains intact. To harmonise the management approach across the 93 component parts, the States Parties will develop common objectives and coordinated activities which will cover property and buffer zone management, monitoring and research, education and awareness raising, visitor management and tourism as well as financial and human capacity building. It is proposed to establish a coherent monitoring system based on selected ecological (proxy) indicators of integrity within all component parts to compare long-term development. It is imperative that each State Party provides clear and committed long-term funding arrangements, to support consistent national site management as well as coordinated management. Special attention is required to ensure the configuration of the property such that each component part retains ongoing viability to evolve with unimpeded ecological and biological processes and without the need for substantial interventions. This includes the integration of surrounding forest ecosystems to provide sufficient protection and connectivity, especially for small component parts. All component parts have buffer zones of various configurations including surrounding protected areas (national parks, nature parks, biosphere reserves and others). These buffer zones will be regularly monitored to ensure protection under changing environmental conditions such as climate change. The boundaries of buffer zones should, where possible, be aligned with existing protected area boundaries and should be expanded to connect component parts where they are in close proximity. Finally, where appropriate, special ongoing emphasis is needed to ensure effective ecological connectivity between beech forests and the surrounding complementary habitats to allow natural development and adaptation of the forest to the environmental change."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 99947.81,
+          "square_km": 999.48,
+          "square_miles": 404.475,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007,
+            2011,
+            2017,
+            2021
+          ],
+          "extensions": [
+            2011,
+            2017,
+            2021
+          ],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2011,
+              "event": "Extended"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            },
+            {
+              "year": 2021,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 3
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f1bfac47f3366890b0b7b4b548a3f6e4",
+          "filename": "site_1133_0082-500-0-20241104173714.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/209487/site_1133_0082.jpg",
+            "https://whc.unesco.org/document/209488/site_1133_0083.jpg",
+            "https://whc.unesco.org/document/209489/site_1133_0084.jpg",
+            "https://whc.unesco.org/document/209490/site_1133_0085.jpg",
+            "https://whc.unesco.org/document/209491/site_1133_0086.jpg",
+            "https://whc.unesco.org/document/209492/site_1133_0087.jpg",
+            "https://whc.unesco.org/document/209493/site_1133_0088.jpg",
+            "https://whc.unesco.org/document/209494/site_1133_0089.jpg",
+            "https://whc.unesco.org/document/181193/site_1133_0076.jpg",
+            "https://whc.unesco.org/document/187746/site_1133_0080.jpg",
+            "https://whc.unesco.org/document/187745/site_1133_0079.jpg",
+            "https://whc.unesco.org/document/181191/site_1133_0074.jpg",
+            "https://whc.unesco.org/document/115216/site_1133_0001.jpg",
+            "https://whc.unesco.org/document/122807/site_1133_0017.jpg",
+            "https://whc.unesco.org/document/122809/site_1133_0019.jpg",
+            "https://whc.unesco.org/document/122810/site_1133_0020.jpg",
+            "https://whc.unesco.org/document/147514/site_1133_0027.jpg",
+            "https://whc.unesco.org/document/147515/site_1133_0028.jpg",
+            "https://whc.unesco.org/document/147516/site_1133_0029.jpg",
+            "https://whc.unesco.org/document/147517/site_1133_0030.jpg",
+            "https://whc.unesco.org/document/147518/site_1133_0031.jpg",
+            "https://whc.unesco.org/document/147519/site_1133_0032.jpg",
+            "https://whc.unesco.org/document/147520/site_1133_0033.jpg",
+            "https://whc.unesco.org/document/147521/site_1133_0034.jpg",
+            "https://whc.unesco.org/document/147522/site_1133_0035.jpg",
+            "https://whc.unesco.org/document/147523/site_1133_0036.jpg",
+            "https://whc.unesco.org/document/147524/site_1133_0037.jpg",
+            "https://whc.unesco.org/document/147525/site_1133_0038.jpg",
+            "https://whc.unesco.org/document/147526/site_1133_0039.jpg",
+            "https://whc.unesco.org/document/147527/site_1133_0040.jpg",
+            "https://whc.unesco.org/document/147528/site_1133_0041.jpg",
+            "https://whc.unesco.org/document/147529/site_1133_0042.jpg",
+            "https://whc.unesco.org/document/147530/site_1133_0043.jpg",
+            "https://whc.unesco.org/document/147531/site_1133_0044.jpg",
+            "https://whc.unesco.org/document/147532/site_1133_0045.jpg",
+            "https://whc.unesco.org/document/147533/site_1133_0046.jpg",
+            "https://whc.unesco.org/document/147534/site_1133_0047.jpg",
+            "https://whc.unesco.org/document/147536/site_1133_0048.jpg",
+            "https://whc.unesco.org/document/147537/site_1133_0049.jpg",
+            "https://whc.unesco.org/document/147538/site_1133_0050.jpg",
+            "https://whc.unesco.org/document/147539/site_1133_0051.jpg",
+            "https://whc.unesco.org/document/147540/site_1133_0052.jpg",
+            "https://whc.unesco.org/document/147541/site_1133_0053.jpg",
+            "https://whc.unesco.org/document/147542/site_1133_0054.jpg",
+            "https://whc.unesco.org/document/147543/site_1133_0055.jpg",
+            "https://whc.unesco.org/document/147544/site_1133_0056.jpg",
+            "https://whc.unesco.org/document/147545/site_1133_0057.jpg",
+            "https://whc.unesco.org/document/147546/site_1133_0058.jpg",
+            "https://whc.unesco.org/document/147547/site_1133_0059.jpg",
+            "https://whc.unesco.org/document/147548/site_1133_0060.jpg",
+            "https://whc.unesco.org/document/147549/site_1133_0061.jpg",
+            "https://whc.unesco.org/document/147550/site_1133_0062.jpg",
+            "https://whc.unesco.org/document/147551/site_1133_0063.jpg",
+            "https://whc.unesco.org/document/147552/site_1133_0064.jpg",
+            "https://whc.unesco.org/document/147553/site_1133_0065.jpg",
+            "https://whc.unesco.org/document/147554/site_1133_0066.jpg",
+            "https://whc.unesco.org/document/147555/site_1133_0067.jpg",
+            "https://whc.unesco.org/document/147556/site_1133_0068.jpg",
+            "https://whc.unesco.org/document/147557/site_1133_0069.jpg",
+            "https://whc.unesco.org/document/187751/site_1133_0081.jpg"
+          ],
+          "count": 60
+        }
+      },
+      "components": {
+        "count": 93,
+        "locations": [
+          {
+            "name": "Rrajca",
+            "ref": "1133quinquies-013",
+            "latitude": 41.2,
+            "longitude": 20.5
+          },
+          {
+            "name": "Krokar",
+            "ref": "1133quinquies-055",
+            "latitude": 45.542,
+            "longitude": 14.769
+          },
+          {
+            "name": "Massane",
+            "ref": "1133quinquies-078",
+            "latitude": 42.48,
+            "longitude": 3.032
+          },
+          {
+            "name": "Jasmund",
+            "ref": "1133quinquies-007",
+            "latitude": 54.555,
+            "longitude": 13.669
+          },
+          {
+            "name": "Serrahn",
+            "ref": "1133quinquies-008",
+            "latitude": 53.341,
+            "longitude": 13.205
+          },
+          {
+            "name": "Grumsin",
+            "ref": "1133quinquies-009",
+            "latitude": 52.9833333333,
+            "longitude": 13.8833333333
+          },
+          {
+            "name": "Hainich",
+            "ref": "1133quinquies-010",
+            "latitude": 51.0666666667,
+            "longitude": 10.4333333333
+          },
+          {
+            "name": "Gorgany",
+            "ref": "1133quinquies-063",
+            "latitude": 48.475,
+            "longitude": 24.296
+          },
+          {
+            "name": "Chapitre",
+            "ref": "1133quinquies-076",
+            "latitude": 44.633,
+            "longitude": 6.001
+          },
+          {
+            "name": "Vihorlat",
+            "ref": "1133quinquies-093",
+            "latitude": 48.916,
+            "longitude": 22.185
+          },
+          {
+            "name": "Svydovets",
+            "ref": "1133quinquies-005",
+            "latitude": 48.193,
+            "longitude": 24.188
+          },
+          {
+            "name": "Roztochya",
+            "ref": "1133quinquies-064",
+            "latitude": 49.958,
+            "longitude": 23.647
+          },
+          {
+            "name": "Chornohora",
+            "ref": "1133quinquies-001",
+            "latitude": 48.1333333333,
+            "longitude": 24.3833333333
+          },
+          {
+            "name": "Maramarosh",
+            "ref": "1133quinquies-003",
+            "latitude": 47.94,
+            "longitude": 24.309
+          },
+          {
+            "name": "Kellerwald",
+            "ref": "1133quinquies-011",
+            "latitude": 51.1333333333,
+            "longitude": 8.9666666667
+          },
+          {
+            "name": "Dlaboka Reka",
+            "ref": "1133quinquies-084",
+            "latitude": 41.764,
+            "longitude": 20.591
+          },
+          {
+            "name": "Prašuma Janj",
+            "ref": "1133quinquies-072",
+            "latitude": 44.146,
+            "longitude": 17.282
+          },
+          {
+            "name": "Grand Ventron",
+            "ref": "1133quinquies-077",
+            "latitude": 47.9666666667,
+            "longitude": 6.9333333333
+          },
+          {
+            "name": "Lumi i gashit",
+            "ref": "1133quinquies-012",
+            "latitude": 42.465,
+            "longitude": 20.073
+          },
+          {
+            "name": "Monte Cimino",
+            "ref": "1133quinquies-040",
+            "latitude": 42.409,
+            "longitude": 12.204
+          },
+          {
+            "name": "Monte Raschio",
+            "ref": "1133quinquies-041",
+            "latitude": 42.174,
+            "longitude": 12.16
+          },
+          {
+            "name": "Sasso Fratino",
+            "ref": "1133quinquies-042",
+            "latitude": 43.846,
+            "longitude": 11.807
+          },
+          {
+            "name": "Valle Infernale",
+            "ref": "1133quinquies-083",
+            "latitude": 38.132,
+            "longitude": 15.961
+          },
+          {
+            "name": "Izvoarele Nerei",
+            "ref": "1133quinquies-053",
+            "latitude": 45.1166666667,
+            "longitude": 22.05
+          },
+          {
+            "name": "Strimbu Băiuț",
+            "ref": "1133quinquies-054",
+            "latitude": 47.635,
+            "longitude": 24.061
+          },
+          {
+            "name": "Jizera Mountains",
+            "ref": "1133quinquies-075",
+            "latitude": 50.86,
+            "longitude": 15.16
+          },
+          {
+            "name": "Udava (Poloniny)",
+            "ref": "1133quinquies-092",
+            "latitude": 49.174,
+            "longitude": 22.226
+          },
+          {
+            "name": "Rožok (Poloniny)",
+            "ref": "1133quinquies-090",
+            "latitude": 48.978,
+            "longitude": 22.465
+          },
+          {
+            "name": "Snežnik-Ždrocle",
+            "ref": "1133quinquies-056",
+            "latitude": 45.5833333333,
+            "longitude": 14.45
+          },
+          {
+            "name": "Satanіvska Dacha",
+            "ref": "1133quinquies-065",
+            "latitude": 49.175,
+            "longitude": 26.244
+          },
+          {
+            "name": "Cozia – Lotrisor",
+            "ref": "1133quinquies-047",
+            "latitude": 45.3,
+            "longitude": 24.278
+          },
+          {
+            "name": "Synevyr – Strymba",
+            "ref": "1133quinquies-068",
+            "latitude": 48.446,
+            "longitude": 23.785
+          },
+          {
+            "name": "Kuziy – Trybushany",
+            "ref": "1133quinquies-002",
+            "latitude": 47.948,
+            "longitude": 24.135
+          },
+          {
+            "name": "Stuzhytsia – Uzhok",
+            "ref": "1133quinquies-004",
+            "latitude": 49.082,
+            "longitude": 22.59
+          },
+          {
+            "name": "Kalkalpen – Urlach",
+            "ref": "1133quinquies-017",
+            "latitude": 47.8,
+            "longitude": 14.2333333333
+          },
+          {
+            "name": "Synevyr – Darvaika",
+            "ref": "1133quinquies-066",
+            "latitude": 48.488,
+            "longitude": 23.773
+          },
+          {
+            "name": "Synevyr – Vilshany",
+            "ref": "1133quinquies-069",
+            "latitude": 48.35,
+            "longitude": 23.65
+          },
+          {
+            "name": "Synevyr – Kvasovets",
+            "ref": "1133quinquies-067",
+            "latitude": 48.378,
+            "longitude": 23.702
+          },
+          {
+            "name": "Codrul secular Șinca",
+            "ref": "1133quinquies-044",
+            "latitude": 45.6666666667,
+            "longitude": 25.1666666667
+          },
+          {
+            "name": "Uholka – Shyrikyi Luh",
+            "ref": "1133quinquies-006",
+            "latitude": 48.3,
+            "longitude": 23.6833333333
+          },
+          {
+            "name": "Dürrenstein-Lassingtal",
+            "ref": "1133quinquies-014",
+            "latitude": 47.74,
+            "longitude": 14.985
+          },
+          {
+            "name": "Paklenica National Park",
+            "ref": "1133quinquies-034",
+            "latitude": 44.3333333333,
+            "longitude": 15.5
+          },
+          {
+            "name": "Cheile Nerei-Beușnița",
+            "ref": "1133quinquies-043",
+            "latitude": 44.9,
+            "longitude": 21.8
+          },
+          {
+            "name": "Cozia – Masivul Cozia",
+            "ref": "1133quinquies-046",
+            "latitude": 45.3166666667,
+            "longitude": 24.3166666667
+          },
+          {
+            "name": "Falascone (Foresta Umbra)",
+            "ref": "1133quinquies-079",
+            "latitude": 41.807,
+            "longitude": 15.981
+          },
+          {
+            "name": "Forêt de la Bettlachstock",
+            "ref": "1133quinquies-073",
+            "latitude": 47.2166666667,
+            "longitude": 7.4
+          },
+          {
+            "name": "Kalkalpen – Hintergebirg",
+            "ref": "1133quinquies-015",
+            "latitude": 47.7333333333,
+            "longitude": 14.4666666667
+          },
+          {
+            "name": "Kalkalpen – Bodinggraben",
+            "ref": "1133quinquies-016",
+            "latitude": 47.7833333333,
+            "longitude": 14.35
+          },
+          {
+            "name": "Codrul Secular Slătioara",
+            "ref": "1133quinquies-045",
+            "latitude": 47.443,
+            "longitude": 25.629
+          },
+          {
+            "name": "Kalkalpen – Wilder Graben",
+            "ref": "1133quinquies-018",
+            "latitude": 47.83,
+            "longitude": 14.432
+          },
+          {
+            "name": "Hajdučki i Rožanski kukovi",
+            "ref": "1133quinquies-033",
+            "latitude": 44.768,
+            "longitude": 15.006
+          },
+          {
+            "name": "Pavari-Sfilzi (Foresta Umbra)",
+            "ref": "1133quinquies-080",
+            "latitude": 41.839,
+            "longitude": 16.027
+          },
+          {
+            "name": "Hayedos de Ayllon – Montejo",
+            "ref": "1133quinquies-058",
+            "latitude": 41.11,
+            "longitude": -3.499
+          },
+          {
+            "name": "Hayedos de Navarra – Aztaparreta",
+            "ref": "1133quinquies-060",
+            "latitude": 42.912,
+            "longitude": -0.818
+          },
+          {
+            "name": "Zacharovanyi Krai – Irshavka",
+            "ref": "1133quinquies-070",
+            "latitude": 48.454,
+            "longitude": 23.094
+          },
+          {
+            "name": "Groșii Țibleșului – Preluci",
+            "ref": "1133quinquies-052",
+            "latitude": 47.5333333333,
+            "longitude": 24.2166666667
+          },
+          {
+            "name": "Hayedos de Navarra – Lizardoia",
+            "ref": "1133quinquies-059",
+            "latitude": 43.005,
+            "longitude": -1.114
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle A",
+            "ref": "1133quinquies-020",
+            "latitude": 50.781,
+            "longitude": 4.427
+          },
+          {
+            "name": "Sonian Forest – Grippensdelle B",
+            "ref": "1133quinquies-021",
+            "latitude": 50.784,
+            "longitude": 4.434
+          },
+          {
+            "name": "Central Balkan – Boatin Reserve",
+            "ref": "1133quinquies-024",
+            "latitude": 42.8,
+            "longitude": 24.2666666667
+          },
+          {
+            "name": "Zacharovanyi Krai – Velykyi Dil",
+            "ref": "1133quinquies-071",
+            "latitude": 48.421,
+            "longitude": 23.172
+          },
+          {
+            "name": "Pollinello (Pollino National Park)",
+            "ref": "1133quinquies-082",
+            "latitude": 39.897,
+            "longitude": 16.197
+          },
+          {
+            "name": "Central Balkan – Steneto Reserve",
+            "ref": "1133quinquies-027",
+            "latitude": 42.7333333333,
+            "longitude": 24.7
+          },
+          {
+            "name": "Central Balkan – Sokolna Reserve",
+            "ref": "1133quinquies-032",
+            "latitude": 42.6833333333,
+            "longitude": 25.1333333333
+          },
+          {
+            "name": "Hayedos de Ayllon – Tejera Negra",
+            "ref": "1133quinquies-057",
+            "latitude": 41.245,
+            "longitude": -3.388
+          },
+          {
+            "name": "Wolosatka stream valley (Bieszczady)",
+            "ref": "1133quinquies-088",
+            "latitude": 49.0666666667,
+            "longitude": 22.7333333333
+          },
+          {
+            "name": "Central Balkan – Dzhendema Reserve",
+            "ref": "1133quinquies-029",
+            "latitude": 42.6833333333,
+            "longitude": 24.9666666667
+          },
+          {
+            "name": "Terebowiec stream valley (Bieszczady)",
+            "ref": "1133quinquies-087",
+            "latitude": 49.095,
+            "longitude": 22.722
+          },
+          {
+            "name": "Havešová Primeval Forest (Poloniny)",
+            "ref": "1133quinquies-089",
+            "latitude": 49.01,
+            "longitude": 22.337
+          },
+          {
+            "name": "Stužica - Bukovské Vrchy (Poloniny)",
+            "ref": "1133quinquies-091",
+            "latitude": 49.085,
+            "longitude": 22.526
+          },
+          {
+            "name": "Central Balkan – Tsarichina Reserve",
+            "ref": "1133quinquies-025",
+            "latitude": 42.774,
+            "longitude": 24.411
+          },
+          {
+            "name": "Central Balkan – Stara Reka Reserve",
+            "ref": "1133quinquies-028",
+            "latitude": 42.697,
+            "longitude": 24.81
+          },
+          {
+            "name": "Cozzo Ferriero (Pollino National Park)",
+            "ref": "1133quinquies-081",
+            "latitude": 39.908,
+            "longitude": 16.105
+          },
+          {
+            "name": "Central Balkan – Kozya stena Reserve",
+            "ref": "1133quinquies-026",
+            "latitude": 42.795,
+            "longitude": 24.523
+          },
+          {
+            "name": "Central Balkan – Peesh skali Reserve",
+            "ref": "1133quinquies-031",
+            "latitude": 42.766,
+            "longitude": 25.076
+          },
+          {
+            "name": "Groșii Țibleșului – Izvorul Șurii",
+            "ref": "1133quinquies-051",
+            "latitude": 47.553,
+            "longitude": 24.187
+          },
+          {
+            "name": "Polonina Wetlinska and Smerek (Bieszczady)",
+            "ref": "1133quinquies-086",
+            "latitude": 49.175,
+            "longitude": 22.527
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Cuesta Fria",
+            "ref": "1133quinquies-061",
+            "latitude": 43.1666666667,
+            "longitude": -4.9833333333
+          },
+          {
+            "name": "Central Balkan – Severen Dzhendem Reserve",
+            "ref": "1133quinquies-030",
+            "latitude": 42.744,
+            "longitude": 24.94
+          },
+          {
+            "name": "Domogled – Valea Cernei – Iauna Craiovei",
+            "ref": "1133quinquies-049",
+            "latitude": 45.107,
+            "longitude": 22.566
+          },
+          {
+            "name": "Domogled – Valea Cernei – Ciucevele Cerne",
+            "ref": "1133quinquies-050",
+            "latitude": 45.25,
+            "longitude": 22.84
+          },
+          {
+            "name": "Hayedos de Picos de Europa – Canal de Asotin",
+            "ref": "1133quinquies-062",
+            "latitude": 43.171,
+            "longitude": -4.889
+          },
+          {
+            "name": "Border Ridge and Gorna Solinka valley (Bieszczady)",
+            "ref": "1133quinquies-085",
+            "latitude": 49.098,
+            "longitude": 22.563
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton A",
+            "ref": "1133quinquies-022",
+            "latitude": 50.734,
+            "longitude": 4.437
+          },
+          {
+            "name": "Sonian Forest – Réserve forestière du Ticton B",
+            "ref": "1133quinquies-023",
+            "latitude": 50.727,
+            "longitude": 4.431
+          },
+          {
+            "name": "Sonian Forest – Forest Reserve “Joseph Zwaenepoel”",
+            "ref": "1133quinquies-019",
+            "latitude": 50.757,
+            "longitude": 4.416
+          },
+          {
+            "name": "Domogled – Valea Cernei – Domogled-Coronini – Bedina",
+            "ref": "1133quinquies-048",
+            "latitude": 44.9333333333,
+            "longitude": 22.4666666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1133",
+        "unesco_documents": "https://whc.unesco.org/en/list/1133/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1133/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1133/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. This transnational property includes 93 component parts in 18 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians, Dinarides, Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions. North Macedonia Spain Italy France Poland Albania Austria Belgium Croatia Romania Ukraine Bulgaria Slovenia Slovakia Switzerland Bosnia and Herzegovina Germany Czechia Europe and North America Natural"
+    },
+    {
+      "site_key": "ancient_city_of_nessebar",
+      "uuid": "8588545a-757b-5744-942e-84aab7fe087f",
+      "unesco_id": "217",
+      "names": {
+        "en": "Ancient City of Nessebar",
+        "fr": "Ancienne cité de Nessebar",
+        "es": "Antigua ciudad de Nessebar",
+        "ru": "Старый город в Несебыре",
+        "ar": "مدينة نيسيبار القديمة",
+        "zh": "内塞巴尔古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period.",
+          "fr": "Édifié sur une péninsule rocheuse de la mer Noire, le site de Nessebar, plus de trois fois millénaire, était à l’origine un site de peuplement des Thraces (Menobria). Au début du VIe siècle, la ville est devenue un comptoir grec. Les vestiges de la ville datent essentiellement de la période hellénistique et comprennent l’acropole, un temple d’Apollon, une agora et un mur de fortification thrace. Parmi d’autres monuments, la basilique de Stara Mitropolia et la forteresse rappellent le Moyen Âge, époque où la cité était l’une des plus importantes villes byzantines de la côte ouest de la mer Noire. Les maisons en bois construites au XIXe siècle représentent l’architecture de la mer Noire à cette époque.",
+          "es": "Edificada en una península rocosa del mar Negro, la tres veces milenaria ciudad de Nessebar fue, en sus orígenes, un asentamiento tracio llamado Menobria. A comienzos del siglo VI a.C. se convirtió en una colonia griega. Sus vestigios arqueológicos datan esencialmente del periodo helenístico y comprenden la acrópolis, el ágora, un templo dedicado a Apolo y una muralla tracia. La basílica de Stara Mitropolia y la fortaleza son de la Edad Media, época en la que Nessebar era una de las ciudades bizantinas más importantes de la costa occidental del Mar Negro. Sus casas de madera, construidas en el siglo XIX, son representativas de la arquitectura de esta época en la región del Mar Negro.",
+          "ru": "Расположенная на скалистом полуострове Черного моря старая часть города Несебыр, имеющая более чем трехтысячелетнюю историю, появилась на месте древнего фракийского поселения Менебрия. В начале VI в. до н.э. город стал греческой колонией. Остатки древнего города, относящиеся в основном к эллинистическому периоду, включают акрополь, храм Аполлона, агору и стену фракийских укреплений. Среди других памятников – базилика Старая Митрополия и крепость, относящиеся к средним векам, когда здесь был один из самых значимых городов Византии на западном побережье Черного моря. Деревянные здания построены в XIX веке в стиле, типичном для черноморской архитектуры того времени.",
+          "ar": "كان موقع نيسيبار المشيّد على شبه جزيرة صخرية في البحر الأسود والذي يرقى إلى أكثر من ثلاث آلاف سنة مستوطنة تراقية في البداية (اطلق عليها اسم مينوبريا)، لكنّها تحوّلت إلى مركز تجاري إغريقي في مطلع القرن السادس. وترقى آثار المدينة إلى الحقبة الهلينية بشكل رئيس وتشمل الأكربول، ومعبد للإله أبولون، وساحة عامة وسور من التحصينات التراقية، إلى جانب كاتدرائية ستارا ميتروبوليا والقلعة اللتين تذكران بالعصور الوسطى وبأوج مدينة نيسيبار التي أصبحت آنذاك إحدى أهم المدن البيزنطية على الساحل الغربي للبحر الأسود. وتدلّ البيوت الخشبية المشيّدة في القرن التاسع عشر على الهندسة التي تميّزت بها بلدان البحر الأسود في تلك الحقبة.",
+          "zh": "内塞巴尔古城位于黑海沿岸一个由岩石组成的半岛上，3000多年前，这里最初是色雷斯人聚落。公元前6世纪初，这里成了希腊殖民地。城市的遗迹大多可以追溯到古希腊时期，其中包括卫城、阿波罗神庙、广场和色雷斯人建造的堡垒剩下的一面墙。其他重要的古迹还包括中世纪时期建造的旧米特罗利亚教堂(Stara Mitropolia Basilica)和一些要塞，当时这里是黑海西岸最主要的拜占庭市镇之一。19世纪建造的木屋则体现了当时黑海地区典型的建筑特色。"
+        },
+        "full": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period.",
+        "justification": "Brief synthesis The Ancient city of Nessebar is a unique example of a synthesis of the centuries-old human activities in the sphere of culture; it is a location where numerous civilizations have left tangible traces in single homogeneous whole, which harmoniously fit in with nature. The different stages of development of its residential vernacular architecture reflect the stages of development of the architectural style on the Balkans and in the entire East Mediterranean region. The urban structure contains elements from the second millennium BC, from Ancient Times and the Medieval period. The medieval religious architecture, modified by the imposition of the traditional Byzantine forms, illustrates ornamental ceramics art, the characteristic painted decoration for this age. The town has served for over thousands of years as remarkable spiritual hearth of Christian culture. Criterion (iii): The Ancient City of Nessebar is an outstanding testimony of multilayered cultural and historical heritage. It is a place where many civilizations left their tangible traces: archaeological structures from the Second millennium BC, a Greek Black Sea colony with surviving remains of fortifications, a Hellenistic villa and religious buildings from the Antiquity, preserved churches (in some of them preserved only parts of archaeological structures) from the Middle Ages. Nessebar has demonstrated its historical importance as a frontier city on numerous occasions. Having been a remarkable spiritual centre of Christianity for a thousand years, today it is a developing and vibrant urban organism. Criterion (iv): The Ancient City of Nessebar is a unique example of an architectural ensemble with preserved Bulgarian Renaissance structure, and forms a harmonious homogenous entity with the outstanding natural configuration of the rocky peninsular, linked with the continent by a long narrow stretch of land. Its nature and existence is a result of synthesis of long-term human activity, which has witnessed significant historic periods - an urban structure with elements from 2nd millennium BC, classical antiquity, and the Middle Ages; the development of medieval religious architecture with rich plastic and polychrome decoration on its facades in the form of ceramic ornamentation typical for the period; the different stages in the development of the characteristic residential vernacular architecture, which testify to the supreme mastery of the architecture of the Balkans as well as the East Mediterranean region. The vernacular architecture of the urban ensemble, dominated by medieval churches and archaeology, together with the unique coastal relief, combine to produce an urban fabric of the high quality. Integrity Within the boundaries that encompass the small rocky peninsula, are all the evidence of the numerous cultural layers - from the 2nd millennium BC until the present time. Although the main elements have generally remained unchanged, since 1986 some exceptions have occurred with a number of illegal interventions on 19th century structures, and some new buildings executed in violation of the Cultural Heritage Law. In addition, and in violation of the Law on Monuments and Museums, negative influences have also emerged with the emergency stabilization of the peninsula shoreline. All of these changes have the potential to threaten the extraordinary coherence of the urban fabric and the overall visual integrity of the property. Authenticity Only conservation and stabilization work is carried out on the Medieval Churches, and all the investigated archaeological sites are exposed and preserved. Some Medieval Churches now require repair. The unauthorized changes to some of the vernacular buildings, and persistent and increasing pressures from tourism, public and residential functions, and investment interests, combined with the introduction of mobile retail units, are beginning to threaten the traditional urban structure of the city, its architectural appearance, and its atmosphere. Protection and management requirements Management is implemented by virtue of: 1) Cultural Heritage Law (Official Gazette No.19 of 2009) and subdelegated legislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. 2) Ordinance No.8 of the Culture Committee and the Committee on Architecture and Public Works of the architectural historical reserves Sozopol and Nessebar /SG 9/1981; covers the issues of general and detailed spatial planning; projects; carrying out conservation and restoration works; and new building. It also determines the borders and contact zones of the site, the main principles involved, and sets out the rules for protection and implementation. 3) Developed by the National Institute for Monuments of Culture /in 2009 renamed as National Institute for Immovable Cultural Heritage/, the Directive Plan is a Concept paper on the preservation and development of the cultural-historic heritage of the town of Nessebar. The Plan offers an integrated professional analysis and prognosis of urban development over a wide range of activities. Ostensibly contributing to the protection, promotion and sustainable development of the property, the document, unfortunately, does not fully reflect current conditions, and requires up-dating. 4) The current Construction and regulatory plan of the Ancient city of Nessebar, adopted in 1981, and the preliminary construction and regulatory plan (adopted on 30.07.1991 by the Ministry of construction and urban planning) regulates land use, types of building, parks and gardens etc. 5) The Spatial Planning Act - (Official Gazette, No. 1 of 2001 with amendments) and subdelegated legislation relates to spatial and urban planning, investment projects and buildings in Bulgaria. It also determines particular territorial and spatial protection, and the territories of cultural heritage. In order to provide adequate response to the threats from unauthorized development, pressure from tourism and new uses, there is a need to put in place an overall Management Plan for the property that provides a collaborative framework for all stakeholders."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 34.71,
+          "square_km": 0.35,
+          "square_miles": 0.14,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/73a7c7fa9977c488bbd22c6be6bd7ff2",
+          "filename": "site_0217_0001-500-0-20151104162447.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109166/site_0217_0001.jpg",
+            "https://whc.unesco.org/document/109167/site_0217_0002.jpg",
+            "https://whc.unesco.org/document/119216/site_0217_0003.jpg",
+            "https://whc.unesco.org/document/119217/site_0217_0004.jpg",
+            "https://whc.unesco.org/document/119218/site_0217_0005.jpg",
+            "https://whc.unesco.org/document/119219/site_0217_0006.jpg",
+            "https://whc.unesco.org/document/119220/site_0217_0007.jpg",
+            "https://whc.unesco.org/document/122570/site_0217_0008.jpg",
+            "https://whc.unesco.org/document/122571/site_0217_0009.jpg",
+            "https://whc.unesco.org/document/122572/site_0217_0010.jpg",
+            "https://whc.unesco.org/document/122573/site_0217_0011.jpg",
+            "https://whc.unesco.org/document/122574/site_0217_0012.jpg",
+            "https://whc.unesco.org/document/122575/site_0217_0013.jpg",
+            "https://whc.unesco.org/document/122576/site_0217_0014.jpg",
+            "https://whc.unesco.org/document/122578/site_0217_0016.jpg",
+            "https://whc.unesco.org/document/122579/site_0217_0017.jpg"
+          ],
+          "count": 16
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ancient City of Nessebar",
+            "ref": "217bis",
+            "latitude": 42.6591111111,
+            "longitude": 27.7360277778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/217",
+        "unesco_documents": "https://whc.unesco.org/en/list/217/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/217/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/217/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient City of Nessebar Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period. Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "srebarna_nature_reserve",
+      "uuid": "4a25c3a2-c196-5e67-860d-7ef42cc0af58",
+      "unesco_id": "219",
+      "names": {
+        "en": "Srebarna Nature Reserve",
+        "fr": "Réserve naturelle de Srébarna",
+        "es": "Reserva natural de Srebarna",
+        "ru": "Природный резерват Сребырна",
+        "ar": "محميّة سريبارنا الطبيعية",
+        "zh": "斯雷伯尔纳自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill.",
+          "fr": "La réserve naturelle de Srébarna est un lac d’eau douce adjacent au Danube qui s’étend sur plus de 600 ha. Il abrite près de 100 espèces d’oiseaux qui viennent s’y reproduire et dont beaucoup sont rares ou menacées. Quelque 80 autres espèces d’oiseaux s’y réfugient au cours de leur migration chaque hiver. Parmi les espèces d’oiseaux les plus intéressantes, on note le pélican dalmate, le bihoreau gris, l’ibis falcinelle et la spatule blanche.",
+          "es": "La reserva natural de Srebarna está formada por un lago de agua dulce, adyacente al río Danubio, que se extiende por más de 600 hectáreas. Alberga unas 100 especies de aves que vienen aquí a reproducirse, muchas de las cuales son raras o se hallan en peligro de extinción. Otras 80 especies de aves hallan refugio en la reserva cada invierno, en la época de su migración. Entre las más interesantes cabe destacar el pelícano dálmata, la garza gris, el ibis morito y la espátula blanca.",
+          "ru": "Пресноводное озеро, лежащее вблизи русла Дуная, имеет площадь 600 га. Здесь гнездятся птицы почти 100 видов, многие из которых признаны редкими и исчезающими. Еще примерно 80 видов птиц составляют мигранты, прилетающие сюда на зимовку. Среди наиболее примечательных птиц – кудрявый пеликан, большая белая, рыжая и черная цапли, каравайка, колпица.",
+          "ar": "تتألف محميّة سريبارنا الطبيعية من بحيرة من المياه العذبة متاخمة لنهر الدانوب تمتّد على مساحة تفوق 600 هكتار. وتأوي حوالى 100 جنس من الطيور النادرة أو المهددة بالإنقراض بمعظمها والتي تلجأ إلى هذا المكان لتتكاثر. كما يجد 80 صنفاً آخر من الطيور ملاذاً آمناً له في هذه البحيرة خلال هجرته الشتائية. ومن أبرز أجناس الطيور الموجودة، البجع الدلماسي وغراب الليل الرمادي وأبو منجل والملاعقي الأبيض.",
+          "zh": "斯雷伯尔纳自然保护区是一处毗邻多瑙河的淡水湖，总面积超过600公顷。有约100种鸟类在这个保护区内生活繁衍，其中许多是稀有濒危鸟类，另外还有大约80种侯鸟每年到这里过冬。这里最重要的鸟类包括达尔马提亚鹈鹕、白鹭、夜苍鹭、紫苍鹭、朱鹭和白篦鹭。"
+        },
+        "full": "The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill.",
+        "justification": "Brief synthesis Srebarna Nature Reserve protects a lake and wetland ecosystem of 638ha located near to the village of Srebarna on the west bank of the Danube River. The reserve includes the lake and the former agricultural lands north of the lake, a belt of forest plantations along the Danube, the island of Komluka and the aquatic area locked between the island and the riverbank. Srebarna Nature Reserve is an important wetland on the Western Palaearctic bird migratory flyway. It provides nesting grounds for 99 species of birds and seasonal habitat to around 80 species of migratory birds. The property is surrounded by hills which provide a natural boundary and offer an ideal means for observing the waterfowl. Criterion (x): Srebarna Nature Reserve protects an important example of a type of wetland that was widespread in Bulgaria in the past. It shelters a diversity of plant and animal species, which are increasingly threatened. The wetland is an important breeding, staging and wintering site for a large number of birds. Floating reedbed islands and flooded willow woodlands provide important bird breeding areas. In the lake's northern end the reedbeds gradually give way to wet meadows. In the north-western end of the lake and along the Danube there are belts of riverine forest with single old trees of White Willow. The rich bird life supported by Srebarna Nature Reserve is the basis for its international significance. The property holds populations of birds that are considered critical to species survival. It hosts the only colony of Dalmatian Pelican in Bulgaria, as well as the largest breeding populations of four more globally threatened species: Pygmy Cormorant, Ferruginous Duck, White-tailed Eagle and Corncrake. Srebarna is also of European value importance in supporting Little Bittern Night Heron, Squacco Heron, Little Egret, Great White Egret, Purple Heron, Glossy lbis, Spoonbill and Ruddy Shelduck. Three species of terns also occur here. Globally threatened Pygmy Cormorant and Red-breasted Goose winter in the Reserve, and the wintering populations of White-fronted Goose, Greylag Goose and Fieldfare are also notable. In total the property provides critical habitat that supports 173 bird species, 78 species of which are of European conservation concern, and nine being listed as globally threatened. Integrity The property includes the largest lake left after drainage of the marshy zone along the Danube and was connected to the river until a dyke was built in 1949. Its current situation is therefore not completely natural and is maintained by water management measures. In 1994 a channel was constructed between the lake and the Danube river in order to ensure the annual flow of Danube waters into the lake during the spring months. The Reserve is a strictly protected area, and only carefully-controlled scientific research, and conservation management activities are allowed to take place within it. The site is relatively small, and only if other areas are also protected, in the region and on bird migration routes, can the key species of Srebarna Nature Reserve be expected to survive. The property is protected by a 673 ha buffer zone which was created in 2008. This consists of a portion of the Srebarna Nature Reserve that is not part of the World Heritage property and 419 ha of land surrounding the Srebarna Nature Reserve, which is located within an adjacent protected area known as Pelikanite. The aim of this buffer zone is to prevent and reduce negative human impacts on the reserve. Protection and management requirements Srebarna Lake was the first wetland in Bulgaria to receive legal protection status and also the first to achieve international recognition. The lake was designated as reserve in 1948 to protect the diversity of birds it hosts. According to the 1998 law dealing with protected areas in Bulgaria, the property is classified as a “Managed Reserve, being exclusively State property. Management and control are carried out by the Ministry of Environment and Water and its regional departments. The reserve falls under the jurisdiction of the Regional Inspectorate of environment and water for the town of Russe. Besides its inclusion on the World Heritage List, Srebarna Lake is also protected as a Wetland of International Importance under the Ramsar Convention and as a UNESCO Biosphere Reserve. In 1989 the lake was designated as an lmportant Bird Area by BirdLife International. Its values are also recognised and protected at the European level. The property is also included in two Natura 2000 sites: the Srebarna Special Protection Area and Ludogorie-Srebarna Special Area of Conservation. The property requires active management, and a management plan needs to be maintained and updated to guide this work. Keys objectives of the management plan are conservation management for the protection of its breeding bird populations, and the continued function of the property as a stopover site for migratory birds. Specific regimes are in place for a number of different zones in the reserve, according to their conservation value. Key management requirements for the lake are to maintain and restore its water system to as natural a state as possible. Vegetation management is also needed to optimize the conservation value of the property to birds. Control of human use and the active prevention of poaching and illegal fishing are also required on an ongoing basis. Monitoring of activities to ensure management plan implementation is required in relation to the achievement of clear targets that should be defined and updated in the management plan. Protection of the values of the property also relies on measures outside its boundaries. The buffer zone of the property is important in preventing the introduction of non-local plant or animal species, pollution from domestic, industrial or other types of waste, hunting during bird nesting and breeding periods, burning of reeds, and other activities that could disturb the nesting and breeding bird colonies. Some of these issues also require measures beyond the defined buffer zone of the property. The linkage of the property with other reserves on the Romanian side of the Danube, and within the wider Western Palaearctic migratory flyway, would also enhance its integrity and the protection of its natural values."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 638,
+          "square_km": 6.38,
+          "square_miles": 2.582,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1983,
+          "all_dates": [
+            1983
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1983,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/df14ab771c0fd53c55195f36a4987da3",
+          "filename": "site_0219_0002-500-0-20151104162536.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109168/site_0219_0002.jpg",
+            "https://whc.unesco.org/document/109169/site_0219_0003.jpg",
+            "https://whc.unesco.org/document/119221/site_0219_0004.jpg",
+            "https://whc.unesco.org/document/119222/site_0219_0005.jpg",
+            "https://whc.unesco.org/document/119223/site_0219_0006.jpg",
+            "https://whc.unesco.org/document/119224/site_0219_0007.jpg",
+            "https://whc.unesco.org/document/122594/site_0219_0010.jpg",
+            "https://whc.unesco.org/document/122595/site_0219_0011.jpg",
+            "https://whc.unesco.org/document/122596/site_0219_0012.jpg",
+            "https://whc.unesco.org/document/122598/site_0219_0014.jpg",
+            "https://whc.unesco.org/document/122599/site_0219_0015.jpg",
+            "https://whc.unesco.org/document/122604/site_0219_0017.jpg",
+            "https://whc.unesco.org/document/122606/site_0219_0018.jpg",
+            "https://whc.unesco.org/document/122608/site_0219_0019.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Srebarna Nature Reserve",
+            "ref": "219bis",
+            "latitude": 44.11444,
+            "longitude": 27.07806
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/219",
+        "unesco_documents": "https://whc.unesco.org/en/list/219/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/219/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/219/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 42,
+        "inscription_year": 1983
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Srebarna Nature Reserve The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill. The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill. Bulgaria Europe and North America Natural"
+    },
+    {
+      "site_key": "thracian_tomb_of_kazanlak",
+      "uuid": "6b0e3cc7-bce8-5465-9a68-57e5fc1b03f5",
+      "unesco_id": "44",
+      "names": {
+        "en": "Thracian Tomb of Kazanlak",
+        "fr": "Tombe thrace de Kazanlak",
+        "es": "Tumba tracia de Kazanlak",
+        "ru": "Фракийская гробница в городе Казанлык",
+        "ar": "ضريح كازانلاك التراقي",
+        "zh": "卡赞利克的色雷斯古墓"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period.",
+          "fr": "Découvert en 1944, ce tombeau date de la période hellénistique, vers la fin du IVe siècle av. J.-C. Il est situé près de Seutopolis – capitale du roi thrace Seutes III – et fait partie d’une grande nécropole thrace. Le tholos comprend un étroit corridor et une chambre funéraire ronde, tous deux décorés de peintures murales représentant les rites funéraires et la culture thrace. Ces peintures sont les chefs-d’œuvre artistiques les mieux préservés de la période hellénistique en Bulgarie.",
+          "es": "Descubierta en 1944, esta tumba data del periodo helenístico (hacia finales del siglo IV a.C.). Está situada cerca de Seutópolis, capital del rey tracio Seutes III, y forma parte de una gran necrópolis. El tholos comprende un corredor angosto y una cámara mortuoria circular con frescos que representan ritos funerarios. Estas pinturas son las obras de arte del período helenístico mejor conservadas en Bulgaria.",
+          "ru": "Обнаруженная в 1944 г. гробница датируется эллинистическим периодом, приблизительно концом IV в. до н.э. Она располагалась около Севтополиса – столицы царя Фракии Севта III, и представляла собой часть крупного фракийского некрополя. Округлое здание гробницы – «фолос» – имеет узкий коридор и круглую погребальную камеру со стенными росписями, изображающими фракийские похоронные церемонии и культуру. Эта живопись – наиболее хорошо сохранившиеся художественные произведения периода эллинизма в Болгарии.",
+          "ar": "إكتُشف هذا الضريح في العام 1944 وهو يرقى إلى الحقبة الهيلينية، قرابة نهاية القرن الرابع قبل الميلاد. يقع بالقرب من مدينة سيوطوبوليس، التي كانت في ما مضى عاصمة الملك التراقي سيوطس الثالث، ويشكل جزءاً لا يتجزأ من مقبرة تراقية كبيرة. يتألف القبر المقبّب من دهليز ضيق وغرفة دائرية لدفن الموتى، كلاهما مزيّن برسومات جدارية تصوّر طقوس دفن الموتى والثقافة التراقية آنذاك. وتعتبر هذه الرسومات من أفضل التحف الفنية المحافظ عليها من الحقبة الهيلينية في بلغاريا.",
+          "zh": "卡赞利克的色雷斯古墓发现于1944年，其历史年代可追溯到古希腊时期，即公元前4世纪末左右。古墓位于色雷斯王修瑟斯三世时期的都城修瑟波利斯(Seutopolis)附近，是色雷斯王国大片墓地中的一部分。该古墓内有狭长的地道和圆形墓室，均以壁画装饰。这些壁画代表了卡赞利克的墓葬仪式和文化。古墓中的绘画作品是保加利亚保存最完好的古希腊时期艺术杰作。"
+        },
+        "full": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period.",
+        "justification": "Brief synthesis The Thracian tomb of Kazanlak is a unique aesthetic and artistic work, a masterpiece of the Thracian creative spirit. This monument is the only one of its kind anywhere in the world. The exceptionally well preserved frescos and the original condition of the structure reveal the remarkable evolution and high level of culture and pictorial art in Hellenistic Thrace. Criterion (i): The Thracian Tomb of Kazanlak is the masterpiece of the Thracian creative spirit. Criterion (iii): The Kazanlak frescoes testify to high level of culture and pictorial art in Thracia. Criterion (iv): The Kazanlak frescoes represent a significant stage in the development of Hellenistic funerary art. Integrity The integrity of the site is intact. The defined boundaries and buffer zone, and the location of the Tomb in a park area, provides a secure environment for the property. The property encompasses within its boundaries all the components that convey the outstanding universal value. The Tomb is protected from the negative effects of visitors, through offering access to the nearby museum that contains a copy of the tomb architecture and its fresco decoration. Authenticity The Tomb meets the requirements for authenticity as the construction and walls remain in their original condition, without modification or addition, and its frescoes are very well preserved. At the time of inscription, the Tomb was secured under a permanent protective building, and its principle cultural value - the exclusive mural decoration - was fully preserved. In this process, the murals were cleaned and strengthened. Using techniques that did not violate their authenticity, they were not retouched or additionally filled. Air conditioning was installed to ensure a constant temperature. Protection and management requirements The management is implemented by virtue of: - Cultural Heritage Law (Official Gazette No.19 of 2009) and subdelegated legislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties; - the Tomb's preservation and visiting regime prescribed by the National Institute for preservation of the immovable cultural properties."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            3,
+            4
+          ],
+          "display": "(i)(iii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0.0155,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/15c14484f6e39fbdd13c8bb11150ce19",
+          "filename": "site_0044_0001-500-0-20100520161237.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 501
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107947/site_0044_0001.jpg",
+            "https://whc.unesco.org/document/119228/site_0044_0002.jpg",
+            "https://whc.unesco.org/document/119229/site_0044_0003.jpg",
+            "https://whc.unesco.org/document/119230/site_0044_0004.jpg",
+            "https://whc.unesco.org/document/122534/site_0044_0005.jpg",
+            "https://whc.unesco.org/document/122535/site_0044_0006.jpg",
+            "https://whc.unesco.org/document/122536/site_0044_0007.jpg",
+            "https://whc.unesco.org/document/122537/site_0044_0008.jpg",
+            "https://whc.unesco.org/document/122538/site_0044_0009.jpg",
+            "https://whc.unesco.org/document/122539/site_0044_0010.jpg",
+            "https://whc.unesco.org/document/122540/site_0044_0011.jpg",
+            "https://whc.unesco.org/document/122541/site_0044_0012.jpg"
+          ],
+          "count": 12
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Thracian Tomb of Kazanlak",
+            "ref": "44",
+            "latitude": 42.625774,
+            "longitude": 25.399172
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/44",
+        "unesco_documents": "https://whc.unesco.org/en/list/44/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/44/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/44/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Thracian Tomb of Kazanlak Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period. Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period. Bulgaria Europe and North America Cultural"
+    },
+    {
+      "site_key": "rock_hewn_churches_of_ivanovo",
+      "uuid": "9c1bf7fe-196c-5fb1-ada4-2cf50bfa87a1",
+      "unesco_id": "45",
+      "names": {
+        "en": "Rock-Hewn Churches of Ivanovo",
+        "fr": "Églises rupestres d'Ivanovo",
+        "es": "Iglesias rupestres de Ivanovo",
+        "ru": "Скальные церкви у села Иваново",
+        "ar": "كنائس إيفانوفو المنحوتة في الصخر",
+        "zh": "伊凡诺沃岩洞教堂"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGR": {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "iso3": "BGR"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting.",
+          "fr": "Dans la vallée de la Roussenki Lom, au nord-est de la Bulgarie, un ensemble d’églises, de chapelles, de monastères et de cellules creusés dans le roc s’est développé à proximité du village d’Ivanovo. C’est là que les premiers ermites ont creusé leurs cellules et leurs églises au XIIe siècle. Les peintures murales qui datent du XIVe siècle témoignent d’une technique artistique exceptionnelle caractéristique de l’école de peinture de Tarnovo.",
+          "es": "Este conjunto de iglesias, capillas, celdas y monasterios rupestres se fue formando a lo largo del tiempo en el valle del rí­o Russenski Lom, no lejos de la aldea de Ivanovo, al noreste de Bulgaria. Fue en el siglo XII cuando los primeros eremitas excavaron sus celdas e iglesias en la roca. Los frescos, que datan del siglo XIV, atestiguan la técnica excepcional caracterí­stica de la escuela de pintura de Tarnovo.",
+          "ru": "Комплекс, состоящий из болгарских средневековых церквей, часовен и монашеских келий, выдолбленных в скалах на извилине реки Русенский Лом. Сохранившие здесь фрески XIII-XIV века, выполненные уникальными по составу красками, специалисты относят к величайшим из сокровищ болгарской средневековой живописи. В этих скалах укрывались первые христианские отшельники. Здесь построены храмы XII века.",
+          "ar": "يشهد وادي روسنكي لوم، شمال شرق بلغاريا، على نمو مجموعة من الكنائس والمعابد والأديرة والصوامع المحفورة في الصخر بالقرب من بلدة إيفانوفو حيث حفر الناسكون الأوائل صوامعهم وكنائسهم في القرن الثاني عشر. وتجسّد الرسومات الجدارية التي ترقى إلى القرن الرابع عشر على تقنية فنية إستثنائية اشتهرت بها مدرسة تارنوفو للرسم.",
+          "zh": "伊凡诺沃岩洞教堂位于保加利亚东北部洛姆河流域伊凡诺沃村一带，由岩洞教堂、小教堂、修道院和洞穴组成。12世纪，第一批隐士开始在这里开挖洞穴和建造教堂。绘于14世纪的壁画向人们展示了塔尔诺沃(Tarnovo)画派艺术家们杰出的艺术表现力。"
+        },
+        "full": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting.",
+        "justification": "Brief synthesis The frescos of the Ivanovo churches reveal an exceptional artistry and a remarkable artistic sensitivity for 14th century painting and Bulgarian medieval art; they are an important achievement in the Christian art of South-Eastern Europe. Posterior to the Khora monastery mosaics (Karia Djami) of 1303 - 10, these frescoes, by their very expressiveness surpass any other historical monuments discovered, characteristic of the Palaeologues style. Neo-classical in spirit and in elements of their subjects, the frescoes represent a departure from the canons of Byzantine iconography. They show close ties with expressive Hellenistic art and a clear preference for the nude, the landscape, an architectural background in a composition, drama, an emotional atmosphere - qualities which combine to make an exceptional masterpiece of the Tarnovo school of painting and monumental art. The five historical monuments in this group (chapels, churches, etc.), dating from the 13th and 14th centuries, serve as examples that pave the way for the distinctive character development, and mastery in the art of the Second Bulgarian State /1187-1396/. The richness, the variety of the cells, chapels, churches, monastery complexes, the original architectural solutions - all set in a magnificent natural environment - confirm the value of this extraordinary historical grouping. Criterion (ii): Many churches, chapels, monasteries and cells were cut into the natural rock along the Rusenski Lom river, during the 13-14th centuries. The Church frescoes reveal an exceptional artistry and a remarkable artistic sensitivity for 14th century painting and Bulgarian medieval art; they are an important achievement in the Christian art of South-Eastern Europe. Neo-classical in spirit and in elements of their subjects, the frescoes represent a departure from the canons of Byzantine iconography. They show close ties with expressive Hellenistic art and a clear preference for the nude, the landscape, an architectural background in a composition, drama, an emotional atmosphere - qualities which combine to make an exceptional masterpiece. Criterion (iii): The extensive complexes of monasteries were built between the time of the Second Bulgarian State /1187-1396/ and the conquest of Bulgaria by the Ottoman Empire. The five historical monuments in this group, dating from the 13th and 14th centuries, the richness, the variety of the cells, chapels, churches, monastery complexes, the original architectural solutions - all of that set in a magnificent natural environment - confirm the value of this extraordinary historical grouping. Integrity The property encompasses within its boundaries all the components necessary to convey its outstanding universal value but the rock massif, where the churches are situated, has serious stability problems. Over the years a continuous programme of research, and scientific, technical and design projects, have focussed on strengthening and stabilising the rock formation. A programme was carried out for the Investigation, identification, stabilization and waterproofing of the rock massif for The Church of the Holy Virgin. All of the statistical analyses are based on processing meteorological and instrument data, and studies. Authenticity Created in the natural cavities of a karst massif, the authenticity of shape, material and substance of the Rock-hewn Churches of Ivanovo has been preserved. Urgent conservation work has been completed on the valuable 13th and 14th century murals, whilst cleaning, stabilization and presentation of The Church of the Holy Virgin murals has also been carried out. This involved minimal retouching work, and the maximum retention of the original. In consequence of a rock collapse in the early 20th century, the 13th century ceiling murals from the buried church of St. Archangels, have been rescued and moved to a new substrate. The first stage of work on the 14th century murals of the collapsed St. Todor Church has also been completed. Protection and management requirements Through National Legislation the property has been protected, as a 'Reserve' since 1965 (Official Gazette No. 84 of 1965). Management is implemented through the Cultural Heritage Law (Official Gazette No.19 of 2009) and subdelegated legislation. This law regulates the research, studying, protection and promotion of the immovable cultural heritage in Bulgaria, and the development of Conservation and Management plans for its inscribed World Heritage List of immovable cultural properties. Protection is also afforded by Ordinance No. 17 of the President of the Committee for Culture on Definition of Boundaries and Regimes of Use and Protection of Immovable Cultural Monuments outside Populated Areas (Official Gazette No. 35 of 1979); and The Protected Areas Act (Official Gazette No. 133 of 11 November 1998, as amended and supplemented). In order to strengthen and stabilize the rock formation, there is a need to pursue the implementation of the conservation measures."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 171.9,
+          "square_km": 1.72,
+          "square_miles": 0.696,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/4ab53ea28d1d97004f5c6b7df744d4c3",
+          "filename": "site_0045_0001-500-0-20090924172939.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107949/site_0045_0001.jpg",
+            "https://whc.unesco.org/document/122475/site_0045_0002.jpg",
+            "https://whc.unesco.org/document/122476/site_0045_0003.jpg",
+            "https://whc.unesco.org/document/122477/site_0045_0004.jpg",
+            "https://whc.unesco.org/document/122478/site_0045_0005.jpg",
+            "https://whc.unesco.org/document/122479/site_0045_0006.jpg",
+            "https://whc.unesco.org/document/122480/site_0045_0007.jpg",
+            "https://whc.unesco.org/document/122481/site_0045_0008.jpg",
+            "https://whc.unesco.org/document/122482/site_0045_0009.jpg",
+            "https://whc.unesco.org/document/122483/site_0045_0010.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Rock-Hewn Churches of Ivanovo",
+            "ref": "45",
+            "latitude": 43.694858,
+            "longitude": 25.987893
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/45",
+        "unesco_documents": "https://whc.unesco.org/en/list/45/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/45/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/45/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rock-Hewn Churches of Ivanovo In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting. In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting. Bulgaria Europe and North America Cultural"
+    }
+  ]
+}

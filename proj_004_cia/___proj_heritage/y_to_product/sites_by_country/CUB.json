@@ -1,0 +1,1654 @@
+{
+  "country": {
+    "code": "CUB",
+    "name": "Cuba"
+  },
+  "total_sites": 9,
+  "sites_by_category": {
+    "Cultural": 7,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "old_havana_and_its_fortification_system",
+      "uuid": "f1ec5577-5e00-529d-a0a2-6d6d79581a51",
+      "unesco_id": "204",
+      "names": {
+        "en": "Old Havana and its Fortification System",
+        "fr": "Vieille ville de La Havane et son système de fortifications",
+        "es": "Ciudad vieja de La Habana y su sistema de Fortificaciones",
+        "ru": "Старая Гавана и ее укрепления",
+        "ar": "مدينة هافانا القديمة ونظام الحصون",
+        "zh": "哈瓦那旧城及其工事体系"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards.",
+          "fr": "Fondée en 1519 par les Espagnols, La Havane est devenue au XVIIe siècle un grand centre de construction navale pour les Caraïbes. Bien qu'elle soit aujourd'hui une métropole tentaculaire de deux millions d'habitants, son centre ancien conserve un mélange intéressant de monuments baroques et néoclassiques, ainsi qu'un ensemble homogène de maisons avec des arcades, des balcons, des grilles en fer forgé et des cours intérieures.",
+          "es": "Fundada en 1519 por los españoles, La Habana se convirtió en el siglo XVII en un importante astillero para la región del Caribe. Aunque hoy es una metrópoli tentacular con dos millones de habitantes, su antiguo centro conserva una interesante mezcla de monumentos barrocos y neoclásicos, así como un conjunto homogéneo de casas con arcadas, balcones, rejas de hierro forjado y patios interiores.",
+          "ru": "Гавана была основана испанцами в 1519 г.. К XVII в. город стал одним из основных центров судостроения в Карибском регионе. И хотя сегодня Гавана представляет собой расширяющуюся во все стороны метрополию с 2 млн. жителей, ее старый центр сохраняет интересное смешение памятников барокко и классицизма, а также целостные ансамбли частных жилых домов с галереями, балконами, чугунными воротами и внутренними двориками.",
+          "ar": "تأسست هافانا على يد الإسبان عام 1519 واستحالت في القرن السابع عشر مركزاً عملاقاً لبناء السفن في جزر الكاريبي. ومع أنّها أصبحت اليوم مدينةً من مليوني نسمة، إلاّ أنّ وسطها القديم يحافظ على مزيجٍ مهم من المباني ذات الطراز الباروكي والكلاسيكي الجديد، إضافةً إلى مجموعة متجانسة من المنازل بقناطرها وشرفاتها وشبابيكها المصنوعة من الحديد المطروق وساحاتها الداخليّة.",
+          "zh": "哈瓦那由西班牙人于1519年建立，17世纪成了加勒比海主要的造船中心之一。虽然哈瓦那今天是一个有200万人口且不断扩张的都市，但其旧城中心仍保留着引人入胜的巴洛克式和新古典风格混合的建筑物，所有的民房都有拱廊、阳台、铸铁的大门和内院。"
+        },
+        "full": "Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards.",
+        "justification": "Brief Synthesis Founded about 1519 on Cuba’s north-western shore, Old Havana has maintained a remarkable unity of character through its adherence to its original urban layout. Urban plazas surrounded by many buildings of outstanding architectural merit and narrow streets lined with more popular or traditional styles permeate the historic centre of the city. Its overall sense of architectural, historical and environmental continuity makes it the most impressive historical city centre in the Caribbean and one of the most notable in the American continent as a whole. With the establishment and development of the fleet system in the Spanish West Indies, Havana in the second half of the 16th century became the largest port in the region, and in the 18th century developed the most complete dockyard in the New World, both of which necessitated military protection. The extensive network of defensive installations that was created between the 16th and 19thcenturies includes some of the oldest and largest stone fortifications now standing in the Americas. Old Havana, which is defined by the extent of the former city walls, has maintained the pattern of the early urban setting with its five large plazas, each with its own architectural character: Plaza de Armas, Plaza Vieja, Plaza de San Francisco, Plaza del Cristo and Plaza de la Catedral. Around these plazas are many outstanding buildings, including the Iglesia Catedral de La Habana, Antiguo Convento de San Francisco de Asís, Palacio del Segundo Cabo and Palacio de los Capitanes Generales. Interspersed with this mix of baroque and neoclassical style monuments is a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards –many of them evocatively time-worn. The complex system of fortifications that protected Havana, its port and its dockyard is comprised of the Fortaleza de San Carlos de la Cabaña –one of the largest colonial fortresses in the Americas– on the east side of the narrow entrance canal to Havana Bay; Castillo de la Real Fuerza –one of the oldest colonial fortresses in the Americas (begun in 1558)– on the west side of the canal; and Castillo de San Salvador de la Punta and Castillo de los Tres Reyes del Morro guarding the entrance to the canal; as well as the Torreón de San Lázaro, Castillo de Santa Dorotea de Luna de la Chorrera, Reducto de Cojímar, Baluarte del Ángel, Lienzo de la Muralla y Puerta de la Tenaza, Restos de Lienzo de la Muralla, Garita de la Maestranza, Cuerpo de Guardia de la Puerta Nueva, Restos del Baluarte de Paula, Polvorín de San Antonio, Hornabeque de San Diego, Fuerte No. 4, Castillo de Santo Domingo de Atarés, Castillo del Príncipe and Fuerte No. 1. Criterion (iv)The historic fortunes of Havana were a product of the exceptional function of its bay as an obligatory stop on the maritime route to the New World, which consequently necessitated its military protection. The extensive network of defensive installations created between the 16th and 19th centuries includes some of the oldest and largest extant stone fortifications in the Americas, among them La Cabaña fortress on the east side of the narrow entrance canal to Havana Bay, Real Fuerza Castle on the west side, and Morro castle and La Punta castle guarding the entrance to the canal. Criterion (v) The historic centre of Havana has maintained a remarkable unity of character resulting from the superimposition of different periods in its history, which has been achieved in a harmonious yet expressive manner through adherence to the original urban layout and underlying pattern of the city as a whole. Within the historical centre of the city are many buildings of outstanding architectural merit, especially surrounding its plazas, which are set off by houses and residential buildings in a more popular or traditional style that, when considered as a whole, provide an overall sense of architectural, historical and environmental continuity that makes Old Havana the most impressive historical city centre in the Caribbean and one of the most notable in the American continent as a whole. Integrity Within the boundaries of Old Havana and its Fortifications are located all the elements necessary to express its Outstanding Universal Value, including Old Havana’s urban layout with its five large plazas and its harmonious ensemble of architectural monuments and traditional-style popular buildings from different periods in its history, and its extensive network of fortifications. Because of the historic role played by building ordinances during the 19th and 20th centuries, Old Havana’s urban and architectural morphology has remained virtually unchanged. The city’s 214-ha. historic centre and its fortifications are of sufficient size to adequately ensure the complete representation of the features and processes that convey the property’s significance. Old Havana and its Fortifications does not suffer from adverse effects of development, though much of Old Havana’s built fabric is in disrepair due to decay, chronic neglect and the natural elements. Authenticity Old Havana and its Fortifications have a high degree of authenticity in terms of location and setting, forms and designs, and materials and substances. Between the 1950s and the 1970s, certain architectural interventions and changes in use affected Old Havana’s authenticity, but without reducing a clear understanding of the veracity of the ensemble and its attributes. Havana is occasionally subjected to severe tropical weather (including hurricanes, as in 2008), which can threaten the authenticity of the property. Protection and management requirements Old Havana and its Fortifications is largely owned by the Cuban state, with some parts owned by private individuals or legal entities. The inscribed property is protected by provisions in the Constitución de la República de Cuba (Constitution of the Republic of Cuba) of 24 February 1976 and by National Monuments Commission Resolution 3/1978 designating the historic urban centre of the old town of San Cristobal de La Habana and the system of colonial fortifications surrounding it as a National Monument, in application of the Ley de Protección al Patrimonio Cultural (Law on the Protection of Cultural Property, Law No. 1 of 4 August 1977), and the Ley de Monumentos Nacionales y Locales (Law on National and Local Monuments, Law No. 2 of 4 August 1977). National Monuments Commission Resolutions 12/1980 and 14/1980 established, respectively, a national working group responsible for the historic centre of Old Havana and its fortifications, and measures to define the limits of the historic centre and to protect its buildings by halting demolition and by planning reinforcement work. The Asamblea Provincial del Poder Popular (Provincial Assembly of People’s Power) is responsible for the administration of the historic centre of Havana. A specialized institution of the Cuban Ministry of Culture provides legal, technical and administrative support for research and formulation of policies and projects for the conservation and rehabilitation of the historic centre. The Cuban state provides resources for a Five-Year Restoration Plan, which began in 1981, and ensures the viability and sustainability of the multi-year Plan by means of an agreement with the Office of the Historian of Havana (an autonomous organization of city government founded in 1938), which manages the process of rehabilitation and restoration. Sustaining the Outstanding Universal Value of the property over time will require continuing existing programmes and processes, and establishing new initiatives as required, to ensure the proper repair and conservation of the built fabric of Old Havana that is in disrepair due to decay, chronic neglect and the elements; preparing a risk reduction and emergency preparedness plan related to severe weather and other identified or potential threats; and establishing monitoring indicators."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 238.7,
+          "square_km": 2.39,
+          "square_miles": 0.966,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2c268cebe5502e7fa1d27b202474b4d1",
+          "filename": "site_0204_0002.jpg",
+          "dimensions": {
+            "width": 3008,
+            "height": 2000
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109115/site_0204_0002.jpg",
+            "https://whc.unesco.org/document/109116/site_0204_0003.jpg",
+            "https://whc.unesco.org/document/109117/site_0204_0004.jpg",
+            "https://whc.unesco.org/document/109118/site_0204_0005.jpg",
+            "https://whc.unesco.org/document/109119/site_0204_0006.jpg",
+            "https://whc.unesco.org/document/109120/site_0204_0007.jpg",
+            "https://whc.unesco.org/document/109121/site_0204_0008.jpg",
+            "https://whc.unesco.org/document/109122/site_0204_0009.jpg",
+            "https://whc.unesco.org/document/109123/site_0204_0010.jpg",
+            "https://whc.unesco.org/document/109124/site_0204_0011.jpg",
+            "https://whc.unesco.org/document/109125/site_0204_0012.jpg",
+            "https://whc.unesco.org/document/109126/site_0204_0013.jpg",
+            "https://whc.unesco.org/document/109127/site_0204_0014.jpg",
+            "https://whc.unesco.org/document/109128/site_0204_0015.jpg",
+            "https://whc.unesco.org/document/109129/site_0204_0016.jpg",
+            "https://whc.unesco.org/document/109130/site_0204_0017.jpg",
+            "https://whc.unesco.org/document/109131/site_0204_0018.jpg",
+            "https://whc.unesco.org/document/120289/site_0204_0019.jpg",
+            "https://whc.unesco.org/document/120290/site_0204_0020.jpg",
+            "https://whc.unesco.org/document/120709/site_0204_0021.jpg",
+            "https://whc.unesco.org/document/126427/site_0204_0022.jpg",
+            "https://whc.unesco.org/document/126428/site_0204_0023.jpg",
+            "https://whc.unesco.org/document/126429/site_0204_0024.jpg",
+            "https://whc.unesco.org/document/126430/site_0204_0025.jpg",
+            "https://whc.unesco.org/document/126431/site_0204_0026.jpg",
+            "https://whc.unesco.org/document/126432/site_0204_0027.jpg",
+            "https://whc.unesco.org/document/126433/site_0204_0028.jpg",
+            "https://whc.unesco.org/document/126435/site_0204_0030.jpg",
+            "https://whc.unesco.org/document/126436/site_0204_0031.jpg",
+            "https://whc.unesco.org/document/126645/site_0204_0033.jpg",
+            "https://whc.unesco.org/document/126646/site_0204_0034.jpg"
+          ],
+          "count": 31
+        }
+      },
+      "components": {
+        "count": 11,
+        "locations": [
+          {
+            "name": "Old Havana",
+            "ref": "204-001",
+            "latitude": 23.136521,
+            "longitude": -82.352078
+          },
+          {
+            "name": "Fuerte No 1",
+            "ref": "204-005",
+            "latitude": 23.157888,
+            "longitude": -82.334986
+          },
+          {
+            "name": "Castillo de Atarés",
+            "ref": "204-010",
+            "latitude": 23.120242,
+            "longitude": -82.361109
+          },
+          {
+            "name": "Castillo de Cojímar",
+            "ref": "204-008",
+            "latitude": 23.16714,
+            "longitude": -82.294727
+          },
+          {
+            "name": "Castillo del Príncipe",
+            "ref": "204-011",
+            "latitude": 23.130715,
+            "longitude": -82.385879
+          },
+          {
+            "name": "Torreón de San Lázaro",
+            "ref": "204-006",
+            "latitude": 23.141592,
+            "longitude": -82.374055
+          },
+          {
+            "name": "Polvorín de San Antonio",
+            "ref": "204-009",
+            "latitude": 23.119785,
+            "longitude": -82.346497
+          },
+          {
+            "name": "Fortaleza San Carlos de la Cabaña",
+            "ref": "204-003",
+            "latitude": 23.14697,
+            "longitude": -82.349701
+          },
+          {
+            "name": "Castillo de Los Tres Reyes del Morro",
+            "ref": "204-002",
+            "latitude": 23.150533,
+            "longitude": -82.35652
+          },
+          {
+            "name": "Hornabeque de San Diego. Fuerte No 4",
+            "ref": "204-004",
+            "latitude": 23.148049,
+            "longitude": -82.336946
+          },
+          {
+            "name": "Santa Dorotea de Luna de La Chorrera",
+            "ref": "204-007",
+            "latitude": 23.131972,
+            "longitude": -82.409452
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/204",
+        "unesco_documents": "https://whc.unesco.org/en/list/204/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/204/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/204/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Old Havana and its Fortification System Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards. Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "trinidad_and_the_valley_de_los_ingenios",
+      "uuid": "0188c3bc-d8dd-5e83-9551-a56300d98ba9",
+      "unesco_id": "460",
+      "names": {
+        "en": "Trinidad and the Valley de los Ingenios",
+        "fr": "Trinidad et la vallée de Los Ingenios",
+        "es": "Trinidad y Valle de los Ingenios",
+        "ru": "Город Тринидад и долина Де-лос-Инхеньос",
+        "ar": "ترينيداد ووادي لوس إنجينوس",
+        "zh": "特立尼达和洛斯因赫尼奥斯山谷"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade.",
+          "fr": "Fondée au début du XVIe siècle en l'honneur de la Sainte-Trinité, la ville était une tête de pont pour la conquête du continent américain. Ses bâtiments des XVIIIe et XIXe siècles, comme le Palacio Brunet et le Palacio Cantero, ont été construits à son époque de prospérité due à l'industrie sucrière.",
+          "es": "Fundada a principios del siglo XVI en honor de la Santísima Trinidad, la ciudad de este mismo nombre fue cabeza de puente en la conquista del continente americano por los españoles. Sus edificios de los siglos XVIII y XIX, como el Palacio Brunet y el Palacio Cantero, fueron construidos en la época de prosperidad de la industria azucarera.",
+          "ru": "Основанный в начале XVI в. в честь Святой Троицы, город был своеобразным плацдармом для завоевания американского континента. Его здания XVIII-XIX вв., такие как дворцы Брунет и Кантеро, были построены в дни процветания города благодаря торговле сахаром.",
+          "ar": "تأسست المدينة مطلع القرن السادس عشر تبجيلاً للثالوث الأقدس وهي كانت رأس حربة في غزو القارة الأمريكيّة. شُيّدت مبانيها التي ترقى إلى القرنين الثامن عشر والتاسع عشر مثل بالاسيو برونيت وبالاسيو كانتيرو في خلال حقبة ازدهارها بفضل صناعة السكّر.",
+          "zh": "特立尼达是16世纪初期为纪念复活主节而建立的，是征服美洲大陆的桥头堡。其18世纪和19世纪的建筑，包括帕拉西奥－伯尼特宫殿和帕拉西奥－坎特罗宫殿，都是在食糖贸易最繁荣的岁月建造的。"
+        },
+        "full": "Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade.",
+        "justification": "Brief synthesis Trinidad, located in the central Cuban province of Sancti Spíritus, was founded in the early 16th century but owes its existence and its historical raison d’être to the sugar industry that flourished there and in the nearby Valley de los Ingenios (Valley of the Sugar Mills) from the late 18th century to the late 19th century. The exemplary city of Trinidad’s prosperity during this period is clearly legible in its existing built environment, its buildings ranging in expression from modest, vernacular variants to elaborate, luxurious edifices. The Valley de los Ingenios is a remarkable testimony to the development of the sugar industry. A living museum of Cuban sugar production, it includes the sites of 75 former cane sugar mills, plantation houses, barracks and other facilities related to this vulnerable industry, which has witnessed a gradual and progressive decline. Trinidad’s urban ensemble of domestic buildings has an exceptional typological continuity and homogeneity in terms of construction and design, in a vernacular fashion nuanced by small- to medium-sized lots, in which early 18th century buildings strongly marked by Andalusian and Moorish influences blend harmoniously with more elaborate 19th-century models that splendidly mix European neoclassical forms, superimposed on traditional spatial patterns. The heart of the 37-ha historic centre is Plaza Mayor, on which, overlooked by the campanile of the Convento de San Francisco, stand two noteworthy edifices: the Palacio Brunet, which provides the most authentic picture of the golden age of the city; and the neoclassical-style Palacio Cantero, which now houses the municipal history museum. In addition to its architecture, much of Trinidad’s urban fabric, including the irregular system of squares and plazas, cobblestone streets and other historical and urban elements, has been preserved. Twelve kilometres northeast of Trinidad are three interconnected rural valleys – San Luis, Santa Rosa and Meyer – that make up the 225-km2 Valley de los Ingenios. More than fifty sugar mills were in operation here at the industry’s peak in the 19th century, and in 1827 more than 11,000 slaves were working in the mills. A long, gradual decline in Cuba's sugar industry accelerated significantly in the 1990s. The former plantations, mill buildings and other facilities and archaeological sites in the Valley de los Ingenios represent the richest and best-preserved testimony of the Caribbean sugar agro-industrial process of the 18th and 19th centuries, and of the slavery phenomenon associated with it. Criterion (iv) : Shaped by the region’s 18th- and 19th-century sugar industry, the exemplary city of Trinidad owes to sugar its continued existence and its historical raison d’être, which is clearly legible in the existing built environment of the city and the nearby Valley de los Ingenios. Criterion (v): The Valley de los Ingenios is a remarkable testimony to the development of the sugar industry and a living museum featuring 75 former sugar mills, plantation houses, barracks and other facilities related to this vulnerable industry. Integrity Within the boundaries of Trinidad and the Valley de los Ingenios are located all the elements necessary to express its Outstanding Universal Value, including buildings, structures, public spaces, landscape components and archaeological remains. Population growth areas have been located outside the property. The 225.37-km2 property is of sufficient size to adequately ensure the complete representation of the features and processes that convey the property’s significance, and it does not suffer from adverse effects of development and/or neglect. The historical process of land degradation in the valley, one of the reasons for its decline the past (along with water shortages), has led to a decrease in the cultivation of sugarcane. Although most farms are in ruins, as a whole they have a high degree of integrity due to the presence of a large proportion of the attributes that enabled them to function as a system, such as roads, the railway, the river, etc. It was strongly recommended in 1988 that the environment of the city, sugar mills and valley be protected from tourism development. Authenticity Trinidad and the Valley de los Ingenios is authentic in terms of locations and settings, forms and designs, and materials and substances. Because Trinidad is comprised predominantly of single-family houses, the overcrowding common to other historic centres has been avoided, thereby contributing greatly to the retention of the original interiors. The use of centuries-old techniques and building materials has persisted, including traditional lime mortar, wood, terracotta clay roofing tiles and cobbled streets. The Valley contains vestiges of farms in different states of conservation, many houses and huts, the components of the sugar industry, and remains of the main activity – sugarcane cultivation – and of the rail and road network. The property’s attributes thus express its Outstanding Universal Value truthfully and credibly. Protection and Management requirements Trinidad and the Valley de los Ingenios is largely owned by the Cuban state, with some parts owned by private individuals or legal entities. The inscribed property is protected by provisions in the Constitución de la República de Cuba (Constitution of the Republic of Cuba) of 24 February 1976 and by National Monuments Commission Resolution 3/1978 designating Centro Histórico Urbano Trinidad and Resolution 3A/1989 designating Valle de los Ingenios as National Monuments, in application of the Ley de Protección al Patrimonio Cultural (Law on the Protection of Cultural Property, Law No. 1 of 4 August 1977), and the Ley de Monumentos Nacionales y Locales (Law on National and Local Monuments, Law No. 2 of 4 August 1977). In addition to national laws and regulations, the city is protected by local provisions such as the Reglamento para la protección del centro histórico urbano de Trinidad y los monumentos de su municipio (Regulations for the Protection of the Historic Urban Centre of Trinidad and the Monuments of the Municipality), adopted in 1982 by the Executive Committee of the Asamblea Municipal del Poder Popular (Municipal Assembly of People’s Power). These Regulations determine the limits of the Historic Urban Centre and the Zone of Protection, and the permissible actions in each case as well as those advisable for monuments in the city. The property is administered by the municipal and provincial Asambleas del Poder Popular. In 1997, the Oficina del Conservador de la Ciudad de Trinidad y el Valle de los Ingenios was created to manage the property. In 1996, a team of professionals from different disciplines developed the Plan de Manejo de la Ciudad de Trinidad (Trinidad City Management Plan), and in 1999 the Esquema de Ordenamiento Territorial del Valle de los Ingenios (Outline Zoning Scheme for the Valle de los Ingenios) was prepared. Both documents are being updated by the technical staff of the Oficina del Conservador. Sustaining the Outstanding Universal Value of the property over time will require updating, approving and implementing an integrated Conservation Management Plan for the entire inscribed property; mitigating the historical process of land degradation in the valley; ensuring that the environment of the city, sugar mills and valley are protected from tourism development; ensuring that the Outstanding Universal Value as well as the authenticity and integrity of the property are not compromised by identified or potential threats; and establishing monitoring indicators."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1988,
+          "all_dates": [
+            1988
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1988,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/0c7d294658c29cf7d5db5618b73a1d45",
+          "filename": "site_0460_0003-500-0-20151104164737.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110083/site_0460_0003.jpg",
+            "https://whc.unesco.org/document/110085/site_0460_0004.jpg",
+            "https://whc.unesco.org/document/110087/site_0460_0005.jpg",
+            "https://whc.unesco.org/document/110089/site_0460_0006.jpg",
+            "https://whc.unesco.org/document/110091/site_0460_0007.jpg",
+            "https://whc.unesco.org/document/110093/site_0460_0008.jpg",
+            "https://whc.unesco.org/document/110095/site_0460_0009.jpg",
+            "https://whc.unesco.org/document/110097/site_0460_0010.jpg",
+            "https://whc.unesco.org/document/110099/site_0460_0011.jpg",
+            "https://whc.unesco.org/document/120293/site_0460_0014.jpg",
+            "https://whc.unesco.org/document/120294/site_0460_0015.jpg",
+            "https://whc.unesco.org/document/120295/site_0460_0016.jpg",
+            "https://whc.unesco.org/document/120710/site_0460_0017.jpg",
+            "https://whc.unesco.org/document/120711/site_0460_0018.jpg",
+            "https://whc.unesco.org/document/120712/site_0460_0019.jpg",
+            "https://whc.unesco.org/document/120713/site_0460_0020.jpg",
+            "https://whc.unesco.org/document/126444/site_0460_0021.jpg",
+            "https://whc.unesco.org/document/126445/site_0460_0022.jpg",
+            "https://whc.unesco.org/document/126448/site_0460_0025.jpg",
+            "https://whc.unesco.org/document/126449/site_0460_0026.jpg",
+            "https://whc.unesco.org/document/126450/site_0460_0027.jpg",
+            "https://whc.unesco.org/document/126451/site_0460_0028.jpg",
+            "https://whc.unesco.org/document/126452/site_0460_0029.jpg",
+            "https://whc.unesco.org/document/126453/site_0460_0030.jpg",
+            "https://whc.unesco.org/document/126454/site_0460_0031.jpg",
+            "https://whc.unesco.org/document/131458/site_0460_0032.jpg",
+            "https://whc.unesco.org/document/131459/site_0460_0033.jpg",
+            "https://whc.unesco.org/document/131460/site_0460_0034.jpg",
+            "https://whc.unesco.org/document/131461/site_0460_0035.jpg",
+            "https://whc.unesco.org/document/131463/site_0460_0037.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Ciudad de Trinidad",
+            "ref": "460-001",
+            "latitude": 21.8030555556,
+            "longitude": -79.9844444444
+          },
+          {
+            "name": "Valle de los Ingenios",
+            "ref": "460-002",
+            "latitude": 21.833322,
+            "longitude": -79.921243
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/460",
+        "unesco_documents": "https://whc.unesco.org/en/list/460/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/460/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/460/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 37,
+        "inscription_year": 1988
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Trinidad and the Valley de los Ingenios Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade. Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "vinales_valley",
+      "uuid": "14132088-33b0-52f4-8cf2-08e8e571441a",
+      "unesco_id": "840",
+      "names": {
+        "en": "Viñales Valley",
+        "fr": "Vallée de Viñales",
+        "es": "Valle de Viñales",
+        "ru": "Культурный ландшафт долины Виньялес",
+        "ar": "وادي فينيالس",
+        "zh": "比尼亚莱斯山谷"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba.",
+          "fr": "La vallée fertile de Viñales est encerclée de montagnes et son paysage est parsemé d'affleurements rocheux spectaculaires. Les techniques agricoles traditionnelles y sont toujours utilisées, en particulier pour la production de tabac. C'est un paysage culturel enrichi par l'architecture traditionnelle de ses fermes et villages. Une riche société pluriethnique s'y perpétue, illustrant le développement culturel des îles caraïbes et de Cuba en particulier.",
+          "es": "Rodeado de montañas, el fértil valle de Viñales está sembrado de espectaculares afloramientos rocosos. Sus habitantes siguen utilizando técnicas agrícolas tradicionales, en particular para la producción del tabaco. La riqueza de su paisaje cultural se ve realzada por la arquitectura tradicional de sus granjas y aldeas, donde perduran todavía las características una sociedad pluriétnica de peculiar riqueza, muy ilustrativa del desarrollo cultural de las islas caribeñas en general y de Cuba en particular.",
+          "ru": "Ландшафт долины Виньялес, окруженной со всех сторон горами, расчленен выразительными скальными образованиями. Здесь все еще используются традиционные методы сельскохозяйственного производства, особенно в табаководстве. Ценность этого культурного ландшафта увеличивается за счет традиционной народной архитектуры ферм и деревень. Сохранившееся тут многонациональное сообщество свидетельствует о богатой этнокультурной истории Кубы и других островов Карибского моря.",
+          "ar": "يقع وادي فينياليس الخصب في منخفض تحيطه الجبال من كلّ من حدبٍ وصوب وفي منظر طبيعي مرصّعٍ بالنتوءات الصخريّة الأخاذة. ما زالت التقنيّات الزراعيّة التقلييّة تُستخدم في الوادي خصوصاً لصناعة التبغ. وهذا منظر طبيعي ثقافي تغنيه هندسة المزارع والقرى التقليديّة حيث يعيش فيه خالداً مجتمع متعدد الإثنيّات يجسّد التطوّر الثقافي لجزر الكاريبي وخصوصاً كوبا.",
+          "zh": "比尼亚莱斯山谷群山环绕，山谷风景与裸露的岩石交相辉映。农业生产，尤其是烟草种植业中，仍然在采用传统技术。农场和村庄的当地建筑大大提升了这一文化景观的内涵，一个富裕的多民族社会在此繁衍，诠释了加勒比海岛屿和古巴的文化发展。"
+        },
+        "full": "The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba.",
+        "justification": "Brief synthesis The Viñales Valley in the Sierra de los Organos near the western end of the island of Cuba is an outstanding karst landscape encircled by mountains and dotted with spectacular dome-like limestone outcrops (mogotes) that rise as high as 300 m. Colonised at the beginning of the 19th century, the valley has fertile soil and a climate conducive to the development of stock-raising and the cultivation of fodder and food crops. Traditional methods of agriculture have survived largely unchanged on this plain for several centuries, particularly for growing tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-cultural society survives, its architecture, crafts and music illustrating the cultural development of Cuba and the islands of the Caribbean. The striking karst landscape of the Viñales Valley is notable for its mogotes, a series of tall, rounded hills that rise abruptly from the flat plain of the valley. It is also significant for its cultural associations, particularly its traditional agricultural practices related to growing tobacco. Because mechanical methods of cultivation and harvesting lower the quality of tobacco, time-honoured methods such as animal traction are still used. The lush landscape is largely rural in character. Most of the buildings scattered over the plain are simple, built of local and natural materials and used as homes or family farms. The village of Viñales, strung out along its main street, has retained its original layout and many interesting examples of colonial architecture, mostly one-storey wooden houses with porches. The valley is home to an original culture, a synthesis of contributions from indigenous peoples, Spanish conquerors and African slaves who once worked the tobacco plantations. An excellent illustration is the musical expression of the field worker (veguero), of which Benito Hernández Cabrera (known as the Viñalero) was the main interpreter. Traditional crafts also flourish here. Cubans identify strongly with the Viñales Valley because of the beauty of the site and its historical and cultural importance. In the visual arts, the valley has been transformed into a symbol of the Caribbean landscape by various artists. Criterion (iv): The Viñales Valley is an outstanding karst landscape in which traditional methods of agriculture (notably tobacco growing) have survived unchanged for several centuries. The region also preserves a rich vernacular tradition in its architecture, its crafts, and its music. Integrity Within the boundaries of the Viñales Valley cultural landscape are located all the natural and cultural elements necessary to express its Outstanding Universal Value, including the karst landscape’s defining features, the agricultural usage patterns and the vernacular architecture, as well as the land tenure, traditional agricultural methods of farming and associated infrastructure that support the cultural landscape’s related intangible heritage. The 132-km2 property is of sufficient size to adequately ensure the complete representation of the features and processes that convey the property’s significance, and it does not suffer from adverse effects of development and/or neglect. Tourism development is expected to represent a future threat to the integrity of the property. Authenticity Viñales Valley is a “living landscape” with a high degree of authenticity in terms of location and setting, forms and designs, materials and substances, uses and functions, traditions and techniques, and spirit and feeling. It has been able to preserve its specific character, while adapting to modern conditions of life and receiving flows of visitors. The property’s attributes thus express its Outstanding Universal Value truthfully and credibly. There are risks that can threaten the integrity and authenticity of the property as a cultural landscape, including factors such as frequent natural disasters affecting the country (hurricanes), reduction of the source of water supply due to climate change and the increasing pressures for urban socioeconomic development needs. Protection and management requirements About 92 percent of the property is in the hands of private owners, with 30 percent owned by individual farmers and the rest by the Asociación Nacional de Agricultores Pequeños (National Association of Small Farmers). The Viñales Valley is protected by provisions in the Constitución de la República de Cuba (Constitution of the Republic of Cuba) of 24 February 1976 and by the Declaration of 27 March 1979 designating it as a National Monument, in application of the Ley de Protección al Patrimonio Cultural (Law on the Protection of Cultural Property, Law No. 1 of 4 August 1977), and the Ley de Monumentos Nacionales y Locales (Law on National and Local Monuments, Law No. 2 of 4 August 1977). The karst landscape of the Viñales Valley is also part of Viñales National Park. The high authority responsible for management is the Consejo Nacional de Patrimonio Cultural (National Council of Cultural Heritage). Local supervision is ensured by the Provincial Centre for Cultural Heritage of Pinar del Río, the provincial branch of the Ministry of Science, Technology and the Environment, the provincial branch of the Ministry of Tourism and the provincial branch of the Ministry of Agriculture, all of them as part of the Council of Provincial Administration. The Management Plan for the property was approved in 1999 by the Consejos de la Administración Provincial y Municipal (Councils of Municipal and Provincial Administration). The National Monuments Commission is the institutional entity responsible for the review and approval of all Management Plans and projects developed for the property. The Management Plan contains 67 projects through nine sub-programs: administration; training; construction; protection; agricultural resource management; research, monitoring and scientific cooperation; public use; interpretation and environmental education; and institutional cooperation and collaboration. There is a scarcity of financial and material resources for implementing part of the plans. Sustaining the Outstanding Universal Value of the property over time will require controlling the effects of increased tourism by devising and executing appropriate management strategies in this regard; developing and implementing an emergency action plan to eliminate or mitigate the harmful effects of hurricanes and other natural disasters; developing and implementing strategies to address any negative consequences arising from climate change; addressing the increasing pressures associated with urban socioeconomic development needs; and establishing monitoring indicators related to these and other actions that may have an impact on the Outstanding Universal Value, authenticity and integrity of the property"
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 13200,
+          "square_km": 132.0,
+          "square_miles": 53.419,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6abf2f2a6506aa31f6a6dced1feeff9b",
+          "filename": "site_0840_0001.jpg",
+          "dimensions": {
+            "width": 452,
+            "height": 304
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112415/site_0840_0001.jpg",
+            "https://whc.unesco.org/document/112421/site_0840_0004.jpg",
+            "https://whc.unesco.org/document/112423/site_0840_0005.jpg",
+            "https://whc.unesco.org/document/112425/site_0840_0006.jpg",
+            "https://whc.unesco.org/document/112427/site_0840_0007.jpg",
+            "https://whc.unesco.org/document/112429/site_0840_0008.jpg",
+            "https://whc.unesco.org/document/112431/site_0840_0009.jpg",
+            "https://whc.unesco.org/document/112433/site_0840_0010.jpg",
+            "https://whc.unesco.org/document/112435/site_0840_0011.jpg",
+            "https://whc.unesco.org/document/112437/site_0840_0012.jpg",
+            "https://whc.unesco.org/document/112439/site_0840_0013.jpg",
+            "https://whc.unesco.org/document/112442/site_0840_0014.jpg",
+            "https://whc.unesco.org/document/112444/site_0840_0015.jpg",
+            "https://whc.unesco.org/document/112446/site_0840_0016.jpg",
+            "https://whc.unesco.org/document/112448/site_0840_0017.jpg",
+            "https://whc.unesco.org/document/112450/site_0840_0018.jpg",
+            "https://whc.unesco.org/document/126471/site_0840_0019.jpg",
+            "https://whc.unesco.org/document/126472/site_0840_0020.jpg",
+            "https://whc.unesco.org/document/126473/site_0840_0021.jpg",
+            "https://whc.unesco.org/document/126474/site_0840_0022.jpg",
+            "https://whc.unesco.org/document/126475/site_0840_0023.jpg",
+            "https://whc.unesco.org/document/126476/site_0840_0024.jpg",
+            "https://whc.unesco.org/document/126477/site_0840_0025.jpg",
+            "https://whc.unesco.org/document/126478/site_0840_0026.jpg",
+            "https://whc.unesco.org/document/126479/site_0840_0027.jpg",
+            "https://whc.unesco.org/document/131464/site_0840_0028.jpg",
+            "https://whc.unesco.org/document/131465/site_0840_0029.jpg",
+            "https://whc.unesco.org/document/131466/site_0840_0030.jpg",
+            "https://whc.unesco.org/document/131467/site_0840_0031.jpg",
+            "https://whc.unesco.org/document/131468/site_0840_0032.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Viñales Valley",
+            "ref": "840rev",
+            "latitude": 22.61667,
+            "longitude": -83.71667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/840",
+        "unesco_documents": "https://whc.unesco.org/en/list/840/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/840/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/840/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Viñales Valley The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba. The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "desembarco_del_granma_national_park",
+      "uuid": "f0fc7459-23ae-54c6-920c-9c807d037101",
+      "unesco_id": "889",
+      "names": {
+        "en": "Desembarco del Granma National Park",
+        "fr": "Parc national Desembarco del Granma",
+        "es": "Parque Nacional del Desembarco del Granma",
+        "ru": "Национальный парк Десембарко-дель-Гранма",
+        "ar": "منتزه ديزيمباركو ديل غرانما الوطني",
+        "zh": "格朗玛的德桑巴尔科国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic.",
+          "fr": "Les terrasses marines relevées de ce site et l'évolution de la topographie et des caractéristiques karstiques sur les terrasses constituent un exemple mondial de caractéristiques géomorphologiques et physiographiques et de processus géologiques en cours. Situé dans le sud-est de Cuba, le parc national Desembarco del Granma inclut les terrasses et les falaises spectaculaires du cap Cruz, ainsi que certaines des falaises côtières les plus impressionnantes et les plus intactes bordant les côtes américaines de l'Atlantique.",
+          "es": "Las elevadas terrazas marinas de este sitio son un ejemplo de valor universal de las particularidades morfológicas y fisiográficas de los terrenos cársticos, así como de los procesos geológicos en curso de evolución. Situado al sudeste de Cuba, el Parque Nacional Desembarco del Granma comprende las terrazas y los farallones espectaculares del Cabo Cruz, así como algunos de los acantilados costeros más impresionantes e intactos del Atlántico Occidental.",
+          "ru": "Территория национального парка, с обрывистыми морскими террасами и карстовыми формами рельефа, представляет собой уникальный в глобальном масштабе геолого-геоморфологический район. Местность расположена в районе Кабо-Крус на юго-западе Кубы, и, благодаря грандиозным террасам и обрывам, признана одним из самых диких и живописных приморских уголков во всей Западной Атлантике.",
+          "ar": "نجد في مصطبات هذا الموقع البحريّة المرتفعة والتطوّر الطوبوغرافي وخصائص المصطبات الصلصاليّة مثلاًٌ عالمياًٌ عن الخصائص الجغرافيّة التشكليّة والفيزيائيّة التخطيطيّة والعمليّة الجيولوجيّة المستمرّة. يقع منتزه ديزيمباركو ديل غرانما جنوب شرق كوبا وهو يضمّ مصطبات رأس كروز ومنحدراته الصخريّة الساحرة كما بعض المنحدرات الساحليّة الأعظم والاكثر اكتمالاً التي تحدّ سواحل الأطلسي الأمريكيّة.",
+          "zh": "格朗玛的德桑巴尔科国家公园内有上升的海底、至今仍在发展的喀斯特地形、地貌，展现了具有全球意义的地貌和地形特点以及正在进行的地质作用。这一地区位于古巴东南部的克鲁斯周围，既有壮观的梯田和悬崖，又有一些西大西洋海岸最原始、最壮观的悬崖。"
+        },
+        "full": "Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic.",
+        "justification": "Brief Synthesis Desembarco del Granma National Park (DGNP) is situated in the Southwestern tip of Cuba, and more specifically in the municipalities of Niquero and Pilon in Granma Province. The property lies within the tectonically active zone between the Caribbean and the North American Plate and conserves the limestone terraces of Cabo Cruz at the western end of the Sierra Maestra Mountains. A series of these elevated terraces extends from 180 meters below to 360 meters above sea level. The total surface area is 32,576 ha, of which 26,180 ha are terrestrial and 6,396 ha marine area, respectively, with a terrestrial buffer zone of 9,287 ha. The marine limestone terraces were formed by tectonic uplift and sea level fluctuations triggered by past climate change. Their number and height is as remarkable as their good conservation status. The little-disturbed landscape - and seascape - offers a wide spectrum of karst phenomena, such as giant sinkholes, cliffs, canyons and caves. Criterion (vii): The terraces of Cabo Cruz form a singular coastal landscape in Cuba and are the world’s largest and best preserved coastal limestone terrace system. The imposing and nearly pristine coastal cliffs bordering the Western Atlantic are both a remarkable natural phenomenon and a stunningly beautiful sight. Jointly with the diverse, mostly native vegetation, the cliffs form an extraordinary visual ensemble of forms, contours, color and texture within a spectacular coastal setting. Criterion (viii): The uplifted marine terraces of DGNP, and the continuing development of karst topography and features, are a globally significant illustration of geomorphologic and physiographic features and ongoing geological processes. DGNP displays a rare relief formed by the combination of tectonic movements in the still active contact zone between two tectonic plates and the effects of past sea level change in response to climate fluctuations. The karst forms include escarpments, cliffs, cave systems, river canyons and large sinkholes known as dolines in most diverse sizes and shapes. Integrity The boundaries of DGNP encompass the intact limestone terraces system both on land and in the sea. The property thereby contains a full array of associated geological phenomena and features. It also provides for the conservation of valuable plant and animal species, both terrestrial and marine, some of which are restricted to the property in their global distribution. The design of the marine and coastal portion comprises the coral reef of Cabo Cruz, as well as sea grass beds and mangroves. The legislative framework assures a prominent position for national parks in Cuba and a high degree of protection. Despite the overall naturalness of the property there are localized impacts of past logging in the semi-deciduous forests north of the highest terraces, which occurred between around 1940 and 1980. These areas have since left to recover naturally. An old forest road, quarries used prior to inscription and small abandoned agricultural plots are all likewise in the process of recovery. While recognized on the World Heritage List primarily for its landscape beauty and geology, DGNP also hosts noteworthy biodiversity values. More than 500 plant species have been recorded in what may still be an incomplete inventory. Around sixty percent of the known plants are endemic. Twelve species are only to be found within the DGNP making the property one of the centres of floral endemism within Cuba. The documentation of terrestrial fauna includes 13 mammals, 110 birds, 44 reptiles and seven amphibians. The degree of endemism for reptiles and amphibians is in the range of a remarkable 90 %. The marine areas are home to coral formations while mangrove stands are found along the shores. Within DGNP there are noteworthy archaeological sites, including ceremonial caves and squares of the original indigenous inhabitants. Numerous sites containing petroglyphs, pictographs and artifacts left by Taina potters, and even pre-agrarian, pre-pottery making cultures, are spread across the property. In the more recent history, in 1956, the ship Granma embarked here after its journey from Mexico, starting a chain of events which changed the history of the country. The ship gave the province, the property and the national park its name. The very existence of the national park, explicitly designed to exclude any man-made changes to the terraces and the landscape, is a sound basis for the maintenance of the geological and aesthetic values of DGNP. The biodiversity values, however, require active attention in the face of anticipated climate change, existing and possible further introductions of alien invasive species, feral animals and possible future pressure from visitation. In the case of the relatively small marine area it is clear that the integrity of the reefs and seegrass beds and its associated species will also depend on the management of fisheries and waste management outside of the property. Protection and management requirements DGNP is a unit of the National Protected Areas System of the Republic of Cuba. Building upon much earlier conservation efforts going back at least into the 1970s, DGNP was granted the status of National Park in 1986 by Ministerial Resolution. It became the first national park in Cuba's conservation history. Originally covering a smaller area, it was later extended to encompass what is today the World Heritage property. For as long as the strong conservation status remains in place the most significant threats to the site, including inhabitants and staff, may well be natural disasters, such as hurricanes and sea floods. The entire property is owned by the government, represented by the Ministry of Science, Technology and Environment (CITMA). DGNP is managed by the National Enterprise for Flora and Fauna Protection (ENPFF), which operates under the auspices of the CITMA and is administered by the Ministry of Agriculture (MINAGRI). Besides applicable protected areas legislation, the Law on Environment, the Decree-Law on Forest Heritage and Wild Fauna and specific stipulations related to Environmental Impact Assessments form the crucial legislative framework. Since the establishment of the national park management is based on periodic five-year plans, which are implemented through annual operating plans. The latter define operational programmes and projects. The main objectives are the conservation of the maintenance of the integrity of DGNP, cooperation with communities adjacent to and within the property, and the promotion of responsible forms of tourism allowing visitation, recreation and education without compromising the conservation values. In order to enforce applicable legislation and to achieve the conservation objectives, DGNP has trained technical, administrative and ranger staff. There is one head office located in Belic and four secondary centres distributed across the park, as well as a boat for marine patrolling. Funding needs to be ensured permanently to secure positions and to cover operational costs. The focus of management is put on conservation, public use and ecosystem restoration in forested areas which have been affected by past logging and agriculture. Local resource use within the property occurs mostly in the marine areas, in particular by residents of the fishing community of Cabo Cruz, which is situated within DGNP. Fishing and extraction of other marine resources by local and external users requires monitoring to keep harvesting levels in line with productivity. Alien invasive species pose a particular threat, as is well-known from island settings. Some woody species are reported to be an obstacle to natural regeneration of degraded forest areas. While management addresses this through an active nursery and reforestation program, eventually the reduction and, if possible, eradication should be sought. In terms of invasive animal species, including specimen of feral livestock, the situation appears to be manageable due to the extreme environmental conditions, the rugged relief and the property's and naturalness all of which jointly discourage colonization by invasives. Still, invasive species require monitoring and, if needed, management responses. There is little doubt that the tourism potential of DGNP exceeds the current use. While this constitutes an opportunity for future funding it also implies very real risks to DGNP, for example in terms of infrastructure, disturbance and waste management."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8
+          ],
+          "all": [
+            7,
+            8
+          ],
+          "display": "(vii)(viii)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 32576,
+          "square_km": 325.76,
+          "square_miles": 131.831,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1999,
+          "all_dates": [
+            1999
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1999,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/827a73278229d5d60eb42b2306426b35",
+          "filename": "site_0889_0001-500-0-20091001210753.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113184/site_0889_0001.jpg",
+            "https://whc.unesco.org/document/126463/site_0889_0002.jpg",
+            "https://whc.unesco.org/document/126464/site_0889_0003.jpg",
+            "https://whc.unesco.org/document/126465/site_0889_0004.jpg",
+            "https://whc.unesco.org/document/126466/site_0889_0005.jpg",
+            "https://whc.unesco.org/document/126467/site_0889_0006.jpg",
+            "https://whc.unesco.org/document/126468/site_0889_0007.jpg",
+            "https://whc.unesco.org/document/126469/site_0889_0008.jpg",
+            "https://whc.unesco.org/document/126470/site_0889_0009.jpg"
+          ],
+          "count": 9
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Desembarco del Granma National Park",
+            "ref": "889",
+            "latitude": 19.88333,
+            "longitude": -77.63333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/889",
+        "unesco_documents": "https://whc.unesco.org/en/list/889/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/889/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/889/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 26,
+        "inscription_year": 1999
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Desembarco del Granma National Park Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic. Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic. Cuba Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "archaeological_landscape_of_the_first_coffee_plantations_in_the_south_east_of_cuba",
+      "uuid": "5872ff9b-98ad-57d3-87fa-787dcc6ec3bd",
+      "unesco_id": "1008",
+      "names": {
+        "en": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+        "fr": "Paysage archéologique des premières plantations de café du sud-est de Cuba",
+        "es": "Paisaje arqueológico de las primeras plantaciones de caféen el sudeste de Cuba",
+        "ru": "Археологический ландшафт первых кофейных плантаций на юго-востоке Кубы",
+        "ar": "منظر أثري لمشاتل القهوة الأولى في جنوب شرق كوبا",
+        "zh": "古巴东南第一个咖啡种植园考古风景区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region.",
+          "fr": "Les vestiges des plantations de café du XIXe siècle, au pied de la Sierra Maestra, constituent un témoignage unique d'une forme novatrice d'agriculture en terrain difficile. Ils éclairent l'histoire économique, sociale et technologique de la région Caraïbes-Amérique latine.",
+          "es": "Los vestigios de las plantaciones de café del siglo XIX, situados al pie de la Sierra Maestra, constituyen un testimonio excepcional del uso de técnicas agrícolas precursoras en terrenos difíciles. Estos vestigios aclaran aspectos de la historia económica, social y tecnológica del Caribe y América Latina.",
+          "ru": "Остатки кофейных плантаций XIX в. у подножия гор Сьерра-Маэстра – это уникальное свидетельство ранних форм сельского хозяйства, развивавшегося на сложной для освоения территории. Они помогают значительно лучше понять экономическую, социальную и технологическую историю Карибского региона и Латинской Америки.",
+          "ar": "تشكّل بقايا مشاتل القهوة التي تعود الى القرن التاسع عشر والواقعة عند قدم سييرا مايسترا البرهان الوحيد على نمط مبتكرٍ للزراعة في أرضٍ صعبة. وهي تسلط الضوء على التاريخ الاقتصادي والاجتماعي والتكنولوجي لمنطقة الكاريبي وأمريكا اللاتينيّة.",
+          "zh": "这个座落在喜瑞拉梅斯特拉(the Sierra Maestra)丘陵间的19世纪咖啡种植园遗迹见证了在不规则土地上进行农业种植的创新形式，清晰地展示了加勒比海地区和拉丁美洲地区经济、社会和技术发展的历史。"
+        },
+        "full": "The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region.",
+        "justification": "Brief synthesis The First Coffee Plantations in the Southeast of Cuba is a cultural landscape illustrating colonial coffee production from the 19th to early 20th centuries. It includes not only the architectural and archaeological material evidence of 171 old coffee plantations or cafetales, but also the infrastructure for irrigation and water management, and the transportation network of mountain roads and bridges connecting the plantations internally and with coffee export points. The topography, dominated by the steep and rugged slopes of the Sierra Maestra foothills, speaks to the plantation owners’ (primarily of French and Haitian origin) ingenuity in their exploitation of the natural environment through the sweat and blood of their African slaves. The inscribed property occupies a total area of 81,475 hectares within the two provinces of Guantanamo and Santiago de Cuba. The Sierra Maestra Grand National Park encompasses the area of the inscribed property located in Santiago de Cuba. Individual plantations exist in varying states of preservation from the restored museum of La Isabelica coffee plantation farm to plantation ruins that are no more than archaeological sites. Typically, plantations include the owner’s house, terraced drying floors, production areas for milling and roasting, and workers’ quarters. Other outbuildings such as workshops are found on the larger plantations. The coffee processing system of wet pulping, developed exclusively by the French in this area required specific hydraulic infrastructure of cisterns, aqueducts and viaducts which are still visible in the landscape. Surviving vegetation illustrates the integration of coffee growing shaded by the natural forest or under fruit trees as well as French-style formal gardens that integrated local flora.La cultura material que sobrevivió de aquellas magnificas haciendas cafetaleras levantadas a finales de siglo XVIII y principios del siglo XIX, representan un testimonio valioso de la relación hombre – naturaleza. Criterion (ii): Las Primeras Plantaciones Cafetaleras del sudeste de Cuba conforman un conjunto de 171 edificaciones agroindustriales de finales del siglo XVIII y principios del siglo XIX que constituyen una muestra material de un acontecimiento histórico de gran importancia para el mundo, la Revolución Haitiana, este fenómeno trajo consigo elementos de una cultura determinada que tuvo sus manifestaciones, no solo en la obra arquitectónica, ingenieril o hidráulica, sino también en la economía, la música, la danza, la literatura, la gastronomía, la religión, el arte, los gustos y las costumbres que forman parte del patrimonio intangible, y que fue tan diferente del desarrollado en la isla antes de la llegada de los inmigrantes franco-haitianos.The remains of the 19th and early 20th century coffee plantations in eastern Cuba are unique and eloquent testimony to a form of agricultural exploitation of virgin forest, the traces of which have disappeared elsewhere in the world.Criterion (iv): El complejo industrial cafetalero de la región sudoriental de Cuba, constituye el testimonio más antiguo de su tipo que ha sobrevivido de los orígenes de la cultura cafetera en el ámbito americano y el empleo del sistema húmedo de beneficios del café alcanzó su plenitud en la región y constituye así el antecedente del sistema moderno para el procesamiento del grano.The production of coffee in eastern Cuba during the 19th and early 20th centuries resulted in the creation of a unique cultural landscape, illustrating a significant stage in the development of this form of agriculture. Integrity The Landscape of the First Coffee Plantations in the Southeast of Cuba has survived intact primarily due to the fact that the area was mostly abandoned in the early 20th century as this region’s traditional coffee growing techniques were increasingly unable to compete with new methods adopted elsewhere in Latin American. The large area included within the inscribed property, of 171 plantations in over 800 square kilometres, has permitted the preservation of a cultural landscape for coffee production from the agricultural level, to its processing, and the roads, trails and bridges that linked the product to market. Individual plantations include the owner’s house (often based on Basque traditions), aqueducts, flourmills, fermentation tanks, drying sheds, and barracks. Current threats to the inscribed property are primarily due to its status as a largely abandoned archaeological site and the reclamation of the landscape by nature. Efforts have been made to clear and fence plantations in order to protect them from intrusions. The region is an active tectonic zone with a history of earthquakes. In future, this area may come under increased threat from uncontrolled tourism and the exploitation of natural resources although currently accessibility to the majority of the cultural properties is very limited due to its isolation. Additional potential threats to the site are the possible effects of climate change on coffee plantations, particularly drought. Authenticity The cafetales within the inscribed area illustrate a rich and complete history of an era of agricultural industry with significant material cultural. Surviving evidence includes examples of the ingenious system aqueducts and viaducts as well as of cisterns and mills used to pulp the berries required for the wet system of coffee production. Plantation owners typically were of French or Haitian origin and created a distinct regional culture in their music, dance and gastronomy which continues to survive. Authenticity during the restoration process is maintained through careful excavation and study of some fifty archaeological sites along with the examination of written documentation such as wills, diaries, travellers’ accounts in Cuban and French archives. The abandoned plantations exist in a variety of states of restoration. While the plantations have common features, each is distinct with its own unique elements. Restoration projects undertaken at various plantations have been based on detailed archaeological and documentary research and applied authentic materials and techniques. Such projects have included the development of La Isabelica museum in the 1960s, and more recently the owner’s house at Ti Arriba plantation museum and the garden at San Juan de Escocia. Some of the original road infrastructure has been upgraded although most remain in their original form as simple mule tracks and footpaths. Protection and management requirements The components of the inscribed property are owned by the Cuban government through various institutions of the Ministry of agriculture (Minagri). The national government provides for legal protection and conservation of the system of ruins from the French coffee plantation settlements through the National Monuments Commission. At the provincial level, this is the responsibility of the Provincial Cultural Heritage Centres with the involvement of the Santiago City Curator’s Office. Strong legislative protection is in force in the region, in particular within the Sierra Maestra Grand National Park (1980). Plantations within Guantanamo Province have special protection as part of regional planning regulations as part of the Nipe-Sagua-Baracoa mountain ridge area. Tourism development plans are focused on controlled tourism in defined areas linked by footpaths where motorized transportation is not possible. Additional undertakings, designed to improve the region’s socio-economic situation, have included economic development and soil use studies. Exceptionally, the inscribed property does not include a buffer zone due to its extent of territory covered with the inclusion of the 171 plantations along with the landscape between them."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 81475,
+          "square_km": 814.75,
+          "square_miles": 329.718,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e1d2c79ea17d7b9437cff6ecd4e65c1c",
+          "filename": "site_1008_0003-500-0-20151104165516.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114247/site_1008_0003.jpg",
+            "https://whc.unesco.org/document/114249/site_1008_0004.jpg",
+            "https://whc.unesco.org/document/114251/site_1008_0005.jpg",
+            "https://whc.unesco.org/document/114253/site_1008_0006.jpg",
+            "https://whc.unesco.org/document/126480/site_1008_0007.jpg",
+            "https://whc.unesco.org/document/126481/site_1008_0008.jpg",
+            "https://whc.unesco.org/document/126482/site_1008_0009.jpg",
+            "https://whc.unesco.org/document/126483/site_1008_0010.jpg",
+            "https://whc.unesco.org/document/126484/site_1008_0011.jpg",
+            "https://whc.unesco.org/document/126485/site_1008_0012.jpg",
+            "https://whc.unesco.org/document/126486/site_1008_0013.jpg",
+            "https://whc.unesco.org/document/126487/site_1008_0014.jpg",
+            "https://whc.unesco.org/document/126488/site_1008_0015.jpg",
+            "https://whc.unesco.org/document/131446/site_1008_0016.jpg",
+            "https://whc.unesco.org/document/131447/site_1008_0017.jpg",
+            "https://whc.unesco.org/document/131448/site_1008_0018.jpg",
+            "https://whc.unesco.org/document/131449/site_1008_0019.jpg",
+            "https://whc.unesco.org/document/131450/site_1008_0020.jpg",
+            "https://whc.unesco.org/document/131451/site_1008_0021.jpg"
+          ],
+          "count": 19
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Yateras",
+            "ref": "1008-004",
+            "latitude": 20.359732,
+            "longitude": -74.98033
+          },
+          {
+            "name": "El Cobre",
+            "ref": "1008-002",
+            "latitude": 20.052522,
+            "longitude": -75.943343
+          },
+          {
+            "name": "Guantanamo",
+            "ref": "1008-007",
+            "latitude": 20.212018,
+            "longitude": -75.199911
+          },
+          {
+            "name": "El Salvador",
+            "ref": "1008-005",
+            "latitude": 20.299455,
+            "longitude": -75.273179
+          },
+          {
+            "name": "Niceto Pérez",
+            "ref": "1008-006",
+            "latitude": 20.141896,
+            "longitude": -75.326623
+          },
+          {
+            "name": "La Gran Piedra",
+            "ref": "1008-001",
+            "latitude": 20.011508,
+            "longitude": -75.630705
+          },
+          {
+            "name": "Dos Palmas Contramaestre",
+            "ref": "1008-003",
+            "latitude": 20.0497,
+            "longitude": -76.083714
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1008",
+        "unesco_documents": "https://whc.unesco.org/en/list/1008/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1008/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1008/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region. The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "san_pedro_de_la_roca_castle_santiago_de_cuba",
+      "uuid": "686265c7-4ba4-5953-8758-572de2e611c8",
+      "unesco_id": "841",
+      "names": {
+        "en": "San Pedro de la Roca Castle, Santiago de Cuba",
+        "fr": "Château de San Pedro de la Roca, Santiago de Cuba",
+        "es": "Castillo de San Pedro de la Roca en Santiago de Cuba",
+        "ru": "Крепость Сан-Педро-де-ла-Рока в городе Сантьяго-де-Куба",
+        "ar": "قصر سان بيدور دي لا روكا، سانتياغو",
+        "zh": "古巴圣地亚哥的圣佩德罗德拉罗卡堡"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles.",
+          "fr": "Les rivalités commerciales et politiques dans la région des Caraïbes au XVIIe siècle ont abouti à la construction de cette série massive de fortifications sur un promontoire rocheux, afin de protéger l'important port de Santiago. Cet ensemble compliqué de forts, de magasins, de bastions et de batteries est l'exemple le mieux préservé d'architecture militaire hispano-américaine basée sur des principes de conception d'origine italienne et de style Renaissance.",
+          "es": "Las rivalidades comerciales y políticas en la región del Caribe durante el siglo XVII tuvieron por resultado la construcción de este castillo, conjunto masivo de fortificaciones erigido en lo alto de un promontorio rocoso para proteger el importante puerto de Santiago. Este intrincado complejo de fuertes, polvorines, bastiones y baterías, edificado con arreglo a los principios de diseño de la Italia renacentista, es el ejemplo más completo y mejor conservado de la arquitectura militar española en América.",
+          "ru": "Торговое и политическое соперничество в Карибском регионе в XVII в. сделало строительство мощного комплекса укреплений, расположенных на скалистом мысе, необходимым для защиты важного порта Сантьяго. Сложный комплекс фортов, складов, бастионов и батарей – это наиболее целостный и хорошо сохранившийся пример испано-американской военной архитектуры, основанной на принципах проектирования итальянского Возрождения.",
+          "ar": "أدّت الخصوم التجاريّة والسياسيّة في منطقة الكاريبي في القرن السابع عشر إلى بناء هذه السلسلة العظيمة من الحصون على نتوء صخريّ لحماية مرفأ سانتياغو العظيم. يُشكّل هذا المجموع المعقّد من القلاع والمتاجر والحصون وسريّة المدفعيّة المكان الأفضل صيانةً في الهندسة العسكريّة الإسبانيّة الأمريكيّة المبنيّة على مبادئ البناء الإيطالي الأصل والنهضوي الطراز.",
+          "zh": "17世纪，加勒比海地区商业和政治竞争促使人们在坚如岩石的海岬上修建了这一规模庞大的防御工事，用以保护重要港口圣地亚哥。 这一复杂的建筑群是根据意大利文艺复兴原理设计的，包括有堡垒、军火库、棱堡和炮台，是西班牙裔美洲人的军事建筑中保存最完整、最好的一个。"
+        },
+        "full": "Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles.",
+        "justification": "Brief synthesis San Pedro de la Roca Castle, a multi-level stone fortress built into a rocky promontory (El Morro) at the south-eastern end of the island of Cuba, has guarded the entrance to Santiago de Cuba Bay since 1638. This exceptional fortress and its associated defensive works were constructed in response to the aggressive commercial and political rivalries that menaced the Caribbean during the 17th and 18th centuries; today, they constitute the largest and most comprehensive example of the principles of Renaissance military engineering adapted to the requirements of European colonial powers in the Caribbean. A classic bastioned fortification in which geometrical form, symmetry and proportionality between sides and angles predominate, the Castle is an outstanding representative of the Spanish-American school of military architecture. San Pedro de la Roca Castle and its associated batteries of La Estrella, Santa Catalina and Aguadores protect the entrance to the bay and port of San Diego de Cuba, which was of great importance because of its geographical situation, its favourable currents and its protected anchorages. As conflicts between Spain and England grew in the 17th century, the town’s governor ordered the construction of a stone fortress on a strategic point where an earlier ravelin existed, following the designs of the renowned Italian military engineer Juan Bautista (Giovanni Battista) Antonelli. The fortress was built into the promontory’s steep cliffs in a progression of terraces, one above another, linked by a series of stairways. At the lowest level, just above high-water mark, is a fortified gun platform, powder magazine, command building and guard post. Next is the Santísimo Sacramento Platform, which includes gun emplacements, a powder magazine and quarters for its garrison. Above it are the El Aljibe, De Adentro and Napoles platforms. This part of the castle took its present form during a mid 18th-century reconstruction, when the North and South Bastions were added. The Santísima Trinidad Platform is the highest level of the main castle, and was built in the 1660s. To the north lies La Avanzada Fort, which completes the chain of smaller defensive works down the north side of the promontory, consisting of La Estrella Fort and two smaller forts built in the 1660s. Added later were the Semaphore Tower, the Chapel of Santo Cristo and the Lighthouse, all built in 1840, and two batteries, Scopa Alta and Vigia, built in 1898. The fortress – which has been repaired, reconstructed and consolidated numerous times due to earthquakes and attacks – declined during the early 20th century due to lack of maintenance, but was restored in the 1960s. This intricate complex of forts, magazines, bastions and batteries, all based on Italian and Renaissance design principles, is today the most complete and best-preserved example of this Spanish-American school of military architecture. Criterion (iv):Constructed in response to the aggressive commercial and political rivalries that menaced the Caribbean during the 17th and 18th centuries, the Castle of San Pedro de la Roca and its associated defensive works are of exceptional value because they constitute the largest and most comprehensive example of the principles of Renaissance military engineering adapted to the requirements of European colonial powers in the Caribbean. Criterion (iv): The Castle, a classic bastioned fortification in which geometrical form, symmetry and proportionality between sides and angles predominate, is an outstanding representative of the Spanish-American school of military architecture.Integrity Within the boundaries of San Pedro de la Roca Castle, Santiago de Cuba, are located all the elements necessary to express its Outstanding Universal Value, including the Castle fortress complex and its associated forts, magazines, bastions and batteries, as well as the rocky promontory El Morro on which the Castle is located. (Not all the elements that make up the property have been fully documented.) The 94 ha property is of sufficient size to adequately ensure the complete representation of the features and processes that convey the property’s significance, and it does not suffer from adverse effects of development and/or neglect. Many aggressive atmospheric agents and sources of pollution have been registered that may threaten or damage the property, as well as its environment. AuthenticityThe authenticity of San Pedro de la Roca Castle, Santiago de Cuba, is high in terms of location and setting, forms and designs, and materials and substances. It underwent little change from the late 19th century, when its use as a fortress ceased, to the 1960s, when restoration work was undertaken according to the 1964 Venice Charter. A number of conservation problems were noted in 1997. The most serious related to the wooden elements of the monument, where the choice of inappropriate timbers combined with pest attack resulted in severe degradation. The eroded walls needed stabilisation treatment, the vaults beneath the Santísimo Sacramente Platform required consolidation, and there was unsightly and potentially damaging vegetal growth in many of the walls. The property is in an active seismic zone (Site Class A, hard rock). Protection and management requirements San Pedro de la Roca Castle, Santiago de Cuba, is owned by the Cuban state. The responsible national agency is the Consejo Nacional del Patrimonio Cultural (National Council of Cultural Heritage). The inscribed property is protected by provisions in the Constitución de la República de Cuba (Constitution of the Republic of Cuba) of 24 February 1976 and by National Monuments Commission Resolutions 9/1979 and 147/1997 designating it as a National Monument, in application of the Ley de Protección al Patrimonio Cultural (Law on the Protection of Cultural Property, Law No. 1 of 4 August 1977), and the Ley de Monumentos Nacionales y Locales (Law on National and Local Monuments, Law No. 2 of 4 August 1977). It is also part of Turquino Peak (Sierra Maestra) National Park. The property is managed by the Centro Provincial del Patrimonio Cultural de Santiago de Cuba (Provincial Centre for the Cultural Heritage of Santiago de Cuba), and the Castle has been occupied by the Museo de la Pirateria (Piracy Museum) since 1978. The National Park in which the inscribed property is located has a management plan that takes into account the cultural sites within the park, as well as tourism pressures. In addition, a plan was prepared in 1994 for the monument itself by the provincial Technical Office for Monuments and Historic Sites and the provincial Physical Planning Administration. This plan has been approved by the municipality of Santiago de Cuba. Sustaining the Outstanding Universal Value of the property over time will require registering and documenting all the elements that make up the property; addressing the identified and potential agents and sources of pollution that threaten the property and its environment; undertaking appropriate conservation interventions related to the severe degradation of the wooden elements of the monument; stabilising eroded walls; consolidating the vaults beneath the Santísimo Sacramento Platform; removing any potentially damaging vegetal growth in the walls; preparing a risk reduction and emergency preparedness plan for this active seismic zone; and establishing monitoring indicators related to these and other actions that may have an impact on the Outstanding Universal Value, authenticity and integrity of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 93.88,
+          "square_km": 0.94,
+          "square_miles": 0.38,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/acffb54b7c7ab741101b02bb85971926",
+          "filename": "site_0841_0003.jpg",
+          "dimensions": {
+            "width": 3008,
+            "height": 2000
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112456/site_0841_0003.jpg",
+            "https://whc.unesco.org/document/112458/site_0841_0004.jpg",
+            "https://whc.unesco.org/document/112460/site_0841_0005.jpg",
+            "https://whc.unesco.org/document/112462/site_0841_0006.jpg",
+            "https://whc.unesco.org/document/112464/site_0841_0007.jpg",
+            "https://whc.unesco.org/document/112466/site_0841_0008.jpg",
+            "https://whc.unesco.org/document/112468/site_0841_0009.jpg",
+            "https://whc.unesco.org/document/112469/site_0841_0010.jpg",
+            "https://whc.unesco.org/document/112471/site_0841_0011.jpg",
+            "https://whc.unesco.org/document/112475/site_0841_0013.jpg",
+            "https://whc.unesco.org/document/112478/site_0841_0014.jpg",
+            "https://whc.unesco.org/document/112479/site_0841_0015.jpg",
+            "https://whc.unesco.org/document/112481/site_0841_0016.jpg",
+            "https://whc.unesco.org/document/112483/site_0841_0017.jpg",
+            "https://whc.unesco.org/document/120296/site_0841_0018.jpg",
+            "https://whc.unesco.org/document/126455/site_0841_0019.jpg",
+            "https://whc.unesco.org/document/126456/site_0841_0020.jpg",
+            "https://whc.unesco.org/document/126457/site_0841_0021.jpg",
+            "https://whc.unesco.org/document/126458/site_0841_0022.jpg",
+            "https://whc.unesco.org/document/126459/site_0841_0023.jpg",
+            "https://whc.unesco.org/document/126461/site_0841_0025.jpg",
+            "https://whc.unesco.org/document/126462/site_0841_0026.jpg",
+            "https://whc.unesco.org/document/131452/site_0841_0027.jpg",
+            "https://whc.unesco.org/document/131453/site_0841_0028.jpg",
+            "https://whc.unesco.org/document/131454/site_0841_0029.jpg",
+            "https://whc.unesco.org/document/131455/site_0841_0030.jpg",
+            "https://whc.unesco.org/document/131457/site_0841_0032.jpg"
+          ],
+          "count": 27
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": []
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/841",
+        "unesco_documents": "https://whc.unesco.org/en/list/841/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/841/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/841/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "San Pedro de la Roca Castle, Santiago de Cuba Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles. Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "urban_historic_centre_of_cienfuegos",
+      "uuid": "4394cf44-d97b-50cd-90c0-7ada8e34b479",
+      "unesco_id": "1202",
+      "names": {
+        "en": "Urban Historic Centre of Cienfuegos",
+        "fr": "Centre historique urbain de Cienfuegos",
+        "es": "Centro histórico urbano de Cienfuegos",
+        "ru": "Исторический центр города Сьенфуэгос",
+        "ar": "وسط سيانفويغوس التاريخي الأثري",
+        "zh": "西恩富戈斯古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The colonial town of Cienfuegos was founded in 1819 in the Spanish territory but was initially settled by immigrants of French origin. It became a trading place for sugar cane, tobacco and coffee. Situated on the Caribbean coast of southern-central Cuba at the heart of the country’s sugar cane, mango, tobacco and coffee production area, the town first developed in the neoclassical style. It later became more eclectic but retained a harmonious overall townscape. Among buildings of particular interest are the Government Palace (City Hall), San Lorenzo School, the Bishopric, the Ferrer Palace, the former lyceum, and some residential houses. Cienfuegos is the first, and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order in urban planning as developed in Latin America from the 19th century.",
+          "fr": "La ville coloniale de Cienfuegos fut fondée en 1819, à l’époque où l’île était sous domination espagnole, mais elle fut d’abord colonisée par des immigrés d’origine française. Elle devint ensuite un centre de négoce de la canne à sucre, du tabac et du café. L’architecture de cette ville située sur la côte caraïbe, dans la partie centrale du sud de Cuba, au cœur de la zone de culture de la canne à sucre, de la mangue, du tabac et du café, fut d’abord de style néoclassique, puis devint plus éclectique, le paysage urbain conservant néanmoins une harmonie d’ensemble. Parmi les bâtiments les plus intéressants: le palais du gouvernement (Hôtel de Ville), l’école San Lorenzo, l’Evêché, le palais Ferrer, l’ancien Lycée et quelques demeures. Cienfuegos est le premier et l’un des plus remarquables exemples d’ensemble architectural traduisant les nouvelles notions de modernité, d’hygiène et d’ordre en matière d’urbanisme tel qu’il s’est développé en Amérique Latine à partir du XIXe siècle.",
+          "es": "La ciudad de Cienfuegos fue fundada el año 1819 por colonos franceses, cuando Cuba se hallaba todavía bajo la dominación española. Con el correr del tiempo se convirtió en un centro comercial de productos como la caña de azúcar, el tabaco y el café. Bañada por las aguas del Caribe y situada en la parte central del sur de la isla, Cienfuegos se halla en medio de una región productora de café, tabaco, mango y caña de azúcar. Su arquitectura, neoclásica en un principio, evolucionó hacia formas más eclécticas, sin que por ello el paisaje urbano perdiera nunca su armonía de conjunto. Los edificios más notables son: el Palacio de Gobierno, el Colegio San Lorenzo, el Obispado, el Palacio Ferrer, el antiguo Liceo y algunas mansiones. Cienfuegos es el primer y notable ejemplo de conjunto arquitectónico y urbanístico en el que se plasmaron las nuevas ideas de modernidad, higiene y urbanismo surgidas en América Latina en el siglo XIX.",
+          "ru": "Колониальный город Сьенфуэгос, основанный в 1819 г. в испанских владениях, изначально был заселен иммигрантами французского происхождения. Он стал центром торговли сахарным тростником, табаком и кофе. Расположенный на берегу Карибского моря, на юге центральной части Кубы, в самом сердце района, производящего сахарный тростник, манго, табак и кофе, город сначала развивался в классическом стиле. Позднее его архитектура стала более эклектичной, однако до наших дней здесь сохранился гармоничный и целостный городской ландшафт. Среди наиболее интересных зданий - Дворец правительства (ратуша), школа Сан-Лоренсо, Епархиальное управление, дворец Феррер, бывший лицей, ряд жилых домов. Сьенфуэгос – это первый выдающийся пример архитектурного ансамбля, в котором отразились распространившиеся с ХIХ в. в Латинской Америке идеи модернизации, коммунальной гигиены и упорядочения градостроительства.",
+          "ar": "تأسست مدينة سيانفويغوس المستعمرة عام 1819 يوم كانت الجزيرة خاضعةً للسيطرة الإسبانيّة ولكن استوطنها أوّلاً المهاجرون من أصلٍ فرنسي. وأصبحت في ما بعد مركزاً لتجارة قصب السكّر والتبغ والقهوة. وبنيت هندسة هذه المدينة القائمة على ساحل الكاريبي في الجزء الأوسط من جنوب كوبا في وسط منطقة زراعة قصب السكّر والمانغا والتبغ والقهوة على الطابع الكلاسيكي الجديد ثمّ تحوّلت إلى أسلوب انتقائي وحافظ المنظر الحضري على انسجام جماعي. ومن بين المباني الأكثر أهميّةً، القصر الحكومي (دار البلديّة)، مدرسة سان لورينزو، الأسقفيّة، قصر فيرير، الثانوية القديمة وبعض المنازل. وتشكّل مدينة سيانفويغوس أوّل الأمثلة عن مجموعة هندسيّة مميّزة وهي تعكس مفاهيم الحداثة والنظافة والتنظيم الحضري كما تطوّر في أمريكا اللاتينيّة بدءاً من القرن التاسع عشر.",
+          "zh": "西恩富戈斯殖民小镇于1819年建在西班牙领土上，但最初在此定居的却是法国移民。这里是一个甘蔗、烟草和咖啡贸易中心，位于古巴甘蔗、芒果、烟草和咖啡生产中心——中南部的加勒比海岸，始建风格为新古典主义，随后风格有所折衷，但仍保留了和谐统一的小镇风貌。小镇最引人瞩目的建筑是市政府邸（市政大厅）、圣洛伦索学校、教区、费雷罗宫，前文化宫和一些住宅。西恩富戈斯是19世纪拉丁美洲发展起来的建筑群中的第一个杰出典型，体现了城市规划中现代化、卫生和秩序的新观念。"
+        },
+        "full": "The colonial town of Cienfuegos was founded in 1819 in the Spanish territory but was initially settled by immigrants of French origin. It became a trading place for sugar cane, tobacco and coffee. Situated on the Caribbean coast of southern-central Cuba at the heart of the country’s sugar cane, mango, tobacco and coffee production area, the town first developed in the neoclassical style. It later became more eclectic but retained a harmonious overall townscape. Among buildings of particular interest are the Government Palace (City Hall), San Lorenzo School, the Bishopric, the Ferrer Palace, the former lyceum, and some residential houses. Cienfuegos is the first, and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order in urban planning as developed in Latin America from the 19th century.",
+        "justification": "Brief synthesis Cienfuegos was established in 1819 on the Caribbean coast of south central Cuba. Although located in Spanish territory, many of its first settlers were of French origin from Bordeaux and French colonies such as Louisiana. A commercial port town, located in the heart of a fertile agricultural region producing sugar, cane, mango, tobacco and coffee, its prosperity was primarily linked to the 19th-century sugar boom. By the 1860s, Cienfuegos was the third most important city in Cuba, by economical wealth. The city's original centre was composed of 25 blocks, laid out in a grid plan with absolute geometric regularity, inspired by the Spanish Enlightenment. As an example of modern urbanism in Spanish American, this planned town reflected new socio-economic and cultural trends related to urban order, the role of public spaces, and public hygiene requirements for natural light and ventilation. Public functions were focused on Parque José Martí (formerly Square of Arms) the site of the church and public and government buildings. Notable amongst the 19th-century Neoclassical buildings are the Santa Iglesia Catedral de la Purísima Concepción (Holy Church Pure Concepción Cathedral), the Tomás Terry Theater, the Spanish Casino, Palatino Tavern (or White Palace), the House Lions, The Union Hotel, the house-warehouse of the Spanish merchant José García of the Noceda, and the Customs Building. Buildings dating from the early 20th century followed a more eclectic design but maintained certain proportions, construction materials and stylistic features creating harmony. residential buildings, for example, are one or two storey’s in height with plain facades, generally without porches. Masterful metalwork of wrought and cast iron is present in elegant grills, railings and fences. The inscribed historic centre covers 70 hectares surrounded by a buffer zone of 105 hectares that extends south along the eastern side of the port. Criterion (ii): The Historic town of Cienfuegos exhibits an important interchange of influences based on the Spanish Enlightenment, and its is an outstanding early example of their implementation in urban planning in Latin America, in the 19th century. Criterion (iv): Cienfuegos is the first and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order, in urban planning as these developed in the Latin America, from the 19th century. Integrity The historic centre of Cienfuegos has retained its early 19th century urban fabric to a high degree. The grid plan defined the city's formal composition and spatial structure of plazas, square and wide avenues and has been respected and extended as the city grew beyond its original 25 block design. Integrity is also evident in the retention of many 19th century buildings along with the minimal alterations to the original building stock. Moreover, later buildings have largely respected the established height and general design proportions creating an overall harmony. One of the greatest threats to the historic centre is the pace of urban growth. To date, the historic core has retained its form and has not undergone any drastic changes. Due to its situation as a coastal community in a tropical region, Cienfuegos is at the risk of natural disasters such as hurricanes. Authenticity The historic centre of Cienfuegos continues to functions as a vital urban area, the heart of the modern city. It has retained its original grid pattern an Illustration of the philosophical ideas of the Spanish Enlightenment on which it was based. The continuity of its urban form is visible its present spatial structure with the larger piazzas, smaller squares, wide streets, and streetscapes of classically-styles residences. Authenticity of the building stock within the inscribed area has been maintained in part through the use of traditional building material and construction techniques in both the rehabilitation and renovation of original building and new development. Consistency of use is evident throughout the area, in particular through the retention of port facilities and warehouses that speak to its ongoing value as a commercial port. As the city on the island whose founders were French, Cienfuegos has preserved a cultural link to these early settlers not only with the visible urban fabric but intangibly within an ethnic mix that also includes Spanish, African and Chinese heritage. Protection and management requirements Legal protection exists at both the national and municipal levels. At the national level, principal legislation includes Protection of Cultural Heritage (1977), the law for National and Local Monuments (1977), and the 1995 declaration of Urban Historic Centre of Cienfuegos as a national monument. Additional protection includes Territorial Classification and Urban development (2001) and archaeological site preservation and conservation through the National Commission of Monuments of the Ministry of Culture (1979). The municipal government is also responsible for regular monitoring of the historic centre with the participation of several provincial level organizations. A management plan for Cienfuegos, completed in 2004, provides some policy to address areas of urban growth and tourism. The “interventions program” includes several levels of appropriate intervention including restoration of historic buildings with new compatible uses and infill construction in empty lots. The Office of Monuments and Historic Sites manages municipal legislation as well as development and management plans that focus on actions of inventory, conservation and restoration. Specifically, this body provides support at all levels of rehabilitation from research to support and training courses related to traditional building techniques and materials."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 70,
+          "square_km": 0.7,
+          "square_miles": 0.283,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2005,
+          "all_dates": [
+            2005
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2005,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/5967950d3877116479b220ad27d0af8e",
+          "filename": "site_1202_0001-500-0-20151104164759.jpg",
+          "dimensions": {
+            "width": 400,
+            "height": 602
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113776/site_1202_0001.jpg",
+            "https://whc.unesco.org/document/113778/site_1202_0002.jpg",
+            "https://whc.unesco.org/document/113780/site_1202_0003.jpg",
+            "https://whc.unesco.org/document/113782/site_1202_0004.jpg",
+            "https://whc.unesco.org/document/126489/site_1202_0005.jpg",
+            "https://whc.unesco.org/document/126490/site_1202_0006.jpg",
+            "https://whc.unesco.org/document/126491/site_1202_0007.jpg",
+            "https://whc.unesco.org/document/126492/site_1202_0008.jpg",
+            "https://whc.unesco.org/document/126493/site_1202_0009.jpg",
+            "https://whc.unesco.org/document/126494/site_1202_0010.jpg",
+            "https://whc.unesco.org/document/126495/site_1202_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Urban Historic Centre of Cienfuegos",
+            "ref": "1202",
+            "latitude": 22.145887,
+            "longitude": -80.452183
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1202",
+        "unesco_documents": "https://whc.unesco.org/en/list/1202/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1202/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1202/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 20,
+        "inscription_year": 2005
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Urban Historic Centre of Cienfuegos The colonial town of Cienfuegos was founded in 1819 in the Spanish territory but was initially settled by immigrants of French origin. It became a trading place for sugar cane, tobacco and coffee. Situated on the Caribbean coast of southern-central Cuba at the heart of the country’s sugar cane, mango, tobacco and coffee production area, the town first developed in the neoclassical style. It later became more eclectic but retained a harmonious overall townscape. Among buildings of particular interest are the Government Palace (City Hall), San Lorenzo School, the Bishopric, the Ferrer Palace, the former lyceum, and some residential houses. Cienfuegos is the first, and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order in urban planning as developed in Latin America from the 19th century. The colonial town of Cienfuegos was founded in 1819 in the Spanish territory but was initially settled by immigrants of French origin. It became a trading place for sugar cane, tobacco and coffee. Situated on the Caribbean coast of southern-central Cuba at the heart of the country’s sugar cane, mango, tobacco and coffee production area, the town first developed in the neoclassical style. It later became more eclectic but retained a harmonious overall townscape. Among buildings of particular interest are the Government Palace (City Hall), San Lorenzo School, the Bishopric, the Ferrer Palace, the former lyceum, and some residential houses. Cienfuegos is the first, and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order in urban planning as developed in Latin America from the 19th century. Cuba Latin America and the Caribbean Cultural"
+    },
+    {
+      "site_key": "alejandro_de_humboldt_national_park",
+      "uuid": "00698bd8-044f-57d6-b05b-e847bfe46db9",
+      "unesco_id": "839",
+      "names": {
+        "en": "Alejandro de Humboldt National Park",
+        "fr": "Parc national Alejandro de Humboldt",
+        "es": "Parque nacional Alejandro de Humboldt",
+        "ru": "Национальный парк Алехандро-де-Гумбольдт",
+        "ar": "منتزه أليخاندرو دي هومبولت الوطني",
+        "zh": "阿里杰罗德胡波尔德国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Complex geology and varied topography have given rise to a diversity of ecosystems and species unmatched in the insular Caribbean and created one of the most biologically diverse tropical island sites on earth. Many of the underlying rocks are toxic to plants so species have had to adapt to survive in these hostile conditions. This unique process of evolution has resulted in the development of many new species and the park is one of the most important sites in the Western Hemisphere for the conservation of endemic flora. Endemism of vertebrates and invertebrates is also very high.",
+          "fr": "Une géologie complexe et une topographie variée ont généré une diversité d'écosystèmes et d'espèces inégalée aux Caraïbes, créant l'un des sites insulaires et tropicaux les plus divers du monde sur le plan biologique. Compte tenu de la toxicité de nombreuses roches sous-jacentes pour les plantes, les espèces ont donc dû s'adapter pour survivre dans ces conditions hostiles. Ce processus unique d'évolution a abouti au développement de nombreuses espèces nouvelles et le parc est l'un des sites les plus importants de tout l'hémisphère Nord pour la conservation de la flore endémique. L'endémisme des vertébrés et des invertébrés du parc est également très élevé.",
+          "es": "La geología compleja y la topografía variada de este sitio han generado una diversidad de ecosistemas y especies sin parangón en el Caribe, haciendo de él uno de los sitios insulares y tropicales del mundo con mayor biodiversidad. Debido a la toxicidad que presentan para las plantas muchas de las rocas subyacentes, las especies vegetales han tenido que adaptarse para sobrevivir en condiciones hostiles. Este proceso de evolución, único en su género, ha conducido al desarrollo de numerosas especies nuevas, que hacen de este parque uno de los lugares más importantes del hemisferio norte para la conservación de flora endémica. El endemismo de los vertebrados e invertebrados del sitio es también excepcionalmente elevado",
+          "ru": "Эта уникальная местность с разнообразными формами рельефа и высоким ландшафтным и видовым разнообразием признана уникальной не только в масштабе Карибского бассейна, но и среди всех тропических островов Земли. Многие местные геологические породы токсичны для растений, поэтому растения были вынуждены приспосабливаться к подобным неблагоприятным условиям. В результате такого уникального эволюционного процесса возникло много новых видов, и, следовательно, с точки зрения сбережения эндемичных видов растений парк Алехандро-де-Гумбольдт можно признать одной из самых значимых охраняемых природных территорий во всем Западном полушарии. Эндемизм среди позвоночных и беспозвоночных животных здесь также очень высок.",
+          "ar": "من كنف جيولوجيا معقّدة وطوبوغرافيا متنوّعة، ولد تنوّع النظم البيئة والأصناف الغريبة في الكاريبي، ما أنتج إحدى الجزر الاستوائيّة الأكثر تنوّعاً في العالم من الناحية البيولوجيّة. وبالنظر إلى الطبيعة السامة للعديد من الصخور التي ينمو عليها النبات، تعيّن على الأصناف أن تتكيّف لكي تعيش في هذه الظروف المعادية. وأدّت عمليّة التطوّر الفريدة من نوعها هذه إلى تطوّر العديد من الأصناف الجديدة. ويُشكّل المنتزه أحد المواقع الأكثر أهميّةً في النصف الشمالي للكرة الأرضيّة لناحية المحافظة على الحياة النباتيّة المستوطنة. يُسجّل استيطان مرتفعٌ للغاية للحيوانات الفقرية وغير الفقريّة في المنتزه.",
+          "zh": "加勒比海地区与世隔绝，有着复杂的地质和多变的地形，这些因素促生了生态系统和物种的多样性，使这里成为地球上生物种类最丰富的热带岛屿之一。许多岩石对植物来说都是有毒的，这迫使岛屿的物种逐渐适应在恶劣的环境下生存。这种独特的进化过程使加勒比海地区形成了许多新的物种，而这个国家公园也是西半球最重要的保护本土植物资源的保护区之一。公园里的当地特有脊椎动物和无脊椎动物数量众多。"
+        },
+        "full": "Complex geology and varied topography have given rise to a diversity of ecosystems and species unmatched in the insular Caribbean and created one of the most biologically diverse tropical island sites on earth. Many of the underlying rocks are toxic to plants so species have had to adapt to survive in these hostile conditions. This unique process of evolution has resulted in the development of many new species and the park is one of the most important sites in the Western Hemisphere for the conservation of endemic flora. Endemism of vertebrates and invertebrates is also very high.",
+        "justification": "Brief Synthesis Alejandro de Humboldt National Park (AHNP) is located in the Nipe-Sagua-Baracoa Mountains on the North Coast of Eastern Cuba. The largest and best-conserved remnant of forested mountain ecosystems in theCaribbean , AHNP is widely considered to be Cuba's most important protected area for its extraordinary biodiversity values. In addition to the 66,700 ha of land AHNP includes a marine area of 2,641 ha, i.e. the total surface is of 69,341 ha with a terrestrial buffer zone of 34,330 ha. The property is embedded into the much larger Cuchillas del Toa Biosphere Reserve, which exceeds 200,000 ha. The altitude ranges from 220 m below in the marine parts to 1,175 m above sea level at El Toldo Peak. Due to the exposure to trade winds and the mountainous topography the North Coast of Western Cuba is the country's rainiest and coolest region. Important rivers, including the Toa River, Cuba's largest river, rise in the forested mountains, boasting remarkable freshwater biodiversity. Next to various types of semi-deciduous broadleaf and pine forests there are xenomorphic shrub formations in drier areas and mangroves along the coast. It is assumed that the area was a Pleistocene Refuge where numerous species have survived past periods of climate change. Jointly with the complex and varied geology and topography this helps explain the extraordinary biodiversity. Another particularity of the property is the toxicity of many of the underlying rocks to plants. This in turn is believed to have resulted in high adaptation pressure and the birth of an impressive number of often endemic plant species. Today, AHNP is among the most important sites in the Western Hemisphere for its endemic flora and one of the most biologically diverse tropical island sites on Earth. With many new species likely to be discovered, AHNP boast an impressive list of more than 1,300 seed plants and 145 species of ferns, of which more than 900 are endemic to Cuba and more than 340 locally endemic, respectively. The degree of endemism of vertebrates and invertebrates is likewise extremely high. About a third of the mammals and insects, a fifth of the birds, and vast majority of the reptiles, and amphibians are Cuban or even local endemics. As for the marine biodiversity the West Indian Manatee deserves to be noted as a flagship species. While historically little affected by humans and currently in a relatively good state of conservation, important mineral deposits within the property represent a potential threat to the outstanding conservation values of AHNP. Criterion (ix): The scientifically assumed history as a Pleistocene Refuge, as well as the size, altitudinal range and complexity and diversity of land forms and soil types of Alejandro de Humboldt National Park have resulted in ongoing processes of local speciation and development of ecological communities both on land and in the freshwater, which are unmatched in the Insular Caribbean and indeed of global significance. The toxic serpentines and peridotites in the rocks and soils of the region poses very particular challenges to plants and plays an important role in the evolution of the outstanding ecological features of the property, including the high degree of endemism. Criterion (x): Alejandro de Humboldt National Park harbours some of the most significant natural habitats for the conservation of terrestrial and freshwater biodiversity in Cuba and is of global importance as one of the most biologically diverse tropical ecosystems in an island setting anywhere on Earth. The property contains 16 out of 28 plant formations defined on the island of Cuba, considered a distinct and unique biogeographic province. There is a consensus that many species remain to be discovered in the property. The high degree of endemism across numerous taxonomic groups both on land and in freshwater is of particular importance, reaching almost three quarters of all known species in the case of the extremely diverse flora with many being local endemics. Endemism rates for vertebrates and invertebrates found in the park are also very high. Countless species are severely restricted in their range, which adds to the importance of the property. The ongoing evolutionary processes in a largely intact and conserved setting provide extraordinary insights for scientists and conservation practitioners. Integrity As the largest conserved remnant of a mountain ecosystem in Cuba Alejandro de Humboldt National Park has a size and conservation status that ensure the long-term functioning of ecological processes supporting the ongoing evolution of its biological communities and species. Archeological findings suggest that what is today AHNP has historically been poorly inhabited and used, with the exception of some coastal areas. During the 18th and 19th Centuries runaway slaves took advantage of the remoteness and difficult access. Later on, in the early 20th Century, some valleys near the coast were converted to farmland, mostly for coconut and cacao production. Mining near La Melba led to the development of small farms for local food production in the surroundings of the small town. While logging and farming started in the 1940s and 1950s on the banks of the Toa and Jaguani Rivers the affected areas have since been left to recover. More recently, starting in the 1960s, logging of pines took place until the area was declared a protected area in the 1980s. While there have been past disturbances and there continues to be a need to strike a balance between conservation objectives and the livelihood needs of adjacent communities the overall integrity of AHNP has been maintained with many previously disturbed areas being in the process of natural regeneration. The most critical threat in the long run may be the pressure to exploit the rich mineral resources within the property, which would doubtlessly have serious direct and indirect impacts on the property. Protection and management requirements Alejandro de Humboldt National Park is an integral and outstanding element of Cuba's National Protected Areas System. It was declared in 2001, thereby extending and connecting protected areas established many years earlier. The entire property is owned by the government, represented by the Ministry of Science, Technology and Environment (CITMA) and administered by a specific unit of CITMA. CITMA is also responsible for the coordination of the Cuchillas del Toa Biosphere Reserve, which includes and surrounds AHNP. Besides applicable protected areas legislation, the Law on Environment, the Decree-Law on Forest Heritage and Wild Fauna and specific stipulations related to Environmental Impact Assessments form the crucial legislative framework. Since the establishment of the national park management is based on periodic five-year plans, which are implemented through annual operating plans. The latter define operational programmes and projects. The main objectives include the conservation of the integrity of AHNP, responding to threats to the property and cooperation with communities adjacent to and within the property. There is a main administrative center in Guantanamo, and two secondary centers and several posts are distributed across the park. In order to enforce applicable legislation and to achieve the conservation objectives, DGNP has trained technical, administrative and ranger staff. Funding needs to be ensured permanently to secure positions and to cover operational costs. As elsewhere in the Caribbean hurricanes are a real threat with several examples in the past years. Disaster-preparedness and, when needed, restoration are among the management challenges. The same holds true for the prevention and control of fires. Alien invasive species, both plants and animals, including feral dogs and cats, can harm the property. Therefore they require permanent monitoring and, when needed, management responses. Management is also to address tourism which may increase in importance thereby bearing the risk of adverse impacts but also representing opportunities in terms of future conservation financing.There is a need for the permanent protection of the property from mining, and also from other resource extraction or infrastructure development that would impact its Outstanding Universal Value is required."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 71140,
+          "square_km": 711.4,
+          "square_miles": 287.894,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/e8a1b44bb937966b3d37a703bef1780d",
+          "filename": "site_0839_0001-500-0-20151104165420.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112396/site_0839_0001.jpg",
+            "https://whc.unesco.org/document/112399/site_0839_0002.jpg",
+            "https://whc.unesco.org/document/112401/site_0839_0003.jpg",
+            "https://whc.unesco.org/document/112403/site_0839_0004.jpg",
+            "https://whc.unesco.org/document/112405/site_0839_0005.jpg",
+            "https://whc.unesco.org/document/112407/site_0839_0006.jpg",
+            "https://whc.unesco.org/document/112409/site_0839_0007.jpg",
+            "https://whc.unesco.org/document/112411/site_0839_0008.jpg"
+          ],
+          "count": 8
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Alejandro de Humboldt National Park",
+            "ref": "839rev",
+            "latitude": 20.45,
+            "longitude": -75.0
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/839",
+        "unesco_documents": "https://whc.unesco.org/en/list/839/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/839/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/839/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Alejandro de Humboldt National Park Complex geology and varied topography have given rise to a diversity of ecosystems and species unmatched in the insular Caribbean and created one of the most biologically diverse tropical island sites on earth. Many of the underlying rocks are toxic to plants so species have had to adapt to survive in these hostile conditions. This unique process of evolution has resulted in the development of many new species and the park is one of the most important sites in the Western Hemisphere for the conservation of endemic flora. Endemism of vertebrates and invertebrates is also very high. Complex geology and varied topography have given rise to a diversity of ecosystems and species unmatched in the insular Caribbean and created one of the most biologically diverse tropical island sites on earth. Many of the underlying rocks are toxic to plants so species have had to adapt to survive in these hostile conditions. This unique process of evolution has resulted in the development of many new species and the park is one of the most important sites in the Western Hemisphere for the conservation of endemic flora. Endemism of vertebrates and invertebrates is also very high. Cuba Latin America and the Caribbean Natural"
+    },
+    {
+      "site_key": "historic_centre_of_camaguey",
+      "uuid": "965f388e-a54b-5d5c-9efc-2dd210b4a74e",
+      "unesco_id": "1270",
+      "names": {
+        "en": "Historic Centre of Camagüey",
+        "fr": "Centre historique de Camagüey",
+        "es": "Centro histórico de Camagüey",
+        "ru": "Исторический центр Камагуэя",
+        "ar": "مركز كاماغواي التاريخي",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "CUB": {
+            "name": "Cuba",
+            "iso2": "CU",
+            "iso3": "CUB"
+          }
+        },
+        "region": {
+          "name": "Latin America and the Caribbean",
+          "code": "LAC"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "One of the first seven villages founded by the Spaniards in Cuba, Camagüey played a prominent role as the urban centre of an inland territory dedicated to cattle breeding and the sugar industry. Settled in its current location in 1528, the town developed on the basis of an irregular urban pattern that contains a system of large and minor squares, serpentine streets, alleys and irregular urban blocks, highly exceptional for Latin American colonial towns located in plain territories. The 54 ha Historic Centre of Camagüey constitutes an exceptional example of a traditional urban settlement relatively isolated from main trade routes. The Spanish colonizers followed medieval European influences in terms of urban layout and traditional construction techniques brought to the Americas by their masons and construction masters. The property reflects the influence of numerous styles through the ages: neoclassical, eclectic, Art Deco, Neo-colonial as well as some Art Nouveau and rationalism.",
+          "fr": "Camagüey - un des sept premiers villages fondés par les Espagnols à Cuba - a joué un rôle de premier plan en tant que centre urbain d’un territoire consacré à l’élevage et à l’industrie sucrière. Installée à son emplacement actuel en 1528, la ville s’est développée sur la base d’un tracé urbain irrégulier qui comprend un système de places et de placettes, de rues et de ruelles sinueuses et de pâtés de maisons irréguliers, très peu courant dans l’Amérique latine coloniale. Le centre historique de Camagüey, couvrant 54 ha, constitue un exemple exceptionnel d’installation urbaine traditionnelle relativement isolée des routes principales. Les colons espagnols étaient soumis aux influences urbaines médiévales européennes, visibles dans le tracé urbain, ainsi qu’aux techniques traditionnelles de construction, apportées aux Amériques par les premiers maçons et maîtres constructeurs. Le site reflète l’influence de nombreux styles, apparus à différents stades de son développement : néoclassique, éclectique, Art déco, néocolonial et, dans une moindre mesure, Art nouveau et rationaliste.",
+          "es": "Camagüey es una de las siete primeras poblaciones fundadas por los españoles en Cuba. Esta ciudad desempeñó un papel de primer plano en su calidad de centro urbano de un territorio dedicado esencialmente a la ganadería y la industria azucarera. Fundada en 1528 en su emplazamiento actual, la ciudad se fue desarrollando a partir de un esquema urbanístico irregular constituido por una red de plazas, plazuelas, calles serpenteantes y manzanas irregulares de casas, que es muy poco común en las ciudades coloniales de América Latina situadas en terreno llano. El centro histórico de Camagüey abarca 54 hectáreas y es un ejemplo excepcional de asentamiento urbano tradicional relativamente apartado de las principales rutas comerciales. La influencia de la arquitectura y el urbanismo de la Europa medieval es patente en el trazado urbano y las técnicas de construcción traídas a América por los albañiles y maestros de obras de los colonizadores españoles. En los edificios del sitio ha quedado plasmado, a lo largo del tiempo, el sello de numerosos estilos artísticos: neoclásico, ecléctico, neocolonial y “Art Déco”, principalmente. También hay algunas construcciones inspiradas en el “Art Nouveau” y el racionalismo.",
+          "ru": "Один из первых семи испанских поселений на Кубе, Камагуэй, был и наиболее значимым из них, так как выполнял функцию центрального населенного пункта внутренней территории, ориентированной на развитие животноводства и сахарной промышленности. Современное месторасположение города определилось в 1528 году. Городской ландшафт развивался хаотично, его главные элементы - большие и малые площади, улицы и извилистые переулки, беспорядочные городские постройки и комплексы. Исторический центр Камагуэя площадью в 54 га – уникальный пример традиционного городского поселения в относительной удаленности от главных торговых путей. Влияние европейских средневековых традиций, которыми руководствовались испанские завоеватели, проявляется в городской планировке и строительных методах, попавших в Америку с испанскими каменщиками и строителями. Архитектура города во многом эклектична и отражает влияние различных эпох и стилей, например, неоклассического, декоративного, неоколониального, и, в меньшей степени, стиля модерн и рационалистического.",
+          "ar": "تشكل كاماغواي إحدى أولى القرى السبع التي أنشأها الإسبان في كوبا، وقد لعبت دوراً بارزاً كمركز حضري قائم في منطقة مخصصة لتربية الماشية وصناعة السكر. تأسست البلدة في موقعها الحالي عام 1528، وتطورت تبعاً لنمط حضري غير منتظم قائم على مجموعة من الساحات والميادين الكبرى والثانوية، والشوارع الالتفافية، والأزقة والمباني الحضرية غير المتساوية، وهو أمر استثنائي في المدن الاستعمارية لأمريكا اللاتينية في الأراضي المنبسطة. كما يشكل مركز كاماغواي التاريخي (54 هكتاراً) مثلاً استثنائياً لمستوطنة حضرية تقليدية معزولة نسبياً عن الطرق التجارية الرئيسية. وقد تأثر المستعمرون الإسبان بالأسلوب الأوروبي العائد إلى القرون الوسطى في التصميم الحضري وتقنيات البناء التقليدية التي جاء بها البناؤون ومعلِّمو البناء إلى الأمريكتين. يعكس الموقع تأثير أساليب متعددة عبر الأزمنة: الكلاسيكي الحديث، والآرت ديكو، والكولونيالي الحديث، وبعض الفن الحديث والمذهب العقلي.كاماغواي الأسطورية رسالة اليونسكو (2008)",
+          "zh": ""
+        },
+        "full": "One of the first seven villages founded by the Spaniards in Cuba, Camagüey played a prominent role as the urban centre of an inland territory dedicated to cattle breeding and the sugar industry. Settled in its current location in 1528, the town developed on the basis of an irregular urban pattern that contains a system of large and minor squares, serpentine streets, alleys and irregular urban blocks, highly exceptional for Latin American colonial towns located in plain territories. The 54 ha Historic Centre of Camagüey constitutes an exceptional example of a traditional urban settlement relatively isolated from main trade routes. The Spanish colonizers followed medieval European influences in terms of urban layout and traditional construction techniques brought to the Americas by their masons and construction masters. The property reflects the influence of numerous styles through the ages: neoclassical, eclectic, Art Deco, Neo-colonial as well as some Art Nouveau and rationalism.",
+        "justification": "One of the first seven villages founded by the Spaniards in Cuba, Camagüey played a prominent role as the urban centre of an inland territory dedicated to cattle breeding and the sugar industry. Once settled in its current location in 1528, the town developed on the basis on an irregular urban pattern that contains a system of squares, minor squares, serpentine streets, alleys and irregular urban blocks, highly exceptional for Latin American colonial towns located in plain territories. Religious buildings, associated with the main squares, constitute a system of landmarks in the urban fabric, characterized by its homogeneity. Architectural values are associated with typical domestic architectural typologies and the use of consistent construction materials and techniques, especially the extended use of earthen components, which reveal influences from Andalusia. The use of truncated pilasters at the entrance gates and of clay vessels for water storage are features that identify Camagüey’s domestic architecture. The historic centre continues to act as the city core and the place for social and cultural activities, which reflect a rich intangible heritage. Criterion (iv): The Historic Centre of Camagüey constitutes an outstanding urban architectural type in Latin America, featured by its irregular urban layout that produced an unusual system of squares, minor squares, serpentine streets, alleys, urban blocks and plots system. Monumental and domestic architecture form a homogeneous urban fabric where it is possible to find architectural expressions corresponding to different periods of the evolution of the town. Criterion (v): The Historic Centre of Camagüey constitutes an exceptional example of a traditional urban settlement relatively isolated from main trade routes, where the Spanish colonizers were subject to European medieval urban influences in the urban layout and to traditional construction techniques brought to the Americas by the first masons and construction masters. The nominated property is of adequate size and contains all the necessary material components to guarantee the integrity of the historic centre. The persistence of the original urban layout, of the architectural types and materials, of the traditional craftsmanship and of uses and spirit allows the historic centre to meet the required conditions of authenticity. The legal protection and the management system and instruments have proved to be adequate for ensuring the proper conservation of the nominated area and its buffer zone."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 54,
+          "square_km": 0.54,
+          "square_miles": 0.219,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2008,
+          "all_dates": [
+            2008
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2008,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/98fc96ed5d3391ec35647bace0300fca",
+          "filename": "site_1270_0002-500-0-20231020120937.jpg",
+          "dimensions": {
+            "width": 399,
+            "height": 600
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114407/site_1270_0002.jpg",
+            "https://whc.unesco.org/document/126499/site_1270_0016.jpg",
+            "https://whc.unesco.org/document/114405/site_1270_0001.jpg",
+            "https://whc.unesco.org/document/114409/site_1270_0003.jpg",
+            "https://whc.unesco.org/document/114411/site_1270_0004.jpg",
+            "https://whc.unesco.org/document/120698/site_1270_0005.jpg",
+            "https://whc.unesco.org/document/120702/site_1270_0006.jpg",
+            "https://whc.unesco.org/document/120703/site_1270_0007.jpg",
+            "https://whc.unesco.org/document/120704/site_1270_0008.jpg",
+            "https://whc.unesco.org/document/120705/site_1270_0009.jpg",
+            "https://whc.unesco.org/document/120706/site_1270_0010.jpg",
+            "https://whc.unesco.org/document/120707/site_1270_0011.jpg",
+            "https://whc.unesco.org/document/120708/site_1270_0012.jpg",
+            "https://whc.unesco.org/document/126496/site_1270_0013.jpg",
+            "https://whc.unesco.org/document/126497/site_1270_0014.jpg",
+            "https://whc.unesco.org/document/126498/site_1270_0015.jpg",
+            "https://whc.unesco.org/document/126501/site_1270_0018.jpg",
+            "https://whc.unesco.org/document/126502/site_1270_0019.jpg",
+            "https://whc.unesco.org/document/126503/site_1270_0020.jpg",
+            "https://whc.unesco.org/document/126504/site_1270_0021.jpg",
+            "https://whc.unesco.org/document/126505/site_1270_0022.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Camagüey",
+            "ref": "1270",
+            "latitude": 21.3786111111,
+            "longitude": -77.9186111111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1270",
+        "unesco_documents": "https://whc.unesco.org/en/list/1270/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1270/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1270/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Americas",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 17,
+        "inscription_year": 2008
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Camagüey One of the first seven villages founded by the Spaniards in Cuba, Camagüey played a prominent role as the urban centre of an inland territory dedicated to cattle breeding and the sugar industry. Settled in its current location in 1528, the town developed on the basis of an irregular urban pattern that contains a system of large and minor squares, serpentine streets, alleys and irregular urban blocks, highly exceptional for Latin American colonial towns located in plain territories. The 54 ha Historic Centre of Camagüey constitutes an exceptional example of a traditional urban settlement relatively isolated from main trade routes. The Spanish colonizers followed medieval European influences in terms of urban layout and traditional construction techniques brought to the Americas by their masons and construction masters. The property reflects the influence of numerous styles through the ages: neoclassical, eclectic, Art Deco, Neo-colonial as well as some Art Nouveau and rationalism. One of the first seven villages founded by the Spaniards in Cuba, Camagüey played a prominent role as the urban centre of an inland territory dedicated to cattle breeding and the sugar industry. Settled in its current location in 1528, the town developed on the basis of an irregular urban pattern that contains a system of large and minor squares, serpentine streets, alleys and irregular urban blocks, highly exceptional for Latin American colonial towns located in plain territories. The 54 ha Historic Centre of Camagüey constitutes an exceptional example of a traditional urban settlement relatively isolated from main trade routes. The Spanish colonizers followed medieval European influences in terms of urban layout and traditional construction techniques brought to the Americas by their masons and construction masters. The property reflects the influence of numerous styles through the ages: neoclassical, eclectic, Art Deco, Neo-colonial as well as some Art Nouveau and rationalism. Cuba Latin America and the Caribbean Cultural"
+    }
+  ]
+}

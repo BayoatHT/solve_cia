@@ -1,0 +1,759 @@
+{
+  "country": {
+    "code": "GEO",
+    "name": "Georgia"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "historical_monuments_of_mtskheta",
+      "uuid": "a3df3f0e-6ad8-5173-9ada-57dd3d32a011",
+      "unesco_id": "708",
+      "names": {
+        "en": "Historical Monuments of Mtskheta",
+        "fr": "Monuments historiques de Mtskheta",
+        "es": "Monumentos históricos de Mtskheta",
+        "ru": "Исторические памятники Мцхеты",
+        "ar": "محمية المدينة-المتحف متسخيتا",
+        "zh": "姆茨赫塔古城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GEO": {
+            "name": "Georgia",
+            "iso2": "GE",
+            "iso3": "GEO"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom.",
+          "fr": "Les églises historiques de Mtskheta, ancienne capitale du royaume de Géorgie, sont des exemples exceptionnels de l'architecture religieuse du Moyen Âge dans la région du Caucase. Elles témoignent du haut niveau artistique et culturel qu'avait atteint cet ancien royaume.",
+          "es": "Las iglesias históricas de Mtskheta, capital del antiguo reino de Georgia, constituyen ejemplos excepcionales de la arquitectura religiosa medieval en la región del Cáucaso. Atestiguan el alto nivel alcanzado por las artes y la cultura en ese reino.",
+          "ru": "Древние церкви Мцхеты, бывшей столицы Грузии, представляют собой выдающиеся образцы средневековой религиозной архитектуры Кавказа. Они ярко свидетельствуют о высоком художественном и культурном уровне, достигнутом этим государством. Важнейшие памятники Мцхеты – храм Джвари (конец VI - начало VII вв.), кафедральный собор Светицховели (начало XI в.) и монастырь Самтавро с купольным храмом XI в. и колокольней XV–XVII вв.",
+          "ar": "تشكّل الكنائس التاريخية في متسخيتا، وهي العاصمة القديمة لمملكة جيورجيا، نماذج رائعة للهندسة الدينية في القرون الوسطى في منطقة القوقاز، كما تدلّ على المستوى الفني والثقافي الرفيع الذي بلغته هذه المملكة القديمة.",
+          "zh": "格鲁吉亚前首都姆茨赫塔古城的教堂是高加索地区中世纪宗教建筑的杰出典范，展示了这个古代王国极高的艺术和文化水平。"
+        },
+        "full": "The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom.",
+        "justification": "Brief synthesis The Historical Monuments of Mtskheta are located in the cultural landscape at the confluence of the Aragvi and Mtkvari Rivers, in Central-Eastern Georgia, some 20km northwest of Tbilisi in Mtskheta. The property consists of the Jvari Monastery, the Svetitstkhoveli Cathedral and the Samtavro Monastery. Mtskheta was the ancient capital of Kartli, the East Georgian Kingdom from the 3rd century BC to the 5th century AD, and was also the location where Christianity was proclaimed as the official religion of Georgia in 337. To date, it still remains the headquarters of the Georgian Orthodox and Apostolic Church. The favourable natural conditions, its strategic location at the intersection of trade routes, and its close relations with the Roman Empire, the Persian Empire, Syria, Palestine, and Byzantium, generated and stimulated the development of Mtskheta and led to the integration of different cultural influences with local cultural traditions. After the 6th century AD, when the capital was transferred to Tbilisi, Mtskheta continued to retain its leading role as one of the important cultural and spiritual centres of the country. The Holy Cross Monastery of Jvari, Svetitskhoveli Cathedral and Samtavro Monastery are key monuments of medieval Georgia. The present churches include the remains of earlier buildings on the same sites, as well as the remains of ancient wall paintings. The complex of the Svetitskhoveli Cathedral in the centre of the town includes the cathedral church, the palace and the gates of the Katolikos Melchizedek that date from the 11th century, built on the site of earlier churches dating back to the 5th century. The cruciform cathedral is crowned with a high cupola over the crossing, and there are remains of important wall paintings in the interior. The rich sculpted decoration of the elevations dates from various periods over its long history. The small domed church of the Samtavro Monastery was originally built in the 4th century and has since been subject to various restorations. The main church of the monastery was built in the early 11th century. It contains the grave of Mirian III, the king of Iberia who established Christianity as official religion in Georgia. The Historical Monuments of Mtskheta contain archaeological remains of great significance that testify to the high culture in the art of building, masonry crafts, pottery, as well as metal casting and processing, and the social, political, and economic evolution of this mountain kingdom for some four millennia. They also represent associative values with religious figures, such as Saint Nino, whose deeds are documented by Georgian, Armenian, Greek and Roman historians, and the 6th-century church in Jvari Monastery remains the most sacred place in Georgia. Criterion (iii): The historical monuments of Mtskheta bear testimony to the high level of art and culture of the vanished Kingdom of Georgia, which played an outstanding role in the medieval history of its region. They express the introduction and diffusion of Christianity to the Caucasian mountain region and bear testimony of the social, political and economic evolution of the region since the late 3rd millennium BC. Criterion (iv): The historic churches of Mtskheta, including Jvari Monastery, Svetitskhoveli Cathedral and Samtavro Monastery, are outstanding examples of medieval ecclesiastical architecture in the Caucasus region, and represent different phases of the development of this building typology, ranging from the 4th to the 18th centuries. Integrity The Historical Monuments of Mtskheta is a serial property that includes the Holy Cross Monastery of Jvari, Svetitskhoveli Cathedral and Samtavro Monastery, all attributes that represent the development of the building typology from the 4th to the 18th centuries. The components of the property have retained their material integrity and significant features conveying their Outstanding Universal Value. The impact of deterioration processes is controlled through ongoing conservation and maintenance programmes. The monuments form important landmarks within the cultural landscape of the Mtskheta river valley. The visual qualities of the setting are maintained through legal and administrative measures as part of the management regime. However, unifying the buffer zone remains a crucial measure to enhance the protection of the property and to allow a clear understanding of the archaeological and visually sensitive areas around the property. Potential threats to the setting of the property, derived from development projects, will also need to be controlled through appropriate land use planning. Authenticity There have been a number of reconstructions and restorations at the Jvari Monastery, Svetitskhoveli Cathedral and Samtavro Monastery. Many of the works carried out in the 19th century were typical for their time and do not conform to modern conservation standards. Notwithstanding, in terms of materials and techniques, the architectural ensemble retains a relatively high level of authenticity, while the authenticity of the setting and the archaeological sites is significantly high. In addition, Mtskheta has maintained its role as the spiritual and cultural centre of the country, assumed ever since the introduction of Christianity in the region. Protection and management requirements Based on the respective legal acts of the National Legislation of Georgia enforced in 1940 and 1957, Mtskheta and its surroundings were granted the status of Archaeological-Architectural Reserve in 1977. Mtskheta was defined as a town-museum and a plan for its development, which provided for the preservation of the scale and townscape, was approved in 1973. Since the 1990s, the protection of the property has been regulated on the basis of the national cultural heritage and spatial planning legislation. The system of cultural heritage protection zones was enforced in 2006 and amended in 2012. A Management Plan has been prepared but there are still challenges in improving the site management mechanism and the coordination between the different management stakeholders. This would guarantee more coherent decision-making over the land use in the buffer zone of the property and prevent inappropriate interventions in the landscape setting of the property. The implementation of Urban Land-Use Master Plans, which include zoning regulations to establish no construction zones and limit development in relation to the attributes of the property and specific landscape setting, with associated important views and connection lines, will be crucial for sustaining the conditions of integrity."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 3.85,
+          "square_km": 0.04,
+          "square_miles": 0.016,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1994,
+          "all_dates": [
+            1994
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1994,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/32fbd944fa52139dcb30f68955b1ef44",
+          "filename": "site_0708_0006-500-0-20250903122747.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 645
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/126668/site_0708_0006.jpg",
+            "https://whc.unesco.org/document/222714/site_0708_0026.jpg",
+            "https://whc.unesco.org/document/222715/site_0708_0027.jpg",
+            "https://whc.unesco.org/document/222716/site_0708_0028.jpg",
+            "https://whc.unesco.org/document/222717/site_0708_0029.jpg",
+            "https://whc.unesco.org/document/222718/site_0708_0030.jpg",
+            "https://whc.unesco.org/document/222719/site_0708_0031.jpg",
+            "https://whc.unesco.org/document/222720/site_0708_0032.jpg",
+            "https://whc.unesco.org/document/222721/site_0708_0033.jpg",
+            "https://whc.unesco.org/document/222722/site_0708_0034.jpg",
+            "https://whc.unesco.org/document/222723/site_0708_0035.jpg",
+            "https://whc.unesco.org/document/222724/site_0708_0036.jpg",
+            "https://whc.unesco.org/document/222725/site_0708_0037.jpg",
+            "https://whc.unesco.org/document/222726/site_0708_0038.jpg",
+            "https://whc.unesco.org/document/222727/site_0708_0039.jpg",
+            "https://whc.unesco.org/document/222728/site_0708_0040.jpg",
+            "https://whc.unesco.org/document/222729/site_0708_0041.jpg",
+            "https://whc.unesco.org/document/222730/site_0708_0042.jpg",
+            "https://whc.unesco.org/document/222731/site_0708_0043.jpg",
+            "https://whc.unesco.org/document/222732/site_0708_0044.jpg",
+            "https://whc.unesco.org/document/222733/site_0708_0045.jpg",
+            "https://whc.unesco.org/document/222734/site_0708_0046.jpg",
+            "https://whc.unesco.org/document/222735/site_0708_0047.jpg",
+            "https://whc.unesco.org/document/222736/site_0708_0048.jpg",
+            "https://whc.unesco.org/document/222737/site_0708_0049.jpg",
+            "https://whc.unesco.org/document/222738/site_0708_0050.jpg",
+            "https://whc.unesco.org/document/222739/site_0708_0051.jpg",
+            "https://whc.unesco.org/document/126665/site_0708_0003.jpg",
+            "https://whc.unesco.org/document/126666/site_0708_0004.jpg",
+            "https://whc.unesco.org/document/126667/site_0708_0005.jpg",
+            "https://whc.unesco.org/document/133926/site_0708_0007.jpg",
+            "https://whc.unesco.org/document/133927/site_0708_0008.jpg",
+            "https://whc.unesco.org/document/133928/site_0708_0009.jpg",
+            "https://whc.unesco.org/document/133929/site_0708_0010.jpg",
+            "https://whc.unesco.org/document/133937/site_0708_0011.jpg",
+            "https://whc.unesco.org/document/133938/site_0708_0012.jpg",
+            "https://whc.unesco.org/document/133939/site_0708_0013.jpg",
+            "https://whc.unesco.org/document/143860/site_0708_0016.jpg",
+            "https://whc.unesco.org/document/143861/site_0708_0017.jpg",
+            "https://whc.unesco.org/document/143862/site_0708_0018.jpg",
+            "https://whc.unesco.org/document/143863/site_0708_0019.jpg",
+            "https://whc.unesco.org/document/143864/site_0708_0020.jpg",
+            "https://whc.unesco.org/document/143865/site_0708_0021.jpg",
+            "https://whc.unesco.org/document/143866/site_0708_0022.jpg",
+            "https://whc.unesco.org/document/143867/site_0708_0023.jpg",
+            "https://whc.unesco.org/document/143868/site_0708_0024.jpg",
+            "https://whc.unesco.org/document/143869/site_0708_0025.jpg"
+          ],
+          "count": 47
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Svetitskhoveli Cathedral",
+            "ref": "708bis-001",
+            "latitude": 41.8428333333,
+            "longitude": 44.7209444444
+          },
+          {
+            "name": "Samtavro Church and Monastery",
+            "ref": "708bis-002",
+            "latitude": 41.8464084646,
+            "longitude": 44.7184581435
+          },
+          {
+            "name": "Mtskhetis Jvari (The Church of the Holy Cross - Mtskheta)",
+            "ref": "708bis-003",
+            "latitude": 41.8386473703,
+            "longitude": 44.7337706398
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/708",
+        "unesco_documents": "https://whc.unesco.org/en/list/708/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/708/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/708/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 31,
+        "inscription_year": 1994
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historical Monuments of Mtskheta The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom. The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom. Georgia Europe and North America Cultural"
+    },
+    {
+      "site_key": "colchic_rainforests_and_wetlands",
+      "uuid": "91d24ef1-756e-53a2-84ac-ab4279ce7a3b",
+      "unesco_id": "1616",
+      "names": {
+        "en": "Colchic Rainforests and Wetlands",
+        "fr": "Forêts pluviales et zones humides de Colchide",
+        "es": "Bosques pluviales y zonas húmedas de la Cólquida",
+        "ru": "Колхидские тропические леса и водно-болотные угодья",
+        "ar": "غابات كولشان المطيرة وأراضيها الرطبة",
+        "zh": "科尔基斯雨林及湿地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GEO": {
+            "name": "Georgia",
+            "iso2": "GE",
+            "iso3": "GEO"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property comprises seven component parts, within an 80km long corridor along the warm-temperate and extremely humid eastern coast of the Black Sea. They provide a series of the most typical Colchic ecosystems at altitudes ranging from sea level to more than 2,500 metres above it. The main ecosystems are ancient deciduous Colchic rainforests and wetlands, percolation bogs and other mire types of the distinct Colchic mire region. The extremely humid broad-leaved rainforests comprise a highly diverse flora and fauna, with very high densities of endemic and relict species, with significant numbers of globally threatened species and relict species, which survived the glacial cycles of the Tertiary. The site is home to approximately 1,100 species of vascular and non-vascular plants, including 44 threatened vascular plan species, and almost 500 species of vertebrates, and a high number of invertebrate species. The site also harbours 19 threatened animal species including sturgeon, notably the critically endangered Colchic Sturgeon. It is a key stopover for many globally threatened birds that migrate through the Batumi bottleneck.",
+          "fr": "Le bien comprend sept éléments constitutifs dans un corridor de 80 km de long bordant le littoral oriental tempéré chaud et extrêmement humide de la mer Noire. Ces éléments constituent une série altitudinale quasi complète des écosystèmes les plus typiques de la Colchide, du niveau de la mer à plus de 2 500 m d’altitude. Les principaux écosystèmes sont des forêts pluviales anciennes et décidues de Colchide et des zones humides, des tourbières de percolation et autres types de milieux tourbeux de la région de Colchide. Les forêts pluviales de feuillus, très humides, abritent une flore et une faune extrêmement diverses et présentent de très fortes densités d’espèces endémiques et reliques, notamment un nombre important d’espèces menacées au plan mondial et d’espèces reliques ayant survécu aux cycles glaciaires du Tertiaire. Le bien abrite environ 1 100 espèces de plantes vasculaires et non vasculaires, dont 44 espèces de plantes non vasculaires menacées, ainsi que près de 500 espèces de vertébrés et un grand nombre d’espèces d’invertébrés. Le site constitue également l’habitat de 19 espèces animales menacées, notamment l’esturgeon, et en particulier l’esturgeon du Danube, en danger critique. Il s’agit d’un site d’étape clé pour de nombreux oiseaux menacés au plan mondial qui migrent à travers le goulot d’étranglement de Batumi.",
+          "es": "Este sitio consta de siete componentes situados en un amplio corredor de 80 kilómetros de longitud extendido a lo largo de la costa oriental del Mar Negro, cuyo clima es cálido templado y muy húmedo. Esos componentes albergan un conjunto de los ecosistemas más característicos de la región de la Cólquida, escalonados desde el nivel del mar hasta más de 2.500 metros de altura, entre los que destacan antiguos bosques pluviales caducifolios, humedales, turberas y otros tipos de zonas pantanosas específicas de la región. Los frondosos bosques pluviales de hoja ancha, extremadamente húmedos, albergan una flora y una fauna muy diversas que se caracterizan por la alta densidad de sus especies vivas endémicas y arcaicas, supervivientes de los ciclos glaciares del Periodo Terciario. El sitio cuenta con unas 1.100 especies de plantas de todas clases, entre las que figuran 44 plantas vasculares en peligro de extinción, y además es el hábitat de casi 500 especies de animales vertebrados y de poblaciones muy numerosas de invertebrados. De los 19 animales amenazados de desaparición que viven en la región, el esturión de la Cólquida es el que se halla en una situación más crítica. El sitio constituye, además, un área de escala esencial para muchas especies de aves migratorias en peligro de extinción a nivel mundial que transitan por la zona de Batumi, uno de los lugares del mundo con mayor concentración de paso de esta clase de aves.",
+          "ru": "Объект состоит из семи составных частей в пределах 80-километрового коридора вдоль умеренно-теплого и очень влажного восточного побережья Черного моря. Объект представляет собой ряд наиболее типичных колхидских экосистем на высотах от уровня моря до более 2500 м над уровнем моря. Основными экосистемами являются древние колхидские лиственные тропические леса и водно-болотные угодья, перколяционные болота и другие виды болот, характерные для региона колхидских болот. Влажные широколиственные тропические леса являются местом обитания для разнообразной флоры и фауны с очень высокой плотностью эндемичных и реликтовых видов, со значительным количеством видов, находящихся в угрожаемом положении в глобальном масштабе, и реликтовых видов, которые пережили ледниковые циклы третичного периода. На территории объекта обитает около 1100 видов сосудистых и несосудистых растений, в том числе 44 вида сосудистых растений, находящихся в угрожаемом положении, а также почти 500 видов позвоночных и большое количество видов беспозвоночных. На территории объекта также обитают 19 видов животных, находящихся в угрожаемом положении, в том числе осетровые, в частности, находящийся на грани полного исчезновения колхидский осетр. Объект является ключевой остановкой для многих видов птиц, находящихся в угрожаемом положении в глобальном масштабе, которые мигрируют через узкие пути Батуми.",
+          "ar": "يتألَّف الموقع من سبعة عناصر موزَّعة داخل ممرّ طوله 80 كم على امتداد الساحل الشرقي للبحر الأسود، الذي يمتاز بالحرارة الدافئة والرطوبة الشديدة. وتُعتبر هذه العناصر بمثابة سلسلة من نُظُم كولخيس البيئية المميّزة والموزّعة على ارتفاعات تبدأ من مستوى سطح البحر وتصل إلى أكثر من 2500 متر فوق مستوى سطح البحر. وتضم أبرز النظم البيئية في الموقع غابات كولخيس النفضية المطيرة وأراضيها الرطبة، وأراضي الخث الرشحيّة وغيرها من أنواع مستنقعات الخث في منطقة كولخيس المميّزة. وتأوي الغابات المطيرة الشديدة الرطوبة والعريضة الأوراق طيفاً واسعاً للغاية من الأصناف النباتية والحيوانية، وتشهد تواجداً مكثفاً للغاية للأنواع القديمة المتبقية والأنواع المستوطنة، وعدداً كبيراً من الأنواع المهددة بالانقراض على الصعيد العالمي والأنواع المستوطنة، التي نجت من الدورات الجليدية إبّان العصر الجليدي الثالث. ويعتبر الموقع موطناً لزهاء 1100 نوع من النباتات الوعائية وغير الوعائية، من بينها 44 نوعاً من النباتات الوعائية المهددة بالانقراض، وزهاء 500 نوع من الفقاريات، فضلاً عن عدد كبير من فصائل اللافقاريات. ويحتوي الموقع كذلك الأمر على 19 فصيلة من الحيوانات المهددة، من بينها الأسماك الحفشية، ولا سيما أسماك كولخيس الحفشية المهددة بالانقراض. ويندرج الموقع في عداد المحطات الرئيسية التي تتوقف فيها العديد من الطيور المهددة على الصعيد العالمي، والمهاجرة عبر باتومي.",
+          "zh": "该遗产地由7个部分组成，沿暖温带极其潮湿的黑海东海岸分布，纵向长度约80公里。这里有一系列最典型的科尔基斯生态系统，从海平面一直延伸到海拔2500多米以上。主体为古老的科尔基斯落叶雨林及湿地、渗透沼泽和其它科尔基斯沼泽地区独有的泥沼类型。极度潮湿的阔叶雨林由高度多样化的动植物群组成，具有非常高密度的孑遗特有种，以及大量在第三纪冰期中幸存下来的全球濒危物种和孑遗物种。该遗产地是大约1100种维管束植物和非维管束植物的家园，包括44种濒危维管植物，以及近500种脊椎动物和大量的无脊椎动物。该地区还栖息着19种濒危动物，包括鲟鱼，特别是极度濒危的科尔基斯鲟。此处还是许多通过巴统廊道迁徙的全球濒危鸟类的关键中继站。"
+        },
+        "full": "The property comprises seven component parts, within an 80km long corridor along the warm-temperate and extremely humid eastern coast of the Black Sea. They provide a series of the most typical Colchic ecosystems at altitudes ranging from sea level to more than 2,500 metres above it. The main ecosystems are ancient deciduous Colchic rainforests and wetlands, percolation bogs and other mire types of the distinct Colchic mire region. The extremely humid broad-leaved rainforests comprise a highly diverse flora and fauna, with very high densities of endemic and relict species, with significant numbers of globally threatened species and relict species, which survived the glacial cycles of the Tertiary. The site is home to approximately 1,100 species of vascular and non-vascular plants, including 44 threatened vascular plan species, and almost 500 species of vertebrates, and a high number of invertebrate species. The site also harbours 19 threatened animal species including sturgeon, notably the critically endangered Colchic Sturgeon. It is a key stopover for many globally threatened birds that migrate through the Batumi bottleneck.",
+        "justification": "Brief synthesis The property is situated in Georgia, within the Autonomous Republic of Adjara as well as the regions of Guria and Samegrelo-Zemo Svaneti. It comprises a series of seven component parts, which are located close to each other within an 80 km long corridor along the warm-temperate and extremely humid eastern coast of the Black Sea. They provide an almost complete altitudinal series of the most typical Colchic ecosystems running from sea level to more than 2,500 m above sea level. The main ecosystems are ancient deciduous Colchic rainforests and wetlands – particularly percolation bogs and other mire types of the Colchic mire region, a distinct mire region within Europe and Eurasia. The Colchic Rainforests and Wetlands are relict forests, which have survived the glacial cycles of the ice age. The extremely humid nemoral broad-leaved rainforests comprise a highly diverse flora and fauna, with very high densities of endemic and relict species. This is the result of millions of years of uninterrupted evolution and speciation processes within the Colchic Pliocene refugium. The peatlands of the Colchis mire region, which are closely interlinked with lowland Colchic rainforests, also reflect the mild and extremely humid conditions there. These allow for the existence of percolation bogs, the simplest functional type of mires, only occurring in the Colchis mire region. In addition to percolation bogs, there is a complete series of other succession stages of mire development in the Colchic wetlands. Criterion (ix): The property comprises ancient Colchic rainforests with their characteristic vertical zoning and ecological succession, and wetlands, particularly Colchic mires, with their supporting processes and succession. A unique combination of influences from three mountain ranges to the north, east and south, with the Black Sea to the west, plus high precipitation and a narrow range in seasonal temperature variations results in conditions that have created outstandingly complex and diverse forest structures, peatland accumulations, high levels of endemism and intra species diversity. The Colchic rainforests are highly humid temperate deciduous rainforests, and among the oldest nemoral broad-leaved forests globally. While they are distinguished from other temperate forests by their rich evergreen understoreys, they also display a remarkably dense mosaic of forest types, with 23 forest associations co-existing within an area of only about 200 km2. Together with the Hyrcanian Forests, they are the most important relicts of Arcto-Tertiary forests in western Eurasia. This peculiar and diverse community, which has survived the Pleistocene glacial cycles, includes a multitude of relict and endemic species. It reflects exceptionally constant climatic conditions and is an invaluable example of the manifold long-term evolutionary processes of forest biota over at least 10-15 million years. The extensive paludified areas along the Black Sea coast are a result of evolutionary and ecological processes related to climate variability in an ancient warm-temperate ecoregion continuously vegetated since the Tertiary period. The exceptional character of the mires has led to the recognition of a distinct Colchis mire region. Their percolation bogs are of particular global importance as they do not exist anywhere else in the world. They can be considered the simplest and hence ideal-typical mire, due to almost permanent water supplied exclusively by precipitation. Percolation bogs are essential for the functional understanding of all mires, and hence of terrestrial carbon storage in general. Criterion (x): The property represents a distinctive area of outstanding biodiversity within the wider Caucasus Global Biodiversity Hotspot, where a rich flora and fauna adapted to warm-temperate and extremely humid climate is concentrated. It belongs to one of the two most important refuge areas of Arcto-Tertiary geoflora in western Eurasia. The property is characterized by a high level of floral and faunal diversity with significant numbers of globally threatened species and relict species, which survived the glacial cycles of the Tertiary. The property is home to approximately 1,100 species of vascular and non-vascular plants, as well as almost 500 species of vertebrates, and a high number of invertebrate species. It hosts an extremely high proportion of endemic species for a non-tropical, non-island region. There are 149 species of plants with a restricted range and almost one third of mammals, amphibians and reptiles are endemic. The contribution of endemic species to amphibians, reptiles and mammals of the region is at 28%. Forty-four globally threatened or near-threatened species of vascular plants, 50 of vertebrates, and 8 of invertebrates have been recorded in the Colchic Rainforests and Wetlands. The property also harbors sturgeon species, including the Colchic Sturgeon, and serves as a key stopover for many globally threatened birds that migrate through the Batumi bottleneck. Integrity The component parts of the Colchic Rainforests and Wetlands have been selected based on a careful regional analysis. The boundaries of component parts incorporate attributes necessary to convey the Outstanding Universal Value, mostly following natural features such as mountain ridges. The component parts cover most of the existing mires of the Colchis mire region, and the best preserved and most representative rainforests. The property includes more than 90% of the altitudinal range at which Colchic rainforests occur, and the great majority of typical forest associations. They also comprise a complete successional series of the mires characteristic of the Colchis mire region. The property as a whole holds the great majority of the Colchic flora and fauna, and an even greater proportion of the endemic plant species found in the wider region is concentrated here. There were significant losses to the Colchic rainforests and mires across the Colchic region until the late 20th Century. In contrast, the forests and mires inside the property have remained fully intact both structurally and functionally, as shown by their community structure and ecological processes. While some of the Colchic mires were slightly degraded by nearby draining in the past, their current hydrological intactness and resilience is ensured by their dependence on atmospheric precipitation, high mire oscillation capacity, the stabilizing effect of the nearby sea, and extensive upstream buffer zones. Protection and management requirements The component parts of the property are effectively protected against local anthropogenic threats. Only small parts of some of the buffer zones are slightly affected by an acceptable level of traditional natural resource use. All the component parts of the property, and all but 208 ha of the buffer zone, are situated on state-owned land within legally designated protected areas. These are either strictly protected areas (IUCN Protected Area category Ia), or those zones of National Parks (IUCN Protected Area category II) that afford the highest levels of protection. Only a very small part of the property belongs to a protected landscape (IUCN Protected Area category V). The boundaries of these protected areas are known and accepted by the local population. The protected areas that cover the property are managed by the Agency of Protected Areas of the Ministry of Environmental Protection and Agriculture of Georgia, through its local Protected Area Administration. Sustainably funded integrated management of the entire property is required in addition to the implementation of comprehensive management plans for all four protected areas. Coordination of component areas is enabled as all are managed by the Agency of Protected Areas. An integrated management framework of the property has been developed and requires finalization. There is scope for the protected areas to be expanded further, based on strategic conservation planning using Key Biodiversity Areas, which may provide an additional layer of protection to the property, and possibly allow for future extensions to both the property and buffer zones to be considered. This is particularly important in view of existing and potential developments in proximity of the property and along the Black Sea coast. Any development projects need to be subject to rigorous Environmental Impact Assessment procedures, and should not go ahead in case of potential negative impacts on the property’s Outstanding Universal Value."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 31253,
+          "square_km": 312.53,
+          "square_miles": 126.477,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2021,
+          "all_dates": [
+            2021
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2021,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2bafa462792d2803d0af56e795536c79",
+          "filename": "site_1616_0011.jpg",
+          "dimensions": {
+            "width": 4000,
+            "height": 2250
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/172470/site_1616_0011.jpg",
+            "https://whc.unesco.org/document/172460/site_1616_0001.jpg",
+            "https://whc.unesco.org/document/172461/site_1616_0002.jpg",
+            "https://whc.unesco.org/document/172462/site_1616_0003.jpg",
+            "https://whc.unesco.org/document/172463/site_1616_0004.jpg",
+            "https://whc.unesco.org/document/172464/site_1616_0005.jpg",
+            "https://whc.unesco.org/document/172465/site_1616_0006.jpg",
+            "https://whc.unesco.org/document/172466/site_1616_0007.jpg",
+            "https://whc.unesco.org/document/172467/site_1616_0008.jpg",
+            "https://whc.unesco.org/document/172468/site_1616_0009.jpg",
+            "https://whc.unesco.org/document/172469/site_1616_0010.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 7,
+        "locations": [
+          {
+            "name": "Ispani",
+            "ref": "1616bis-002",
+            "latitude": 41.8620194444,
+            "longitude": 41.8015277778
+          },
+          {
+            "name": "Nabada",
+            "ref": "1616bis-006",
+            "latitude": 42.2408583333,
+            "longitude": 41.6660805556
+          },
+          {
+            "name": "Churia",
+            "ref": "1616bis-007",
+            "latitude": 42.2994694444,
+            "longitude": 41.6622888889
+          },
+          {
+            "name": "Imnati",
+            "ref": "1616bis-004",
+            "latitude": 42.1099694444,
+            "longitude": 41.7887972222
+          },
+          {
+            "name": "Pitshora",
+            "ref": "1616bis-005",
+            "latitude": 42.157,
+            "longitude": 41.82
+          },
+          {
+            "name": "Grigoleti",
+            "ref": "1616bis-003",
+            "latitude": 42.0532694444,
+            "longitude": 41.7387777777
+          },
+          {
+            "name": "Kintrishi-Mtirala",
+            "ref": "1616bis-001",
+            "latitude": 41.7022777778,
+            "longitude": 41.9512
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1616",
+        "unesco_documents": "https://whc.unesco.org/en/list/1616/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1616/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1616/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 4,
+        "inscription_year": 2021
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Colchic Rainforests and Wetlands The property comprises seven component parts, within an 80km long corridor along the warm-temperate and extremely humid eastern coast of the Black Sea. They provide a series of the most typical Colchic ecosystems at altitudes ranging from sea level to more than 2,500 metres above it. The main ecosystems are ancient deciduous Colchic rainforests and wetlands, percolation bogs and other mire types of the distinct Colchic mire region. The extremely humid broad-leaved rainforests comprise a highly diverse flora and fauna, with very high densities of endemic and relict species, with significant numbers of globally threatened species and relict species, which survived the glacial cycles of the Tertiary. The site is home to approximately 1,100 species of vascular and non-vascular plants, including 44 threatened vascular plan species, and almost 500 species of vertebrates, and a high number of invertebrate species. The site also harbours 19 threatened animal species including sturgeon, notably the critically endangered Colchic Sturgeon. It is a key stopover for many globally threatened birds that migrate through the Batumi bottleneck. The property comprises seven component parts, within an 80km long corridor along the warm-temperate and extremely humid eastern coast of the Black Sea. They provide a series of the most typical Colchic ecosystems at altitudes ranging from sea level to more than 2,500 metres above it. The main ecosystems are ancient deciduous Colchic rainforests and wetlands, percolation bogs and other mire types of the distinct Colchic mire region. The extremely humid broad-leaved rainforests comprise a highly diverse flora and fauna, with very high densities of endemic and relict species, with significant numbers of globally threatened species and relict species, which survived the glacial cycles of the Tertiary. The site is home to approximately 1,100 species of vascular and non-vascular plants, including 44 threatened vascular plan species, and almost 500 species of vertebrates, and a high number of invertebrate species. The site also harbours 19 threatened animal species including sturgeon, notably the critically endangered Colchic Sturgeon. It is a key stopover for many globally threatened birds that migrate through the Batumi bottleneck. Georgia Europe and North America Natural"
+    },
+    {
+      "site_key": "upper_svaneti",
+      "uuid": "378b1d76-d40a-5378-a2ff-7dd8c31f21dd",
+      "unesco_id": "709",
+      "names": {
+        "en": "Upper Svaneti",
+        "fr": "Haut Svaneti",
+        "es": "Alto Svaneti",
+        "ru": "Верхняя Сванетия",
+        "ar": "منطقة سفانيتي العليا",
+        "zh": "上斯瓦涅季"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GEO": {
+            "name": "Georgia",
+            "iso2": "GE",
+            "iso3": "GEO"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region.",
+          "fr": "Préservée par un long isolement, la région du Haut Svaneti, dans le Caucase, offre l'image exceptionnelle d'un paysage de montagne aux villages d'apparence médiévale, toujours dominés par leurs tours-maisons. Le village de Chazhashi compte encore plus de deux cents de ces constructions très originales destinées en même temps à l'habitation et à la défense contre les envahisseurs qui menaçaient la région.",
+          "es": "Preservada gracias a su prolongado aislamiento, la región caucasiana del Alto Svaneti posee un paisaje de montaña excepcional y numerosas aldeas características de la Edad Media con casas fuertes provistas de torres. La aldea de Chazhashi cuenta todavía con más de doscientas de estas edificaciones originales, destinadas a servir de viviendas y de fuertes para defenderse contra los invasores que amenazaban la región.",
+          "ru": "Этот район Кавказа, сохранившийся благодаря своему изолированному местоположению , демонстрирует уникальное сочетание высокогорного пейзажа и деревень, сберегших свой средневековый облик. В местных селениях сохранилось множество необычных строений – это каменные дома-башни, которые использовались одновременно как жилье и как сторожевые посты для защиты от частых вторжений.",
+          "ar": "تعكس منطقة سفانيتي العليا، في القوقاز، والتي تمّ الحفاظ عليها بفضل عزلة طويلة، صورةً استثنائية لصورة جبل لا تزال فيه القرى على أشكالها خلال القرون الوسطى، ولا تزال البيوت-الأبراج فيها تسيطر على هندستها. قرية شزهاشي مثلا، تضمّ أكثر من مائتين من هذه الإنشاءات التي تتّسم بغاية من الابتكار والمخصّصة في آن للسكن وللدفاع ضد الغزاة الذين كانوا يهددون المنطقة.",
+          "zh": "高加索的上斯瓦涅季是一处有典型中世纪村落和塔状房屋的山地景区，由于长期与世隔绝而得以保存。恰扎西村庄(village of Chazhashi)至今还有200处这种房屋保持原貌，这些房屋既是当时人们的住所，也是防御当时该地区入侵者的哨所。"
+        },
+        "full": "Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region.",
+        "justification": "Brief synthesis Preserved by its long-lasting geographical isolation, the mountain landscape of the Upper Svaneti region is an exceptional example of mountain scenery with medieval villages and tower houses. The property occupies the upper reaches of the lnguri River Basin between the Caucasus and Svaneti ranges. It consists of several small villages forming a community that are dominated by the towers and situated on the mountain slopes, with a natural environment of gorges and alpine valleys and a backdrop of snow-covered mountains. The most notable feature of the settlements is the abundance of towers. The village of Chazhashi in Ushguli community, situated at the confluence of the lnguri and Black Rivers, has preserved more than 200 medieval tower houses, churches and castles. The land use and settlement structure reveal the continued dwelling and building traditions of local Svan people living in harmony with the surrounding natural environment. The origins of Svaneti tower houses go back to prehistory. Its features reflect the traditional economic mode and social organization of Svan communities. These towers usually have three to five floors, and the thickness of the walls decreases, giving the towers a slender, tapering profile. The houses themselves are usually two-storeyed; the ground floor is a single hall with an open hearth and accommodation for both people and domestic animals, the latter being separated by a wooden partition, which is often lavishly decorated. A corridor annex helped the thermal insulation of the building. The upper floor was used by the human occupants during summer, and also served as a store for fodder and tools. A door at this level provided access to the tower, which was also connected with the corridor that protected the entrance. The houses were used both as dwellings and as defence posts against the invaders who plagued the region. The property is also notable for the monumental and minor arts. The mural paintings are outstanding examples of Renaissance painting in Georgia. Criterion (iv): The region of Upper Svaneti is an outstanding example of an exceptional mountain landscape composed of highly preserved villages with unique defensive tower houses, examples of ecclesiastical architecture and arts of medieval origin. Criterion (v): The region of Upper Svaneti is an outstanding landscape that has preserved to a remarkable degree its original medieval appearance notable for its fragile traditional human settlements and land-use patterns. Integrity The elements conveying the Outstanding Universal Value of Upper Svaneti are included within the boundaries of the property and its buffer zone. The exceptional medieval landscape, with its traditional settlement patterns, architecture and land use forms, ensures the representation of the property's significance and has retained its original appearance and substance to a great extent. The architectural elements of the property have maintained the medieval material and most of them have retained their original use and function as well as the relationship with the surrounding environment. Authenticity All elements credibly express the Outstanding Universal Value of the property as they retain their authentic medieval form and distribution of traditional settlement and land use patterns, landscape setting, design of architectural typology, and they preserve to a high degree original material as well as the functions of dwelling and ecclesiastical structures. The interaction between humans and nature in the landscape is completely authentic and of high importance. The geographical location and setting of this exceptional medieval landscape highly contribute to preservation of the forms of local intangible heritage, such as traditions, customs, beliefs, rituals of everyday life, language and folklore of the Svan community. The harsh environmental conditions, lack of access during long winter periods, and inappropriate repair techniques applied to maintain the traditional structures often challenge the authenticity of material and the state of conservation of the components of the property. Protection and management requirements The property has been designated as Ushguli-Chazhashi Museum Reserve since 1971. In the Soviet period the boundaries of the Strict Protection and Protection Zones were also defined. Due to several changes of cultural heritage legislation in the last 20 years, the boundaries of the protected landscape have changed. Currently the landscape is protected within 1 km radius around Chazhashi village, the component of the World Heritage property, as well as within 500 m around national monuments. This zone represents the legally protected buffer zone of the property with strict limitations for development activities. The individual architectural elements as well as entire villages of the Ushguli community (Chazhashi, Jibiani, Chvibiani and Murk’meli) remain listed as national monuments under the National Law on Cultural Heritage. The law prohibits any interventions on monuments without a prior permit from relevant state authorities and at the same time provides the highest level of protection zoning for these structures as to the elements of the World Heritage property. Other national laws in specific circumstances also apply. The overall management and monitoring is implemented by the National Agency for Cultural Heritage Preservation of Georgia and its division - Parmen Zakaraia Nokalakevi Architectural-Archaeological Museum-Reserve. Due to the severe weather conditions that isolate the region in winter and the lack of financial resources it is difficult to implement regular monitoring missions at the site. The severe climatic conditions as well as insufficient conservation and management capacities remain among the risks to the property. There is no Management Plan enforced. The local population and its traditional system of community management remain the key factors in the property management. ICOMOS Georgia has actively worked on the different issues of Upper Svaneti cultural heritage and particularly on the site of Chazhashi village. In 2000-2001 a multidisciplinary research was implemented to study the different features of the site, including the community and social issues. Based on this research the Conservation Plan and a Site Development Strategy were prepared. These were followed by the rehabilitation-restoration projects for the historical buildings of the Chazhashi village."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            4,
+            5
+          ],
+          "display": "(iv)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.06,
+          "square_km": 0.01,
+          "square_miles": 0.004,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://whc.unesco.org/document/112638/site_0709_0001.JPG",
+          "filename": null,
+          "dimensions": null,
+          "available": true,
+          "source": "gallery_first"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112638/site_0709_0001.JPG",
+            "https://whc.unesco.org/document/112640/site_0709_0002.JPG",
+            "https://whc.unesco.org/document/112642/site_0709_0003.JPG",
+            "https://whc.unesco.org/document/112644/site_0709_0004.JPG",
+            "https://whc.unesco.org/document/112646/site_0709_0005.JPG",
+            "https://whc.unesco.org/document/112648/site_0709_0006.JPG",
+            "https://whc.unesco.org/document/112650/site_0709_0007.JPG",
+            "https://whc.unesco.org/document/112652/site_0709_0008.jpg",
+            "https://whc.unesco.org/document/112654/site_0709_0009.JPG",
+            "https://whc.unesco.org/document/112656/site_0709_0010.jpg",
+            "https://whc.unesco.org/document/112658/site_0709_0011.jpg",
+            "https://whc.unesco.org/document/125278/site_0709_0014.jpg",
+            "https://whc.unesco.org/document/125279/site_0709_0015.jpg",
+            "https://whc.unesco.org/document/125280/site_0709_0016.jpg",
+            "https://whc.unesco.org/document/125281/site_0709_0017.jpg",
+            "https://whc.unesco.org/document/125282/site_0709_0018.jpg",
+            "https://whc.unesco.org/document/125283/site_0709_0019.jpg"
+          ],
+          "count": 17
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Upper Svaneti",
+            "ref": "709",
+            "latitude": 42.914,
+            "longitude": 43.009
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/709",
+        "unesco_documents": "https://whc.unesco.org/en/list/709/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/709/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/709/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Upper Svaneti Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region. Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region. Georgia Europe and North America Cultural"
+    },
+    {
+      "site_key": "gelati_monastery",
+      "uuid": "793230ff-b7be-523a-9a90-a51d261e9ef6",
+      "unesco_id": "710",
+      "names": {
+        "en": "Gelati Monastery",
+        "fr": "Monastère de Ghélati",
+        "es": "Monasterio de Ghelati",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "GEO": {
+            "name": "Georgia",
+            "iso2": "GE",
+            "iso3": "GEO"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia.",
+          "fr": "Le Monastère de Ghélati, situé à l’ouest de la Géorgie et fondé en 1106, est un chef-d’œuvre de « l’Âge d’or » de la Géorgie médiévale, période de puissance politique et d’essor économique entre le XIe et le XIIIe siècles. Le monastère se caractérise par des façades de grands blocs de pierre taillés et polis, des proportions équilibrées et la décoration extérieure des arcades aveugles. Le monastère de Ghélati, l’un des plus grands monastères orthodoxes médiévaux, était aussi un centre de science et d’éducation, et l’académie installée dans son enceinte était l’un des plus importants centres de culture de l’ancienne Géorgie.",
+          "es": "Situado al oeste del país, este cenobio se fundó en 1106 y es una obra maestra de la arquitectura medieval de la “edad de oro” del poder político y económico de Georgia (siglos XI a XIII). El edificio monacal se caracteriza por sus fachadas construidas con grandes sillares pulimentados de proporciones equilibradas, así como por su ornamentación exterior con arcos ciegos. Ghelati fue uno de los monasterios ortodoxos más grandes de la Edad Media y además albergó en su recinto un centro docente y científico que lo convirtió en uno de los focos de irradiación cultural más importantes de la antigua Georgia.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia.",
+        "justification": "Brief synthesis On the lower southern slopes of the mountains of the Northern Caucasus, Gelati Monastery reflects the 'golden age' of medieval Georgia, a period of political strength and economic growth between the reigns of King David IV 'the Builder' (1089-1125) and Queen Tamar (1184-1213). It was David who, in 1106 began building the monastery near his capital Kutaisi on a wooded hill above the river Tskaltsitela. The main church was completed in 1130 in the reign of his son and successor Demetré. Further churches were added to the monastery throughout the 13th and early 14th centuries. The monastery is richly decorated with mural paintings from the 12th to 17th centuries, as well as a 12th century mosaic in the apse of the main church, depicting the Virgin with Child flanked by archangels. Its high architectural quality, outstanding decoration, size, and clear spatial quality combine to offer a vivid expression of the artistic idiom of the architecture of the Georgian “Golden Age” and its almost completely intact surroundings allow an understanding of the intended fusion between architecture and landscape. Gelati was not simply a monastery: it was also a centre of science and education, and the Academy established there was one of the most important centres of culture in ancient Georgia. King David gathered eminent intellectuals to his Academy such as Johannes Petritzi, a Neo-Platonic philosopher best known for his translations of Proclus, and Arsen Ikaltoeli, a learned monk, whose translations of doctrinal and polemical works were compiled into his Dogmatikon, or book of teachings, influenced by Aristotelianism. Gelati also had a scriptorium were monastic scribes copied manuscripts (although its location is not known). Among several books created there, the best known is an amply illuminated 12th century gospel, housed in the National Centre of Manuscripts. As a royal monastery, Gelati possessed extensive lands and was richly endowed with icons, including the well-known gold mounted Icon of the Virgin of Khakhuli (now housed in the Georgian National Museum) and at its peak, it reflected the power and high culture of Eastern Christianity. Criterion (iv): Gelati Monastery is the masterpiece of the architecture of the “Golden Age” of Georgia and the best representative of its architectural style, characterized by the full facing of smoothly hewn large blocks, perfectly balanced proportions, and the exterior decoration of blind arches. The main church of the monastery is one of the most important examples of the cross-in-square architectural type that had a crucial role in the East Christian church architecture from the 7th century onwards. Gelati is one of the largest Medieval Orthodox monasteries, distinguished for its harmony with its natural setting and a well thought-out overall planning concept. The main church of the Gelati Monastery is the only Medieval monument in the larger historic region of Eastern Asia Minor and the Caucasus that still has well-preserved mosaic decoration, comparable with the best Byzantine mosaics, as well as having the largest ensemble of paintings of the middle Byzantine, late Byzantine, and post-Byzantine periods in Georgia, including more than 40 portraits of kings, queens, and high clerics and the earliest depiction of the seven Ecumenical Councils. Integrity The whole monastic precinct is included in the property and contains all the main 12th century buildings as well as those added in the 13th century. All the attributes necessary to express the Outstanding Universal Value are present and included in the area. No important original feature of the monastery from the 12th and 13th centuries have been lost during the centuries, and its landscape setting remains largely intact. Not all buildings are in a good state of conservation. Some development pressures exist, in the buffer zone and the wider setting of the property but the level of threats is low and the processes are currently under control. Authenticity Overall, the architectural forms, spatial arrangement and decoration fully convey their value. For a long period, major parts of the mural paintings were in a bad state of conservation. With the repair of the roofs, the process of degradation has been slowed down and restoration work undertaken although some remain vulnerable. The Academy building which was roofless in 1994 at the time of inscription was re-roofed with reversible material in 2009. The extensive buffer zone allows a full appreciation of the harmony between the enclosed monastery and its natural setting. Protection and management requirements Gelati monastery has been a Listed Monument of National Significance since the Soviet period and was listed in the Georgian National Register of Monuments by presidential decree in 2006. The cultural protection area was enlarged beyond Gelati Monastery to encompass the buffer zone in a Decree of the Minister of Culture and Monument Protection in 2014. The buffer zone is protected for its monuments but also for visual attributes. The natural values of the surrounding landscape are regulated by the Forest Code of Georgia, the Law on Soil Protection, the Law on Environmental Protection and the Water law that constitute the legal framework for the management of the forests and the rivers in the area. Applications for new constructions or reconstructions, including the infrastructure and earthworks within the buffer zone require the approval of the Cultural Heritage Protection Council, Section for Cultural Heritage Protected Zones, and the Agency of Urban Heritage. Conservation work is guided by the Conservation Master Plan, produced by the Ministry of Culture, Monuments Protection and Sports of Georgia in collaboration with the Orthodox Church of Georgia. This plan covers conservation of the built structures as well as proposals to support the revival of monastic life that started in the 1990s and the needs of visitors. Adequate resources for long-term conservation programmes need to be sustained. A system of documentation for all conservation and restoration work and tri-dimensional measuring and monitoring of the overall stability of the various monastic buildings need to be put in place. A Memorandum on Collaboration on Cultural Heritage Issues between the Georgian Apostolic Autocephaly Orthodox Church and the Ministry of Culture and Monument Protection of Georgia has been agreed for all properties of the church. Day to day management of the property is entrusted to the monastic community who live in the property. Longer term interventions are implemented by the National Agency for Cultural Heritage Preservation of Georgia. Its local representative agency is the Kutaisi Historical Architectural Museum-Reserve who is also responsible for visitor reception. The Management Plan 2017-2021 reflects contributions of the Church, and relevant government bodies and community groups who were involved in the consultation process. It aims to set out a shared vision for the property. The Plan was developed in harmony with the Conservation Master Plan, with the Imereti Tourism development strategy, and with the 2014 management plan for the Imereti Protected Areas that includes the valley and canyon of the Tskaltsitela River in the buffer zone. It needs approval to become fully operational and enforceable by relevant authorities. A Management Committee for the property remains to be appointed and it is necessary for key roles and responsibilities to be established."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 4.2,
+          "square_km": 0.04,
+          "square_miles": 0.017,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1994,
+          "all_dates": [
+            1994,
+            2017
+          ],
+          "extensions": [
+            2017
+          ],
+          "timeline": [
+            {
+              "year": 1994,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1e3713479f1e49a30e9863e253967d3d",
+          "filename": "site_0710_0036.jpg",
+          "dimensions": {
+            "width": 1000,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/143850/site_0710_0036.jpg",
+            "https://whc.unesco.org/document/143851/site_0710_0037.jpg",
+            "https://whc.unesco.org/document/143852/site_0710_0038.jpg",
+            "https://whc.unesco.org/document/143854/site_0710_0040.jpg",
+            "https://whc.unesco.org/document/143855/site_0710_0041.jpg",
+            "https://whc.unesco.org/document/143856/site_0710_0042.jpg",
+            "https://whc.unesco.org/document/143857/site_0710_0043.jpg",
+            "https://whc.unesco.org/document/143858/site_0710_0044.jpg",
+            "https://whc.unesco.org/document/143859/site_0710_0045.jpg",
+            "https://whc.unesco.org/document/112662/site_0710_0001.jpg",
+            "https://whc.unesco.org/document/112664/site_0710_0002.jpg",
+            "https://whc.unesco.org/document/133884/site_0710_0007.jpg",
+            "https://whc.unesco.org/document/133885/site_0710_0008.jpg",
+            "https://whc.unesco.org/document/133886/site_0710_0009.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Gelati Monastery",
+            "ref": "710bis",
+            "latitude": 42.2947222222,
+            "longitude": 42.7683333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/710",
+        "unesco_documents": "https://whc.unesco.org/en/list/710/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/710/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/710/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 31,
+        "inscription_year": 1994
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Gelati Monastery Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia. Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia. Georgia Europe and North America Cultural"
+    }
+  ]
+}

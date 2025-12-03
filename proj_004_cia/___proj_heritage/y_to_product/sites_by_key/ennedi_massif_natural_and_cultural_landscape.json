@@ -1,0 +1,194 @@
+{
+  "site_key": "ennedi_massif_natural_and_cultural_landscape",
+  "uuid": "2d0ca44a-ca1e-5f00-8fb7-c2a5d75cb2c0",
+  "unesco_id": "1475",
+  "names": {
+    "en": "Ennedi Massif: Natural and Cultural Landscape",
+    "fr": "Massif de l’Ennedi : paysage naturel et culturel",
+    "es": "Macizo de Ennedi, paisaje cultural y natural",
+    "ru": "Природно-культурный ландшафт горного плато Эннеди",
+    "ar": "جبال الإندي: موقع طبيعي وثقافي",
+    "zh": "Ennedi 高地：自然和文化景观"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "TCD": {
+        "name": "Chad",
+        "iso2": "TD",
+        "iso3": "TCD"
+      }
+    },
+    "region": {
+      "name": "Africa",
+      "code": "AFR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "In the northeast of the country, the sandstone Ennedi Massif has been sculpted over time by water and wind erosion into a plateau featuring canyons and valleys that present a spectacular landscape marked by cliffs, natural arches and pitons. In the largest canyons, the permanent presence of water plays an essential role in the Massif’s ecosystem, sustaining flora and fauna as well as human life. Thousands of images have been painted and carved into the rock surface of caves, canyons and shelters, presenting one of the largest ensembles of rock art in the Sahara.",
+      "fr": "Situé dans le nord-est du pays, le massif de l'Ennedi est formé de grès. Avec le temps, l'érosion de l'eau et du vent a sculpté ce plateau, découpant des canyons et des vallées offrant des paysages spectaculaires composés de falaises, d'arches naturelles et de pitons rocheux. Dans les plus grands canyons, les eaux permanentes jouent un rôle capital dans l’écosystème du massif, et permettant la pérennité de la faune, de la flore et des êtres humains. Sur les surfaces rocheuses des grottes, des canyons et des abris, des milliers d'images ont été peintes et gravées, constituant l'une des plus grandes collections d'art rupestre du Sahara.",
+      "es": "Situado al noreste del país, el macizo de Ennedi está formado por arenisca. Con el tiempo, la erosión del agua y el viento esculpieron esta meseta, formando gargantas y valles y creando paisajes espectaculares con arcos y pilares naturales de piedra, picos y barrancos. En los cañones más grandes, las aguas perpetuas desempeñan un papel capital en el ecosistema y tienen una importancia fundamental para la supervivencia de la fauna, la flora y la población humana. En las superficies rocosas de las grutas, cañones y refugios hay millones de imágenes pintadas y grabadas que constituyen una de las mayores colecciones de arte rupestre del Sáhara.",
+      "ru": "Горное плато Эннеди, расположенное на северо-востоке страны, сформировано песчаниками. С течением времени водная и ветровая эрозия придали этому плато особые очертания, сформировав каньоны и долины и создав красочные пейзажи с природными арками, скальными образованиями в виде столбов, остроконечными вершинами и утёсами. Вода, постоянно скапливающаяся в самых больших каньонах, играет важнейшую роль в экосистеме и имеет решающее значение для выживания не только флоры и фауны, но и людей. На скалистых стенах гротов, каньонов и убежищ нанесены и выгравированы тысячи изображений, составляющих одну из крупнейших коллекций наскального искусства Сахары.",
+      "ar": "تقع سلسلة الجبال المكوّنة من صخور رمليّة شمال شرق البلاد. وأدى ارتطام المياه والرياح بها على مرّ السنين إلى نحتها وتغيير هيأتها ما كوّن الأخاديد والوديان وأدّى إلى تشكيل مناظر مذهلة من أقواس طبيعيّة وأعمدة صخريّة وقمم ومنحدرات. وتلعب المياه الراكدة في الأخاديد الكبرى دوراً رئيسيّاً في الحفاظ على النظام البيئي هناك ناهيك عن أهميتها الكبيرة في استمرار الحياة النباتيّة والحيوانيّة والبشريّة في المنطقة. هذا وهناك آلاف الصور المرسومة والمنحوتة على سطوح الكهوف الصخريّة. وتعتبر هذه الصور واحدة من أكبر المجموعات الفنيّة الصخرية في الصحراء.",
+      "zh": "砂岩结构的Ennedi 高地位于乍得的东北部，长年的风力和水力侵蚀将这里塑造成以峡谷和河谷为特征的高原，呈现出壮观的峭壁、石拱和岩钉景观。在这些巨大的峡谷中，水的长久存在对于支撑高地的生态系统，繁育植物群和苔藓群，以及保障人类生活，发挥着极其重要的作用。在洞穴、峡谷、居所的岩石上绘制着或雕刻着数以千计的图画，展示着撒哈拉地区最大规模的岩画艺术。"
+    },
+    "full": "In the northeast of the country, the sandstone Ennedi Massif has been sculpted over time by water and wind erosion into a plateau featuring canyons and valleys that present a spectacular landscape marked by cliffs, natural arches and pitons. In the largest canyons, the permanent presence of water plays an essential role in the Massif’s ecosystem, sustaining flora and fauna as well as human life. Thousands of images have been painted and carved into the rock surface of caves, canyons and shelters, presenting one of the largest ensembles of rock art in the Sahara.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Mixed",
+      "id": 3
+    },
+    "criteria": {
+      "cultural": [
+        3
+      ],
+      "natural": [
+        7,
+        9
+      ],
+      "all": [
+        3,
+        7,
+        9
+      ],
+      "display": "(iii)(vii)(ix)",
+      "count": 3,
+      "type": "Mixed"
+    },
+    "area": {
+      "hectares": 2441200,
+      "square_km": 24412.0,
+      "square_miles": 9879.201,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 2016,
+      "all_dates": [
+        2016
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 2016,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a6a884ea2e3e4c29228a1ad76f950e8e",
+      "filename": "site_1475_0001.jpg",
+      "dimensions": {
+        "width": 3648,
+        "height": 2736
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/141100/site_1475_0001.jpg",
+        "https://whc.unesco.org/document/141101/site_1475_0002.jpg",
+        "https://whc.unesco.org/document/141102/site_1475_0003.jpg",
+        "https://whc.unesco.org/document/141103/site_1475_0004.jpg",
+        "https://whc.unesco.org/document/141104/site_1475_0005.jpg",
+        "https://whc.unesco.org/document/141105/site_1475_0006.jpg",
+        "https://whc.unesco.org/document/141106/site_1475_0007.jpg",
+        "https://whc.unesco.org/document/141107/site_1475_0008.jpg",
+        "https://whc.unesco.org/document/141108/site_1475_0009.jpg",
+        "https://whc.unesco.org/document/141109/site_1475_0010.jpg",
+        "https://whc.unesco.org/document/141110/site_1475_0011.jpg",
+        "https://whc.unesco.org/document/141111/site_1475_0012.jpg",
+        "https://whc.unesco.org/document/141112/site_1475_0013.jpg",
+        "https://whc.unesco.org/document/141113/site_1475_0014.jpg",
+        "https://whc.unesco.org/document/141114/site_1475_0015.jpg",
+        "https://whc.unesco.org/document/141115/site_1475_0016.jpg",
+        "https://whc.unesco.org/document/141116/site_1475_0017.jpg",
+        "https://whc.unesco.org/document/141117/site_1475_0018.jpg",
+        "https://whc.unesco.org/document/141118/site_1475_0019.jpg",
+        "https://whc.unesco.org/document/141119/site_1475_0020.jpg",
+        "https://whc.unesco.org/document/141120/site_1475_0021.jpg",
+        "https://whc.unesco.org/document/141121/site_1475_0022.jpg",
+        "https://whc.unesco.org/document/141122/site_1475_0023.jpg",
+        "https://whc.unesco.org/document/141123/site_1475_0024.jpg",
+        "https://whc.unesco.org/document/141124/site_1475_0025.jpg",
+        "https://whc.unesco.org/document/141125/site_1475_0026.jpg",
+        "https://whc.unesco.org/document/141126/site_1475_0027.jpg",
+        "https://whc.unesco.org/document/141127/site_1475_0028.jpg",
+        "https://whc.unesco.org/document/141128/site_1475_0029.jpg",
+        "https://whc.unesco.org/document/141129/site_1475_0030.jpg",
+        "https://whc.unesco.org/document/148401/site_1475_0031.jpg",
+        "https://whc.unesco.org/document/148402/site_1475_0032.jpg",
+        "https://whc.unesco.org/document/148403/site_1475_0033.jpg",
+        "https://whc.unesco.org/document/148404/site_1475_0034.jpg",
+        "https://whc.unesco.org/document/148405/site_1475_0035.jpg",
+        "https://whc.unesco.org/document/148406/site_1475_0036.jpg",
+        "https://whc.unesco.org/document/148407/site_1475_0037.jpg",
+        "https://whc.unesco.org/document/148409/site_1475_0038.jpg",
+        "https://whc.unesco.org/document/148411/site_1475_0039.jpg",
+        "https://whc.unesco.org/document/148413/site_1475_0040.jpg"
+      ],
+      "count": 40
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Ennedi Massif: Natural and Cultural Landscape",
+        "ref": "1475",
+        "latitude": 17.0416666667,
+        "longitude": 21.8627777778
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/1475",
+    "unesco_documents": "https://whc.unesco.org/en/list/1475/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/1475/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/1475/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Africa",
+    "geographic_type": "Desert",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "2010s",
+    "era": "Contemporary Period (2010-2019)",
+    "age_years": 9,
+    "inscription_year": 2016
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Ennedi Massif: Natural and Cultural Landscape In the northeast of the country, the sandstone Ennedi Massif has been sculpted over time by water and wind erosion into a plateau featuring canyons and valleys that present a spectacular landscape marked by cliffs, natural arches and pitons. In the largest canyons, the permanent presence of water plays an essential role in the Massif’s ecosystem, sustaining flora and fauna as well as human life. Thousands of images have been painted and carved into the rock surface of caves, canyons and shelters, presenting one of the largest ensembles of rock art in the Sahara. In the northeast of the country, the sandstone Ennedi Massif has been sculpted over time by water and wind erosion into a plateau featuring canyons and valleys that present a spectacular landscape marked by cliffs, natural arches and pitons. In the largest canyons, the permanent presence of water plays an essential role in the Massif’s ecosystem, sustaining flora and fauna as well as human life. Thousands of images have been painted and carved into the rock surface of caves, canyons and shelters, presenting one of the largest ensembles of rock art in the Sahara. Chad Africa Mixed"
+}

@@ -1,0 +1,1017 @@
+{
+  "country": {
+    "code": "AZE",
+    "name": "Azerbaijan"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 4,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "cultural_landscape_of_khinalig_people_and_koc_yolu_transhumance_route",
+      "uuid": "a6ba41d6-8eb1-5e86-8396-aa73618898c5",
+      "unesco_id": "1696",
+      "names": {
+        "en": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+        "fr": "Le paysage culturel du peuple Khinalig et la route de transhumance « Köç Yolu »",
+        "es": "Paisaje cultural del pueblo khinalig y ruta de trashumancia “Köç Yolu”",
+        "ru": "Культурный ландшафт народа Хыналыг и маршрут перегона скота «Кёч-Йолу»",
+        "ar": "المشهد الثقافي لقرية خيناليق وطريق الانتجاع كوتش يولو",
+        "zh": "希纳利格人文化景观和移牧路线"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AZE": {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "iso3": "AZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions.",
+          "fr": "Ce paysage culturel est composé du village de haute montagne de Khinalig situé au nord de l’Azerbaïdjan, des pâturages d’été de haute altitude et des terrasses agricoles dans les montagnes du Grand Caucase, des pâturages d’hiver dans les plaines des basses terres du centre de l’Azerbaïdjan, et de la route de transhumance saisonnière longue de 200 kilomètres appelée Köç Yolu (« route de migration »). Le village de Khinalig abrite la population semi-nomade des Khinalig, dont la culture et le mode de vie sont définis par la migration saisonnière verticale entre les pâturages d’été et d’hiver, et qui conserve l’ancienne coutume de la transhumance verticale sur de longues distances. Le réseau essentiellement évolutif des anciennes routes, les pâturages temporaires et les sites de campement, les mausolées et les mosquées illustrent un système éco-social durable adapté à des conditions environnementales extrêmes.",
+          "es": "Este paisaje cultural está compuesto por el pueblo de alta montaña Khinalig, en el norte de Azerbaiyán; los pastizales de verano de gran altitud y las terrazas agrícolas en las montañas del Gran Cáucaso; los pastizales de invierno en las llanuras bajas en el centro de Azerbaiyán y la ruta de transhumancia estacional de 200 kilómetros de longitud llamada Köç Yolu (Ruta de migración). El pueblo de Khinalig es el hogar de la comunidad seminómada Khinalig, cuya cultura y estilo de vida se definen por la migración estacional entre pastizales de verano e invierno, y porque mantienen la antigua forma de trashumancia vertical a larga distancia. La red orgánica, que incluye rutas antiguas, pastizales temporales y sitios de campamento, mausoleos y mezquitas, ilustra un sistema ecosocial sostenible adaptado a condiciones ambientales extremas.",
+          "ru": "Культурный ландшафт состоит из высокогорного села Хыналыг на севере Азербайджана, высокогорных летних пастбищ и сельскохозяйственных террас в горах Большого Кавказа, зимних пастбищ на низменных равнинах в центральной части Азербайджана и соединяющего их 200-километрового сезонного маршрута перегона скота «Кёч-Йолу» («Путь передвижения»). В селе Хыналыг проживает полукочевой народ Хыналыг, культура и образ жизни которого определяются сезонными миграциями между летними и зимними пастбищами и сохраняют древний способ вертикального перегона скота на большие расстояния. Органически сложившаяся сеть, включающая древние маршруты, временные пастбища и стоянки, мавзолеи и мечети, демонстрирует устойчивую экосоциальную систему, адаптированную к экстремальным условиям окружающей среды.",
+          "ar": "يضم هذا المشهد الثقافي قرية خيناليق المتربعة على قمم الجبال في شمال أذربيجان، فضلاً عن المراعي الصيفية الموجودة على ارتفاعات شاهقة والمدرجات الزراعية في جبال القوقاز الكبرى، والمراعي الشتوية في السهول المنخفضة في وسط أذربيجان، وطريق الانتجاع الموسمي، كوتش يولو (طريق الهجرة)، الممتد على طول 200 كيلومتر، تؤوي قرية خيناليق شعب الخيناليق شبه الرحل، الذين يستمدون ثقافتهم وأسلوب حياتهم من الهجرة الموسمية بين مراعي الصيف والشتاء، والذين لا يزالوا محافظين على الطريقة القديمة للانتجاع الرأسي لمسافات طويلة. تجسّد الشبكة، المتطورة بكل أقسامها بما في ذلك الطرق القديمة والمراعي المؤقتة ومواقع التخييم والأضرحة والمساجد، نظاماً بيئيًا اجتماعيًا مستدامًا يتكيف مع الظروف البيئية القاسية.",
+          "zh": "这片文化景观包括阿塞拜疆北部的希纳利格（Khinalig）高山村庄、大高加索山脉中的高海拔夏季牧场和梯田、阿塞拜疆中部的低地平原冬季牧场，以及连接这些地区的长达200公里季节性移牧路线（Köç Yolu）。希纳利格村是半游牧的希纳利格人的家园，他们保留着古老的长距离垂直移牧，其文化和生活方式随夏季和冬季牧场之间的季节性迁徙而变。古道、临时牧场、扎营地、墓地、清真寺组成有机发展的网络，展示了与极端环境条件相适应的可持续生态社会系统。"
+        },
+        "full": "This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions.",
+        "justification": "Brief synthesis The Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route is a continuing cultural landscape comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal vertical migration between summer (yaylaqs) and winter (qishlaqs) pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network of ancient routes, land-use features, temporary pastures and camping sites, irrigation systems, springs and wells, mausoleums, mosques, cemeteries, bridges, and infrastructure for animal husbandry illustrate a sustainable eco-social system adapted to extreme and diverse environmental conditions that has served to build and retain transhumance as the dominant economy. Criterion (iii): The Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route is an exceptional living testimony to the long-distance vertical transhumance cultural tradition of the Khinalig people, a tradition of communal transhumance in the Caucasus geo-cultural region. The property demonstrates a significant degree of preservation of its ancestral semi-nomadic eco-social system. Criterion (v): The Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route is an outstanding example of a long-standing traditional and sustainable land use that reflects the semi-nomadic Khinalig transhumance culture and lifestyle. Animal husbandry remains the dominant economy, though a highly vulnerable one. The range of physical features across a great diversity of landscapes illustrates an adaptation to extreme environmental conditions and the resilience of semi-nomadic socio-economic structures based on the sustainable use of natural resources. Integrity All the attributes necessary to convey the Outstanding Universal Value of the property are located within its boundaries. These attributes include the village of Khinalig, its surrounding landscape of summer pastures, agricultural terraces, and related infrastructure, and the network of ancient routes, traditional irrigation systems, places of worship, and archaeological sites. The attributes also include the architectural and infrastructural elements of the Köç Yolu route, the winter pastures and their infrastructure, and intangible attributes such as the collective planning, organisation, and implementation of transhumance practices, as manifested in architectural, infrastructural, and landscape elements, that are of vital importance for the practice of transhumance by the Khinalig people. The property is of adequate size to ensure the complete representation of the features and processes that convey its significance. It is highly vulnerable to the adverse effects of development and neglect. Authenticity The Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route is authentic in terms of its forms and designs, materials and substance, uses and functions, locations and settings, traditions and management systems, and language and other forms of intangible heritage. While some changes have had an impact on the authenticity of the forms and designs, materials and substance, and uses and functions of some parts of the property, the key attributes are largely authentic and convey the Outstanding Universal Value of the property. The socio-spatial organisation of communal transhumance remains authentic despite a previous socio-economic reorganisation; traditions of semi-nomadic communal life remain effective, and the Council of Elders continues to act as an informal self-governing body in charge of collective affairs such as the seasonal migration, turns for grazing, and shared use of water and pastures. Protection and management requirements Most of the property is protected at the highest level under the Constitution of the Republic of Azerbaijan and its normative laws such as the Law on Culture, the Law on Preservation of Historical and Cultural Monuments, and the Law on the Veterinary Control (for animal herding). Presidential Decrees and Decisions by the Cabinet of Ministers also play a role in protecting the cultural and natural heritage. A protective designation for the entire property through a single protected Reserve is being achieved by means of a Presidential Order. In addition to the legal protection instruments, there are traditional mechanisms for protecting and safeguarding the tangible and intangible aspects of the property. The property and its buffer zone are under the ownership of diverse public and private entities. The majority of the summer pastures, all the winter pastures, and the Köç Yolu transhumance route are owned by the State. The management system involves the Ministry of Culture, the State Tourism Agency and its subordinate Reserves Management Center, and the Khinalig Reserve. A new management entity for the property and its buffer zone will incorporate relevant sectoral government agencies, local governments, and local communities within a single participatory, cross-sectoral management framework. The management plan needs to be implemented. Its objectives and action plan are structured around the key aspects of the property, including the transhumance, land use, and intangible heritage. The existing informal communal management by the Council of Elders is planned to be integrated within the new management and coordination framework."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            5
+          ],
+          "display": "(iii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 44829.41,
+          "square_km": 448.29,
+          "square_miles": 181.418,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9a4269a727a6072722554460b2715024",
+          "filename": "site_1696_0001.jpg",
+          "dimensions": {
+            "width": 5315,
+            "height": 3547
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/200110/site_1696_0001.jpg",
+            "https://whc.unesco.org/document/200111/site_1696_0002.jpg",
+            "https://whc.unesco.org/document/200112/site_1696_0003.jpg",
+            "https://whc.unesco.org/document/200113/site_1696_0004.jpg",
+            "https://whc.unesco.org/document/200114/site_1696_0005.jpg",
+            "https://whc.unesco.org/document/200115/site_1696_0006.jpg",
+            "https://whc.unesco.org/document/200116/site_1696_0007.jpg",
+            "https://whc.unesco.org/document/200117/site_1696_0008.jpg",
+            "https://whc.unesco.org/document/200118/site_1696_0009.jpg",
+            "https://whc.unesco.org/document/200119/site_1696_0010.jpg",
+            "https://whc.unesco.org/document/200120/site_1696_0011.jpg",
+            "https://whc.unesco.org/document/200121/site_1696_0012.jpg",
+            "https://whc.unesco.org/document/200122/site_1696_0013.jpg"
+          ],
+          "count": 13
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+            "ref": "1696",
+            "latitude": 40.7059,
+            "longitude": 48.8854
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1696",
+        "unesco_documents": "https://whc.unesco.org/en/list/1696/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1696/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1696/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions. This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions. Azerbaijan Europe and North America Cultural"
+    },
+    {
+      "site_key": "historic_centre_of_sheki_with_the_khans_palace",
+      "uuid": "7799c21e-1690-5d2e-b51b-9ad548bf7c25",
+      "unesco_id": "1549",
+      "names": {
+        "en": "Historic Centre of Sheki with the Khan’s Palace",
+        "fr": "Centre historique de Sheki avec le palais du Khan",
+        "es": "Centro histórico de Sheki con el Palacio del Kan",
+        "ru": "Исторический центр Шеки вместе с Ханским дворцом",
+        "ar": "مركز شاكي التاريخي وقصر خان الملكي",
+        "zh": "舍基历史中心及汗王宫殿"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AZE": {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "iso3": "AZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The historic city of Sheki is located at the foot of the Greater Caucasus Mountains and divided in two by the Gurjana River. While the older northern part is built on the mountain, its southern part extends into the river valley. Its historic centre, rebuilt after the destruction of an earlier town by mudflows in the 18th century, is characterized by a traditional architectural ensemble of houses with high gabled roofs. Located along important historic trade routes, the city's architecture is influenced by Safavid, Qadjar and Russian building traditions. The Khan Palace, in the northeast of the city, and a number of merchant houses reflect the wealth generated by silkworm breeding and the trade in silk cocoons from the late 18th to the 19th centuries.",
+          "fr": "La ville historique de Sheki est située au pied de la chaîne du Grand Caucase et divisée en deux par la rivière Gurjana. Tandis que la partie nord, plus ancienne, est bâtie sur la montagne, sa partie sud s’étend dans la vallée fluviale. Son centre historique, reconstruit après la destruction d’une ville antérieure par des coulées de boue au XVIIIe siècle, se caractérise par un ensemble architectural traditionnel de maisons à hauts toits en bâtière. Située le long d’importantes routes commerciales historiques, la ville possède une architecture influencée par les traditions de construction issues des règnes safavide, qadjar et russe. Le palais du Khan, au nord-est de la ville, ainsi que les diverses maisons de marchands, reflètent la richesse générée par l’élevage des vers à soie et le commerce des cocons de la fin du XVIIIe siècle au XIXe siècle.",
+          "es": "La ciudad histórica de Sheki está situada al pie de las montañas del Gran Cáucaso y dividida en dos por el río Gurjana. Mientras que la parte norte, más antigua, está construida sobre la montaña, la parte sur se extiende hasta el valle del río. Su centro histórico, reconstruido tras la destrucción de una ciudad anterior por los deslaves de lodo en el siglo XVIII, se caracteriza por un conjunto arquitectónico tradicional de casas con tejados a dos aguas de gran altura. Situada a lo largo de importantes rutas comerciales históricas, la ciudad posee una arquitectura influenciada por las tradiciones de construcción de los reinados de safávida, qadjar y ruso. El Palacio del Kan, en el noreste de la ciudad, así como las diversas casas de comerciantes, reflejan la riqueza generada por la cría de gusanos de seda y el comercio de capullos desde finales del siglo XVIII hasta el XIX.",
+          "ru": "Исторический город Шеки расположен у подножия гор Большого Кавказа и разделен на две части рекой Гурджана. Северная, более старая часть города построена на горе, а его южная часть простирается в долину реки. Исторический центр Шеки, восстановленный после разрушения в результате селей в XVIII веке, характеризуется традиционным архитектурным ансамблем домов с высокими остроконечными крышами. Расположенный вдоль важных исторических торговых путей, город был построен под влиянием сефевидских, каджарских и русских архитектурных традиций. Ханский дворец, расположенный на северо-востоке города, а также ряд купеческих домов отражают богатство Шеки, порожденное шелководством и торговлей шелковыми коконами с конца XVIII по XIX века.",
+          "ar": "تقع مدينة شاكي التاريخية عند سفح جبال القوقاز الكبرى ويمر وسطها نهر جرجانا قاسماً إياها إلى قسمين. وفي حين جرى بناء الجزء الشمالي من المدينة، وهو الجزء الأقدم فيها، على الجبل، فإن الجزء الجنوبي منها يمتد في وادي النهر. ويمتاز مركز المدينة التاريخي، الذي أعيد بناؤه بعد تدمير مدينة سابقة كانت قائمة مكانه جرّاء التدفقات الطينية في القرن الثامن عشر، بتشكيلة معمارية تقليدية من المنازل ذات الأسطح العالية الجملونية. وتمتلك المدينة، الواقعة على طول طرق تجارية تاريخية هامة، بما فيها من عناصر هندسية معمارية مستلهمة من التقاليد الإنشائية التي تعود للفترات الصفوية والقادرية والروسية. ويجسّد قصر خان، الواقع في شمال شرق المدينة، بالإضافة إلى المنازل التجّار المختلفة، الثروة الناتجة عن تربية دودة القز وتجارة الشرانق في الفترة الممتدة من أواخر القرن الثامن عشر وحتى القرن التاسع عشر.",
+          "zh": "古城舍基位于大高加索山脉脚下，古尔贾纳河穿城而过。历史更为久远的北部建在山上，南城则延伸至河谷。18世纪的泥石流毁坏了此前的古镇，如今的历史中心是之后重建的产物，其特征是拥有高山墙屋顶的传统建筑群。该城位于重要的古商路之上，其建筑受萨非、卡扎尔和俄罗斯建筑传统的影响。位于城区东北部的汗王宫殿和众多商人宅邸反映了从18世纪末到19世纪的蚕种和丝茧贸易带来的财富。"
+        },
+        "full": "The historic city of Sheki is located at the foot of the Greater Caucasus Mountains and divided in two by the Gurjana River. While the older northern part is built on the mountain, its southern part extends into the river valley. Its historic centre, rebuilt after the destruction of an earlier town by mudflows in the 18th century, is characterized by a traditional architectural ensemble of houses with high gabled roofs. Located along important historic trade routes, the city's architecture is influenced by Safavid, Qadjar and Russian building traditions. The Khan Palace, in the northeast of the city, and a number of merchant houses reflect the wealth generated by silkworm breeding and the trade in silk cocoons from the late 18th to the 19th centuries.",
+        "justification": "Brief synthesis The historic city of Sheki, lying in a forested valley of the eastern Caucasian mountains, has ancient origins, dating back to the 6th century BCE. The current historic centre results from its reconstruction, after a mud flood in 1772, on higher ground in a mountain valley east of the previous site. Due to the natural limitations of the valley, the historic area has retained its overall urban form, but has expanded within the original building lots, following traditional typological patterns. The traditional buildings with their typical high saddle roofs, deep verandas and gardens are the key characteristics of the historic urban landscape, within the spectacular setting of the forested mountain slopes. Being in contact with important trade routes, the region of Sheki has been subject to a variety of cultural influences. Christianity was here introduced as early as the 1st century CE, and Islam in the 7th century. During its recent history, it has been under various realms, including the Safavids, Ottomans and Qajars until the 18th century. In 1743, Sheki was established as the first and the most powerful of a series of Khanates in Caucasus, representing a new administrative system in the region. This was followed by Russian rule in the 19th century. These different cultures have also influenced the features of architecture, of which the Khan´s Palace is an outstanding example, also reflected in many of the interiors of wealthy merchant houses such as fireplaces (bukharas), decorations, and a vernacular type of windows (shabaka) etc. The fortress, the Khan Palace, and the caravanserais, reflect the important administrative and commercial role of the city. As a trading centre, in contact with Asia and Europe, and also as a part of Silk Road route, the principal economy of Sheki, from the ancient times, has been based on silkworm breeding, the trading of cocoons and raw silk, and the development of various crafts, which continue in the region. These activities were favoured due to its particularly suitable climatic conditions. At the same time, the morphology of the urban fabric and its growth patterns were a direct result of the topography of the site, and the economic developments and the activities related to the silk trade. Houses were built with high-pitched roofs for breeding the silkworms in the airy spacious attics. Extensive commercial relations with other regions that mainly included trades of silk products, triggered the building of new caravanserais, shops, public fountains, mosques, public baths, and storage buildings in a very short period of time after 1772. One caravanserai and some shops are still used by local people for various trade purposes. The urban pattern of the city of Sheki is determined by the water harvesting and management. The city is in the catchment area of ​​the Kish river in a space drained by streams that have been intercepted and transformed into a network of channels over time. Added to this water supply are the waters from mountain glaciers and meteoric glaciers. The hydraulic network is diversified, distinguishing the fresh and less potable waters according to the different origins: spring, rainwater and torrent. An elaborate distribution system manages the water network up to the residential houses and productive gardens, structuring the urban plot and the division into neighbouring areas. The cultivated plots, each with a house on one side, are a distinctive character of the city of Sheki. The gardens partly comprised of mulberry trees combined with their residential houses constituted a production system based on the series of operations related to the feeding and breeding of the silkworm and its processing. Thus, a type of ‘garden city’ was created in which the elements of aesthetic and symbolic value were integrated with functional and utilitarian characters. Criterion (ii): As the major cultural and commercial centre in the region, the Historic Centre of Sheki exhibits an important interchange of multiple cultural influences, which have their origin in its history over two millennia, but developed particularly under the Safavid, Ottoman and Qajar influences, and the later impact of Russian rule. Sheki in turn influenced a wider territory of Caucasus and beyond. The current urban form, which dates back to the new construction after the flood of 1772, continued earlier building traditions responding to the local climatic conditions, and the requirements of the traditional economy and crafts activitiesIn particular construction elements and details of Sheki’s domestic architecture, such as balconies, doors, arches, and fences, reflect oriental characteristics that later evolved under Russian influence. Sheki is also an exceptional testimony to the feudal system of the Caucasian khanates, which developed from 1743 to 1819, as expressed in the architecture of the Khan’s palaces, the interiors of wealthy merchant houses, and the fortifications. Criterion (v): Completely realized according to ancient rules, the Historic Centre of Sheki represents an extraordinary example of a planned productive ‘garden city’, as exemplified in its hydraulic water system for driving mills and irrigation, productive structures related to sericulture, and the peculiar organization of the houses aligned with their cultivated fields, all set within a forested landscape setting. Integrity The Historic Centre of Sheki contains all the elements that justify its Outstanding Universal Value. Together with its setting, the settlement forms a coherent ensemble that has also retained its visual integrity intact. The boundaries of the property contain all the planned historical city with its productive garden houses, fortifications and monuments such as the fortress, the Khan Palace, and the caravanserais, that together reflect the residential, administrative and commercial role of the city. The water system, repartition in neighbourhoods (mehelle) and many traditional activities are mainly still intact and efficient. These represent the complete range of the attributes of the property that reflect a planned productive ‘garden city’ capital of the Sheki Khanate and subsequent Russian rule. The integrity of the property is though vulnerable to new construction in the property and the lack of conservation of some historic buildings. Some newly built houses, modified residential buildings, and buildings that are in a critical condition all require varying degrees of immediate intervention. The Conservation Strategy guided by Restoration Manual will address the current shortcomings in the near future. Authenticity The Historic Centre of Sheki has retained its historical authenticity in relation to the intactness of its urban typology and overall form, and most private residences and some public buildings still reflect their former traditional use and functions. Sheki has also retained its traditional mechanisms for property maintenance and community involvement through neighbourhood representatives and a council of elders. The essential part of the monumental complexes are intact and are part of extensive conservation and restoration programmes, carried out and in progress. Despite the existence of some inappropriate interventions and use of modern materials that affect authenticity, the Restoration Manual will set out required standards and the use of traditional materials. The residential houses of Sheki have been gradually restored, many following traditional typological patterns of growth, but not all interventions have respected the authenticity of traditional materials, processes and design. 1,933 houses (71.6%) out of the 2,755 residential houses inside the property and its buffer zone maintain their authenticity having evolved over time according to functional transformations that do not affect the architectural typology or materials, or have minor changes, such as extensions. All the houses will be subject to preservation, guided through a Conservation Plan and a Restoration Manual. Protection and management requirements The Historic Centre of Sheki and the Khan’s Palace (120.5 ha) has been protected since 1967 as part of the “Yukhari Bash” State Historical and Architectural Reserve (283 ha) under the Law on the Protection of Historical and Cultural Monuments. It is also under strict protection within the general urban master plan of the city as a conservation area. The setting is protected at two levels, a buffer zone (146 ha) surrounds the property at up to 200 meters, and beyond that there is a much larger zone for terrain control. The buffer zone is legally part of the “Yukhari Bash” architectural reserve, while the zone for terrain control remains within the reserve’s buffer zone which is also protected by the law. The forested setting of the property needs to be protected not just for its environmental value but also for its visual and cultural value, as a support for the Outstanding Universal Value of the property. The Historic Centre of Sheki is under the management of the State Tourism Agency and its newly created Reserves Management Centre, together with other relevant stakeholders. The Action Plan on Conservation and Rehabilitation of Historical Centre of Sheki and the Restoration Manual are both resource and guidance documents, which will form the basis for the development of planning guidelines and stronger protection for individual buildings. This process must be carried out by involving private individuals and the population through incentives for the restoration carried out respecting the historical and architectural character of the place and the attributes of the Outstanding Universal Value. An overall Conservation Master Plan also needs to be developed. A management plan drafted in English will be adopted, implemented and translated, as envisaged in the Action Plan, and this will include strengthening the mandate and resources of the management team. Future management should strengthen the role of traditional governance structures, such as the Council of Elders, and the neighbourhood representatives in decision-making and management processes, and develop a tourism strategy to constrain the development of tourism facilities. There is also a need to develop a monitoring system focused both on the state of conservation of the property and the implementation of the management plan. As the property is in a zone of high seismic activity, its lower level is at high risk of serious floods, and its forested setting could be vulnerable to forest fires, a comprehensive approach to risk preparedness and mitigation needs to be developed in an Emergency Plan."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            5
+          ],
+          "display": "(ii)(v)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 120.5,
+          "square_km": 1.21,
+          "square_miles": 0.488,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1c8479ff85221b967928518f8d43a209",
+          "filename": "site_1549_0001.jpg",
+          "dimensions": {
+            "width": 3648,
+            "height": 2736
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/148541/site_1549_0001.jpg",
+            "https://whc.unesco.org/document/148542/site_1549_0002.jpg",
+            "https://whc.unesco.org/document/148543/site_1549_0003.jpg",
+            "https://whc.unesco.org/document/148544/site_1549_0004.jpg",
+            "https://whc.unesco.org/document/148545/site_1549_0005.jpg",
+            "https://whc.unesco.org/document/148546/site_1549_0006.jpg",
+            "https://whc.unesco.org/document/148547/site_1549_0007.jpg",
+            "https://whc.unesco.org/document/148548/site_1549_0008.jpg",
+            "https://whc.unesco.org/document/148549/site_1549_0009.jpg",
+            "https://whc.unesco.org/document/148550/site_1549_0010.jpg",
+            "https://whc.unesco.org/document/148551/site_1549_0011.jpg",
+            "https://whc.unesco.org/document/148552/site_1549_0012.jpg",
+            "https://whc.unesco.org/document/148553/site_1549_0013.jpg",
+            "https://whc.unesco.org/document/148554/site_1549_0014.jpg",
+            "https://whc.unesco.org/document/148555/site_1549_0015.jpg",
+            "https://whc.unesco.org/document/148556/site_1549_0016.jpg",
+            "https://whc.unesco.org/document/148557/site_1549_0017.jpg",
+            "https://whc.unesco.org/document/148558/site_1549_0018.jpg",
+            "https://whc.unesco.org/document/148559/site_1549_0019.jpg",
+            "https://whc.unesco.org/document/148560/site_1549_0020.jpg",
+            "https://whc.unesco.org/document/148561/site_1549_0021.jpg",
+            "https://whc.unesco.org/document/148562/site_1549_0022.jpg",
+            "https://whc.unesco.org/document/148563/site_1549_0023.jpg",
+            "https://whc.unesco.org/document/148564/site_1549_0024.jpg",
+            "https://whc.unesco.org/document/148565/site_1549_0025.jpg",
+            "https://whc.unesco.org/document/148566/site_1549_0026.jpg",
+            "https://whc.unesco.org/document/148567/site_1549_0027.jpg",
+            "https://whc.unesco.org/document/148568/site_1549_0028.jpg",
+            "https://whc.unesco.org/document/148569/site_1549_0029.jpg",
+            "https://whc.unesco.org/document/148570/site_1549_0030.jpg",
+            "https://whc.unesco.org/document/148571/site_1549_0031.jpg",
+            "https://whc.unesco.org/document/148572/site_1549_0032.jpg",
+            "https://whc.unesco.org/document/148573/site_1549_0033.jpg",
+            "https://whc.unesco.org/document/148574/site_1549_0034.jpg",
+            "https://whc.unesco.org/document/148575/site_1549_0035.jpg",
+            "https://whc.unesco.org/document/148576/site_1549_0036.jpg",
+            "https://whc.unesco.org/document/148577/site_1549_0037.jpg",
+            "https://whc.unesco.org/document/148578/site_1549_0038.jpg"
+          ],
+          "count": 38
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Sheki with the Khan’s Palace",
+            "ref": "1549rev",
+            "latitude": 41.2033333333,
+            "longitude": 47.1875
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1549",
+        "unesco_documents": "https://whc.unesco.org/en/list/1549/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1549/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1549/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Sheki with the Khan’s Palace The historic city of Sheki is located at the foot of the Greater Caucasus Mountains and divided in two by the Gurjana River. While the older northern part is built on the mountain, its southern part extends into the river valley. Its historic centre, rebuilt after the destruction of an earlier town by mudflows in the 18th century, is characterized by a traditional architectural ensemble of houses with high gabled roofs. Located along important historic trade routes, the city's architecture is influenced by Safavid, Qadjar and Russian building traditions. The Khan Palace, in the northeast of the city, and a number of merchant houses reflect the wealth generated by silkworm breeding and the trade in silk cocoons from the late 18th to the 19th centuries. The historic city of Sheki is located at the foot of the Greater Caucasus Mountains and divided in two by the Gurjana River. While the older northern part is built on the mountain, its southern part extends into the river valley. Its historic centre, rebuilt after the destruction of an earlier town by mudflows in the 18th century, is characterized by a traditional architectural ensemble of houses with high gabled roofs. Located along important historic trade routes, the city's architecture is influenced by Safavid, Qadjar and Russian building traditions. The Khan Palace, in the northeast of the city, and a number of merchant houses reflect the wealth generated by silkworm breeding and the trade in silk cocoons from the late 18th to the 19th centuries. Azerbaijan Europe and North America Cultural"
+    },
+    {
+      "site_key": "walled_city_of_baku_with_the_shirvanshah_s_palace_and_maiden_tower",
+      "uuid": "976efd9c-e406-5d4a-a465-d841912116a9",
+      "unesco_id": "958",
+      "names": {
+        "en": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower",
+        "fr": "Cité fortifiée de Bakou avec le palais des Chahs de Chirvan et la tour de la Vierge",
+        "es": "Ciudad amurallada de Bakú, palacio de los sahs de Shirvan y Torre de la Doncella",
+        "ru": "Старая крепость в Баку с Дворцом ширваншахов и Девичьей Башней",
+        "ar": "مدينة باكو المحصنة مع قصر الشرفنشاهات وقلعة العذراء",
+        "zh": "城墙围绕的巴库城及其希尔凡王宫和少女塔"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AZE": {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "iso3": "AZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Built on a site inhabited since the Palaeolithic period, the Walled City of Baku reveals evidence of Zoroastrian, Sasanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The Inner City (Icheri Sheher) has preserved much of its 12th-century defensive walls. The 12th-century Maiden Tower (Giz Galasy) is built over earlier structures dating from the 7th to 6th centuries BC, and the 15th-century Shirvanshahs' Palace is one of the pearls of Azerbaijan's architecture.",
+          "fr": "Édifiée sur un site habité depuis l'ère paléolithique, la cité fortifiée de Bakou incarne une remarquable continuité culturelle avec des traces de présence zoroastrienne, sassanide, arabe, perse, shirvani, ottomane et russe. La ville intra-muros (Icheri Sheher) a conservé une grande partie de ses remparts du XIIe siècle. La Tour de la Vierge (Giz Galasy), dont les structures d’origine remontent aux VIIe-VIe siècles avant notre ère, a été restaurée au XIIe siècle. Le Palais des Chahs de Chirvan, du XVe siècle, est un autre chef-d'œuvre de l'architecture azerbaïdjanaise.",
+          "es": "Construida en un territorio habitado desde el Paleolítico, la ciudad amurallada de Bakú muestra las huellas de la presencia sucesiva de las culturas zoroástrica, sasánida, árabe, persa, shirvani, otomana y rusa. La parte intramuros (Icheri Shesher) ha conservado intacta una gran parte de sus murallas del siglo XII. La Torre de la Doncella (Giz Galasy) se erigió en ese mismo siglo sobre construcciones antiguas que datan de los siglos VII a VI a.C. El Palacio de los sahs de Shirvan (siglo XV) está considerado como una de las joyas de la arquitectura azerbaiyana.",
+          "ru": "Возведенная на обитаемой со времен палеолита местности, Старая крепость Баку сохранила черты разных культур, под влиянием которых она находилась на протяжении своей многовековой истории: зороастрийцев, Сасанидов, арабов, персов, ширванцев, турок и русских. Внутренний город – Ичери-Шехер – сохранил большую часть окружающей его крепостной стены XII в. В основании Девичьей Башни (Кыз-каласы), также построенной в XII в., обнаружены следы более ранних сооружений, относящихся к VII-VI вв. до н.э. Одной из жемчужин азербайджанской архитектуры является Дворец ширваншахов XV в.",
+          "ar": "شُيّدت القلعة على موقع مسكون منذ العصر الباليوليتي وهي تجسّد استمرارية ثقافية مميّزة بآثار الوجود الزا رادشتي والساساني والعربي والفارسي والشاروني والعثماني والروسي فيها. وقد حافظت المدينة داخل الاسوار (إشاري شيهر) على قسم كبير من جدرانها التي تعود إلى القرن الثاني عشر. أما برج العذراء (غيز غالاسي) والذي تعود هياكله الأصلية إلى القرنين السابع والسادس قبل الميلاد، فقد تمّ ترميمه في القرن الثاني عشر. ويبقى قصر الشرفنشاهات الذي شيّد في القرن الخامس عشر تحفة فنيّة أخرى من الهندسة الأذربيجانية.",
+          "zh": "巴库城(Baku)的所在地自旧石器时代开始就有人类在此居住。巴库城集中展示了各个民族在当地文化的延续性，包括拜火教徒 (Zoroastrian)、萨桑王朝(Sasanian)、阿拉伯人、波斯人、希尔凡(Shirvani)、土耳其人和俄罗斯人。巴库内城保存了大量12世纪的防御墙。而同样在12世纪，当地人在一处公元前7世纪到公元前6世纪的建筑遗址之上建造了少女塔。建于15世纪的希尔凡王宫堪称阿塞拜疆建筑史上的一颗璀璨明珠。"
+        },
+        "full": "Built on a site inhabited since the Palaeolithic period, the Walled City of Baku reveals evidence of Zoroastrian, Sasanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The Inner City (Icheri Sheher) has preserved much of its 12th-century defensive walls. The 12th-century Maiden Tower (Giz Galasy) is built over earlier structures dating from the 7th to 6th centuries BC, and the 15th-century Shirvanshahs' Palace is one of the pearls of Azerbaijan's architecture.",
+        "justification": "Brief synthesis Rising from the south shore of the Apsheron Peninsular at the western edge of the Caspian Sea, the Walled City of Baku was founded on a site inhabited since the Palaeolithic period. The city reveals, along with the dominant Azerbaijani element, evidence of Zoroastrian, Sassanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The inner city (Icherisheher) has preserved much of its 12th-century defensive walls, which define the character of the property. The most ancient monument of Icherisheher is the Maiden Tower – symbol of the city of Baku. Some evidence suggests that the construction of the Tower might have been as early as the 7th-6th centuries BC. Another monument of universal value, one of the pearls of Azerbaijan's architecture is the 12th- to 15th-century Shirvanshahs' Palace, located at the highest point of Icherisheher. Within the Palace complex are the Divankhana (reception hall) or, as some researchers believe, the Tomb of Shah, the residential building of Shirvanshahs, the remains of Key-Kubad Mosque, the Tomb of Seyid Yahya Bakuvi, Murad’s Gate (the only monument of the 16th century), the Tomb of Shirvanshahs’ Family, the Shah Mosque and the Palace bath-house. Earlier monuments of Icherisheher include the Mohammed Mosque, together with the adjacent minaret built in 1078, and remains of the 9th- to 10th-century mosque near the Maiden Tower. There are also numerous historical-architectural monuments of the medieval period such as caravanserais, hamams (bath-houses), mosques and residential buildings of the 18th to 20th centuries located within the property. The magnificence of Icherisheher lies in the combination of its distinct architectural monuments and its historically composed architectural spatial planning with original street views, which have merged into a single entity to reflect its long history and the melding of cultures that have influenced its development over the past nine centuries. Icherisheher is still a living, vibrant city with residential areas housing local communities. Criterion (iv): The Walled City of Baku represents an outstanding and rare example of an historic urban ensemble and architecture with influence from Zoroastrian, Sassanian, Arabic, Persian, Shirvani, Ottoman, and Russian cultures. Integrity The boundary of the property follows the boundary of the Walled City, which with the remains of its walls, planning and buildings encompasses the attributes that express its Outstanding Universal Value. Considerable erosion of the fabric of some of the buildings within the Walled City occurred soon after inscription of the property, partly as a result of an earthquake but also due to illegal demolition and uncontrolled development. The property was removed from the List of World Heritage in Danger in 2009. The setting of the property has changed somewhat since inscription, due to building development that accompanied the disintegration of the previous Soviet management system and is still vulnerable to negative visual impacts of adjacent new development. The new management structure effectively combines municipal functions as well as property conservation functions. Authenticity Following inscription, the demolition and complete reconstruction of some buildings impacted adversely the authenticity of the overall urban ensemble. As a result of measures taken to enable removal of the property from the List of World Heritage in Danger, the remaining attributes can be said to convey the property’s Outstanding Universal Value in terms of materials, design and urban planning. The coherence and functions of the historic city are supported by a vibrant local community. Protection and managements requirements The Walled City of Baku and its buffer zone are inventoried and protected as National Monuments. The inner city is protected by Presidential Decrees of 2005 and 2007, and the buffer zone is protected by a Decree issued by the Cabinet of Ministers. In 2007, the Administration of the State Historical-Architectural Reserve “Icherisheher” (SHAHAR), established under the Cabinet of Ministers, was formally given full responsibility for management of the property instead of the authorities of the Ministry of Culture and Tourism and the City of Baku. SHAHAR is independently staffed and funded by the Government. An Integrated Area Management Action Plan (IAMAP) has been developed, together with a Conservation Master Plan. The Conservation Master Plan has been reviewed by all stakeholders and formally approved, and will be integrated with the IAMAP and adopted in the urban planning system of the City of Baku. The actions in the IAMAP will be implemented, including preparation of a comprehensive long-term strategy for the protection of Icherisheher and its buffer zone; documentation and monitoring of the state of conservation of the property; formulation of standards and procedures for the regulation of rehabilitation of existing buildings and eventual new constructions; maintenance and improvement of public spaces; development of strategic interventions to improve the quality of life in the area; and organisation and management of community outreach and education programmes. There is a need to ensure that planning controls respect the characteristics of the modest houses that contribute to the overall qualities of Baku as a reflection of a medieval city. Numerous parts of the property retain original medieval street views and attention must be paid to preserve such views where they exist. Controls on development of the wider setting of the city is also needed so as to ensure it retains its links with the sea and does not become a small island within high-rise developments."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 21.5,
+          "square_km": 0.21,
+          "square_miles": 0.087,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/757144b7bb380b38bb1a50e0f0afbd47",
+          "filename": "site_0958_0001.jpg",
+          "dimensions": {
+            "width": 768,
+            "height": 1024
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113805/site_0958_0001.jpg",
+            "https://whc.unesco.org/document/113807/site_0958_0002.jpg",
+            "https://whc.unesco.org/document/113811/site_0958_0004.jpg",
+            "https://whc.unesco.org/document/113814/site_0958_0005.jpg",
+            "https://whc.unesco.org/document/113816/site_0958_0006.jpg",
+            "https://whc.unesco.org/document/118145/site_0958_0011.jpg",
+            "https://whc.unesco.org/document/121784/site_0958_0012.jpg",
+            "https://whc.unesco.org/document/121785/site_0958_0013.jpg",
+            "https://whc.unesco.org/document/124543/site_0958_0014.jpg",
+            "https://whc.unesco.org/document/124544/site_0958_0015.jpg",
+            "https://whc.unesco.org/document/124547/site_0958_0018.jpg",
+            "https://whc.unesco.org/document/124548/site_0958_0019.jpg",
+            "https://whc.unesco.org/document/124549/site_0958_0020.jpg",
+            "https://whc.unesco.org/document/124550/site_0958_0021.jpg",
+            "https://whc.unesco.org/document/133916/site_0958_0023.jpg",
+            "https://whc.unesco.org/document/133917/site_0958_0024.jpg",
+            "https://whc.unesco.org/document/133918/site_0958_0025.jpg",
+            "https://whc.unesco.org/document/133919/site_0958_0026.jpg",
+            "https://whc.unesco.org/document/133920/site_0958_0027.jpg",
+            "https://whc.unesco.org/document/133921/site_0958_0028.jpg",
+            "https://whc.unesco.org/document/133922/site_0958_0029.jpg",
+            "https://whc.unesco.org/document/133923/site_0958_0030.jpg",
+            "https://whc.unesco.org/document/133924/site_0958_0031.jpg",
+            "https://whc.unesco.org/document/133966/site_0958_0055.jpg",
+            "https://whc.unesco.org/document/133967/site_0958_0056.jpg",
+            "https://whc.unesco.org/document/133968/site_0958_0057.jpg",
+            "https://whc.unesco.org/document/133969/site_0958_0058.jpg",
+            "https://whc.unesco.org/document/133970/site_0958_0059.jpg",
+            "https://whc.unesco.org/document/133971/site_0958_0060.jpg"
+          ],
+          "count": 29
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower",
+            "ref": "958",
+            "latitude": 40.36666667,
+            "longitude": 49.83333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/958",
+        "unesco_documents": "https://whc.unesco.org/en/list/958/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/958/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/958/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower Built on a site inhabited since the Palaeolithic period, the Walled City of Baku reveals evidence of Zoroastrian, Sasanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The Inner City (Icheri Sheher) has preserved much of its 12th-century defensive walls. The 12th-century Maiden Tower (Giz Galasy) is built over earlier structures dating from the 7th to 6th centuries BC, and the 15th-century Shirvanshahs' Palace is one of the pearls of Azerbaijan's architecture. Built on a site inhabited since the Palaeolithic period, the Walled City of Baku reveals evidence of Zoroastrian, Sasanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The Inner City (Icheri Sheher) has preserved much of its 12th-century defensive walls. The 12th-century Maiden Tower (Giz Galasy) is built over earlier structures dating from the 7th to 6th centuries BC, and the 15th-century Shirvanshahs' Palace is one of the pearls of Azerbaijan's architecture. Azerbaijan Europe and North America Cultural"
+    },
+    {
+      "site_key": "gobustan_rock_art_cultural_landscape",
+      "uuid": "37b22511-2326-5605-9e44-eb5dbca3b4f4",
+      "unesco_id": "1076",
+      "names": {
+        "en": "Gobustan Rock Art Cultural Landscape",
+        "fr": "Paysage culturel d’art rupestre de Gobustan",
+        "es": "Paisaje cultural de arte rupestre de Gobustán",
+        "ru": "Культурный пейзаж наскальных рисунков Кобустана",
+        "ar": "مشهد غوبستان الثقافي للفن الصخري",
+        "zh": "戈布斯坦岩石艺术文化景观"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AZE": {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "iso3": "AZE"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation.",
+          "fr": "Le site occupe trois zones d'un plateau rocheux qui s'élève dans la région semi-désertique du centre de l'Azerbaïdjan. Il recèle une collection remarquable de plus de 6 000 gravures qui témoignent de 40 000 ans d'art rupestre. Le site comprend également des vestiges de grottes habitées, de peuplements et de sites funéraires, qui reflètent une occupation humaine intensive des lieux durant une période humide après la dernière ère glaciaire, depuis le paléolithique supérieur jusqu'au Moyen Âge. Le site occupe un total de 537 ha et s'inscrit dans la réserve protégée de Gobustan qui est beaucoup plus grande.",
+          "es": "Este sitio comprende tres zonas de una meseta rocosa emplazada en la región semidesértica que ocupa el centro del Azerbaiyán. Alberga un conjunto excepcional de más de seis mil petroglifos ejecutados a lo largo de un periodo de 40.000 años de arte rupestre. También posee vestigios de poblamientos, cuevas habitadas y sitios funerarios, que constituyen una prueba de su ocupación intensiva por el ser humano en el periodo húmedo subsiguiente a la última era glaciar, desde el Paleolítico Superior hasta la Edad Media. El sitio abarca una superficie total de 537 hectáreas, que forman parte del territorio protegido, mucho más extenso, de la Reserva de Gobustán.",
+          "ru": "Культурный пейзаж наскальных рисунков Кобустана - это уникальная коллекции шести тысяч наскальных рисунков, свидетельствующих о четырех тысячелетиях наскального искусства. Они были найдены на трех участках скалистого плато, возвышающегося в полупыстынной местности центральной части Азербайджана. Обнаруженные здесь же некогда обитаемые пещеры, следы поселений и усыпальницы указывают на густую заселенность этой территории в период наступления жаркого и влажного климата с завершением последнего ледникового периода - между верхним палеолитом и средневековьем. Объект располагается на территории 537 гектаров и является лишь частью более обширного охраняемого заповедника Кобустан.",
+          "ar": "يمتد الموقع على ثلاثة أمكنة مختلفة في هضبة صخرية تشرف على المنطقة شبه الصحراوية لوسط أذربيجان. ويضم مجموعة استثنائية تزيد عن 6000 نقش صخري لتشهد بذلك عن 40000 عام من الفن الصخري. وفي الموقع أيضاً آثار كهوف سكنها الإنسان وأطلال قديمة وبقايا مرافق مأتمية، تعكس وجود استيطان بشري مكثف في المكان خلال فترة رطبة لما بعد العصر الجليدي الأخير، وتمتد من العصر الحجري القديم العلوي إلى العصور الوسطى. يغطي الموقع مساحة قدرها 537 هكتارا وهو جزء من محمية غوبستان الأوسع بكثير.",
+          "zh": "戈布斯坦岩石艺术文化景观包括三个部分，位于阿塞拜疆中部荒漠地区横空突起的岩石高原，这里蕴藏着近6000幅精美雕刻，让人们看到了4000年前的岩石艺术。在这里还发现了居住地和墓葬的遗存，表明人类在上一个冰河时代之后的湿润时期曾经在此地大量定居，时间从旧石器时代早期一直延续到中世纪。遗产占地537公顷，是范围更大的戈布斯坦保护区的一部分。"
+        },
+        "full": "Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation.",
+        "justification": "Gobustan has outstanding universal value for the quality and density of its rock art engravings, for the substantial evidence the collection of rock art images presents for hunting, fauna, flora and lifestyles in pre-historic times and for the cultural continuity between prehistoric and mediaeval times that the site reflects. Criterion (iii): The rock engravings are an exceptional testimony to a way of life that has disappeared in the way they represent so graphically activities connected with hunting and fishing at a time when the climate and vegetation of the area were warmer and wetter than today. The most remote and undisturbed landscapes are the Jinghirdag Moutain-Yazylytepe hill and Kichikdash Mountain. These areas need to be fully protected in order to ensure they keep their authenticity. The most visited site, Boyukdash, has more disturbances in the form of installations such as a prison and stone quarry, which should be managed as part of the Management Plan. The knowledge of the site does not extend evenly across the whole rock art reservation. It would be desirable for a large-scale survey of the wider environment to be carried out to ensure the extent of protection needed to ensure the overall integrity of the rock art corpus. The legal protective measures for the property are adequate. There is a need to complete the documentation, put in place active conservation measures and improve the technical competence of staff to carry out necessary urgent conservation work."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 537.22,
+          "square_km": 5.37,
+          "square_miles": 2.174,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/09daf0551ac21a4e79fa94ad62ac4190",
+          "filename": "site_1076_0001-500-0-20110920203859.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 693
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114720/site_1076_0001.jpg",
+            "https://whc.unesco.org/document/121880/site_1076_0004.jpg",
+            "https://whc.unesco.org/document/121881/site_1076_0005.jpg",
+            "https://whc.unesco.org/document/121883/site_1076_0007.jpg",
+            "https://whc.unesco.org/document/121884/site_1076_0008.jpg",
+            "https://whc.unesco.org/document/121885/site_1076_0009.jpg",
+            "https://whc.unesco.org/document/121886/site_1076_0010.jpg",
+            "https://whc.unesco.org/document/121887/site_1076_0011.jpg",
+            "https://whc.unesco.org/document/121888/site_1076_0012.jpg",
+            "https://whc.unesco.org/document/124645/site_1076_0013.jpg",
+            "https://whc.unesco.org/document/124646/site_1076_0014.jpg",
+            "https://whc.unesco.org/document/124647/site_1076_0015.jpg",
+            "https://whc.unesco.org/document/124648/site_1076_0016.jpg",
+            "https://whc.unesco.org/document/124649/site_1076_0017.jpg",
+            "https://whc.unesco.org/document/124650/site_1076_0018.jpg",
+            "https://whc.unesco.org/document/133902/site_1076_0019.jpg",
+            "https://whc.unesco.org/document/133904/site_1076_0021.jpg",
+            "https://whc.unesco.org/document/133905/site_1076_0022.jpg",
+            "https://whc.unesco.org/document/133906/site_1076_0023.jpg",
+            "https://whc.unesco.org/document/133907/site_1076_0024.jpg",
+            "https://whc.unesco.org/document/133908/site_1076_0025.jpg",
+            "https://whc.unesco.org/document/133909/site_1076_0026.jpg",
+            "https://whc.unesco.org/document/133910/site_1076_0027.jpg",
+            "https://whc.unesco.org/document/133911/site_1076_0028.jpg"
+          ],
+          "count": 24
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Boyukdash mountain",
+            "ref": "1076rev-002",
+            "latitude": 40.112561,
+            "longitude": 49.381896
+          },
+          {
+            "name": "Kichikdash mountain",
+            "ref": "1076rev-003",
+            "latitude": 40.058475,
+            "longitude": 49.396218
+          },
+          {
+            "name": "Jinghindagh mountain –Yazylytepe hill",
+            "ref": "1076rev-001",
+            "latitude": 40.186694,
+            "longitude": 49.362558
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1076",
+        "unesco_documents": "https://whc.unesco.org/en/list/1076/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1076/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1076/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Gobustan Rock Art Cultural Landscape Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation. Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation. Azerbaijan Europe and North America Cultural"
+    },
+    {
+      "site_key": "hyrcanian_forests",
+      "uuid": "4959584f-01c2-5ea1-8981-d2e42fcc1505",
+      "unesco_id": "1584",
+      "names": {
+        "en": "Hyrcanian Forests",
+        "fr": "Forêts hyrcaniennes",
+        "es": "Bosques hircanianos",
+        "ru": "Гирканские леса",
+        "ar": "غابات هيركاني",
+        "zh": "希尔卡尼亚森林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "AZE": {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "iso3": "AZE"
+          },
+          "IRN": {
+            "name": "Iran",
+            "iso2": "IR",
+            "iso3": "IRN"
+          }
+        },
+        "region": {
+          "name": "Europe and North America",
+          "code": "EUR"
+        },
+        "is_transboundary": true,
+        "country_count": 2
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old.",
+          "fr": "Les forêts hyrcaniennes forment un massif forestier unique qui s'étend le long de la mer Caspienne en Azerbaïdjan et en Iran. L'histoire de ces forêts de feuillus remonte à 25 à 50 millions d'années, époque à laquelle elles couvraient la majeure partie de cette région tempérée du Nord. Leur biodiversité floristique est remarquable, avec plus de 3 200 espèces de plantes vasculaires documentées. À ce jour, 180 espèces d'oiseaux typiques des forêts tempérées à feuilles larges et 58 espèces de mammifères ont été recensées. Les éléments du bien comprennent des écosystèmes complets, y compris les principaux prédateurs tels que le léopard, le loup et l'ours brun, et la forêt compte un grand nombre d'espèces d'arbres rares et endémiques. Les arbres les plus anciens vus ici ont entre 300 et 400 ans, certains pouvant même avoir jusqu'à 500 ans.",
+          "es": "Las nuevas zonas que se han incorporado al sitio, Dangyaband y el valle de İstisuchay (Azerbaiyán), contienen bosques antiguos de gran valor pertenecientes a los bosques hircanianos y complementan las áreas de Iránque ya estaban inscritas. Pertenecen al mismo arco forestal que se extiende a lo largo del mar Caspio. Los bosques hircanianos forman un macizo boscoso único que se extiende a lo largo de la costa meridional del mar Caspio, con una historia que se remonta a entre 25 y 50 millones de años. Los elementos que han sido recientemente inscritos comprenden ecosistemas completos que incluyen depredadores superiores como el leopardo, el lobo y el oso pardo, y el bosque presenta una gran cantidad/proporción alta de especies arbóreas raras y endémicas. Los árboles más viejos del sitio tienen entre 300 y 400 años, y algunos, posiblemente, incluso 500.",
+          "ru": "Новые участки Дангябанд и Истисучайская долина (Азербайджан) включают в себя высокоценные древние леса, относящиеся к Гирканским лесам, и дополняют уже включенные участки в Иране. Они относятся к одной лесной полосе, протянувшейся вдоль Каспийского моря. Гирканские леса образуют уникальный лесной массив, протянувшийся вдоль южного побережья Каспийского моря, история которого насчитывает от 25 до 50 млн. лет. Новые элементы лесного массива представляют собой полноценные экосистемы, включающие таких крупных хищников, как леопард, волк и бурый медведь, а также леса с высоким содержанием редких и эндемичных видов деревьев. Возраст самых старых деревьев достигает 300-400 лет, а некоторых, возможно, и 500 лет.",
+          "ar": "تحتوي الأجزاء المكونة الجديدة، وادي دانغيباند و إستسوتشي (أذربيجان)، على غابات قديمة بالغة القيمة تنتمي إلى غابات الهيركان، وتؤدي هذه الأجزاء دوراً تكميلياً مع الأجزاء المكونة المدرجة بالفعل في إيران. تنتمي هذه الأجزاء إلى نفس قوس الغابة الممتد على طول بحر قزوين. تشكل غابات الهيركان كتلة حرجية فريدة من نوعها تمتد على طول الساحل الجنوبي لبحر قزوين، ويعود تاريخها من 25 إلى 50 مليون سنة. تشتمل العناصر المدرجة حديثًا على نظم بيئية كاملة بما في ذلك الحيوانات المفترسة العليا مثل النمر والذئب والدب البني، وتحتوي الغابة على درجة عالية من أنواع الأشجار النادرة والمتوطنة. يتراوح عمر أقدم الأشجار في الموقع بين 300 و 400 عام، وقد يصل عمر بعضها إلى 500 عام.",
+          "zh": "新增的丹加班德和伊斯蒂苏奇山谷（阿塞拜疆）都属于极具价值的希尔卡尼亚古森林的分布区，它们的加入使原世界遗产更为完整。遗产的新老部分位于里海南岸的同一片林带。希尔卡尼亚森林是一片独特的森林集群，沿着里海南岸延伸，其历史可追溯到2500万至5000万年前。新增部分含有完整的生态系统，包括豹、狼、棕熊等顶级掠食者。此外这里拥有大量珍稀和特有树种。最古老的树木树龄有300-400年，其中一些可能达到500年。"
+        },
+        "full": "The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old.",
+        "justification": "Brief synthesis The Hyrcanian Forests form a green arc of forest, separated from the Caucasus to the west and from semi-desert areas to the east: a unique forested massif that extends from south-eastern Azerbaijan eastwards to the Golestan Province, in Iran. The Hyrcanian Forests World Heritage property is situated in Azerbaijan and Iran, within the Caspian Hyrcanian mixed forests ecoregion. It stretches approximately one thousand kilometres along the southern and south-western coast of the Caspian Sea and covers around 7% of the remaining Hyrcanian forests in Iran. The property is a serial site with 17 component parts shared across three Provinces (Gilan, Mazandaran and Golestan) in Iran and across two Districts (Lenkoran and Astara) in Azerbaijan and represents examples of the various stages and features of Hyrcanian forest ecosystems. Most of the ecological characteristics of the Caspian Hyrcanian mixed forests are represented in the property. A considerable part of the property is in inaccessible steep terrain. The property contains exceptional and ancient broad-leaved forests which were formerly much more extensive however, retreated during periods of glaciation and later expanded under milder climatic conditions. Due to this isolation, the property hosts many relict, endangered, and regionally and locally endemic species of flora, contributing to the high ecological value of the property and the Hyrcanian region in general. Criterion (ix): The property represents a remarkable series of sites conserving the natural forest ecosystems of the Hyrcanian region. Its component parts contain exceptional broad-leaved forests with a history dating back 25 - 50 million years ago, when such forests covered most parts of the Northern Temperate region. These huge ancient forest areas retreated during Quaternary glaciations and later, during milder climate periods, expanded again from these refugia. The property covers most environmental features and ecological values of the Hyrcanian region and represents the most important and key environmental processes illustrating the genesis of those forests, including succession, evolution and speciation. The floristic biodiversity of the Hyrcanian region is remarkable at the global level with over 3,200 vascular plants documented. Due to its isolation, the property hosts many relict, endangered, and regionally and locally endemic plant species, contributing to the ecological significance of the property, and the Hyrcanian region in general. Approximately 280 taxa are endemic and sub-endemic for the Hyrcanian region and about 500 plant species are Iranian endemics. The ecosystems of the property support populations of many forest birds and mammals of the Hyrcanian region which are significant on national, regional and global scales. To date, 180 species of birds typical of broad-leaved temperate forests have been recorded in the Hyrcanian region including Steppe Eagle, European Turtle Dove, Eastern Imperial Eagle, European Roller, Semicollared Flycatcher and Caspian Tit. Some 58 mammal species have been recorded across the region, including the iconic Persian Leopard and the threatened Wild Goat. Integrity The component parts of the property are functionally linked through the shared evolutionary history of the Caspian Hyrcanian mixed forest ecoregion and most have good ecological connectivity through the almost continuous forest belt in the whole Hyrcanian forest region. Khoshk-e-Daran, is the only component part that is isolated, however it still benefits from a high level of intactness and contributes to the overall value of the series. Each component part contributes distinctively to the property’s Outstanding Universal Value and the component parts together sustain the long-term viability of the key species and ecosystems represented across the Hyrcanian region, as well as the evolutionary processes which continue to shape these forests over time. Several component parts have suffered in the past from lack of legal protection, and continue to be negatively impacted to some extent by seasonal grazing and wood collection. The sustainable management of these uses is a critical issue for the long-term preservation of the property’s integrity and it will require strong ongoing attention by the States Parties. Protection and management requirements All component parts of the property are state owned and strictly protected by the respective national legislation in Azerbaijan and Iran. The two component parts in Azerbaijan are located within the boundaries of Hirkan National Park under the responsibility of the Ministry of Ecology and Natural Resources, and are subject to a strict protection regime. The 15 component parts in Iran are protected through the Nature Conservation Law and by the Heritage Law. It will be important to harmonize and streamline the management and protection regime across the transnational property as a whole. The management of the property’s component parts in Azerbaijan is subject to the Management Plan of Hirkan National Park. The management is ensured by around 100 staff. The national park authority manages the component parts and their buffer zone in cooperation with local stakeholders, especially the Talish people living within the national park. The Talish people follow close to sustainable livelihoods, which has contributed to secure the preservation of the valuable forest until the present time. They have traditional rights to use the land within the buffer zone of the national park. The management of the property’s component parts in Iran is under the responsibility of three national agencies, the Iranian Forests, Range, Watershed and Management Organization (FRWO), Department of Environment (DoE) and the Cultural Heritage, Handicrafts and Tourism Organization (ICHHTO). A National Steering Committee is in place to ensure coordination across the series as a whole. This mechanism will need to be maintained in order to guarantee comprehensive management of the property into the future, based on a common vision and supported by adequate funding. Each component part has a management plan however, a transnational “Master Management Plan” for the whole property is also a long-term requirement. The national and component-specific plans should be maintained, developed and updated regularly together by the responsible management institutions, in cooperation with ministries, universities and NGOs across both States Parties. Public access and use of the area is legally regulated and logging, grazing, hunting and most other uses that may potentially impact the property are strictly prohibited within all component parts. Vehicle access and other uses and activities that may potentially impact the property are also either forbidden or strictly regulated. However, enforcement of access and use regulations is not always effective and requires strengthening. Particular attention is required to maintain and enhance where possible, ecological connectivity between component parts and to ensure effective regulation of seasonal grazing and wood collection, in consultation with local communities."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9
+          ],
+          "all": [
+            9
+          ],
+          "display": "(ix)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 145004.74,
+          "square_km": 1450.05,
+          "square_miles": 586.814,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019,
+            2023
+          ],
+          "extensions": [
+            2023
+          ],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2023,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/1bfda4b351455f9b13f50731cb1bb79b",
+          "filename": "site_1584_0003.jpg",
+          "dimensions": {
+            "width": 2560,
+            "height": 1920
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/166783/site_1584_0003.jpg",
+            "https://whc.unesco.org/document/196576/site_1584_0057.jpg",
+            "https://whc.unesco.org/document/196577/site_1584_0058.jpg",
+            "https://whc.unesco.org/document/196578/site_1584_0059.jpg",
+            "https://whc.unesco.org/document/196579/site_1584_0060.jpg",
+            "https://whc.unesco.org/document/196580/site_1584_0061.jpg",
+            "https://whc.unesco.org/document/196581/site_1584_0062.jpg",
+            "https://whc.unesco.org/document/196582/site_1584_0063.jpg",
+            "https://whc.unesco.org/document/166786/site_1584_0006.jpg",
+            "https://whc.unesco.org/document/166787/site_1584_0007.jpg",
+            "https://whc.unesco.org/document/166788/site_1584_0008.jpg",
+            "https://whc.unesco.org/document/166792/site_1584_0012.jpg",
+            "https://whc.unesco.org/document/166794/site_1584_0014.jpg",
+            "https://whc.unesco.org/document/166795/site_1584_0015.jpg",
+            "https://whc.unesco.org/document/166796/site_1584_0016.jpg",
+            "https://whc.unesco.org/document/166797/site_1584_0017.jpg",
+            "https://whc.unesco.org/document/166798/site_1584_0018.jpg",
+            "https://whc.unesco.org/document/166800/site_1584_0020.jpg",
+            "https://whc.unesco.org/document/166802/site_1584_0022.jpg",
+            "https://whc.unesco.org/document/166806/site_1584_0026.jpg",
+            "https://whc.unesco.org/document/166811/site_1584_0031.jpg",
+            "https://whc.unesco.org/document/166812/site_1584_0032.jpg",
+            "https://whc.unesco.org/document/166814/site_1584_0034.jpg",
+            "https://whc.unesco.org/document/166817/site_1584_0037.jpg",
+            "https://whc.unesco.org/document/166819/site_1584_0039.jpg",
+            "https://whc.unesco.org/document/166822/site_1584_0042.jpg",
+            "https://whc.unesco.org/document/166835/site_1584_0055.jpg",
+            "https://whc.unesco.org/document/166836/site_1584_0056.jpg"
+          ],
+          "count": 28
+        }
+      },
+      "components": {
+        "count": 17,
+        "locations": [
+          {
+            "name": "Boola",
+            "ref": "1584bis-006",
+            "latitude": 36.0988305555,
+            "longitude": 53.39375
+          },
+          {
+            "name": "Lisar",
+            "ref": "1584bis-015",
+            "latitude": 37.9355527777,
+            "longitude": 48.8323333334
+          },
+          {
+            "name": "Kojoor",
+            "ref": "1584bis-010",
+            "latitude": 36.546025,
+            "longitude": 51.6676388889
+          },
+          {
+            "name": "Alimestan",
+            "ref": "1584bis-007",
+            "latitude": 36.1735833334,
+            "longitude": 52.4039416667
+          },
+          {
+            "name": "Abr (East)",
+            "ref": "1584bis-003",
+            "latitude": 36.8125805556,
+            "longitude": 54.9448888889
+          },
+          {
+            "name": "Abr (West)",
+            "ref": "1584bis-004",
+            "latitude": 36.8158305556,
+            "longitude": 55.1009416667
+          },
+          {
+            "name": "Jahan Nama",
+            "ref": "1584bis-005",
+            "latitude": 36.6652777778,
+            "longitude": 54.4015277778
+          },
+          {
+            "name": "Vaz (East)",
+            "ref": "1584bis-008",
+            "latitude": 36.2791083334,
+            "longitude": 52.1250555556
+          },
+          {
+            "name": "Vaz (West)",
+            "ref": "1584bis-009",
+            "latitude": 36.3074694444,
+            "longitude": 52.0610555556
+          },
+          {
+            "name": "Chahar-Bagh",
+            "ref": "1584bis-011",
+            "latitude": 36.2585555556,
+            "longitude": 51.2171388889
+          },
+          {
+            "name": "Gast Roudkhan",
+            "ref": "1584bis-014",
+            "latitude": 37.0655555556,
+            "longitude": 49.1527472222
+          },
+          {
+            "name": "Khoshk-e-Daran",
+            "ref": "1584bis-012",
+            "latitude": 36.7272472223,
+            "longitude": 51.0639694444
+          },
+          {
+            "name": "Golestan (North)",
+            "ref": "1584bis-001",
+            "latitude": 37.4214722223,
+            "longitude": 55.7242777778
+          },
+          {
+            "name": "Golestan (South)",
+            "ref": "1584bis-002",
+            "latitude": 37.3406638889,
+            "longitude": 55.7256388889
+          },
+          {
+            "name": "Siahroud-e-Roudbar",
+            "ref": "1584bis-013",
+            "latitude": 36.899775,
+            "longitude": 49.6720277778
+          },
+          {
+            "name": "Dangyaband (Northern HNP)",
+            "ref": "1584bis-016",
+            "latitude": 38.754475,
+            "longitude": 48.6825055556
+          },
+          {
+            "name": "İstisuchay Valley (Southern HNP)",
+            "ref": "1584bis-017",
+            "latitude": 38.4549666667,
+            "longitude": 48.6793027778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1584",
+        "unesco_documents": "https://whc.unesco.org/en/list/1584/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1584/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1584/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Europe",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Hyrcanian Forests The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old. The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old. Azerbaijan Iran Europe and North America Natural"
+    }
+  ]
+}

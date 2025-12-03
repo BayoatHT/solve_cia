@@ -18,6 +18,7 @@ from .classification import parse_classification
 from .temporal import parse_temporal
 from .visual import parse_visual
 from .components import parse_components
+from .enhancements import parse_enhancements
 
 __all__ = [
     'parse_identity',
@@ -27,4 +28,5 @@ __all__ = [
     'parse_temporal',
     'parse_visual',
     'parse_components',
+    'parse_enhancements',
 ]

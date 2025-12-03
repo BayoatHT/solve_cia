@@ -1,0 +1,1351 @@
+{
+  "country": {
+    "code": "TZA",
+    "name": "Tanzania"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 3,
+    "Mixed": 1
+  },
+  "transboundary_count": 0,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "serengeti_national_park",
+      "uuid": "aff38f08-e1c1-5022-a015-225c853c1820",
+      "unesco_id": "156",
+      "names": {
+        "en": "Serengeti National Park",
+        "fr": "Parc national de Serengeti",
+        "es": "Parque Nacional de Serengeti",
+        "ru": "Национальный парк Серенгети",
+        "ar": "روضة سيرنقيطي الوطنية",
+        "zh": "塞伦盖蒂国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world.",
+          "fr": "Dans les vastes plaines de Serengeti, sur un million et demi d'hectares de savanes, les migrations annuelles vers les points d'eau permanents d'immenses troupeaux de millions d'herbivores – gnous, gazelles, zèbres – suivis de leurs prédateurs, offrent un spectacle d'un autre âge, l'un des plus impressionnants au monde.",
+          "es": "En este parque de un millón y medio de hectáreas de vastas llanuras de sabana, las inmensas manadas de millones de herbívoros –ñus, gacelas y cebras– y los predadores que les siguen en sus migraciones anuales en busca de abrevaderos estables, ofrecen uno de los más impresionantes espectáculos del mundo de la naturaleza.",
+          "ru": "Безбрежные равнинные саванны этого парка занимают площадь 1,5 млн. га. Круглогодичная непрекращающаяся миграция сопровождаемых хищниками крупных стад копытных (антилопы гну, газели, зебры), которые ищут водопой, считается одним из самых ярких сезонных явлений в дикой природе.",
+          "ar": "يمكن التمتع في سهول سيرنقيطي الشاسعة وعلى امتداد مليون هكتار ونصف من السهب (سافانا) بمنظر من عصر آخر يعتبر من أروع المشاهد في العالم ويتمثل في الهجرة السنوية لقطعان من ملايين الحيوانات الآكلة للأعشاب كظبي النو والغزلان وحمار الزرد، يتبعها مفترسوها الى نقاط مياه لا تنضب.",
+          "zh": "在广袤的塞伦盖蒂平原上有150万公顷的大草原和数量众多的食草动物羚羊、瞪羚和斑马。每年，当它们为寻找水源而迁徙时，总有食肉动物尾随其后，这是世界上最壮观的景象之一。"
+        },
+        "full": "The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world.",
+        "justification": "Brief synthesis In the vast plains of Serengeti National Park, comprising 1.5 million hectares of savannah, the annual migration of two million wildebeests plus hundreds of thousands of gazelles and zebras - followed by their predators in their annual migration in search of pasture and water – is one of the most impressive nature spectacles in the world. The biological diversity of the park is very high with at least four globally threatened or endangered animal species: black rhinoceros, elephant, wild dog, and cheetah. Criterion (vii): The Serengeti plains harbour the largest remaining unaltered animal migration in the world where over one million wildebeest plus hundreds of thousands of other ungulates engage in a 1,000 km long annual circular trek spanning the two adjacent countries of Kenya and Tanzania. This spectacular phenomenon takes place in a unique scenic setting of ‘endless plains’: 25,000km2 of treeless expanses of spectacularly flat short grasslands dotted with rocky outcrops (kopjes) interspersed with rivers and woodlands. The Park also hosts one of the largest and most diverse large predator-prey interactions worldwide, providing a particularly impressive aesthetic experience. Criterion (x): The remarkable spatial-temporal gradient in abiotic factors such as rainfall, temperature, topography and geology, soils and drainage systems in Serengeti National Park manifests in a wide variety of aquatic and terrestrial habitats. The combination of volcanic soils combined with the ecological impact of the migration results in one of the most productive ecosystems on earth, sustaining the largest number of ungulates and the highest concentration of large predators in the world. The ecosystem supports 2 million wildebeests, 900,000 Thomson’s gazelles and 300,000 zebras as the dominant herds. Other herbivores include 7,000 elands, 27,000 topis, 18,000 hartebeests, 70,000 buffalos, 4,000 giraffes, 15,000 warthogs, 3,000 waterbucks, 2,700 elephants, 500 hippopotamuses, 200 black rhinoceroses, 10 species of antelope and 10 species of primate. Major predators include 4,000 lions, 1000 leopards, 225 cheetahs, 3,500 spotted hyenas and 300 wild dogs. Of these, the black rhino Diceros bicornis, leopard Panthera pardus, African elephant Loxodonta africana and cheetah Acynonix jubatus are listed in the IUCN Red List. There are over 500 species of birds that are perennially or seasonally present in the Park, of which five species are endemic to Tanzania. The Park has the highest ostrich population in Tanzania and probably Africa, making the population globally important. Integrity Serengeti National Park is at the heart the larger Serengeti ecosystem, which is defined by the area covered by the annual migration. The property is contiguous with Ngorongoro Conservation Unit, an area of 528,000ha declared a World Heritage Site in 1979. The entire ecosystem also includes the Maswa Game Reserve (2,200km2) in the south, Grumeti and Ikorongo Game Reserves in the east, Maasai Mara National Reserve in Kenya (1,672km2) to the north, and Loliondo Game Controlled Area in the west. This entire ecosystem is intact and no barriers hamper the migration. Serengeti National Park is sufficiently large and intact to ensure the survival and vigour of all the species contained therein, if maintained in its present state but does not, by itself, ensure the protection of the entire ecosystem. However, all other parts of the ecosystem do have a greater or lesser degree of protection. A potential threat is the plan to build a transport infrastructure through the Serengeti. This would essentially cut the ecosystem into two halves, with predictably negative consequences on the Serengeti. Adding Maswa Game Reserve and Maasai Mara National Reserve to the World Heritage List, or giving then the status of a buffer zone would further safeguard the Outstanding Universal Values of this property. Another major potential threat to the integrity of the Park is the scarcity of surface water for the animals during dry years, as only one river (Mara) flows perennially through the Park. An extension of the Park boundary to reach Lake Victoria providing a corridor for animals to access water in times of drought is planned for the future to address this issue. Protection and management requirements The site has a well designated and partially demarcated boundary, and since 2009 funds have been allocated to demarcate the entire boundary. Its management is regulated by both international and government policies and legal obligations. The National Parks Ordinance Cap 412 of 1959 provides for Tanzania National Parks with the mandate to manage the site. In addition, The 1974 Tanzanian Wildlife Conservation Act and the 2009 Wildlife Conservation Act provide for both within the site and adjacent area protection of resources, respectively. A General Management Plan (2006-2016) has been formulated to guide the daily management of the site in a sustainable manner and is currently being implemented. The Plan provides guidance on how to execute the various activities within the park under four main Themes: Ecosystem Management, Outreach services, Tourism Management and Park Operations. The site has a reasonable level of human and financial resources for effective management, but as the activities expand, and more challenges emerge, the lack of sufficient resources remains a potential future constraint. The major management concerns include poaching, tourism pressure, wildfires, and lack of adequate capacity in resource monitoring. Another important management challenge is water: despite numerous sources of water during the rain season, there is only one perennial river (Mara) which is transnational. However, this river currently faces multiple human-mediated cross-boundary threats."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            10
+          ],
+          "all": [
+            7,
+            10
+          ],
+          "display": "(vii)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1476300,
+          "square_km": 14763.0,
+          "square_miles": 5974.383,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7c64a5012497c25bf57265b8a8bc59f6",
+          "filename": "site_0156_0001.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108454/site_0156_0001.jpg",
+            "https://whc.unesco.org/document/108456/site_0156_0002.jpg",
+            "https://whc.unesco.org/document/133601/site_0156_0045.jpg",
+            "https://whc.unesco.org/document/196081/site_0156_0046.jpg",
+            "https://whc.unesco.org/document/196082/site_0156_0047.jpg",
+            "https://whc.unesco.org/document/196083/site_0156_0048.jpg",
+            "https://whc.unesco.org/document/196084/site_0156_0049.jpg",
+            "https://whc.unesco.org/document/196085/site_0156_0050.jpg",
+            "https://whc.unesco.org/document/196086/site_0156_0051.jpg",
+            "https://whc.unesco.org/document/196087/site_0156_0052.jpg",
+            "https://whc.unesco.org/document/196088/site_0156_0053.jpg",
+            "https://whc.unesco.org/document/196089/site_0156_0054.jpg",
+            "https://whc.unesco.org/document/196090/site_0156_0055.jpg",
+            "https://whc.unesco.org/document/196091/site_0156_0056.jpg",
+            "https://whc.unesco.org/document/196092/site_0156_0057.jpg",
+            "https://whc.unesco.org/document/196093/site_0156_0058.jpg",
+            "https://whc.unesco.org/document/196094/site_0156_0059.jpg",
+            "https://whc.unesco.org/document/196095/site_0156_0060.jpg",
+            "https://whc.unesco.org/document/196096/site_0156_0061.jpg",
+            "https://whc.unesco.org/document/196097/site_0156_0062.jpg",
+            "https://whc.unesco.org/document/196098/site_0156_0063.jpg",
+            "https://whc.unesco.org/document/196099/site_0156_0064.jpg",
+            "https://whc.unesco.org/document/196100/site_0156_0065.jpg",
+            "https://whc.unesco.org/document/196101/site_0156_0066.jpg",
+            "https://whc.unesco.org/document/196102/site_0156_0067.jpg",
+            "https://whc.unesco.org/document/196103/site_0156_0068.jpg",
+            "https://whc.unesco.org/document/196104/site_0156_0069.jpg",
+            "https://whc.unesco.org/document/196105/site_0156_0070.jpg",
+            "https://whc.unesco.org/document/196106/site_0156_0071.jpg",
+            "https://whc.unesco.org/document/196107/site_0156_0072.jpg",
+            "https://whc.unesco.org/document/196108/site_0156_0073.jpg",
+            "https://whc.unesco.org/document/196109/site_0156_0074.jpg",
+            "https://whc.unesco.org/document/196110/site_0156_0075.jpg",
+            "https://whc.unesco.org/document/196111/site_0156_0076.jpg",
+            "https://whc.unesco.org/document/196113/site_0156_0077.jpg",
+            "https://whc.unesco.org/document/196114/site_0156_0078.jpg",
+            "https://whc.unesco.org/document/196115/site_0156_0079.jpg",
+            "https://whc.unesco.org/document/196116/site_0156_0080.jpg",
+            "https://whc.unesco.org/document/196117/site_0156_0081.jpg",
+            "https://whc.unesco.org/document/196118/site_0156_0082.jpg",
+            "https://whc.unesco.org/document/196119/site_0156_0083.jpg",
+            "https://whc.unesco.org/document/196120/site_0156_0084.jpg",
+            "https://whc.unesco.org/document/196121/site_0156_0085.jpg",
+            "https://whc.unesco.org/document/196122/site_0156_0086.jpg",
+            "https://whc.unesco.org/document/196123/site_0156_0087.jpg",
+            "https://whc.unesco.org/document/196124/site_0156_0088.jpg",
+            "https://whc.unesco.org/document/196125/site_0156_0089.jpg",
+            "https://whc.unesco.org/document/196126/site_0156_0090.jpg",
+            "https://whc.unesco.org/document/196127/site_0156_0091.jpg",
+            "https://whc.unesco.org/document/196128/site_0156_0092.jpg",
+            "https://whc.unesco.org/document/196129/site_0156_0093.jpg",
+            "https://whc.unesco.org/document/196130/site_0156_0094.jpg",
+            "https://whc.unesco.org/document/196131/site_0156_0095.jpg",
+            "https://whc.unesco.org/document/196132/site_0156_0096.jpg",
+            "https://whc.unesco.org/document/196133/site_0156_0097.jpg",
+            "https://whc.unesco.org/document/196134/site_0156_0098.jpg",
+            "https://whc.unesco.org/document/196135/site_0156_0099.jpg",
+            "https://whc.unesco.org/document/196136/site_0156_0100.jpg",
+            "https://whc.unesco.org/document/196137/site_0156_0101.jpg",
+            "https://whc.unesco.org/document/196138/site_0156_0102.jpg",
+            "https://whc.unesco.org/document/196139/site_0156_0103.jpg",
+            "https://whc.unesco.org/document/196140/site_0156_0104.jpg",
+            "https://whc.unesco.org/document/196141/site_0156_0105.jpg",
+            "https://whc.unesco.org/document/196142/site_0156_0106.jpg",
+            "https://whc.unesco.org/document/196143/site_0156_0107.jpg",
+            "https://whc.unesco.org/document/196144/site_0156_0108.jpg",
+            "https://whc.unesco.org/document/196145/site_0156_0109.jpg",
+            "https://whc.unesco.org/document/196146/site_0156_0110.jpg",
+            "https://whc.unesco.org/document/196147/site_0156_0111.jpg",
+            "https://whc.unesco.org/document/196148/site_0156_0112.jpg",
+            "https://whc.unesco.org/document/196149/site_0156_0113.jpg",
+            "https://whc.unesco.org/document/196150/site_0156_0114.jpg",
+            "https://whc.unesco.org/document/196151/site_0156_0115.jpg",
+            "https://whc.unesco.org/document/196152/site_0156_0116.jpg",
+            "https://whc.unesco.org/document/196153/site_0156_0117.jpg",
+            "https://whc.unesco.org/document/196154/site_0156_0118.jpg",
+            "https://whc.unesco.org/document/196155/site_0156_0119.jpg",
+            "https://whc.unesco.org/document/196156/site_0156_0120.jpg",
+            "https://whc.unesco.org/document/196157/site_0156_0121.jpg",
+            "https://whc.unesco.org/document/108459/site_0156_0003.jpg",
+            "https://whc.unesco.org/document/108461/site_0156_0004.jpg",
+            "https://whc.unesco.org/document/108463/site_0156_0005.jpg",
+            "https://whc.unesco.org/document/108465/site_0156_0006.jpg",
+            "https://whc.unesco.org/document/108467/site_0156_0007.jpg",
+            "https://whc.unesco.org/document/108469/site_0156_0008.jpg",
+            "https://whc.unesco.org/document/108471/site_0156_0009.jpg",
+            "https://whc.unesco.org/document/108474/site_0156_0010.jpg",
+            "https://whc.unesco.org/document/108476/site_0156_0011.jpg",
+            "https://whc.unesco.org/document/108478/site_0156_0012.jpg",
+            "https://whc.unesco.org/document/108480/site_0156_0013.jpg",
+            "https://whc.unesco.org/document/108484/site_0156_0015.jpg",
+            "https://whc.unesco.org/document/108487/site_0156_0016.jpg",
+            "https://whc.unesco.org/document/108489/site_0156_0017.jpg",
+            "https://whc.unesco.org/document/108491/site_0156_0018.jpg",
+            "https://whc.unesco.org/document/108493/site_0156_0019.jpg",
+            "https://whc.unesco.org/document/108495/site_0156_0020.jpg",
+            "https://whc.unesco.org/document/108497/site_0156_0021.jpg",
+            "https://whc.unesco.org/document/108503/site_0156_0024.jpg",
+            "https://whc.unesco.org/document/108505/site_0156_0025.jpg",
+            "https://whc.unesco.org/document/119472/site_0156_0026.jpg",
+            "https://whc.unesco.org/document/119473/site_0156_0027.jpg",
+            "https://whc.unesco.org/document/119474/site_0156_0028.jpg",
+            "https://whc.unesco.org/document/119475/site_0156_0029.jpg",
+            "https://whc.unesco.org/document/119476/site_0156_0030.jpg",
+            "https://whc.unesco.org/document/125748/site_0156_0031.jpg",
+            "https://whc.unesco.org/document/125749/site_0156_0032.jpg",
+            "https://whc.unesco.org/document/125750/site_0156_0033.jpg",
+            "https://whc.unesco.org/document/125751/site_0156_0034.jpg",
+            "https://whc.unesco.org/document/125752/site_0156_0035.jpg",
+            "https://whc.unesco.org/document/125753/site_0156_0036.jpg",
+            "https://whc.unesco.org/document/133587/site_0156_0038.jpg",
+            "https://whc.unesco.org/document/133588/site_0156_0039.jpg",
+            "https://whc.unesco.org/document/133590/site_0156_0041.jpg",
+            "https://whc.unesco.org/document/133597/site_0156_0043.jpg",
+            "https://whc.unesco.org/document/133599/site_0156_0044.jpg"
+          ],
+          "count": 115
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Serengeti National Park",
+            "ref": "156",
+            "latitude": -2.33333,
+            "longitude": 34.56667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/156",
+        "unesco_documents": "https://whc.unesco.org/en/list/156/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/156/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/156/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Serengeti National Park The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world. The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world. Tanzania Africa Natural"
+    },
+    {
+      "site_key": "ruins_of_kilwa_kisiwani_and_ruins_of_songo_mnara",
+      "uuid": "7c88fddb-1ed0-54e0-8091-85e3392cbd32",
+      "unesco_id": "144",
+      "names": {
+        "en": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+        "fr": "Ruines de Kilwa Kisiwani et de Songo Mnara",
+        "es": "Ruinas de Kilwa Kisiwani y Songo Mnara",
+        "ru": "Руины Килва-Кисивани и Сонга-Манара",
+        "ar": "آثار كيلوا كيسيواني وسونغو منارا",
+        "zh": "基尔瓦基斯瓦尼遗址和松戈马拉遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands.",
+          "fr": "Sur deux petites îles toutes proches de la côte tanzanienne, subsistent les vestiges de deux grands ports qui firent l'admiration des premiers voyageurs européens. Du XIIIe au XVIe siècle, les marchands de Kilwa échangèrent l'or, l'argent, les perles, les parfums, la vaisselle d'Arabie, les faïences de Perse et la porcelaine de Chine, tenant ainsi entre leurs mains une bonne part du commerce de l'océan Indien.",
+          "es": "En dos pequeñas islas muy cercanas a la costa tanzana subsisten vestigios de dos importantes puertos que fueron la admiración de los primeros viajeros europeos en el África Oriental. Desde el siglo XIII hasta el XVI, una gran parte del comercio del Océano Índico pasó por las manos de los mercaderes de Kilwa que traficaban con oro, plata, perlas, perfumes, loza de Arabia, cerámica de Persia y porcelana de China.",
+          "ru": "Остатки двух значительных портов Восточной Африки, восхищавших первых европейских пришельцев, находятся на двух небольших островах около побережья. В XIII-XVI вв. купцы Килвы торговали золотом, серебром, жемчугом, духами, арабской посудой, персидской керамикой и китайским фарфором. Большая часть торговли в регионе Индийского океана проходила через их руки.",
+          "ar": "تقبع على جزيرتين صغيرتين قريبتين من ساحل تانزانيا آثار مرفئين كبيرين حظيا بإعجاب المسافرين الاوروبيين الأوائل. وما بين القرن الثالث عشر والسادس عشر، كان تجار كيلوا يتبادلون الذهب والفضة واللؤلؤ والعطور والاواني العربية والخزفيات الفارسية والبورسلان الصيني، فيمسكون بزمام جزء كبير من تجارة المحيط الهندي.",
+          "zh": "在海岸边的两个小岛上，保存着两个被早期欧洲探险家所称颂为伟大的东非港口的遗址。从13世纪到16世纪，基尔瓦商人从事黄金、白银、珍珠、香水、阿拉伯陶器、波斯土陶以及中国瓷器的贸易，许多印度洋上的贸易是由他们经手的。"
+        },
+        "full": "The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands.",
+        "justification": "Brief synthesis Located on two islands close to each other just off the Tanzanian coast about 300km south of Dar es Salaam are the remains of two port cites, Kilwa Kisiwani and Songo Mnara. The larger, Kilwa Kisiwani, was occupied from the 9th to the 19th century and reached its peak of prosperity in the13th and 14th centuries. In 1331-1332, the great traveler, Ibn Battouta made a stop here and described Kilwa as one of the most beautiful cities of the world. Kilwa Kisiwani and Songo Mnara were Swahili trading cities and their prosperity was based on control of Indian Ocean trade with Arabia, India and China, particularly between the 13th and 16th centuries, when gold and ivory from the hinterland was traded for silver, carnelians, perfumes, Persian faience and Chinese porcelain. Kilwa Kisiwani minted its own currency in the 11th to 14th centuries. In the 16th century, the Portuguese established a fort on Kilwa Kisiwani and the decline of the two islands began. The remains of Kilwa Kisiwani cover much of the island with many parts of the city still unexcavated. The substantial standing ruins, built of coral and lime mortar, include the Great Mosque constructed in the 11th century and considerably enlarged in the 13th century, and roofed entirely with domes and vaults, some decorated with embedded Chinese porcelain; the palace Husuni Kubwa built between c1310 and 1333 with its large octagonal bathing pool; Husuni Ndogo, numerous mosques, the Gereza (prison) constructed on the ruins of the Portuguese fort and an entire urban complex with houses, public squares, burial grounds, etc. The ruins of Songo Mnara, at the northern end of the island, consist of the remains of five mosques, a palace complex, and some thirty-three domestic dwellings constructed of coral stones and wood within enclosing walls. The islands of Kilwa Kisiwani and Songo Mnara bear exceptional testimony to the expansion of Swahili coastal culture, the lslamisation of East Africa and the extraordinarily extensive and prosperous Indian Ocean trade from the medieval period up to the modern era. Criterion (iii): Kilwa Kisiwani and Songo Mnara provide exceptional architectural, archaeological and documentary evidence for the growth of Swahili culture and commerce along the East African coast from the 9th to the 19th centuries, offering important insights regarding economic, social and political dynamics in this region. The Great Mosque of Kilwa Kisiwani is the oldest standing mosque on the East African coast and, with its sixteen domed and vaulted bays, has a unique plan. Its true great dome dating from the 13th was the largest dome in East Africa until the 19th century. Integrity The key attributes conveying outstanding universal value are found on the islands of Kilwa Kisiwani and Songo Mnara. However, two associated groups of attributes at Kilwa Kivinje, a mainly 19th century trading town, and Sanje Ya Kati, an island to the south of Kilwa where there are ruins covering 400 acres, including houses and a mosque that date to the 10th century or even earlier, are not included within the boundaries of the property. The property is subject to invasion by vegetation and inundation by the sea, and vulnerable to encroachment by new buildings and agriculture activities that threaten the buried archaeological resources. The continued deterioration and decay of the property leading to collapse of the historical and archeological structures for which the property was inscribed, resulted in the property being placed on the List of World Heritage in Danger in 2004. Authenticity The ability of the islands to continue to express truthfully their values has been maintained in terms of design and materials due to limited consolidation of the structures using coral stone and other appropriate materials, but is vulnerable, particularly on Kilwa Kisiwani to urban encroachment and coastal damage as these threaten the ability to understand the overall layout of the mediaeval port city. The ability of the sites to retain their authenticity depends on implementation of an ongoing conservation programme that addresses all the corrective measures necessary to achieve removal of the property from the List of World Heritage in Danger. Protection and management requirements The sites comprising the property are legally protected through the existing cultural resource policy (2008), Antiquities Law (the Antiquities Act of 1964 and its Amendment of 1979) and established Rules and Regulations. Both the Antiquities laws and regulations are currently being reviewed. The property is administered under the authority of the Antiquities Division. A site Managerand Assistant Conservators are responsible for the management of the sites. A Management Plan was established in 2004 and is currently under revision. Key management issues include climate change impact due to increased waveaction and beach erosion; encroachment on the site by humans and animals (cattle and goats); an inadequate conservation programme for all the monuments, and inadequate community participation and awarenessof associated benefits. Long term major threats to the site will be addressed and mechanisms for involvement of the community and other stakeholders will be employed to ensure the sustainable conservation and continuity of the site. There is a need for better zoning of the property for planning in order to ensure development and agricultural uses do not impact adversely on the structures and buried archaeology."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1981,
+          "all_dates": [
+            1981
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1981,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b7797d5facdc3dc83b973b5b9c15191c",
+          "filename": "site_0144_0001.jpg",
+          "dimensions": {
+            "width": 2000,
+            "height": 3008
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108259/site_0144_0001.jpg",
+            "https://whc.unesco.org/document/108261/site_0144_0002.jpg",
+            "https://whc.unesco.org/document/108263/site_0144_0003.jpg",
+            "https://whc.unesco.org/document/108265/site_0144_0004.jpg",
+            "https://whc.unesco.org/document/108267/site_0144_0005.jpg",
+            "https://whc.unesco.org/document/108269/site_0144_0006.jpg",
+            "https://whc.unesco.org/document/108271/site_0144_0007.jpg",
+            "https://whc.unesco.org/document/108273/site_0144_0008.jpg",
+            "https://whc.unesco.org/document/108275/site_0144_0009.jpg",
+            "https://whc.unesco.org/document/108277/site_0144_0010.jpg",
+            "https://whc.unesco.org/document/108279/site_0144_0011.jpg",
+            "https://whc.unesco.org/document/108281/site_0144_0012.jpg",
+            "https://whc.unesco.org/document/108283/site_0144_0013.jpg",
+            "https://whc.unesco.org/document/108285/site_0144_0014.jpg",
+            "https://whc.unesco.org/document/108287/site_0144_0015.jpg",
+            "https://whc.unesco.org/document/108289/site_0144_0016.jpg",
+            "https://whc.unesco.org/document/108291/site_0144_0017.jpg",
+            "https://whc.unesco.org/document/108295/site_0144_0019.jpg",
+            "https://whc.unesco.org/document/108297/site_0144_0020.jpg",
+            "https://whc.unesco.org/document/108299/site_0144_0021.jpg",
+            "https://whc.unesco.org/document/108301/site_0144_0022.jpg",
+            "https://whc.unesco.org/document/108303/site_0144_0023.jpg",
+            "https://whc.unesco.org/document/108305/site_0144_0024.jpg",
+            "https://whc.unesco.org/document/108307/site_0144_0025.jpg",
+            "https://whc.unesco.org/document/108309/site_0144_0026.jpg",
+            "https://whc.unesco.org/document/108311/site_0144_0027.jpg",
+            "https://whc.unesco.org/document/108313/site_0144_0028.jpg",
+            "https://whc.unesco.org/document/108315/site_0144_0029.jpg",
+            "https://whc.unesco.org/document/108317/site_0144_0030.jpg",
+            "https://whc.unesco.org/document/108319/site_0144_0031.jpg",
+            "https://whc.unesco.org/document/108321/site_0144_0032.jpg",
+            "https://whc.unesco.org/document/108323/site_0144_0033.jpg",
+            "https://whc.unesco.org/document/108325/site_0144_0034.jpg",
+            "https://whc.unesco.org/document/127034/site_0144_0035.jpg",
+            "https://whc.unesco.org/document/127035/site_0144_0036.jpg"
+          ],
+          "count": 35
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Ruins of Songo Mnara",
+            "ref": "144-002",
+            "latitude": -9.0494444444,
+            "longitude": 39.5672222222
+          },
+          {
+            "name": "Ruins of Kilwa Kisiwani",
+            "ref": "144-001",
+            "latitude": -8.9577777778,
+            "longitude": 39.5227777778
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/144",
+        "unesco_documents": "https://whc.unesco.org/en/list/144/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/144/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/144/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 44,
+        "inscription_year": 1981
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands. The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands. Tanzania Africa Cultural"
+    },
+    {
+      "site_key": "stone_town_of_zanzibar",
+      "uuid": "8cb9858f-ee16-582f-89ab-95349a8d3f80",
+      "unesco_id": "173",
+      "names": {
+        "en": "Stone Town of Zanzibar",
+        "fr": "La ville de pierre de Zanzibar",
+        "es": "Ciudad de piedra de Zanzíbar",
+        "ru": "«Каменный город» в Занзибаре",
+        "ar": "مدينة زنجبار الحجرية",
+        "zh": "桑给巴尔石头城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.",
+          "fr": "La Ville de pierre de Zanzibar est un magnifique exemple des villes marchandes côtières swahilies d'Afrique de l'Est. Elle a conservé un tissu et un paysage urbains quasiment intacts, et beaucoup de bâtiments superbes qui reflètent sa culture particulière, fusion d'éléments disparates des cultures africaines, arabes, indiennes et européennes sur plus d'un millénaire.",
+          "es": "La ciudad de piedra de Zanzíbar es un magnífico ejemplo de las ciudades comerciales swahilíes del litoral del África Oriental. Ha conservado su tejido y paisaje urbanos prácticamente intactos, así como muchos edificios soberbios que ponen de manifiesto la peculiar cultura de la región, en la que se han fundido y homogeneizado a lo largo de más de un milenio elementos muy diversos de las civilizaciones de África, Arabia, la India y Europa.",
+          "ru": "«Каменный город» в Занзибаре – это прекрасный пример прибрежного торгового города народа суахили в Восточной Африке. Он сохранил свою городскую застройку и облик в почти нетронутом виде и имеет много прекрасных зданий, отражающих особенности этой цивилизации, которая в течение более чем тысячелетия вбирала в себя и объединяла элементы культур Африки, Арабского региона, Индии и Европы.",
+          "ar": "تشكل مدينة زنجبار الحجرية نموذجاً رائعاً من المدن التجارية الساحلية السواحيلية في افريقيا الشرقية. وقد حافظت على نسيج ومنظر مدني لا يزالان على حالهما وعلى أبنية رائعة تروي ثقافتها المميزة القائمة على مزيج عناصر متفاوتة من الثقافة الافريقية والعربية والهندية والأوروبية امتد على أكثر من ألف سنة.",
+          "zh": "在东非斯瓦希里沿岸的贸易城镇中，桑给巴尔石头镇是一个典型代表。它的城市结构和景观至今未变，包括许多反映它独特文化的精美建筑。这些建筑已有了上千年的历史，它们被建造在一起，从而使非洲、阿拉伯、印度、欧洲这些风格迥异的文化因素融为一体。"
+        },
+        "full": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.",
+        "justification": "Brief synthesis Located on a promontory jutting out from the western side of Unguja island into the Indian Ocean, the Stone Town of Zanzibar is an outstanding example of a Swahili trading town. This type of town developed on the coast of East Africa, further expanded under Arab, Indian, and European influences, but retained its indigenous elements, to form an urban cultural unit unique to this region. The Stone Town of Zanzibar retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium. The buildings of the Stone Town, executed principally in coralline ragstone and mangrove timber, set in a thick lime mortar and then plastered and lime-washed, reflect a complex fusion of Swahili, Indian, Arab and European influences in building traditions and town planning. The two storey houses with long narrow rooms disposed round an open courtyard, reached through a narrow corridor, are distinguished externally by elaborately carved double ‘Zanzibar’ doors, and some by wide vernadahs, and by richly decorated interiors. Together with, the simple ground floor Swahili houses and the narrow façade Indian shops along “bazaar” streets constructed around a commercial space “duka”. The major buildings date from the 18th and 19th centuries and include monuments such as the Old Fort, built on the site of an earlier Portuguese church; the house of wonder, a large ceremonial palace built by Sultan Barghash; the Old Dispensary; St. Joseph’s Roman Catholic Cathedral; Christ Church Anglican Cathedral commemorating the work of David Livingston in abolishing the slave trade and built on the site of the last slave market; the residence of the slave trader Tippu Tip; the Malindi Bamnara Mosque; the Jamat Khan built for the Ismaili sect; the Royal Cemetery; the Hamamni and other Persian baths. Together with the narrow, winding street pattern, large mansions facing the seafront and open spaces these buildings form an exceptional urban settlement reflecting the longstanding trading activity between the African and Asian seaboards. In particular the Stone town’s is also marked by being the site where slave-trading was finally terminated. Criterion (ii): The Stone Town of Zanzibar is an outstanding material manifestation of cultural fusion and harmonization. Criterion (iii): For many centuries there was intense seaborne trading activity between Asia and Africa, and this is illustrated in an exceptional manner by the architecture and urban structure of the Stone Town. Criterion (vi): Zanzibar has great symbolic importance in the suppression of slavery, since it was one of the main slave-trading ports in East Africa and also the base from which its opponents, such as David Livingstone, conducted their campaign. Integrity The individual buildings in the Stone town manifest, through their structure, construction materials and techniques, the interchange and influence of the different cultures around the Indian Ocean rim. The outstanding universal value of the property resides in the character of the assemblage of blocks (cluster) and buildings, the layout of the Town including the relationship of buildings to the open spaces, streets, roads and gardens, the character of the littoral edge viewed from the sea, and the nature of access to the sea from the land. These are all still intact but the buildings are vulnerable to deterioration and the visual aspect from the sea is vulnerable to inappropriate development. Work on the Malindi Port development project, including the loss of two historic warehouses, and erection of new, inappropriately scaled and designed port facilities without prior approval has created a precedent on how unintegrated development, and legitimate modern inspiration of Zanzibaris, if not well thought through and articulated, could be a threat to the integrity of the property. The property boundary coincides with the boundary of the Urban Conservation Area including the port area to the north, bounded by beaches along the north-west and south-west, open areas to the east and older part of Darajani Street. The buffer zone covers the historic part of Ng’ambo that includes part of the modernist buildings of Michenzani and the main road of Mlandege. Authenticity The ensemble of the town largely preserves its historic urban fabric and landscape. The buildings, their uses, and the layout of the streets continue to express the interchange of human values around the Indian Ocean rim. The materials and the skills of construction used in the town are still widely used in the Zanzibar archipelago and the Swahili coastal zone. The local artisans are competent in both the traditional building techniques and the skills needed to produce quality construction materials, namely laterite-sand, lime and coral stone. Traditional materials and construction techniques are still being employed to a large extent, though there is growing competition from modern materials, designs, and techniques.The continuity of traditional uses of most of the buildings in the historic town as residential and commercial space maintains the town as an important administrative and economic centre of the archipelago. Yet, the authenticity of the Stone Town in its setting is vulnerable to the inappropriate scale and design of new development in the property and its buffer zone. Protection and management requirements Cultural property in the Zanzibar archipelago is protected under the “Ancient Monuments Act” of 1948. This legal framework protects individual monuments and sites Gazetted in the Official Gazette. Responsibility for the monitoring and management of these monuments falls within the jurisdiction of the Department of Museums and Antiquity. The Town and Country Planning act of 1955 also provides a clause to protect historically important houses. The Stone Town has been protected as a conservation area since 1985, under the Town and Country Planning Act of 1955. Finally, values, boundaries and features have been further protected by the Stone Town Conservation and Development Act of 1994 and the associated Master Plan which specifies actions and strategies to be taken to safeguard, conserve and develop the values of the Stone Town. Together with these legal frameworks, the Stone Town Conservation and Development Authority (STCDA) which was created in 1985 has a full mandate to coordinate and supervise the Master Plan of 1994. Many buildings of the Stone Town are also protected by other institutions such as the Department of Housing and Human Settlement and the Commission of Waqf. A Management Plan for the property was prepared by the STCDA in consultation with all stakeholders, in 2007, with the stated vision to: “protect and enhance the Stone Town cultural heritage leading to it being well preserved as a sustainable human settlement supportive of its cultural diversity and maintaining its Outstanding Universal Values”. The Stone Town is not only an historic living town but also a commercial and socio-cultural centre of the Zanzibar Archipelago. As such, the property is subject to the pressure of development, manifested through traffic problems, changes of land uses and the lack and high expense of accommodation inside the Stone Town. Tourist development since 1990 is an important factor in the development pressure on the town. However the absence of clear policies on heritage promotion, cultural tourism, and the lack of a strategy on how to accommodate tourism development, and on how to revitalize public spaces could result in random development that could threaten its Outstanding Universal Value. The management system set out in the Management Plan (2007), produced by comprehensive consultative approach under the supervision of STCDA aimed to mitigate these pressures. Nevertheless, an integrated and sustainable conservation and development approaches are urgently needed in order to develop practical sustainable management strategies to ensure that the overall coherence of the town and its highly distinctive town planning, architecture and traditional methods and materials of construction are sustained."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3
+          ],
+          "display": "(ii)(iii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 96,
+          "square_km": 0.96,
+          "square_miles": 0.388,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2d40159ea171807c329033ee27a66aba",
+          "filename": "site_0173_0001.jpg",
+          "dimensions": {
+            "width": 800,
+            "height": 522
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108828/site_0173_0001.jpg",
+            "https://whc.unesco.org/document/108830/site_0173_0002.jpg",
+            "https://whc.unesco.org/document/108832/site_0173_0003.jpg",
+            "https://whc.unesco.org/document/108834/site_0173_0004.jpg",
+            "https://whc.unesco.org/document/108836/site_0173_0005.jpg",
+            "https://whc.unesco.org/document/108838/site_0173_0006.jpg",
+            "https://whc.unesco.org/document/108841/site_0173_0007.jpg",
+            "https://whc.unesco.org/document/108843/site_0173_0008.jpg",
+            "https://whc.unesco.org/document/108845/site_0173_0009.jpg",
+            "https://whc.unesco.org/document/108847/site_0173_0010.jpg",
+            "https://whc.unesco.org/document/108849/site_0173_0011.jpg",
+            "https://whc.unesco.org/document/108851/site_0173_0012.jpg",
+            "https://whc.unesco.org/document/108855/site_0173_0014.jpg",
+            "https://whc.unesco.org/document/108857/site_0173_0015.jpg",
+            "https://whc.unesco.org/document/108859/site_0173_0016.jpg",
+            "https://whc.unesco.org/document/108861/site_0173_0017.jpg",
+            "https://whc.unesco.org/document/108863/site_0173_0018.jpg",
+            "https://whc.unesco.org/document/108869/site_0173_0021.jpg",
+            "https://whc.unesco.org/document/108871/site_0173_0022.jpg",
+            "https://whc.unesco.org/document/125262/site_0173_0023.jpg",
+            "https://whc.unesco.org/document/125263/site_0173_0024.jpg",
+            "https://whc.unesco.org/document/125264/site_0173_0025.jpg",
+            "https://whc.unesco.org/document/125265/site_0173_0026.jpg",
+            "https://whc.unesco.org/document/125266/site_0173_0027.jpg",
+            "https://whc.unesco.org/document/125267/site_0173_0028.jpg",
+            "https://whc.unesco.org/document/133591/site_0173_0029.jpg",
+            "https://whc.unesco.org/document/133592/site_0173_0030.jpg",
+            "https://whc.unesco.org/document/133593/site_0173_0031.jpg",
+            "https://whc.unesco.org/document/133595/site_0173_0033.jpg",
+            "https://whc.unesco.org/document/133600/site_0173_0035.jpg",
+            "https://whc.unesco.org/document/133602/site_0173_0036.jpg",
+            "https://whc.unesco.org/document/133604/site_0173_0038.jpg"
+          ],
+          "count": 32
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Stone Town of Zanzibar",
+            "ref": "173rev",
+            "latitude": -6.16306,
+            "longitude": 39.18917
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/173",
+        "unesco_documents": "https://whc.unesco.org/en/list/173/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/173/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/173/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Stone Town of Zanzibar The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium. The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium. Tanzania Africa Cultural"
+    },
+    {
+      "site_key": "kilimanjaro_national_park",
+      "uuid": "a718f3a4-507f-567e-b355-c67d66b14cfe",
+      "unesco_id": "403",
+      "names": {
+        "en": "Kilimanjaro National Park",
+        "fr": "Parc national du Kilimandjaro",
+        "es": "Parque Nacional del Kilimanjaro",
+        "ru": "Национальный парк Килиманджаро",
+        "ar": "منتزه كيليمانجارو الوطني",
+        "zh": "乞力马扎罗国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park.",
+          "fr": "Point culminant de l’Afrique à une altitude de 5 895 m, le Kilimandjaro est un massif volcanique dont la cime isolée, couverte de neiges éternelles, surplombe la savane avoisinante. Il est entouré d’une forêt de montagne et abrite de nombreux mammifères, dont beaucoup appartiennent à des espèces menacées.",
+          "es": "El macizo volcánico del Kilimanjaro, rematado por su célebre pico de 5.895 metros de altitud, es el “techo” del continente africano. Cubierta de nieves perpetuas, su cima se yergue solitaria en medio de la sabana circundante y está rodeada por un bosque de montaña donde viven numerosas especies de mamíferos, muchas de las cuales se hallan en peligro de extinción.",
+          "ru": "Гора Килиманджаро (5963 м) – самая высокая точка Африки. Этот вулканический горный массив со снежной вершиной ярко выделяется на фоне окружающих его равнинных саванн. Склоны горы покрыты тропическим лесом. Здесь обитают разнообразные млекопитающие, многие из которых признаны исчезающими.",
+          "ar": "روضة كيليمانجارو الوطنية يشكل كيليمانجارو أعلى نقطة في افريقيا إذ يبلغ ارتفاعه 5895 متراً. وهو عبارة عن كتلة بركانية تطل بقمتها المعزولة المغطاة بالثلوج الأزلية على السافانا المجاورة وتحيط بها غابة جبلية، كما تحتضن عدداً كبيراً من الثدييات التي ينتمي الكثير منها الى أصناف مهددة.",
+          "zh": "乞力马扎罗山是非洲的制高点，它是一个火山丘，有5895米高，矗立在周围的草原之上，它那终年积雪的山顶在大草原上若隐若现。乞力马扎罗山四周都是山林，那里生活着众多的哺乳动物，其中一些还属于濒于灭绝的种类。"
+        },
+        "full": "At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park.",
+        "justification": "Brief synthesis Kilimanjaro National Park covering an area of some 75,575 ha protects the largest free standing volcanic mass in the world and the highest mountain in Africa, rising 4877m above surrounding plains to 5895m at its peak. With its snow-capped peak, the Kilimanjaro is a superlative natural phenomenon, standing in isolation above the surrounding plains overlooking the savannah. Criterion vii: Mount Kilimanjaro is one of the largest volcanoes in the world. It has three main volcanic peaks, Kibo, Mawenzi, and Shira. With its snow-capped peak and glaciers, it is the highest mountain in Africa. The mountain has five main vegetation zones from the lowest to the highest point: Lower slopes, montane forest, heath and moorland, alpine desert and summit. The whole mountain including the montane forest belt is very rich in species, in particular mammals, many of them endangered species. For this combination of features but mostly its height, its physical form and snow cap and its isolation above the surrounding plains, Mount Kilimanjaro is considered an outstanding example of a superlative natural phenomenon. Integrity Kilimanjaro National Park, established in 1973, initially comprised the whole of the mountain above the tree line and six forest corridors stretching down through the montane forest belt. At the time of inscription in 1987, the main pressures affected mostly the forest reserve which acted as a buffer zone to the park. The World Heritage Committee recommended extending the national park to include more areas of montane forest. Following a 2005 extension, the National Park includes the whole of the mountain above the tree line as well as the natural forest (montane forest) which was under Kilimanjaro Forest Reserve, and as such fulfils the criteria of integrity. It is important that the extension of the National Park be reflected in the boundaries of the property. The wildlife of the property is important to the experience of Kilimanjaro, although the property is not inscribed in relation to biodiversity criteria. Pressures on elephant, buffalo and antelope, and logging in the Forest Reserve area, were noted as integrity concerns at the time of inscription. The park is connected to Amboseli National Park, however corridors to Arusha National Park and Tsavo National park have been encroached, impacting on wildlife migration. Protection and management requirements Kilimanjaro National Park is protected under national legislation as a National Park and a management plan is in place. The property requires an effective and managing organization, including sufficient well equipped ranger presence to be able to carry out surveillance and implementation of the management plan. A key management issue is maintaining the aesthetic quality of the property as a spectacular natural site. Protecting its visual integrity and sustaining its natural integrity are key management issues. Key viewpoints to the property also need to be protected, including from Arusha and Amboseli where the most famous views of the property can be seen. An effective programme of research and monitoring of the property is also required. Threats to the property include increasing and cumulative stress from sources such as adjacent land uses, downstream effects of air and water pollution, invasive species, fire and climate change. The glaciers of the property are vulnerable to retreat, and are cited as a feature of particular vulnerability to global climate change. The impacts from these threats need to be closely monitored and minimized. Tourism poses a significant threat and careful planning of related infrastructure and access development is required. Human pressure on the property needs to be managed, which can result otherwise in illegal harvest of its resources, encroachments to park boundary and blockage of migratory routes and dispersal areas. Education programmes and integration of park management with all involved partners and stakeholders, including the surrounding rural population, is essential."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7
+          ],
+          "all": [
+            7
+          ],
+          "display": "(vii)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 75575,
+          "square_km": 755.75,
+          "square_miles": 305.842,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1987,
+          "all_dates": [
+            1987
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1987,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/54a4839f104e0b5054ebe516602b95a8",
+          "filename": "site_0403_0001-500-0-20151105162509.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111360/site_0403_0001.jpg",
+            "https://whc.unesco.org/document/111362/site_0403_0002.jpg",
+            "https://whc.unesco.org/document/111365/site_0403_0003.jpg",
+            "https://whc.unesco.org/document/111366/site_0403_0004.jpg",
+            "https://whc.unesco.org/document/111368/site_0403_0005.jpg",
+            "https://whc.unesco.org/document/111370/site_0403_0006.jpg",
+            "https://whc.unesco.org/document/111373/site_0403_0007.jpg",
+            "https://whc.unesco.org/document/111374/site_0403_0008.jpg",
+            "https://whc.unesco.org/document/111377/site_0403_0009.jpg",
+            "https://whc.unesco.org/document/111378/site_0403_0010.jpg",
+            "https://whc.unesco.org/document/137232/site_0403_0011.jpg",
+            "https://whc.unesco.org/document/137233/site_0403_0012.jpg",
+            "https://whc.unesco.org/document/137234/site_0403_0013.jpg",
+            "https://whc.unesco.org/document/137235/site_0403_0014.jpg",
+            "https://whc.unesco.org/document/137236/site_0403_0015.jpg",
+            "https://whc.unesco.org/document/159388/site_0403_0016.jpg",
+            "https://whc.unesco.org/document/159389/site_0403_0017.jpg",
+            "https://whc.unesco.org/document/159390/site_0403_0018.jpg",
+            "https://whc.unesco.org/document/159391/site_0403_0019.jpg",
+            "https://whc.unesco.org/document/159392/site_0403_0020.jpg",
+            "https://whc.unesco.org/document/159393/site_0403_0021.jpg",
+            "https://whc.unesco.org/document/159394/site_0403_0022.jpg",
+            "https://whc.unesco.org/document/159395/site_0403_0023.jpg",
+            "https://whc.unesco.org/document/159396/site_0403_0024.jpg",
+            "https://whc.unesco.org/document/159397/site_0403_0025.jpg"
+          ],
+          "count": 25
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Kilimanjaro National Park",
+            "ref": "403",
+            "latitude": -3.06667,
+            "longitude": 37.36667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/403",
+        "unesco_documents": "https://whc.unesco.org/en/list/403/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/403/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/403/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 38,
+        "inscription_year": 1987
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kilimanjaro National Park At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park. At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park. Tanzania Africa Natural"
+    },
+    {
+      "site_key": "kondoa_rock_art_sites",
+      "uuid": "f3ae722e-d0b7-5932-a70e-54bd71c2cd16",
+      "unesco_id": "1183",
+      "names": {
+        "en": "Kondoa Rock-Art Sites",
+        "fr": "Sites d’art rupestre de Kondoa",
+        "es": "Sitios de arte rupestre de Kondoa",
+        "ru": "Наскальные изображения в Кондоа",
+        "ar": "مواقع كوندوا لفن النقوش والرسوم على الصخور",
+        "zh": "孔多阿岩画遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions.",
+          "fr": "Dans cette zone de 2 336 km2 située sur les versants orientaux de l’escarpement masaï bordant la grande vallée du rift, on trouve des abris sous roche naturels, surplombant des dalles de roches sédimentaires fragmentées par les failles du rift, dont les plans verticaux ont servi de support à des peintures rupestres pendant au moins deux millénaires. La collection spectaculaire d’images - souvent d’une grande valeur artistique - réparties dans plus de 150 abris présente des séquences qui constituent un témoignage unique de l’évolution socio-économique de la région, des chasseurs-cueilleurs aux sociétés agro-pastorales, et des croyances et idées qui leur sont associées. Les gens habitant aux environs des abris continuent de les associer à des pratiques rituelles.",
+          "es": "Estos sitios se hallan en una zona de 2.336 km2 que se extiende por las laderas orientales de la escarpadura de la región de los masai, bordeando el Gran Valle del Rift. Poseen refugios naturales protegidos por losas sedimentarias fragmentadas por las fallas del rift, en cuyos planos verticales se encuentran pinturas rupestres ejecutadas a lo largo de dos milenios por lo menos. Diseminada en más de 150 refugios, la espectacular serie de figuras de estos sitios cuenta con muchas de gran valor artístico. Las escenas pintadas constituyen un testimonio excepcional de la evolución de la base socioeconómica de la región –transición de sociedades de cazadores-recolectores a sociedades agrícolas-pastorales– y de las creencias e ideas de los distintos grupos humanos que las representaron. Algunos de los refugios están vinculados a las creencias, los ritos y las visiones cosmológicas de las poblaciones vecinas, que los siguen utilizando para determinadas prácticas rituales.",
+          "ru": "Кондоа – это территория на восточных склонах Масайского обрыва, примыкающего к Большой Рифтовой долине, с множеством естественных скальных укрытий, отвесные поверхности которых использовались для нанесения рисунков в течение, по крайней мере, двух тысячелетий. Замечательное собрание изображений, обнаруженных в более чем 150 укрытиях на территории свыше 2 236 кв. км, многие из которых обладают большой художественной ценностью, дают уникальную возможность проследить изменения социально-экономического уклада этого района от охотников–собирателей до сельского пастушеского общества, а также связанных с ними верований и убеждений. Некоторые из укрытий до сих пор сохраняют сакральное значение для местных сообществ, поскольку отражают их верования, ритуалы и космологические традиции.",
+          "ar": "مواقع كوندوا لفن النقوش والرسوم على الصخور تحتوي هذه المنطقة الممتدة على مسافة 2336 كيلومترا مربعا عند السفوح الشرقية لمنحدر ماساي المحاذي لوادي الصدع الكبير على ملاجئ قابعة تحت الصخور ومطلة على بلاطات من الصخور الترسبية المحطّمة بفعل شقوق الصدع، علماً ان انحدارها العمودي شكل دعامة للوحات صخرية طوال ألفي سنة على الأقل. وتشكل مجموعة الرسوم المدهشة – التي غالباً ما تتسم بقيمة فنية كبيرة – والموزعة على أكثر من 150 ملجأ شاهداً على تطور المنطقة على الصعيد الاجتماعي والاقتصادي، من الإنسان الأول الذي كان يعيش من الصيد والقطف الى المجتمعات الزراعية الريفية، ناهيك عن معتقدات وأفكار مرتبطة بها، علماً ان القاطنين بجوار هذه الملاجئ لا ما زالوا يربطونها بممارسات شعائرية.",
+          "zh": "孔多阿岩画遗址位于东非大裂谷相连的马赛峭壁的东坡上，这是一处天然的岩荫，悬挂在被裂谷断层分开的沉积岩上。两千多年来，这些垂悬的岩壁被人们用作岩画的画板。这些壮观的岩画分布在150多个岩荫上，面积超过2336平方公里，很多具有极高的艺术价值。这些岩画按照一定的顺序排列，以一种独特方式展示了从狩猎采摘的原始社会到农牧时代该地区社会经济基础的变迁，以及人们的信仰和观念。其中一些岩荫至今仍被认为与附近居民的宗教仪式有关，反映了他们的信仰、仪式和传统的世界观。"
+        },
+        "full": "On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions.",
+        "justification": "Brief synthesis On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings over at least two millennia. The exact number of rock art sites in the Kondoa area is not yet known but it is estimated that there are between 150 and 450 decorated rock shelters, caves and overhanging cliff faces. The sites are located on the steep eastern slopes, an area of spectacular, fractured geological formations, which provided the necessary shelter for the display of paintings. The extensive and dense collection of rock paintings represents and embodies the cultures of both hunter-gatherer and pastoralist communities who have lived in the area over several millennia. The similarities with images from southern and central Africa, together with their distinctive streaky style and rare depiction of domesticated animals, make them distinctive examples of hunter-gatherer rock art at its northernmost limit. In the spectacular collection of images from over 150 shelters, many have a high artistic value, and display sequences that provide a unique testimony to the changing socio-economic base of the area, from hunter-gatherer to agro-pastoralist societies, and the beliefs and ideas associated with them. Some of the shelters still have ritual associations with the peoples who live nearby, and are associated with the strong living traditions of the local population. Criterion (iii): The rock art sites at Kondoa are an exceptional testimony to the lives of hunter-gatherers and agriculturalists who have lived in the area over several millennia, and reflect a unique variation of hunter-gatherer art from southern and central Africa and a unique form of agro-pastoralist paintings. Criterion (vi): Some of the rock art sites are still used actively by local communities for a variety of ritual activities such as rainmaking, divining and healing. These strong intangible relationships between the paintings and living practices reinforce the links with those societies that created the paintings, and demonstrate a crucial cultural continuum. Integrity The boundaries enclose the extent of the main rock art sites. The boundaries do not follow any recognisable feature on the ground, although they are marked with embedded concrete posts. Most of the rock art sites are stable and relatively well preserved. Although the rock shelters with paintings are located on the slopes of the escarpment or on the plateau and are generally surrounded by a wooded or bushy environment, there are some threats due to village land use practices. In particular, village farming, cattle grazing and harvesting of forestry resources are encroaching on the areas surrounding the rock art sites. The forested or wooded environment surrounding the rock art sites creates a desirable protective measure for the paintings as this minimizes the effects of the sun, wind and dusts. The woodland areas around the rock art sites give vital protection to the rock art, and are essential to control soil erosion and retain ground water. Deforestation, through the seeking of building materials and fuel, could seriously damage the images. A large number of sites were illegally excavated before inscription with a loss of contextual material. One of the key qualities of the Kondoa rock art sites is that they still play an active role in the rituals of local communities. The sites are used for instance for weather-divination, healing and initiation. Whereas it is essential to sustain the links with local communities, there is also a need to ensure that use and conservation do not conflict. For instance in some of the rain-making rituals, animal fat and beer are thrown over the rock art paintings, perhaps a recent adaptation of older practices. Authenticity The authenticity of Kondoa rock art is beyond question. It has never been restored or enhanced in any way. What is of special importance about Kondoa is that the rock art exists, largely in its original natural environment, and in the context of a rich living heritage. The places where ancient hunter-gatherers painted rock art perhaps to influence the weather are still used today by local farmer communities in modern rain-making ceremonies. Modern versions of boys’ initiation ceremonies, which a few centuries ago may have led to the creation of certain white paintings, are still held every year in most of the villages in the area. Descendents of the Maa-speaking pastoralists, who once perhaps painted at a number of rock art sites in the area, still visit the area to graze their cattle during periods of drought. A recent rock painting made by a Sandawe speaking man illustrated a remarkable persistence of artistic tradition, perhaps extending over several millennia. Protection and management requirements The Kondoa rock art site was initially managed by the National Monuments preservation ordinance No. 4 of 1937. This was repealed and replaced by the Antiquities Act No 10 of 1964, with its amendment Act No. 22 of 1979. Twelve Kondoa rock painting sites were given a special status and level of protection when they were scheduled as National Monuments in 1949. These sites were re-listed in 1981 when the Government of Tanzania published a new gazette, notice No. 39 published on 27 March 1981 with seven other sites added to the list. The property was declared a Conservation Area in 2004. A Conservation Plan, started in 2001, was completed and updated in 2005. A Property Management Plan and Statement of Objectives were prepared in 2004. Both of these need to be regularly updated. The existence of rock paintings in the area was first reported in 1908 and, although a variety of excavations were carried out during the 20th century, the rock art area at Kondoa has never been comprehensively surveyed. The records from these past surveys and work are scattered over a variety of institutions in different countries. At present there is no integrated documentation system for the sites. The management plan notes this as a matter of serious concern and, in order to support the management and monitoring, there is a need for the Department of Antiquities to create a central database of all documentation. The management of the property will need to create a careful path between supporting the living heritage values of the sites and supporting the physical preservation of the sites. Working together with the Kondoa forest authority, the village governments and communities have now identified areas where trees can be grown for firewood."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 233600,
+          "square_km": 2336.0,
+          "square_miles": 945.347,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2006,
+          "all_dates": [
+            2006
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2006,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3bef2d41f8f318c15bd3b1240a7f9310",
+          "filename": "site_1183_0001.jpg",
+          "dimensions": {
+            "width": 7641,
+            "height": 5100
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113604/site_1183_0001.jpg",
+            "https://whc.unesco.org/document/113606/site_1183_0002.jpg",
+            "https://whc.unesco.org/document/113608/site_1183_0003.jpg"
+          ],
+          "count": 3
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Kondoa Rock-Art Sites",
+            "ref": "1183rev",
+            "latitude": -4.7244444444,
+            "longitude": 35.8338888888
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1183",
+        "unesco_documents": "https://whc.unesco.org/en/list/1183/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1183/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1183/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "River/Valley",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 19,
+        "inscription_year": 2006
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kondoa Rock-Art Sites On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions. On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions. Tanzania Africa Cultural"
+    },
+    {
+      "site_key": "selous_game_reserve",
+      "uuid": "bbd4a7e9-a525-5eba-bc09-cb7e1dd33d8c",
+      "unesco_id": "199",
+      "names": {
+        "en": "Selous Game Reserve",
+        "fr": "Réserve de gibier de Selous",
+        "es": "Reserva de caza de Selous",
+        "ru": "Охотничий резерват Селус",
+        "ar": "محمية سيلوس للطرائد",
+        "zh": "塞卢斯禁猎区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.",
+          "fr": "Éléphants, rhinocéros noirs, guépards, girafes, hippopotames et crocodiles vivent en très grand nombre dans cet immense sanctuaire de 50 000 km2 demeuré à peu près à l'abri de l'homme. Le parc comprend des zones de végétation variées, depuis les fourrés denses jusqu'à des prairies boisées bien dégagées.",
+          "es": "En este inmenso santuario de 50.000 km2, relativamente poco alterado por la presencia del hombre, vive un gran número de elefantes, rinocerontes negros, onzas, jirafas, hipopótamos y cocodrilos. El parque comprende zonas de vegetación muy variadas, desde matorrales densos hasta praderas boscosas abiertas.",
+          "ru": "Большое число слонов, черных носорогов, гепардов, жирафов, бегемотов и крокодилов обитают на этой охраняемой территории с почти не измененной человеком природой (площадь резервата 4,5 млн. га). В парке встречается разнообразная растительность – от густых лесов до открытых саванн.",
+          "ar": "يعيش في هذا الملاذ الشاسع عدد كبير من الفيلة ووحيد القرن الأسود وفهد الغيبار والزرافات وأفراس النهر والتماسيح. وتمتد المحمية على مسافة 50000 كيلومتر مربع بمنأى عن يد الإنسان وتحوي نباتات متنوعة بدءاً بالأدغال الكثيفة وصولاً الى المروج المشجرة السالكة.",
+          "zh": "塞卢斯禁猎区占地5万平方公里，在这个很少受人类干扰的广大原野里生活着数量众多的大象、黑犀牛、印度豹、长颈鹿、河马以及鳄鱼。这个公园的植被种类众多，既有浓密的灌木丛，又有树木茂盛的广阔草原。"
+        },
+        "full": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.",
+        "justification": "Brief synthesis The Selous Game Reserve, covering 50,000 square kilometres, is amongst the largest protected areas in Africa and is relatively undisturbed by human impact. The property harbours one of the most significant concentrations of elephant, black rhinoceros, cheetah, giraffe, hippopotamus and crocodile, amongst many other species. The reserve also has an exceptionally high variety of habitats including Miombo woodlands, open grasslands, riverine forests and swamps, making it a valuable laboratory for on-going ecological and biological processes. Criterion (ix): The Selous Game Reserve is one of the largest remaining wilderness areas in Africa, with relatively undisturbed ecological and biological processes, including a diverse range of wildlife with significant predator/prey relationships. The property contains a great diversity of vegetation types, including rocky acacia-clad hills, gallery and ground water forests, swamps and lowland rain forest. The dominant vegetation of the reserve is deciduous Miombo woodlands and the property constitutes a globally important example of this vegetation type. Because of this fire-climax vegetation, soils are subject to erosion when there are heavy rains. The result is a network of normally dry rivers of sand that become raging torrents during the rains; these sand rivers are one of the most unique features of the Selous landscape. Large parts of the wooded grasslands of the northern Selous are seasonally flooded by the rising water of the Rufiji River, creating a very dynamic ecosystem. Criterion (x): The reserve has a higher density and diversity of species than any other Miombo woodland area: more than 2,100 plants have been recorded and more are thought to exist in the remote forests in the south. Similarly, the property protects an impressive large mammal fauna; it contains globally significant populations of African elephant (Loxodontha africana) (106,300), black rhinoceros (Diceros bicornis) (2,135) and wild hunting dog (Lycaon pictus). It also includes one of the world's largest known populations of hippopotamus (Hippopotamus amphibius) (18,200) and buffalo (Syncerus caffer) (204,015). There are also important populations of ungulates including sable antelope (Hippotragus niger) (7000), Lichtenstein's hartebeest (Alcelaphus lichtensteinii) (52,150), greater kudu (Tragelaphus strepsiceros), eland (Taurotragus oryx) and Nyassa wildebeest (Connochaetes albojubatus) (80,815). In addition, there is also a large number of Nile crocodile (Crocodilus niloticus) and 350 species of birds, including the endemic Udzungwa forest partridge (Xenoperdix udzungwensis) and the rufous winged sunbird (Nectarinia rufipennis). Because of this high density and diversity of species, the Selous Game Reserve is a natural habitat of outstanding importance for in-situ conservation of biological diversity. Integrity With its vast size (5,120,000 ha), the Selous Game Reserve retains relatively undisturbed on-going ecological and biological processes which sustain a wide variety of species and habitats. The integrity of the property is further enhanced by the fact that the Reserve is embedded within a larger 90,000 km2 Selous Ecosystem, which includes national parks, forest reserves and community managed wildlife areas. In addition the Selous Game Reserve is functionally linked with the 42,000 km2 Niassa Game Reserve in Mozambique, and this is another important factor that ensures its integrity. With no permanent habitation inside its boundaries, human disturbance is low. Protection and management requirements The Selous Game Reserve has appropriate legal protection and a management plan has been developed. It is managed as a game reserve, with a small area (8%) in the north dedicated to photographic tourism while most of the property is managed as a hunting reserve. As long as quota are established and controlled in a scientific manner, the level of off-take should not impact wildlife populations and, in fact, should generate substantial income which needs to be made available for the management of the reserve in order for the system to be sustainable. A detailed tourism strategy for the reserve needs to be developed, in line with the framework and principles outlined in the management plan. The income generated by those activities needs to be made available for the management of the reserve in order for the system to be sustainable. The large size of the reserve presents important management challenges in terms of the levels of staffing and budget required. Key management issues that need to be addressed are: control of poaching, in particular of elephants and black rhinoceros; ensuring sufficient benefits for the local communities through the wildlife management areas and the improved management of hunting and photographic tourism. Enhanced surveillance and ecological monitoring systems are required to provide a better scientific/technical basis for management of the property's natural resources, as well as to better understand the impacts/benefits of consumptive and non-consumptive tourism. The most significant threats are related to exploration and extraction of minerals, oil and gas, and large infrastructure plans; environmental impact assessments need to be conducted for all development activities in the vicinity of the property that are likely to have an impact of the property's Outstanding Universal Value. To ensure long term integrity of the property it is important to ensure its management as part of a wider Selous ecosystem and to take the necessary measures to maintain the functional link to Niassa Game Reserve in Mozambique."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 5120000,
+          "square_km": 51200.0,
+          "square_miles": 20719.937,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1982,
+          "all_dates": [
+            1982
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1982,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2014",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/bd4a643b58f2da1093a8c46a5b183fbb",
+          "filename": "site_0199_0001-500-0-20151104180640.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/109066/site_0199_0001.jpg",
+            "https://whc.unesco.org/document/109067/site_0199_0002.jpg",
+            "https://whc.unesco.org/document/109068/site_0199_0003.jpg",
+            "https://whc.unesco.org/document/109069/site_0199_0004.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Selous Game Reserve",
+            "ref": "199bis",
+            "latitude": -9.0,
+            "longitude": 37.4
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/199",
+        "unesco_documents": "https://whc.unesco.org/en/list/199/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/199/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/199/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Natural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 43,
+        "inscription_year": 1982
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Selous Game Reserve Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands. Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands. Tanzania Africa Natural"
+    },
+    {
+      "site_key": "ngorongoro_conservation_area",
+      "uuid": "c861da91-e627-5c98-964b-841e200aa470",
+      "unesco_id": "39",
+      "names": {
+        "en": "Ngorongoro Conservation Area",
+        "fr": "Zone de conservation de Ngorongoro",
+        "es": "Zona de conservación de Ngorongoro",
+        "ru": "Охраняемая область Нгоронгоро",
+        "ar": "منطقة نغورونغورو المحمية",
+        "zh": "恩戈罗恩戈罗自然保护区"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TZA": {
+            "name": "Tanzania",
+            "iso2": "TZ",
+            "iso3": "TZA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years.",
+          "fr": "La zone de conservation de Ngorongoro s’étend sur de vastes étendues de prairies, de brousses et de forêts d’altitude. Etablie en 1959 en tant que zone d’usage multiple des terres, la faune sauvage coexistant avec des pasteurs Massaï semi-nomades pratiquant l’élevage du bétail, elle comprend le spectaculaire cratère du Ngorongoro, la plus grande caldeira du monde. Le bien revêt une importance mondiale pour la conservation de la biodiversité, du fait de la présence d’espèces menacées à l’échelle mondiale, de la densité de la faune sauvage qui y vit tout au long de l’année, et de la migration annuelle des gnous, zèbres, gazelles de Thomson et gazelles de Grant et autres ongulés vers les plaines du nord. Des fouilles archéologiques de grande envergure ont livré une longue séquence de traces de l’évolution humaine et de la dynamique homme-environnement dont des empreintes de pas fossilisées datant de 3.6 millions d’années.",
+          "es": "El inmenso y perfecto cráter de Ngorongoro alberga una gran abundancia de animales salvajes. En sus inmediaciones se encuentran el cráter de Empakaai, con un profundo lago, y el volcán Oldonyo Lengai, todavía en actividad. No muy lejos, en la garganta de Olduvai, las excavaciones efectuadas han permitido descubrir restos óseos de uno de los antepasados más lejanos del hombre, el homo habilis. Situado en esta misma región, el sitio de Laitoli posee huellas de pisadas de los primeros homínidos, que datan de 3,6 millones de años atrás.",
+          "ru": "Огромные и постоянные скопления диких животных можно обнаружить внутри Нгоронгоро – гигантского и хорошо сохранившегося вулканического кратера. Поблизости расположены вулкан Эмпакаи, с кратером, заполненным глубоким озером, и действующий вулкан Олдонио-Ленгаи. В Олдовайском ущелье обнаружены ископаемые остатки одного из наших далеких предков – человека умелого (Homo habilis). Латоли – это одно из важнейших местонахождений следов самых ранних гоминид, живших 3,6 млн. лет назад.",
+          "ar": "تشكل فوهة نغورونغورو الهائلة ملاذاً دائماً لعدد كبير من الحيوانات البرية. وتقع على مقربة منها فوهة إيمباكاي ببحيرتها العميقة وبركان أولدونيو لينغاي الذي لا يزال ناشطاً. وعلى مسافة ليست ببعيدة، سمحت الحفريات في شعب الدوفاي باكتشاف عظام تعود الى الإنسان الحذق، كما نجد في موقع لايتولي من المنطقة نفسها آثار أقدام القردة العليا الأولى التي عاشت منذ 3.6 ملايين سنة.",
+          "zh": "巨大完整的恩戈罗恩戈罗火山口是野生动物出没的地方，附近是注满了深水的恩帕卡艾火山口和盖伦活火山。在距此不远的奥杜瓦伊山谷的挖掘工作中，发现了人类的远祖之一哈比利斯人的遗址，Laitoli遗址也在该区域内，它也是360多万年前原始人类活动的主要区域之一。"
+        },
+        "full": "The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years.",
+        "justification": "Brief synthesis The Ngorongoro Conservation Area (809,440 ha) spans vast expanses of highland plains, savanna, savanna woodlands and forests, from the plains of the Serengeti National Park in the north-west, to the eastern arm of the Great Rift Valley. The area was established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practising traditional livestock grazing. It includes the spectacular Ngorongoro Crater, the world's largest caldera, and Olduvai Gorge, a 14km long deep ravine. The property has global importance for biodiversity conservation in view of the presence of globally threatened species such as the black Rhino, the density of wildlife inhabiting the Ngorongoro Crater and surrounding areas throughout the year, and the annual migration of wildebeest, zebra, Thompson's and Grant's gazelles and other ungulates into the northern plains. The area has been subject to extensive archaeological research for over 80 years and has yielded a long sequence of evidence of human evolution and human-environment dynamics, collectively extending over a span of almost four million years to the early modern era. This evidence includes fossilized footprints at Laetoli, associated with the development of human bipedalism, a sequence of diverse, evolving hominin species within Olduvai gorge, which range from Australopiths such as Zinjanthropus boisei to the Homo lineage that includes Homo habilis, Homo erectus and Homo sapiens; an early form of Homo sapiens at Lake Ndutu; and, in the Ngorongoro crater, remains that document the development of stone technology and the transition to the use of iron. The overall landscape of the area is seen to have the potential to reveal much more evidence concerning the rise of anatomically modern humans, modern behavior and human ecology. Criterion (iv): Ngorongoro Conservation Area has yielded an exceptionally long sequence of crucial evidence related to human evolution and human-environment dynamics, collectively extending from four million years ago to the beginning of this era, including physical evidence of the most important benchmarks in human evolutionary development. Although the interpretation of many of the assemblages of Olduvai Gorge is still debatable, their extent and density are remarkable. Several of the type fossils in the hominin lineage come from this site. Furthermore, future research in the property is likely to reveal much more evidence concerning the rise of anatomically modern humans, modern behavior and human ecology. Criterion (vii): The stunning landscape of Ngorongoro Crater combined with its spectacular concentration of wildlife is one of the greatest natural wonders of the planet. Spectacular wildebeest numbers (well over 1 million animals) pass through the property as part of the annual migration of wildebeest across the Serengeti ecosystem and calve in the short grass plains which straddle the Ngorongoro Conservation Area/Serengeti National Park boundary. This constitutes a truly superb natural phenomenon. Criterion (viii): Ngorongoro crater is the largest unbroken caldera in the world. The crater, together with the Olmoti and Empakaai craters are part of the eastern Rift Valley, whose volcanism dates back to the late Mesozoic / early Tertiary periods and is famous for its geology. The property also includes Laetoli and Olduvai Gorge, which contain an important palaeontological record related to human evolution. Criterion (ix): The variations in climate, landforms and altitude have resulted in several overlapping ecosystems and distinct habitats, with short grass plains, highland catchment forests, savanna woodlands, montane long grass plains and high open moorlands. The property is part of the Serengeti ecosystem, one of the last intact ecosystems in the world which harbours large and spectacular animal migrations. Criterion (x): Ngorongoro Conservation Area is home to a population of some 25,000 large animals, mostly ungulates, alongside the highest density of mammalian predators in Africa including the densest known population of lion (estimated 68 in 1987). The property harbours a range of endangered species, such as the Black Rhino, Wild hunting dog and Golden Cat and 500 species of birds. It also supports one of the largest animal migrations on earth, including over 1 million wildebeest, 72,000 zebras and c.350,000 Thompson and Grant gazelles. Integrity The property was inscribed under natural criteria (vii), (viii), (ix) and (x) in 1979 and under cultural criterion (iv) in 2010. Thus, the statement of integrity reflects integrity for natural values at the date of inscription of 1979, and for the cultural value in 2010. In relation to natural values, the grasslands and woodlands of the property support very large animal populations, largely undisturbed by cultivation at the time of inscription. The wide-ranging landscapes of the property were not impacted by development or permanent agriculture at the time of inscription. The integrity of the property is also enhanced by being part of Serengeti - Mara ecosystem. The property adjoins Serengeti National Park (1,476,300 ha), which is also included on the World Heritage List as a natural property. Connectivity within and between these properties and adjoining landscapes, through functioning wildlife corridors is essential to protect the integrity of animal migrations. No hunting is permitted in Ngorongoro Conservation Area (NCA), but poaching of wildlife is a continuing threat, requiring effective patrolling and enforcement capacity. Invasive species are a source of ongoing concern, requiring continued monitoring and effective action if detected. Tourism pressure is also of concern, including in relation to the potential impacts from increased visitation, new infrastructure, traffic, waste management, disturbance to wildlife and the potential for introduction of invasive species. The property provides grazing land for semi-nomadic Maasai pastoralists. At the time of inscription an estimated 20,000 Maasai were living in the property, with some 275,000 head of livestock, which was considered within the capacity of the reserve. No permanent agriculture is officially allowed in the property. Further growth of the Maasai population and the number of cattle should remain within the capacity of the property, and increasing sedentarisation, local overgrazing and agricultural encroachment are threats to both the natural and cultural values of the property. There were no inhabitants in Ngorongoro and Empaakai Craters or the forest at the time of inscription in 1979. The property encompasses not only the known archaeological remains but also areas of high archaeo-anthropological potential where related finds might be made. However the integrity of specific paleo-archaeological attributes and the overall sensitive landscape are to an extent under threat and thus vulnerable due to the lack of enforcement of protection arrangements related to grazing regimes, and from proposed access and tourist related developments at Laetoli and Olduvai Gorge. Authenticity In general, the authenticity of the fossil localities is unquestionable, however given the nature of fossil sites, the context for the fossil deposits needs to remain undisturbed (except by natural geological processes). As the nomination dossier does not contain sufficient detailed information on most of the sites to delineate their extended areas or the areas of archaeological sensitivity, or sufficient guarantees in terms of management arrangements to ensure that the sites will remain undisturbed and not threatened by visitor access, construction or grazing cattle, their authenticity is vulnerable. Protection and management requirements The primary legislation protecting the property is the Ngorongoro Conservation Area Ordinance of 1959. The property is under the management of the Ngorongoro Conservation Area Authority (NCAA). The Division of Antiquities is responsible for the management and protection of the paleo-anthropological resources within the Ngorongoro Conservation Area. A memorandum of understanding should be established and maintained to formally establish the relations between the two entities. Property management is guided by a General Management Plan. Currently, the primary management objectives are to conserve the natural resources of the property, protect the interests of the Maasai pastoralists, and to promote tourism. The management system and the Management Plan need to be widened to encompass an integrated cultural and natural approach, bringing together ecosystem needs with cultural objectives in order to achieve a sustainable approach to conserving the Outstanding Universal Value of the property, including the management of grasslands and the archaeological resource, and to promote environmental and cultural awareness. The Plan needs to extend the management of cultural attributes beyond social issues and the resolution of human-wildlife conflicts to the documentation, conservation and management of the cultural resources and the investigation of the potential of the wider landscape in archaeological terms. It is particularly important that NCAA has the capacity and specialist skills to ensure the effectiveness of its multiple-use regime, including knowledge of management of pastoral use in partnership with the Maasai community and other relevant stakeholders. There is also a need for NCAA to ensure staff have skills in natural and cultural heritage to achieve well designed, integrated and effective conservation strategies, including effective planning of tourism, access and infrastructure. A thorough understanding of the capacity of the property to accommodate human use and livestock grazing is required, based on the needs of the Maasai population and the assessment of the impact of the human populations on the ecosystems and archaeology of the property. An agreed joint strategy between the NCAA, Maasai community leaders as well as other stakeholders, is required to ensure human population levels, and levels of resource use are in balance with the protection of its natural and cultural attributes, including in relation to grazing and grassland management, and the avoidance of human-wildlife conflict. The active participation of resident communities in decision-making processes is essential, including the development of benefit-sharing mechanisms to encourage a sense of ownership of, and responsibility for, the conservation and sustainable use of the property's natural and cultural resources. An overall tourism strategy for the property is a long term requirement, to both guide the public use of the property and ways of presenting the property, and to prioritize the quality of the tourism experience, rather than the quantity of visitors and tourism facilities. Vehicle access to the crater and other popular areas of the property requires clear limits to protect the quality of experience of the property and to ensure natural and cultural attributes are not unduly disturbed. Developments and infrastructure for tourism or management of the property that impinge on its natural and cultural attributes should not be permitted. Considering the important relationship, in natural terms of the property to adjoining reserves, it is important to establish effective and continuing collaboration between the property, Serengeti National Park, and other areas of the Serengeti-Mara ecosystem to assure connectivity for wildlife migrations, and harmonize management objectives regarding tourism use, landscape management and sustainable development."
+      },
+      "classification": {
+        "category": {
+          "name": "Mixed",
+          "id": 3
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "all": [
+            4,
+            7,
+            8,
+            9,
+            10
+          ],
+          "display": "(iv)(vii)(viii)(ix)(x)",
+          "count": 5,
+          "type": "Mixed"
+        },
+        "area": {
+          "hectares": 809440,
+          "square_km": 8094.4,
+          "square_miles": 3275.693,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979,
+            2010
+          ],
+          "extensions": [
+            2010
+          ],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2010,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/9d4d81b9231fc5aaf0615c2ed9d545f9",
+          "filename": "site_0039_0001.jpg",
+          "dimensions": {
+            "width": 1024,
+            "height": 768
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/107902/site_0039_0001.jpg",
+            "https://whc.unesco.org/document/196063/site_0039_0035.jpg",
+            "https://whc.unesco.org/document/196064/site_0039_0036.jpg",
+            "https://whc.unesco.org/document/196065/site_0039_0037.jpg",
+            "https://whc.unesco.org/document/196066/site_0039_0038.jpg",
+            "https://whc.unesco.org/document/196067/site_0039_0039.jpg",
+            "https://whc.unesco.org/document/196068/site_0039_0040.jpg",
+            "https://whc.unesco.org/document/196069/site_0039_0041.jpg",
+            "https://whc.unesco.org/document/196070/site_0039_0042.jpg",
+            "https://whc.unesco.org/document/196071/site_0039_0043.jpg",
+            "https://whc.unesco.org/document/196072/site_0039_0044.jpg",
+            "https://whc.unesco.org/document/196073/site_0039_0045.jpg",
+            "https://whc.unesco.org/document/196074/site_0039_0046.jpg",
+            "https://whc.unesco.org/document/196075/site_0039_0047.jpg",
+            "https://whc.unesco.org/document/196076/site_0039_0048.jpg",
+            "https://whc.unesco.org/document/196077/site_0039_0049.jpg",
+            "https://whc.unesco.org/document/196078/site_0039_0050.jpg",
+            "https://whc.unesco.org/document/196079/site_0039_0051.jpg",
+            "https://whc.unesco.org/document/196080/site_0039_0052.jpg",
+            "https://whc.unesco.org/document/197574/site_0039_0053.jpg",
+            "https://whc.unesco.org/document/142342/collection_0011_0002.jpg",
+            "https://whc.unesco.org/document/107904/site_0039_0002.jpg",
+            "https://whc.unesco.org/document/107906/site_0039_0003.jpg",
+            "https://whc.unesco.org/document/107908/site_0039_0004.jpg",
+            "https://whc.unesco.org/document/107910/site_0039_0005.jpg",
+            "https://whc.unesco.org/document/107912/site_0039_0006.jpg",
+            "https://whc.unesco.org/document/107914/site_0039_0007.jpg",
+            "https://whc.unesco.org/document/107916/site_0039_0008.jpg",
+            "https://whc.unesco.org/document/107918/site_0039_0009.jpg",
+            "https://whc.unesco.org/document/107920/site_0039_0010.jpg",
+            "https://whc.unesco.org/document/107922/site_0039_0011.jpg",
+            "https://whc.unesco.org/document/107924/site_0039_0012.jpg",
+            "https://whc.unesco.org/document/107926/site_0039_0013.jpg",
+            "https://whc.unesco.org/document/107928/site_0039_0014.jpg",
+            "https://whc.unesco.org/document/107930/site_0039_0015.jpg",
+            "https://whc.unesco.org/document/107932/site_0039_0016.jpg",
+            "https://whc.unesco.org/document/107933/site_0039_0017.jpg",
+            "https://whc.unesco.org/document/107936/site_0039_0018.jpg",
+            "https://whc.unesco.org/document/125754/site_0039_0019.jpg",
+            "https://whc.unesco.org/document/125755/site_0039_0020.jpg",
+            "https://whc.unesco.org/document/125756/site_0039_0021.jpg",
+            "https://whc.unesco.org/document/125757/site_0039_0022.jpg",
+            "https://whc.unesco.org/document/125758/site_0039_0023.jpg",
+            "https://whc.unesco.org/document/125759/site_0039_0024.jpg",
+            "https://whc.unesco.org/document/133573/site_0039_0026.jpg",
+            "https://whc.unesco.org/document/133574/site_0039_0027.jpg",
+            "https://whc.unesco.org/document/133575/site_0039_0028.jpg",
+            "https://whc.unesco.org/document/133578/site_0039_0030.jpg",
+            "https://whc.unesco.org/document/133580/site_0039_0032.jpg",
+            "https://whc.unesco.org/document/133582/site_0039_0033.jpg"
+          ],
+          "count": 50
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ngorongoro Conservation Area",
+            "ref": "39bis",
+            "latitude": -3.18722,
+            "longitude": 35.54083
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/39",
+        "unesco_documents": "https://whc.unesco.org/en/list/39/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/39/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/39/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ngorongoro Conservation Area The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years. The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years. Tanzania Africa Mixed"
+    }
+  ]
+}

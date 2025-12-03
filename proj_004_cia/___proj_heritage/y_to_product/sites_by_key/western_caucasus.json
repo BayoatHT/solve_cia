@@ -1,0 +1,172 @@
+{
+  "site_key": "western_caucasus",
+  "uuid": "37af1511-f17d-5c96-bbfc-51f5889d9a0c",
+  "unesco_id": "900",
+  "names": {
+    "en": "Western Caucasus",
+    "fr": "Caucase de l'Ouest",
+    "es": "Cáucaso Occidental",
+    "ru": "Западный Кавказ",
+    "ar": "القوقاز الغربيّة",
+    "zh": "西高加索山"
+  },
+  "geography": {
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "available": false,
+      "note": "coordinates_not_available"
+    },
+    "countries": {
+      "RUS": {
+        "name": "Russia",
+        "iso2": "RU",
+        "iso3": "RUS"
+      }
+    },
+    "region": {
+      "name": "Europe and North America",
+      "code": "EUR"
+    },
+    "is_transboundary": false,
+    "country_count": 1
+  },
+  "descriptions": {
+    "short": {
+      "en": "The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison.",
+      "fr": "Situé à une distance de 50 km au nord-est de la mer Noire et couvrant plus de 275 000 ha, le site du Caucase de l'Ouest est l'une des rares grandes régions de montagne d'Europe qui n'ait pas subi d'importants impacts humains. Ses pâturages subalpins et alpins n'ont été utilisés que par des animaux sauvages, et ses vastes étendues de forêts de montagne non perturbées qui vont des basses terres à la zone subalpine sont uniques en Europe. Le site contient une grande diversité d'écosystèmes avec une flore et une faune endémiques importantes. Il est également le lieu d'origine et de réintroduction de la sous-espèce de montagne du bison d'Europe.",
+      "es": "Situado a 50 kilómetros al nordeste del mar Negro, este sitio de 275.000 hectáreas es una de las pocas zonas montañosas importantes de Europa que apenas ha sufrido el impacto de la actividad humana. Sus praderas alpinas y subalpinas sólo han servido de alimento a animales silvestres, y sus vastos bosques de montaña vírgenes, que se extienden desde las tierras bajas hasta la zona subalpina, son únicos en Europa. El sitio posee una gran variedad de ecosistemas, con abundantes especies vegetales y animales endémicas. Lugar de origen del bisonte de montaña europeo, el Cáucaso Occidental ha sido también el primer sitio donde se ha iniciado la repoblación de esta especie.",
+      "ru": "Это один из немногих крупных высокогорных массивов в Европе, где природа еще не подверглась существенному антропогенному влиянию. Площадь объекта примерно 300 тыс. га, он располагается на западе Большого Кавказа, в 50 км к северо-востоку от побережья Черного моря. На здешних альпийских и субальпийских лугах пасутся только дикие животные, а обширные нетронутые горные леса, простирающиеся от низкогорной зоны до субальпики, – также уникальны для Европы. Местность характеризуется большим разнообразием экосистем, высокоэндемичной флорой и фауной, и является районом, где некогда обитал, а позднее был реакклиматизирован, горный подвид европейского зубра.",
+      "ar": "تقع القوقاز الغربيّة على مساف50 كلم شمال شرق البحر الأسود وهي تغطّي أكثر من275000 هكتار وهي إحدى المناطق النادرة الكبيرة لجبل أوروبي لم يخضع لفعل البشر. ولم يطأ مراعيها عند السفوح الجبليّة أو الجبال غير الحيوانات المتوحشة وتعتبر مساحاتها الواسعة من الغابات الجبليّة العذراء الممتدة من الأراضي المنخفضة إلى المنطقة عند سفح الجبل فريدة من نوعها. ويحتوي الموقع على تنوّع كبير من النظم البيئيّة ويضمّ مجموعة حيوانيّة ونباتيّة مستوطنة كبيرة. كما يُشكّل مسقط رأس الفصيلة الجبليّة المشتقة لبيسون أوروبا.",
+      "zh": "西高加索山在高加索山脉的最西端，位于黑海东北50公里处，占地275 000多公顷，是欧洲尚未受到人类重大干扰的少有的几座大山之一。其亚高山带的高山草原牧草只有野生动物食用。而从山下一直延伸到亚高山地带未遭破坏的广阔山林，在欧洲也是罕见的。该地区拥有的大量本地植物和野生动物，显示了其生态系统的多样性。这里也是山区亚种欧洲野牛的起源地和重新引进之地。"
+    },
+    "full": "The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison.",
+    "justification": ""
+  },
+  "classification": {
+    "category": {
+      "name": "Natural",
+      "id": 2
+    },
+    "criteria": {
+      "cultural": [],
+      "natural": [
+        9,
+        10
+      ],
+      "all": [
+        9,
+        10
+      ],
+      "display": "(ix)(x)",
+      "count": 2,
+      "type": "Natural"
+    },
+    "area": {
+      "hectares": 298903,
+      "square_km": 2989.03,
+      "square_miles": 1209.619,
+      "available": true
+    }
+  },
+  "temporal": {
+    "inscription": {
+      "primary_date": 1999,
+      "all_dates": [
+        1999
+      ],
+      "extensions": [],
+      "timeline": [
+        {
+          "year": 1999,
+          "event": "Inscribed"
+        }
+      ],
+      "extension_count": 0
+    },
+    "danger_status": {
+      "is_endangered": false,
+      "details": null,
+      "date_end": null
+    }
+  },
+  "visual": {
+    "main_image": {
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6495891e1229fcf7046fd4089e7366d5",
+      "filename": "site_0900_0001-500-0-20091006102725.jpg",
+      "dimensions": {
+        "width": 500,
+        "height": 375
+      },
+      "available": true,
+      "source": "main_image"
+    },
+    "gallery": {
+      "urls": [
+        "https://whc.unesco.org/document/113251/site_0900_0001.jpg",
+        "https://whc.unesco.org/document/118314/site_0900_0003.jpg",
+        "https://whc.unesco.org/document/118315/site_0900_0004.jpg",
+        "https://whc.unesco.org/document/118317/site_0900_0006.jpg",
+        "https://whc.unesco.org/document/118318/site_0900_0007.jpg",
+        "https://whc.unesco.org/document/118319/site_0900_0008.jpg",
+        "https://whc.unesco.org/document/118320/site_0900_0009.jpg",
+        "https://whc.unesco.org/document/118321/site_0900_0010.jpg",
+        "https://whc.unesco.org/document/118322/site_0900_0011.jpg",
+        "https://whc.unesco.org/document/118323/site_0900_0012.jpg",
+        "https://whc.unesco.org/document/118324/site_0900_0013.jpg",
+        "https://whc.unesco.org/document/148451/site_0900_0033.jpg",
+        "https://whc.unesco.org/document/148452/site_0900_0034.jpg",
+        "https://whc.unesco.org/document/148453/site_0900_0035.jpg",
+        "https://whc.unesco.org/document/148454/site_0900_0036.jpg",
+        "https://whc.unesco.org/document/148455/site_0900_0037.jpg",
+        "https://whc.unesco.org/document/148456/site_0900_0038.jpg",
+        "https://whc.unesco.org/document/148457/site_0900_0039.jpg",
+        "https://whc.unesco.org/document/148458/site_0900_0040.jpg",
+        "https://whc.unesco.org/document/148459/site_0900_0041.jpg",
+        "https://whc.unesco.org/document/148460/site_0900_0042.jpg"
+      ],
+      "count": 21
+    }
+  },
+  "components": {
+    "count": 1,
+    "locations": [
+      {
+        "name": "Western Caucasus",
+        "ref": "900",
+        "latitude": 44.0,
+        "longitude": 40.0
+      }
+    ]
+  },
+  "links": {
+    "unesco_official": "https://whc.unesco.org/en/list/900",
+    "unesco_documents": "https://whc.unesco.org/en/list/900/documents",
+    "unesco_gallery": "https://whc.unesco.org/en/list/900/gallery",
+    "unesco_map": "https://whc.unesco.org/en/list/900/map",
+    "wikipedia": null,
+    "wikidata": null,
+    "official_website": null
+  },
+  "geographic_context": {
+    "continent": "Europe",
+    "geographic_type": "Mountain",
+    "has_coordinates": false,
+    "is_coastal": false
+  },
+  "historical_context": {
+    "decade": "1990s",
+    "era": "Growth Period (1990-1999)",
+    "age_years": 26,
+    "inscription_year": 1999
+  },
+  "metadata": {
+    "data_source": "UNESCO World Heritage Centre",
+    "data_provider": "UNESCO",
+    "license": "UNESCO Copyright",
+    "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+    "last_updated": "2025-12-03",
+    "version": "2024"
+  },
+  "search_text": "Western Caucasus The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison. The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison. Russia Europe and North America Natural"
+}

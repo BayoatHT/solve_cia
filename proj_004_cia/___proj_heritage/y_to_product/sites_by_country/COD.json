@@ -1,0 +1,844 @@
+{
+  "country": {
+    "code": "COD",
+    "name": "Democratic Republic of the Congo"
+  },
+  "total_sites": 5,
+  "sites_by_category": {
+    "Cultural": 0,
+    "Natural": 5,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 4,
+  "sites": [
+    {
+      "site_key": "virunga_national_park",
+      "uuid": "9db29a7d-125b-572d-8b17-3eb85b8646ab",
+      "unesco_id": "63",
+      "names": {
+        "en": "Virunga National Park",
+        "fr": "Parc national des Virunga",
+        "es": "Parque Nacional de Virunga",
+        "ru": "Национальный парк Вирунга",
+        "ar": "منتزه فيرونغا الوطني",
+        "zh": "维龙加国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COD": {
+            "name": "Democratic Republic of the Congo",
+            "iso2": "CD",
+            "iso3": "COD"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there.",
+          "fr": "S'étendant sur 790 000 ha, le parc des Virunga présente une diversité d'habitats incomparable, allant des marécages et des steppes jusqu'aux neiges éternelles du Rwenzori, à plus de 5 000 m d'altitude, en passant par les plaines de lave et les savanes sur les pentes des volcans. Quelque 20 000 hippopotames fréquentent ses rivières, le gorille de montagne y trouve refuge, et des oiseaux en provenance de Sibérie viennent y passer l'hiver.",
+          "es": "Este sitio de 790.000 hectáreas posee una diversidad de hábitats incomparable: pantanos, estepas, planicies de lava, sabanas en laderas de volcanes y cumbres nevadas del macizo de Rwenzori, que se eleva a más de 5.000 metros de altura. Unos 20.000 hipopótamos viven en los ríos de este parque, que también sirve de refugio al gorila de montaña y ofrece lugar de invernada a numerosas aves procedentes de Siberia.",
+          "ru": "Этот занимающий площадь 790 тыс. га национальный парк включает самые различные ландшафты – от болот и лугов до заснеженных вершин гор Рувензори, превышающих отметку 5000 м, и от лавовых покровов до саванн на склонах вулканов. Здесь обитают горные гориллы, местные реки населяют бегемоты в количестве примерно 20 тыс. особей, сюда же на зимовку прилетают птицы из Сибири.",
+          "ar": "يشغل منتزه فيرونغا مساحة 790000 هكتار ويحوي طائفة متنوعة من المساكن الفريدة، بدءاً بالمستنقعات والسهوب وانتهاء بثلوج جبال روينزوري الأزلية على ارتفاع يفوق 5000 متر، مروراً بسهول الحمم والسافانا على منحدرات البراكين. ويعمد ما يقارب 20000 فرس نهر الى ارتياد أنهار المنتزه الذي يشكل ايضاً ملاذاً لغوريلا الجبال والطيور المهاجرة من سيبيريا لقضاء فصل الشتاء في ربوعه.",
+          "zh": "维龙加国家公园占地790 000万公顷，地貌多种多样，从沼泽地、稀树大草原到海拔5000米以上的鲁文佐里雪山(snowfields of Rwenzori)，从融岩平原到火山山坡处的大草原，不一而足。山地大猩猩栖息在公园里，河畔地带约有20 000头河马，而自西伯利亚迁徙的鸟儿也在这里过冬。"
+        },
+        "full": "Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there.",
+        "justification": "Brief synthesis Virunga National Park is unique with its active chain of volcanoes and rich diversity of habitats that surpass those of any other African park. Its range contains an amalgamation of steppes, savannas and plains, marshlands, low altitude and afro-montane forest belts to unique afro-alpine vegetation and permanent glaciers and snow on Monts Rwenzori whose peaks culminate in 5000 m height. The property includes the spectacular massifs of Rwenzori and Virunga Mountains containing the two most active volcanoes of Africa. The wide diversity of habitats produces exceptional biodiversity, notably endemic species and rare and globally threatened species such as the mountain gorilla. Criterion (vii): Virunga National Park offers the most spectacular montane landscapes in Africa. Mt Rwenzori with its jagged reliefs and snowy summits, their cliffs and steep valleys, and the volcanoes of the Virunga massif covered with an afro-alpine vegetation of tree ferns and Lobelia and their slopes covered by dense forests, are the places of exceptional natural beauty. The volcanoes, which erupt at regular intervals every few years, constitute the dominant land features of the outstanding landscape. The Park presents several other spectacular panoramas like the eroded valleys in the Sinda and Ishango regions. The Park also contains important concentrations of wildlife, notably elephants, buffalo and Thomas cobs, and the largest concentration of hippopotamuses in Africa, with 20,000 individuals living on the banks of Lake Edward and along the Rwindi, Rutshuru and Semliki Rivers. Criterion (viii): Virunga National Park is located in the centre of the Albertine Rift, of the Great Rift Valley. In the southern part of the Park, tectonic activity due to the extension of the earth’s crust in this region has caused the emergence of the Virunga massif, comprising eight volcanoes, seven of which are located, totally or partially, in the Park. Among them, are the two most active volcanoes of Africa – Nyamuragira and nearby Nyiragongo - which between them are responsible for two-fifths of the historic volcanic eruptions on the African continent and which are characterized by the extreme fluidity of the alkaline lava. The activity of Nyiragongo is of world importance as a witness to volcanism of a lava lake: the bottom of its crater is in fact filled by a lake of quasi permanent lava that empties periodically with catastrophic consequences for the local communities. The northern sector of the Park includes about 20% of the massif of Monts Rwenzori – the largest glacial region of Africa and the only true alpine mountain chain of the continent. It borders the Rwenzori Mountains National Park of Uganda, inscribed as World Heritage, with which it shares the ‘Pic Marguerite’, third highest summit of Africa (5,109 m). Criterion (x): Due to its variations in altitude (from 680 m to 5,109 m), rainfall and nature of the ground, Virunga National Park possesses a very wide diversity of plants and habitats, making it the top African National Park for biological diversity. More than 2,000 premier plant species have been identified, of which 10% are endemic to the Albertine Rift. The afro-montane forests represent about 15% of the vegetation. The Rift Albertine also contains more endemic vertebrate species than any other region of the African continent and the Park possesses numerous examples of them. The Park contains 218 mammal species, 706 bird species, 109 reptile species and 78 amphibian species. It also serves as refuge to 22 primate species of which three are the great ape – mountain gorilla (Gorilla beringei beringei), the eastern plain gorilla (Gorilla beringei graueri) and the eastern chimpanzee (Pan troglodytes schweinfurthi), with a third of the world population of mountain gorillas. The savannah zones of the Park contain a diverse population of ungulates and the density of biomass of wildlife is one of the highest on the earth Planet (27.6 ton/km2). Among the ungulates, there are certain rare animals such as the okapi (Okapi johnstoni), endemic to the Democratic Republic of the Congo, and the red forest duiker (Cephalophus rubidus), endemic to Monts Rwenzori. The Park also comprises important tropical zones essential for the wintering of Palearctic avifauna. Integrity The Park is characterized by a mosaic of extraordinary habitats that extend over 790,000 ha. The property is clearly delineated by the 1954 Ordinance. The wealth is well protected despite the economic and demographic challenges to its periphery. The Park contains two highly important ecological corridors as it connects the different respective sectors: the Muaro corridor connects the Mikeno sector to the Nyamulagira sector; the west side connects the north sector to the centre sector of the Virunga massif. The presence of the Queen Elizabeth National Park, a protected area contiguous with Uganda, also constitutes an ecological land corridor connecting the centre and north sectors. Also, Lake Edward forms an important aquatic corridor. Protection and management requirements The property has benefited from the status of National Park since 1925. Its management authority is the Congolese Institute for Nature Conservation (ICCN) the body which has lost numerous agents killed on active service. The Park encounters management problems. To assure the perpetuation in resource values of the property, the Park must be managed on a scientific basis and possess a management plan which will facilitate, among others, a better delineation of the different zones. Strengthened surveillance is required to assure the integrity of the Park boundaries. It would reduce poaching, deforestation, and pressure on the fishery resources (which risk increase), notably activities by isolated armed groups. To this end, the strengthening of staff and availability of equipment as well as the training of Park staff are of primary importance. Improvement and strengthening of the administrative and surveillance infrastructures would contribute towards reducing the pressure on the rare and threatened species, such as the mountain gorilla, elephants, hippotomuses and chimpanzees. In view of the important increase in the populations, the establishment of buffer zones in all the sectors is indispensible and a matter of urgency. Another priority is to establish a Trust Fund to guarantee sufficient resources for the long-term protection and management of the property. The promotion of a localised and controlled tourism could increase the income and contribute towards regular financing for the maintenance of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            8,
+            10
+          ],
+          "all": [
+            7,
+            8,
+            10
+          ],
+          "display": "(vii)(viii)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 800000,
+          "square_km": 8000.0,
+          "square_miles": 3237.49,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1979,
+          "all_dates": [
+            1979
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1979,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1994",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/8c8eb2e5b8f1613729bb585d4a306f36",
+          "filename": "news_2139-500-0-20200731175935.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 227
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/183592/news_2139.jpg",
+            "https://whc.unesco.org/document/107990/site_0063_0001.jpg",
+            "https://whc.unesco.org/document/107992/site_0063_0002.jpg",
+            "https://whc.unesco.org/document/107993/site_0063_0003.jpg",
+            "https://whc.unesco.org/document/107996/site_0063_0004.jpg",
+            "https://whc.unesco.org/document/107997/site_0063_0005.jpg",
+            "https://whc.unesco.org/document/108000/site_0063_0006.jpg",
+            "https://whc.unesco.org/document/108003/site_0063_0008.jpg",
+            "https://whc.unesco.org/document/108005/site_0063_0009.jpg",
+            "https://whc.unesco.org/document/108007/site_0063_0010.jpg",
+            "https://whc.unesco.org/document/108009/site_0063_0011.jpg",
+            "https://whc.unesco.org/document/108011/site_0063_0012.jpg",
+            "https://whc.unesco.org/document/108014/site_0063_0013.jpg",
+            "https://whc.unesco.org/document/108016/site_0063_0014.jpg",
+            "https://whc.unesco.org/document/108017/site_0063_0015.jpg",
+            "https://whc.unesco.org/document/108020/site_0063_0016.jpg",
+            "https://whc.unesco.org/document/119499/site_0063_0017.jpg",
+            "https://whc.unesco.org/document/119501/site_0063_0018.jpg",
+            "https://whc.unesco.org/document/119502/site_0063_0019.jpg",
+            "https://whc.unesco.org/document/119503/site_0063_0020.jpg",
+            "https://whc.unesco.org/document/119504/site_0063_0021.jpg",
+            "https://whc.unesco.org/document/119505/site_0063_0022.jpg",
+            "https://whc.unesco.org/document/119507/site_0063_0023.jpg"
+          ],
+          "count": 23
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Virunga National Park",
+            "ref": "63",
+            "latitude": 0.916666667,
+            "longitude": 29.16666667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/63",
+        "unesco_documents": "https://whc.unesco.org/en/list/63/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/63/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/63/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1970s",
+        "era": "Early Heritage Period (1972-1979)",
+        "age_years": 46,
+        "inscription_year": 1979
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Virunga National Park Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there. Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there. Democratic Republic of the Congo Africa Natural"
+    },
+    {
+      "site_key": "garamba_national_park",
+      "uuid": "b3b4d146-e827-554d-a09f-4f8781618cfa",
+      "unesco_id": "136",
+      "names": {
+        "en": "Garamba National Park",
+        "fr": "Parc national de la Garamba",
+        "es": "Parque Nacional de Garamba",
+        "ru": "Национальный парк Гарамба",
+        "ar": "منتزه غارامبا الوطني",
+        "zh": "加兰巴国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COD": {
+            "name": "Democratic Republic of the Congo",
+            "iso2": "CD",
+            "iso3": "COD"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain.",
+          "fr": "Comprenant d'immenses savanes, herbeuses ou boisées, entrecoupées de forêts-galeries le long des rivières et de dépressions marécageuses, le parc abrite quatre des plus grands mammifères : l'éléphant, la girafe, l'hippopotame et surtout le rhinocéros blanc, inoffensif et beaucoup plus gros que le rhinocéros noir, dont il ne subsiste qu'une trentaine d'individus.",
+          "es": "Este sitio de 790.000 hectáreas posee una diversidad de hábitats incomparable: pantanos, estepas, planicies de lava, sabanas en laderas de volcanes y cumbres nevadas del macizo de Rwenzori, que se eleva a más de 5.000 metros de altura. Unos 20.000 hipopótamos viven en los ríos de este parque, que también sirve de refugio al gorila de montaña y ofrece lugar de invernada a numerosas aves procedentes de Siberia.",
+          "ru": "Обширные редколесья, древесные и травянистые саванны расчленены протягивающимися по берегам рек галерейными лесами и болотами, занимающими низины. Они служат убежищем для самых крупных млекопитающих – слона, жирафа, бегемота и белого носорога. Белый носорог, существенно превосходящий своими размерами черного носорога, вполне безопасен. Ныне здесь осталось примерно 30 этих животных.",
+          "ar": "يتضمن هذا المنتزه سافانا شاسعة معشوشبة أو مشجرة تتخللها ممرات حرجية على طول الأنهار والمنخفضات المستنقعية، كما يشكل موطناً لأربعة من الثدييات الاكبر حجماً وهي الفيل والزرافة وفرس النهر ولا سيما وحيد القرن الأبيض غير المفترس والذي يفوق وحيد القرن الأسود ضخامة بكثير، علماً ان ما تبقى منها لا يزيد عن الثلاثين.",
+          "zh": "公园拥有广阔的大草原、草场以及森林区域，其间星罗棋布地分布着河边狭长树林和沼泽低地。这里是四种大型哺乳动的栖息地：大象、长颈鹿、河马，以及珍稀的白犀牛。虽然白犀牛的体积比黑犀牛大得多，但不会危害人类，目前仅存约三十头。"
+        },
+        "full": "The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain.",
+        "justification": "Brief synthesis Covering vast grass savannas and woodlands interspersed with gallery forests and marshland depressions, Garamba National Park is located in the north-eastern part of the Democratic Republic of the Congo (DRC) in the transition zone between the dense tropical forests of the Congo Basin and the Guinea-Sudano savannas. It contains the last worldwide population of the northern white rhinoceros, endemic sub-species of Congolese giraffe and a mixed population of elephants, combining forest elephants, bush elephants and individuals demonstrating morphological characteristics common to the two elephant sub-species. It is also characterized by an exceptionally high level of biomass of great herbivores as a result of the vegetation productivity of the environment. Extending over 490,000 ha and surrounded by 752,700 ha of three hunting grounds that contribute to an effective protection of the property against threats from the adjacent area, this property is an outstanding sanctuary with its unusual mix of large spectacular mammals. Criterion (vii): Garamba National Park and its neighbouring hunting grounds offers a vast area scattered with a dense network of small permanent springs that support an exceptionally high plant productivity and herbivore biomass. This biomass translates for example in the presence of large herds of elephants at certain periods of the year, sometimes herds of more than 550 individuals, an exceptional natural phenomenon. Criterion (x): Garamba National Park contains the four largest land mammals in the world, the elephant, the rhinoceros, the giraffe and the hippopotamus. The northern white rhinoceros population is the last surviving population of this sub-species. In addition, the sub-species of the Congolese giraffe is also endemic to the Park. Located in the transition zone between the Guinean-Congo and Guinean-Sudanese endemism centres, the Park and the nearby hunting domains contain a particularly interesting biodiversity with species typical of the two biogeographical zones. In addition to the rhinoceros and the giraffe, the purely savannicole species include the lion, the spotted hyena and numerous species of antelope. Furthermore, the species typical of the forest include the bongo, the forest hog, the chimpanzee and five species of small diurnal primates. The Park is also one of the rare places in Africa where one can observe both the African forest elephant Loxodonta africana cyclotis and the African bush elephant Loxodonta africana africana, as well as hybrid elephants presenting morphological characteristics common to both sub-species. A very large population of African buffalo also display intermediary forms between the forest buffalo Syncerus caffer nanus and the savannah buffalo Syncerus caffer aequinoctialis. Integrity Garamba National Park is delineated to the east, south and west by major rivers that constitute natural and precise boundaries, recognized by all. To the north, it shares its boundaries with the Lantoto National Park in South Sudan, offering interesting possibilities of protection on the transfrontier and regional level. In a virgin landscape, no human presence or installations were indicated in the Park at the time of the nomination and the peripheral population was sparse. Garamba National Park is surrounded by three large contiguous hunting grounds, constituting an ecosystem of a sufficiently extensive area (1,242,700 ha) to support vast populations of large mammals with their local seasonal migration routes. The hunting grounds contribute towards the effective protection of the property against the threats from the surrounding zone. Their value is primordial, particularly for the seasonal movement of elephants and for the maintenance of viable populations of bush species. Protection and management requirements Garamba National Park has had the status of National Park since 1938 under the management authority of the Congolese Institute for Nature Conservation (ICCN). It is managed by the three administrative sectors of Nagero, Gangala na Bodio and Beredwa at the northern limit, each having buildings and road infrastructures. The establishment of a management plan is an indispensable condition in the management of the Park, given the importance of these hunting grounds for the integrity of the property, they should benefit from an integrated management with the Park. It is essential that the integration of the local communities in the management of the Park and the peripheral hunting grounds, through a community conservation approach, be established through the participatory management of natural resources. Surveillance is ensured by the guards through patrols in the three hunting grounds as well as in the Park, in liaison with regular aerial patrols of all these zones. The tourism aspect has been developed and the possibility, unique in Africa, of tourism on elephant back existed; this activity could be revived once the security situation is more stable. Partnerships with international bodies and sufficient fund-raising for an effective conservation of the property should also be reinforced, ideally including the creation of a Trust Fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            10
+          ],
+          "all": [
+            7,
+            10
+          ],
+          "display": "(vii)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 500000,
+          "square_km": 5000.0,
+          "square_miles": 2023.431,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1996",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f50097f6d8883e8013383dd237e7eb05",
+          "filename": "site_0136_0004-500-0-20250520162717.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108189/site_0136_0004.jpg",
+            "https://whc.unesco.org/document/108185/site_0136_0002.jpg",
+            "https://whc.unesco.org/document/108187/site_0136_0003.jpg",
+            "https://whc.unesco.org/document/108191/site_0136_0005.jpg",
+            "https://whc.unesco.org/document/108193/site_0136_0006.jpg",
+            "https://whc.unesco.org/document/108195/site_0136_0007.jpg",
+            "https://whc.unesco.org/document/108197/site_0136_0008.jpg",
+            "https://whc.unesco.org/document/108199/site_0136_0009.jpg",
+            "https://whc.unesco.org/document/108201/site_0136_0010.jpg",
+            "https://whc.unesco.org/document/108203/site_0136_0011.jpg",
+            "https://whc.unesco.org/document/108204/site_0136_0012.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Garamba National Park",
+            "ref": "136",
+            "latitude": 4.0,
+            "longitude": 29.25
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/136",
+        "unesco_documents": "https://whc.unesco.org/en/list/136/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/136/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/136/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Garamba National Park The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain. The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain. Democratic Republic of the Congo Africa Natural"
+    },
+    {
+      "site_key": "okapi_wildlife_reserve",
+      "uuid": "99c203d1-67fa-5cf3-ae19-9c8b77ab8c60",
+      "unesco_id": "718",
+      "names": {
+        "en": "Okapi Wildlife Reserve",
+        "fr": "Réserve de faune à okapis",
+        "es": "Reserva de fauna de Okapis",
+        "ru": "Фаунистический резерват Окапи",
+        "ar": "محمية حيوانات الأوكابي",
+        "zh": "俄卡皮鹿野生动物保护地"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COD": {
+            "name": "Democratic Republic of the Congo",
+            "iso2": "CD",
+            "iso3": "COD"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters.",
+          "fr": "La réserve de faune à okapis occupe environ un cinquième de la forêt d'Ituri au nord-est du pays. Le bassin du fleuve Congo, dont la réserve et la forêt font partie, est un des plus grands systèmes de drainage d'Afrique. La réserve de faune abrite des espèces menacées de primates et d'oiseaux et environ 5000 okapis, sur les 30 000 vivant à l'état sauvage. La réserve possède également des sites panoramiques exceptionnels, dont des chutes sur l'Ituri et l'Epulu. Elle est habitée par des populations nomades traditionnelles de Pygmées Mbuti et de chasseurs Efe.",
+          "es": "Situada al nordeste del país, esta reserva abarca la quinta parte del bosque de Ituri, que crece en la cuenca del río Congo, uno de los sistemas de drenaje más importantes del continente africano. Alberga especies de primates y aves en peligro de extinción, así como 5.000 de los 30.000 okapis que viven en estado salvaje. Asimismo, cuenta con parajes de excepcional belleza panorámica como las cataratas de los ríos Ituri y Epulu. La reserva está habitada por dos pueblos pigmeos nómadas: los mbuti y los cazadores efe.",
+          "ru": "Фаунистический резерват Окапи занимает примерно одну пятую часть леса Итури на северо-востоке страны. Бассейн реки Конго, на территории которого расположен резерват и обширные леса, является самой крупной речной системой Африки. Резерват населяют птицы и приматы, находящиеся на грани исчезновения. Кроме того здесь обитает около 5000 из живущих на воле в Африке 30000 особей окапи. Здесь же располагаются потрясающие природные красоты, такие как водопады на реках Итури и Эпулу. На территории резервата проживают исконные кочевые охотники пигмейских племен Мбути и Эфе.",
+          "ar": "تحتل محمية حيوانات الأوكابي ما يقارب خمس غابة إيتوري شمال شرق البلاد. ويعتبر حوض نهر الكونغو الذي تشكل المحمية والغابة جزءاً منه أحد أكبر أنظمة تصريف المياه في افريقيا. وتحوي محمية الحيوانات اصنافاً مهددة من الرئيسات والطيور ونحو 5000 أوكابي من أصل 30000 أوكابي تعيش في البراري. كما تتضمن شلالات متساقطة على ايتوري وأيبولو وتحتضن شعوباً رحّلاً تقليدية من أقزام مبوتي وصيادي إيف.",
+          "zh": "俄卡皮鹿野生动物保护地占据了位于刚果共和国东北部的伊图里(Ituri)森林五分之一的面积。保护区及其森林属扎伊尔河流域的一部分，而这个流域是非洲最大的排水系统之一。保护区内生存着许多濒危的灵长目类和鸟类动物。目前幸存的野生俄卡皮鹿有30 000头，其中5 000头栖息在这个保护区。区内也有其他壮丽景观，包括伊图里河(Ituri River)和埃普卢河(Epulu River)上的瀑布。这里居住着传统小矮人游牧民族——穆布提族(Mbuti)和埃费族(Efe)的猎人。"
+        },
+        "full": "The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters.",
+        "justification": "Brief synthesis Okapi Wildlife Reserve contains flora of outstanding diversity and provides refuge to numerous endemic and threatened species, including one-sixth of the existing Okapi population. The Reserve protects one-fifth of the Ituri forest, a Pleistocene refuge dominated by dense evergreen « Mbau » and humid semi-evergreen forests, combined with swamp forests that grow alongside the waterways, and clearings called locally « edos » and inselbergs. Criterion (x): With its bio-geographical location, wealth of biotopes and the presence of numerous species that are rare or absent in the adjacent low altitude forests, it is probable that the Ituri forest served, during earlier drier climatic periods, as refuge for the tropical rainforest. To the north of the Reserve, the granite rocky outcrops, provide refuge to a plant species particularly adapted to this microclimate, characterised by numerous endemic species such as the Giant Cycad (Encepholarcus ituriensis). The Reserve contains 101 mammal species and 376 species of documented birds. The population of the endemic species of Okapi (Okapia johnstoni), a forest giraffe, is estimated at 5,000 individuals. Among the endemic mammals of the forest in the north-east of the DRC identified in the Reserve, are the aquatic genet (Osbornictis piscivora) and the giant genet (Genetta victoriae). The Reserve provides refuge to 17 species of primates (including 13 diurnal and 4 nocturnal), the highest number for an African forest, including 7,500 chimpanzees (Pan troglodytes). The Reserve also contains one of the most diverse populations of forest ongulates with 14 species, including six types of cephalophus. It also provides refuge to the largest population of forest elephants ((Loxodonta africana cyclotis) still present in eastern DRC, estimated at 7,500 individuals, and it is important for the conservation of other forest species such as the bongo (Tragelaphus eurycerus), the dwarf antelope (Neotragus batesi), the water chevratain (Hyemoschus aquaticus), the forest buffalo (Syncerus caffer nanus) and the giant forest hog (Hylochoerus meinertzhageni). It is also documented as one of the most important protected areas in Africa for the conservation of birds, with the presence of numerous emblematic species such as the Congo Peafowl (Afropavo congensis), as well as numerous endemic species in eastern DRC. Integrity The forests of the Reserve are among the best preserved in the Congo Basin and its area is considered sufficient to maintain its wildlife. The Reserve is part of a larger forestry area, that of Ituri, which remains almost untouched by logging and agricultural activities. Protection and management requirements The property is protected under a Wildlife Reserve statute. The Reserve contains a large indigenous population, the Mbuti and Efe pygmies, and the forest ecosystem is essential for both their economic and cultural requirements. A management plan covering three management areas in the Reserve has been proposed. This includes a fully protected core zone of 282,000 ha comprising 20% of the Reserve where all hunting is prohibited, and an area of 950,000 ha for traditional use, where self-regulated hunting; using traditional methods; is authorized to cover the basic needs of the human population of the Reserve in forest products. Permanent installations and agricultural clearing are authorized in the 18,000 ha development area that comprises a narrow band on each side of the No. 4 national road crossing through the central part of the Reserve, and along a secondary road that links Mambasa to Mungbere, at the eastern border of the property. There are plans to make the whole protected area a national park. A buffer zone of 50 km wide has been defined around the entire Reserve. The primary management challenges facing this Reserve are immigration control in the development area, prohibition of agricultural encroachment within the 10 km wide strip located along the road, and ensuring of the involvement of the indigenous populations, Mbuti and Efe pygmies, in the management of the Reserve. Another key challenge concerns the control of commercial poaching and artisanal mining. While the Reserve benefits from support from various NGOs and additional funding, it is imperative to obtain human and logistical resources to ensure the effective management of the property and its buffer zone."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1372625,
+          "square_km": 13726.25,
+          "square_miles": 5554.825,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1997",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/018a3de4e382ac25a8881e0acf92d319",
+          "filename": "site_0718_0003-500-0-20110920202712.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/112783/site_0718_0003.jpg",
+            "https://whc.unesco.org/document/112785/site_0718_0004.jpg",
+            "https://whc.unesco.org/document/112787/site_0718_0005.jpg",
+            "https://whc.unesco.org/document/112790/site_0718_0006.jpg",
+            "https://whc.unesco.org/document/112792/site_0718_0007.jpg",
+            "https://whc.unesco.org/document/112794/site_0718_0008.jpg",
+            "https://whc.unesco.org/document/112796/site_0718_0009.jpg",
+            "https://whc.unesco.org/document/112798/site_0718_0010.jpg",
+            "https://whc.unesco.org/document/112800/site_0718_0011.jpg",
+            "https://whc.unesco.org/document/112804/site_0718_0013.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Okapi Wildlife Reserve",
+            "ref": "718",
+            "latitude": 2.0,
+            "longitude": 28.5
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/718",
+        "unesco_documents": "https://whc.unesco.org/en/list/718/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/718/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/718/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Okapi Wildlife Reserve The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters. The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters. Democratic Republic of the Congo Africa Natural"
+    },
+    {
+      "site_key": "salonga_national_park",
+      "uuid": "8e610d25-3d64-5255-9aac-db4310bba357",
+      "unesco_id": "280",
+      "names": {
+        "en": "Salonga National Park",
+        "fr": "Parc national de la Salonga",
+        "es": "Parque nacional Salonga",
+        "ru": "Национальный парк Салонга",
+        "ar": "منتزه سالونغا الوطني",
+        "zh": "萨隆加国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COD": {
+            "name": "Democratic Republic of the Congo",
+            "iso2": "CD",
+            "iso3": "COD"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile.",
+          "fr": "Au cœur du bassin central du fleuve Congo, ce parc est la plus grande réserve de forêt tropicale pluviale, très isolée et accessible seulement par voie d'eau. C'est l'habitat de plusieurs espèces endémiques menacées, comme le chimpanzé nain, le paon du Congo, l'éléphant de forêt et le gavial africain, ou « faux crocodile ».",
+          "es": "Situado en el corazón de la cuenca central del río Congo, este parque constituye la mayor reserva de bosque lluvioso tropical del continente africano. Sumamente aislada y exclusivamente accesible por vía fluvial, esta reserva natural es el hábitat de diversas especies endémicas en peligro de extinción, como el chimpancé enano, el pavo real del Congo, el elefante de bosque y el gavial africano o “falso cocodrilo”.",
+          "ru": "Салонга является самым крупным из числа тех африканских резерватов, которые располагаются в зоне экваториальных лесов. Он находится в центральной части бассейна реки Конго, и доступен только водным путем. Здесь отмечено множество редких эндемичных животных, включая карликового шимпанзе (бонобо), конголезского павлина, особого лесного подвида слона и африканского узкорылого крокодила.",
+          "ar": "يشكل هذا المنتزه الواقع في قلب الحوض الأوسط لنهر الكونغو أكبر محمية من غابات الأمطار المدارية. وهو شديد العزلة لا يمكن النفاذ إليه إلا عن طريق المياه، ويأوي عدداً من الأصناف المستوطنة المهددة كالشيمبازي القزم وطاووس الكونغو وفيل الغابة والتمساح الافريقي أو التمساح المزيّف.",
+          "zh": "萨隆加国家公园是非洲最大的热带雨林保护区，处在刚果河流域的中心位置。公园与世隔绝，只可从水路进入。公园有许多当地的濒危物种，如矮黑猩猩、刚果孔雀、雨林象,以及一种口鼻部细长的被称为“假”( false)鳄鱼的非洲动物。"
+        },
+        "full": "Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile.",
+        "justification": "Brief synthesis At the heart of the central basin of the River Congo, Salonga National Park is the largest protected area of dense rainforest on the African continent (when considering the two disjointed sectors of the Park). Very isolated and only accessible by water transport, this vast Park (3,600,000 ha) contains the important evolution of both species and communities in a forest area still relatively intact. Playing also the fundamental role for the climate regulation and the sequestration of carbon, it constitutes the habitat of numerous threatened species such as the pygmy chimpanzee (or bonobo), the bush elephant and the Congo peacock. Criterion (vii): Salonga National Park represents one of the very rare existing biotopes absolutely intact in central Africa. Moreover, it comprises vast marshland areas and practically inaccessible gallery forests, which have never been explored and may still be considered as practically virgin. Criterion (ix): The plant and animal life in Salonga National Park constitute an example of biological evolution and the adaptation of life forms in a complex equatorial rainforest environment. The large size of the Park ensures the continued possibility for evolution of both species and biotic communities within the relatively undisturbed forest. Integrity Salonga National Park, created in 1970, with an area of 3,334,600 ha, is divided into two sectors (North and South) by a corridor outside the Park of about forty km wide. The Park is one of the most extensive in the world and its area is sufficiently important to offer viable habitats to its fauna and flora. The fact that the Park is divided into two distinct sectors suggests that biological corridors must be foreseen in the unlisted portion between the two sectors, to create an ecological liaison between these two zones. Roughly one third of the southern sector of the Park is occupied by groups of pygmies and a part of this occupied land is claimed by the local population. The boundaries of the property are intact due to the existence of major rivers that form recognized, precise and natural boundaries and this despite the presence of some villages inside the Park. Protection and management requirements Salonga National Park is managed in accordance with Law 70-318 of 30 November 1970 and Law 69-041 of 28 August 1969, relating to nature conservation. It has six administrative sectors: Monkoto, Mondjoku, Washikengo, Yoketelu, Anga and Mundja that do not yet have any consequential infrastructure. The management authority is the Congolese Institute for Nature Conservation (ICCN). The Park requires a management plan, even although a Coordination Committee for the site (COCOSI) exists and at least once a year reunites the partners supporting the site, the site chief and his collaborators. At the time of inscription, it was noted that Salonga National Park suffered from pressures such as poaching and the removal of vegetation by the local populations. A management structure, sufficient qualified staff and a management plan are lacking. The future of the Park cannot be assured without a strengthening of both the management structure and available financial means. Among the management problems requiring long-term attention are poaching using traditional methods, and more recently by the military with modern war weapons; pressure and human occupation by the Yaelima in the southern part and by the Kitawalistes in the northern area (with accompanying impacts, such as fire, deforestation for the sowing of food crops, logging for heating purposes, honey gathering and the building of pirogues); dispute of the Park boundaries by populations in certain areas; commercial traffic in bush meat; forestry exploitation by individuals in the southern part; and pollution of the Park waters with toxic products used for illicit fishing. The integration of local communities established in the unlisted corridor between the two sectors of the Park is an important condition and must be implemented by means of participatory management of the natural resources. Surveillance is assured by the guards by means of regular patrols and it is necessary to guarantee that the numbers are increased over the long-term to effectively monitor and manage the very vast areas of difficult access. The partnership with international bodies and the seeking of sufficient funds for the effective conservation of the property must also be reinforced, ideally including the creation of a Trust Fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9
+          ],
+          "all": [
+            7,
+            9
+          ],
+          "display": "(vii)(ix)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 3600000,
+          "square_km": 36000.0,
+          "square_miles": 14568.706,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1984,
+          "all_dates": [
+            1984
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1984,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/44e1fff7ec9b54299e413bdeb701fb62",
+          "filename": "site_0280_0013.jpg",
+          "dimensions": {
+            "width": 1600,
+            "height": 1200
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/183877/site_0280_0013.jpg",
+            "https://whc.unesco.org/document/183878/site_0280_0014.jpg",
+            "https://whc.unesco.org/document/183875/site_0280_0011.jpg",
+            "https://whc.unesco.org/document/183876/site_0280_0012.jpg",
+            "https://whc.unesco.org/document/183880/site_0280_0015.jpg",
+            "https://whc.unesco.org/document/109750/site_0280_0001.jpg",
+            "https://whc.unesco.org/document/109752/site_0280_0002.jpg",
+            "https://whc.unesco.org/document/109754/site_0280_0003.jpg",
+            "https://whc.unesco.org/document/109756/site_0280_0004.jpg",
+            "https://whc.unesco.org/document/109758/site_0280_0005.jpg",
+            "https://whc.unesco.org/document/109761/site_0280_0006.jpg",
+            "https://whc.unesco.org/document/109763/site_0280_0007.jpg",
+            "https://whc.unesco.org/document/109765/site_0280_0008.jpg",
+            "https://whc.unesco.org/document/109767/site_0280_0009.jpg",
+            "https://whc.unesco.org/document/109769/site_0280_0010.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 2,
+        "locations": [
+          {
+            "name": "Parc national de la Salonga Sud",
+            "ref": "280-002",
+            "latitude": -2.3937284658,
+            "longitude": 20.8946151951
+          },
+          {
+            "name": "Parc national de la Salonga Nord",
+            "ref": "280-001",
+            "latitude": -1.5026432572,
+            "longitude": 21.6661880712
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/280",
+        "unesco_documents": "https://whc.unesco.org/en/list/280/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/280/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/280/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 41,
+        "inscription_year": 1984
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Salonga National Park Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile. Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile. Democratic Republic of the Congo Africa Natural"
+    },
+    {
+      "site_key": "kahuzi_biega_national_park",
+      "uuid": "05950598-5f2d-585d-ad5b-ccd608710f1f",
+      "unesco_id": "137",
+      "names": {
+        "en": "Kahuzi-Biega National Park",
+        "fr": "Parc national de Kahuzi-Biega",
+        "es": "Parque nacional de Kahuzi-Biega",
+        "ru": "Национальный парк Кахузи-Биега",
+        "ar": "منتزه كاهوزي بييغا الوطني",
+        "zh": "卡胡兹－别加国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "COD": {
+            "name": "Democratic Republic of the Congo",
+            "iso2": "CD",
+            "iso3": "COD"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level.",
+          "fr": "Vaste étendue de forêt tropicale primaire, le parc est dominé par deux volcans éteints spectaculaires, le Kahuzi et le Biega. Il est peuplé d'une faune abondante et variée. Situé entre 2 100 et 2 400 m d'altitude, il y vit l'une des dernières populations de gorilles des plaines de l'est (graueri), qui compte environ 250 individus seulement.",
+          "es": "Este sitio abarca una vasta extensión de bosque tropical primario, dominada por la cima de dos majestuosos volcanes extintos: el Kahuzi y el Biega. Poblado por una fauna abundante y variada, el parque alberga una de las últimas poblaciones de gorilas de las planicies orientales (graueri), integrada tan sólo por unos 250 especímenes que viven a una altitud de 2.100 a 2.400 metros sobre el nivel del mar.",
+          "ru": "Крупные массивы девственных экваториальных лесов, над которыми доминируют два живописных потухших вулкана Кахузи и Биега, дают приют богатой и разнообразной фауне. Одна из последних в мире популяций горной гориллы (примерно 250 животных) обитает на высотах 2100-2400 м.",
+          "ar": "يشرف على هذه المساحة الشاسعة من الغابات العذراء بركانان خامدان شاهقان هما بركان كاهوزي وبركان بييغا وتقطنها حيوانات كثيرة ومتنوعة. كما تعيش على ارتفاع يتراوح بين 2100 و2400 متر إحدى تجمعات غوريلا الجبال الأخيرة التي تضم نحو 250 غوريلا ليس إلاّ.",
+          "zh": "这是卡胡兹和别加两座壮观的死火山雄踞的大片原始热带森林，公园有种类丰富、数量繁多的动物资源。其中最后的山地大猩猩群之一（大约只由250头组成）就生活在海拔2100至2400米之间的地区。"
+        },
+        "full": "A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level.",
+        "justification": "Brief synthesis Straddling the Albertine Rift and the Congo Basin, Kahuzi-Biega National Park is an exceptional habitat for the protection of the rainforest and the eastern lowland gorillas, Gorilla berengei graueri. Extending over 600,000 ha, are dense lowland rainforests as well as Afro-montane forests, with bamboo forests and some small areas of sub-alpine prairies and heather on Mounts Kahuzi (3,308 m) and Biega (2,790 m). The Park contains a flora and fauna of exceptional diversity, making it one of the most important sites in the Rift Albertine Valley, it is also one of the ecologically richest regions of Africa and worldwide. In particular, the most important world population of eastern lowland gorillas (or de Grauer), sub-species endemic to the Democratic Republic of the Congo (DRC) and listed under the endangered category on the IUCN Red Data Book, uses the mosaic of habitats found in the property. Criterion (x): Kahuzi-Biega National Park contains a greater diversity of mammal species than any other site in the Albertine Rift. It is the second most important site of the region for both endemic species and in terms of specific diversity. The Park protects 136 species of mammals, among which the star is the eastern lowland gorilla and thirteen other primates, including threatened species such as the chimpanzee, the colubus bai and cercopiuthic of Hoest and Hamlyn. Other extremely rare species of the eastern forests of the DRC are also found, such as the giant forest genet (Genetta victoriae) and the aquatic genet (Genetta piscivora). Characteristic mammals of the central African forests also live in the Park, such as the bush elephant, bush buffalo, hylochere and bongo. The property is located in an important endemism zone (Endemic Bird Area) for birds identified by Birdlife International. The Wildlife Conservation Society established a complete list of birds in the Park in 2003 with 349 species, including 42 endemic. Also, the Park was designated as a centre of diversity for plants by IUCN and WWF in 1994, with at least 1,178 inventoried species in the highland zone, although the lowland yet remains to be recorded. The Park is one of the rare sites of sub-Saharan Africa where the floral and fauna transition from low to highlands is observable. In effect, it includes all the stages of forest vegetation from 600 m to more than 2,600 m, dense low and middle altitude rainforests to sub-mountain to mountain and bamboo forests. Above 2,600 m at the summit of Mounts Kahuzi and Biega, a sub-alpine vegetation has developed, with heather, and home to the endemic plant Senecio kahuzicus. The Park also contains plant formations, rare worldwide, such as the swamp and bog altitudes and the marshland and riparian forests on hydromorphic ground at all altitudes. Integrity The forests of the property are characterized by continuous vegetation from the summit of the mountains to the lowland regions. A corridor connects a highland zone of 60,000 ha to a lowland sector of 540,000 ha. The area of the property is considered as sufficient to maintain its fauna. Maintenance of the sustainability of the vegetation is essential to avoid the fragmentation of animal populations, in particular the large mammals. Protection and management requirements The property is protected by the National Park legal status and managed by the Congolese Institute for Nature Conservation (ICCN). A management and surveillance structure is present. A management plan should be finalized and approved. Although the greater part of the property is inhabited, some villages were included in the Park at the time of its extension in 1975, creating disputes with the populations. These problems must be resolved to strengthen the effectiveness of conservation actions. The boundaries of the property should also be clearly delineated, especially where there are no evident natural boundaries. This is particularly important both in the lowlands and the key corridor connecting the high and low biographic regions of the Park. The highland sector is crossed by a national road with minimal traffic. The control of the traffic flow is important to avoid an impact on the populations of threatened species in this sector, notably the gorillas. At the time of the inscription of the property in 1980, challenges of protection and management had been highlighted, including the economic problems that have caused a serious reduction in the effectiveness of the management and necessary protection to guarantee the survival of species in the Park and the sustainability of its ecosystems. It was also noted that because of logistical problems large areas of the Park were only rarely observed, even never visited by the under-staffed guards, and poaching has since increased. Political instability in the region, provoking the displacement of thousands of people, represents a very serious threat to the integrity of the property, resources and populations of large mammals in the Park have declined dramatically. The Park does not have a designated buffer zone, supporting cooperation of the neighbour populations in the conservation of the property is one of the principal tasks of management, in particular in the zones of heavy human density. Another key challenge is that of the control of poaching and artisanal oil exploration in the former extraction sites. Hunting of wild game for bush meat as well as the conversion of habitats are considered the consequence of the presence of numerous miners in the Park. With the financial and human resources being insufficient, it becomes imperative to obtain additional means to strengthen the effectiveness of management including, ideally, the creation of a Trust Fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 600000,
+          "square_km": 6000.0,
+          "square_miles": 2428.118,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1980,
+          "all_dates": [
+            1980
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1980,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 1997",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/525b86b789f0316eea149f31ef5f3da1",
+          "filename": "site_0137_0001.jpg",
+          "dimensions": {
+            "width": 360,
+            "height": 273
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/108207/site_0137_0001.jpg",
+            "https://whc.unesco.org/document/108209/site_0137_0002.jpg",
+            "https://whc.unesco.org/document/108211/site_0137_0003.jpg",
+            "https://whc.unesco.org/document/108213/site_0137_0004.jpg",
+            "https://whc.unesco.org/document/108215/site_0137_0005.jpg",
+            "https://whc.unesco.org/document/108217/site_0137_0006.jpg",
+            "https://whc.unesco.org/document/108219/site_0137_0007.jpg",
+            "https://whc.unesco.org/document/139356/site_0137_0008.jpg",
+            "https://whc.unesco.org/document/139357/site_0137_0009.jpg",
+            "https://whc.unesco.org/document/139358/site_0137_0010.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Kahuzi-Biega National Park",
+            "ref": "137",
+            "latitude": -2.334053,
+            "longitude": 28.180743
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/137",
+        "unesco_documents": "https://whc.unesco.org/en/list/137/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/137/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/137/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 45,
+        "inscription_year": 1980
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Kahuzi-Biega National Park A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level. A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level. Democratic Republic of the Congo Africa Natural"
+    }
+  ]
+}

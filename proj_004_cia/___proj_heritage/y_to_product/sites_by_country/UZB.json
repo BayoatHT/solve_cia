@@ -1,0 +1,1660 @@
+{
+  "country": {
+    "code": "UZB",
+    "name": "Uzbekistan"
+  },
+  "total_sites": 7,
+  "sites_by_category": {
+    "Cultural": 5,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 3,
+  "endangered_count": 1,
+  "sites": [
+    {
+      "site_key": "cold_winter_deserts_of_turan",
+      "uuid": "eb0ae8d4-1d3e-578c-9255-d92f7d6dde5c",
+      "unesco_id": "1693",
+      "names": {
+        "en": "Cold Winter Deserts of Turan",
+        "fr": "Déserts turaniens à hiver froid",
+        "es": "Desiertos invernales fríos de Turán",
+        "ru": "Туранские пустыни умеренного пояса",
+        "ar": "لصحاري الباردة في طوران",
+        "zh": "图兰的冷冬沙漠"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          },
+          "TKM": {
+            "name": "Turkmenistan",
+            "iso2": "TM",
+            "iso3": "TKM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+          "fr": "Ce bien en série transnational comprend quatorze éléments constitutifs, distribués à travers les zones arides de la zone tempérée de l’Asie centrale, entre la mer Caspienne et les hautes montagnes turaniennes. La zone est sujette à des conditions climatiques extrêmes avec des hivers très froids et des étés chauds, et possède une flore et une faune exceptionnellement diverses qui se sont adaptées à ces conditions rigoureuses. Le bien représente aussi une diversité considérable d’écosystèmes de désert, s’étendant sur plus de 1 500 kilomètres d’est en ouest. Les éléments constitutifs se complètent du point de vue de la biodiversité, des types de déserts et des processus écologiques.",
+          "es": "Este sitio transnacional comprende catorce partes que se extienden por zonas áridas de las regiones templadas de Asia Central, entre el mar Caspio y las altas montañas de Turán. La zona está sometida a condiciones climáticas extremas, con inviernos muy fríos y veranos calurosos, y cuenta con una flora y una fauna excepcionalmente diversas que se han adaptado a las duras inclemencias del lugar. El sitio también posee una considerable diversidad de ecosistemas desérticos que se extienden a lo largo de más de 1.500 kilómetros de este a oeste. Cada una de las partes que lo componen complementa a las demás en términos de biodiversidad, tipos de desierto y procesos ecológicos en evolución.",
+          "ru": "Этот транснациональный объект включает в себя четырнадцать составных частей, расположенных в засушливых районах умеренного пояса Центральной Азии между Каспийским морем и Туранскими горами. Здесь царят экстремальные климатические условия с очень холодной зимой и жарким летом, а также исключительно разнообразная флора и фауна, приспособившаяся к суровым условиям. Кроме того, территория представляет собой значительное разнообразие пустынных экосистем, протянувшихся более чем на 1500 км. с востока на запад. Каждая из составных частей дополняет другие с точки зрения биоразнообразия, типов пустынь и протекающих экологических процессов.",
+          "ar": "يتألف هذا الموقع العابر للحدود من أربعة عشر جزءاً موجودة في المناطق القاحلة في المنطقة المعتدلة في آسيا الوسطى بين بحر قزوين وجبال توران الشاهقة. تتعرض المنطقة إلى أحوال مناخية قاسية تتميز ببرد الشتاء القارس وشدة حرارة الصيف فيها. ويحتضن الموقع تنوعاً استثنائياً من النباتات والحيوانات التي تكيفت مع الظروف القاسية. ويحتوي الموقع أيضاً على تنوع كبير من النظم البيئية الصحراوية، التي تمتد على مسافة تزيد على 1500 كيلومتر من الشرق إلى الغرب. تؤدي أجزاء الموقع دوراً تكامليّاً، إذ يُكمّل كل منها الآخر من حيث التنوع البيولوجي والخصائص الصحراوية والعمليات البيئية الجارية.",
+          "zh": "该跨境遗产由10个部分组成，分布在里海和图兰高山之间的中亚温带干旱地区。这里气候条件极端恶劣，冬季严寒、夏季酷热。区域内动植物种类异常丰富，它们已适应了恶劣的气候。该遗产还展现了多样化的沙漠生态系统，东西跨度1500多公里，各组成部分在生物多样性、沙漠类型和持续变化的生态进程方面不尽相同。"
+        },
+        "full": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 3366441,
+          "square_km": 33664.41,
+          "square_miles": 13623.524,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/824e9f59d70b296f68727f3aa99ec03c",
+          "filename": "site_1693_0001.jpg",
+          "dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/193069/site_1693_0001.jpg",
+            "https://whc.unesco.org/document/193070/site_1693_0002.jpg",
+            "https://whc.unesco.org/document/193071/site_1693_0003.jpg",
+            "https://whc.unesco.org/document/193072/site_1693_0004.jpg",
+            "https://whc.unesco.org/document/193073/site_1693_0005.jpg",
+            "https://whc.unesco.org/document/193074/site_1693_0006.jpg",
+            "https://whc.unesco.org/document/193075/site_1693_0007.jpg",
+            "https://whc.unesco.org/document/193076/site_1693_0008.jpg",
+            "https://whc.unesco.org/document/193077/site_1693_0009.jpg",
+            "https://whc.unesco.org/document/193078/site_1693_0010.jpg",
+            "https://whc.unesco.org/document/193079/site_1693_0011.jpg"
+          ],
+          "count": 11
+        }
+      },
+      "components": {
+        "count": 14,
+        "locations": [
+          {
+            "name": "Repetek",
+            "ref": "1693-008",
+            "latitude": 38.6016666667,
+            "longitude": 63.2502777778
+          },
+          {
+            "name": "Yeradzhi",
+            "ref": "1693-009",
+            "latitude": 38.785,
+            "longitude": 62.5044444444
+          },
+          {
+            "name": "Saigachy",
+            "ref": "1693-010",
+            "latitude": 45.1505555556,
+            "longitude": 57.7291666667
+          },
+          {
+            "name": "Gaplangyr",
+            "ref": "1693-007",
+            "latitude": 41.5741666667,
+            "longitude": 57.4861111111
+          },
+          {
+            "name": "Kaskakulan",
+            "ref": "1693-005",
+            "latitude": 45.7158333333,
+            "longitude": 61.0297222223
+          },
+          {
+            "name": "Saigachy-Duana",
+            "ref": "1693-012",
+            "latitude": 45.335,
+            "longitude": 58.4513888889
+          },
+          {
+            "name": "Altyn-Emel East",
+            "ref": "1693-001",
+            "latitude": 44.0258333334,
+            "longitude": 79.0341666666
+          },
+          {
+            "name": "Altyn-Emel West",
+            "ref": "1693-003",
+            "latitude": 43.9852777777,
+            "longitude": 78.3041666667
+          },
+          {
+            "name": "Saigachy-Beleuli",
+            "ref": "1693-011",
+            "latitude": 44.5630555556,
+            "longitude": 57.2191666667
+          },
+          {
+            "name": "Southern Ustyurt",
+            "ref": "1693-014",
+            "latitude": 42.0813888889,
+            "longitude": 56.6647222222
+          },
+          {
+            "name": "Bereketli Garagum",
+            "ref": "1693-006",
+            "latitude": 39.662,
+            "longitude": 59.361
+          },
+          {
+            "name": "Saigachy-Zhideyli",
+            "ref": "1693-013",
+            "latitude": 44.9666666667,
+            "longitude": 58.2511111111
+          },
+          {
+            "name": "Altyn-Emel Central",
+            "ref": "1693-002",
+            "latitude": 43.8936111111,
+            "longitude": 78.6558333333
+          },
+          {
+            "name": "Barsakelmes island",
+            "ref": "1693-004",
+            "latitude": 45.6538888889,
+            "longitude": 59.9372222222
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1693",
+        "unesco_documents": "https://whc.unesco.org/en/list/1693/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1693/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1693/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Cold Winter Deserts of Turan This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes. This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes. Kazakhstan Uzbekistan Turkmenistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "western_tien_shan",
+      "uuid": "7695dfdf-924f-59bc-bd7b-e1eb60e45c6c",
+      "unesco_id": "1490",
+      "names": {
+        "en": "Western Tien-Shan",
+        "fr": "Tien Shan occidental",
+        "es": "Tien-Shan occidental",
+        "ru": "Западный Тянь-Шань",
+        "ar": "موقع تيان شان الغربي",
+        "zh": "西部天山"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "KGZ": {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "iso3": "KGZ"
+          },
+          "KAZ": {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "iso3": "KAZ"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+          "fr": "Ce bien transnational se trouve dans le système de montagnes du Tien Shan, l'une des plus grandes chaînes de montagnes du monde. Le Tien Shan occidental varie en altitude de 700 à 4 503 m. Ce site comprend une grande diversité de paysages qui abritent une biodiversité́ exceptionnellement riche. Il est important au plan mondial comme centre d’origine d’un certain nombre d’espèces d’arbres fruitiers cultivés, et pour sa grande diversité de types de forêts et d’associations uniques de communautés de plantes.",
+          "es": "Este sitio transnacional de Asia Central se encuentra en la cadena montañosa de Tien-Shan, una de las siete mayores del mundo. Los diferentes elementos de su sistema montañoso tienen altitudes que varían entre 700 y 4.503 metros. Se trata de un sitio con gran diversidad de paisajes que albergan una biodiversidad excepcionalmente rica. La región de Tien-Shan occidental es importante en el plano mundial como centro de origen de varias especies de árboles frutales cultivados así como por su gran diversidad de tipos de bosque y por sus asociaciones únicas de plantas.",
+          "ru": "Этот трансграничный объект является частью центрально-азиатской горной системы Тянь-Шань – одной из семи крупнейших горных цепей мира. Высота различных участков западного Тянь-Шаня варьирует от 700 до 4503 метров. Данный объект изобилует разнообразными ландшафтами, для которых характерно исключительно богатое биоразнообразие. Регион западного Тянь-Шаня имеет мировое значение, так как является местом происхождения ряда видов фруктовых деревьев и отличается большим разнообразием типов лесов и уникальным растительным миром.",
+          "ar": "يوجد هذا الموقع العابر للحدود الوطنيّة في سلسلة جبال تيان شان التي تعد واحدة من أكبر السلسلات الجبلية في العالم. ويقع هذا المكان بالتحديد على ارتفاع يتراوح بين 700 و 4503 متراً. ويحوي مجموعة من المناظر الطبيعيّة الخلابة التي تحتضن في طياتها تنوعاً بيولوجيا غنياً. وتعود أهمية هذا الموقع العالميّة لكونه مركزاً لمجموعة من محاصيل الفواكه ومجموعة متنوّعة من الغابات وجمعيات نباتيّة محليّة فريدة.",
+          "zh": "这处跨国境遗产地位于世界上最大的山脉之一，天山山脉。西部天山位于海拔700米至4503米地带，地貌多样，生物种群极其丰富。这里不仅以多种水果作物的发源地而拥有世界性的重要地位，而且还拥有多样的森林类型和独特的植物群落体系。"
+        },
+        "full": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+        "justification": ""
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            10
+          ],
+          "all": [
+            10
+          ],
+          "display": "(x)",
+          "count": 1,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 528177.6,
+          "square_km": 5281.78,
+          "square_miles": 2137.462,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2016,
+          "all_dates": [
+            2016
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2016,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/f07f31e6a527c7c18dc513209e21ce88",
+          "filename": "site_1490_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/141995/site_1490_0001.jpg",
+            "https://whc.unesco.org/document/141997/site_1490_0003.jpg",
+            "https://whc.unesco.org/document/141998/site_1490_0004.jpg",
+            "https://whc.unesco.org/document/141999/site_1490_0005.jpg",
+            "https://whc.unesco.org/document/142000/site_1490_0006.jpg",
+            "https://whc.unesco.org/document/142001/site_1490_0007.jpg",
+            "https://whc.unesco.org/document/142002/site_1490_0008.jpg",
+            "https://whc.unesco.org/document/142003/site_1490_0009.jpg",
+            "https://whc.unesco.org/document/142004/site_1490_0010.jpg",
+            "https://whc.unesco.org/document/142005/site_1490_0011.jpg",
+            "https://whc.unesco.org/document/142006/site_1490_0012.jpg",
+            "https://whc.unesco.org/document/142007/site_1490_0013.jpg",
+            "https://whc.unesco.org/document/142008/site_1490_0014.jpg",
+            "https://whc.unesco.org/document/142009/site_1490_0015.jpg",
+            "https://whc.unesco.org/document/142010/site_1490_0016.jpg",
+            "https://whc.unesco.org/document/142011/site_1490_0017.jpg",
+            "https://whc.unesco.org/document/142012/site_1490_0018.jpg",
+            "https://whc.unesco.org/document/142013/site_1490_0019.jpg",
+            "https://whc.unesco.org/document/142014/site_1490_0020.jpg",
+            "https://whc.unesco.org/document/142015/site_1490_0021.jpg",
+            "https://whc.unesco.org/document/142016/site_1490_0022.jpg",
+            "https://whc.unesco.org/document/142017/site_1490_0023.jpg",
+            "https://whc.unesco.org/document/142018/site_1490_0024.jpg",
+            "https://whc.unesco.org/document/142019/site_1490_0025.jpg",
+            "https://whc.unesco.org/document/142020/site_1490_0026.jpg",
+            "https://whc.unesco.org/document/142021/site_1490_0027.jpg",
+            "https://whc.unesco.org/document/142022/site_1490_0028.jpg",
+            "https://whc.unesco.org/document/142023/site_1490_0029.jpg",
+            "https://whc.unesco.org/document/142024/site_1490_0030.jpg",
+            "https://whc.unesco.org/document/142025/site_1490_0031.jpg",
+            "https://whc.unesco.org/document/148461/site_1490_0032.jpg",
+            "https://whc.unesco.org/document/148462/site_1490_0033.jpg",
+            "https://whc.unesco.org/document/148463/site_1490_0034.jpg",
+            "https://whc.unesco.org/document/148464/site_1490_0035.jpg",
+            "https://whc.unesco.org/document/148465/site_1490_0036.jpg",
+            "https://whc.unesco.org/document/148466/site_1490_0037.jpg",
+            "https://whc.unesco.org/document/148467/site_1490_0038.jpg",
+            "https://whc.unesco.org/document/148468/site_1490_0039.jpg",
+            "https://whc.unesco.org/document/148469/site_1490_0040.jpg",
+            "https://whc.unesco.org/document/148470/site_1490_0041.jpg",
+            "https://whc.unesco.org/document/157050/site_1490_0042.jpg",
+            "https://whc.unesco.org/document/157051/site_1490_0043.jpg",
+            "https://whc.unesco.org/document/157052/site_1490_0044.jpg",
+            "https://whc.unesco.org/document/157053/site_1490_0045.jpg",
+            "https://whc.unesco.org/document/157054/site_1490_0046.jpg",
+            "https://whc.unesco.org/document/157055/site_1490_0047.jpg",
+            "https://whc.unesco.org/document/157056/site_1490_0048.jpg",
+            "https://whc.unesco.org/document/157057/site_1490_0049.jpg"
+          ],
+          "count": 48
+        }
+      },
+      "components": {
+        "count": 13,
+        "locations": [
+          {
+            "name": "Padysha-Ata State Nature Reserve",
+            "ref": "1490-011",
+            "latitude": 41.7244444444,
+            "longitude": 71.5783333333
+          },
+          {
+            "name": "Karatau State Nature Reserve (Kazakhstan)",
+            "ref": "1490-001",
+            "latitude": 43.7333333333,
+            "longitude": 68.6788888889
+          },
+          {
+            "name": "Sary-Chelek State Biosphere Nature Reserve",
+            "ref": "1490-008",
+            "latitude": 41.8736111111,
+            "longitude": 71.9372222222
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve – main part",
+            "ref": "1490-009",
+            "latitude": 41.5919444444,
+            "longitude": 70.4577777778
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – main part",
+            "ref": "1490-002",
+            "latitude": 42.2761111111,
+            "longitude": 70.6741666667
+          },
+          {
+            "name": "Besh-Aral State Nature Reserve - Shandalash area",
+            "ref": "1490-010",
+            "latitude": 42.075,
+            "longitude": 71.3
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Boraldaitau area",
+            "ref": "1490-005",
+            "latitude": 41.957699,
+            "longitude": 70.013503
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Sairam-Ugam area",
+            "ref": "1490-007",
+            "latitude": 42.13801,
+            "longitude": 70.26977
+          },
+          {
+            "name": "Sairam-Ugam State National Nature Park – Irsu-Daubabin area",
+            "ref": "1490-006",
+            "latitude": 42.404225,
+            "longitude": 70.270334
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Maidantal area",
+            "ref": "1490-012",
+            "latitude": 41.3013888889,
+            "longitude": 70.255
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Aulie paleontological area",
+            "ref": "1490-004",
+            "latitude": 42.905,
+            "longitude": 70.0
+          },
+          {
+            "name": "The Chatkal State Biosphere Nature Reserve – Bashkizilsay area",
+            "ref": "1490-013",
+            "latitude": 41.21,
+            "longitude": 69.9341666667
+          },
+          {
+            "name": "Aksu-Jabagly State Nature Reserve – Karabastau paleontological area",
+            "ref": "1490-003",
+            "latitude": 42.94,
+            "longitude": 69.915
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1490",
+        "unesco_documents": "https://whc.unesco.org/en/list/1490/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1490/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1490/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 9,
+        "inscription_year": 2016
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Western Tien-Shan The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations. Kyrgyzstan Kazakhstan Uzbekistan Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "historic_centre_of_bukhara",
+      "uuid": "710953f3-c22f-54e2-9987-c6b102f55b02",
+      "unesco_id": "602",
+      "names": {
+        "en": "Historic Centre of Bukhara",
+        "fr": "Centre historique de Boukhara",
+        "es": "Centro histórico de Bujara",
+        "ru": "Исторический центр города Бухара",
+        "ar": "وسط بخارى التاريخي",
+        "zh": "布哈拉历史中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas.",
+          "fr": "Située sur la Route de la soie, Boukhara a plus de 2 000 ans. C'est l'exemple le plus complet d'une ville médiévale d'Asie centrale dont le tissu urbain est resté majoritairement intact, avec de nombreux monuments dont la célèbre tombe d'Ismaël Samani, chef-d'œuvre de l'architecture musulmane du Xe siècle, et de nombreuses medersa du XVIIe siècle.",
+          "es": "Situada en la Ruta de la Seda, Bujara tiene más de 2.000 años de antigüedad. Es el ejemplo más completo de ciudad medieval existente en el Asia Central y su tejido urbano primigenio se ha conservado intacto en su mayor parte. Posee numerosos monumentos, entre los que destacan la célebre tumba de Ismail Samani, obra maestra de la arquitectura musulmana del siglo X, y varias madrazas del siglo XVII.",
+          "ru": "Возраст Бухары, расположенной на Великом Шелковом пути, превышает 2 тыс. лет. Это наиболее целостный образец средневекового города в Средней Азии, с почти не измененной городской планировкой. Наибольший интерес представляют такие памятники как гробница Исмаила Самани – шедевр исламской архитектуры X в., - а также многочисленные медресе XVII в.",
+          "ar": "تأسَّست مدينة بخارى التي تقع على طريق الحرير، منذ أكثر من 2000 عام. وهي المثال الأكثر كمالاً للمدينة االت ترقى إلى القرون الوسطى في وسط آسيا حيث بقي النسيج المدني سليماً بالإجمال، بالإضافة إلى آثار عديدة نذكر منها قبر اسماعيل الساماني الشهير، وهو تحفة من الهندسة الإسلامية التي تعود إلى القرن الخامس، والعديد من المدارس في القرن السابع عشر.",
+          "zh": "丝绸之路上的布哈拉已有两千多年的历史。在中亚城市之中，它完好地保存了绝大多数建筑物，是中世纪城市的典范。其中著名的纪念物有伊斯梅尔·萨马尼的著名墓碑，公元10世纪穆斯林的建筑杰作以及17世纪的一批建筑。"
+        },
+        "full": "Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas.",
+        "justification": "Brief synthesis The Historic Centre of Bukhara, situated on the Silk Roads, is more than two thousand years old. It is one of the best examples of well preserved Islamic cities of Central Asia of the 10th to 17th centuries, with an urban fabric that has remained largely intact. Bukhara was long an important economic and cultural center in Central Asia. The ancient Persian city served as a major center of Islamic culture for many centuries and became a major cultural center of the Caliphate in the 8th century. With the exception of a few important vestiges from before the Mongol invasions of Genghis Khan in 1220 and Temur in 1370, the old town bears witness to the urbanism and architecture of the Sheibani period of Uzbek rule, from the early 16th century onwards. The citadel, rebuilt in the 16th century, has marked the civic center of the town since its earliest days to the present, Important monuments that survive from early times include the famous Ismail Samanai tomb, impressive in its sober elegance and the best surviving example of 10th century architecture in the whole Muslim world. From the 11th century Karakhanid period comes the outstanding Poi-Kalyan minaret, a masterpiece of decoration in brick, along with most of the Magoki Attori mosque and the Chashma Ayub shrine. The Ulugbek medresseh is a surviving contribution from Temurid. With the advent of the Sheibanids came some of the most celebrated buildings of Bukhara: the Poi-Kalyan group, the Lyabi-Khauz ensemble, the Kosh Medresseh and the Gaukushon medresseh in the Hodja-Kalon ensemble. Later buildings from this phase of Bukhara´s history include monumental medressehs at important crossroads: Taki Sarafon (Dome of the Moneychangers), Taki-Tilpak-Furushan (Dome of the Headguard Sellers), Tim-Bazzazan, and Tiro-Abdullah-Khan. In the early 17th century fine buildings were added, including a new great mosque, Magoki Kurns (1637), and the imposing Abdullaziz-Khan medresseh (1652). However, the real importance of Bukhara lies not in its individual buildings but rather in its overall townscape, demonstrating the high and consistent level of urban planning and architecture that began with the Sheibanid dynasty. Criterion (ii): The example of Bukhara in terms of its urban layout and buildings had a profound influence on the evolution and planning of towns in a wide region of Central Asia. Criterion (iv): Bukhara is the most complete and unspoiled example of a medieval Central Asian town which has preserved its urban fabric to the present day. Criterion (vi): Between the 9th and 16th centuries, Bukhara was the largest centre for Muslim theology, particularly on Sufism, in the Near East, with over two hundred mosques and more than a hundred madrasahs. Integrity The property contains all the attributes that sustain its Outstanding Universal Value. Its boundaries and buffer zone are appropriate and adequate. Despite the insensitivity of much of the new construction from 1920 until the 1950s and earthquake damages, Bukhara retains much of its historic ambience and still has a largely intact urban fabric. However, the integrity of the property is threatened by aggressive impact of salinity and underground water and by termites causing the erosion of wooden structures. In addition, large numbers of the outstanding earthen buildings are in some quarters extremely vulnerable due to the deterioration of the historic fabric. Authenticity Bukhara has preserved a great deal of its urban layout that dates from the Sheibanid period. Modern buildings have been erected in the historic centre over the past half-century that have destroyed the appearance of some quarters, but in others the medieval townscape has survived. The proportion of old structures, particularly the public and religious buildings, nonetheless remains high, and the historic centre is unquestionably of outstanding significance as an exceptional example of a largely medieval Muslim city of Central Asia. In the context of regarding the Historic Centre of Bukhara as an entire entity – expressed through a variety of attributes including urban setting, form and design, use of materials and techniques, functions and tradition – some factors can be recognized as having the potential to impact adversely on the authenticity of the property, namely: (i) the diminishing use of traditional materials and traditional building techniques and introduction of new building materials, as well as new architectural details; (ii) inadequate documentation of major monuments and urban fabric; (iii) urban development pressures resulting in inappropriate designs of new structures. Protection and management requirements Relevant national laws and regulations concerning the World Heritage property include the Law on Protection and Exploitation of Cultural Heritage Properties, 2001. Current laws together with urban planning codes provide protection of monuments of cultural heritage and their buffer zones. These documents are reflected in the Master Plan of Bukhara city in 2005. In addition, the Cabinet of Ministers of the Republic of Uzbekistan approved special Decree No. 49 of 23 March 2010 “On State programme on research, conservation, restoration and adaptation to modern use of the cultural heritage properties of Bukhara until 2020”. At present this state programme is being implemented which provides an additional layer for the protection and conservation of the property. Management of monuments of cultural heritage in Bukhara is carried out by the Ministry of Culture and Sports of the Republic of Uzbekistan at national level and Bukhara Regional Inspection for Protection and Utilization of Monuments of Cultural Heritage and local authorities at regional level. In the framework of protection of cultural heritage of the historic centre of Bukhara, Cabinet of Ministries of the Republic of Uzbekistan adopted a State Programme for complex activities on research, conservation, restoration of monuments of cultural heritage of the Historic Centre of Bukhara and their adaptation to the modern needs for the period 2010-2020. Interventions are strictly regulated in order to ensure the integrity and characteristic elements of monuments. During the realization of the State Programme the monitoring of monuments will be carried out on a permanent base. A management plan, which should include a computerized database, a Master Conservation and Development Plan, a scientific monitoring system, an infrastructure plan, design guidelines, and guidelines and regulations for all tourist services, is required in order to sustain the Outstanding Universal Value of the property and balance the needs for sustainable development. To maintain the conditions of integrity and authenticity, a comprehensive conservation strategy needs to be in place, in particular, to remove cultural layers built on later periods and to reduce the surface of streets to their historical level. Another important aspect is to build capacity in traditional building techniques. At present Urban Planning Scientific-Research and Project Institute is developing a project of detailed planning of historic centre of Bukhara, which will further address these issues."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            2,
+            4
+          ],
+          "display": "(ii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 216,
+          "square_km": 2.16,
+          "square_miles": 0.874,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1993,
+          "all_dates": [
+            1993
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1993,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/2913da26193f6c7d42856804dca25e0f",
+          "filename": "site_0602_0001-500-0-20070801154635.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 332
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111527/site_0602_0001.jpg",
+            "https://whc.unesco.org/document/111529/site_0602_0002.jpg",
+            "https://whc.unesco.org/document/111531/site_0602_0003.jpg",
+            "https://whc.unesco.org/document/111534/site_0602_0004.jpg",
+            "https://whc.unesco.org/document/111536/site_0602_0005.jpg",
+            "https://whc.unesco.org/document/111538/site_0602_0006.jpg",
+            "https://whc.unesco.org/document/111540/site_0602_0007.jpg",
+            "https://whc.unesco.org/document/111542/site_0602_0008.jpg",
+            "https://whc.unesco.org/document/111544/site_0602_0009.jpg",
+            "https://whc.unesco.org/document/111546/site_0602_0010.jpg",
+            "https://whc.unesco.org/document/111548/site_0602_0011.jpg",
+            "https://whc.unesco.org/document/111550/site_0602_0012.jpg",
+            "https://whc.unesco.org/document/123836/site_0602_0014.jpg",
+            "https://whc.unesco.org/document/123837/site_0602_0015.jpg",
+            "https://whc.unesco.org/document/123838/site_0602_0016.jpg",
+            "https://whc.unesco.org/document/123839/site_0602_0017.jpg",
+            "https://whc.unesco.org/document/123840/site_0602_0018.jpg",
+            "https://whc.unesco.org/document/147255/site_0602_0019.jpg",
+            "https://whc.unesco.org/document/147256/site_0602_0020.jpg",
+            "https://whc.unesco.org/document/147257/site_0602_0021.jpg",
+            "https://whc.unesco.org/document/147258/site_0602_0022.jpg",
+            "https://whc.unesco.org/document/147259/site_0602_0023.jpg",
+            "https://whc.unesco.org/document/147260/site_0602_0024.jpg",
+            "https://whc.unesco.org/document/147261/site_0602_0025.jpg",
+            "https://whc.unesco.org/document/147262/site_0602_0026.jpg",
+            "https://whc.unesco.org/document/147263/site_0602_0027.jpg",
+            "https://whc.unesco.org/document/147264/site_0602_0028.jpg",
+            "https://whc.unesco.org/document/147265/site_0602_0029.jpg",
+            "https://whc.unesco.org/document/147266/site_0602_0030.jpg"
+          ],
+          "count": 29
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Bukhara",
+            "ref": "602bis",
+            "latitude": 39.77472,
+            "longitude": 64.42861
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/602",
+        "unesco_documents": "https://whc.unesco.org/en/list/602/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/602/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/602/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 32,
+        "inscription_year": 1993
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Bukhara Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas. Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas. Uzbekistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "samarkand_crossroad_of_cultures",
+      "uuid": "03b25e36-8adb-5fd9-b6b1-48e9113ba2d8",
+      "unesco_id": "603",
+      "names": {
+        "en": "Samarkand – Crossroad of Cultures",
+        "fr": "Samarkand – carrefour de cultures",
+        "es": "Samarcanda - Encrucijada de culturas",
+        "ru": "Самарканд – перекресток культур",
+        "ar": "سمرقند – ملتقى الثقافات",
+        "zh": "处在文化十字路口的撒马尔罕城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory.",
+          "fr": "La ville historique de Samarkand représente un carrefour et un lieu de synthèse des cultures du monde entier. Fondée au VIIe siècle avant l'ère chrétienne sous le nom d'Afrasyab, Samarkand connut son apogée à l'époque timouride, du XIVe au XVe siècle. Les principaux monuments comprennent la mosquée et les médersas du Registan, la mosquée de Bibi-Khanum, l'ensemble de Shah i-Zinda et celui de Gur i-Emir, ainsi que l'observatoire d'Ulugh-Beg.",
+          "es": "La ciudad histórica de Samarcanda fue una encrucijada y un crisol de culturas del mundo entero. Fundada en el siglo VII a.C. con el nombre de Afrasyab, alcanzó su apogeo en los siglos XIV y XV bajo los timúridas. Entre sus principales monumentos destacan la mezquita y las madrazas del Registán, la mezquita Bibi-Khanum, los conjuntos arquitectónicos de Shah i-Zinda y Gur i-Emir, y el observatorio de Ulugh-Beg.",
+          "ru": "Древний Самарканд можно определить как «перекресток» и «плавильный котел» многих мировых культур. Основанный в VII в. до н.э. под названием Афрасиаб, наивысший подъем в своем развитии город пережил в XIV–XV вв., во времена правления Тимуридов. Главные достопримечательности Самарканда – три медресе на площади Регистан, соборная мечеть Биби-Ханым, комплекс мавзолеев Шахи-Зинда, мавзолей Гур-Эмир и Обсерватория Улугбека.",
+          "ar": "تُعتبر مدينة سمرقند ملتقى ومكانًا يجمع ثقافات العالم بأسره. فهي تأسّست في القرن السابع قبل الميلاد تحت اسم افراسياب وعرفت ذروة ازدهارها في العصر التيموريين الذي امتد من القرن الرابع عشر حتى القرن الخامس عشر وتضم آثاراها الاساسية مسجد رجستان ومدارسها ومسجد بيبي خانوم ومجموعة شاه الزندا ومجموعة غوري الامير، بالاضافة الى مرصد ألُق بك.",
+          "zh": "撒马尔罕历史名城是世界多元文化交汇的大熔炉，建于公元前7世纪，在公元14世纪至15世纪的贴木尔王朝时期得到了重要发展。撒马尔罕拥有众多著名的古代建筑，如列吉斯坦伊斯兰教神学院、比比·哈内姆大清真寺、贴木尔家族陵墓和兀鲁伯天文台等。"
+        },
+        "full": "The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory.",
+        "justification": "Brief synthesis The historic town of Samarkand, located in a large oasis in the valley of the Zerafshan River, in the north-eastern region of Uzbekistan, is considered the crossroads of world cultures with a history of over two and a half millennia. Evidence of settlements in the region goes back to 1500 BC, with Samarkand having its most significant development in the Temurid period, from the 14th to the 15th centuries, when it was capital of the powerful Temurid realm. The historical part of Samarkand consists of three main sections. In the north-east there is the site of the ancient city of Afrosiab, founded in the 7th century BC and destroyed by Genghis Khan in the 13th century, which is preserved as an archaeological reserve. Archaeological excavations have revealed the ancient citadel and fortifications, the palace of the ruler (built in the 7th century displays important wall paintings), and residential and craft quarters. There are also remains of a large ancient mosque built from the 8th to 12th centuries. To the south, there are architectural ensembles and the medieval city of the Temurid epoch of the 14th and 15th centuries, which played a seminal role in the development of town planning, architecture, and arts in the region. The old town still contains substantial areas of historic fabric with typical narrow lanes, articulated into districts with social centres, mosques, madrassahs, and residential housing. The traditional Uzbek houses have one or two floors and the spaces are grouped around central courtyards with gardens; built in mud brick, the houses have painted wooden ceilings and wall decorations. The contribution of the Temurid masters to the design and construction of the Islamic ensembles were crucial for the development of Islamic architecture and arts and exercised an important influence in the entire region, leading to the achievements of the Safavids in Persia, the Moghuls in India, and even the Ottomans in Turkey. To the west there is the area that corresponds to the 19th and 20th centuries expansions, built by the Russians, in European style. The modern city extends around this historical zone. This area represents traditional continuity and qualities that are reflected in the neighbourhood structure, the small centres, mosques, and houses. Many houses retain painted and decorated interiors, grouped around courtyards and gardens. The major monuments include the Registan mosque and madrasahs, originally built in mud brick and covered with decorated ceramic tiles, the Bibi-Khanum Mosque and Mausoleum, the Shakhi-Zinda compound, which contains a series of mosques, madrasahs and mausoleum, and the ensembles of Gur-Emir and Rukhabad, as well as the remains of Ulugh-Bek’s Observatory. Criterion (i): The architecture and townscape of Samarkand, situated at the crossroads of ancient cultures, are masterpieces of Islamic cultural creativity. Criterion (ii): Ensembles in Samarkand such as the Bibi Khanum Mosque and Registan Square played a seminal role in the development of Islamic architecture over the entire region, from the Mediterranean to the Indian subcontinent. Criterion (iv): The historic town of Samarkand illustrates in its art, architecture, and urban structure the most important stages of Central Asian cultural and political history from the 13th century to the present day. Integrity The different historic phases of Samarkand’s development from Afrosiab to the Temurid city and then to the 19th century development have taken place alongside rather than on top of each other. These various elements which reflect the phases of city expansion have been included within the boundaries of the property. The inscribed property is surrounded by more recent developments, of which parts are in the buffer zone. Afrosiab has been partly excavated and the Temurid and European parts of the city are being conserved as living historic urban areas. The main listed monuments are well maintained. Some of the medieval features have been lost, such as the city walls and the citadel, as well as parts of the traditional residential structures especially in areas surrounding major monuments. Nevertheless, it still contains a substantial urban fabric of traditional Islamic quarters, with some fine examples of traditional houses. Notwithstanding, there are several factors that can render the integrity of the property vulnerable that require sustained management and conservation actions. Authenticity The architectural ensembles of Samarkand as well as archaeological remains of Afrosiab have preserved all characteristic features related to the style and techniques and have maintained the traditional spatial plans of the urban quarter. However, inadequate restoration interventions as well as the challenges faced in controlling changes, particularly the construction of modern buildings, and the modernization on private properties have affected the authenticity of the property and make the property vulnerable to further changes. Protection and management requirements There are adequate legal provisions for the safeguarding of the heritage property. The State Samarkand Historical Architectural Reserve was established under the Decree of the Cabinet of Ministers of the Republic of Uzbekistan (26 May 1982). Within the Reserve all construction and development work is done according to the recommendations of the Samarkand Regional Inspection on Preservation and Restoration of Objects of Cultural Heritage. The overall responsibility of the management of protected areas is with the Ministry of Cultural and Sport Affairs and the Samarkand provincial government. The operating bodies that influence the conservation and management of the property include the Ministry of Culture and Sports of the Republic of Uzbekistan and the Principal Scientific Board for Preservation and Utilization of Cultural Monuments, the Municipalities of the Samarkand Region and Samarkand city, the Samarkand Regional State Inspection on Protection and Utilization of Cultural Heritage Objects. Decisions on construction/reconstruction within the protective Reserve of Samarkand are taken in consultation with the Samarkand Regional State Inspection on Protection and Utilization of Monuments, or by the Scientific Board on Protection and Utilization of Monuments in Samarkand. Major projects receive approval at the national level. The Regional State Inspection on Protection and Utilization of Cultural Heritage is in charge of day-to-day activities related to the monuments such as registration, monitoring, technical supervision of conservation and restoration, or technical expertise of new projects, these are implemented by the Scientific Board on Protection and Utilization of Monuments in Samarkand, which is obtaining the function of a Coordinating Committee and should have the main role to bring together all parties with interest in the conservation and development of Samarkand. Taking into account a scope and a complexity of issues facing the property, site management system could be strengthened through an operational unit. The sustained implementation of the Management Plan is needed to ensure to further improve the cooperation between the various national and local authorities and set international standards for conservation. Several factors that can pose a threat to the conditions of integrity and authenticity of the property need to be systematically addressed through the implementation of an integrated conservation strategy, that follows internationally accepted conservation standards, as well as through the enforcement of regulatory measures. The management system will need to be integrated into other planning tools so that the existing urban matrix and morphology of the world heritage property are protected. Funding is provided by the State budget, extra-budgetary sources and sponsorship. Resources needed for all aspects of conservation and development of the property should be secured to ensure the continuous operation of the management system."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2,
+            4
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2,
+            4
+          ],
+          "display": "(i)(ii)(iv)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1123,
+          "square_km": 11.23,
+          "square_miles": 4.545,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/ee641f8dedd6620da46e006db0ddda5e",
+          "filename": "site_0603_0001-500-0-20070731171337.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 333
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111554/site_0603_0001.jpg",
+            "https://whc.unesco.org/document/111558/site_0603_0003.jpg",
+            "https://whc.unesco.org/document/111560/site_0603_0004.jpg",
+            "https://whc.unesco.org/document/111562/site_0603_0005.jpg",
+            "https://whc.unesco.org/document/111567/site_0603_0007.jpg",
+            "https://whc.unesco.org/document/111569/site_0603_0008.jpg",
+            "https://whc.unesco.org/document/111571/site_0603_0009.jpg",
+            "https://whc.unesco.org/document/111573/site_0603_0010.jpg",
+            "https://whc.unesco.org/document/111575/site_0603_0011.jpg",
+            "https://whc.unesco.org/document/111577/site_0603_0012.jpg",
+            "https://whc.unesco.org/document/111581/site_0603_0014.jpg",
+            "https://whc.unesco.org/document/118451/site_0603_0015.jpg",
+            "https://whc.unesco.org/document/124432/site_0603_0017.jpg",
+            "https://whc.unesco.org/document/124433/site_0603_0018.jpg",
+            "https://whc.unesco.org/document/124435/site_0603_0020.jpg",
+            "https://whc.unesco.org/document/124436/site_0603_0021.jpg",
+            "https://whc.unesco.org/document/124437/site_0603_0022.jpg",
+            "https://whc.unesco.org/document/147277/site_0603_0023.jpg",
+            "https://whc.unesco.org/document/147278/site_0603_0024.jpg",
+            "https://whc.unesco.org/document/147279/site_0603_0025.jpg",
+            "https://whc.unesco.org/document/147280/site_0603_0026.jpg",
+            "https://whc.unesco.org/document/147281/site_0603_0027.jpg",
+            "https://whc.unesco.org/document/147282/site_0603_0028.jpg",
+            "https://whc.unesco.org/document/147283/site_0603_0029.jpg",
+            "https://whc.unesco.org/document/147284/site_0603_0030.jpg",
+            "https://whc.unesco.org/document/147285/site_0603_0031.jpg",
+            "https://whc.unesco.org/document/147286/site_0603_0032.jpg",
+            "https://whc.unesco.org/document/147287/site_0603_0033.jpg",
+            "https://whc.unesco.org/document/147288/site_0603_0034.jpg"
+          ],
+          "count": 29
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Namazgoh Mosque",
+            "ref": "603rev-005",
+            "latitude": 39.6305555556,
+            "longitude": 66.9638888889
+          },
+          {
+            "name": "Ulugh Bek's Observatory",
+            "ref": "603rev-003",
+            "latitude": 39.675162,
+            "longitude": 67.00563
+          },
+          {
+            "name": "Afrosiab Archaeological Area",
+            "ref": "603rev-001",
+            "latitude": 39.6666666667,
+            "longitude": 66.9833333333
+          },
+          {
+            "name": "Medieval Timurid and European Cities",
+            "ref": "603rev-002",
+            "latitude": 39.65,
+            "longitude": 66.9666666667
+          },
+          {
+            "name": "The Ensembles of Abdi-Darun and Ishrat-khona",
+            "ref": "603rev-004",
+            "latitude": 39.641525,
+            "longitude": 66.991147
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/603",
+        "unesco_documents": "https://whc.unesco.org/en/list/603/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/603/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/603/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Samarkand – Crossroad of Cultures The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory. The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory. Uzbekistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "historic_centre_of_shakhrisyabz",
+      "uuid": "7ef0ac0f-801f-5b35-9286-9da62089c648",
+      "unesco_id": "885",
+      "names": {
+        "en": "Historic Centre of Shakhrisyabz",
+        "fr": "Centre historique de Shakhrisyabz",
+        "es": "Centro histórico de Shakhrisyabz",
+        "ru": "Исторический центр города Шахрисабз",
+        "ar": "وسط شاخيسيابز التاريخي",
+        "zh": "沙赫利苏伯兹历史中心"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century.",
+          "fr": "Le centre historique de Shakhrisyabz compte des édifices monumentaux exceptionnels et des quartiers anciens témoignant du développement séculaire de la ville, et tout particulièrement de son apogée, sous le règne d'Amir Temour et des temourides, du XVe au XVIe siècle.",
+          "es": "El centro histórico de Shakhrisyabz cuenta con edificios monumentales y una serie de barrios antiguos que son testigos de su historia secular, y más concretamente del periodo de su apogeo bajo el reinado de Amir Temur y los timúridas (siglos XV y XVI).",
+          "ru": "В историческом центре Шахрисабза сосредоточены выдающиеся архитектурные памятники и целые древние кварталы, несущие свидетельства многовековой истории этого города. Эти памятники и кварталы относятся к периоду расцвета города во времена Тимура и Тимуридов в XIV–XV вв.",
+          "ar": "يتضمن وسط شاخيسيابز التاريخي عمارات أثرية فريدة وأحياء قديمة تشهد على التطور العريق للمدينة وبشكل خاص على ذروة ازدهارها تحت حكم الامير تيمور والتيموريين من القرن الخامس عشر حتى القرن السادس عشر.",
+          "zh": "沙赫利苏伯兹的历史中心包含许多具有重要意义的古迹，这些古迹都见证了该城世俗发展的过程，特别是沙赫利苏伯兹在公元15世纪至16世纪阿米尔贴木尔和阿米尔贴木尔德斯统治时期达到颠峰的历史。"
+        },
+        "full": "The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century.",
+        "justification": "Brief synthesis The Historic Centre of Shakhrisyabz, located on the Silk Roads in southern Uzbekistan, is over 2000 years old and was the cultural and political centre of the Kesh region in the 14th and 15th century. A collection of exceptional monuments and ancient quarters can be found within the medieval walls, parts of which still remain. The Historic Centre of Shakhrisabz bears witness to the city’s secular development and to centuries of its history, and particularly to the period of its apogee, under the empire of Temur, in the 15th century. Construction of elements continued in Shakhrisyabz throughout different time periods, lending a unique character to the place by the succession of different architectural styles. Despite the inroads of time, the remaining vestiges are still impressive in the harmony and strength of styles, an enriching addition to the architectural heritage of Central Asia and the Islamic world. The Ak-Sarai Palace construction began in 1380, the year following Temur's conquest of Khorezm, whose artisans were deported to work on the palace and provide its rich decoration. Although Samarkand may boast a great many Temurid monuments, not one can rival the Ak-Sarai Palace in Shakhrisyabz. The foundations of its immense gate have been preserved: this architectural masterpiece is outstanding in its dimensions and bold design. The Dorus Saodat is a vast complex which was destined as a place of burial for the ruling family and contained, in addition to the tombs themselves, a prayer hall, a mosque, and accommodation for the religious community and pilgrims. The main façade was faced with white marble. The tomb of Temur, also of white marble, is a masterpiece of the architecture of this period and it is also one of the finest memorials to be found in Central Asia. The covered Chor-su bazaar was built at the cross-roads of two main streets, in the form of an octagon with a central cupola, with no particular decoration but with an eye to the exterior effect of bold architecture. The baths, rebuilt on the site of the 15th century baths and still in use today, are heated by an elaborate network of underground conduits. Shakhrisyabz contains not only outstanding monuments dating from the period of the Temurids, but also mosques, mausoleums, and entire quarters of ancient houses. In addition to these monuments, the town also offers a variety of interesting constructions of a more modern period, including the Mirhamid, Chubin, Kunduzar, and Kunchibar mosques. Period houses reflect a more popular architectural style, with rooms typically laid out around a courtyard with veranda. Criterion (iii): Shakhrisyabz contains many fine monuments, and in particular those from the Temurid period, which was of great cultural and political significance in medieval Central Asia. Criterion (iv): The buildings of Shakhrisyabz, notably the Ak-Sarai Palace and the Tomb of Temur, are outstanding examples of a style which had a profound influence on the architecture of this region. Integrity All the original components of the medieval town including the unique architectural monuments and traditional houses built during the Temurid period are located within the boundaries of the property which is defined by the alignment of the city walls. The historic urban fabric of the town is intact, despite some insensitive insertions made during the Soviet period. The main factor affecting the physical integrity of monuments is the rising ground water level. Therefore a drainage system is required around the historical area. Authenticity The monuments and buildings of Shakhrisabz are a testimony to the architecture and city planning of the Temurid period. The historic centre has retained its original appearance. Most of the buildings and decorative art have been well preserved and are in their original state and care has been taken in restoration works to ensure the use of traditional materials and techniques. Protection and management requirements The Historic Centre of Shakhrisyabz was designated as a “Monument of Significance for the Republic” in 1973. The town was entered on the List of Historic Towns under Resolution N°339 of the Council of Ministers of Uzbekistan in 1973. The relevant legislation of the Republic of Uzbekistan provides sufficient protection for the property and regulates the new urban developments in the historical centre. The property is managed by the Regional Inspection for Protection and Utilization of Cultural Heritage Sites under the Ministry of Culture and Sports with participation of regional authorities. Monitoring of the monuments is being carried out once or twice a year by the Tashkent State Institute of Architecture and Construction. The main monuments are in good conditions and the income from leased spaces provides the funds for the management of the property. Extra funds would be required from the state for restoration projects such as that of the city walls. It is necessary to develop a comprehensive conservation and management plan in order to ensure the long-term safeguarding of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 240,
+          "square_km": 2.4,
+          "square_miles": 0.971,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2000,
+          "all_dates": [
+            2000
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2000,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": true,
+          "details": "Y 2016",
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/7c6b45fc774048fad59a79b61443f9ac",
+          "filename": "site_0885_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113163/site_0885_0001.jpg",
+            "https://whc.unesco.org/document/113165/site_0885_0002.jpg",
+            "https://whc.unesco.org/document/113168/site_0885_0003.jpg",
+            "https://whc.unesco.org/document/113170/site_0885_0004.jpg",
+            "https://whc.unesco.org/document/113172/site_0885_0005.jpg",
+            "https://whc.unesco.org/document/123852/site_0885_0007.jpg",
+            "https://whc.unesco.org/document/123853/site_0885_0008.jpg",
+            "https://whc.unesco.org/document/123854/site_0885_0009.jpg",
+            "https://whc.unesco.org/document/123855/site_0885_0010.jpg",
+            "https://whc.unesco.org/document/123856/site_0885_0011.jpg",
+            "https://whc.unesco.org/document/147267/site_0885_0012.jpg",
+            "https://whc.unesco.org/document/147268/site_0885_0013.jpg",
+            "https://whc.unesco.org/document/147269/site_0885_0014.jpg",
+            "https://whc.unesco.org/document/147270/site_0885_0015.jpg",
+            "https://whc.unesco.org/document/147271/site_0885_0016.jpg",
+            "https://whc.unesco.org/document/147272/site_0885_0017.jpg",
+            "https://whc.unesco.org/document/147273/site_0885_0018.jpg",
+            "https://whc.unesco.org/document/147274/site_0885_0019.jpg",
+            "https://whc.unesco.org/document/147275/site_0885_0020.jpg",
+            "https://whc.unesco.org/document/147276/site_0885_0021.jpg"
+          ],
+          "count": 20
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Centre of Shakhrisyabz",
+            "ref": "885",
+            "latitude": 39.05,
+            "longitude": 66.83333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/885",
+        "unesco_documents": "https://whc.unesco.org/en/list/885/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/885/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/885/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 25,
+        "inscription_year": 2000
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Centre of Shakhrisyabz The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century. The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century. Uzbekistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "silk_roads_zarafshan_karakum_corridor",
+      "uuid": "c2ae2a96-65a9-5108-822a-c46ea2ca256c",
+      "unesco_id": "1675",
+      "names": {
+        "en": "Silk Roads: Zarafshan-Karakum Corridor",
+        "fr": "Routes de la soie : corridor de Zeravchan-Karakoum",
+        "es": "Rutas de la seda: corredor de Zeravshan-Karakum",
+        "ru": "Шелковый путь: Зарафшан-Каракумский коридор",
+        "ar": "طرق الحرير: ممر زارافشان كاراكوم",
+        "zh": "丝绸之路：扎拉夫尚-卡拉库姆廊道"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "TJK": {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "iso3": "TJK"
+          },
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          },
+          "TKM": {
+            "name": "Turkmenistan",
+            "iso2": "TM",
+            "iso3": "TKM"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+          "fr": "Le corridor de Zeravchan-Karakoum est un des principaux tronçons des routes de la soie de l’Asie centrale, qui raccorde d’autres corridors venant de toutes les directions. Situé dans des montagnes escarpées, des vallées fluviales fertiles et des déserts inhabités, ce corridor de 866 kilomètres de long part de l’est vers l’ouest en longeant la rivière Zeravchan et continue vers le sud-ouest en suivant l’ancienne route des caravanes, à travers le désert du Karakoum jusqu’à l’oasis de Merv. Les échanges est-ouest étant en grande partie canalisés sur les routes de la soie du IIe siècle avant notre ère au XVIe siècle de notre ère, d’importantes quantités de marchandises furent négociées le long de ce corridor. Des hommes voyagèrent, s’établirent, firent des conquêtes, ou subirent des défaites en cet endroit, le transformant en un creuset mêlant appartenances ethniques, cultures, religions, sciences, et technologies.",
+          "es": "El corredor Zeravshan-Karakum es un tramo clave de las Rutas de la Seda en Asia Central que vincula otros corredores desde todas las direcciones. Situado entre montañas escarpadas, fértiles valles fluviales y desiertos inhabitables, el corredor de 866 kilómetros discurre de este a oeste a lo largo del río Zeravshan y más al suroeste siguiendo los antiguos caminos de caravanas que cruzaban el desierto de Karakum hasta el oasis de Merv. Canalizó gran parte del intercambio este-oeste a lo largo de las Rutas de la Seda desde el siglo II a.C. hasta el siglo XVI de nuestra era. La gente viajó, se asentó, conquistó o fue derrotada en esta zona, convirtiéndolo en un crisol de etnias, culturas, religiones, ciencias y tecnologías.",
+          "ru": "Зарафшан-Каракумский коридор — ключевой участок Шелкового пути в Центральной Азии, соединяющий другие коридоры со всех направлений. Расположенный среди труднопроходимых гор, плодородных речных долин и непригодных для жизни пустынь, 866-километровый коридор проходит с востока на запад вдоль реки Зарафшан и далее на юго-запад по древним караванным путям, пересекающим пустыню Каракумы, до Мервского оазиса. Благодаря тому, что со II в. до н.э. по XVI в. н.э. по коридору проходила большая часть обмена между Востоком и Западом по Шелковым путям, по нему осуществлялась торговля большим количеством товаров. Здесь люди путешествовали, жили, побеждали или терпели поражения, что превратило это место в плавильный котел народностей, культур, религий, наук и технологий.",
+          "ar": "يُعتبر ممر زارافشان كاراكوم جزءاً أصيلاً من طرق الحرير في آسيا الوسطى، وهو حلقة الوصل بين مجموعة أخرى من الممرات الممتدة في شتى الاتجاهات. يبلغ طول الممر 866 كيلومتراً ويقع في أحضان الجبال الوعرة ووديان الأنهار الخصبة والصحراء غير الصالحة للسكن، ويمتدّ من الشرق إلى الغرب على طول نهر زرافشان وإلى الجنوب الغربي متعقباً طرق القوافل التجارية القديمة التي تَعبُر صحراء كاراكوم، وصولاً إلى واحة ميرف. جرى تداول كمية كبيرة من البضائع على طول الممر باعتباره بوصلة الكثير من التبادلات التجارية بين الشرق والغرب على طول طرق الحرير من القرن الثاني قبل الميلاد إلى القرن السادس عشر الميلادي. شهد هذا الموقع سفر العديد من البشر، وفيه استقروا، وشنوا الغزوات، أو تكبدوا الخسائر، فبات الممر بوتقة تنصهر فيها الأعراق، والثقافات، والأديان، والعلوم، والتقنيات.",
+          "zh": "扎拉夫尚-卡拉库姆廊道是丝绸之路在中亚地区的咽喉，连接着来自各个方向的其他廊道。其全长866公里，沿途既有崎岖的山脉，又有肥沃的河谷和荒无人烟的沙漠。它先顺着扎拉夫尚河自东向西延伸，然后折往西南，沿古代商队路线穿越卡拉库姆沙漠直达梅尔夫绿洲。自公元前2世纪到公元16世纪，该走廊成为丝绸之路上东西方交流、大量商品贸易的主要渠道。它见证了人类的旅行、定居、征服、溃败，从而发展成民族、文化、宗教、科技的熔炉。"
+        },
+        "full": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+        "justification": "Brief synthesis The Zarafshan-Karakum Corridor is one of the key sections of the Silk Roads in Central Asia that connects other corridors from all directions. Comprising thirty-four component parts located in rugged mountains, fertile river valleys, and uninhabited desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Dotted along the corridor passing through varied geographical areas such as highland, piedmont, dry steppe, oases, fertile valleys, and arid-desert zones, the selected component parts reflect the complexity of landscapes and the adaption of societies to the control of the Silk Roads movement and trade. The variation in human responses between the fertile valleys and deltas, and the desert and river crossings, are clearly reflected in the selection of small towns, forts, and way stations; while the outcomes of the political and social capital generated by trading contacts are reflected in the range of commercial, elite, and religious buildings included in the nomination. It was the place where the Sogdians, some of the most international merchants in the world history, flourished. The control of these corridors was of vital significance to many of the great Silk Roads empires, such as the Sogdian, the Parthian, the Sassanian, the Timurid and the Seljuk, as they were fundamental to long-distance exchange along the Silk Roads. Along the corridor, a large quantity of goods and some high-value commodities from the East and the West were moved and traded, and many famous local products were brought out of there to feed the desires of the populations afar. People travelled, settled, conquered, or were defeated there, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. During the historic period of the Silk Roads between the 2nd century BCE and the 16th century CE, the Corridor had experienced three prosperous periods: the rise of Sogdians merchants between the 5th and 8th centuries CE; the thriving trade with the Muslim world and beyond between the 10th and 12th centuries CE, and significant development of science, culture, urban planning and economics under the Mongols' rule from the 13th century to the 17th century CE. Criterion (ii): The Zarafshan-Karakum Corridor exhibits an important interchange of human values over a span of eighteen centuries in the heart of Central Asia as demonstrated by the architecture, monuments, town planning, landscapes, arts, and technology of its component parts which reflect diversified cultures, ethnic traditions, beliefs, and technologies in both distinct and fused ways. Being one of the key sections at the centre of the Silk Roads network linking multiple ethnic regions, which has been alternatively controlled by nearby great empires, the Zarafshan-Karakum Corridor clearly demonstrates the diversity of populations, and the cultures and traditions, ideas and beliefs, as well as knowledge and technologies associated with them. Criterion (iii): The territory of the Zarafshan-Karakum Corridor is overlaid by rich layers of cultural depositions which accumulated throughout history, which is an exceptional testimony to the cultural traditions of the societies that were shaped by the trade and exchanged along the Corridor. These are evidenced by the wealth of the Sogdian merchants as displayed by their luxurious residences, the Sogdian temples with fire altar and murals, the Achaemenid citadels, the early Islamic hypostyle mosques with a large minaret, the rich Sufism buildings after the Great Arab Conquest, the advanced irrigation systems, as well as the wide spectrum of the caravan service facilities that had been provided and maintained by the successive empires controlling the Corridor. Criterion (v): The Zarafshan-Karakum Corridor is an outstanding example of traditional human settlements and land use that is representative of human interaction with nature. The territory of the Corridor covers diverse geographic areas such as highlands, piedmonts, dry steppes, oases and fertile valleys, and arid-desert zones, which dictated the town planning, architectural designs, agricultural and other production activities. It was also the people’s determination, initiatives, and ingenious designs that transformed the harsh land into one on which populations thrived. Integrity The integrity of the property is at two levels: the corridor level and the individual component part level. At the corridor level, the diversity of forms and functions of the selected component parts, including mausoleums, sardobas, caravanserais, minarets, mosques, religious complexes, settlements, and remains of ancient cities, fully demonstrate the active role the Corridor once played in history as a nodal section, which not only linked other corridors but also contributed to the trade with locally produced goods. The serial property as a whole also showcases the exchange of ideas and knowledge along the Silk Roads as the result of the movement of people and goods. At the individual component part level, all the attributes that are needed to convey the Outstanding Universal Value of the property are included in the property. The factors affecting the property, such as development pressure, are largely under the control of the States Parties. Authenticity The authenticity of the property resides at both the corridor level and the individual component part level. At the corridor level, the direction of the route, the geographical conditions, and the landscape settings that had shaped this section remain relatively unchanged over time. At the component part level, the location, the planning, and the layout of the sites remain unchanged. With many stretches of roads still used for transportation as they were used in the past, and most of the religious buildings and cemeteries still performing their original functions today. Many archaeological sites have been excavated and backfilled to protect the materials from deterioration, with the great majority of the portion remaining untouched, providing an opportunity for future research and the recovery of authentic data. The original materials and designs are found in most of the buildings. Conservation interventions conducted on the buildings observed internationally accepted principles such as minimal interventions. Reconstruction for interpretation purposes was undertaken in such a way that the reconstructed parts are distinguishable from the original structures and materials. Protection and management requirements The legal protection operates at the international, national, and component part levels. At the international level, an Agreement between the Ministry of Culture of the Republic of Tajikistan, the Ministry of Culture of the Republic of Uzbekistan and the Ministry of Culture of Turkmenistan for common promotion, management and protection of the components of the Serial Transnational Nomination “Silk Roads: Zeravshan-Karakum Corridor” was signed among the States Parties in 2020 as the legal basis for the protection and management of the property. At the national level, all thirty-four component parts are state-owned and listed under state-level legal designations. At the site level, all thirty-four component parts have been meticulously surveyed, studied, and documented, the necessary measures required for their preservation are implemented, and land-use restrictions as well as planning regulations necessary for conservation purposes, are put into effect. The Zarafshan-Karakum Corridor is managed at the transnational, national, and component part levels. At the corridor level, the management is regulated by the Agreement, which establishes a Coordinating Committee and a Working Group for the overall protection and management of the property. The Coordinating Committee conducts meetings with relevant stakeholders to resolve arising issues on the protection and management of the Corridor. The Coordinating Committee, together with the local authorities also provides the necessary tools and training to the managers and inspectors and encourage research and joint activities for the protection and promotion of the Silk Roads Corridor. The Working Group conducts meetings to discuss issues on protection and management of the component parts at the request of the Coordinating Committee. The Working Group is also responsible for the monitoring of the state of conservation of the component parts and informing the Coordinating Committee on adopted decisions. The International Institute for Central Asian Studies (IICAS), based in Samarkand (Uzbekistan), facilitates the sharing of information among the countries during management processes. It also acts as the secretariat of the nomination of the Zarafshan-Karakum Corridor. At the national level, all the component parts are owned by the States Parties, and designated as protected heritage sites. Ministries of Culture of the States Parties are respectively responsible for the management of the cultural heritage in their countries in terms of state registration, policy-making, administration and budget allocation, among others. At the component part level, each site is managed by the regional branches or governmental institutions under the Ministries of Culture of the States Parties. The costs of site management, maintenance, conservation, and monitoring are mainly covered by the central and local government annual budgetary fund, while national and international ex-budgetary aids are allocated for specific projects such as conservation campaigns, capacity building, and research. Technical support is provided by international resources, as well as universities, and academic institutions of the States Parties. Staff capacity has been significantly improved in the past decade, but can be further strengthened in the future. A site management plan with a monitoring mechanism should be developed for each component part, and an interpretation strategy should be adopted."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            2,
+            3,
+            5
+          ],
+          "natural": [],
+          "all": [
+            2,
+            3,
+            5
+          ],
+          "display": "(ii)(iii)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 669.679,
+          "square_km": 6.7,
+          "square_miles": 2.71,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2023,
+          "all_dates": [
+            2023
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2023,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b58242854bda9264ca30135b8f7fbf7a",
+          "filename": "site_1675_0020.jpg",
+          "dimensions": {
+            "width": 8000,
+            "height": 4500
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/200405/site_1675_0020.jpg",
+            "https://whc.unesco.org/document/200406/site_1675_0021.jpg",
+            "https://whc.unesco.org/document/200407/site_1675_0022.jpg",
+            "https://whc.unesco.org/document/200408/site_1675_0023.jpg",
+            "https://whc.unesco.org/document/197605/site_1675_0011.jpg",
+            "https://whc.unesco.org/document/197603/site_1675_0009.jpg",
+            "https://whc.unesco.org/document/197608/site_1675_0014.jpg",
+            "https://whc.unesco.org/document/197604/site_1675_0010.jpg",
+            "https://whc.unesco.org/document/197606/site_1675_0012.jpg",
+            "https://whc.unesco.org/document/197607/site_1675_0013.jpg",
+            "https://whc.unesco.org/document/200155/site_1675_0015.jpg",
+            "https://whc.unesco.org/document/200156/site_1675_0016.jpg",
+            "https://whc.unesco.org/document/200157/site_1675_0017.jpg",
+            "https://whc.unesco.org/document/200158/site_1675_0018.jpg"
+          ],
+          "count": 14
+        }
+      },
+      "components": {
+        "count": 34,
+        "locations": [
+          {
+            "name": "Tahmalaj",
+            "ref": "1675-030",
+            "latitude": 38.1306972223,
+            "longitude": 62.646275
+          },
+          {
+            "name": "Suleimantepa",
+            "ref": "1675-011",
+            "latitude": 39.3806111111,
+            "longitude": 67.241975
+          },
+          {
+            "name": "Kum Settlement",
+            "ref": "1675-003",
+            "latitude": 39.4166944445,
+            "longitude": 68.3931361111
+          },
+          {
+            "name": "Deggaron Mosque",
+            "ref": "1675-018",
+            "latitude": 40.1550388889,
+            "longitude": 65.0114583333
+          },
+          {
+            "name": "Amul Settlement",
+            "ref": "1675-026",
+            "latitude": 39.0185833334,
+            "longitude": 63.5912111111
+          },
+          {
+            "name": "Vobkent Minaret",
+            "ref": "1675-021",
+            "latitude": 40.0196916667,
+            "longitude": 64.5179833334
+          },
+          {
+            "name": "Jartepa II Temple",
+            "ref": "1675-010",
+            "latitude": 39.5325138889,
+            "longitude": 67.3410472222
+          },
+          {
+            "name": "Paikend Settlement",
+            "ref": "1675-025",
+            "latitude": 39.5854833333,
+            "longitude": 64.0113611111
+          },
+          {
+            "name": "Khisorak Settlement",
+            "ref": "1675-001",
+            "latitude": 39.4414888889,
+            "longitude": 69.6855583333
+          },
+          {
+            "name": "Dabusiya Settlement",
+            "ref": "1675-013",
+            "latitude": 40.0248805556,
+            "longitude": 65.766875
+          },
+          {
+            "name": "Mansaf Caravanserai",
+            "ref": "1675-027",
+            "latitude": 38.2690805556,
+            "longitude": 62.7979388889
+          },
+          {
+            "name": "Mansaf Caravanserai",
+            "ref": "1675-028",
+            "latitude": 38.2688916667,
+            "longitude": 62.7969305555
+          },
+          {
+            "name": "Castle on Mount Mugh",
+            "ref": "1675-002",
+            "latitude": 39.4545,
+            "longitude": 68.4131805556
+          },
+          {
+            "name": "Kafirkala Settlement",
+            "ref": "1675-012",
+            "latitude": 39.5721305556,
+            "longitude": 67.0206861111
+          },
+          {
+            "name": "Rabati Malik Sardoba",
+            "ref": "1675-017",
+            "latitude": 40.1212666667,
+            "longitude": 65.1469527777
+          },
+          {
+            "name": "Chor Bakh Necropolis",
+            "ref": "1675-023",
+            "latitude": 39.7745,
+            "longitude": 64.3346833333
+          },
+          {
+            "name": "Varakhsha Settlement",
+            "ref": "1675-024",
+            "latitude": 39.8634277778,
+            "longitude": 64.0731027778
+          },
+          {
+            "name": "Chasma-i Ayub Khazira",
+            "ref": "1675-019",
+            "latitude": 39.9703555556,
+            "longitude": 64.6364694444
+          },
+          {
+            "name": "Vardanze Settlement",
+            "ref": "1675-020",
+            "latitude": 40.1584333333,
+            "longitude": 64.4337444444
+          },
+          {
+            "name": "Konegala Caravanserai",
+            "ref": "1675-029",
+            "latitude": 38.2494583333,
+            "longitude": 62.7702222223
+          },
+          {
+            "name": "Tali Khamtuda Fortress",
+            "ref": "1675-005",
+            "latitude": 39.3928138889,
+            "longitude": 67.86675
+          },
+          {
+            "name": "Sanjarshakh Settlement",
+            "ref": "1675-008",
+            "latitude": 39.4848388889,
+            "longitude": 67.722875
+          },
+          {
+            "name": "Akja Gala Caravanserai",
+            "ref": "1675-031",
+            "latitude": 38.0886916666,
+            "longitude": 62.6189638889
+          },
+          {
+            "name": "Gardani Khisor Settlement",
+            "ref": "1675-004",
+            "latitude": 39.4226138889,
+            "longitude": 68.3459055555
+          },
+          {
+            "name": "Town of Ancient Penjikent",
+            "ref": "1675-009",
+            "latitude": 39.4869,
+            "longitude": 67.6181194445
+          },
+          {
+            "name": "Rabati Malik Caravanserai",
+            "ref": "1675-016",
+            "latitude": 40.1230777778,
+            "longitude": 65.1481583333
+          },
+          {
+            "name": "Kushmeihan (Dinli Kishman)",
+            "ref": "1675-034",
+            "latitude": 37.9214555556,
+            "longitude": 62.2080888889
+          },
+          {
+            "name": "Mir Sayid Bakhrom Mausoleum",
+            "ref": "1675-015",
+            "latitude": 40.1428888889,
+            "longitude": 65.3612555556
+          },
+          {
+            "name": "Toksankoriz Irrigation System",
+            "ref": "1675-007",
+            "latitude": 39.4610166667,
+            "longitude": 67.7273388889
+          },
+          {
+            "name": "Kasim Sheikh Architectural Complex",
+            "ref": "1675-014",
+            "latitude": 40.1333083334,
+            "longitude": 65.3674083334
+          },
+          {
+            "name": "Mausoleum of Khoja Mukhammad Bashoro",
+            "ref": "1675-006",
+            "latitude": 39.3876055555,
+            "longitude": 67.8522305556
+          },
+          {
+            "name": "Bahouddin Naqshband Architectural Complex",
+            "ref": "1675-022",
+            "latitude": 39.8023805556,
+            "longitude": 64.5372277777
+          },
+          {
+            "name": "Gyzylja Gala Caravanserai (Rabad al-Hadid)",
+            "ref": "1675-032",
+            "latitude": 38.0454305555,
+            "longitude": 62.5962666666
+          },
+          {
+            "name": "Gyzylja Gala Caravanserai (Rabad al-Hadid)",
+            "ref": "1675-033",
+            "latitude": 38.0442277777,
+            "longitude": 62.5963416666
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1675",
+        "unesco_documents": "https://whc.unesco.org/en/list/1675/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1675/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1675/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 2,
+        "inscription_year": 2023
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Silk Roads: Zarafshan-Karakum Corridor The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies. Tajikistan Uzbekistan Turkmenistan Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "itchan_kala",
+      "uuid": "02292ce8-43b4-5038-8083-9913d7de5204",
+      "unesco_id": "543",
+      "names": {
+        "en": "Itchan Kala",
+        "fr": "Itchan Kala",
+        "es": "Itchan Kala",
+        "ru": "Ичан-Кала (Внутренняя крепость), город Хива",
+        "ar": "ايتشان كالا",
+        "zh": "伊钦•卡拉内城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "UZB": {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "iso3": "UZB"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan.",
+          "fr": "Itchan Kala est la ville intérieure, retranchée derrière des murailles de brique hautes d'une dizaine de mètres, de l'ancienne oasis de Khiva, qui était l'ultime étape des caravaniers avant de traverser le désert en direction de l'Iran. Bien qu'ayant conservé peu de monuments très anciens, elle constitue un exemple cohérent et bien préservé d'architecture musulmane de l'Asie centrale avec des constructions remarquables comme la mosquée Djouma, les mausolées et les medersa et les deux magnifiques palais édifiés au début du XIXe siècle par le khan Alla-Kouli.",
+          "es": "Protegida por una muralla de ladrillo de unos 10 metros de altura, Itchan Kala es la ciudadela del antiguo oasis de Jiva, última etapa de las caravanas antes de empezar la travesía del desierto con rumbo a Irán. Aunque ha conservado pocos monumentos antiguos, este sitio constituye un ejemplo coherente y bien conservado de la arquitectura musulmana del Asia Central. Entre los edificios notables destacan la mezquita Djuma y los dos magníficos palacios construidos a comienzos del siglo XIX por el kan Alla Kulli, así como varios mausoleos y madrazas.",
+          "ru": "Ичан-Хала – это защищенный 10-метровой кирпичной стеной Внутренний город древнего Хивинского оазиса. Он служил последней остановкой для караванов перед пересечением пустыни на пути в Иран. Несмотря на то, что в городе сохранилось лишь небольшое число очень старых памятников, он признан целостным и хорошо сохранившимся комплексом среднеазиатской исламской архитектуры, где можно увидеть такие выдающиеся сооружения как Джума-мечеть, мавзолеи, медресе и два великолепных дворца, построенные Аллакулиханом в начале XIX в.",
+          "ar": "ايتشان كالا هي المدينة الداخلية المحصّنة وراء جدران من الآجر يبلغ علوّها عشرة أمتار وتقع في روضة خيوة (خوارزم سابقا) الصحراوية القديمة، وهي كانت أهم محطة المخيم المتنقل قبل اجتياز الصحراء للوصول إلى إيران. وبالرغم من أنها حافظت على القليل من آثارها القديمة جدًا، إلاّ أنّها تشكل مثالاً متماسكًا على الهندسة الإسلامية لآسيا الوسطى مع المنشآت البارزة، مثل مسجد دجوما والمعابد والمدارس والقصرَيْن الرائعَيْن اللذَيْن شيّدهما الخان آلا كولي في بداية القرن العشرين، التي تتمّ المحافظة عليها بشكل جيد.",
+          "zh": "伊钦·卡拉城是一座古老的希瓦绿洲的内城，由10米高的砖墙保护着，它是通往伊朗的沙漠中商队的最后一个驿站。尽管只有很少的一些古老纪念性建筑保存在那里，但它依然是中亚保存完好的穆斯林建筑群中的典范，其中著名的建筑如德尤马清真寺、陵墓以及19世纪初由阿拉－库里可汗修建的两座辉煌的宫殿。"
+        },
+        "full": "Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan.",
+        "justification": "Brief synthesis Itchan Kala, the inner fortress of Khiva, is located to the South of the Amu Darya River (known as the Oxus in ancient times) in the Khorezm region of Uzbekistan and it was the last resting-place of caravans before crossing the desert to Persia. Itchan Kala has a history that spans over two millennia. The inner town has 26 hectares and was built according to the ancient traditions of Central Asian town building, as a regular rectangle (650 by 400 meters) elongated from south to north and closed by brick fortification walls that are up to ten meters high. The property is the site of 51 ancient monumental structures and 250 dwellings and displays remarkable types of architectural ensembles such as Djuma Mosque, Oq Mosque, madrasahs of Alla-Kulli-Khan, Muhammad Aminkhon, Muhammad Rakhimkhon, Mausoleums of Pahlavon Mahmoud, Sayid Allavuddin, Shergozikhon as well as caravanserais and markets. The attributes are outstanding examples of Islamic architecture of Central Asia. Djuma Mosque, a mosque with a covered courtyard designed for the rugged climate of Central Asia, is unique in its proportions and the structure of its inner dimensions (55m x 46m), faintly lit by two octagonal lanterns and adorned with 212 columns. The madrasahs, which make up the social areas, have majestic proportions with a simple decoration, and they form another type of Islamic architecture specific to Central Asia. The place of the architectural heritage of Itchan Kala in the history of Central Asian architecture is determined not only by the abundance of surviving architectural monuments, but also by the unique contribution of Khorezmian master builders to Central Asian architecture and preservation of its classical traditions. The domestic architecture of Khiva, with its enclosed houses with their courtyard, reception room with portico or avian supported by delicately sculptured wooden posts, and private apartments, is also an important attribute of the property that can be studied in its 18th- and 20th-century morphological variants. However, the outstanding qualities of Itchan Kala derive not so much from the individual monuments but also from the incomparable urban composition of the city, and from the harmony with which the major constructions of the 19thand 20th centuries were integrated into a traditional structure. Criterion (iii) : Withthe coherent and well preserved urban ensemble of the inner town of Khiva, Itchan Kala bears exceptional testimony to the lost civilizations of Khorezm. Criterion (iv) : Several monuments of Itchan Kala constitute remarkable and unique types of architectural ensembles, built according to the ancient traditions of Central Asia, which illustrate the development of Islamic architecture between the 14th to the 19th century. Criterion (v) : The domestic architecture of Khiva, with traditional architectural style, represents an important example of human settlements in Central Asia by virtue of its design and construction. Integrity The boundaries of the property are appropriately drawn encompassing the high fortification walls of the city. All the elements that express the outstanding universal value of Itchan Kala are included within the property. The total area of the Itchan Kala with its square shaped defensive walls and surroundings has remained intact. The madrasahs, mosques, narrow traditional streets, settlements, caravanserai, marketplaces and minarets are being maintained. A degree of natural threats exists, in particular termite infestation of wooden structures, soil salinity and humidity affecting the foundations. These threats need to be controlled and necessary actions should be taken in order to retain the intactness of the property. Authenticity Itchan Kala retains authenticity and has been maintained in its original state. The restorations that have been carried out have respected the traditional building techniques and the use of traditionally treated local materials such as baked brick, wood and stone. Protection and management requirements Itchan Kala was designated as a Reserve under the Decree of the Cabinet of Ministers of the Uzbek SSR in 1967. The property is now classified as a site of national importance. Relevant national laws and regulations concerning the World Heritage property include: (i) The Law on Protection and Exploitation of Cultural Heritage Properties, 2001; (ii) The Law on Architecture and City-building, 1995; (iii) The Instructions on Rules of Recording, Safeguarding, Maintaining, Utilisation and Restoration of Historical and Cultural Monuments, 1986; (iv) The Instructions on Organization of Buffer Zones for Historical and Cultural Monuments, 1986. The above mentioned laws, rules and instructions are legislative norms applied for the protection of the cultural heritage of Uzbekistan. The execution of these legislative norms is under the responsibility of the Ministry of Culture and Sport and the overall control is undertaken by the Legislative chamber of Oliy Majlis (Parliament) of the Republic of Uzbekistan. For the enforcement of these laws and legislative acts, the Ministry of Culture and Sports develops a state programme aimed at research, conservation and utilization of the cultural heritage of Khorezm region, in particular Itchan Kala. The programme is submitted to and to be approved by the Cabinet of Ministries of Uzbekistan. Individual architectural Monuments of the Reserve were protected under a number of legislative acts of the state policy of the USSR on the preservation of monuments of history and culture. In 1967 the property was granted the legal status of the State Architectural and Historic Reserve (Resolution no. 61) of the Council of Ministers of the Uzbek SSR. Since 1969 it is a museum and reserve. Management and controls are carried out by the Ministry of Culture and Sports, through the Principal Board on Monuments Protection, at national level and by the Khorezm Regional Inspection on Preservation and Restoration of Objects of Cultural Heritage at regional level. The use, maintenance and monitoring of the monuments within the boundary of the property are carried out by Itchan Kala Reserve Directorate. Funding is provided by the State, the Regional and the Itchan Kala Reserve budgets. The state of conservation of the property has improved over the past 15 years. A 10-year complex programme is in the process of being prepared by the Main Department on Preservation and Restoration of Objects of Cultural Heritage and a buffer zone is being defined. To sustainably attend to conservation and management concerns, a management plan is needed as well as resources for its comprehensive implementation."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4,
+            5
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4,
+            5
+          ],
+          "display": "(iii)(iv)(v)",
+          "count": 3,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 37.5,
+          "square_km": 0.38,
+          "square_miles": 0.152,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1990,
+          "all_dates": [
+            1990
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1990,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/558b0c5701b7471bc19ba41743a07f56",
+          "filename": "site_0543_0001.jpg",
+          "dimensions": {
+            "width": 3264,
+            "height": 2448
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110916/site_0543_0001.jpg",
+            "https://whc.unesco.org/document/110918/site_0543_0002.jpg",
+            "https://whc.unesco.org/document/124426/site_0543_0005.jpg",
+            "https://whc.unesco.org/document/124427/site_0543_0006.jpg",
+            "https://whc.unesco.org/document/124428/site_0543_0007.jpg",
+            "https://whc.unesco.org/document/124429/site_0543_0008.jpg",
+            "https://whc.unesco.org/document/127838/site_0543_0010.jpg",
+            "https://whc.unesco.org/document/127839/site_0543_0011.jpg",
+            "https://whc.unesco.org/document/127840/site_0543_0012.jpg",
+            "https://whc.unesco.org/document/127841/site_0543_0013.jpg",
+            "https://whc.unesco.org/document/127842/site_0543_0014.jpg",
+            "https://whc.unesco.org/document/128580/site_0543_0015.jpg",
+            "https://whc.unesco.org/document/128581/site_0543_0016.jpg",
+            "https://whc.unesco.org/document/128582/site_0543_0017.jpg",
+            "https://whc.unesco.org/document/128583/site_0543_0018.jpg",
+            "https://whc.unesco.org/document/128584/site_0543_0019.jpg",
+            "https://whc.unesco.org/document/128585/site_0543_0020.jpg",
+            "https://whc.unesco.org/document/128586/site_0543_0021.jpg",
+            "https://whc.unesco.org/document/147243/site_0543_0022.jpg",
+            "https://whc.unesco.org/document/147244/site_0543_0023.jpg",
+            "https://whc.unesco.org/document/147245/site_0543_0024.jpg",
+            "https://whc.unesco.org/document/147246/site_0543_0025.jpg",
+            "https://whc.unesco.org/document/147247/site_0543_0026.jpg",
+            "https://whc.unesco.org/document/147248/site_0543_0027.jpg",
+            "https://whc.unesco.org/document/147249/site_0543_0028.jpg",
+            "https://whc.unesco.org/document/147250/site_0543_0029.jpg",
+            "https://whc.unesco.org/document/147251/site_0543_0030.jpg",
+            "https://whc.unesco.org/document/147252/site_0543_0031.jpg",
+            "https://whc.unesco.org/document/147253/site_0543_0032.jpg",
+            "https://whc.unesco.org/document/147254/site_0543_0033.jpg"
+          ],
+          "count": 30
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Itchan Kala",
+            "ref": "543",
+            "latitude": 41.378088,
+            "longitude": 60.360253
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/543",
+        "unesco_documents": "https://whc.unesco.org/en/list/543/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/543/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/543/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 35,
+        "inscription_year": 1990
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Itchan Kala Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan. Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan. Uzbekistan Asia and the Pacific Cultural"
+    }
+  ]
+}

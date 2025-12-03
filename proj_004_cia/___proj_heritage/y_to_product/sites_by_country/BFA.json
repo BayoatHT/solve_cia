@@ -1,0 +1,815 @@
+{
+  "country": {
+    "code": "BFA",
+    "name": "Burkina Faso"
+  },
+  "total_sites": 4,
+  "sites_by_category": {
+    "Cultural": 3,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 1,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "w_arly_pendjari_complex",
+      "uuid": "54781160-1361-500f-b4a6-7301e4bbc2fe",
+      "unesco_id": "749",
+      "names": {
+        "en": "W-Arly-Pendjari Complex",
+        "fr": "Complexe W-Arly-Pendjari",
+        "es": "Conjunto de la W, Arly y Pendjari",
+        "ru": "",
+        "ar": "",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BEN": {
+            "name": "Benin",
+            "iso2": "BJ",
+            "iso3": "BEN"
+          },
+          "NER": {
+            "name": "Niger",
+            "iso2": "NE",
+            "iso3": "NER"
+          },
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": true,
+        "country_count": 3
+      },
+      "descriptions": {
+        "short": {
+          "en": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+          "fr": "Cette extension transnationale (Bénin, Burkina Faso) au Parc national du W au Niger, inscrit en 1996 sur la Liste du patrimoine mondial, couvre une vaste étendue de savane soudano-sahélienne intacte, avec des types de végétation comme les prairies, les brousses arbustives, les savanes boisées ou les vastes forêts-galeries. Il s’agit du plus grand et du plus important continuum d’écosystèmes terrestres, semi-aquatiques et aquatiques de la ceinture de savanes d’Afrique de l’Ouest. Le bien sert de refuge à des espèces animales qui ont disparu ailleurs en Afrique de l’Ouest ou sont très menacées. Il accueille notamment la plus grande population d’éléphants d’Afrique de l’Ouest et la plupart des grands mammifères typiques de la région, comme le lamantin d’Afrique, le guépard, le lion ou le léopard. Il abrite aussi la seule population viable de lions de la région.",
+          "es": "Esta extensión transnacional del Parque Nacional de la W del Níger, inscrito en 1996, abarca terrenos pertenecientes a Benin y Burkina Faso. El sitio es una vasta sabana intacta de tipo sudanés-saheliano con diversas clases de formaciones vegetales: praderas, malezas arbustivas, sabanas boscosas y bosques abiertos. Constituye el conjunto más vasto y continuo de ecosistemas de sabana terrestres, acuáticos y semiacuáticos del África Occidental. Su territorio no sólo sirve de refugio a especies animales amenazadas o en peligro de extinción, sino que además alberga la mayor población de elefantes y la única población viable de leones del África Occidental, y también una gran mayoría de los grandes mamíferos característicos de esta región, como manatíes, gatopardos y leopardos.",
+          "ru": "",
+          "ar": "",
+          "zh": ""
+        },
+        "full": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+        "justification": "Brief synthesis The W-Arly-Pendjari Complex is a transnational property shared between the Republic of Niger, Burkina Faso and the Republic of Benin in West Africa. Located in the transition zone between the savannas of the Sudanese region and the forested Guinean region, the W-Arly-Pendjari Complex lies at the heart of the most extensive protected area block in the West African Woodlands/Savanna Biogeographical Province and includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. The property encompasses 1,714,831 ha and is a contiguous mosaic of nine protected areas. It includes the trinational complex of W Regional Park (shared between Benin, Burkina Faso and Niger), Arly National Park (Burkina Faso), Pendjari National Park (Benin) and the hunting zones of Koakrana and Kourtiagou (Burkina Faso) and Konkombri and Mékrou (Benin). Criterion (ix): Stretching across three countries, W-Arly-Pendjari Complex is the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savanna belt. Situated within the Volta River basin it comprises a dynamic system, where the ebb and flow of water with alternating wet and dry seasons creates a rich variety of plant communities and associated fauna. The Complex is a major expanse of intact Sudano-Sahelian savanna, with numerous and diverse types of vegetation such as grassland, shrub, wooded savannah, open forests and extensive gallery and riparian forests as well as the rare semi-deciduous forest of Bondjagou within Pendjari National Park. The long-term effects of fire linked to human occupation, perhaps dating back some 50,000 years, have shaped the vegetation of the property, and the continued traditional use of fire maintains the diversity of vegetation types, which in turn provide habitat for the property’s characteristic wildlife. Criterion (x): The property and the broader landscape are a refuge for species of fauna that have disappeared or are highly threatened in most of the rest of West Africa. The W-Arly-Pendjari Complex is particularly crucial to the conservation of the last healthy populations of mammals belonging to the Sahelian and Sudanian domains. The Complex includes the largest and most ecologically secure elephant population in West Africa, representing 85% of the region's savanna elephants. It also protects almost the complete assemblage of characteristic flora and fauna, providing crucial habitat for most of the large mammal species typical of West Africa, such as African Manatee, Cheetah, Lion, Leopard, African Wild Dog and Topi Antelope. It harbours the only viable population of lion in the area and probably the only population of cheetah in West Africa. The site exhibits particularly high levels of endemism among fish species and is home to seven of the nine endemic fish species reported in the Volta Basin. Integrity The W-Arly-Pendjari Complex is of sufficient size to permit unimpeded ecological function and the overall integrity of the system is good amongst protected areas in West Africa, many of which have suffered significant degradation from anthropogenic pressures. Covering a comparatively large area of 1,714,831 ha, the trinational property contains a representative suite of Sudano-Sahelian ecosystems that are in good condition. It includes a large variety of habitats indispensable for the survival of characteristic species and is large enough to support the healthy populations of large mammal species such as elephant and lion which range over wide territories. The W National Park and the Arly-Pendjari Regional Park complexes are connected through the four hunting reserves, allowing for connectivity across the property and free movements of animals in the complex. Hunting within the hunting reserves has, to date, been sustainably managed and these reserves include natural systems and habitat that are regarded as being of a similar quality to that within the national parks, thereby enhancing resilience. The hunting reserves would be considered equivalent to IUCN Category VI and the activity, at the time of inscription, does not appear to be negatively impacting on the property’s Outstanding Universal Value as a whole. The buffer zone of W-Arly-Pendjari Complex consists of areas of different protection status (hunting reserves, wildlife reserves, and special legally designated buffer zones) all established by national laws and covers a total area of 1,332,147 ha. The buffer zones are designed to strengthen integrity and are managed as to mitigate impacts from surrounding human activities. Protection and management requirements The property benefits from long-term legal protection through national laws and receives financial and technical support from the States and some development partners. Five of the protected areas making up the W-Arly-Pendjari Complex are protected as national parks (managed as IUCN Category II). The four hunting reserves within Benin and Burkina Faso are also managed under the same regime as national parks, noting that sustainable hunting is permitted. The hunting in these reserves is regulated through annual quotas, closely monitored and aimed at generating benefits for local communities and conservation of nature. Although the boundaries of the property are clearly defined, known by the surrounding population and regulated, there are threats such as poaching, illegal grazing and encroachment of agricultural land which persist. Adequate measures must be undertaken to address these threats including working closely with agricultural development sectors to regulate, incentivize and raise awareness among communities surrounding the property. Monitoring of the scale of transhumance activities, which are a long-standing use, is important to ensure so that it remains sustainable in relation to the property’s Outstanding Universal Value. The property is managed in Benin by the Centre National de Gestion des Réserves de Faune (CENAGREF); in Burkina Faso, Arly National Park is managed by the Office National des Aires Protégées (OFINAP) and W National Park, Burkina Faso is managed by the Direction Générale des Eaux et Forêts (DGEF). The W National Park, Niger is managed by the Direction Générale des Eaux et Forêts (DGEF) / Ministère de l'Environnement et du Développement Durable (MEDD). The multi-agency responsibilities across the three States Parties require considerable and sustained effort to ensure effective coordination and harmonization of protected area policies and practice. All national parks in the Complex have a 10-year management plan all following a joint “Schéma Directeur d’Aménagement du complexe” to foster coordination. A workable system of transboundary governance is in place under a tripartite management agreement (now quadripartite with the integration of the State Party of Togo). However, ongoing efforts are needed to improve the levels of transnational cooperation for the property. Ongoing attention is needed to ensure that the traditional application of fire continues to support fire regimes which maintain Outstanding Universal Value, particularly under the influence of climate change. Similarly the three States Parties should work cooperatively with UEMOA (Union Economique et Monétaire Ouest Africaine) to plan, monitor and act such that transhumance movements taking place in the property and its buffer zones do not adversely impact on the Outstanding Universal Value. There is also a need to sustain long-term adequate funding for the W-Arly-Pendjari Complex. The States Parties should ensure that adequate government funding is provided to manage the Complex and the necessary coordination. The West African Savannah Foundation (FSOA) created in 2012 is an endowment fund which requires further investment to ensure sustainability. It is critical that the FSOA becomes a source of funding for the entire Complex and continues to be supported and grow. Furthermore, it is important that all protected areas within the Complex are eligible to access this endowment fund."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 1714831,
+          "square_km": 17148.31,
+          "square_miles": 6939.686,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1996,
+          "all_dates": [
+            1996,
+            2017
+          ],
+          "extensions": [
+            2017
+          ],
+          "timeline": [
+            {
+              "year": 1996,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2017,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/3d04dea2d10f98ec9e8cf54015fd790c",
+          "filename": "site_0749_0001.jpg",
+          "dimensions": {
+            "width": 8100,
+            "height": 4147
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113111/site_0749_0001.jpg",
+            "https://whc.unesco.org/document/135503/site_0749_0002.jpg",
+            "https://whc.unesco.org/document/135504/site_0749_0003.jpg",
+            "https://whc.unesco.org/document/135505/site_0749_0004.jpg",
+            "https://whc.unesco.org/document/135506/site_0749_0005.jpg",
+            "https://whc.unesco.org/document/135508/site_0749_0007.jpg",
+            "https://whc.unesco.org/document/135509/site_0749_0008.jpg",
+            "https://whc.unesco.org/document/135510/site_0749_0009.jpg",
+            "https://whc.unesco.org/document/135511/site_0749_0010.jpg",
+            "https://whc.unesco.org/document/135512/site_0749_0011.jpg",
+            "https://whc.unesco.org/document/135513/site_0749_0012.jpg",
+            "https://whc.unesco.org/document/135514/site_0749_0013.jpg",
+            "https://whc.unesco.org/document/135515/site_0749_0014.jpg",
+            "https://whc.unesco.org/document/135516/site_0749_0015.jpg",
+            "https://whc.unesco.org/document/135517/site_0749_0016.jpg",
+            "https://whc.unesco.org/document/135518/site_0749_0017.jpg",
+            "https://whc.unesco.org/document/135519/site_0749_0018.jpg",
+            "https://whc.unesco.org/document/135520/site_0749_0019.jpg",
+            "https://whc.unesco.org/document/135521/site_0749_0020.jpg",
+            "https://whc.unesco.org/document/135522/site_0749_0021.jpg",
+            "https://whc.unesco.org/document/135523/site_0749_0022.jpg",
+            "https://whc.unesco.org/document/135524/site_0749_0023.jpg",
+            "https://whc.unesco.org/document/135525/site_0749_0024.jpg",
+            "https://whc.unesco.org/document/135526/site_0749_0025.jpg",
+            "https://whc.unesco.org/document/135527/site_0749_0026.jpg",
+            "https://whc.unesco.org/document/135528/site_0749_0027.jpg",
+            "https://whc.unesco.org/document/135529/site_0749_0028.jpg",
+            "https://whc.unesco.org/document/135530/site_0749_0029.jpg",
+            "https://whc.unesco.org/document/135531/site_0749_0030.jpg",
+            "https://whc.unesco.org/document/135532/site_0749_0031.jpg",
+            "https://whc.unesco.org/document/147408/site_0749_0032.jpg",
+            "https://whc.unesco.org/document/147409/site_0749_0033.jpg",
+            "https://whc.unesco.org/document/147410/site_0749_0034.jpg",
+            "https://whc.unesco.org/document/147411/site_0749_0035.jpg",
+            "https://whc.unesco.org/document/147412/site_0749_0036.jpg",
+            "https://whc.unesco.org/document/147413/site_0749_0037.jpg",
+            "https://whc.unesco.org/document/147414/site_0749_0038.jpg",
+            "https://whc.unesco.org/document/147415/site_0749_0039.jpg",
+            "https://whc.unesco.org/document/147416/site_0749_0040.jpg",
+            "https://whc.unesco.org/document/147417/site_0749_0041.jpg",
+            "https://whc.unesco.org/document/147418/site_0749_0042.jpg",
+            "https://whc.unesco.org/document/147419/site_0749_0043.jpg",
+            "https://whc.unesco.org/document/147420/site_0749_0044.jpg",
+            "https://whc.unesco.org/document/147421/site_0749_0045.jpg",
+            "https://whc.unesco.org/document/147422/site_0749_0046.jpg",
+            "https://whc.unesco.org/document/147423/site_0749_0047.jpg",
+            "https://whc.unesco.org/document/147424/site_0749_0048.jpg",
+            "https://whc.unesco.org/document/147425/site_0749_0049.jpg",
+            "https://whc.unesco.org/document/147426/site_0749_0050.jpg",
+            "https://whc.unesco.org/document/147427/site_0749_0051.jpg",
+            "https://whc.unesco.org/document/147428/site_0749_0052.jpg",
+            "https://whc.unesco.org/document/147429/site_0749_0053.jpg",
+            "https://whc.unesco.org/document/147430/site_0749_0054.jpg",
+            "https://whc.unesco.org/document/147431/site_0749_0055.jpg",
+            "https://whc.unesco.org/document/147432/site_0749_0056.jpg",
+            "https://whc.unesco.org/document/147433/site_0749_0057.jpg",
+            "https://whc.unesco.org/document/147434/site_0749_0058.jpg",
+            "https://whc.unesco.org/document/147435/site_0749_0059.jpg",
+            "https://whc.unesco.org/document/147436/site_0749_0060.jpg",
+            "https://whc.unesco.org/document/147437/site_0749_0061.jpg",
+            "https://whc.unesco.org/document/147438/site_0749_0062.jpg",
+            "https://whc.unesco.org/document/147439/site_0749_0063.jpg",
+            "https://whc.unesco.org/document/147440/site_0749_0064.jpg",
+            "https://whc.unesco.org/document/147441/site_0749_0065.jpg",
+            "https://whc.unesco.org/document/147442/site_0749_0066.jpg",
+            "https://whc.unesco.org/document/147443/site_0749_0067.jpg",
+            "https://whc.unesco.org/document/147444/site_0749_0068.jpg",
+            "https://whc.unesco.org/document/147445/site_0749_0069.jpg",
+            "https://whc.unesco.org/document/147446/site_0749_0070.jpg",
+            "https://whc.unesco.org/document/147447/site_0749_0071.jpg",
+            "https://whc.unesco.org/document/147448/site_0749_0072.jpg",
+            "https://whc.unesco.org/document/147449/site_0749_0073.jpg",
+            "https://whc.unesco.org/document/147450/site_0749_0074.jpg",
+            "https://whc.unesco.org/document/147451/site_0749_0075.jpg",
+            "https://whc.unesco.org/document/147452/site_0749_0076.jpg",
+            "https://whc.unesco.org/document/147453/site_0749_0077.jpg",
+            "https://whc.unesco.org/document/147454/site_0749_0078.jpg",
+            "https://whc.unesco.org/document/147455/site_0749_0079.jpg"
+          ],
+          "count": 78
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.8841666667,
+            "longitude": 2.6544444444
+          },
+          {
+            "name": "W-Arly-Pendjari Complex",
+            "ref": "749ter-001",
+            "latitude": 11.9,
+            "longitude": 2.1616666667
+          },
+          {
+            "name": "W National Park of Niger",
+            "ref": "749ter-001",
+            "latitude": 12.317,
+            "longitude": 2.272
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/749",
+        "unesco_documents": "https://whc.unesco.org/en/list/749/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/749/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/749/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Forest",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 29,
+        "inscription_year": 1996
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "W-Arly-Pendjari Complex This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region. Benin Niger Burkina Faso Africa Natural"
+    },
+    {
+      "site_key": "royal_court_of_tiebele",
+      "uuid": "0730fd12-31a4-57cf-948c-0924b9f57635",
+      "unesco_id": "1713",
+      "names": {
+        "en": "Royal Court of Tiébélé",
+        "fr": "La Cour royale de Tiébélé",
+        "es": "La Corte real de Tiébélé",
+        "ru": "Королевский двор Тьебеле",
+        "ar": "البلاط الملكي في تيبيليه",
+        "zh": "铁贝莱王宫"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive.",
+          "fr": "Ce bien est un ensemble architectural en terre installé depuis le XVIe siècle et témoignant de l’organisation sociale et des valeurs culturelles du peuple Kasena. Clôturée par un mur d’enceinte défensif, la Cour royale est composée d’un ensemble d’édifices organisés en concessions distinctes et séparés par des murs et des passages les reliant aux lieux de cérémonies ou de rassemblement extérieurs à l’enclos. Construites par les hommes de la Cour royale, les habitations furent ensuite décorées de peintures symboliques réalisées par les femmes, seules détentrices du savoir et chargées de sa transmission.",
+          "es": "El sitio es un complejo arquitectónico de tierra que se estableció a partir el siglo XVI y que da testimonio de la organización social y los valores culturales del pueblo Kassena. La Corte real está rodeada por un muro de protección y está compuesta por un conjunto de edificios dispuestos en distintas secciones separadas por muros y pasadizos que conducen a lugares ceremoniales y de reunión fuera del recinto. Las chozas son construidas por los hombres de la Corte real y decoradas con adornos que revisten una significación simbólica por las mujeres, que son las únicas guardianas de estos conocimientos que garantizan que esta tradición se mantenga viva.",
+          "ru": "Объект представляет собой глинобитный архитектурный комплекс, созданный в XVI веке и являющийся воплощением социальной организации и культурных ценностей народа касена. Королевский двор обнесен защитной стеной и состоит из нескольких зданий, расположенных в отдельных уступах, разделенных стенами и проходами, ведущими к местам проведения церемоний и собраний за пределами комплекса. Здания комплекса, построенные мужчинами королевского двора, затем украшаются символическими предметами женщинами, которые являются единственными обладательницами этих знаний и следят за сохранением этой традиции.",
+          "ar": "الموقع عبارة عن مجمَّع معماري طيني أُنشئ في القرن السادس عشر، وهو يشهد على التنظيم الاجتماعي والقيم الثقافية لشعب كاسينا. والبلاط الملكي محاط بسور ويتألف من مجموعة من المباني المرتبة ضمن مناطق تفصلها عن بعضها البعض جدران وممرات تقود إلى أماكن مخصصة للاحتفالات والتجمعات خارج المجمَّع. ويضطلع الرجال بمهمة بناء البلاط الملكي ثم تقوم النساء بتزيين الأكواخ بزخارف رمزية، وهنَّ الحارسات الوحيدات لهذه المعارف ويضمنَّ استمرارية هذا التقليد.",
+          "zh": "铁贝莱（Tiébélé）王宫是自16世纪以来建造的土制建筑群，体现了卡塞纳（Kasena）人的社会组织体系和文化价值观。王宫四周围绕着保护性院墙，墙壁和走廊既将内部建筑群分隔为不同区域，又通向围墙外的仪式和聚会场所。王宫由宫中男性建造，随后女性成员为其绘制具有象征意义的元素。女人是相关知识的唯一守护者，她们确保着这一传统的延续。"
+        },
+        "full": "The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive.",
+        "justification": "Brief synthesis Established since the 16th century at the foot of the hill of Tchébili, 172 km south of the capital Ouagadougou and approximately fifteen kilometres north of the border with Ghana, the Royal Court of Tiébélé is an earthen architectural complex that bears testimony to the social organisation and cultural values of the Kasena people. Its specific architecture, which combines earth, wood, cow dung and straw, is arranged according to a social and spatial distribution inside the Court based on the status of the inhabitants. A distinction is drawn between the mother houses or Dinian, the foundational structures of the domain, with a figure-of-eight floor plan, reserved for the elderly, widows, unmarried women and children; the houses of the young married people, which are quadrangular (Mangolo); and the houses of the adolescent and unmarried men, which are circular (Draa). In addition to the houses, there are symbolic sacred elements: the pourou, the sacred tumulus where the placenta of the new-borns of the royal family are buried; the red fig tree marking the entrance to the Court, beneath which are placed the sacred stones (dala), on which sit the princes and dignitaries; the nabari, the tomb of the founder of the royal family; the nankongo, which is used as a law court and place of parley; and the bonnalè, the cemetery of the Royal Court. These elements bear eloquent testimony to the preservation of traditional practices specific to Kasena culture. The Court is also the embodiment of practices and knowhow which help to make it an evolving and living site. The practice of mural decoration, exclusively reserved to the women of the Court, is subject to a repertory of motifs that are both ancient and constantly renewed, and passed on from generation to generation by observation and practice, and by the organisation of ceremonies and competitions. The ritual practices that are fundamental to the ancestor cult and the funeral rites are an integral part of the spiritual and temporal rituals that are specific to Kasena culture, under the authority of the Pê. Criterion (iii): The Royal Court of Tiébélé is an outstanding example of an earthen architectural complex, which is distinctive in terms of its construction techniques, its spatial, social and functional distribution, the role of men and women in its construction, the plurality of its architectural forms, its decorative style and its specificity as a living site. It is an outstanding illustration of Kasena culture, of which the Royal Court architecture and mural decorations are representative, and of the associated social, anthropological and political aspects. These characteristics bear outstanding and living testimony to the culture and traditions of the Kasena people, which have evolved over time while preserving the identity and values of the Kasena people. Integrity The integrity of the Royal Court of Tiébélé is based on the set of concession huts and on the sacred symbolic elements that continue to be used today. The Royal Court has retained its original site and has been preserved from urban development up to the present day by its immediate surroundings, which are still predominantly natural. The property embodies all the attributes of Outstanding Universal Value. However, integrity continues to be threatened by a lack of maintenance, or even the ruin of certain concessions, and the use of new materials and chemicals. Furthermore, the maintenance of the concessions and their alterations lead sometimes to construction malpractices that cause problems of rising damp, erosion and water drainage. Lastly, hut construction techniques are changing, particularly with the use of the adobe technique, the making of cement brick foundations and the use of tar-based paint coatings; if these practices become widespread, they could adversely affect the integrity of the property. Authenticity The Royal Court of Tiébélé has successfully preserved its authenticity with regards to the conservation or evolution of traditional practices, both as concerns construction methods and the architecture that is specific to the Kasena culture and way of life, which includes the social distribution of tasks of construction and decoration. It is however important to put in place a system that ensures the preservation of ancient motifs, while enabling evolution through the creation of new motifs, thereby strengthening the living character of the property and of the practices and knowhow associated with its architecture. The development of the use of new materials, such as cement, corrugated sheet metal, metal windows and tar and other chemicals to replace the natural pigments used for the mural decorations, could adversely affect the authenticity of the property. Protection and management requirements The Royal Court of Tiébélé is under the administrative supervision of the General Directorate of Culture and Art. The Court is legally protected by the Law 024-2007/AN of 13 November 2007 for the protection of the cultural heritage of Burkina Faso and Decree n°2014-1019/PRES/PM/MCT/MEDD/MATS/MATDS of 28 October 2014 for the classification of cultural and natural properties and their inscription on the Tentative List of the heritage of Burkina Faso. Law n°014/96/ADP of 23 May 1996 for agricultural and land reorganisation in Burkina Faso (RAF) allows the community to dispose of its domain, that is the whole of the Court and a large proportion of the buffer zone, which is a property owned by the Pê. The intangible dimension of the Court is taken into account by the Order n°2015-0338/MCT/SG of 23 December 2015 for the proclamation of the Living Human Treasures of Burkina Faso. The management of the Royal Court of Tiébélé is traditionally the task of the Pê (the customary Chief) and of the community. A conservation and management plan for 2022-2026 was validated in 2021. Two bodies have been set up to implement the plan: a local committee responsible for implementing the plan through conservation actions for the property, and a scientific committee whose task is to carry out specific studies of the property. The protection and management plan will be strengthened by the incorporation in the management and conservation plan of the existence and potential impacts of land use and development projects that are ongoing or that may arise in the future, the recourse to Heritage Impact Assessments, risk management and monitoring of the implementation of the conservation plan, while defining the roles, responsibilities and modes of operation of the local committee and the scientific committee."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.84,
+          "square_km": 0.02,
+          "square_miles": 0.007,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2024,
+          "all_dates": [
+            2024
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2024,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/a6a2562b29a9599dad22cd9834ea8a92",
+          "filename": "site_1713_0001.jpg",
+          "dimensions": {
+            "width": 4983,
+            "height": 2799
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/199209/site_1713_0001.jpg",
+            "https://whc.unesco.org/document/199212/site_1713_0004.jpg",
+            "https://whc.unesco.org/document/199214/site_1713_0006.jpg",
+            "https://whc.unesco.org/document/199215/site_1713_0007.jpg",
+            "https://whc.unesco.org/document/199216/site_1713_0008.jpg",
+            "https://whc.unesco.org/document/199217/site_1713_0009.jpg",
+            "https://whc.unesco.org/document/199219/site_1713_0011.jpg",
+            "https://whc.unesco.org/document/199220/site_1713_0012.jpg",
+            "https://whc.unesco.org/document/199221/site_1713_0013.jpg",
+            "https://whc.unesco.org/document/206059/site_1713_0014.jpg",
+            "https://whc.unesco.org/document/206060/site_1713_0015.jpg",
+            "https://whc.unesco.org/document/206963/site_1713_0016.jpg",
+            "https://whc.unesco.org/document/206964/site_1713_0017.jpg",
+            "https://whc.unesco.org/document/220216/site_1713_0018.jpg",
+            "https://whc.unesco.org/document/220217/site_1713_0019.jpg",
+            "https://whc.unesco.org/document/220218/site_1713_0020.jpg",
+            "https://whc.unesco.org/document/220219/site_1713_0021.jpg",
+            "https://whc.unesco.org/document/220220/site_1713_0022.jpg",
+            "https://whc.unesco.org/document/220221/site_1713_0023.jpg",
+            "https://whc.unesco.org/document/220222/site_1713_0024.jpg",
+            "https://whc.unesco.org/document/220223/site_1713_0025.jpg",
+            "https://whc.unesco.org/document/220224/site_1713_0026.jpg",
+            "https://whc.unesco.org/document/220225/site_1713_0027.jpg",
+            "https://whc.unesco.org/document/220226/site_1713_0028.jpg",
+            "https://whc.unesco.org/document/220227/site_1713_0029.jpg",
+            "https://whc.unesco.org/document/220228/site_1713_0030.jpg",
+            "https://whc.unesco.org/document/220229/site_1713_0031.jpg",
+            "https://whc.unesco.org/document/220230/site_1713_0032.jpg",
+            "https://whc.unesco.org/document/220231/site_1713_0033.jpg",
+            "https://whc.unesco.org/document/220232/site_1713_0034.jpg",
+            "https://whc.unesco.org/document/220233/site_1713_0035.jpg",
+            "https://whc.unesco.org/document/220234/site_1713_0036.jpg",
+            "https://whc.unesco.org/document/220235/site_1713_0037.jpg",
+            "https://whc.unesco.org/document/220236/site_1713_0038.jpg",
+            "https://whc.unesco.org/document/220237/site_1713_0039.jpg",
+            "https://whc.unesco.org/document/220238/site_1713_0040.jpg",
+            "https://whc.unesco.org/document/220239/site_1713_0041.jpg"
+          ],
+          "count": 37
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Royal Court of Tiébélé",
+            "ref": "1713",
+            "latitude": 11.0892222222,
+            "longitude": -0.9618611111
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1713",
+        "unesco_documents": "https://whc.unesco.org/en/list/1713/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1713/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1713/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2020s",
+        "era": "Recent Period (2020+)",
+        "age_years": 1,
+        "inscription_year": 2024
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Royal Court of Tiébélé The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive. The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive. Burkina Faso Africa Cultural"
+    },
+    {
+      "site_key": "ancient_ferrous_metallurgy_sites_of_burkina_faso",
+      "uuid": "50a271c4-c6f1-538b-ab4b-206e2aaeaea4",
+      "unesco_id": "1602",
+      "names": {
+        "en": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+        "fr": "Sites de métallurgie ancienne du fer du Burkina Faso",
+        "es": "Sitios de la antigua metalurgia del hierro de Burkina Faso",
+        "ru": "Памятники древней металлургии",
+        "ar": "مواقع صناعة تعدين الحديد القديمة في بوكينا فاسو",
+        "zh": "布基纳法索古冶铁遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This property is composed of five elements located in different provinces of the country. It includes about fifteen standing, natural-draught furnaces, several other furnace structures, mines and traces of dwellings. Douroula, which dates back to the 8th century BCE, is the oldest evidence of the development of iron production found in Burkina Faso. The other components of the property – Tiwêga, Yamané, Kindibo and Békuy – illustrate the intensification of iron production during the second millennium CE. Even though iron ore reduction –obtaining iron from ore – is no longer practiced today, village blacksmiths still play a major role in supplying tools, while taking part in various rituals.",
+          "fr": "Ce bien, composé de cinq éléments situés dans différentes provinces du pays, comprend une quinzaine de fourneaux debout à tirage naturel, plusieurs bases de fourneaux, des mines et des traces d’habitations. Remontant au VIIIe siècle AEC, Douroula est le témoin le plus ancien du développement de la production de fer recensé au Burkina Faso. Les autres composantes du bien - Tiwêga, Yamané, Kindibo et Békuy – illustrent l’intensification de la production de fer au cours du IIe millénaire EC. Même si la réduction de fer – obtention de fer à partir du minerai – n’est plus pratiquée aujourd’hui, les forgerons des villages jouent encore un rôle important en fournissant des outils et en prenant part à de nombreux rituels.",
+          "es": "Integrado por cinco elementos situados en diferentes provincias del país, este bien cultural comprende unos quince hornos aún en pie y varias estructuras de minas y forjas, así como vestigios de viviendas. El elemento situado en Durula data del siglo VIII a.C. y constituye el testimonio más antiguo del desarrollo de la producción de hierro hallado en Burkina Faso. Los cuatro elementos restantes de este bien cultural, situados en Tiwega, Yamané, Kindibo y Bekuy respectivamente, son ilustrativos de la intensificación de la metalurgia del hierro durante el segundo milenio de nuestra era. Aunque hoy en día ya no se practica la reducción indirecta de los minerales férreos para la obtención del hierro, los herreros de las localidades rurales siguen desempeñando un importante papel en la fabricación de herramientas y practican numerosos rituales vinculados a la siderurgia.",
+          "ru": "Этот объект, состоящий из пяти элементов, расположенных в разных регионах страны, включает около пятнадцати вертикальных печей, несколько других печных конструкций, шахты и остатки жилищ. Основанный в VIII веке до н. э., город Дурула является старейшим свидетельством развития производства железа в Буркина-Фасо. Другие элементы объекта – Тивега, Ямане, Киндибо и Бекуй – наглядно иллюстрируют интенсификацию производства железа во II тыс. н. э. Несмотря на то, что метод восстановления железа из руды больше не практикуется в наше время, деревенские кузнецы по-прежнему играют важную роль в поставках инструментов и проведении различных ритуалов.",
+          "ar": "حوالي 15 موقداً قائماً حتى اليوم، وعدداً من الأفران، والمناجم وبعض آثار المساكن. وإذا ما عدنا إلى القرن الثامن قبل الميلاد، تعد قرية دورولا من أقدم العناصر التي تقف شاهدة على تطور صناعة تعدين الحديد في بوركينا فاسو. وتوضح العناصر الأخرى في الموقع - تيويغا وياماني وكينديبو وبيكوي - تكثيف صناعة الحديد في الألفية الثانية بعد الميلاد. وعلى الرغم من أن الحد من الحديد – تصنيع الحديد من المواد الخام - لم يعد يمارس اليوم، إلّا أن الحدادين في القرى لا يزالون يضطلعون بدور هام في توفير المعدات الحديدية والمشاركة في العديد من الطقوس.",
+          "zh": "该遗址由5个遗产点组成，分布于布基纳法索的不同省份，包含15个立式炉灶、若干熔炉基座、矿坑及居住遗迹。Douroula是布基纳法索最早（公元前8世纪）进行冶铁活动的场所。Tiwga、Yamane、Kindibo和Bekuy则见证了公元1000年后当地日益密集的冶铁活动。尽管如今已不再使用这些古老的冶铁技术，当地村镇的铁匠仍在提供生产工具、举办仪式活动中发挥着重要作用。"
+        },
+        "full": "This property is composed of five elements located in different provinces of the country. It includes about fifteen standing, natural-draught furnaces, several other furnace structures, mines and traces of dwellings. Douroula, which dates back to the 8th century BCE, is the oldest evidence of the development of iron production found in Burkina Faso. The other components of the property – Tiwêga, Yamané, Kindibo and Békuy – illustrate the intensification of iron production during the second millennium CE. Even though iron ore reduction –obtaining iron from ore – is no longer practiced today, village blacksmiths still play a major role in supplying tools, while taking part in various rituals.",
+        "justification": "Brief synthesis The five components of the property bear witness to the ancient nature and importance of iron production, and its impact on pre-colonial societies in the Sahelian zone of Burkina Faso. Dated to the 8th century BCE, Douroula bears the most ancient testimony to the development of iron production currently identified in Burkina Faso, and illustrates this first and relatively early phase of the development of iron production in Africa. Tiwêga, Yamané, Kindibo and Békuy all have remarkably well conserved iron ore smelting furnaces. They are also the very rare sites in Burkina Faso to have furnaces in elevation. They are massive production sites that, through their scale, illustrate the intensification of iron production during the second millennium AD, at a time when Western African societies were becoming increasingly complex. The property is directly associated with living traditions embodied by the blacksmiths at Yamané, Kindibo and Douroula. These traditions are expressed today by symbolic values linked to iron technology among the communities of descendants of the blacksmiths and metallurgists. Criterion (iii): The ancient ferrous metallurgy sites bear exceptional testimony to a unique tradition of iron ore smelting, passing on to today’s Burkina Faso communities a rich technical and cultural heritage. Douroula illustrates this first phase of iron production development in Africa, and demonstrates that the iron production technology was already widely disseminated by around 500 BCE across the whole region. Tiwêga, Yamané, Kindibo and Békuy are massive production sites that illustrate iron production throughout the Sahelian zone of Burkina Faso in the second millennium AD. Criterion (iv): The ancient ferrous metallurgy sites are outstanding examples that illustrate the variety of traditional iron ore smelting techniques in Burkina Faso. The furnaces have conserved all or almost all of their elevation, and have morphological features that enable their differentiation. Other remains are associated with the furnaces, such as the huge assemblages of slag and traces of mining extraction, together with technical traditions that are still alive today. The very ancient appearance of this technology in global terms has had very significant consequences for the history of the African peoples. Criterion (vi): The ancient ferrous metallurgy sites of Burkina Faso are directly associated with living traditions embodied by the socioprofessional group of the blacksmiths. These traditions are expressed today by symbolic values linked to iron technology in the communities that descend from the blacksmiths and metallurgists. As the masters of fire and iron, the blacksmiths perpetuate ancestral rites and social practices that confer on them an important role in their communities at Yamané, Kindibo and Douroula. Integrity Within their boundaries the ancient ferrous metallurgy sites contain all the essential attributes of Outstanding Universal Value. They have all been preserved in their integrity and in their environment, with no major disruption down the centuries. No furnace has been dismantled, moved or damaged by vandalism. Only the furnace base at Douroula with the earliest dating has been physically protected. The distance at which dwellings are located, and the sacred nature of these zones, which are connected to the blacksmiths, are a guarantee of the protection of integrity. Nevertheless, the conditions of integrity are vulnerable because of soil erosion by water and wind, drought cycles and in some cases desertification, the colonisation of some furnaces by termites and trees, and small-scale gold mining. Authenticity The sites bear witness to continuity of production over more than 2700 years, to mastery of the processes of iron smelting and transformation, and to the essential contribution of this technology to the history of African settlement, and not only to the history of the peoples of Burkina Faso. The five metallurgy sites of the property express Outstanding Universal Value in terms of the age of the phenomenon, the form of the smelting structures, the completeness of the metallurgical complex elements, the diversity and richness of the architectural techniques, and the blacksmith traditions that are still alive today. The limited state of documentation in the property zones and in the buffer zones however means that the conditions of authenticity are vulnerable. Maintaining authenticity should be an important priority in the management of the property, to ensure the resilience of smithing traditions. Management and protection requirements The property is protected at national level by a set of laws, and by traditional protection provided by local communities on the basis of customary law. Management is also ensured at local level by communities, except for the site of Békuy, located in the Maro forest reserve. A management system, drawn up for the period 2018-2022, is based on the management plans for each of the five sites, and constitutes the main sustainable management tool for the property. The property is managed in terms of reflection and orientations by a National Management Committee and in practical terms by the Listed World Heritage Sites Department. The national management committee exercises authority and control for all questions relating to the sites. At the level of each individual site, a local committee has been set up to ensure the sustainable management of the property by the local communities. The committee is guided by the site management plan and the orientations of the national management committee."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 122.3,
+          "square_km": 1.22,
+          "square_miles": 0.495,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2019,
+          "all_dates": [
+            2019
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2019,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/6cf46ef7a9b280b83dfd72299226dd13",
+          "filename": "site_1602_0001.jpg",
+          "dimensions": {
+            "width": 4352,
+            "height": 3264
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/166675/site_1602_0001.jpg",
+            "https://whc.unesco.org/document/166677/site_1602_0002.jpg",
+            "https://whc.unesco.org/document/166678/site_1602_0003.jpg",
+            "https://whc.unesco.org/document/166679/site_1602_0004.jpg",
+            "https://whc.unesco.org/document/166680/site_1602_0005.jpg",
+            "https://whc.unesco.org/document/166683/site_1602_0008.jpg",
+            "https://whc.unesco.org/document/166684/site_1602_0009.jpg",
+            "https://whc.unesco.org/document/166685/site_1602_0010.jpg",
+            "https://whc.unesco.org/document/166686/site_1602_0011.jpg",
+            "https://whc.unesco.org/document/166687/site_1602_0012.jpg"
+          ],
+          "count": 10
+        }
+      },
+      "components": {
+        "count": 5,
+        "locations": [
+          {
+            "name": "Site de Békuy",
+            "ref": "1602-004",
+            "latitude": 11.6223916667,
+            "longitude": -3.8919444444
+          },
+          {
+            "name": "Site de Tiwêga",
+            "ref": "1602-001",
+            "latitude": 13.0878138889,
+            "longitude": -1.1447027777
+          },
+          {
+            "name": "Site de Yamané",
+            "ref": "1602-002",
+            "latitude": 12.8219777778,
+            "longitude": -1.3010333333
+          },
+          {
+            "name": "Site de Kindibo",
+            "ref": "1602-003",
+            "latitude": 13.2348083333,
+            "longitude": -2.1809444445
+          },
+          {
+            "name": "Site de Douroula",
+            "ref": "1602-005",
+            "latitude": 12.5877555555,
+            "longitude": -3.3289833334
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1602",
+        "unesco_documents": "https://whc.unesco.org/en/list/1602/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1602/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1602/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Cultural Landscape",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2010s",
+        "era": "Contemporary Period (2010-2019)",
+        "age_years": 6,
+        "inscription_year": 2019
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ancient Ferrous Metallurgy Sites of Burkina Faso This property is composed of five elements located in different provinces of the country. It includes about fifteen standing, natural-draught furnaces, several other furnace structures, mines and traces of dwellings. Douroula, which dates back to the 8th century BCE, is the oldest evidence of the development of iron production found in Burkina Faso. The other components of the property – Tiwêga, Yamané, Kindibo and Békuy – illustrate the intensification of iron production during the second millennium CE. Even though iron ore reduction –obtaining iron from ore – is no longer practiced today, village blacksmiths still play a major role in supplying tools, while taking part in various rituals. This property is composed of five elements located in different provinces of the country. It includes about fifteen standing, natural-draught furnaces, several other furnace structures, mines and traces of dwellings. Douroula, which dates back to the 8th century BCE, is the oldest evidence of the development of iron production found in Burkina Faso. The other components of the property – Tiwêga, Yamané, Kindibo and Békuy – illustrate the intensification of iron production during the second millennium CE. Even though iron ore reduction –obtaining iron from ore – is no longer practiced today, village blacksmiths still play a major role in supplying tools, while taking part in various rituals. Burkina Faso Africa Cultural"
+    },
+    {
+      "site_key": "ruins_of_loropeni",
+      "uuid": "16a44421-0cb3-5a64-8e34-b6fa3e17e3f9",
+      "unesco_id": "1225",
+      "names": {
+        "en": "Ruins of Loropéni",
+        "fr": "Ruines de Loropéni",
+        "es": "Ruinas de Loropeni",
+        "ru": "",
+        "ar": "أطلال لوروبيني",
+        "zh": ""
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BFA": {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "iso3": "BFA"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The 11,130m2 property, the first to be inscribed in the country, with its imposing stone walls is the best preserved of ten fortresses in the Lobi area and is part of a larger group of 100 stone enclosures that bear testimony to the power of the trans-Saharan gold trade. Situated near the borders of Côte d’Ivoire, Ghana and Togo, the ruins have recently been shown to be at least 1,000 years old. The settlement was occupied by the Lohron or Koulango peoples, who controlled the extraction and transformation of gold in the region when it reached its apogee from the 14th to the 17th century. Much mystery surrounds this site large parts of which have yet to be excavated. The settlement seems to have been abandoned during some periods during its long history. The property which was finally deserted in the early 19th century is expected to yield much more information.",
+          "fr": "Ce premier site burkinabé est bardé de hauts murs et s’étend sur 11 130 m2. C’est la mieux préservée des dix forteresses que compte la région du Lobi. Il s’inscrit aussi dans un ensemble plus large qui compte une centaine d’enceintes en pierre, reflétant la puissance du commerce transsaharien de l’or. Vieilles d’au moins mille ans selon des découvertes récentes, ces ruines sont situées près des frontières du Togo et du Ghana. L’emplacement a été occupé par les Lohron ou les Koulango qui contrôlaient l’extraction et la transformation de l’or dans la région à l’apogée de cette exploitation aurifère (XIVème au XVIIème siècle). Beaucoup de mystère entoure ce site dont une large part n’a pas encore été fouillée. Au cours de sa longue histoire, Loropéni semble avoir été abandonné à plusieurs reprises. L’abandon définitif est intervenu entre le début et le milieu du XIXème siècle. Ce site promet encore beaucoup d’informations.",
+          "es": "Este sitio de 11.130 m2 es el primero de Burkina Faso que ingresa en la Lista. En él se hallan los impresionantes muros de piedra de la mejor conservada de las diez fortalezas existentes en la zona de Lobi. Es parte integrante de un conjunto más amplio de cien recintos de piedra que atestiguan la importancia del comercio del oro a través del Sahara. Recientemente se ha podido comprobar que la ruinas de esta edificación, situadas cerca de las fronteras con Côte d’Ivoire, Togo y Ghana, tienen diez siglos de antigüedad como mínimo. Este asentamiento humano fue ocupado por los pueblos lohron y kulango que controlaban la extracción y transformación del oro en la región durante el periodo de apogeo de ésta, entre los siglos XIV y XVII. Existen muchas incógnitas sobre el sitio, debido a que todavía no se han efectuado excavaciones en una gran parte del mismo. Parece ser que sus habitantes lo desertaron en algunos periodos de su secular historia, hasta abandonarlo definitivamente a principios del siglo XIX. Se espera que las excavaciones futuras proporcionen mucha más información.",
+          "ru": "",
+          "ar": "أطلال لوروبيني (بوركينا فاسو) ـ من بين الحصون العشرة الواقعة في منطقة لوبي، بقي هذا الممتلك ذو الجدران الضخمة، الذي تبلغ مساحته 130. 11 متر مربع، في أفضل صورة له؛ وهو يُشكل جزءاً من مجموعة واسعة تتكون من 100 سور حجري التي تدل على ازدهار تجارة الذهب العابرة للصحراء. وقد دلت شواهد حديثة على أن تاريخ هذه الأطلال، الواقعة بالقرب من حدود الكوت ديفوار وغانا وتوغو، يعود إلى ما لا يقل عن 1000 سنة. وقد احتلت قبائل لوهرون أو كولانغو هذا الموقع، وسيطرت على عمليات استخراج وتحويل الذهب فيه أثناء فترة ازدهاره التي استمرت من القرن الرابع عشر إلى القرن السابع عشر. ويكتنف كثير من الغموض الموقع الذي بقيت أجزاء شاسعة منه بمنأى عن الحفريات الأثرية. ومن الواضح أن الموقع ظل مهجوراً في بعض الفترات من تاريخه الطويل. ومن المتوقع أن يتوافر المزيد من المعلومات بشأن هذا الممتلك الذي هجره سكانه بصفة نهائية في أوائل القرن التاسع عشر.",
+          "zh": ""
+        },
+        "full": "The 11,130m2 property, the first to be inscribed in the country, with its imposing stone walls is the best preserved of ten fortresses in the Lobi area and is part of a larger group of 100 stone enclosures that bear testimony to the power of the trans-Saharan gold trade. Situated near the borders of Côte d’Ivoire, Ghana and Togo, the ruins have recently been shown to be at least 1,000 years old. The settlement was occupied by the Lohron or Koulango peoples, who controlled the extraction and transformation of gold in the region when it reached its apogee from the 14th to the 17th century. Much mystery surrounds this site large parts of which have yet to be excavated. The settlement seems to have been abandoned during some periods during its long history. The property which was finally deserted in the early 19th century is expected to yield much more information.",
+        "justification": "Brief synthesis The dramatic and memorable Ruins of Loropéni consist of imposing, tall, laterite stone perimeter walls, up to six metres in height, surrounding a large abandoned settlement. As the best preserved of ten similar fortresses in the Lobi area, part of a larger group of around a hundred stone-built enclosures, they are part of a network of settlements that flourished at the same time as the trans-Saharan gold trade and appear to reflect the power and influence of that trade and its links with the Atlantic coast. Recent excavations have provided radio-carbon dates suggesting the walled enclosure at Loropéni dates back at least to the 11th century AD and flourished between the 14th and 17th centuries, thus establishing it as an important part of a network of settlements. Criterion (iii): Loropéni is the best preserved example of a type of fortified settlements in a wide part of West Africa, linked to the tradition of gold mining, which seems to have persisted through at least seven centuries. Loropéni, given its size and scope reflects a type of structure quite different from the walled towns of what is now Nigeria, or the cities of the upper reaches of the river Niger which flourished as part of the empires of Ghana, Mali and Songhai. It thus can be seen as an exceptional testimony to the settlement response generated by the gold trade. Integrity and Authenticity The authenticity of the fortified settlements as ruins is not in doubt. Although the precise history of Loropéni is only recently coming into focus through the recent research programme, and its function still remains in part speculative, the integrity of the monument in terms of its status as the largest and best preserved fortified settlement is satisfactory. In time as more evidence emerges, it may be necessary to consider whether a larger area could encompass more of the attributes that are linked to its use, function and history. Protection and management requirements The Committee of Protection and Management for the Ruins of Loropéni, the Scientific Council for the study, conservation and development of the Ruins of Loropéni and the Management Plan which has been implemented since 2005 form a good basis for management of the ruins as a focal point for sustainable development within the local community."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3
+          ],
+          "natural": [],
+          "all": [
+            3
+          ],
+          "display": "(iii)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 1.113,
+          "square_km": 0.01,
+          "square_miles": 0.005,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2009,
+          "all_dates": [
+            2009
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2009,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/d4c61d2240e13fa8233934df5c4a8db7",
+          "filename": "site_1225_0001-500-0-20221214173704.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 329
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113953/site_1225_0001.jpg",
+            "https://whc.unesco.org/document/113958/site_1225_0006.jpg",
+            "https://whc.unesco.org/document/113959/site_1225_0007.jpg",
+            "https://whc.unesco.org/document/128724/site_1225_0017.jpg",
+            "https://whc.unesco.org/document/113954/site_1225_0002.jpg",
+            "https://whc.unesco.org/document/113955/site_1225_0003.jpg",
+            "https://whc.unesco.org/document/113956/site_1225_0004.jpg",
+            "https://whc.unesco.org/document/113957/site_1225_0005.jpg",
+            "https://whc.unesco.org/document/113960/site_1225_0008.jpg",
+            "https://whc.unesco.org/document/113962/site_1225_0009.jpg",
+            "https://whc.unesco.org/document/113964/site_1225_0010.jpg",
+            "https://whc.unesco.org/document/113966/site_1225_0011.jpg",
+            "https://whc.unesco.org/document/128722/site_1225_0015.jpg",
+            "https://whc.unesco.org/document/128723/site_1225_0016.jpg",
+            "https://whc.unesco.org/document/128725/site_1225_0018.jpg",
+            "https://whc.unesco.org/document/128726/site_1225_0019.jpg",
+            "https://whc.unesco.org/document/128739/site_1225_0021.jpg",
+            "https://whc.unesco.org/document/128740/site_1225_0022.jpg",
+            "https://whc.unesco.org/document/128742/site_1225_0024.jpg",
+            "https://whc.unesco.org/document/128743/site_1225_0025.jpg",
+            "https://whc.unesco.org/document/128745/site_1225_0027.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ruins of Loropéni",
+            "ref": "1225rev",
+            "latitude": 10.2500229431,
+            "longitude": -3.5833384934
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1225",
+        "unesco_documents": "https://whc.unesco.org/en/list/1225/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1225/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1225/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Desert",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 16,
+        "inscription_year": 2009
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ruins of Loropéni The 11,130m2 property, the first to be inscribed in the country, with its imposing stone walls is the best preserved of ten fortresses in the Lobi area and is part of a larger group of 100 stone enclosures that bear testimony to the power of the trans-Saharan gold trade. Situated near the borders of Côte d’Ivoire, Ghana and Togo, the ruins have recently been shown to be at least 1,000 years old. The settlement was occupied by the Lohron or Koulango peoples, who controlled the extraction and transformation of gold in the region when it reached its apogee from the 14th to the 17th century. Much mystery surrounds this site large parts of which have yet to be excavated. The settlement seems to have been abandoned during some periods during its long history. The property which was finally deserted in the early 19th century is expected to yield much more information. The 11,130m2 property, the first to be inscribed in the country, with its imposing stone walls is the best preserved of ten fortresses in the Lobi area and is part of a larger group of 100 stone enclosures that bear testimony to the power of the trans-Saharan gold trade. Situated near the borders of Côte d’Ivoire, Ghana and Togo, the ruins have recently been shown to be at least 1,000 years old. The settlement was occupied by the Lohron or Koulango peoples, who controlled the extraction and transformation of gold in the region when it reached its apogee from the 14th to the 17th century. Much mystery surrounds this site large parts of which have yet to be excavated. The settlement seems to have been abandoned during some periods during its long history. The property which was finally deserted in the early 19th century is expected to yield much more information. Burkina Faso Africa Cultural"
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "country": {
+    "code": "MDG",
+    "name": "Madagascar"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 1,
+    "Natural": 2,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "royal_hill_of_ambohimanga",
+      "uuid": "2bb16a89-cccf-536e-acfa-28834cd7053b",
+      "unesco_id": "950",
+      "names": {
+        "en": "Royal Hill of Ambohimanga",
+        "fr": "Colline royale d'Ambohimanga",
+        "es": "Colina real de Ambohimanga",
+        "ru": "Королевский холм Амбохиманга",
+        "ar": "التلة الملكية في امبوهيمنغا",
+        "zh": "安布希曼加的皇家蓝山行宫"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MDG": {
+            "name": "Madagascar",
+            "iso2": "MG",
+            "iso3": "MDG"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.",
+          "fr": "La colline royale d'Ambohimanga se compose d'une cité royale, d'un site funéraire royal et d'un ensemble de lieux sacrés. Associée à un fort sentiment d'identité nationale, elle conserve son atmosphère de spiritualité et son caractère sacré, dans la pratique et dans l'esprit de la population, depuis quelque 500 ans. Elle demeure un lieu de culte et de pèlerinage que l'on vient visiter de Madagascar et d'ailleurs.",
+          "es": "La colina real de Ambohimanga comprende una ciudadela y una necrópolis reales, así como un conjunto de lugares sacros. Revestido de un carácter sagrado y estrechamente vinculado al sentimiento de identidad nacional, este sitio es objeto de veneración entre la población desde hace unos cinco siglos y sigue siendo, hoy en día, un lugar de culto al que acuden peregrinos de toda la isla de Madagascar y otras partes del mundo.",
+          "ru": "Амбохиманга – это королевский город, погребальный комплекс и целый ансамбль священных мест. На протяжении вот уже пяти столетий это место является важным символом национального самоопределения, сохраняя свое духовное и ритуальное значение, как в практике богослужения, так и в народном сознании. Объект посещается паломниками из Мадагаскара и других стран.",
+          "ar": "تتألّف التلة الملكيّة في امبوهيمنغا من مدينة ملكية وموقع مأتمي ملكي ومجموعة من الأماكن المقدّسة. وتحافِظ، بما أنّها تُذكّر بشعور الانتماء الوطني، على الجو الروحي وعلى طابعها المقدَّس في الممارسة وفي ذهنيّة الشعب منذ 500 عام تقريبًا. وهي لا تزال مكانًا للعبادة وللحج نستطيع زيارته من مدغشقر ومن خارجها.",
+          "zh": "安布希曼加的皇家蓝山行宫由皇城、皇家墓地和一组祭祀建筑群组成。在过去的500年里，蓝山行宫一直是举行宗教仪式和祭祀的地方，同强烈的民族情感联系在一起。蓝山也一直是马达加斯加和世界各地朝圣者前往朝拜的地方。"
+        },
+        "full": "The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.",
+        "justification": "Brief synthesis The Royal Hill of Ambohimanga constitutes an exceptional witness to the civilization which developed in the ‘Hautes Terres Centrales’ in Madagascar between the 15th and 19th centuries and to the cultural and spiritual traditions, the cult of kings and ancestors which were closely associated there. The Royal Hill of Ambohimanga is the cradle of the kingdom and the dynasty that has made Madagascar a modern state, internationally acknowledged since 1817. It is associated with strong feelings of identity and emotion relating to the sacred nature of the site through its venerated royal tombs, its numerous holy places (fountains, sacred basins and woods, sacrificial stones) and its majestic royal trees. Religious capital and sacred town of the kingdom of Madagascar in the 19th century, the Royal Hill was the burial ground for its sovereigns. The site retains clear archaeological proof of the former exercise of power and justice. It is still today the centre of the religious practices for many Malagasy people and constitutes a living memory of the traditional religion. The Royal Hill of Ambohimanga comprises a system of fortifications with a series of ditches and fourteen fortified stone gateways, a royal city consisting of a coherent suite of buildings divided by a royal enclosure and associating a public place (the Fidasiana), royal trees, a seat of justice and other natural or built places of cult, an ensemble of sacred places as well as agricultural lands. The royal city comprises two palaces and a small pavilion, an “ox pit”, two sacred basins and four royal tombs. In addition, the designated property shelters vestiges of a primary forest conserving numerous endemic and medicinal plant species. The Royal Hill of Ambohimanga constitutes an eminent example of an architectural ensemble (the Rova) and the associative cultural landscape (wood, sacred fountain and lake) illustrating significant periods of human history between the 16th and 19th centuries in the islands of the Indian Ocean. The particularly high elevation of the Rova indicates the political importance of the site and gives it a very significant place among the fortified groups of the Imerina (region of Antananarivo). Because of its geographical position, the Royal Hill of Ambohimanga offers a complete panorama, determining it as the strategic choice for a defensive residence. Thus, Ambohimanga bears witness to a strong royal power, a decision-making centre serving as a model for the future. The recognizable traditional Malagasy and European style of architecture of the royal city bears witness to the diverse political phases in the history of Madagascar. The landscape of the Royal Hill of Ambohimanga is associated with important historic events (Malagasy place of unification), as well as with traditions and living beliefs having an Outstanding Universal Value (ancestor worship). The eminently sacred character of the place and its components justifies the respect and veneration that the Malagasy people have demonstrated over centuries. The site constitutes a remarkable testimony to the austro-indonesian culture (Indonesia) through ancestor worship and agricultural practices, notably irrigated stepped rice paddy fields on the one hand, and the African culture (west and southern Africa) through the cult of the royal person, on the other. The Malagasy nation accords primary importance and absolute respect of the Royal Hill of Ambohimanga, that they visit to imbibe the spirituality of the place, for renewal and request blessing and protection for all that they undertake in life. It is also a cult and pilgrimage place for the nation, as well as for numerous foreigners, and has been so for centuries. Criterion (iii): The Royal Hill of Ambohimanga is the most significant symbol of the cultural identity of the people of Madagascar. Criterion (iv): The traditional design, materials and layout of the Royal Hill of Ambohimanga are representative of the social and political structure of Malagasy society from at least the 16th century. Criterion (vi): The Royal Hill of Ambohimanga is an exceptional example of a place where, over centuries, common human experience has been focused in memory, ritual and prayer. Integrity The Royal Hill of Ambohimanga has preserved its visual integrity. The site is in a good state of conservation, vegetation covers the slopes of the hill evenly despite the invasion of certain exotic or local species (bambusa, lantana, pinus). The forest on the Hill constitutes the most important residual element of the primary forest, with deciduous species that in earlier times covered the interior of Madagascar. This forest contains endemic, woody and herbaceous species and medicinal plants. The abundance of “zahana” (phyllarthron madagascariensis) and medicinal plants constitute the specific character of the Ambohimanga forest. In addition, the forest has retained its regenerative powers and biogeochemical cycles, in particular that of the water, which continue to be active, ensuring the continual use of the sacred fountain and lake. Authenticity The layout at the summit of the Hill of the royal enclosure with its buildings is in conformity with the Imerina tradition, in particular, and of Madagascar in general. The sacred character of the site is manifested in the pilgrimages and sacrifices to which it is witness. The different elements that comprise it are representative of the traditional skills and beliefs: the homes of the living are made of wood and vegetation (living materials), while those of the dead are in stone (cold and inert materials). The materials used respect the construction traditions of their era. Restoration work undertaken since 1996 uses materials and construction techniques based on the traditional Malagasy skills and respects the cosmological vision of the place to preserve its authenticity. Furthermore, the sacred wooden houses, symbol of the royal tombs demolished by the French colonial authorities, were rebuilt in 2008 by the Malagasy State respecting the rites, the construction regulations and traditional materials (for the choice of wood essences in particular), due to their symbolic importance. Thus, the mortal remains of the sovereigns removed from the site in 1897 have been replaced in their original tombs to consolidate the sacredness of the site. Protection and management requirements The site of the Royal Hill of Ambohimanga receives adequate legal protection: incorporated into the Colony Domains Service since 1897, inscribed on the national inventory since 1939, the site benefits from the provisions of Ordinance No. 82.029 of 6 November 1982 and Decree No. 83.116 of 31 March 1983. In addition, the site also has municipal legal protection. However, there is a need to strengthen the legal framework to be compatible with the status of the property. Since 2006, the designated property has been managed by the Office of the Cultural Site of Ambohimanga (OSCAR). This public establishment, created by the Ministry of Culture, has an Administration Council (deliberative body), a Scientific Monitoring Commission and a Management Planning Commission (consultative body) that work in close cooperation with the Conservator of the site. About thirty employees ensure the implementation of the 5-year management plan prepared in 2006. At the local level, the Rural Commune of the Ambohimanga Rova collaborates with the OSCAR to strengthen security at the site. The Village Committee, comprising representatives of all the adjacent quarters and the local community, (tradi-practitioners) are also involved in the protection of the site. The OSCAR manages the income from entrance fees and State subventions. The spontaneous development of exotic species (bambusa and lantana) constitutes a threat which over time could degrade the natural landscape. Eradication actions have been undertaken but should be reinforced to rapidly and definitively replace these exotic species by endemic species. The risk of fire is another threat for the site (forest, buildings) and it is necessary to identify the financial partners able to contribute towards providing the designated property with an adequate fire-fighting system. Finally, the lack of town planning for the domain of the Rural Commune of Ambohimanga results in the local inhabitants deliberately ignoring the conservation measures proposed for the preservation of the visual integrity of the site. It would be desirable if a landscape development expert collaborates with the Commune of Ambohimanga to mitigate this gap."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            3,
+            4
+          ],
+          "natural": [],
+          "all": [
+            3,
+            4
+          ],
+          "display": "(iii)(iv)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 59,
+          "square_km": 0.59,
+          "square_miles": 0.239,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2001,
+          "all_dates": [
+            2001
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2001,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/b110dd6864abbaef5523865bcc25cf5e",
+          "filename": "site_0950_0001.jpg",
+          "dimensions": {
+            "width": 800,
+            "height": 534
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/113735/site_0950_0001.jpg",
+            "https://whc.unesco.org/document/113737/site_0950_0002.jpg",
+            "https://whc.unesco.org/document/113740/site_0950_0003.jpg",
+            "https://whc.unesco.org/document/120916/site_0950_0005.jpg",
+            "https://whc.unesco.org/document/120917/site_0950_0006.jpg",
+            "https://whc.unesco.org/document/120918/site_0950_0007.jpg",
+            "https://whc.unesco.org/document/120919/site_0950_0008.jpg",
+            "https://whc.unesco.org/document/120920/site_0950_0009.jpg",
+            "https://whc.unesco.org/document/123824/site_0950_0010.jpg",
+            "https://whc.unesco.org/document/123825/site_0950_0011.jpg",
+            "https://whc.unesco.org/document/123826/site_0950_0012.jpg",
+            "https://whc.unesco.org/document/125342/site_0950_0013.jpg",
+            "https://whc.unesco.org/document/125343/site_0950_0014.jpg",
+            "https://whc.unesco.org/document/125344/site_0950_0015.jpg",
+            "https://whc.unesco.org/document/125345/site_0950_0016.jpg",
+            "https://whc.unesco.org/document/125346/site_0950_0017.jpg",
+            "https://whc.unesco.org/document/125347/site_0950_0018.jpg",
+            "https://whc.unesco.org/document/125348/site_0950_0019.jpg",
+            "https://whc.unesco.org/document/125349/site_0950_0020.jpg",
+            "https://whc.unesco.org/document/125350/site_0950_0021.jpg",
+            "https://whc.unesco.org/document/125351/site_0950_0022.jpg"
+          ],
+          "count": 21
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Royal Hill of Ambohimanga",
+            "ref": "950",
+            "latitude": -18.75917,
+            "longitude": 47.56278
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/950",
+        "unesco_documents": "https://whc.unesco.org/en/list/950/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/950/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/950/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 24,
+        "inscription_year": 2001
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Royal Hill of Ambohimanga The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere. The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere. Madagascar Africa Cultural"
+    },
+    {
+      "site_key": "rainforests_of_the_atsinanana",
+      "uuid": "81e87939-bc84-54ad-a492-a292a6e32397",
+      "unesco_id": "1257",
+      "names": {
+        "en": "Rainforests of the Atsinanana",
+        "fr": "Forêts humides de l’Atsinanana",
+        "es": "Bosques lluviosos de Atsinanana",
+        "ru": "Влажные тропические леса Атсинананы",
+        "ar": "الغابات المطيرة في أتسينانانا",
+        "zh": "阿钦安阿纳雨林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MDG": {
+            "name": "Madagascar",
+            "iso2": "MG",
+            "iso3": "MDG"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar’s unique biodiversity, which reflects the island’s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar’s plant and animal life evolved in isolation. The rainforests are inscribed for their importance to both ecological and biological processes as well as their biodiversity and the threatened species they support. Many species are rare and threatened especially primates and lemurs.",
+          "fr": "Les forêts humides de l’Atsinanana comprennent six parcs nationaux répartis le long des marges orientales de l’île. Ces forêts anciennes sont très importantes pour le maintien des processus écologiques nécessaires à la survie de la biodiversité unique de Madagascar. Celle-ci reflète l’histoire géologique de l’île : en raison de sa séparation des autres masses terrestres il y a plus de 60 millions d’années, Madagascar abrite une flore et une faune qui ont évolué isolément. Inscrites pour leur importance tant pour les processus écologiques que biologiques, les forêts humides le sont également pour leur biodiversité et les espèces menacées qu’elles hébergent, notamment pour les primates et les lémuriens.",
+          "es": "Este sitio comprende seis parques nacionales que se extienden a lo largo de la costa oriental de este país isleño. Sus bosques arcaicos son de esencial importancia en el mantenimiento de los procesos ecológicos que son imprescindibles para la supervivencia de la biodiversidad excepcional de Madagascar. Esta biodiversidad es consecuencia de la historia geológica de la isla: tras la separación definitiva de Madagascar de las demás masas terráqueas hace más de 60 millones de años, la fauna y la flora malgaches fueron evolucionando de forma aislada. Los bosques lluviosos se han inscrito en la Lista del Patrimonio Mundial tanto por su importancia para los procesos ecológicos y biológicos, como por su biodiversidad y el gran número de especies amenazadas que albergan, en particular primates y lémures.",
+          "ru": "На территории влажных тропических лесов Атсинананы, протянувшихся вдоль восточного побережья острова, расположены шесть государственных заповедников. Сохранение этих реликтовых лесов необходимо для поддержания непрерывных экологических процессов, обуславливающих жизнедеятельность представителей уникальных флоры и фауны Мадагаскара. Животный и растительный мир Атсинананы отражает геологическую историю острова: произошедшее более 60 млн. лет назад отделение острова от материковой части привело к образованию здесь географически изолированной зоны. Так, роль этих лесов в экологических и биологических процессах, их уникальное биологическое разнообразие, а также присутствие там видов, находящихся под угрозой исчезновения, послужили факторами занесения этого объекта в Список всемирного наследия. Уровень эндемизма на острове крайне высок: от 80 до 90 % видов, распространенных в этих лесах, не встречаются больше нигде. Мировая роль заповедника состоит также в поддержании жизнедеятельности многих видов фауны, в особенности приматов. На территории объекта сохранились редкие и находящиеся под угрозой исчезновения виды животных. Здесь обитают 78 из 123 видов бескрылых млекопитающих Мадагаскара, 72 из которых внесены в Красный список МСОП. Среди них, по меньшей мере, 25 видов лемуров.",
+          "ar": "يشمل الموقع ست حدائق عامة وطنية موزعة على طول الجزء الشرقي من الجزيرة. ولهذه الغابات أهمية حيوية في الحفاظ على النظم الإيكولوجية الضرورية للتنوع البيولوجي الفريد في مدغشقر، والذي يعكس التاريخ الجيولوجي للجزيرة. انفصلت الحياة النباتية والحيوانية في مدغشقر نهائياً عن جميع سائر الكتل الأرضية قبل أكثر من 60 مليون عام، وتطورت في عزلتها. أدرجت الغابات المطيرة لأهميتها الكبرى بالنسبة إلى النظم الإيكولوجية والبيولوجية، وتنوعها البيولوجي وإيوائها للأنواع المهددة بالانقراض. وتبلغ الأنواع المستوطنة في هذه الغابات نسبة عالية جداً إذ تتراوح بين 80 و90 في المائة من مجمل الأنواع على صعيد المنطقة. كما أن الموقع يكتسي أهمية كبيرة بالنسبة إلى الحيوانات البرية المقيمة فيه، لا سيما القردة. ونجد في الموقع أيضاً أنواعاً نادرة جداً ومهددة بالانقراض (78 من أصل 123 نوعاً من الثدييات غير الطائرة في مدغشقر، بما فيها 72 نوعاً مصنفاً في القائمة الحمراء للاتحاد العالمي لحفظ الطبيعة والموارد الطبيعية بشأن الأنواع المهددة بالانقراض)، ومنها 25 نوعاً على الأقل من قرد الليمور.",
+          "zh": "阿钦安阿纳雨林是由分布在该岛东部的六个国家公园组成。这些幸存至今的雨林对于延续生态进程的不断发展尤为重要，而这正是能够反映出马达加斯加岛地质发展史的生物多样性赖以生存的命脉。六千万年前，马达加斯加同大陆彻底分离，这里的动植物在孤立隔绝的状态下完成了进化过程。阿钦安阿纳雨林入选《名录》，不仅仅因为它对于生态和生物进程的重要性，更是由于雨林中的生物多样性和濒危物种。雨林中当地特有物种的比例非常之高，占所有种群的80%至90%。阿钦安阿纳雨林对于动物种群，特别是灵长目动物具有特别重要的意义。这里生活着很多珍稀和濒危物种，马达加斯加全部123种陆上哺乳动物中有78种栖息在这片雨林，包括被世界保护自然联盟列入《濒危物种红色名录》的72个物种，其中有至少25种狐猴。"
+        },
+        "full": "The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar’s unique biodiversity, which reflects the island’s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar’s plant and animal life evolved in isolation. The rainforests are inscribed for their importance to both ecological and biological processes as well as their biodiversity and the threatened species they support. Many species are rare and threatened especially primates and lemurs.",
+        "justification": "The Rainforests of the Atsinanana are a serial property comprising six components. They contain globally outstanding biodiversity and have an exceptional proportion of endemic plant and animal species. The level of endemism within the property is approximately 80 to 90 percent for all groups, and endemic families and genera are common. The serial property comprises a representative selection of the most important habitats of the unique rainforest biota of Madagascar, including many threatened and endemic plant and animal species. Criterion (ix): The Rainforests of the Atsinanana are relict forests, largely associated with steeper terrain along the eastern escarpment and mountains of Madagascar. The protected areas included in this serial property have become critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar's unique biodiversity. This biodiversity reflects Madagascar's geological history and geographic placement. It is the world's fourth largest island and has been separated from all other land masses for at least 60-80 million years and thus most of its plant and animal life has evolved in isolation. These forests have also offered important refuge for species during past periods of climate change and will be essential for the adaptation and survival of species in the light of future climate change. Criterion (x):The level of endemism within the property is approximately 80 to 90 percent for all groups, and endemic families and genera are common. Madagascar is among the top countries known for their megadiversity and features an extraordinarily high number (circa 12,000) of endemic plant species. The property is also globally significant for fauna, especially primates, with all five families of Malagasy primates, all endemic lemur families, seven endemic genera of Rodentia, six endemic genera of Carnivora, as well as several species of Chiroptera represented. Of the 123 species of non-flying mammals in Madagascar (72 of which are on the IUCN Red List of Threatened Species), 78 occur within the property. The critical importance of the property is underlined by the fact that deforestation has left eastern Madagascar with only 8.5 percent of its original forests and the property protects key areas of this remaining habitat. All components of the serial property are formally protected as national parks and have management plans in place. Key management issues include effective control of agricultural encroachment and resource exploitation from logging, hunting, and gem mining. These issues require the implementation of clear and coordinated management strategies to manage the components of this serial property as a single entity. Also, coordinated planning and management of this serial property with adjacent protected areas and forest corridors is required, for which additional financial and human resources need to be obtained. There is potential for further extension of the property to include adjacent protected areas and forest corridors once they meet the conditions of integrity."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 479660.7,
+          "square_km": 4796.61,
+          "square_miles": 1941.121,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 2007,
+          "all_dates": [
+            2007
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 2007,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/546d4ac867e04c691d499704a8a69425",
+          "filename": "site_1257_0001-500-0-20151105121857.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 375
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/114317/site_1257_0001.jpg",
+            "https://whc.unesco.org/document/114319/site_1257_0002.jpg",
+            "https://whc.unesco.org/document/114323/site_1257_0004.jpg",
+            "https://whc.unesco.org/document/114324/site_1257_0005.jpg",
+            "https://whc.unesco.org/document/114326/site_1257_0006.jpg",
+            "https://whc.unesco.org/document/114328/site_1257_0007.jpg",
+            "https://whc.unesco.org/document/114330/site_1257_0008.jpg",
+            "https://whc.unesco.org/document/114332/site_1257_0009.jpg",
+            "https://whc.unesco.org/document/114334/site_1257_0010.jpg",
+            "https://whc.unesco.org/document/114336/site_1257_0011.jpg",
+            "https://whc.unesco.org/document/114338/site_1257_0012.jpg",
+            "https://whc.unesco.org/document/123819/site_1257_0013.jpg",
+            "https://whc.unesco.org/document/123820/site_1257_0014.jpg",
+            "https://whc.unesco.org/document/123821/site_1257_0015.jpg",
+            "https://whc.unesco.org/document/123822/site_1257_0016.jpg",
+            "https://whc.unesco.org/document/123823/site_1257_0017.jpg"
+          ],
+          "count": 16
+        }
+      },
+      "components": {
+        "count": 13,
+        "locations": [
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-002",
+            "latitude": -15.6144444444,
+            "longitude": 50.1777777778
+          },
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-003",
+            "latitude": -15.1658333333,
+            "longitude": 50.2716666667
+          },
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-004",
+            "latitude": -15.2622222222,
+            "longitude": 50.2755555556
+          },
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-005",
+            "latitude": -15.4652777778,
+            "longitude": 50.1858333333
+          },
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-006",
+            "latitude": -15.5711111111,
+            "longitude": 50.1255555556
+          },
+          {
+            "name": "Parc National de Masoala",
+            "ref": "1257-007",
+            "latitude": -15.7608333333,
+            "longitude": 49.9747222222
+          },
+          {
+            "name": "Parc National de Marojejy",
+            "ref": "1257-001",
+            "latitude": -14.4597222222,
+            "longitude": 49.7025
+          },
+          {
+            "name": "Parc National de Ranomafana",
+            "ref": "1257-009",
+            "latitude": -21.09,
+            "longitude": 47.3
+          },
+          {
+            "name": "Parc National de Ranomafana",
+            "ref": "1257-010",
+            "latitude": -21.12,
+            "longitude": 47.21
+          },
+          {
+            "name": "Parc National de Ranomafana",
+            "ref": "1257-011",
+            "latitude": -21.19,
+            "longitude": 47.25
+          },
+          {
+            "name": "Parc National d’Andohahela",
+            "ref": "1257-013",
+            "latitude": -24.7527777778,
+            "longitude": 46.7858333333
+          },
+          {
+            "name": "Parc National d’Andringitra",
+            "ref": "1257-012",
+            "latitude": -22.2227777778,
+            "longitude": 46.9288888889
+          },
+          {
+            "name": "Parc National de Zahamena (+ la Réserve Naturelle Intégrale)",
+            "ref": "1257-008",
+            "latitude": -17.6291666667,
+            "longitude": 48.725
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/1257",
+        "unesco_documents": "https://whc.unesco.org/en/list/1257/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/1257/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/1257/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "2000s",
+        "era": "Modern Period (2000-2009)",
+        "age_years": 18,
+        "inscription_year": 2007
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Rainforests of the Atsinanana The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar’s unique biodiversity, which reflects the island’s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar’s plant and animal life evolved in isolation. The rainforests are inscribed for their importance to both ecological and biological processes as well as their biodiversity and the threatened species they support. Many species are rare and threatened especially primates and lemurs. The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar’s unique biodiversity, which reflects the island’s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar’s plant and animal life evolved in isolation. The rainforests are inscribed for their importance to both ecological and biological processes as well as their biodiversity and the threatened species they support. Many species are rare and threatened especially primates and lemurs. Madagascar Africa Natural"
+    },
+    {
+      "site_key": "andrefana_dry_forests",
+      "uuid": "1765c9f1-bb40-5a42-8d38-bffb842dc571",
+      "unesco_id": "494",
+      "names": {
+        "en": "Andrefana Dry Forests",
+        "fr": "Les forêts sèches de l’Andrefana",
+        "es": "Bosques secos de Andrefana",
+        "ru": "Сухие леса Андрефана",
+        "ar": "غابات أندرفانا الجافة توسيع مساحة",
+        "zh": "安德列发那干旱森林"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "MDG": {
+            "name": "Madagascar",
+            "iso2": "MG",
+            "iso3": "MDG"
+          }
+        },
+        "region": {
+          "name": "Africa",
+          "code": "AFR"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees (Delonix), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old.",
+          "fr": "Ce bien en série situé dans l'ouest de Madagascar comprend des paysages karstiques et des hautes terres calcaires découpées en impressionnants pics « tsingy » et une « forêt » d'aiguilles calcaires, le canyon spectaculaire de la rivière Manambolo, des collines ondulantes et de hauts sommets. Des forêts intactes, des lacs et des mangroves sont l'habitat de lémuriens et d'oiseaux rares et menacés. Les éléments constitutifs du bien couvrent presque toute la gamme des variations écologiques et évolutives au sein des forêts occidentales de Madagascar, y compris les forêts sèches occidentales et le bosquet forestier épineux du sud-ouest. Ces sites abritent un éventail spectaculaire de biodiversité endémique et menacée, notamment des baobabs, des arbres à flamme (Delonix), ainsi que des lignées évolutives uniques telles que les Mesitornithiformes, un ordre d'oiseaux vieux de 54 millions d'années.",
+          "es": "Los bosques secos de Andrefana son una extensión en serie del sitio del Patrimonio Mundial Tsingy de Bemaraha y constan de cinco zonas protegidas. Las nuevas partes que lo componen cubren casi toda la gama de variación ecológica y evolutiva dentro de los bosques occidentales de Madagascar, de norte a sur, incluyendo los bosques secos occidentales y el bosque espinoso-matorral del suroeste. La extensión es de extrema importancia para la conservación, ya que abarca una espectacular variedad de biodiversidad endémica y amenazada, como baobabs, árboles llama (Delonix), así como linajes evolutivos únicos como los Mesitornithiformes, un orden de aves que tiene 54 millones de años de antigüedad.",
+          "ru": "Сухие леса Андрефана являются расширением территории объекта всемирного наследия Цинги-де-Бемараха и состоят из пяти охраняемых территорий. Новые участки охватывают практически весь диапазон экологических и эволюционных изменений в западных лесах Мадагаскара с севера на юг, включая западные сухие леса и юго-западные колючие леса-тростники. Эти дополнительные участки имеют огромное природоохранное значение, поскольку на них произрастают эндемичные и исчезающие виды, включая баобабы, огненные деревья (Delonix), а также уникальные эволюционные линии, такие как Mesitornithiformes — отряд птиц, насчитывающий 54 млн. лет.",
+          "ar": "غابات أندريفانا الجافة هي توسيع تسلسلي لمساحة المحمية الطبيعية الكاملة في تسينجي في بيماراها المدرجة في قائمة التراث العالمي، وهي تتكون من خمس مناطق محمية. تغطي الأجزاء الجديدة تقريباً طيفاً كاملاً من التنوع البيولوجي والتغيرات التطورية داخل الغابات الغربية لمدغشقر من الشمال إلى الجنوب، بما في ذلك الغابات الغربية الجافة والغابات الشوكية الجنوبية الغربية. تكتسي هذه المواقع الجديدة أهمية كبيرة نظراً إلى دورها في حفظ مجموعة مذهلة من التنوع البيولوجي للأصناف المستوطنة والمهدّدة، بما في ذلك أشجار التِّبِلْدِيّ وأشجار الرَّنف، فضلاً عن السلالات التطورية الفريدة مثل طيور الهُذابيات، وهي عبارة عن صنف من الطيور التي يعود تاريخها إلى 54 مليون سنة.",
+          "zh": "安德列发那干旱森林是黥基·德·贝马拉哈自然保护区世界遗产的系列扩展，新增区域包括5个保护区。这些新的组成部分几乎代表了马达加斯加西部森林从北到南的全部生态类型和进化过程，包括西部干旱森林和西南部多刺森林-灌丛。新增区域对生物保护极为重要，因为这里生活着大量受威胁的特有物种，如猴面包树、凤凰木，以及一些当地特有物种，如有着5400万年历史的拟鹑目鸟类（Mesitornithiformes）。"
+        },
+        "full": "This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees (Delonix), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old.",
+        "justification": "Brief synthesis The Andrefana Dry Forests serial property involves four national parks – Ankarafantsika, Mikea, Tsingy de Bemaraha and Tsimanampesotse – and two special reserves – Analamerana and Ankarana. The property represents centres of endemism in the dry tropical and subtropical biomes of Madagascar with its western dry forests and south-western dry thorny forests and thickets that have evolved in isolation on a large, massive island separated from all other land for tens of millions of years. The parks and reserves comprising the property provide a continuum of dry to arid forest formations from north to south, including almost all of the dry forest centres of endemism in western Madagascar. These centres of endemism evolved in isolation as a result of geographic barriers formed by major river systems, and as a result of paleoclimatic changes over millions of years, where changing rainfall patterns led to expansion and contraction of forest ecosystems. The property represents and conserves globally unique ecosystems, habitats and species. Madagascar’s long isolation has contributed to the development of a natural laboratory of evolution marked by exceptional biological diversity, one of the highest rates of endemism in the world, and a large number of ancient lineages that have disappeared elsewhere, such as the endemic order of mesites which are about 54 million years old. The Andrefana Dry Forests are essential for the protection of the island’s endemic ecosystems and biodiversity, as well as the diversity of evolutionary, ecological and biogeographic systems that have developed in Madagascar. Criterion (vii): The Tsingy de Bemaraha Strict Nature Reserve, which has since become a National Park, represents rare or highly remarkable geological phenomena of exceptional beauty. It presents impressive geological elements including karstic scenery with a highly dissected limestone massif, crossed by a deep river gorge, which is the spectacular expression of a stage of evolution of the earth in the form of a “forest of sharp stones” with high limestone pinnacles rising up to 100 metres, forming veritable cathedrals, offering a grandiose, spectacular natural landscape. Further, “the Tsingy” of the limestone plateau forms an unusual feature of outstanding beauty, unique in the world, universally recognized by the effect created by the shades of forest green on metallic reflections of the grey karst “bristles”. While not adding additional attributes, the other five component parts of this serial property contribute to the overall natural beauty of the property. Criterion (ix): The palaeoclimatic oscillations of the last few million years have had a profound effect on the landscapes and the evolution of the fauna and flora of Madagascar. The Andrefana Dry Forests are a complex product of this process. They have retreated during dry periods; they have expanded during wet periods but with variations deeply linked to the relief with its hydrological network. The centres of endemism that are home to many endemic species and higher taxa are the “interfluves” of the great rivers that have their sources on the highest peaks of Madagascar. The centres of endemism on the western slopes were refugia that captured parts of the hydrological system, allowing animal and plant populations to survive in isolation during dry periods. The Andrefana Dry Forests are distributed over all but one of the western endemic centres. Namely from south to north in the serial property, the endemism centres of Karimbola (Tsimanampesotse National Park), Mikea (Mikea National Park), Melaky (Bemaraha National Park), Sofia (Ankarafantsika National Park), Ankarana (Ankarana Special Reserve) and Vohimarina (Analamerana Special Reserve). Criterion (x): Madagascar’s different forest types are home to 80% of its endemic species, and the dry forests make a major contribution to this richness. The dry forests are clearly distinct from the humid forests of Madagascar with flagship groups entirely restricted to dry formations such as baobabs, most members of the family Didiereaceae, flamboyant trees, mammals, birds, reptiles, amphibians, tortoises and more than half of the scorpions. Important species also include the Perrier’s Sifaka, and the Mongoose Lemur, the Madagascar Fish Eagle and the Western Woolly Lemur. Within the orders and families endemic to Madagascar, many genera and species are found only in dry forests or thorny thickets. Even more notable are the ancient orders of fauna that are endemic to the island, such as the two endemic birds of Mikea, named after a centre of endemism and a cultural group. The presence of endemic genera, and even families of vertebrates, many of them containing species that are highly threatened, in the component parts added in 2023 is unique among dry forests of the world. The additions also include almost one thousand endemic species and sub-species of plants, 156 endemic reptiles, 57 endemic mammals and 34 endemic amphibians. Integrity The size of the serial property and its buffer zone, the strict protection status of its component parts, and the north-south continuum they provide, ensure a strong basis for its Outstanding Universal Value. The size of the northern reserves is relatively small, but they are set in a local geographical context and their integrity is enhanced by the dry forests of the Andrafiamena-Andavakoera Reserve (IUCN category V) which links the two reserves. The Andrefana Dry Forests serial property includes all the elements necessary for the inclusion of key aspects of the processes essential for the long-term conservation of the ecosystems and the biological diversity they contain. Its component parts represent a series of unique centres of micro-endemism. Each of the property’s component parts has pursued a distinct but circumscribed history through the paleoclimatic oscillations of the Quaternary and earlier periods; this history, set in geological time, has had a determining impact on the groups of flora and fauna observed today and has directed evolution in many groups. Each nominated area contains those habitats that maintain the maximum animal and plant diversity that are characteristic of the centres of endemism in which biodiversity is embedded. The component parts have in the past suffered impacts related to slash and burn agriculture, burning to renew pasture, agricultural intensification, charcoal production, bushmeat hunting and illegal wildlife trade, illegal logging and illegal mining. Invasive species, fire and habitat loss as well as climate change are continuing to threaten the integrity. However, effective management and restoration efforts have been successful in addressing threats, with deforestation rates having plummeted between 2006 and 2016. Nevertheless, these efforts, including ecological restoration, must be maintained. Protection and management requirements The Andrefana Dry Forests form a serial property including the Tsingy de Bemaraha Strict Nature Reserve, which was inscribed on the World Heritage List in 1990 and extended in 2023 to include the two Special Reserves of Ankarana and Analamerana and the three National Parks of Ankarafantsika, Mikea and Tsimanampesotse. The six protected areas in this serial property are managed by the Government of Madagascar with Madagascar National Parks. They are officially protected by their respective creation decrees but also by legal measures starting with the Constitution of the Fourth Republic of Madagascar which underpins the management and conservation of biodiversity at the country level. The network is managed in accordance with the Strategic Plan, which presents the guidelines for the integrated management of properties. These guidelines are set out in the Development and Management Plans of each of the six protected areas and are complemented by a monitoring and evaluation system based on standardised tools, including tools using innovative technologies facilitating the maintenance of the Outstanding Universal Value. The plan is divided into four strategic axes which should ensure (1) conservation, (2) development and sustainable support of communities and stakeholders in conservation, (3) financial sustainability of conservation activities and development of the riparian communities, and (4) effective management of the property. Fire is one of the major pressures facing the Andrefana Dry Forests. Mitigation and monitoring measures based on key indicators are in place to address the pressures identified in the property. It should be recalled that primary forests, even extremely dry ones, are less susceptible to fire than degraded forests and have a much higher resilience."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            7,
+            9,
+            10
+          ],
+          "all": [
+            7,
+            9,
+            10
+          ],
+          "display": "(vii)(ix)(x)",
+          "count": 3,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 734298,
+          "square_km": 7342.98,
+          "square_miles": 2971.603,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1990,
+          "all_dates": [
+            1990,
+            2023
+          ],
+          "extensions": [
+            2023
+          ],
+          "timeline": [
+            {
+              "year": 1990,
+              "event": "Inscribed"
+            },
+            {
+              "year": 2023,
+              "event": "Extended"
+            }
+          ],
+          "extension_count": 1
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/32b522afb4f64a68dc01df925e77d684",
+          "filename": "site_0494_0028.jpg",
+          "dimensions": {
+            "width": 4000,
+            "height": 2664
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/191224/site_0494_0028.jpg",
+            "https://whc.unesco.org/document/191225/site_0494_0029.jpg",
+            "https://whc.unesco.org/document/191226/site_0494_0030.jpg",
+            "https://whc.unesco.org/document/191218/site_0494_0022.jpg",
+            "https://whc.unesco.org/document/191219/site_0494_0023.jpg",
+            "https://whc.unesco.org/document/191220/site_0494_0024.jpg",
+            "https://whc.unesco.org/document/191221/site_0494_0025.jpg",
+            "https://whc.unesco.org/document/191222/site_0494_0026.jpg",
+            "https://whc.unesco.org/document/191223/site_0494_0027.jpg",
+            "https://whc.unesco.org/document/110349/site_0494_0003.jpg",
+            "https://whc.unesco.org/document/110351/site_0494_0004.jpg",
+            "https://whc.unesco.org/document/110353/site_0494_0005.jpg",
+            "https://whc.unesco.org/document/110355/site_0494_0006.jpg",
+            "https://whc.unesco.org/document/110357/site_0494_0007.jpg",
+            "https://whc.unesco.org/document/110359/site_0494_0008.jpg",
+            "https://whc.unesco.org/document/110361/site_0494_0009.jpg",
+            "https://whc.unesco.org/document/110362/site_0494_0010.jpg",
+            "https://whc.unesco.org/document/110365/site_0494_0011.jpg"
+          ],
+          "count": 18
+        }
+      },
+      "components": {
+        "count": 6,
+        "locations": [
+          {
+            "name": "Parc National de Mikea",
+            "ref": "494bis-005",
+            "latitude": -22.239325,
+            "longitude": 43.4460491666
+          },
+          {
+            "name": "Réserve Spéciale d’Ankarana",
+            "ref": "494bis-002",
+            "latitude": -12.902065,
+            "longitude": 49.1370938889
+          },
+          {
+            "name": "Parc National d’Ankarafantsika",
+            "ref": "494bis-003",
+            "latitude": -16.2210566667,
+            "longitude": 46.9418291666
+          },
+          {
+            "name": "Parc National de Tsimanampesotse",
+            "ref": "494bis-006",
+            "latitude": -24.3849186111,
+            "longitude": 43.9773294445
+          },
+          {
+            "name": "Réserve Spéciale d’Analamerana",
+            "ref": "494bis-001",
+            "latitude": -12.7838158333,
+            "longitude": 49.4798983334
+          },
+          {
+            "name": "Parc National du Tsingy de Bemaraha",
+            "ref": "494bis-004",
+            "latitude": -18.6615786111,
+            "longitude": 44.7673866667
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/494",
+        "unesco_documents": "https://whc.unesco.org/en/list/494/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/494/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/494/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Africa",
+        "geographic_type": "Mountain",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 35,
+        "inscription_year": 1990
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Andrefana Dry Forests This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees (Delonix), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old. This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees (Delonix), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old. Madagascar Africa Natural"
+    }
+  ]
+}

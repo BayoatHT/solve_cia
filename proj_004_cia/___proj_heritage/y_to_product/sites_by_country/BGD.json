@@ -1,0 +1,504 @@
+{
+  "country": {
+    "code": "BGD",
+    "name": "Bangladesh"
+  },
+  "total_sites": 3,
+  "sites_by_category": {
+    "Cultural": 2,
+    "Natural": 1,
+    "Mixed": 0
+  },
+  "transboundary_count": 0,
+  "endangered_count": 0,
+  "sites": [
+    {
+      "site_key": "the_sundarbans",
+      "uuid": "2863901e-13ff-55f3-8d5c-ad181daa8d37",
+      "unesco_id": "798",
+      "names": {
+        "en": "The Sundarbans",
+        "fr": "Les Sundarbans",
+        "es": "Los Sundarbans",
+        "ru": "Мангровые заросли Сундарбан",
+        "ar": "سونداربانس",
+        "zh": "孙德尔本斯国家公园"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGD": {
+            "name": "Bangladesh",
+            "iso2": "BD",
+            "iso3": "BGD"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+          "fr": "La forêt de mangroves des Sundarbans, l’une des plus grandes forêts mondiales de ce type (140 000 ha), couvre le delta du Gange, du Brahmapoutre et de la Meghna, dans la baie du Bengale. Elle est contiguë au site indien des Sundarbans, classé patrimoine mondial depuis 1987. L’ensemble du site est entrecoupé d’un réseau complexe de voies d’eau sous l’influence des marées, de vasières et d’îlots de forêts de mangroves halophiles, offrant un excellent exemple de processus géologiques en cours. Le site est également connu pour la richesse de sa faune qui comprend 260 espèces d’oiseaux, le tigre du Bengale et d’autres espèces menacées comme le crocodile marin et le python indien.",
+          "es": "Situada en el delta del Ganges, la región de los Sundarbans abarca 10.000 km² de tierra y agua. La mitad de esa superficie se halla en el territorio de la India y el resto en Bangladesh. El sitio posee la más vasta extensión de bosques de manglares del mundo y es el hábitat de diversas especies raras o en peligro de extinción: tigres, mamíferos acuáticos, aves y reptiles.",
+          "ru": "Мангровые леса, произрастающие в общей дельте рек Ганг, Брахмапутра и Мегхна на побережье Бенгальского залива, образуют крупнейший в мире массив такого рода. Отдельные участки этого массива охраняются в составе двух объектов всемирного наследия (в Бангладеш – около 140 тыс. га, в индийской части дельты – около 130 тыс. га). Устойчивые к воздействию соленой морской воды, эти заросли занимают небольшие островки, которые разделены протоками, затопляемыми во время приливов. Объект известен и своей разнообразной фауной, включающей 260 видов птиц, а также бенгальского тигра и прочих редких животных, таких как гребнистый крокодил и индийский питон.",
+          "ar": "تغطّي غابة الأيك الكثيف الاستوائية (مانغروف) في سونداربان، وهي إحدى أكبر الغابات العالمية من هذا النوع (140000 هكتار)، دلتا الغانج والبراهمابوتر والميغنا في خليج البنغال. وهي قريبة من الموقع الهندي للسونداربان المصنف تراثا عالميا منذ العام 1987. تقطع الموقع بشكل عام شبكة معقدة من الطرق المائية بتأثير من المد والجزر والأحواض الموحلة والجزر الصغيرة من غابات المانغروف اليجوج (الذي ينبت على الماء المالح) التي تعطي مثالاً حياً عن عملية تطوّر جيولوجي ممتازة. كما أن الموقع معروف أيضاً لغنى ثروته الحيوانية التي تشمل 260 طيراً ونمر البنغال وأجناساً أخرى مهددة بالإنقراض، مثل التمساح البحري وأفعى بيتون الهندية.",
+          "zh": "孙德尔本斯有着世界上最大的红树森林之一（占地140 000公顷），位于孟加拉湾的恒河 (Ganges)、布拉马普特拉河(Brahmaputra)和梅克纳河(Meghna)三角洲。公园毗邻1987年列入的印度孙德尔本斯世界遗产地。公园内遍布潮汐河道、泥滩和耐盐的红树林小岛，是成长型生态过程的范例。该地区因动物物种多样性而闻名于世，其中包括260种鸟类，还有孟加拉虎和其他濒危物种，如湾鳄和印度蟒蛇。"
+        },
+        "full": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "justification": "Brief synthesis The Sundarbans Reserve Forest (SRF), located in the south-west of Bangladesh between the river Baleswar in the East and the Harinbanga in the West, adjoining to the Bay of Bengal, is the largest contiguous mangrove forest in the world. Lying between latitude 21° 27′ 30″ and 22° 30′ 00″ North and longitude 89° 02′ 00″ and 90° 00′ 00″ East and with a total area of 10,000 km2, 60% of the property lies in Bangladesh and the rest in India. The land area, including exposed sandbars, occupies 414,259 ha (70%) with water bodies covering 187,413 ha (30%). The three wildlife sanctuaries in the south cover an area of 139,700 ha and are considered core breeding areas for a number of endangered species. Situated in a unique bioclimatic zone within a typical geographical situation in the coastal region of the Bay of Bengal, it is a landmark of ancient heritage of mythological and historical events. Bestowed with magnificent scenic beauty and natural resources, it is internationally recognized for its high biodiversity of mangrove flora and fauna both on land and water. The immense tidal mangrove forests of Bangladeshs’ Sundarbans Forest Reserve, is in reality a mosaic of islands of different shapes and sizes, perennially washed by brackish water shrilling in and around the endless and mind-boggling labyrinths of water channels. The site supports exceptional biodiversity in its terrestrial, aquatic and marine habitats; ranging from micro to macro flora and fauna. The Sundarbans is of universal importance for globally endangered species including the Royal Bengal Tiger, Ganges and Irawadi dolphins, estuarine crocodiles and the critically endangered endemic river terrapin (Batagur baska). It is the only mangrove habitat in the world for Panthera tigris tigris species. Criterion (ix): The Sundarbans provides a significant example of on-going ecological processes as it represents the process of delta formation and the subsequent colonization of the newly formed deltaic islands and associated mangrove communities. These processes include monsoon rains, flooding, delta formation, tidal influence and plant colonization. As part of the world’s largest delta, formed from sediments deposited by three great rivers; the Ganges, Brahmaputra and Meghna, and covering the Bengal Basin, the land has been moulded by tidal action, resulting in a distinctive physiology. Criterion (x): One of the largest remaining areas of mangroves in the world, the Sundarbans supports an exceptional level of biodiversity in both the terrestrial and marine environments, including significant populations of globally endangered cat species, such as the Royal Bengal Tiger. Population censuses of Royal Bengal Tigers estimate a population of between 400 to 450 individuals, a higher density than any other population of tigers in the world. The property is the only remaining habitat in the lower Bengal Basin for a wide variety of faunal species. Its exceptional biodiversity is expressed in a wide range of flora; 334 plant species belonging to 245 genera and 75 families, 165 algae and 13 orchid species. It is also rich in fauna with 693 species of wildlife which includes; 49 mammals, 59 reptiles, 8 amphibians, 210 white fishes, 24 shrimps, 14 crabs and 43 mollusks species. The varied and colourful bird-life found along the waterways of the property is one of its greatest attractions, including 315 species of waterfowl, raptors and forest birds including nine species of kingfisher and the magnificent white-bellied sea eagle. Integrity The Sundarbans is the biggest delta, back water and tidal phenomenon of the region and thus provides diverse habitats for several hundreds of aquatic, terrestrial and amphibian species. The property is of sufficient size to adequately represent its considerably high floral and faunal diversity with all key values included within the boundaries. The site includes the entire landscape of mangrove habitats with an adequate surrounding area of aquatic (both marine and freshwater) and terrestrial habitats, and thus all the areas essential for the long term conservation of the Sundarbans and its rich and distinct biodiversity The World Heritage property is comprised of three wildlife sanctuaries which form the core breeding area of a number of species of endangered wildlife. Areas of unique natural beauty, ethno botanical interest, special marine faunal interest, rivers, creeks, islands, swamps, estuaries, mud flats, and tidal flats are also included in the property. The boundaries of the property protect all major mangrove vegetation types, areas of high floral and faunal values and important bird areas. The integrity of the property is further enhanced by terrestrial and aquatic buffer zones that surround, but are not part of the inscribed property. Natural calamities such as cyclones, have always posed threats on the values of the property and along with saline water intrusion and siltation, remain potential threats to the attributes. Cyclones and tidal waves cause some damage to the forest along the sea-land interface and have previoulsy caused occasional considerable mortality among some species of fauna such as the spotted deer. Over exploitation of both timber resources and fauna, illegal hanting and trapping, and agricultural encroachment also pose serious threats to the values of the property and its overall integrity. Protection and management requirements The property is composed of three wildlife sanctuaries and has a history of effective national legal protection for its land, forest and aquatic environment since the early 19th century. All three wildlife sanctuaries were established in 1977 under the Bangladesh Wildlife (Preservation) (Amendment) Act, 1974, having first been gazetted as forest reserves in 1878. Along with the Forest Act, 1927, the Bangladesh Wildlife (Preservation) (Amendment) Act 1974, control activities such as entry, movement, fishing, hunting and extraction of forest produces. A number of field stations established within Sundarbans West assist in providing facilities for management staff. There are no recognised local rights within the reserved forest with entry and collection of forest products subject to permits issued by the Forest Department. The property is currently well managed and regularly monitored by established management norms, regular staff and individual administrative units. The key objective of management is to manage the property to retain the biodiversity, aesthetic values and integrity. A delicate balance is needed to maintain and facilitate the ecological process of the property on a sustainable basis. Another key management priority is the maintenance of ongoing ecological and hydrological process which could otherwise be threatened by ongoing developmental activities outside the property. Subject to a series of successively more comprehensive management plans since its declaration as reserved forest, a focus point of many of these plans is the management of tigers, together with other widlife, as an integral part of forest management that ensures the sustainable harvesting of forest products while maintaining the coastal zone in a way that meets the needs of the local human population. The working plans for the Sundarbans demonstrate a progressive increase in the understanding of the management requirements and the complexity of prescriptions made to meet them. Considerable research has been conducted on the Sundarbans wildlife and ecosystem. International input and assistance from WWF and the National Zoological Park, the Smithsonian Institution as well as other organisations has assisted with the development of working plans for the property, focusing on conservation and management of wildlife. The Sundarbans provides sustainable livelihoods for millions of people in the vicinity of the site and acts as a shelter belt to protect the people from storms, cyclones, tidal surges, sea water seepage and intrusion. The area provides livelihood in certain seasons for large numbers of people living in small villages surrounding the property, working variously as wood-cutters, fisherman, honey gatherers, leaves and grass gatherers. Tourism numbers remain relatively low due to the difficult access, arranging transport and a lack of facilities including suitable accommodation. Mass tourism and its impacts are unlikely to affect the values of the property. While the legal protection afforded the property prohibit a number of activities within the boundaries illegal hunting, timber extraction and agricultural encroachment pose potential threats to the values of the property. Storms, cyclones and tidal surges up to 7.5 m high, while features of the areas, also pose a potential threat with possible increased frequency as a result of climate change."
+      },
+      "classification": {
+        "category": {
+          "name": "Natural",
+          "id": 2
+        },
+        "criteria": {
+          "cultural": [],
+          "natural": [
+            9,
+            10
+          ],
+          "all": [
+            9,
+            10
+          ],
+          "display": "(ix)(x)",
+          "count": 2,
+          "type": "Natural"
+        },
+        "area": {
+          "hectares": 139500,
+          "square_km": 1395.0,
+          "square_miles": 564.537,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1997,
+          "all_dates": [
+            1997
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1997,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/09d8a7bcda69e1ab6e55d3753e8bc804",
+          "filename": "site_0798_0001-500-0-20090910161220.jpg",
+          "dimensions": {
+            "width": 500,
+            "height": 667
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/111806/site_0798_0001.jpg",
+            "https://whc.unesco.org/document/119000/site_0798_0004.jpg",
+            "https://whc.unesco.org/document/119009/site_0798_0005.jpg",
+            "https://whc.unesco.org/document/119010/site_0798_0006.jpg"
+          ],
+          "count": 4
+        }
+      },
+      "components": {
+        "count": 3,
+        "locations": [
+          {
+            "name": "Sundarbans East Sanctuary",
+            "ref": "798-003",
+            "latitude": 21.944692,
+            "longitude": 89.777836
+          },
+          {
+            "name": "Sundarbans South Sanctuary",
+            "ref": "798-002",
+            "latitude": 21.79682,
+            "longitude": 89.407056
+          },
+          {
+            "name": "Sundarbans West Wildlife Sanctuary",
+            "ref": "798-001",
+            "latitude": 21.775841,
+            "longitude": 89.231956
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/798",
+        "unesco_documents": "https://whc.unesco.org/en/list/798/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/798/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/798/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Coastal",
+        "has_coordinates": false,
+        "is_coastal": true
+      },
+      "historical_context": {
+        "decade": "1990s",
+        "era": "Growth Period (1990-1999)",
+        "age_years": 28,
+        "inscription_year": 1997
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "The Sundarbans The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python. The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python. Bangladesh Asia and the Pacific Natural"
+    },
+    {
+      "site_key": "historic_mosque_city_of_bagerhat",
+      "uuid": "aa952703-f2e1-5d37-af7d-1162b47842ee",
+      "unesco_id": "321",
+      "names": {
+        "en": "Historic Mosque City of Bagerhat",
+        "fr": "Ville-mosquée historique de Bagerhat",
+        "es": "Ciudad-mezquita histórica de Bagerhat",
+        "ru": "Исторический город мечетей Багерхат",
+        "ar": "المدينة التاريخية - المسجد في باغرهات",
+        "zh": "巴凯尔哈特清真寺历史名城"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGD": {
+            "name": "Bangladesh",
+            "iso2": "BD",
+            "iso3": "BGD"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brahmaputra rivers, this ancient city, formerly known as Khalifatabad, was founded by the Turkish general Ulugh Khan Jahan in the 15th century. The city’s infrastructure reveals considerable technical skill and an exceptional number of mosques and early Islamic monuments, many built of brick, can be seen there.",
+          "fr": "Au cœur des faubourgs de Bagerhat, au confluent du Gange et du Brahmapoutre, la ville ancienne, autrefois appelée Khalifatabad, fut fondée au XVe siècle par le général turc Ulugh Khan Jahan. Cette cité, dont les infrastructures attestent d’une grande maîtrise technique, regroupe un nombre exceptionnel de mosquées et de monuments anciens islamiques, dont beaucoup sont construits en brique.",
+          "es": "Esta antigua ciudad, antaño llamada Khalifatabad, fue fundada en el siglo XV por el general turco Ulugh Khan Jahan y está ubicada en los arrabales de Bagerhat, en la confluencia de los ríos Ganges y Brahmaputra. Dotada de infraestructuras que atestiguan la pericia técnica de sus constructores, esta ciudad histórica posee gran número de mezquitas y monumentos islámicos antiguos, construidos principalmente con ladrillo.",
+          "ru": "Старинный город, ранее известный как Халифатабад и расположенный в пригороде Багерхата у слияния Ганга и Брахмапутры, был основан тюркским полководцем Улуг Хан Джаханом в XV в. Структура города свидетельствует о значительном техническом мастерстве. Здесь и сегодня можно увидеть множество мечетей и древних исламских монументов, многие из которых построены из кирпича.",
+          "ar": "وسط الأحياء المجاورة لباغرهات، عند ملتقى الغانج والبراهمابوتر، تمّ تأسيس المدينة القديمة التي كانت في السابق تدعى خليفة آباد في القرن الخامس عشر على يد الجنرال التركي أولغ خان جاهان. وتجمع هذه المدينة التي تشهد بنيتها التحتية على تمرّس فني كبير عدداً استثنائياً من المساجد والنصب القديمة الإسلامية التي بُني الكثير منها بالقرميد.",
+          "zh": "这座古城位于巴凯尔哈特(Bagerht)城外的恒河(Ganges)和布拉马普特拉河(Brahmaputra)的交汇处。古城原名卡理法塔巴德(Khalifatabad)，是由一位名叫乌鲁格哈贾汗(Ulugh Khan Jahan)的土耳其将军于公元15世纪建立的。城市的基础设施建设令人叹为观止，体现出很高的建筑技术和工艺。城中还有大量砖结构的清真寺和早期伊斯兰古迹。"
+        },
+        "full": "Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brahmaputra rivers, this ancient city, formerly known as Khalifatabad, was founded by the Turkish general Ulugh Khan Jahan in the 15th century. The city’s infrastructure reveals considerable technical skill and an exceptional number of mosques and early Islamic monuments, many built of brick, can be seen there.",
+        "justification": "Brief synthesis The Historic Mosque City of Bagerhat is an important evidence of medieval city in the south-west part of present Bagerhat district which is located in the south-west part of Bangladesh, at the meeting-point of the Ganges and Brahmaputra rivers. The ancient city, formerly known as Khalifatabad, sprawls over on the southern bank of the old river Bhairab and flourished in the 15th century BC. The magnificent city, which extended for 50 km2, contains some of the most significant buildings of the initial period of the development of Muslim architecture of Bengal. They include 360 mosques, public buildings, mausoleums, bridges, roads, water tanks and other public buildings constructed from baked brick. This old city, created within a few years and covered up by the jungle after the death of its founder in 1459, is striking because of certain uncommon features. The density of Islamic religious monuments is explained by the piety of Khan Jahan, which is evidenced by the engraved inscription on his tomb. The lack of fortifications is attributable to the possibilities of retreat into the impenetrable mangrove swamps of the Sunderbans. The quality of the infrastructures - the supply and evacuation of water, the cisterns and reservoirs, the roads and bridges - all reveal a perfect mastery of the techniques of planning and a will towards spatial organization. The monuments, which have been partially disengaged from the vegetation, may be divided into two principal zones 6.5 km apart: to the West, around the mosque of Shait-Gumbad and to the East, around the mausoleum of Khan Jahan. More than 50 monuments have been catalogued: in the first group, the mosques of Singar, Bibi Begni and Clumakkola; and in the second, the mosques of Reza Khoda, Zindavir and Ranvijoypur. Criterion (iv): The Historic Mosque City of Bagerhatrepresents the vestiges of a medieval Muslim town in the northern peripheral land of the Sundarbans. It contains some of the most significant buildings of the initial period of the development of Muslim architecture in Bengal. Shait-Gumbad is one of the largest mosques and represents the flavour of the traditional orthodox mosque plan and it is the only example of its kind in the whole of Bengal. The second important monument, Khan Jahan's tomb, is an extraordinary representation of this type of architecture as well as calligraphic parlance. The site exhibits a unique architectural style, known as Khan-e-Jahan (15th Century A.D.), which is the only known example in the history of architecture. Integrity The original picturesque location and the natural setting of these densely located religious and secular monuments along with the medieval form and design are intact. The property of the Historic Mosque City of Bagerhat contains and preserves all the necessary elements which include not only mosques but also residences, roads, ancient ponds, tombs, chillakhana (ancient graveyard). Therefore, the attributes of the city are still preserved. The threat of the unauthorized activities by the community and the extreme salinity of the soil and atmosphere, which can potentially threaten the physical integrity of the attributes, are being closely monitored by the site managers. In particular, interventions are needed to preserve the Shaitgumbad Mosque. Authenticity In order to preserve the authenticity of the monuments, conservation and restoration actions have respected the use of original materials (lime and mortar). Notwithstanding, some of the original features, such as stone pillars inside the mosques, reticulated windows, pediment, upper band of cornice, were lost in earlier interventions. Many of the structures continue to be in religious and secular use contributing to the social and communal harmony by the way of retaining the original features of traditional practices. Protection and management requirements The property is managed under the Antiquities Act, 1968 (Amendment 1976). In addition the Department of Archaeology protects the property under the Antiquities Export Control Act (1947), the Immovable Antiquities Preservation Rules (1976), the Conservation Manual (1923) and the Archaeological Works Code (1938). The Department of Archaeology ensures that inappropriate activities which may affect the Outstanding Universal Value of property such as buildings or infrastructure cannot be constructed within or close to the property, and no one can alter or deface monuments within the property. The Government of Bangladesh has worked on the implementation of recommendations set out in the Master plan prepared by UNESCO 1973/74-1977/78 for the conservation and presentation of the Historic Mosque City of Bagerhat. Though the financial efforts have been made to address the conservation problem derived from salinity, this has not been comprehensively solved and deterioration has continued. The implementation of the management plan, including conservation provisions, will need to be monitored so as to evaluate achieved results and provide new action plans in response to emerging conditions. Conservation of the historic landscape, buffer zone and the property has yet to be addressed. A number of issues have recently been identified and will constitute the basis for a new project named “South Asia Tourism Infrastructure Development Project” (Bangladesh Portion), which is going to be shortly implemented. Challenges to sustainably manage these concerns, along with the conservation of the property, will need to be taken up to ensure the long term preservation and protection of its Outstanding Universal Value."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            4
+          ],
+          "natural": [],
+          "all": [
+            4
+          ],
+          "display": "(iv)",
+          "count": 1,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/670390e2e110d0c805847b3ea3b71385",
+          "filename": "site_0321_0001.jpg",
+          "dimensions": {
+            "width": 640,
+            "height": 967
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110285/site_0321_0001.jpg",
+            "https://whc.unesco.org/document/131015/site_0321_0002.jpg",
+            "https://whc.unesco.org/document/131016/site_0321_0003.jpg",
+            "https://whc.unesco.org/document/131017/site_0321_0004.jpg",
+            "https://whc.unesco.org/document/131018/site_0321_0005.jpg",
+            "https://whc.unesco.org/document/131019/site_0321_0006.jpg"
+          ],
+          "count": 6
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Historic Mosque City of Bagerhat",
+            "ref": "321",
+            "latitude": 22.66667,
+            "longitude": 89.8
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/321",
+        "unesco_documents": "https://whc.unesco.org/en/list/321/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/321/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/321/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Historic Mosque City of Bagerhat Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brahmaputra rivers, this ancient city, formerly known as Khalifatabad, was founded by the Turkish general Ulugh Khan Jahan in the 15th century. The city’s infrastructure reveals considerable technical skill and an exceptional number of mosques and early Islamic monuments, many built of brick, can be seen there. Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brahmaputra rivers, this ancient city, formerly known as Khalifatabad, was founded by the Turkish general Ulugh Khan Jahan in the 15th century. The city’s infrastructure reveals considerable technical skill and an exceptional number of mosques and early Islamic monuments, many built of brick, can be seen there. Bangladesh Asia and the Pacific Cultural"
+    },
+    {
+      "site_key": "ruins_of_the_buddhist_vihara_at_paharpur",
+      "uuid": "ce471b78-5c21-52bb-99c2-576a946427ee",
+      "unesco_id": "322",
+      "names": {
+        "en": "Ruins of the Buddhist Vihara at Paharpur",
+        "fr": "Ruines du Vihara bouddhique de Paharpur",
+        "es": "Ruinas del vihara búdico de Paharpur",
+        "ru": "Руины буддийского монастыря в Пахарпуре",
+        "ar": "آثار الفيهارا البوذي في باهاربور",
+        "zh": "帕哈尔普尔的佛教毗诃罗遗址"
+      },
+      "geography": {
+        "coordinates": {
+          "latitude": null,
+          "longitude": null,
+          "available": false,
+          "note": "coordinates_not_available"
+        },
+        "countries": {
+          "BGD": {
+            "name": "Bangladesh",
+            "iso2": "BD",
+            "iso3": "BGD"
+          }
+        },
+        "region": {
+          "name": "Asia and the Pacific",
+          "code": "APA"
+        },
+        "is_transboundary": false,
+        "country_count": 1
+      },
+      "descriptions": {
+        "short": {
+          "en": "Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple, harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia.",
+          "fr": "Témoin de l’essor du bouddhisme du Mahayana au Bengale à partir du VIIe siècle, cet ensemble, connu sous le nom de Somapura Mahvira, le « grand monastère », a été un centre intellectuel de renom jusqu’au XIIe siècle. Par son plan parfaitement adapté à sa fonction religieuse, cette ville-monastère représente une réalisation artistique unique qui a influencé l’architecture bouddhique jusqu’au Cambodge, par la simplicité et l’harmonie de ses lignes et le foisonnement de son décor sculpté.",
+          "es": "Este sitio religioso, conocido por el nombre de Somapura Mahavira (“gran monasterio”), es testigo del auge que cobró el budismo mahayana en Bengala desde el siglo VII y fue un afamado centro intelectual hasta el siglo XII. El trazado de esta ciudad-monasterio, perfectamente adaptado a su función religiosa, constituye un logro artístico excepcional. Sus líneas simples y armoniosas, así como sus profusas ornamentaciones esculpidas, influyeron en la arquitectura budista, incluso en países tan lejanos como Camboya.",
+          "ru": "Сомапура Махавира, или Великий монастырь, ставший свидетелем становления с VII века буддийского учения махаяны в Бенгалии, был прославленным интеллектуальным центром вплоть до XII в. Его планировка прекрасно соответствует религиозной функции, и сам монастырь-город представляет собой уникальное художественное достижение. Своими простыми и гармоничными линиями и обильным резным декором он оказал влияние на буддийскую архитектуру всего региона вплоть до Камбоджи.",
+          "ar": "إن هذه المجموعة المعروفة باسم سومابورا ماهفيرا أو الدير الكبير هي شاهد على الانطلاقة البوذية في ماياهانا في البنغال إبتداء من القرن السابع. وقد كانت مركزاً فكرياً ذائع الصيت حتى القرن الثاني عشر. تمثّل المدينة- المسجد، بفضل مخططها المكيّف لوظيفته الدينية، إنجازاً فنياً فريداً أثّر على الهندسة المعمارية البوذية حتى كامبوديا من خلال بساطة خطوطه وانسجامها وتكاثر التزيينات المنحوتة.",
+          "zh": "这个遗址又称作大寺院(Somapura Mahavira), 是7世纪大乘佛教在孟加拉兴起的见证，一直到12世纪以前都是著名的文化中心。这座寺院的设计完美地满足了举行宗教仪式的需要，体现出非凡卓绝的艺术成就。寺院简单和谐的线条，加上大量的雕刻装饰，对佛教建筑发展有着深远影响，影响力甚至远及柬埔寨。"
+        },
+        "full": "Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple, harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia.",
+        "justification": "Brief synthesis Geographically located to the north-west of Bangladesh in the district of Naogaon, the heart-land of ancient “Varendra”, close to the village of Paharpur the extensive ruins of the Buddhist monastic complex are the most spectacular and important pre-Islamic monument in Bangladesh. The first builder of the monastery was Dharmapala Vikramshila (770-810AD), the king of Varendri-Magadha, as inscribed on a clay seal discovered in the monastery compound. The plan of the monastery can be described as a large square quadrangle measuring approximately 920 feet, with the main entrance, an elaborate structure, on the northern side. The outer walls of the monastery are formed by rows of cells that face inwards toward the main shrine in the centre of the courtyard. In the last building phases of the Monastery these cells, which formed the outer wall, totalled 177. The main central shrine has a cruciform ground plan and a terraced superstructure that rises in three terraces above ground level to a height of about 70 feet. The upper level is a massive rectangular central block which forms the central brick shaft. The intermediate terrace is a wide circumambulatory path which passes four main chapels or mandapas architectural plan, it is in fact a simple cruciform that has been elaborated with a series of projections at the re-entrants, a form that is copied at all levels on the main shrine. At the intermediate level there were originally two bands of terracotta plaques running around the full perimeter of the shrine, out of which half are still preserved in situ. The ground level today is 3 feet above the original pradakshinapatha or main circumambulatory path, below the base of the lowest band of terracotta plaques. Archaeological excavations have revealed a 15 feet pathway that follows an elaborated cruciform shape, a feature that can be discerned from the foundations of the outer wall that enclose the pathway and that still exist. At the base of the shrine, there are over 60 stone sculptures which depict a variety of Hindu divinities. The main entrance to the monastery was through a fortified gate on the northern access to the central temple. The majority of the ancillary buildings, such as the kitchen and the refectory, are located in the south-east corner, but there were also a few structures to be found in the north-east corner. Epigraphic records testify that the cultural and religious life of this great Vihara, were closely linked with the contemporary Buddhist centres of fame and history at Bohdgaya and Nalanda, many Buddhist treatises were completed at Paharpur, a centre where the Vajrayana trend of Mahayana Buddhism was practiced. Today, Paharpur is the most spectacular and magnificent monument in Bangladesh and the second largest single Buddhist monastery on south of the Himalayas. Criterion (i) : This monastery-city represents a unique artistic achievement. The symmetrical layout and massively built single unit of the monastery was perfectly adapted to its religious function. Its simple, harmonious lines and its profusion of carved decoration, in stone and terracotta, are important artistic masterpieces. Criterion (ii) : The striking architectural form introduced at Paharpur on a grand scale for the first time in Asia, profoundly influenced the subsequent construction of temples of Pagan in Myanmar and Loro-Jongrang and Chandi Sewer temples in central Java. It also continued to influence Buddhist architecture as far away as Cambodia. The craftsmanship of Paharpur terracotta still endures since the 8 th century A.D. in the whole of deltaic lands around. Criterion (vi) : Somapura Mahavihara, the Great Monastery evidences the rise of Maharaja Buddhism in Bengal from the 7 th century onwards. It became a renowned centre of Buddhist religion and culture during the royal Patronage of Pala Dynasty and was a renowned intellectual centre until the 17 th century. Integrity At present, only the archaeological boundaries have been established at the site, which could be regarded as the boundaries of the property. These boundaries include all required attributes to express its Outstanding Universal Value. However, the potential of mining activities in the vicinity of the property, as noted by the Committee at the time of inscription, highlights the urgency of establishing the boundaries of buffer zone for the property, which would need to take into account the natural environment surrounding the monument to maintain visual relationships between the architecture and the setting. Provisions for the management of the buffer zone need to be identified and implemented. Concerning to the material integrity of the property, the still uncovered part of the central shrine, as well as some terracotta plaques, are gradually deteriorating due to environmental element such as salinity and vegetal germination. This constitutes a threat to the physical integrity of the fabric and needs to be attended to. Authenticity The authenticity of the property in terms of materials and substance and character has been compromised by interventions, including consolidation, substantial repair and reconstruction of the facial brickwork of the walls, which have prioritised presentation. In addition, the introduction of slat laden bricks and mortar as far back as in the conservation works of the 1930’s has further aggravated the situation. Vandalism, theft and increasing decay of some of the terracotta plaques have been the reasons for their removal from the main monument. The interventions can no longer be reversed so all future conservation and maintenance works shall focus mainly on the stabilisation of the monument to ensure that it is preserved in its present form. To ensure that authenticity is not further compromised, conservation policies need to be developed and implemented, to ensure that structural conservation meets current standards and promotes the use of traditional materials and local craftsmanship. Protection and management requirements The whole complex, perimeter along with lofty central shrine, lies within an area protected by the government and supervised regularly by the local office. National legislation includes the Antiquities Act (1968, amended ordinance in 1976), Immovable Antiquities Preservation Rules, the Conservation Manual (1922) and the Archaeological Works Code (1938). Management and conservation of the World Heritage property and other related monuments in the vicinity is the responsibility of the Department of Archaeology. Besides, for the regular maintenance of the site, the responsibilities of the site management is carried by an office of the custodian under the overall supervision of a regional director guided by director general of the Department of Archaeology, People´s Republic of Bangladesh. A comprehensive management plan including conservation policies and provisions for a buffer zone will be drafted under the project South Asia Tourism Infrastructure Development Project- Bangladesh portion 2009-2014. Adequate human, financial and technical resources will need to be allocated for the sustained operation of the identified management system and for the continuous implementation of the conservation and maintenance plans so as to ensure the long term protection of the property."
+      },
+      "classification": {
+        "category": {
+          "name": "Cultural",
+          "id": 1
+        },
+        "criteria": {
+          "cultural": [
+            1,
+            2
+          ],
+          "natural": [],
+          "all": [
+            1,
+            2
+          ],
+          "display": "(i)(ii)",
+          "count": 2,
+          "type": "Cultural"
+        },
+        "area": {
+          "hectares": 0,
+          "square_km": 0.0,
+          "square_miles": 0.0,
+          "available": true
+        }
+      },
+      "temporal": {
+        "inscription": {
+          "primary_date": 1985,
+          "all_dates": [
+            1985
+          ],
+          "extensions": [],
+          "timeline": [
+            {
+              "year": 1985,
+              "event": "Inscribed"
+            }
+          ],
+          "extension_count": 0
+        },
+        "danger_status": {
+          "is_endangered": false,
+          "details": null,
+          "date_end": null
+        }
+      },
+      "visual": {
+        "main_image": {
+          "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/files/32b9833e8bb6a2b7296414b2fd62a317",
+          "filename": "site_0322_0001.jpg",
+          "dimensions": {
+            "width": 7360,
+            "height": 4912
+          },
+          "available": true,
+          "source": "main_image"
+        },
+        "gallery": {
+          "urls": [
+            "https://whc.unesco.org/document/110287/site_0322_0001.jpg",
+            "https://whc.unesco.org/document/121902/site_0322_0004.jpg",
+            "https://whc.unesco.org/document/121903/site_0322_0005.jpg",
+            "https://whc.unesco.org/document/121904/site_0322_0006.jpg",
+            "https://whc.unesco.org/document/121905/site_0322_0007.jpg",
+            "https://whc.unesco.org/document/121906/site_0322_0008.jpg",
+            "https://whc.unesco.org/document/121907/site_0322_0009.jpg",
+            "https://whc.unesco.org/document/121908/site_0322_0010.jpg",
+            "https://whc.unesco.org/document/121909/site_0322_0011.jpg",
+            "https://whc.unesco.org/document/121910/site_0322_0012.jpg",
+            "https://whc.unesco.org/document/124866/site_0322_0013.jpg",
+            "https://whc.unesco.org/document/124867/site_0322_0014.jpg",
+            "https://whc.unesco.org/document/124868/site_0322_0015.jpg",
+            "https://whc.unesco.org/document/124869/site_0322_0016.jpg",
+            "https://whc.unesco.org/document/124874/site_0322_0018.jpg"
+          ],
+          "count": 15
+        }
+      },
+      "components": {
+        "count": 1,
+        "locations": [
+          {
+            "name": "Ruins of the Buddhist Vihara at Paharpur",
+            "ref": "322",
+            "latitude": 25.03333333,
+            "longitude": 88.98333333
+          }
+        ]
+      },
+      "links": {
+        "unesco_official": "https://whc.unesco.org/en/list/322",
+        "unesco_documents": "https://whc.unesco.org/en/list/322/documents",
+        "unesco_gallery": "https://whc.unesco.org/en/list/322/gallery",
+        "unesco_map": "https://whc.unesco.org/en/list/322/map",
+        "wikipedia": null,
+        "wikidata": null,
+        "official_website": null
+      },
+      "geographic_context": {
+        "continent": "Unknown",
+        "geographic_type": "Urban",
+        "has_coordinates": false,
+        "is_coastal": false
+      },
+      "historical_context": {
+        "decade": "1980s",
+        "era": "Expansion Period (1980-1989)",
+        "age_years": 40,
+        "inscription_year": 1985
+      },
+      "metadata": {
+        "data_source": "UNESCO World Heritage Centre",
+        "data_provider": "UNESCO",
+        "license": "UNESCO Copyright",
+        "attribution": "Data provided by UNESCO World Heritage Centre (whc.unesco.org)",
+        "last_updated": "2025-12-03",
+        "version": "2024"
+      },
+      "search_text": "Ruins of the Buddhist Vihara at Paharpur Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple, harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia. Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple, harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia. Bangladesh Asia and the Pacific Cultural"
+    }
+  ]
+}
