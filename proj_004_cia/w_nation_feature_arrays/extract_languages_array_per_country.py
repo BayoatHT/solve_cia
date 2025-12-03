@@ -39,5 +39,5 @@ def get_languages(verbose: bool = False) -> Dict[str, List[dict]]:
 if __name__ == "__main__":
     from pprint import pprint
     data = get_languages(verbose=True)
-    print("\nSample output (ESP):")
-    pprint(data.get('ESP', []))
+    print("\nSample output (NGA):")
+    pprint(data.get('NGA', []))

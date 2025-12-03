@@ -193,8 +193,8 @@ def main():
 if __name__ == "__main__":
     # --------------------------------------------------------------------------------------------------
     # Configure test extraction here:
-    TEST_CATEGORY = "Geography"
-    TEST_SECTION = "elevation"  # Set to None to extract all sections
+    TEST_CATEGORY = "People and Society"
+    TEST_SECTION = "languages"  # Set to None to extract all sections
     # --------------------------------------------------------------------------------------------------
 
     # If command line args provided, use main(), otherwise use test config
