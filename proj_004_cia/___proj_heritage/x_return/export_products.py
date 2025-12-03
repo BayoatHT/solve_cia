@@ -296,3 +296,58 @@ def export_all_products(data: Dict) -> None:
     app_logger.info("=" * 60)
     app_logger.success("✓ ALL PRODUCTS EXPORTED (JSON, GeoJSON, CSV, Lightweight)")
     app_logger.info("=" * 60)
+
+
+if __name__ == "__main__":
+    """Test product export with small dataset."""
+    from proj_004_cia.___proj_heritage.e_01_extract import run_full_pipeline
+    from pathlib import Path
+
+    print("=" * 70)
+    print("EXPORT PRODUCTS TEST")
+    print("=" * 70)
+
+    # Configuration
+    TEST_MODE = True  # Set to False for full export
+
+    print("\nRunning extraction pipeline...")
+    data = run_full_pipeline(export_products=False)  # Get data without exporting
+
+    print(f"\n✓ Pipeline complete:")
+    print(f"  Normalized sites: {len(data['normalized_sites'])}")
+    print(f"  Countries: {len(data['aggregations']['by_country'])}")
+    print(f"  Regions: {len(data['aggregations']['by_region'])}")
+    print(f"  Categories: {len(data['aggregations']['by_category'])}")
+
+    # Export products
+    print("\nExporting all products...")
+    print("-" * 70)
+
+    export_all_products(data)
+
+    # Verify exports
+    output_dir = Path(__file__).parents[1] / "y_to_product"
+
+    print("\n✓ Export complete! Checking outputs...")
+    print("-" * 70)
+
+    # Check directories
+    dirs_to_check = [
+        "complete",
+        "sites_by_key",
+        "sites_by_country",
+        "sites_by_region",
+        "sites_by_category"
+    ]
+
+    for dir_name in dirs_to_check:
+        dir_path = output_dir / dir_name
+        if dir_path.exists():
+            file_count = len(list(dir_path.glob("*.json"))) + len(list(dir_path.glob("*.csv"))) + len(list(dir_path.glob("*.geojson")))
+            print(f"✓ {dir_name:25} {file_count:4} files")
+        else:
+            print(f"✗ {dir_name:25} NOT FOUND")
+
+    print("\n" + "=" * 70)
+    print("✓ Export products test completed!")
+    print("=" * 70)

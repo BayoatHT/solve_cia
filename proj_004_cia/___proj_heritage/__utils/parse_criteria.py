@@ -231,3 +231,99 @@ def validate_criteria(criteria_numbers: List[int], criteria_type: str) -> bool:
         return False
 
     return all(c in valid_range for c in criteria_numbers)
+
+
+if __name__ == "__main__":
+    """Test criteria parsing utilities with UNESCO examples."""
+
+    print("=" * 70)
+    print("CRITERIA PARSING UTILITIES TEST")
+    print("=" * 70)
+
+    # Test 1: Parse criteria string
+    print("\n1. PARSE CRITERIA STRING")
+    print("-" * 70)
+
+    criteria_tests = [
+        ("c1, c2, c3", 'cultural', "Cultural criteria"),
+        ("n7, n8, n10", 'natural', "Natural criteria"),
+        ("c1", 'cultural', "Single criterion"),
+        ("", 'cultural', "Empty string"),
+        (None, 'natural', "None value"),
+    ]
+
+    for criteria_str, ctype, description in criteria_tests:
+        result = parse_criteria_string(criteria_str, ctype)
+        print(f"{description:25} Input: {repr(criteria_str):20} Type: {ctype:10} → {result}")
+
+    # Test 2: Parse all criteria
+    print("\n2. PARSE ALL CRITERIA (Full structure)")
+    print("-" * 70)
+
+    full_tests = [
+        ("c1, c2, c3", None, "(i)(ii)(iii)", "Butrint - Cultural only"),
+        (None, "n7, n8, n9, n10", "(vii)(viii)(ix)(x)", "Natural site"),
+        ("c3, c4", "n7, n9", "(iii)(iv)(vii)(ix)", "Mixed site"),
+    ]
+
+    for cultural, natural, display, description in full_tests:
+        result = parse_criteria(cultural, natural, display)
+        print(f"\nSite: {description}")
+        print(f"  Cultural: {result['cultural']}")
+        print(f"  Natural:  {result['natural']}")
+        print(f"  All:      {result['all']}")
+        print(f"  Display:  {result['display']}")
+        print(f"  Count:    {result['count']}")
+        print(f"  Type:     {result['type']}")
+
+    # Test 3: Criteria to Roman numerals
+    print("\n3. CRITERIA TO ROMAN NUMERALS")
+    print("-" * 70)
+
+    roman_tests = [
+        ([1, 2, 3], 'cultural', "Cultural criteria"),
+        ([7, 8, 9, 10], 'natural', "Natural criteria"),
+        ([1], 'cultural', "Single criterion"),
+        ([4, 5, 6], 'cultural', "Higher cultural numbers"),
+    ]
+
+    for criteria, ctype, description in roman_tests:
+        roman = criteria_to_roman(criteria, ctype)
+        print(f"{description:30} {criteria} → {roman}")
+
+    # Test 4: Get criteria descriptions
+    print("\n4. GET CRITERIA DESCRIPTIONS")
+    print("-" * 70)
+
+    print("Cultural Criteria (i-vi):")
+    cultural_desc = get_criteria_descriptions([1, 2, 3], 'cultural')
+    for item in cultural_desc:
+        print(f"  {item['code']:3} {item['roman']:5} - {item['description']}")
+
+    print("\nNatural Criteria (vii-x):")
+    natural_desc = get_criteria_descriptions([7, 8], 'natural')
+    for item in natural_desc:
+        print(f"  {item['code']:3} {item['roman']:6} - {item['description']}")
+
+    # Test 5: Validate criteria
+    print("\n5. VALIDATE CRITERIA")
+    print("-" * 70)
+
+    validation_tests = [
+        ([1, 2, 3], 'cultural', True, "Valid cultural"),
+        ([7, 8], 'natural', True, "Valid natural"),
+        ([7, 8], 'cultural', False, "Natural in cultural"),
+        ([1, 2], 'natural', False, "Cultural in natural"),
+        ([1, 7], 'mixed', False, "Invalid type"),
+        ([1, 2, 11], 'cultural', False, "Out of range"),
+    ]
+
+    for criteria, ctype, expected, description in validation_tests:
+        valid = validate_criteria(criteria, ctype)
+        status = "✓" if valid == expected else "✗"
+        print(f"{status} {description:30} {criteria} as {ctype:10} → Valid: {valid}")
+
+    # Summary
+    print("\n" + "=" * 70)
+    print("✓ All criteria parsing tests completed!")
+    print("=" * 70)

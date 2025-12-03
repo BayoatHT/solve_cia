@@ -153,3 +153,58 @@ def get_sites_for_country(country_data: Dict, iso3_code: str) -> List[str]:
     if iso3_code in country_data:
         return country_data[iso3_code]['sites']
     return []
+
+
+if __name__ == "__main__":
+    """Test country aggregation with real data."""
+    from proj_004_cia.___proj_heritage.a_01_load import load_heritage_data
+    from proj_004_cia.___proj_heritage.c_01_normalize import normalize_all_sites
+
+    print("=" * 70)
+    print("AGGREGATE BY COUNTRY TEST")
+    print("=" * 70)
+
+    # Load and normalize
+    print("\nLoading data...")
+    sites = load_heritage_data()
+    normalized = normalize_all_sites(sites)
+
+    print(f"Aggregating {len(normalized)} sites by country...")
+    by_country = aggregate_by_country(normalized)
+
+    print(f"\n✓ Aggregated into {len(by_country)} countries")
+    print("-" * 70)
+
+    # Top 10 countries
+    top_countries = sorted(by_country.items(), key=lambda x: len(x[1]), reverse=True)[:10]
+
+    print("\nTop 10 Countries by Site Count:")
+    for i, (iso3, country_sites) in enumerate(top_countries, 1):
+        country_name = country_sites[0]['geography']['countries'][iso3]['name']
+        print(f"{i:2}. {country_name:30} ({iso3}): {len(country_sites):3} sites")
+
+    # Sample country details
+    sample_iso3 = top_countries[0][0]
+    sample_sites = by_country[sample_iso3]
+    sample_name = sample_sites[0]['geography']['countries'][sample_iso3]['name']
+
+    print(f"\nSample Country: {sample_name} ({sample_iso3})")
+    print("-" * 70)
+    print(f"Total sites: {len(sample_sites)}")
+
+    categories = {}
+    for site in sample_sites:
+        cat = site['classification']['category']['name']
+        categories[cat] = categories.get(cat, 0) + 1
+
+    print(f"\nBy Category:")
+    for cat, count in sorted(categories.items()):
+        print(f"  {cat:15} {count:3}")
+
+    print(f"\nSample Sites (first 5):")
+    for site in sample_sites[:5]:
+        print(f"  - {site['names']['en']}")
+
+    print("\n" + "=" * 70)
+    print("✓ Country aggregation test completed!")
+    print("=" * 70)
